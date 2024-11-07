@@ -37,11 +37,15 @@ headers = {
 
 querys = ['floresta incêndio']
 
+#testar o datetime
+
 parametros = {
     'q': querys,
     'limit': 30,
     # 'cursor':'100',
-    'lang': 'pt'
+    'lang': 'pt',
+    'since':  ,
+    'until':  
 }
 
 ##adquirindo os dados
@@ -64,18 +68,18 @@ else:
 #Add o banco de dados  
 
 ##LENDO O JSON
-with open(f'src/data/floresta_{datetime.now().strftime("%Y-%m-%d")}.json', 'r', encoding='utf-8') as file:
-    data = json.load(file);
+# with open(f'src/data/floresta_{datetime.now().strftime("%Y-%m-%d")}.json', 'r', encoding='utf-8') as file:
+#     data = json.load(file);
     
-con = sqlite3.connect("src/bd/bluesky_db")
+# con = sqlite3.connect("src/bd/bluesky_db")
 
-cur = con.cursor()
+# cur = con.cursor()
 
 
-## EM BREVE
-for item in data['posts']:
-    cur.execute("INSERT INTO")
-    cur.execute("INSERT INTO")
+# ## EM BREVE
+# for item in data['posts']:
+#     cur.execute("INSERT INTO")
+#     cur.execute("INSERT INTO")
     
-con.commit()
-con.close()
+# con.commit()
+# con.close()
