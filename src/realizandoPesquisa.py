@@ -2,6 +2,7 @@ import os
 import requests
 import json
 from dotenv import load_dotenv
+import sqlite3
 
 load_dotenv()
 
@@ -33,22 +34,40 @@ headers = {
     'Authorization': f'Bearer {token}',
 }
 
-querys = ['floresta' , 'incêndio']
+querys = ['floresta incêndio']
 
 parametros = {
     'q': querys,
-    'sort': 'top',
-    'lang': 'pt',
-    'limit': 100
+    'limit': 30,
+    # 'cursor':'100',
+    'lang': 'pt'
 }
 
+##adquirindo os dados
 resposta_pesquisa = requests.get(url_search, headers=headers, params=parametros);
+
+base_dir = os.path.abspath("src/data")
+os.makedirs(base_dir, exist_ok=True)
 
 if resposta_pesquisa.status_code == 200:
     resposta_pesquisa_data = resposta_pesquisa.json()
-    with open('search_data.json', 'w', encoding='utf-8') as json_file:
+    with open('src/data/floresta.json', 'w', encoding='utf-8') as json_file:
          json.dump(resposta_pesquisa_data, json_file, ensure_ascii=False, indent=4)
 else:
     print(f'ERROR: {resposta_pesquisa.status_code}')
     print(resposta_pesquisa.text)
     
+
+#Add o banco de dados  
+
+##LENDO O JSON
+with open('src/data/floresta_incendio.json', 'r', encoding='utf-8') as file:
+    data = json.load(file);
+    
+con = sqlite3.connect("src/bd/bluesky_db");
+
+cur = con.cursor();
+
+## EM BREVE
+for item in data:
+    cur.execute()
