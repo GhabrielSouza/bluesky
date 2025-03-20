@@ -1,0 +1,384 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:wwh2mrfrqc36zbgsguntus2e/app.bsky.feed.post/3lcfj5j4ewc2i",
+            "cid": "bafyreibysgwowp54eoad4bcqzzzzukj5ywvutohzd7bgxfll25mcgbcbru",
+            "author": {
+                "did": "did:plc:wwh2mrfrqc36zbgsguntus2e",
+                "handle": "bancariospb.bsky.social",
+                "displayName": "Sindicato dos Bancários da Paraíba",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wwh2mrfrqc36zbgsguntus2e/bafkreihqkhhw3fpo64be5haq22sqlz5rx22ckpizh3f6sswdxkdpiwje6m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T02:36:55.121Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T11:15:05.091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigg5dtsvilwa62uksboyr6tpfvuqnrnspqg6vbsrmwkit5nxrhseu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 623584
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A emergência climática está posta. Já estamos vendo e vivendo, no Brasil ou no mundo, ondas de calor extremo, secas severas, desertificação de biomas, derretimento do gelo polar com aumento do nível do mar, tempestades, aumento no número de tornados.\n\nVeja a matéria completa no site."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wwh2mrfrqc36zbgsguntus2e/bafkreigg5dtsvilwa62uksboyr6tpfvuqnrnspqg6vbsrmwkit5nxrhseu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wwh2mrfrqc36zbgsguntus2e/bafkreigg5dtsvilwa62uksboyr6tpfvuqnrnspqg6vbsrmwkit5nxrhseu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T11:15:08.946Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wcxadxmqj4ysizptuw7n33vb/app.bsky.feed.post/3lb7n7kzjrs2k",
+            "cid": "bafyreievm6fnniaomttz2kc2pmobtdm7ha5t7pyklfeeded56zwt4qzqoy",
+            "author": {
+                "did": "did:plc:wcxadxmqj4ysizptuw7n33vb",
+                "handle": "willian1975.bsky.social",
+                "displayName": "Brabuleto Azul",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wcxadxmqj4ysizptuw7n33vb/bafkreihzh4vniqf7qspprkflur2d76f3qglbzpmgu3gia7d3abz2qxkf3i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T09:07:26.035Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T09:46:39.116Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiejpchcc5snshaswk7gwzz4o6alcw3lsx4iamapkes2l47cpokgy4",
+                        "uri": "at://did:plc:3ugu3oyuym7wy3fal3yto76o/app.bsky.feed.post/3lb7lckbc3b2j"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Foi de derretimento da calota polar"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:3ugu3oyuym7wy3fal3yto76o/app.bsky.feed.post/3lb7lckbc3b2j",
+                    "cid": "bafyreiejpchcc5snshaswk7gwzz4o6alcw3lsx4iamapkes2l47cpokgy4",
+                    "author": {
+                        "did": "did:plc:3ugu3oyuym7wy3fal3yto76o",
+                        "handle": "jotacorreria.bsky.social",
+                        "displayName": "J.",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ugu3oyuym7wy3fal3yto76o/bafkreibqczwnyh6w642ajzi6fqtvtc4jg4dto3z7d5qasa2dlmewaqqkty@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-20T10:17:06.530Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-18T09:12:31.643Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreibic23hv3waszcdmlx5hmbenoy7cxv6zlupewx55dg4wmg7rcgvjq"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 142504
+                                },
+                                "title": "Apóstolo Rina, fundador da igreja Bola de Neve, morre em SP | São Paulo | G1",
+                                "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/17/apostolo-rina-fundador-da-igreja-bola-de-neve-morre-em-sp.ghtml"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Bom, se deus quis assim né"
+                    },
+                    "labels": [],
+                    "likeCount": 22,
+                    "replyCount": 0,
+                    "repostCount": 5,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-11-18T09:12:31.959Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/17/apostolo-rina-fundador-da-igreja-bola-de-neve-morre-em-sp.ghtml",
+                                "title": "Apóstolo Rina, fundador da igreja Bola de Neve, morre em SP | São Paulo | G1",
+                                "description": "",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ugu3oyuym7wy3fal3yto76o/bafkreibic23hv3waszcdmlx5hmbenoy7cxv6zlupewx55dg4wmg7rcgvjq@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T09:46:40.150Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3l5hxfprkiu2e",
+            "cid": "bafyreicge3jmfksb63hio5denpqcuw7rvmkwbipp6bhhffq62saua3j6de",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T19:29:34.119Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Descubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação.\nVersão em áudio de matéria do Portal EcoD...",
+                        "title": "Os impactos regionais das Mudanças Climáticas by Podcast EcoDebate",
+                        "uri": "https://podcasters.spotify.com/pod/show/portal-ecodebate/episodes/Os-impactos-regionais-das-Mudanas-Climticas-e2p3kqs/a-abiboq8"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Podcast"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 237
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://podcasters.spotify.com/pod/show/portal-ecodebate/episodes/Os-impactos-regionais-das-Mudanas-Climticas-e2p3kqs/a-abiboq8"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 259
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os impactos regionais das Mudanças Climáticas\n\nDescubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação\n\nOuça a matéria no #Podcast do EcoDebate\npodcasters.spotify.com/pod/show/por..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://podcasters.spotify.com/pod/show/portal-ecodebate/episodes/Os-impactos-regionais-das-Mudanas-Climticas-e2p3kqs/a-abiboq8",
+                    "title": "Os impactos regionais das Mudanças Climáticas by Podcast EcoDebate",
+                    "description": "Descubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação.\nVersão em áudio de matéria do Portal EcoD..."
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T19:29:34.119Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3l5higasvii2u",
+            "cid": "bafyreifkreb5w6fueazy6dify5jidwloe75xjg4igfbboqhxsks4cnejoi",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T15:01:25.931Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Descubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibc3vnkqrspefc4ceds5jwupzcwtydf2st27ctxubbvu57t7xjic4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 566128
+                        },
+                        "title": "Os impactos regionais das Mudanças Climáticas",
+                        "uri": "https://tinyurl.com/nrr6xtfh"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://tinyurl.com/nrr6xtfh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 216
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os impactos regionais das Mudanças Climáticas\n\nDescubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação\ntinyurl.com/nrr6xtfh"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://tinyurl.com/nrr6xtfh",
+                    "title": "Os impactos regionais das Mudanças Climáticas",
+                    "description": "Descubra os impactos regionais das mudanças climáticas, como inundações, secas e derretimento polar, e a importância de ações locais e globais para adaptação",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreibc3vnkqrspefc4ceds5jwupzcwtydf2st27ctxubbvu57t7xjic4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T15:01:25.931Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yep7pjr6k4glvbx6k2ibhdtv/app.bsky.feed.post/3l4rnk2yxmd2l",
+            "cid": "bafyreihrcnaqpq4ujpchnk5g5le7xp24c7wdvvm7hawwzlhet7foufcmki",
+            "author": {
+                "did": "did:plc:yep7pjr6k4glvbx6k2ibhdtv",
+                "handle": "rosana543.bsky.social",
+                "displayName": "Rosana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yep7pjr6k4glvbx6k2ibhdtv/bafkreiabqopcgkxdqdvcxep5vjaigqohlihxv7rtr7kujeybor3njuqvjq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T23:22:47.404Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T22:34:28.112Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicwtd3ouspojmrruveunor2vmosymgrnas4srtwpcrqnrazygiesy",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4rhb2dslo2e"
+                    },
+                    "root": {
+                        "cid": "bafyreicwtd3ouspojmrruveunor2vmosymgrnas4srtwpcrqnrazygiesy",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4rhb2dslo2e"
+                    }
+                },
+                "text": "O aquecimento e derretimento polar, está afetando a terra."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T22:34:28.112Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3r26vqhhyc7pdjx2vnlk7kcd/app.bsky.feed.post/3l4o73de65d23",
+            "cid": "bafyreidpam2hj4ku74igp3iavqxazs6v3an6oda5d6lj7tcoftjnevgmby",
+            "author": {
+                "did": "did:plc:3r26vqhhyc7pdjx2vnlk7kcd",
+                "handle": "hildojr.bsky.social",
+                "displayName": "Hildo Junior",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3r26vqhhyc7pdjx2vnlk7kcd/bafkreiclgpeyytqfd27ziaaoamge37kc7adetd65m5d6ot52bjxnyjxibi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-27T15:00:36.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T13:37:42.079Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Toda vez que passa um roqueiro bonito na TV morre um filhote de Lemmy e isso é tão preocupante quanto o derretimento da calota polar"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T13:37:42.079Z",
+            "labels": []
+        }
+    ]
+}

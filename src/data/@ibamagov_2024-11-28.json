@@ -1,0 +1,539 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcre3h7wc2w",
+            "cid": "bafyreiavmmyko54jdmsxpnfdjezbkn25vfdwm2nmpasf254jhdyupqbnhq",
+            "author": {
+                "did": "did:plc:s5zbrtjyp4xd6kx5by4uz3pm",
+                "handle": "casacivilbr.bsky.social",
+                "displayName": "Casa Civil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5zbrtjyp4xd6kx5by4uz3pm/bafkreibauab5usen6di7xkqco4lmnoaf47e7kvvnldkaskb3rvp2xlht5u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:47:08.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T15:38:44.736Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefftqtzo2rmicvy5dkqi4ird6pegv6jywhulqojzdq7t6cm6of4a",
+                        "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcrdvz7ks2w"
+                    },
+                    "root": {
+                        "cid": "bafyreigjnrbyyhqxnm7ozmbs7wnokxz7onmxwmgdd7krh5hu6rzhfemodm",
+                        "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcrchcua22w"
+                    }
+                },
+                "text": "Coordenada pela Casa Civil da Presidência da República, a operação conta com a participação de 20 órgãos federais, como @ibamagov, @funaioficial, @policiafederal, @prf, @minpovosindigenas, @exercito_oficial, entre outros."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T15:38:46.737Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b6q52hcgtcc6vaaxdjasitsu/app.bsky.feed.post/3laj2h5fo7q24",
+            "cid": "bafyreifxtpzsnfsphovwek6fjjq2kvpne5sy4rjjoe2bwvyfhfq4fewshy",
+            "author": {
+                "did": "did:plc:b6q52hcgtcc6vaaxdjasitsu",
+                "handle": "cecyfernandes.bsky.social",
+                "displayName": "Cecy Fernades",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6q52hcgtcc6vaaxdjasitsu/bafkreib4j4mew2ljfzkm4g6hqe52uplc63eh4gsqpwtikffebdgo7ieo24@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:b6q52hcgtcc6vaaxdjasitsu",
+                        "uri": "at://did:plc:b6q52hcgtcc6vaaxdjasitsu/app.bsky.actor.profile/self",
+                        "cid": "bafyreictkpvl7t5viz3jr7rpzc7suwkjsqhvmn4orzjvjlr6y53qzbuyha",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-13T22:29:41.559Z"
+                    }
+                ],
+                "createdAt": "2024-04-13T22:29:42.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T10:12:17.987Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1440,
+                                "width": 1440
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibojthkyin73nwin6mml2dm2tqiirbv6k5dd2r4pnkmcjqwjika54"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 307704
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "boaiada"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 36,
+                            "byteStart": 28
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "currais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 68
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ibamagov"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 127,
+                            "byteStart": 118
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Ibama"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 134,
+                            "byteStart": 128
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PRF"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 136
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CPRH"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ilegalmente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 211,
+                            "byteStart": 199
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biomaamazônico"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 212
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pará"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SerraTalhada/Pernambuco"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 273,
+                            "byteStart": 249
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chore @ricardosallesmma Tua #boaiada está com cabresto e detida em #currais. Que seria um lugar indicado para você. #ibamagov\n#Ibama, #PRF e #CPRH, aprenderam  234 m³ de madeira serrada extraída #ilegalmente #biomaamazônico. Os Foi no  #Pará, #SerraTalhada/Pernambuco."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b6q52hcgtcc6vaaxdjasitsu/bafkreibojthkyin73nwin6mml2dm2tqiirbv6k5dd2r4pnkmcjqwjika54@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:b6q52hcgtcc6vaaxdjasitsu/bafkreibojthkyin73nwin6mml2dm2tqiirbv6k5dd2r4pnkmcjqwjika54@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1440,
+                            "width": 1440
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T10:12:18.784Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jm565etav7qdy2pss4hfatne/app.bsky.feed.post/3l47vvrwjxo26",
+            "cid": "bafyreigystlmqgcq2jhi4otxusvtoogotpdhuldy2dhguoi2sprg6dgzem",
+            "author": {
+                "did": "did:plc:jm565etav7qdy2pss4hfatne",
+                "handle": "secom.gov.br",
+                "displayName": "SecomVc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreic3o5ikszgjckcgntyxpnkh7hxnwqbnw442sfu6zqmlxoltgd4uz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:29:53.922Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T21:16:15.663Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreigyvqbob7qulxiulkv34bkan57vq56p4ou6bodcz22rk3vq57w5lq"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 12550850
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Ibama/Prevfogo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 15,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "repost"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 293,
+                            "byteStart": 286
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#Ibama/Prevfogo\n\nOs esforços são contínuos, dia e noite. O combate aos incêndios florestais exige técnica, capacitação e luta.\nAssim trabalham os brigadistas e todos os profissionais que atuam nesse momento de mudança climática que vivemos não só no Brasil, mas no planeta.\n\n#repost @ibamagov"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreigyvqbob7qulxiulkv34bkan57vq56p4ou6bodcz22rk3vq57w5lq",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ajm565etav7qdy2pss4hfatne/bafkreigyvqbob7qulxiulkv34bkan57vq56p4ou6bodcz22rk3vq57w5lq/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ajm565etav7qdy2pss4hfatne/bafkreigyvqbob7qulxiulkv34bkan57vq56p4ou6bodcz22rk3vq57w5lq/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 57,
+            "likeCount": 121,
+            "quoteCount": 7,
+            "indexedAt": "2024-09-15T21:16:15.663Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lom4g5xwdtctddwyryfqtkh4/app.bsky.feed.post/3l47gz7ef5l2e",
+            "cid": "bafyreieiicuxqeggrtl3s4o5plao5sge3q2r5l5uspdy5l3foxjlktj4ui",
+            "author": {
+                "did": "did:plc:lom4g5xwdtctddwyryfqtkh4",
+                "handle": "nimsai.bsky.social",
+                "displayName": "Nimsai⁷｡⁠◕⁠‿⁠◕⁠｡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lom4g5xwdtctddwyryfqtkh4/bafkreievcsrhstuk7z4pobpoe3ffjzdzyjdi5btdrj2d4k367pd5oqlxhm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:55:35.550Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T16:49:46.033Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.",
+                        "title": "Login • Instagram",
+                        "uri": "https://www.instagram.com/institutoipe?igsh=MTJqdWU1amNsMGUwOA=="
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/institutoipe?igsh=MTJqdWU1amNsMGUwOA=="
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 97,
+                            "byteStart": 64
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/ibamagov?igsh=MXducHNiYzVlN3Nkbw=="
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 142,
+                            "byteStart": 109
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/institutomamiraua?igsh=bTUydjEyN3FnY2Y="
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 198,
+                            "byteStart": 165
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/marinasilvaoficial?igsh=c3V2YWVwbDlsb2d2"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 276,
+                            "byteStart": 243
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie2txwywwlj6lkpclh2s2pqelnhmr3fkbovbhy3c5k7ysrjtz4xja",
+                        "uri": "at://did:plc:p7n6gqzswfv3peqeodohvkbv/app.bsky.feed.post/3l44ihi2ve62f"
+                    },
+                    "root": {
+                        "cid": "bafyreidfrlwgu7vnihq7wdbtvegfrfgktts4cbno5dizbnnsfdz7xbl4rm",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l44hwmnlup2o"
+                    }
+                },
+                "text": "Dê uma olhada nesses perfis do IG (ou siga)\n\nInstitutoipe 👇\nwww.instagram.com/institutoipe...\n\nIbama👇\nwww.instagram.com/ibamagov?igs...\n\nInstituto Mamirauá \nwww.instagram.com/institutomam...\n\nMinistra do meio-ambiente Marina Silva👇\nwww.instagram.com/marinasilvao..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.instagram.com/institutoipe?igsh=MTJqdWU1amNsMGUwOA==",
+                    "title": "Login • Instagram",
+                    "description": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world."
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T16:49:45.218Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vpqdbpq2lc3tu472vgw3rqdg/app.bsky.feed.post/3l2yfaj5wgk27",
+            "cid": "bafyreiflamgh2w7ehmcrn4upv6aevb6t54lgmy2tdn3pvzzwe2rn5vcfqq",
+            "author": {
+                "did": "did:plc:vpqdbpq2lc3tu472vgw3rqdg",
+                "handle": "janetemelo.bsky.social",
+                "displayName": "Janete Melo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreigcfb4cba4k3xjvpial5t6cz4y3ljvlonbnl77vjadzrwgaoib2mi@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T00:20:10.426Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-31T04:04:17.748Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1358,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiajtyedocctjaxp2pnyek5orfaynthcshtgsswqm45qs43pcckcwq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 315989
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2024/agosto/gestao-autoriza-concursos-com-810-vagas-para-a-ibama-e-icmbio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 89
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "concurso"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 125,
+                            "byteStart": 116
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Ibama"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 132,
+                            "byteStart": 126
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ICMbio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 133
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Gestão autoriza concursos públicos com 810 vagas para @ibamagov e @canalicmbio \n\nLeia:\nwww.gov.br/gestao/pt-br...\n#concurso #Ibama #ICMbio"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreiajtyedocctjaxp2pnyek5orfaynthcshtgsswqm45qs43pcckcwq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreiajtyedocctjaxp2pnyek5orfaynthcshtgsswqm45qs43pcckcwq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1358,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-31T04:04:14.037Z",
+            "labels": []
+        }
+    ]
+}

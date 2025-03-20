@@ -1,0 +1,763 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:agffje4deassk2lqk7mcpew7/app.bsky.feed.post/3l6kjrpsk7p2p",
+            "cid": "bafyreifiiynyriefnia7ndhaga4sr5kqf5yiwrreb4gomtwfhcaau3hw2i",
+            "author": {
+                "did": "did:plc:agffje4deassk2lqk7mcpew7",
+                "handle": "unipabr.bsky.social",
+                "displayName": "União Popular Anarquista - Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:agffje4deassk2lqk7mcpew7/bafkreicgptvt7ciaqccewvxg4lxu6i25j7mk5a7z6w4unjjtb5jwuenmsm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-01T19:18:53.104Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T13:28:55.038Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "As queimadas são uma estratégia de expansão territorial do agronegócio às custas da saúde pública e do equilíbrio ecológico dos biomas. Elas fazem parte do projeto da fração agrária da burguesia in…",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigkvo7hsagliswb2akgg3fdzlyqz677k5d2jubbb7rzdeaypicv2m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 509836
+                        },
+                        "title": "Queimadas como estratégia do agronegócio para a expansão territorial: Uma análise anarquista",
+                        "uri": "https://uniaoanarquista.wordpress.com/2024/10/12/queimadas-como-estrategia-do-agronegocio-para-a-expansao-territorial-uma-analise-anarquista/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://uniaoanarquista.wordpress.com/2024/10/12/queimadas-como-estrategia-do-agronegocio-para-a-expansao-territorial-uma-analise-anarquista/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 45,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 59,
+                            "byteStart": 46
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "criseclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 75,
+                            "byteStart": 60
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 86,
+                            "byteStart": 76
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "marinasilva"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 99,
+                            "byteStart": 87
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "lula"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 105,
+                            "byteStart": 100
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudancaclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 123,
+                            "byteStart": 106
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aquecimentoglobal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 142,
+                            "byteStart": 124
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:23lmpou652lkmshx6jfiunde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 172,
+                            "byteStart": 143
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "uniaoanarquista.wordpress.com/2024/10/12/q...\n#meioambiente #criseclimatica #queimadas #marinasilva #lula #mudancaclimatica #aquecimentoglobal @sabrinafernandes.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://uniaoanarquista.wordpress.com/2024/10/12/queimadas-como-estrategia-do-agronegocio-para-a-expansao-territorial-uma-analise-anarquista/",
+                    "title": "Queimadas como estratégia do agronegócio para a expansão territorial: Uma análise anarquista",
+                    "description": "As queimadas são uma estratégia de expansão territorial do agronegócio às custas da saúde pública e do equilíbrio ecológico dos biomas. Elas fazem parte do projeto da fração agrária da burguesia in…",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agffje4deassk2lqk7mcpew7/bafkreigkvo7hsagliswb2akgg3fdzlyqz677k5d2jubbb7rzdeaypicv2m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T13:28:55.038Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ewjjxc7fxfxs5pa4dyofapde/app.bsky.feed.post/3l45wvra7gr2v",
+            "cid": "bafyreie2s3pgn727o7uukepki2t4htnmftjdjbvyunmcgqarj3j2lz55pi",
+            "author": {
+                "did": "did:plc:ewjjxc7fxfxs5pa4dyofapde",
+                "handle": "ricardoabril.bsky.social",
+                "displayName": "Ricardo Abril Marinho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewjjxc7fxfxs5pa4dyofapde/bafkreifwmxsrwyayp4wz7ylff23x6y7as3w2kqgvo7tszauxerxnsavygq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T16:49:00.037Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T02:28:49.591Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Prédio do Congresso Nacional com foco na parte do Senado Federal e, ao fundo, fumaça subindo e acumulando no céu, como se saísse da cúpula do Senado.",
+                            "aspectRatio": {
+                                "height": 858,
+                                "width": 1079
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigyppo34q7mbpnink2rbk5kcysxesof4kuthoe5dyhr2ahz4yux7i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 567472
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fotografia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 61,
+                            "byteStart": 50
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 69,
+                            "byteStart": 62
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimada"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 79,
+                            "byteStart": 70
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "incendio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 89,
+                            "byteStart": 80
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudancaclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 107,
+                            "byteStart": 90
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pretoebranco"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 121,
+                            "byteStart": 108
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pb"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 125,
+                            "byteStart": 122
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bnw"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 126
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArchitecturePhotography"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 155,
+                            "byteStart": 131
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "architecture"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 156
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "modernism"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 180,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 181
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasilia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 196,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 202,
+                            "byteStart": 197
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "arquitetura"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 215,
+                            "byteStart": 203
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fire"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 216
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "photography"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climatechange"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 235
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Brasília em chamas \n\n__________\nBrasília, 2024\n\n#fotografia #brasil #queimada #incendio #mudancaclimatica #pretoebranco #pb #bnw #ArchitecturePhotography #architecture #modernism #agro #brasilia #seca #arquitetura #fire #photography #climatechange"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ewjjxc7fxfxs5pa4dyofapde/bafkreigyppo34q7mbpnink2rbk5kcysxesof4kuthoe5dyhr2ahz4yux7i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ewjjxc7fxfxs5pa4dyofapde/bafkreigyppo34q7mbpnink2rbk5kcysxesof4kuthoe5dyhr2ahz4yux7i@jpeg",
+                        "alt": "Prédio do Congresso Nacional com foco na parte do Senado Federal e, ao fundo, fumaça subindo e acumulando no céu, como se saísse da cúpula do Senado.",
+                        "aspectRatio": {
+                            "height": 858,
+                            "width": 1079
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T02:28:49.591Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ajzjx3odqyfohprxxmwpyyd4/app.bsky.feed.post/3kv3tpfdflk2p",
+            "cid": "bafyreigbggax7jztyw4zrzkdlwk3rz2zpwuhqfyj6gwbfhreh3t3j2uzkm",
+            "author": {
+                "did": "did:plc:ajzjx3odqyfohprxxmwpyyd4",
+                "handle": "filipealbani.bsky.social",
+                "displayName": "Filipe Albani",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ajzjx3odqyfohprxxmwpyyd4/bafkreigvjyl2bmxyz3bj3b6c46tdttmrdupq5i6yly2jxqudjrceebdfry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T13:51:52.040Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-17T04:29:53.609Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 452,
+                                "width": 678
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihkazlwasyfyt5vmbhaeldwdhv36jyt4vdkl6h6gwatg52lbo5qky"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 172792
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/IumtP5WuI_g?si=mGCGbT4NLUxp4_n_"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 167,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://vm.tiktok.com/ZMrFseRt7/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudancaclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 195
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aquecimentoglobal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 231,
+                            "byteStart": 213
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aposentado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 232
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gestorambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 260,
+                            "byteStart": 244
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "funcionalismopubli"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 280,
+                            "byteStart": 261
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "viral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 283
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fyp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Já tomou sua Filipill hoje?\nEpisódio 17\n\nSegunda de Primeira: ditado chinês\nHoje é dia de quê?\nRessaca do final de semana: meio ambiente\n\nyoutu.be/IumtP5WuI_g?...\n\nvm.tiktok.com/ZMrFseRt7/\n\n#mudancaclimatica #aquecimentoglobal #aposentado #gestorambiental #funcionalismopubli o #viral #fyp"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ajzjx3odqyfohprxxmwpyyd4/bafkreihkazlwasyfyt5vmbhaeldwdhv36jyt4vdkl6h6gwatg52lbo5qky@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ajzjx3odqyfohprxxmwpyyd4/bafkreihkazlwasyfyt5vmbhaeldwdhv36jyt4vdkl6h6gwatg52lbo5qky@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 452,
+                            "width": 678
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-17T04:29:53.609Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sjxm7co3dtxljtn7wxkedsnm/app.bsky.feed.post/3ksrwd7c7vl2j",
+            "cid": "bafyreig7l4wn7zwyznizdoe3gvbntrpqqphmqstlex5jwnibtoep3q7jlm",
+            "author": {
+                "did": "did:plc:sjxm7co3dtxljtn7wxkedsnm",
+                "handle": "hugobezerra.bsky.social",
+                "displayName": "Hugo Bezerra 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sjxm7co3dtxljtn7wxkedsnm/bafkreih4tcjvgnutkevrolhwmb4h6cobrry3ejzf3owo7yjkyeu5lwcpj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-29T04:05:50.661Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-18T18:59:45.630Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em evento de CartaCapital, o ministro afirmou que mesmo uma sociedade polarizada como a brasileira tem de se unir em um momento de calamidade",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiafgaxz34m6qpouokjzqlleed4oo5yvnyr7gxxit3ia4u7dz2x7cy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 687512
+                        },
+                        "title": "Crise no RS reforça necessidade de enfrentar a mudança climática e as fake news, diz Padilha",
+                        "uri": "https://www.cartacapital.com.br/cartaexpressa/crise-no-rs-reforca-necessidade-de-enfrentar-a-mudanca-climatica-e-as-fake-news-diz-padilha/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "RioGrandeDoSul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 9
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MudancaClimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 78,
+                            "byteStart": 61
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "FakeNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 93,
+                            "byteStart": 84
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Crise no #RioGrandeDoSul reforça necessidade de enfrentar a #MudancaClimatica e as #FakeNews, diz ministro Alexandre Padilha (PT)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.cartacapital.com.br/cartaexpressa/crise-no-rs-reforca-necessidade-de-enfrentar-a-mudanca-climatica-e-as-fake-news-diz-padilha/",
+                    "title": "Crise no RS reforça necessidade de enfrentar a mudança climática e as fake news, diz Padilha",
+                    "description": "Em evento de CartaCapital, o ministro afirmou que mesmo uma sociedade polarizada como a brasileira tem de se unir em um momento de calamidade",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sjxm7co3dtxljtn7wxkedsnm/bafkreiafgaxz34m6qpouokjzqlleed4oo5yvnyr7gxxit3ia4u7dz2x7cy@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 11,
+            "likeCount": 23,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-18T18:59:45.630Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xjxddwcqv43rtvbtoxat7kgm/app.bsky.feed.post/3kq533qvlry2a",
+            "cid": "bafyreigwlqbmczc7bbh6axmgpmosr4dognfxcnltfjfm4g3nb456y3ta2y",
+            "author": {
+                "did": "did:plc:xjxddwcqv43rtvbtoxat7kgm",
+                "handle": "verascherer.bsky.social",
+                "displayName": "Vera Scherer",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjxddwcqv43rtvbtoxat7kgm/bafkreif5cgvjdv6hglps7qua3mvhp63ltjdjjhiqi75zcecxron5wklls4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T22:09:28.663Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T01:07:12.374Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudancaclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 90,
+                            "byteStart": 73
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chove forte há 48 horas na grande Florianópolis, imaginem um dilúvio. #mudancaclimatica"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T01:07:12.374Z",
+            "labels": []
+        }
+    ]
+}

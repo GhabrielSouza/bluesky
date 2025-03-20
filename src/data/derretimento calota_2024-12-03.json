@@ -1,0 +1,135 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:wcxadxmqj4ysizptuw7n33vb/app.bsky.feed.post/3lb7n7kzjrs2k",
+            "cid": "bafyreievm6fnniaomttz2kc2pmobtdm7ha5t7pyklfeeded56zwt4qzqoy",
+            "author": {
+                "did": "did:plc:wcxadxmqj4ysizptuw7n33vb",
+                "handle": "willian1975.bsky.social",
+                "displayName": "Brabuleto Azul",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wcxadxmqj4ysizptuw7n33vb/bafkreihzh4vniqf7qspprkflur2d76f3qglbzpmgu3gia7d3abz2qxkf3i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T09:07:26.035Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T09:46:39.116Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiejpchcc5snshaswk7gwzz4o6alcw3lsx4iamapkes2l47cpokgy4",
+                        "uri": "at://did:plc:3ugu3oyuym7wy3fal3yto76o/app.bsky.feed.post/3lb7lckbc3b2j"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Foi de derretimento da calota polar"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:3ugu3oyuym7wy3fal3yto76o/app.bsky.feed.post/3lb7lckbc3b2j",
+                    "cid": "bafyreiejpchcc5snshaswk7gwzz4o6alcw3lsx4iamapkes2l47cpokgy4",
+                    "author": {
+                        "did": "did:plc:3ugu3oyuym7wy3fal3yto76o",
+                        "handle": "jotacorreria.bsky.social",
+                        "displayName": "J.",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ugu3oyuym7wy3fal3yto76o/bafkreibqczwnyh6w642ajzi6fqtvtc4jg4dto3z7d5qasa2dlmewaqqkty@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-20T10:17:06.530Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-18T09:12:31.643Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreibic23hv3waszcdmlx5hmbenoy7cxv6zlupewx55dg4wmg7rcgvjq"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 142504
+                                },
+                                "title": "Apóstolo Rina, fundador da igreja Bola de Neve, morre em SP | São Paulo | G1",
+                                "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/17/apostolo-rina-fundador-da-igreja-bola-de-neve-morre-em-sp.ghtml"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Bom, se deus quis assim né"
+                    },
+                    "labels": [],
+                    "likeCount": 22,
+                    "replyCount": 0,
+                    "repostCount": 5,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-11-18T09:12:31.959Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/17/apostolo-rina-fundador-da-igreja-bola-de-neve-morre-em-sp.ghtml",
+                                "title": "Apóstolo Rina, fundador da igreja Bola de Neve, morre em SP | São Paulo | G1",
+                                "description": "",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ugu3oyuym7wy3fal3yto76o/bafkreibic23hv3waszcdmlx5hmbenoy7cxv6zlupewx55dg4wmg7rcgvjq@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T09:46:40.150Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3r26vqhhyc7pdjx2vnlk7kcd/app.bsky.feed.post/3l4o73de65d23",
+            "cid": "bafyreidpam2hj4ku74igp3iavqxazs6v3an6oda5d6lj7tcoftjnevgmby",
+            "author": {
+                "did": "did:plc:3r26vqhhyc7pdjx2vnlk7kcd",
+                "handle": "hildojr.bsky.social",
+                "displayName": "Hildo Junior",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3r26vqhhyc7pdjx2vnlk7kcd/bafkreiclgpeyytqfd27ziaaoamge37kc7adetd65m5d6ot52bjxnyjxibi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-27T15:00:36.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T13:37:42.079Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Toda vez que passa um roqueiro bonito na TV morre um filhote de Lemmy e isso é tão preocupante quanto o derretimento da calota polar"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T13:37:42.079Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,1158 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:r3wqw6tc6lib4yowgvqhqskr/app.bsky.feed.post/3lbic64ri7k2e",
+            "cid": "bafyreihggpefgjpego45vqar3tccbab3xo4cnyerwpsqettoqvmmsvkdh4",
+            "author": {
+                "did": "did:plc:r3wqw6tc6lib4yowgvqhqskr",
+                "handle": "arvoresdobrasil.bsky.social",
+                "displayName": "Árvores do Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihmizcpdbmzygsjtscht4emoeehrgxmktffttqqpzvoz2bmrybi7i@jpeg",
+                "labels": [],
+                "createdAt": "2024-10-25T11:19:15.408Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-21T20:22:57.048Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "uma pequena árvore arbustiva carregada de seus característicos frutos vermelhos pontiagudos. A árvore está em um ambiente natural, possivelmente um jardim, com uma vegetação verdejante ao seu redor. Os frutas vermelhos vibrantes contrastam com as folhas verdes\n\n 📷 projeto_colecionandofrutas",
+                            "aspectRatio": {
+                                "height": 606,
+                                "width": 606
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 506875
+                            }
+                        },
+                        {
+                            "alt": "close de uma única flor rosa claro, de cinco pétalas, com numerosos estames agrupados no centro. Ao redor da flor há alguns botões fechados e frutos em vários estágios de desenvolvimento, todos presos a hastes marrom-avermelhadas. Ao fundo, uma folhagem verde escura desfocada\n\n 📷 Arlete M.",
+                            "aspectRatio": {
+                                "height": 586,
+                                "width": 820
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 583153
+                            }
+                        },
+                        {
+                            "alt": "close de um cacho de frutos de urucum ainda presos à planta. Os frutos são de um vermelho vibrante e profundo e cobertos por pêlos macios e espetados. Gotículas de água são visíveis em alguns frutos, sugerindo chuva recente ou umidade. O fundo mostra as folhas verdes escuras da planta.\n\n 📷 projeto_colecionandofrutas",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 640
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 343887
+                            }
+                        },
+                        {
+                            "alt": "uma colagem que mostra o urucum em várias formas. Apresenta, em macro, as vagens da planta, as próprias sementes, a forma em pó das sementes e o óleo de urucum. Destaca as diversas aplicações deste produto natural, para fins culinários ou cosméticos.\n\n 📷 Leonardo Ré-Jorge\n 📷 casadabotanica.com.br\n 📷 idntimes.com\n 📷 alsothecrumbsplease.com",
+                            "aspectRatio": {
+                                "height": 580,
+                                "width": 820
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 687564
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Urucuzeiro ou urucueiro\nFruto: urucum ou urucu\nNome científico: Bixa orellana\n\nÉ originário da América Tropical, de origem pré-colombiana,  e pertence à flora amazônica. É mundialmente empregado como corante na indústria alimentícia, em cosméticos e tintas. Usado tb como condimento e na fitoterapia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm@jpeg",
+                        "alt": "uma pequena árvore arbustiva carregada de seus característicos frutos vermelhos pontiagudos. A árvore está em um ambiente natural, possivelmente um jardim, com uma vegetação verdejante ao seu redor. Os frutas vermelhos vibrantes contrastam com as folhas verdes\n\n 📷 projeto_colecionandofrutas",
+                        "aspectRatio": {
+                            "height": 606,
+                            "width": 606
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q@jpeg",
+                        "alt": "close de uma única flor rosa claro, de cinco pétalas, com numerosos estames agrupados no centro. Ao redor da flor há alguns botões fechados e frutos em vários estágios de desenvolvimento, todos presos a hastes marrom-avermelhadas. Ao fundo, uma folhagem verde escura desfocada\n\n 📷 Arlete M.",
+                        "aspectRatio": {
+                            "height": 586,
+                            "width": 820
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm@jpeg",
+                        "alt": "close de um cacho de frutos de urucum ainda presos à planta. Os frutos são de um vermelho vibrante e profundo e cobertos por pêlos macios e espetados. Gotículas de água são visíveis em alguns frutos, sugerindo chuva recente ou umidade. O fundo mostra as folhas verdes escuras da planta.\n\n 📷 projeto_colecionandofrutas",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 640
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4@jpeg",
+                        "alt": "uma colagem que mostra o urucum em várias formas. Apresenta, em macro, as vagens da planta, as próprias sementes, a forma em pó das sementes e o óleo de urucum. Destaca as diversas aplicações deste produto natural, para fins culinários ou cosméticos.\n\n 📷 Leonardo Ré-Jorge\n 📷 casadabotanica.com.br\n 📷 idntimes.com\n 📷 alsothecrumbsplease.com",
+                        "aspectRatio": {
+                            "height": 580,
+                            "width": 820
+                        }
+                    }
+                ]
+            },
+            "replyCount": 5,
+            "repostCount": 25,
+            "likeCount": 145,
+            "quoteCount": 18,
+            "indexedAt": "2024-11-21T20:23:02.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jm565etav7qdy2pss4hfatne/app.bsky.feed.post/3lalsc2ivpk2v",
+            "cid": "bafyreicndhwupihufcmshni4i5fss6b7ddifmz7u5bdc23eze5g6ti7zle",
+            "author": {
+                "did": "did:plc:jm565etav7qdy2pss4hfatne",
+                "handle": "secom.gov.br",
+                "displayName": "SecomVc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreic3o5ikszgjckcgntyxpnkh7hxnwqbnw442sfu6zqmlxoltgd4uz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:29:53.922Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-10T12:24:16.372Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Imagem 1: O título “Governo e ONU lançam pacote de R$ 700 milhões para ações de preservação ambiental na Amazônia” está em destaque no topo do card. Abaixo, há uma imagem da Floresta Amazônica. No rodapé, a logomarca do Governo Federal.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 352093
+                            }
+                        },
+                        {
+                            "alt": "Imagem 2: Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Projeto Floresta+ Amazônia”, seguido de dois tópicos: (1) Recuperação de áreas degradadas; (2) Pagamento por Serviços Ambientais (PSA) - recompensa a proprietários de imóveis rurais que mantenham áreas com vegetação nativa. No rodapé, a logomarca do Governo Federal.\n",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 269977
+                            }
+                        },
+                        {
+                            "alt": "Imagem 3:  Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Fundo Amazônia”, seguido de três tópicos: (1) Ações de regularização ambiental, fundiária e assessoria técnica; (2) 70 municípios prioritários para o controle do desmatamento; (3) 30 mil famílias beneficiadas. No rodapé, a logomarca do Governo Federal.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 261881
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo Federal e Programa das Nações Unidas para o Desenvolvimento (PNUD) de mãos dadas pelo meio ambiente. A iniciativa vai fortalecer e estruturar o combate ao desmatamento e aos incêndios florestais, além de recuperar áreas degradadas em municípios da Amazônia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau@jpeg",
+                        "alt": "Imagem 1: O título “Governo e ONU lançam pacote de R$ 700 milhões para ações de preservação ambiental na Amazônia” está em destaque no topo do card. Abaixo, há uma imagem da Floresta Amazônica. No rodapé, a logomarca do Governo Federal.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu@jpeg",
+                        "alt": "Imagem 2: Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Projeto Floresta+ Amazônia”, seguido de dois tópicos: (1) Recuperação de áreas degradadas; (2) Pagamento por Serviços Ambientais (PSA) - recompensa a proprietários de imóveis rurais que mantenham áreas com vegetação nativa. No rodapé, a logomarca do Governo Federal.\n",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge@jpeg",
+                        "alt": "Imagem 3:  Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Fundo Amazônia”, seguido de três tópicos: (1) Ações de regularização ambiental, fundiária e assessoria técnica; (2) 70 municípios prioritários para o controle do desmatamento; (3) 30 mil famílias beneficiadas. No rodapé, a logomarca do Governo Federal.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 7,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-10T12:24:22.286Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qdzk2u4cm5ouz5y6ps3ru5vj/app.bsky.feed.post/3l6pwnnxwgm2n",
+            "cid": "bafyreiertpbizyr5c43qfnvkzd3uzua4bfl762eglvxq35ojfzgqvkzhcm",
+            "author": {
+                "did": "did:plc:qdzk2u4cm5ouz5y6ps3ru5vj",
+                "handle": "juarezpan01.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qdzk2u4cm5ouz5y6ps3ru5vj/bafkreia6u7c5xuaanqsal2obvhuoywhxj35fdavcltmdizjhaw64a67d7i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:13:08.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-17T17:02:35.932Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifm2vpfwvobej25ewb6kv2eqm5kfdgf6zernipznpczc6osatbziy",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l6pdvdul4u2o"
+                    },
+                    "root": {
+                        "cid": "bafyreifm2vpfwvobej25ewb6kv2eqm5kfdgf6zernipznpczc6osatbziy",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l6pdvdul4u2o"
+                    }
+                },
+                "text": "Sr PR, dê atenção aos agricultores que produzem na região amazônica. O Incra ñ consegue titular em áreas que possuem resquícios de Floresta Pública. Isso causa muitos transtornos e impede a legalização dessas terras. A impressão é que sem a legalização a supressão da vegetação está autorizada."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-17T17:02:35.932Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:azpyojrbklblbl5djlzlxkji/app.bsky.feed.post/3l6da7k76lz2h",
+            "cid": "bafyreig4amg2wdp5j67r6vhhcel2kc2cntfwqwm2vis336wke5hteqse7a",
+            "author": {
+                "did": "did:plc:azpyojrbklblbl5djlzlxkji",
+                "handle": "cassano.com.br",
+                "displayName": "Roberto Cassano",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:azpyojrbklblbl5djlzlxkji/bafkreifpxno727wwtnradu3pvxfe4pxvrpxgpr5m64d7grtpszwnmdn7wq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-24T20:30:12.501Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T15:49:02.763Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Ctrl-Alt-Del\nFoi uma coincidência daquelas. Coisa improvável, ninguém esperava. Dr. Stephenson ordenou que seus assistentes removessem a vegetação sobre a grande placa retangular, que destoava completamente do entorno no coração da Floresta Amazônica. No mesmo instante, as lanternas nos capacetes iluminaram o que Juan Pablito jurava ser um enorme botão retangular no fundo de uma caverna na Hungria, com três letras encravadas em seu centro. O sol da manhã entrou pelas janelas e se refletiu sobre a placa metálica que Donghae acabara de encontrar nos fundos de um armazém abandonado na Coréia do Norte. Ele tentava decifrar o que as letras “D”, “E” e “L” significariam. Em sincronia involuntária, Dr. Stephenson, Juan Pablito e Donghae subiram sobre as três placas, pressionando-as.",
+                            "aspectRatio": {
+                                "height": 1224,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihgepu4kattad5yvrrelpd6ho45zcv23medkjfwjnsxkkqfnv5pq4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 412905
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fim do mundo #3"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:azpyojrbklblbl5djlzlxkji/bafkreihgepu4kattad5yvrrelpd6ho45zcv23medkjfwjnsxkkqfnv5pq4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:azpyojrbklblbl5djlzlxkji/bafkreihgepu4kattad5yvrrelpd6ho45zcv23medkjfwjnsxkkqfnv5pq4@jpeg",
+                        "alt": "Ctrl-Alt-Del\nFoi uma coincidência daquelas. Coisa improvável, ninguém esperava. Dr. Stephenson ordenou que seus assistentes removessem a vegetação sobre a grande placa retangular, que destoava completamente do entorno no coração da Floresta Amazônica. No mesmo instante, as lanternas nos capacetes iluminaram o que Juan Pablito jurava ser um enorme botão retangular no fundo de uma caverna na Hungria, com três letras encravadas em seu centro. O sol da manhã entrou pelas janelas e se refletiu sobre a placa metálica que Donghae acabara de encontrar nos fundos de um armazém abandonado na Coréia do Norte. Ele tentava decifrar o que as letras “D”, “E” e “L” significariam. Em sincronia involuntária, Dr. Stephenson, Juan Pablito e Donghae subiram sobre as três placas, pressionando-as.",
+                        "aspectRatio": {
+                            "height": 1224,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T15:49:02.763Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5v3bdqoqw2d",
+            "cid": "bafyreigipgghlbnrctmsfjcibeo2imfj57ipr5lbwuhjmcehwgdetyrew4",
+            "author": {
+                "did": "did:plc:6okfkqs5whr275g4aahfnboz",
+                "handle": "apublica.org",
+                "displayName": "Agência Pública",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreig7xddyg6nt74mwdzs6rwp2vvcwnx4lfththlchjtc6bzwnfhs66e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:41:29.541Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T00:43:09.086Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig2v2lhx7pb6573vb2u5eu5qr3o7ljl6w3omkbwgvqarxkmnl7ldm",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5v3aktgib27"
+                    },
+                    "root": {
+                        "cid": "bafyreicxkamxn3qggrli4lgla2dmay67rqdsd2i7p6zvrvmu5x43qzr7yu",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5v2vzwtdp2e"
+                    }
+                },
+                "text": "💸 Padovani tem duas multas aplicadas em 2018 pelo Ibama. Juntas, elas passam de R$ 1,2 milhão. Ele foi multado pela destruição de 181 hectares de floresta amazônica nativa em Marcelândia e por entregar informações enganosas sobre área de vegetação que deveria ser preservada na propriedade privada."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T00:43:09.086Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5hp2accit2n",
+            "cid": "bafyreide57x5zoizmlzjwa24iapssju4t6rqidr73td7d7mmryya7ecii4",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T16:59:58.570Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibzf5hrg5lpviutsxqqtmpt2fchgazy6lky5tjaczoujjpip4bf5e",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l3intjsjve2p"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O assunto da chuva no Saara, e o crescimento de vegetação nas áreas antes áridas, me lembrou de um fio ótimo que fiz.\n\nO Saara não pode virar floresta, e nem vai, mas se isso acontecesse, a Floresta Amazônica morreria.\nEla depende das áreas do Saara para sua adubação constante.\n\nTá tudo INTERLIGADO."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l3intjsjve2p",
+                    "cid": "bafyreibzf5hrg5lpviutsxqqtmpt2fchgazy6lky5tjaczoujjpip4bf5e",
+                    "author": {
+                        "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                        "handle": "bbrezenski.bsky.social",
+                        "displayName": "Bruno Brezenski ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-09T23:19:25.561Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-06T15:20:36.984Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "YouTube video by Bruno Brezenski",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreicar7kx7rpjdyioyfnl7z5m6muqu3i2ayq5fnzm2g7hw4pll3tpuu"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 349840
+                                },
+                                "title": "ciclo da vida - SAARA E AMAZÔNIA 1",
+                                "uri": "https://youtu.be/2w5Af-O4wWA?feature=shared"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "⚠️1ª Episódio\n\nVamos entender mais sobre AMAZÔNIA 🌳?\n\n🌎CICLO DA VIDA🌍\nA Conexão Invisível entre o Saara e a Floresta Amazônica\n\nTEMPESTADE DE AREIA 🌬️🏜️🐫\n\nA poeira do Saara, impulsionada por sistemas climáticos \"Ventos Alísios\", atravessa o Oceano Atlântico e chega até a Floresta Amazônica. 🌳🌎\n1/6⤵️"
+                    },
+                    "labels": [],
+                    "likeCount": 41,
+                    "replyCount": 0,
+                    "repostCount": 11,
+                    "quoteCount": 3,
+                    "indexedAt": "2024-09-06T15:20:36.984Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://youtu.be/2w5Af-O4wWA?feature=shared",
+                                "title": "ciclo da vida - SAARA E AMAZÔNIA 1",
+                                "description": "YouTube video by Bruno Brezenski",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreicar7kx7rpjdyioyfnl7z5m6muqu3i2ayq5fnzm2g7hw4pll3tpuu@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 8,
+            "likeCount": 44,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-01T16:59:58.570Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lzjzqaqyrmllrd7cc7vh4h5o/app.bsky.feed.post/3l55i75px7l2d",
+            "cid": "bafyreifwgusrsssk6l74shij22yn6ctm3uqyqdu2tpjzrojrc2w6xlrboe",
+            "author": {
+                "did": "did:plc:lzjzqaqyrmllrd7cc7vh4h5o",
+                "handle": "mbpguedes.bsky.social",
+                "displayName": "𝑴𝒂𝑮𝒖𝒆𝒅𝒆𝒔✮",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzjzqaqyrmllrd7cc7vh4h5o/bafkreibcqhxe35sflejkmnnmehaom37bpntwiyjxb7l5xl2nd72mothsti@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:lzjzqaqyrmllrd7cc7vh4h5o",
+                        "uri": "at://did:plc:lzjzqaqyrmllrd7cc7vh4h5o/app.bsky.actor.profile/self",
+                        "cid": "bafyreigpbhtqni5taliqoxzg3yzpdyn5yuvxz2y5nhojso6q2a66huafvi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T11:10:59.018Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T11:10:58.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T15:30:49.638Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "BdF - Mineração na Região Amazônica aumentou em mais de 1.000% em 39 anos, aponta Mapbiomas\nPlataforma analisou dados de vegetação e uso do solo em nove países. A macrorregião tem 847 milhões de hectares, entre Brasil, Bolívia, Peru, Equador, Colômbia, Venezuela, Guiana, Suriname e Guiana Francesa."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T15:30:49.638Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bkvwkizau4zs4ornmnamh473/app.bsky.feed.post/3l4m22rcu6224",
+            "cid": "bafyreihfqauwa4gxizl6qna4hjpfhfiiegq3wnj3gyzt66wkvkjwgueyry",
+            "author": {
+                "did": "did:plc:bkvwkizau4zs4ornmnamh473",
+                "handle": "helderbarbalhoreal.bsky.social",
+                "displayName": "Helder Barbalho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bkvwkizau4zs4ornmnamh473/bafkreicsc5jzavkrugvyzxkeu3u7hcnoszcacs36kwlrxjxxti7gcvzita@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-08T00:06:21.620Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T17:02:35.164Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 892,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib62hgvbwdoj6gapxbbhmgm6mt36bt5l7e3gkcvq7so2hffz4dcbi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 325654
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temos um problema gravíssimo no aumento das queimadas em boa parte do Brasil. Não diferente, na Região Amazônica, que salta aos olhos, claro, por conta da elevação da temperatura, vegetação seca e da estiagem profunda. Neste momento, devemos buscar a junção de esforços."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkvwkizau4zs4ornmnamh473/bafkreib62hgvbwdoj6gapxbbhmgm6mt36bt5l7e3gkcvq7so2hffz4dcbi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bkvwkizau4zs4ornmnamh473/bafkreib62hgvbwdoj6gapxbbhmgm6mt36bt5l7e3gkcvq7so2hffz4dcbi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 892,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T17:02:35.164Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4hg2bzvqlopo6k3pzg6msoif/app.bsky.feed.post/3l4f376s2en2i",
+            "cid": "bafyreifrqvbm3vhpmodwu5wda4bqnhbpe5vy2eugp43gvc5z4hz3yorobu",
+            "author": {
+                "did": "did:plc:4hg2bzvqlopo6k3pzg6msoif",
+                "handle": "haylanzera.bsky.social",
+                "displayName": "Racha cuca Ⓐ🏴",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4hg2bzvqlopo6k3pzg6msoif/bafkreiexcmoedrl7aeybsfbf645okj67ax3prxz7sanii444jiacyubeiq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T14:21:36.195Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T22:34:17.627Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "_ Você fuma?\n\n_ sim\n\n_ fuma o que?\n\n_ escapamento de uno e fumaça sabor vegetação amazônica."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T22:34:17.627Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cy74ukfc6vo4mgabdv5zlrtk/app.bsky.feed.post/3l43jpj3jw524",
+            "cid": "bafyreiccwgg5aeaiikiuffeqwmcbnwwm3kbgpepygcqt76slwk24kinbde",
+            "author": {
+                "did": "did:plc:cy74ukfc6vo4mgabdv5zlrtk",
+                "handle": "altourinho.bsky.social",
+                "displayName": "Canal da Dona Aranha - Dra Ana Lúcia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cy74ukfc6vo4mgabdv5zlrtk/bafkreiepyiyxfy5ca2avgmuo7ok3h5n2ojnfori5rrhxegarxxxwsapww4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-07T16:47:26.181Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T03:27:21.662Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7kfezxip3ra2o3zzvps3caqawy3nt3gmr5rquwgwjs7ypifwbau",
+                        "uri": "at://did:plc:iipmcynw6gxlwlkdntvv3hgg/app.bsky.feed.post/3l43jde54zh2w"
+                    },
+                    "root": {
+                        "cid": "bafyreidaliem3n6zilj3ky5zyeseirfteibglysz6h2ccw6wn43rsnbpxa",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l42vec463r2d"
+                    }
+                },
+                "text": "O ecótono está dentro do Bioma Amazônia fofo, a Amazônia de trânsição ocorre dentro do bioma Amazônia = Amazônia Legal. Vou te explicar: Amazônia Matogrossense é uma zona da floresta formada por vegetação Amazônica e mosaicos de vegetação de cerrado,  as plantas não seguem linha política"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T03:27:21.662Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3wb2zowps2b",
+            "cid": "bafyreibpfmqvoaimpuvhe3uhhwo4audvv3vejd3xoe7vv2ub42bm5kkevy",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:09:25.864Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihkeygssziep6lp2xpx6sdo7uowvsaalxqwylbwi2vyog4rpgbkqy",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3waytnk542i"
+                    },
+                    "root": {
+                        "cid": "bafyreib46q2kvraoujduuu4orpeqcwrlgkdmg5jpgj2s6llmm3a5es7ur4",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3warwttiu25"
+                    }
+                },
+                "text": "pois é nele que se encontram as nascentes das três maiores bacias hidrográficas da América do Sul (Amazônica/Tocantins, São Francisco e Prata). Das 12 principais bacias hidrográficas brasileiras, oito são irrigadas pelo Cerrado, sendo que seis delas estão dentro do bioma. \n\nA sua vegetação rasteira+"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T01:09:25.864Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:25uxxehnah6bcs4loe7cguml/app.bsky.feed.post/3l3vczxln4h2a",
+            "cid": "bafyreih4hsayqqyrh6mg7qa4z23fuz374qjimupwoluybwrkrarfkhve64",
+            "author": {
+                "did": "did:plc:25uxxehnah6bcs4loe7cguml",
+                "handle": "casavelha.bsky.social",
+                "displayName": "Chris Casavelha ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:25uxxehnah6bcs4loe7cguml/bafkreibuek5fhhirl4msjhso5at3ylneiepjstxdmbsxsu7drqt6qkusie@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T18:07:20.183Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:11:57.437Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifw5zd2ymwdyg26uftas6p2aov27h22kp3haty25l3u73quvtbbha",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3uxbatrbp2w"
+                    },
+                    "root": {
+                        "cid": "bafyreic4przubyg52bvcknyjgupaqmi7d3s3b3eras7pkbjb72fjbspujy",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3uom3s7wd2o"
+                    }
+                },
+                "text": "Opa Yago, li sim, mas estou brincando com o fato de na região amazônica ainda predomina a floresta (por pouco tempo), as cidades são apenas um câncer,  do ponto de vista ambiental.  \n\nAqui já entramos em metástase a muito tempo e a vegetação original é só um resquício do que já foi um dia."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:11:57.437Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3j5rspdql2v",
+            "cid": "bafyreigbwvs7kyqxa5v3tpyd4hmtzfcndp6cxffjvfzd5wycianujmnepe",
+            "author": {
+                "did": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                "handle": "yrs-pa.bsky.social",
+                "displayName": "Yago Santos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:huc54kfiozknlko7qxnj7jgz/bafkreicr2z32amzdb6b6ginoxstihjehpgfggwc56b7h3ceqjvhi6qa6ya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.actor.profile/self",
+                        "cid": "bafyreiefcbk5qmbnqo74zmglkv24kchmu2e74fxaepigzf5xxecz7vyeai",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T16:45:05.845Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T16:45:08.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T20:05:58.765Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiay6753pwvv7ynf7xruds7bmhfq5kxe4smf3brdy4fe5yy5mkmslm",
+                        "uri": "at://did:plc:ma2r2olrypp6scuuxru23vgx/app.bsky.feed.post/3l3j5oobguj2o"
+                    },
+                    "root": {
+                        "cid": "bafyreic4dznxrgvdscbs6uxnqvfgsul6vvlfermhxcjnbcnu4k5e4hqpkq",
+                        "uri": "at://did:plc:ons2elzewaqszmfvpxzets66/app.bsky.feed.post/3l3j47spmyy2z"
+                    }
+                },
+                "text": "Teoricamente vai até o norte do Matogrosso se formos considerar a vegetação. Porém se for a bacia hidrográfica amazônica o mapa tá certo …"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T20:05:58.765Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tbcckqrqgxkh327ytb2gtfvi/app.bsky.feed.post/3l3itmutkjt26",
+            "cid": "bafyreictbjvnvjmk3jt5qwnvsgl3fyren6ikm2che22ulrskhgt3ganp5y",
+            "author": {
+                "did": "did:plc:tbcckqrqgxkh327ytb2gtfvi",
+                "handle": "galodomato.bsky.social",
+                "displayName": "Gato do Mato",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tbcckqrqgxkh327ytb2gtfvi/bafkreib3dra7oltwsh6fvlekdlgz6gm2kn5nl5r2ob33zb32rawp6t5rou@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:35:59.159Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T17:04:04.411Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MalditosIanques"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚨DESGRAÇA AMBIENTAL \n\no BOLSONARISMO destruiu a floresta amazônica em busca de ouro para os milicos\n\nOs rios voadores caem no Saara e o Brasil vai virando deserto\n\nAgora, de norte a sul, os bolsonaristas ateiam fogo 🔥 na vegetação seca\n\nA EXTREMA DIREITA É A DESGRAÇA DO MUNDO\n\n#MalditosIanques"
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T17:04:04.411Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zjgrvyt5z3gxzi4wjsfmdc7e/app.bsky.feed.post/3l3eegmpxk32c",
+            "cid": "bafyreiahnh4uitw3ve5vqa37d723qjpms6dvkflpc45gangtfvc2cs7qgm",
+            "author": {
+                "did": "did:plc:zjgrvyt5z3gxzi4wjsfmdc7e",
+                "handle": "markybrito.bsky.social",
+                "displayName": "Marky Brito",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zjgrvyt5z3gxzi4wjsfmdc7e/bafkreiaamrdwmny5hqv67xftznawz5bgpvc6kuvpgl2qcoawa7gcl5tefy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-13T14:10:24.616Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T22:21:40.854Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O calendário do desmatamento 2024, que abrange o intervalo de agosto de 2023 a julho 2024, registrou 3.490 km² de florestas derrubadas, representando uma diminuição de 46% em comparação ao período ant...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicm4hwim5fpitjkgp74tfedtxw4ljpd27frc4dn5kxiq3polgr7gm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 467983
+                        },
+                        "title": "Calendário do desmatamento 2024 fecha com redução de 46% na Amazônia, mas julho foi o segundo mês consecutivo com aumento na devastação - Imazon",
+                        "uri": "https://imazon.org.br/imprensa/calendario-do-desmatamento-2024-fecha-com-reducao-de-46-na-amazonia-mas-julho-foi-o-segundo-mes-consecutivo-com-aumento-na-devastacao/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Três dos nove estados amazônicos concentraram 77% da remoção florestal. Amazonas (28%), Pará (27%) e Acre (22%) lideraram o ranking, sendo responsáveis por 495 km². Além disso, oito dos dez municípios que mais derrubaram a vegetação amazônica fazem parte desses estados.\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://imazon.org.br/imprensa/calendario-do-desmatamento-2024-fecha-com-reducao-de-46-na-amazonia-mas-julho-foi-o-segundo-mes-consecutivo-com-aumento-na-devastacao/",
+                    "title": "Calendário do desmatamento 2024 fecha com redução de 46% na Amazônia, mas julho foi o segundo mês consecutivo com aumento na devastação - Imazon",
+                    "description": "O calendário do desmatamento 2024, que abrange o intervalo de agosto de 2023 a julho 2024, registrou 3.490 km² de florestas derrubadas, representando uma diminuição de 46% em comparação ao período ant...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zjgrvyt5z3gxzi4wjsfmdc7e/bafkreicm4hwim5fpitjkgp74tfedtxw4ljpd27frc4dn5kxiq3polgr7gm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T22:21:40.854Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3qmru4xicu7vskm7wgfqgbuu/app.bsky.feed.post/3l3dqbvuexe2x",
+            "cid": "bafyreifbunmmxkcwwrdnjponn4j34q6tqgvgxywqbnvbfboc4uzjycq2iy",
+            "author": {
+                "did": "did:plc:3qmru4xicu7vskm7wgfqgbuu",
+                "handle": "real33.bsky.social",
+                "displayName": "ReAl.🇧🇷🔬🦉🛒📈(#sdv).",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3qmru4xicu7vskm7wgfqgbuu/bafkreiafoflzqwctdco5kjakdbrilvdspuj4jxmkzmfn7nqsutrvfugphi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:3qmru4xicu7vskm7wgfqgbuu",
+                        "uri": "at://did:plc:3qmru4xicu7vskm7wgfqgbuu/app.bsky.actor.profile/self",
+                        "cid": "bafyreidexnwf7sofpp55noa3cmkks6d4tdq2qv2vsba4u3zhfnrjfcqyh4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-31T05:23:09.834Z"
+                    }
+                ],
+                "createdAt": "2024-08-31T05:24:03.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:21:07.365Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ministra participou de sessão da Comissão de Meio Ambiente do Senado para falar sobre combate a incêndios na Amazônia e no Pantanal em meio a estiagem histórica.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic4b2sibbou3ot4yarf6drwqxworrlvhgbfilqp675vdlzjkqcv5e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 517556
+                        },
+                        "title": "Amazônia perde umidade e área nativa e pode se tornar vulnerável a incêndios 'naturais' nos próximos anos, diz Marina Silva",
+                        "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "É da natureza amazônica, os grandes incêndios NATURAIS. Esses eventos fazem parte do ciclo de vida da floresta.\nQuem vive lá, sabe disso.\nA questão importante, está na mudança na cobertura natural vegetação nas outras áreas do bioma que a cerca: Andes, Pantanal, etc...\ng1.globo.com/politica/not..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml",
+                    "title": "Amazônia perde umidade e área nativa e pode se tornar vulnerável a incêndios 'naturais' nos próximos anos, diz Marina Silva",
+                    "description": "Ministra participou de sessão da Comissão de Meio Ambiente do Senado para falar sobre combate a incêndios na Amazônia e no Pantanal em meio a estiagem histórica.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3qmru4xicu7vskm7wgfqgbuu/bafkreic4b2sibbou3ot4yarf6drwqxworrlvhgbfilqp675vdlzjkqcv5e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:21:07.365Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eleeqvpo4kx7bl7v3n2dexti/app.bsky.feed.post/3l2wtjuf3z52h",
+            "cid": "bafyreia2x4c3zstegxr4ehdjizdeafolrvplmqaunau4ahxvz2jfj5sexa",
+            "author": {
+                "did": "did:plc:eleeqvpo4kx7bl7v3n2dexti",
+                "handle": "paulogpd.bsky.social",
+                "displayName": "Paulo Pilotti Duarte ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eleeqvpo4kx7bl7v3n2dexti/bafkreiga6fui5pe6nfm427xuou4ktxcg6bbgj7lbx4l3jcnfdrn6vqva3e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-08T03:20:12.871Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-30T13:14:39.424Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Esta imagem é uma vista de satélite de parte da América do Sul, vista do espaço. A foto captura uma grande área do continente, mostrando principalmente o Brasil e países vizinhos.\n\nA imagem é dominada por tons de verde, azul e branco. As áreas verdes representam a densa vegetação da floresta Amazônica, que cobre grande parte do norte do Brasil e países adjacentes. O azul profundo representa os oceanos Atlântico e Pacífico que cercam o continente.\n\nGrandes áreas de nuvens brancas cobrem partes do continente e dos oceanos, criando padrões irregulares e texturas variadas. Algumas regiões mostram um marrom avermelhado, provavelmente indicando áreas mais secas ou montanhosas.\n\nNa parte inferior da imagem, é possível ver a curvatura da Terra, lembrando que esta é uma vista do planeta a partir do espaço. Um grande sistema de nuvens em espiral é visível no canto inferior direito, possivelmente indicando um sistema meteorológico.",
+                            "aspectRatio": {
+                                "height": 1169,
+                                "width": 828
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihy4uujbeyxejwxmw4ifbfdg5zusn5u467qgwebgoas56csxzgg5i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 416802
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tá de boas. Essa fumaça sempre esteve por aí."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eleeqvpo4kx7bl7v3n2dexti/bafkreihy4uujbeyxejwxmw4ifbfdg5zusn5u467qgwebgoas56csxzgg5i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eleeqvpo4kx7bl7v3n2dexti/bafkreihy4uujbeyxejwxmw4ifbfdg5zusn5u467qgwebgoas56csxzgg5i@jpeg",
+                        "alt": "Esta imagem é uma vista de satélite de parte da América do Sul, vista do espaço. A foto captura uma grande área do continente, mostrando principalmente o Brasil e países vizinhos.\n\nA imagem é dominada por tons de verde, azul e branco. As áreas verdes representam a densa vegetação da floresta Amazônica, que cobre grande parte do norte do Brasil e países adjacentes. O azul profundo representa os oceanos Atlântico e Pacífico que cercam o continente.\n\nGrandes áreas de nuvens brancas cobrem partes do continente e dos oceanos, criando padrões irregulares e texturas variadas. Algumas regiões mostram um marrom avermelhado, provavelmente indicando áreas mais secas ou montanhosas.\n\nNa parte inferior da imagem, é possível ver a curvatura da Terra, lembrando que esta é uma vista do planeta a partir do espaço. Um grande sistema de nuvens em espiral é visível no canto inferior direito, possivelmente indicando um sistema meteorológico.",
+                        "aspectRatio": {
+                            "height": 1169,
+                            "width": 828
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-30T13:14:39.424Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kyh76w2gvl25",
+            "cid": "bafyreianyynxtmbfeiqun4dsonitzer56bcokhbrrmsvwqingo3tpz6luq",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-29T21:10:17.875Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihclduw5mqzlou5ok5x2qxhyxah2f4e5qeedpzynmycxcv6ny43hi",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kyh763gaj42f"
+                    },
+                    "root": {
+                        "cid": "bafyreihclduw5mqzlou5ok5x2qxhyxah2f4e5qeedpzynmycxcv6ny43hi",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kyh763gaj42f"
+                    }
+                },
+                "text": "Mesmo no sertão nordestino, a umidade que vem da Amazônia garante alguma vegetação e água nos piores períodos.\n\nMais de 20% da Floresta Amazônica já foi dizimada, e com o desmatamento, essa onda de umidade fica menor."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-29T21:10:17.875Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kkfb4wlo72i47quw4g64m4rv/app.bsky.feed.post/3kts26ef2w224",
+            "cid": "bafyreiaykvjvpyroyvjap2o25lpos2ndoa3qsvnqw2pr27tl5tozeafedq",
+            "author": {
+                "did": "did:plc:kkfb4wlo72i47quw4g64m4rv",
+                "handle": "daufenbach.bsky.social",
+                "displayName": "Daufen Bach.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kkfb4wlo72i47quw4g64m4rv/bafkreif7su3r6zvzjclcxfxu7utug52vni2ecilyiegeztt2lf5vgvzc74@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T17:58:21.045Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-31T13:33:49.692Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pesquisa revela \"cidades\" da Amazônia pré-hispânica Assentamentos de até 1.500 anos atrás na Amazônia indicam sociedades complexas...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihldjrfkrh5yglodqs4jcvankdkzmewdocal3suysonltswdabnby"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 972161
+                        },
+                        "title": "PESQUISA REVELA \"CIDADES\" DA AMAZÔNIA PRÉ-HISPÂNICA",
+                        "uri": "https://sociedadedospoetasamigos.blogspot.com/2023/04/pesquisa-revela-cidades-da-amazonia-pre.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://sociedadedospoetasamigos.blogspot.com/2023/04/pesquisa-revela-cidades-da-amazonia-pre.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 291,
+                            "byteStart": 238
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Às vezes, a história tem que ser reescrita: até alguns anos atrás, as pesquisas supunham que os habitantes da Bacia Amazônica na época pré-hispânica percorriam a densa vegetação em pequenos grupos como caçadores e coletores...\nsociedadedospoetasamigos.blogspot.com/2023/04/pesq..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://sociedadedospoetasamigos.blogspot.com/2023/04/pesquisa-revela-cidades-da-amazonia-pre.html",
+                    "title": "PESQUISA REVELA \"CIDADES\" DA AMAZÔNIA PRÉ-HISPÂNICA",
+                    "description": "Pesquisa revela \"cidades\" da Amazônia pré-hispânica Assentamentos de até 1.500 anos atrás na Amazônia indicam sociedades complexas...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kkfb4wlo72i47quw4g64m4rv/bafkreihldjrfkrh5yglodqs4jcvankdkzmewdocal3suysonltswdabnby@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-31T13:33:49.692Z",
+            "labels": []
+        }
+    ]
+}

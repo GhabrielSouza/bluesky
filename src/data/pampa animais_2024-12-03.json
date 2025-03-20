@@ -1,0 +1,251 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mllj4odqz2imswyfjfwymnet/app.bsky.feed.post/3l6qax3ehph2o",
+            "cid": "bafyreieyelqentyyefb3ewizlf4okdydvzdeoyibegjrq7pnqi2b7myici",
+            "author": {
+                "did": "did:plc:mllj4odqz2imswyfjfwymnet",
+                "handle": "catarse.me",
+                "displayName": "Catarse",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreiayy44irnd55dobico7udgjuejemvfpslqoflskrakeeftyeu2vly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-25T01:30:54.663Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-17T20:06:48.936Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1636,
+                                "width": 1636
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidznfuxbcwargbenwzxhpbyabmqnk72xb3aufzhocbxabzo67em5y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 586147
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.catarse.me/manualdosbichospampa?ref=ctrse_twitter"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 312,
+                            "byteStart": 282
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Últimos dias para conhecer a fauna do Pampa de forma divertida! 🌿🐆 \nManu Alves e Rafa Mayer lançam novo volume da coleção Manual dos Bichos, explorando o bioma e seus incríveis animais. Ilustrações ricas e texto revisado por especialistas.\nA campanha acaba no sábado! www.catarse.me/manualdosbic..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreidznfuxbcwargbenwzxhpbyabmqnk72xb3aufzhocbxabzo67em5y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreidznfuxbcwargbenwzxhpbyabmqnk72xb3aufzhocbxabzo67em5y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1636,
+                            "width": 1636
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-17T20:06:48.936Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mllj4odqz2imswyfjfwymnet/app.bsky.feed.post/3l3uxpxpcjc2t",
+            "cid": "bafyreig7d4zw7cw7vmh5k2smqibn72pusd53odykmyvs54nlz5nmps7ani",
+            "author": {
+                "did": "did:plc:mllj4odqz2imswyfjfwymnet",
+                "handle": "catarse.me",
+                "displayName": "Catarse",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreiayy44irnd55dobico7udgjuejemvfpslqoflskrakeeftyeu2vly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-25T01:30:54.663Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T12:49:30.820Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1334,
+                                "width": 1334
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibqonqcnseer6eh3o7bt24ypltuf7w3cwnijrc7lyd2tmldjcwlvi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 595896
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 340,
+                                "width": 600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif6w4banlz75gjbfrckdba4mmv3xsee6wjiucq6y34ohobn6xxx5a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 93688
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.catarse.me/manualdosbichospampa?ref=ctrse_twitter"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 321,
+                            "byteStart": 291
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O novo volume da coleção “Manual dos Bichos” desta vez explora o bioma do pampa num livro lúdico, divertido e educativo. A proposta é apresentar à criançada o quão incríveis são os animais e, quem sabe assim, ajudar no conhecimento e conservação da fauna brasileira.🌿🐆\n\nwww.catarse.me/manualdosbic..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreibqonqcnseer6eh3o7bt24ypltuf7w3cwnijrc7lyd2tmldjcwlvi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreibqonqcnseer6eh3o7bt24ypltuf7w3cwnijrc7lyd2tmldjcwlvi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1334,
+                            "width": 1334
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreif6w4banlz75gjbfrckdba4mmv3xsee6wjiucq6y34ohobn6xxx5a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mllj4odqz2imswyfjfwymnet/bafkreif6w4banlz75gjbfrckdba4mmv3xsee6wjiucq6y34ohobn6xxx5a@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 340,
+                            "width": 600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T12:49:30.820Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2t3si2y4wj73tc67zatse5qu/app.bsky.feed.post/3ktd2i2mzr72q",
+            "cid": "bafyreiehaeknj2hvfmhnro2gvbmusxe4c4djlcrlofqclnwgs7snhaknka",
+            "author": {
+                "did": "did:plc:2t3si2y4wj73tc67zatse5qu",
+                "handle": "annpenha.bsky.social",
+                "displayName": "Anne ☕️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreifxr3lbknj6cj7hu6e6ehlsqrbxy2o543pzdj2dt7czvwiqktnjjm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-02T03:20:04.376Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-25T14:29:18.731Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 930,
+                                "width": 719
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 365972
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Reflexão,  pergunta-se, qual deles: \n\n- É a favor da educação laica e gratuita?\n- Proteção ao meio ambiente (Amazônia, Pantanal, Pampa, Cerrado, Caatinga), além das florestas, animais?\n- Sustentabilidade, crescimento +  proteção?\n- Liberdade de credo religioso?\n- Saúde gratuita?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 930,
+                            "width": 719
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-05-25T14:29:18.731Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,2594 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.feed.post/3lbn6xlgyc22p",
+            "cid": "bafyreic2scyu6p4hs66heom7xbk35ybgv3unlaqngi7lz5nimb7fyvcp4a",
+            "author": {
+                "did": "did:plc:2t2qvdanp2ngqeccoauqzrnq",
+                "handle": "janesaurus.bsky.social",
+                "displayName": "Janesaurus 🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t2qvdanp2ngqeccoauqzrnq/bafkreid2a5pfyanum6w5nohbqswbczip2kyebaomn4wur46fxffppznczi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2t2qvdanp2ngqeccoauqzrnq",
+                        "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.actor.profile/self",
+                        "cid": "bafyreihu5pt54dhhbajgfotqkivqfzeqlpmqajaljmyjfdmgmfsy4vgkv4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-14T21:38:52.842Z"
+                    }
+                ],
+                "createdAt": "2024-04-14T21:38:52.073Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-23T19:08:55.039Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefx6xja7xdglopqfjpi5gixc2daydagaxtjihwer6r6qmftsa3hq",
+                        "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.feed.post/3lbn6xlfy2s2p"
+                    },
+                    "root": {
+                        "cid": "bafyreiefx6xja7xdglopqfjpi5gixc2daydagaxtjihwer6r6qmftsa3hq",
+                        "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.feed.post/3lbn6xlfy2s2p"
+                    }
+                },
+                "text": "a oferecer para a natureza é sua própria existência, suas interações, desde seres q se alimentam de outros controlando grandes população, passando por outros q polinizam plantas ou q adubam a terra. Cada ser vivo possui um papel em seu ecossistema, estabelecido em anos, milênios de coevolução com +"
+            },
+            "replyCount": 1,
+            "repostCount": 4,
+            "likeCount": 52,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-23T19:08:56.797Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:36bgqefd2q6axeupvhzjzlcj/app.bsky.feed.post/3lb6gxc54xs2m",
+            "cid": "bafyreigekwl4knibhmbrg5zdafx7bvtpzpjgjpv5yrflsb6x4za5eluyme",
+            "author": {
+                "did": "did:plc:36bgqefd2q6axeupvhzjzlcj",
+                "handle": "cevezito.bsky.social",
+                "displayName": "Cevezito",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:36bgqefd2q6axeupvhzjzlcj/bafkreihwa3xpzkmyu45zyuu7wdf53feuiin3wd74pt5azmf3vd7t77ta34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-04T21:15:29.627Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-17T22:21:59.171Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7jfd4cp6w5yaazi46bl3lyann64k45me54glslsvhtmyx3kvawm",
+                        "uri": "at://did:plc:36bgqefd2q6axeupvhzjzlcj/app.bsky.feed.post/3lb6grlb2ek2m"
+                    },
+                    "root": {
+                        "cid": "bafyreia7jfd4cp6w5yaazi46bl3lyann64k45me54glslsvhtmyx3kvawm",
+                        "uri": "at://did:plc:36bgqefd2q6axeupvhzjzlcj/app.bsky.feed.post/3lb6grlb2ek2m"
+                    }
+                },
+                "text": "Só pra lembrar que echo chamber é uma descrição muito adequada pro ecossistema da direita, em que as opiniões vêm todas de cima, dos formadores de opinião, e são repetidas acriticamente pelos seus membros. Lembra do Olavo de Carvalho e seus olavetes? Terra plana? Vacinas?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-17T22:22:00.980Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:voz4bug2wgub6r7d2ojv3lrz/app.bsky.feed.post/3lapo6opfqs2j",
+            "cid": "bafyreifjyu3q5skix43qby5ogjhc5yj7qv2w5w4dsxv52z66ivqroh3t34",
+            "author": {
+                "did": "did:plc:voz4bug2wgub6r7d2ojv3lrz",
+                "handle": "crisvieiras1.bsky.social",
+                "displayName": "Cris Vieira ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:voz4bug2wgub6r7d2ojv3lrz/bafkreidwhnufkwh7llghb4gsuqqbysysddmzz3mf4asny4ca6yplmxrvau@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:15:57.817Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T01:21:27.350Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaqyb2vsbkzxwdfuatlakt2t52n5lwipmgo3oc5skv6tfvtsne7dm",
+                        "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3lapnqfcpq222"
+                    },
+                    "root": {
+                        "cid": "bafyreiaqyb2vsbkzxwdfuatlakt2t52n5lwipmgo3oc5skv6tfvtsne7dm",
+                        "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3lapnqfcpq222"
+                    }
+                },
+                "text": "Então, vão ter de escolher entre a Antártida ainda existente ou o petróleo que encontraram nela. Mas em épocas de \"dane-se a vida\" da parte de quem é muito rico e de chances fortes de nós, os Homo sapiens, extinguirmos toda a existência sobre a Terra, esse ecossistema infelizmente perde a disputa..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T01:21:28.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hl5qwbghniwqup3j6r7xwekz/app.bsky.feed.post/3lahdat2hwa22",
+            "cid": "bafyreihnclnrtl53apflkql4htjucpxirwb3xriqfwtgfmigmgkjupzs4e",
+            "author": {
+                "did": "did:plc:hl5qwbghniwqup3j6r7xwekz",
+                "handle": "correiocb.bsky.social",
+                "displayName": "Correio Braziliense",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreibrp3xsyrthgsgjfgrrttsuylupwj2seb5j6a67b7vcdbyb6gpcye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:44:39.604Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T17:44:28.441Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em setembro, 2.586 hectares de terra foram degradados pelo fogo. A partir de amanhã (9/11), cerca de 200 voluntários começam os trabalhos para regenerar o ecossistema da região",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifvfe4c5q3eomwswemtqhs3jg4pgsztyyxlilgkc7yp7l2orio2eq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 288206
+                        },
+                        "title": "Flona terá mutirões para reflorestamento das áreas queimadas",
+                        "uri": "https://www.correiobraziliense.com.br/cidades-df/2024/11/6984211-flona-tera-mutiroes-para-reflorestamento-das-areas-queimadas.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🏙️Flona terá mutirões para reflorestamento das áreas queimadas\n\nEm setembro, 2.586 hectares de terra foram degradados pelo fogo. A partir de amanhã (9/11), cerca de 200 voluntários começam os trabalhos para regenerar o ecossistema da região."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiobraziliense.com.br/cidades-df/2024/11/6984211-flona-tera-mutiroes-para-reflorestamento-das-areas-queimadas.html",
+                    "title": "Flona terá mutirões para reflorestamento das áreas queimadas",
+                    "description": "Em setembro, 2.586 hectares de terra foram degradados pelo fogo. A partir de amanhã (9/11), cerca de 200 voluntários começam os trabalhos para regenerar o ecossistema da região",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreifvfe4c5q3eomwswemtqhs3jg4pgsztyyxlilgkc7yp7l2orio2eq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T17:44:30.785Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhdyinfgagzjlr2spaxv2mst/app.bsky.feed.post/3l6vi5wygvj2v",
+            "cid": "bafyreievcde4l3x35dtohuiw6o3f2weawfup43kwlcsbouviuuiqrok2xy",
+            "author": {
+                "did": "did:plc:yhdyinfgagzjlr2spaxv2mst",
+                "handle": "akaishiri.bsky.social",
+                "displayName": "Akai",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhdyinfgagzjlr2spaxv2mst/bafkreiaekgx6yr3bhehikj6k35ezuo77qgevk225fftacew5xzfpf7svtu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-10-06T15:29:09.954Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-19T21:59:15.065Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Sete de oito limites seguros e justos para a estabilidade do sistema terrestre já foram ultrapassados, o que coloca a saúde da Terra e de seus habitantes em risco. A constatação é de um relatório da C...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia6ilco3ef5lzdiibe2dbuyjj46njtpt2shenxlhieyzrz2gljnpi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 981765
+                        },
+                        "title": "Terra ultrapassou 7 de 8 limites seguros para o planeta; veja quais são",
+                        "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/10/19/limites-planetarios-ultrapassados.htm?cmpid=copiaecola"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/10/19/limites-planetarios-ultrapassados.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 272
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Terra ultrapassou 7 de 8 limites seguros para o planeta:\n\n1. Integridade funcional\n2. Área do ecossistema natural\n3. Clima\n4. Nitrogênio\n5. Fósforo\n6. Fluxo de água superficial\n7. Águas subterrâneas\n\n8. Já foi transgredido em vários locais do mundo. Veja qual em:\nnoticias.uol.com.br/meio-ambient..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/10/19/limites-planetarios-ultrapassados.htm?cmpid=copiaecola",
+                    "title": "Terra ultrapassou 7 de 8 limites seguros para o planeta; veja quais são",
+                    "description": "Sete de oito limites seguros e justos para a estabilidade do sistema terrestre já foram ultrapassados, o que coloca a saúde da Terra e de seus habitantes em risco. A constatação é de um relatório da C...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhdyinfgagzjlr2spaxv2mst/bafkreia6ilco3ef5lzdiibe2dbuyjj46njtpt2shenxlhieyzrz2gljnpi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-19T21:59:15.065Z",
+            "labels": [],
+            "threadgate": {
+                "uri": "at://did:plc:yhdyinfgagzjlr2spaxv2mst/app.bsky.feed.threadgate/3l6vi5wygvj2v",
+                "cid": "bafyreihhisuxxmcldibmqvlhxiyo7wkodcwifup4i6uespjtmyuh4dcib4",
+                "record": {
+                    "$type": "app.bsky.feed.threadgate",
+                    "allow": [
+                        {
+                            "$type": "app.bsky.feed.threadgate#mentionRule"
+                        },
+                        {
+                            "$type": "app.bsky.feed.threadgate#followingRule"
+                        }
+                    ],
+                    "createdAt": "2024-10-19T21:59:16.480Z",
+                    "hiddenReplies": [],
+                    "post": "at://did:plc:yhdyinfgagzjlr2spaxv2mst/app.bsky.feed.post/3l6vi5wygvj2v"
+                },
+                "lists": []
+            }
+        },
+        {
+            "uri": "at://did:plc:tco7obdulrzrbbd2fugamie3/app.bsky.feed.post/3l6mpc5dp4n2v",
+            "cid": "bafyreihrmadgdt76xwwi44wh67di4qgtsx5utslwimu4zrq7s2bgarq5e4",
+            "author": {
+                "did": "did:plc:tco7obdulrzrbbd2fugamie3",
+                "handle": "pauloarana.bsky.social",
+                "displayName": "Paulo Aranã ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tco7obdulrzrbbd2fugamie3/bafkreiej622zdasb7r5adiz5t4h4xcyp67ysvhbtkovmcwtm7ubqijhuhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:35:46.713Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-16T10:12:55.029Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiegu3nyaw5yz7nziistbbcsmfzwoth3pe2w75tvlatty3iai7xp6i",
+                        "uri": "at://did:plc:tco7obdulrzrbbd2fugamie3/app.bsky.feed.post/3l6mov66t6u2n"
+                    },
+                    "root": {
+                        "cid": "bafyreieq4s57ft6gzitmesuweounvuo6lru2ngd4dhib7ndmuvjrd3awwe",
+                        "uri": "at://did:plc:tco7obdulrzrbbd2fugamie3/app.bsky.feed.post/3l6mmwwyidv26"
+                    }
+                },
+                "text": "Uma outra questão é que muitas vezes os neorurais chegam na terra com visão e planos de negócios disruptivos que podem até ser interessantes, mas que funcionam de maneira tão singular que não se encaixam na economia local nem contribuem pro ecossistema de negócios locais."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 60,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-16T10:12:54.811Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l6ibuiamrq2t",
+            "cid": "bafyreidmyhhky6elqq3xt4lclfz3tijzp7zj46ojvtaufqxw5e5njccnjq",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T16:01:58.422Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiarcly7zp6vgxlnlmy5s2wnfrqor5wwsdhzgb2zjbn2nkcksw6xky",
+                        "uri": "at://did:plc:7gqzvve2gkp2mdxtauy5m4oh/app.bsky.feed.post/3l6i26wwi2h2f"
+                    },
+                    "root": {
+                        "cid": "bafyreifrcexvael5mkjvenarbhxpprlvkt2wplnmtiuzcrhpotkxg7tzde",
+                        "uri": "at://did:plc:7gqzvve2gkp2mdxtauy5m4oh/app.bsky.feed.post/3l6i22h36gn2l"
+                    }
+                },
+                "text": "É  a milícia, testada e aprovada no Estado do Rio de Janeiro, que estende rapidamente seus tentáculos  para lugares com um ecossistema propício a sua proliferação e crescimento. Mato Grosso já foi uma terra boa de viver..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T16:01:58.422Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pwiwliq7umyb3kmppc22bc74/app.bsky.feed.post/3l5jlbxdei32j",
+            "cid": "bafyreicvdunkzupxov2f3fqx2qw7lutyqd3sikrxicsbudhgxwgezudf54",
+            "author": {
+                "did": "did:plc:pwiwliq7umyb3kmppc22bc74",
+                "handle": "altamir-andrade.bsky.social",
+                "displayName": "Altamir Andrade",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pwiwliq7umyb3kmppc22bc74/bafkreier2anno4rddthjxv4i4w7n27laqahdbspnzotypcanw5ouwg7oj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T12:51:12.232Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T10:58:02.377Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "#PraTodosVerem – Fotografia colorida com imagem de vegetação baixa ao fundo e margem do Rio Cachoeira. No canto superior direito, alguns barcos ancorados na outra margem do Rio Cachoeira, nas cores branco e cinza, pessoas, trapiche e construção em madeira. No canto inferior esquerdo, uma bateira marrom na água presa em cerca às margens do Rio Cachoeira, e parte de uma draga na cor vermelha removendo terra das margens do rio.",
+                            "aspectRatio": {
+                                "height": 1281,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiglrfmfq3h6uqdhgdtj422z4luohx3ufuvirlm7ewjfch3rhpp3fq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 732670
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalistaandrade.blogspot.com/2024/10/cachoeira-em-retificacao-para-navegacao.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 303,
+                            "byteStart": 257
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "As históricas (1940/1948) revelam intervenções feitas no leito e margens do Rio Cachoeira, Joinville, SC. Esse rico material histórico foi encontrado no lixo, em São Francisco do Sul,SC, e estão na exposição \"Ecossistema Babitonga\". Para saber mais jornalistaandrade.blogspot.com/2024/10/cach..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pwiwliq7umyb3kmppc22bc74/bafkreiglrfmfq3h6uqdhgdtj422z4luohx3ufuvirlm7ewjfch3rhpp3fq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pwiwliq7umyb3kmppc22bc74/bafkreiglrfmfq3h6uqdhgdtj422z4luohx3ufuvirlm7ewjfch3rhpp3fq@jpeg",
+                        "alt": "#PraTodosVerem – Fotografia colorida com imagem de vegetação baixa ao fundo e margem do Rio Cachoeira. No canto superior direito, alguns barcos ancorados na outra margem do Rio Cachoeira, nas cores branco e cinza, pessoas, trapiche e construção em madeira. No canto inferior esquerdo, uma bateira marrom na água presa em cerca às margens do Rio Cachoeira, e parte de uma draga na cor vermelha removendo terra das margens do rio.",
+                        "aspectRatio": {
+                            "height": 1281,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T10:58:02.377Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:t62nqm325a62cypipephqhwc/app.bsky.feed.post/3l5fs6cnvfu2s",
+            "cid": "bafyreib7vmwulml5anqfqlpn3oav5mr5wzkio4wf723rrxczvzrhvq2fai",
+            "author": {
+                "did": "did:plc:t62nqm325a62cypipephqhwc",
+                "handle": "patriotario451722.bsky.social",
+                "displayName": "Ecologista Comunista ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t62nqm325a62cypipephqhwc/bafkreigd75lwz5be4ylfl4p4jyjqgiapav7a4acpjbbgwmqavwu54lxzg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-16T20:24:12.274Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T22:50:36.741Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 401,
+                                "width": 594
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihdewscfwlhmtu7ebbfknidwvnxpcsbayru236iy5dydwny2w4wqq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 65410
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifpswppxjkivofac6o6pp3yxn7ofmly4l6o7sv6aedkhcga6kswom",
+                        "uri": "at://did:plc:z7lkqlobtsv7jpm6l7xovomc/app.bsky.feed.post/3l5ff7xvptg2a"
+                    },
+                    "root": {
+                        "cid": "bafyreifpswppxjkivofac6o6pp3yxn7ofmly4l6o7sv6aedkhcga6kswom",
+                        "uri": "at://did:plc:z7lkqlobtsv7jpm6l7xovomc/app.bsky.feed.post/3l5ff7xvptg2a"
+                    }
+                },
+                "text": "O capetalismo já alienou grande parte da humanidade ,já devastou grande parte dos ecossistema naturais ,já deixou a Terra a beira de um hecatombe social e climático ,tudo pra que? pra alimentar a ganância de um punhado de parasitas irresponsáveis que não se fartam."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t62nqm325a62cypipephqhwc/bafkreihdewscfwlhmtu7ebbfknidwvnxpcsbayru236iy5dydwny2w4wqq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:t62nqm325a62cypipephqhwc/bafkreihdewscfwlhmtu7ebbfknidwvnxpcsbayru236iy5dydwny2w4wqq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 401,
+                            "width": 594
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T22:50:36.741Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i7hgn5x5eid7l5n4kj445lhs/app.bsky.feed.post/3l5d4cqikwc2n",
+            "cid": "bafyreiawgfyec3ko4rakc7c2mjewivtx37m75kijx6r4rbfyweqwfmgyvi",
+            "author": {
+                "did": "did:plc:i7hgn5x5eid7l5n4kj445lhs",
+                "handle": "itlun.bsky.social",
+                "displayName": "Periferida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7hgn5x5eid7l5n4kj445lhs/bafkreieqqqk26yi4s4iyx7qvwmoj6y4jus33vh6joho47jrgmi7uk3t6pe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T12:42:25.233Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T21:13:58.084Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Incrível como a maconho me cura, tava morrendo até nesse instante com uma ressaca triste foi f1 tô indo comer e tô sem botar os bofesprafora. Obrigado primeiro ao planeta terra por no seu ecossistema existe tal planta curativa."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T21:13:58.084Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yqizoj5bes55cedtsqubjxcn/app.bsky.feed.post/3l57ostbak52o",
+            "cid": "bafyreifgyvhhqpmmq3n5lsothydyv63yulvosys3ge5jcvlqh3maya5lhu",
+            "author": {
+                "did": "did:plc:yqizoj5bes55cedtsqubjxcn",
+                "handle": "hrainho.bsky.social",
+                "displayName": "Helio Ricardo Rainho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yqizoj5bes55cedtsqubjxcn/bafkreihhhacc2roe3yo7yuuerkupseonm4gj2jqzerth5wj47i3icch5ve@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:26:29.089Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-28T12:34:31.813Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreig5c257uzjgtnhqugrw7i44lwf3ltnzhqw42p4du63ffnhhdyf2jy",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l56ers3aox2q"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O agrofascismo é uma doença! Puro satanismo geopolítico! Eles se apossam do bem mais abençoado que o Brasil tem - a \"terra onde tudo que se planta dá\" - pra fraudarem a verdade e destruirem o ecossistema em busca de dinheiro!\nTudo que vem deles é agrotóxico, supremacista, fascista e satânico!!!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l56ers3aox2q",
+                    "cid": "bafyreig5c257uzjgtnhqugrw7i44lwf3ltnzhqw42p4du63ffnhhdyf2jy",
+                    "author": {
+                        "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                        "handle": "jnascim.info",
+                        "displayName": "Jeff Nascimento",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-22T10:36:21.706Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-28T00:02:20.461Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Na contramão da ciência, associações do produtores rurais estão bancando palestras dos chamados \"negacionistas climáticos\", pessoas que não acreditam que existam mudanças climáticas causadas pelo home...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreib4yqsg3k7htsbs3hfumqh6dd7vulsx5rdkyazmzfu5oehodruewm"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 628367
+                                },
+                                "title": "Agronegócio banca palestras que espalham mito de que aquecimento global pelo homem é fraude - BBC News Brasil",
+                                "uri": "https://www.bbc.com/portuguese/brasil-59310009"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.bbc.com/portuguese/brasil-59310009"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 121,
+                                    "byteStart": 94
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Agronegócio banca palestras que espalham mito de que aquecimento global pelo homem é fraude www.bbc.com/portuguese/b..."
+                    },
+                    "labels": [],
+                    "likeCount": 2318,
+                    "replyCount": 63,
+                    "repostCount": 670,
+                    "quoteCount": 100,
+                    "indexedAt": "2024-09-28T00:02:20.461Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.bbc.com/portuguese/brasil-59310009",
+                                "title": "Agronegócio banca palestras que espalham mito de que aquecimento global pelo homem é fraude - BBC News Brasil",
+                                "description": "Na contramão da ciência, associações do produtores rurais estão bancando palestras dos chamados \"negacionistas climáticos\", pessoas que não acreditam que existam mudanças climáticas causadas pelo home...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreib4yqsg3k7htsbs3hfumqh6dd7vulsx5rdkyazmzfu5oehodruewm@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-28T12:34:31.813Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pemupdqnxindkux6quy4fber/app.bsky.feed.post/3l55gdw6pmy2g",
+            "cid": "bafyreihvufgvt5fceym3i3pinhr3z2zzgrgbtzlsmfsclhwp6lxyhfjfsa",
+            "author": {
+                "did": "did:plc:pemupdqnxindkux6quy4fber",
+                "handle": "oldstone.bsky.social",
+                "displayName": "quimmy",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pemupdqnxindkux6quy4fber/bafkreiesol4g5nao465swb2ebdjavinpqwlx3rtrwmwvvukzni4btvrjey@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T17:05:19.220Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T14:57:42.069Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "quero a aniquilação de todos os mosquitos borrachudos da face da terra “ah porque vai desequilibrar o ecossistema” fodase irmão o ecossistema vai conseguir se reequilibrar no tempo dele tenho certeza"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T14:57:42.069Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tpn5cyzctx5hhxqus7idg5wf/app.bsky.feed.post/3l4zy7usvs22o",
+            "cid": "bafyreiedlecrjae3ie6nb5ak3bw56wwktmz4iy4chftcg64gwnaf6udkwi",
+            "author": {
+                "did": "did:plc:tpn5cyzctx5hhxqus7idg5wf",
+                "handle": "tchautt.bsky.social",
+                "displayName": "St.Chris",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tpn5cyzctx5hhxqus7idg5wf/bafkreie6latlegrevat5rkaislcwv55lhruhz2hx5cou2z5qw3deo2uhsa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T17:01:10.709Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T06:06:54.936Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    },
+                    "root": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    }
+                },
+                "text": "Como já dizia joujout, quem vai morrer somos nós e as vidas azaradas que viveram ao mesmo tempo, a terra vai continuar aqui e outro ecossistema vai vir e começar tudo do 0"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T06:06:54.936Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tcggfz26tcnm3id2hqjbjxk2/app.bsky.feed.post/3l4ytovfp3i2o",
+            "cid": "bafyreid5ayksxnyk3vvjaihzgdxnppq7alsls7yq5tmow6htp5ghjnm7im",
+            "author": {
+                "did": "did:plc:tcggfz26tcnm3id2hqjbjxk2",
+                "handle": "suethamansom.bsky.social",
+                "displayName": "Suetham Rabbit",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tcggfz26tcnm3id2hqjbjxk2/bafkreifvtdkc5gxm4jaouhntsw7pxu3pbb2n6ahsabgf6uxbjko4tbrkku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T05:53:44.219Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:13:10.902Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibsqi5lqbtbfth3uxr2vno4pglyg2rvyr7ohwkids5gazywfgim64",
+                        "uri": "at://did:plc:njfequrvtww4dyphyz763g4i/app.bsky.feed.post/3l4yhoewx2m2r"
+                    },
+                    "root": {
+                        "cid": "bafyreibm3iq5wf4bzssvmo52hzgjn5b54b25z22scao6awneevg6zsp7z4",
+                        "uri": "at://did:plc:fqiatejd2mv34wztyh2euto7/app.bsky.feed.post/3l4wep746lc2h"
+                    }
+                },
+                "text": "Aí você tem um ponto, pois a classe de vermes no reino animal são bem sociaveis aliás até ajuda no ecossistema da terra, mas que pena que algumas espécies são acéfalos e a classe Bozofacistas é uma delas."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:13:10.902Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zzfg4bbunx2xdgvru4f26mty/app.bsky.feed.post/3l4wpcfg6zq2n",
+            "cid": "bafyreiakzqzkystw3v5ycz5s6l4grk6ubfuixcdv33r4ahvof256sfxsde",
+            "author": {
+                "did": "did:plc:zzfg4bbunx2xdgvru4f26mty",
+                "handle": "pikirito.bsky.social",
+                "displayName": "Pikirito, O drakengard 1",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zzfg4bbunx2xdgvru4f26mty/bafkreiayhmetvct43he32ibdctkdirddhp3yhhzxvyr6y3kvgvyygwrr2q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T17:34:52.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T22:47:12.384Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreihd622zpgigj7klrjipdqif7ixyoynttlaibociqfdotlis3ivi5y",
+                        "uri": "at://did:plc:dfwtv4x3fggyakwc6xnk5t4l/app.bsky.feed.post/3l4wp2dc3yo2y"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VAMO PORRA\nVou aproveitar todo esse ecossistema ai, tudo de novo nas armas, e as cuscene, vou ver tudo com o maior prazer da terra, se foda\nVAMOBORA"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:dfwtv4x3fggyakwc6xnk5t4l/app.bsky.feed.post/3l4wp2dc3yo2y",
+                    "cid": "bafyreihd622zpgigj7klrjipdqif7ixyoynttlaibociqfdotlis3ivi5y",
+                    "author": {
+                        "did": "did:plc:dfwtv4x3fggyakwc6xnk5t4l",
+                        "handle": "mhbrasil.bsky.social",
+                        "displayName": "Guilda Brasileira de MONSTER HUNTER",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dfwtv4x3fggyakwc6xnk5t4l/bafkreiffdqb7xunljiz5w7nnawymsavx5dvrx3ufzaglvhshw3isvqdcge@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-04T18:33:50.333Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-24T22:44:44.475Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "YouTube video by Capcom Brasil",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiffokdlhfpuykq5recylr7iwnb7crvhhujh2jrjkdsstyxmn3ikk4"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 664391
+                                },
+                                "title": "Monster Hunter Wilds - 4º Trailer | Revelação da Data de Lançamento",
+                                "uri": "https://youtu.be/S76wA9hxu_A?si=foG8CJ8_kRST0pHF"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://youtu.be/S76wA9hxu_A?si=foG8CJ8_kRST0pHF"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 24,
+                                    "byteStart": 0
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "monsterhunter"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 87,
+                                    "byteStart": 73
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "youtu.be/S76wA9hxu_A?... DIA 28 DE FEVEREIRO!!!!!! O WILDS É NOSSO!!\n\n| #monsterhunter | monster hunter |"
+                    },
+                    "labels": [],
+                    "likeCount": 22,
+                    "replyCount": 3,
+                    "repostCount": 7,
+                    "quoteCount": 12,
+                    "indexedAt": "2024-09-24T22:44:44.475Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://youtu.be/S76wA9hxu_A?si=foG8CJ8_kRST0pHF",
+                                "title": "Monster Hunter Wilds - 4º Trailer | Revelação da Data de Lançamento",
+                                "description": "YouTube video by Capcom Brasil",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfwtv4x3fggyakwc6xnk5t4l/bafkreiffokdlhfpuykq5recylr7iwnb7crvhhujh2jrjkdsstyxmn3ikk4@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T22:47:12.384Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y6ncvx3hf6zqr5oc3gnyhsmz/app.bsky.feed.post/3l4sydgpaqo2r",
+            "cid": "bafyreif2kaoeqkled6nymjixfjq63vvrbd6c3wlrdnzhwzzimu45afk3wq",
+            "author": {
+                "did": "did:plc:y6ncvx3hf6zqr5oc3gnyhsmz",
+                "handle": "nativaindocil.bsky.social",
+                "displayName": "Nativa Indócil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6ncvx3hf6zqr5oc3gnyhsmz/bafkreibdu67xiuhfciiqkenwmpzkzeql5mafj7a5s22v6xywu2fmw6fvvu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T22:39:06.819Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T11:20:16.173Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicb2tcs5xvnep6douxa64htd52g5a4pybmnatfmeyrycvjb3qlpre",
+                        "uri": "at://did:plc:kbmqjynnltwukwetpaua4eft/app.bsky.feed.post/3l4pk3rfspm2t"
+                    },
+                    "root": {
+                        "cid": "bafyreicb2tcs5xvnep6douxa64htd52g5a4pybmnatfmeyrycvjb3qlpre",
+                        "uri": "at://did:plc:kbmqjynnltwukwetpaua4eft/app.bsky.feed.post/3l4pk3rfspm2t"
+                    }
+                },
+                "text": "Expropriação! Tem que expropriar! Então o latifundiário bandido toca fogo na terra, mata animais, destrói o ecossistema local, bota fumaça sobre todo o país, tem gente morta por infecção respiratória em decorrência disso, e o Estado vai e compra a terra que ele desgraçou?! Expropria e mete na cadeia"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T11:20:16.173Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7e5y52ujjs72ypmilbsmdqov/app.bsky.feed.post/3l4qzws6woi2j",
+            "cid": "bafyreiebupnr3hn3hvtyo3o65uucgpfbc2sm5biymj2dbpncmb2a7tqswu",
+            "author": {
+                "did": "did:plc:7e5y52ujjs72ypmilbsmdqov",
+                "handle": "akumanomi.bsky.social",
+                "displayName": "Larica brazilian 🇾🇪🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7e5y52ujjs72ypmilbsmdqov/bafkreiahng4onksp54cwquviktardol6uamrunfrydddbxyyyezrehcixe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T02:37:12.511Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T16:43:40.549Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifax7fxj6vh4axwvitna7bj3k4kmsdadueo5r26cw2kgjoa3q2cke",
+                        "uri": "at://did:plc:c55y5t72k77wct2dx7jh7ckv/app.bsky.feed.post/3l4qyh3xglo2n"
+                    },
+                    "root": {
+                        "cid": "bafyreigqanfsxo7h56hzbdiz52vv3qa3qnedjei6dn2bzkhz6sdejds72u",
+                        "uri": "at://did:plc:de5lqal3j2nfxvlxqcuhtl37/app.bsky.feed.post/3l4qxwucjfs2m"
+                    }
+                },
+                "text": "A terra quer mais é que isso aconteça mesmo n aguenta mais essa piolhada chamada humanidade acabando com seu ecossistema"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 38,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T16:43:40.549Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bd3tk4wamfdzjs4i6xp52lyt/app.bsky.feed.post/3l4p2xi2lgb2k",
+            "cid": "bafyreietyphfulpcubm3lrawcfnfet3xvzv2xow2j2c5z6ndfc26zsgcsi",
+            "author": {
+                "did": "did:plc:bd3tk4wamfdzjs4i6xp52lyt",
+                "handle": "alvaro7.bsky.social",
+                "displayName": "Álvaro Machado ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bd3tk4wamfdzjs4i6xp52lyt/bafkreifs27p3qg6hmkmkjd2ngj5oao54djw25s73uzjqyz7qq3rro7suh4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T12:48:18.205Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T21:56:04.249Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a red biohazard symbol is glowing on a black background",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidqvncfizy6z32lqaoa3oyfbnlqcgalzrqktz736dsjmoozjzfhce"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 381509
+                        },
+                        "title": "a red biohazard symbol is glowing on a black background",
+                        "uri": "https://media.tenor.com/henoK4_pCp8AAAAC/10.gif?hh=498&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihbcp2i7wtpw5n4xw4bpkimmwaoy2s7zagmd7mdwy52kxbp4ublda",
+                        "uri": "at://did:plc:kkg43uwph4l3thubhzbkudpa/app.bsky.feed.post/3l4oyfqyk3a2w"
+                    },
+                    "root": {
+                        "cid": "bafyreibtr4otdftxlwcobqvyur6mn4f3ranc4fut6h54dyhockv2qa63mm",
+                        "uri": "at://did:plc:kkg43uwph4l3thubhzbkudpa/app.bsky.feed.post/3l4odnjir2s22"
+                    }
+                },
+                "text": "Talvez mereçamos deixar de existir!\n\nNão somos uma espécie integrada ao meio.\n\nSomos hostis ao meio e entre nós mesmos! Mesmo c/ toda ciência e arte... Continuamos insaciáveis e sem limites!\n\nTenho convicção que o ecossistema criará, em breve, ALGO🦠 p/ nos exterminar.\n\nA Terra irá respirar aliviada"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/henoK4_pCp8AAAAC/10.gif?hh=498&ww=498",
+                    "title": "a red biohazard symbol is glowing on a black background",
+                    "description": "ALT: a red biohazard symbol is glowing on a black background",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bd3tk4wamfdzjs4i6xp52lyt/bafkreidqvncfizy6z32lqaoa3oyfbnlqcgalzrqktz736dsjmoozjzfhce@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T21:56:04.249Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m3qpnnjrccrtaauuqdr27g5d/app.bsky.feed.post/3l4mcf4ds4z2j",
+            "cid": "bafyreig3ge2z5t2php6jbz5dxwmhwgoliz2e4olk4jlqe4nonan2nu4t6u",
+            "author": {
+                "did": "did:plc:m3qpnnjrccrtaauuqdr27g5d",
+                "handle": "celebridadesdas.bsky.social",
+                "displayName": "Castro, Gilson Devorak 🟥🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3qpnnjrccrtaauuqdr27g5d/bafkreifqokkkvmcsxyadqbxjyr3gs46w6u2m3kqggczp2vetrjoshkr2ia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T21:17:34.181Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T19:31:30.812Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alt: Duvida",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigmroscgwjdadqeq4gt333ddn5wckaool3fztz3c4gm2o5wc6xe3a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 567410
+                        },
+                        "title": "a cartoon girl is thinking with question marks surrounding her .",
+                        "uri": "https://media.tenor.com/5C9v2_f7lccAAAAC/confuse-doubt.gif?hh=281&ww=360"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "No meu primeiro ano do 2° grau, ou atual ensino médio, as aulas de biologia falavam de ecossistema, bioma, nicho, etc. Em outras palavras você aprendia ali a forte relação entre as espécies no planeta Terra e sua importância em todo o sistema. Essa geração estudou o quê no Ensino Médio para negar..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/5C9v2_f7lccAAAAC/confuse-doubt.gif?hh=281&ww=360",
+                    "title": "a cartoon girl is thinking with question marks surrounding her .",
+                    "description": "Alt: Duvida",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m3qpnnjrccrtaauuqdr27g5d/bafkreigmroscgwjdadqeq4gt333ddn5wckaool3fztz3c4gm2o5wc6xe3a@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T19:31:30.812Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uambgikflwo5hnmrw4pxr2ze/app.bsky.feed.post/3l4ia3z3csq26",
+            "cid": "bafyreicwzxmusbx6ucosffh2wohfxsonl3x77wdmooaag2lhrrl7vhvhee",
+            "author": {
+                "did": "did:plc:uambgikflwo5hnmrw4pxr2ze",
+                "handle": "rudmarlpdoss.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uambgikflwo5hnmrw4pxr2ze/bafkreifzjpz6jzlaetspkpq3cg3gnjn2md2ojcbcknnwgybnncgazyyn7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T08:58:35.500Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T04:40:00.850Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Avoiding catastrophic climate change requires that we avoid losing key natural carbon reserves. This study maps such irrecoverable carbon globally and finds a third of the remaining managed by Indigen...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifds2gcrsjojy5drksg2k7tgk5efotmsvbenis3debwnfi5ezncle"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 379529
+                        },
+                        "title": "Mapping the irrecoverable carbon in Earth’s ecosystems - Nature Sustainability",
+                        "uri": "https://www.nature.com/articles/s41893-021-00803-6"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.nature.com/articles/s41893-021-00803-6"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 284,
+                            "byteStart": 254
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Evitar mudanças climáticas catastróficas requer uma rápida descarbonização e uma melhor administração do ecossistema em escala planetária. O carbono liberado pela queima de combustíveis fósseis levaria milênios para se regenerar na Terra.\"\n\nwww.nature.com/articles/s41..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.nature.com/articles/s41893-021-00803-6",
+                    "title": "Mapping the irrecoverable carbon in Earth’s ecosystems - Nature Sustainability",
+                    "description": "Avoiding catastrophic climate change requires that we avoid losing key natural carbon reserves. This study maps such irrecoverable carbon globally and finds a third of the remaining managed by Indigen...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uambgikflwo5hnmrw4pxr2ze/bafkreifds2gcrsjojy5drksg2k7tgk5efotmsvbenis3debwnfi5ezncle@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T04:40:00.850Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wuswj3wq6k3rshtmsur63hny/app.bsky.feed.post/3l4hi7vin4d2e",
+            "cid": "bafyreih3sklagb2qp7oqwupcdz3smmhrjaqdfvnriuicxuyotcayo4wzem",
+            "author": {
+                "did": "did:plc:wuswj3wq6k3rshtmsur63hny",
+                "handle": "lambiochao.bsky.social",
+                "displayName": "eu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wuswj3wq6k3rshtmsur63hny/bafkreiewhc3viqts5bu4oppq4j34y3mtuaypmswmxfs7e3y5a3tqhkotju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:54:32.296Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T21:32:40.944Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "o negócio é queimar quem tá queimando o ecossistema e a terra dos indígenas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T21:32:40.944Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fovms7i2zpjrndd2uslzjgvs/app.bsky.feed.post/3l4cqdkt42q2m",
+            "cid": "bafyreicyjrroev6x762izuhl3anz72dape36arcfkjvefgoidn6wpty6fm",
+            "author": {
+                "did": "did:plc:fovms7i2zpjrndd2uslzjgvs",
+                "handle": "brabul.suapediatra.com",
+                "displayName": "Jazz Ⓐ 🦋  de Belém  ◣★◥",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fovms7i2zpjrndd2uslzjgvs/bafkreidccnjybgb4lthytmurnr6qdz6xupxym7mwfl3dj267w7adqxbhd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:fovms7i2zpjrndd2uslzjgvs",
+                        "uri": "at://did:plc:fovms7i2zpjrndd2uslzjgvs/app.bsky.actor.profile/self",
+                        "cid": "bafyreic5knfhjbzkon6zdjaf7ep4h4hh5bdqwp5bbqvhcwbfuzr627kunu",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-08T15:55:48.203Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T00:14:33.193Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Será que os extraterrestres não estão vendo a fumaça de lá de cima?\n\nSerá que eles não ajudam? Se a terra queimar vai estragar o ecossistema deles, não? 😷"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T00:14:33.193Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jl5uw27q2fk2hyus72ft52mw/app.bsky.feed.post/3l45iqvwce52q",
+            "cid": "bafyreicl4u45d4mta5lof4yq3mfltyhct5zcfzq6qrjcjpoy7wtrbfoqlu",
+            "author": {
+                "did": "did:plc:jl5uw27q2fk2hyus72ft52mw",
+                "handle": "kestrovisk.bsky.social",
+                "displayName": "Esfera de Dyson 🛸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jl5uw27q2fk2hyus72ft52mw/bafkreic3iiawqretyvvwssvrv45exppkosbnegk5se54rf7jyyidiy3aeu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-29T19:34:08.447Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T22:15:34.671Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chegamos num planeta parecido com a Terra, queremos saber se podemos cultivar alimentos da Terra naquele planeta, fazer experimentos, mas é certo plantar la? Como fica a vegetação natural nesse planeta, como afeta todo o ecossistema dele?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T22:15:34.671Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l3zoyxuhzu26",
+            "cid": "bafyreiee7skrphknrq6ss4xjvt2hthxkpdx5vgdelvh4k46fgwdmqxptwa",
+            "author": {
+                "did": "did:plc:moxr5wj3u5rwf25vgcemftvp",
+                "handle": "mbf.net.br",
+                "displayName": "Mateus BF",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreia22yw3ziniuxxuecewu7tvcxcce7k42n4oatcdxykz6yes2crsu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T10:34:42.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T09:56:47.771Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1433
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifmbkalfbv2tx232a2g7aqzhw4rdewfzlebjccxr3wckaysnruoie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 488536
+                            }
+                        },
+                        {
+                            "alt": "Entre 2005 e 2012, o Brasil promoveu uma redução sem precedentes nas taxas de desmatamento na Amazónia, que foi causa e consequência de uma revolução na forma como encaramos a proteção desse ecossistema e tornou o país um ator imprescindível para a luta contra o aquecimento da Terra.\n\nO silêncio da motosserra é fruto da parceria de dois observadores privilegiados da Floresta Amazónica: o jornalista Claudio Angelo, que cobre questões ambientais desde a virada do século, e o engenheiro florestal Tasso Azevedo, principal arquiteto do Fundo Amazônia e de outras políticas. e iniciativas fundamentais para o controle do desmatamento.\n\nNesta narrativa cativante, os autores demonstram como o chamado \"milagre amazónico\" resultou de um conjunto de fatores em cujo centro está a construção coletiva de uma consciência nacional contra o desmatamento. Angelo e Azevedo detalham esse processo que, partindo de décadas de devastação desenfreada, repercute até o momento decisivo...",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1237
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiawz7wfntuepn5ymsawxwgia6aop62mglg6x27v2qzv4tpx4dbmci"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 541736
+                            }
+                        },
+                        {
+                            "alt": "Tasso Azevedo e Cláudio Angelo autografando o livro \"O Silêncio da Motosserra\", em Brasília",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1501
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieo4tp7npvuxy5blxbgwzitrozs4imuupmggcviqixml4o6hfglla"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 664524
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EuFui"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 43,
+                            "byteStart": 37
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EuTava"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 51,
+                            "byteStart": 44
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia5vnwq33u4wdguskdlbkxq7zvvctq5bnk3eysmekrpyfeb4xu7cm",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l3xs3vpnun2c"
+                    },
+                    "root": {
+                        "cid": "bafyreia5vnwq33u4wdguskdlbkxq7zvvctq5bnk3eysmekrpyfeb4xu7cm",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l3xs3vpnun2c"
+                    }
+                },
+                "text": "[LIVRO - O SILÊNCIO DA MOTOSSERRA]\n\n#EuFui\n#EuTava\n\n...pq é preciso aprender com quem veio antes de nós..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreifmbkalfbv2tx232a2g7aqzhw4rdewfzlebjccxr3wckaysnruoie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreifmbkalfbv2tx232a2g7aqzhw4rdewfzlebjccxr3wckaysnruoie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1433
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreiawz7wfntuepn5ymsawxwgia6aop62mglg6x27v2qzv4tpx4dbmci@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreiawz7wfntuepn5ymsawxwgia6aop62mglg6x27v2qzv4tpx4dbmci@jpeg",
+                        "alt": "Entre 2005 e 2012, o Brasil promoveu uma redução sem precedentes nas taxas de desmatamento na Amazónia, que foi causa e consequência de uma revolução na forma como encaramos a proteção desse ecossistema e tornou o país um ator imprescindível para a luta contra o aquecimento da Terra.\n\nO silêncio da motosserra é fruto da parceria de dois observadores privilegiados da Floresta Amazónica: o jornalista Claudio Angelo, que cobre questões ambientais desde a virada do século, e o engenheiro florestal Tasso Azevedo, principal arquiteto do Fundo Amazônia e de outras políticas. e iniciativas fundamentais para o controle do desmatamento.\n\nNesta narrativa cativante, os autores demonstram como o chamado \"milagre amazónico\" resultou de um conjunto de fatores em cujo centro está a construção coletiva de uma consciência nacional contra o desmatamento. Angelo e Azevedo detalham esse processo que, partindo de décadas de devastação desenfreada, repercute até o momento decisivo...",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1237
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreieo4tp7npvuxy5blxbgwzitrozs4imuupmggcviqixml4o6hfglla@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreieo4tp7npvuxy5blxbgwzitrozs4imuupmggcviqixml4o6hfglla@jpeg",
+                        "alt": "Tasso Azevedo e Cláudio Angelo autografando o livro \"O Silêncio da Motosserra\", em Brasília",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1501
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T09:56:47.771Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lrcpapya3wdjssdlma77rudu/app.bsky.feed.post/3l3qwhwe5y62l",
+            "cid": "bafyreibr5k2srs6i25d33aeymlxwrob5m7ywpklptrcyrfbhbzkxckzbjy",
+            "author": {
+                "did": "did:plc:lrcpapya3wdjssdlma77rudu",
+                "handle": "blauermoon.bsky.social",
+                "displayName": "Moon 🌕",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lrcpapya3wdjssdlma77rudu/bafkreifjie7zvygoeujazctk67q2djr6bfnhb6ncmriqvucztuf5p63usy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T23:50:58.481Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T22:16:28.341Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "É engraçado q sempre é a culpa do homem, o homem vai lá derruba a árvore e queima, gerando MTA fumaça que afeta o ar. Consequentemente afeta o equilíbrio do ecossistema e nas condições de temperaturas da Terra. Assim, altas temperaturas geram queimadas naturais, prejudicando ainda mais o ar!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T22:16:28.341Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2lrvt3ouq3qpba47udq4vrnq/app.bsky.feed.post/3l3quqvjwpk2x",
+            "cid": "bafyreietbrgaubijncw2egk6g3zjkncrqsvn6ilmbljbewyjiuybyzeyt4",
+            "author": {
+                "did": "did:plc:2lrvt3ouq3qpba47udq4vrnq",
+                "handle": "vviiiictoria.bsky.social",
+                "displayName": "victória",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2lrvt3ouq3qpba47udq4vrnq/bafkreicklitiv65mkplx7ip3hraf64kkbgyu6w3syzilomu6r7x3f3wxw4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:29:34.837Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T21:45:41.275Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "eu gostaria de eliminar absolutamente TODOS os insetos da face da terra. \"ah mas o ecossistema\" FODA-SE. eu odeio TODOS os insetos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T21:45:41.275Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5gwwgourupndqy7tqvtbw5ry/app.bsky.feed.post/3l3nkr5dgin2m",
+            "cid": "bafyreigncgbq5unnzf2xzijz6pltq67t6kanjhudmmnrux3g7y2ro2texa",
+            "author": {
+                "did": "did:plc:5gwwgourupndqy7tqvtbw5ry",
+                "handle": "carima.bsky.social",
+                "displayName": "Good_God🇪🇺",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5gwwgourupndqy7tqvtbw5ry/bafkreidd3ogaat3cood47zucrozisxy247gjrsceqrpnvzcxnm6pieehym@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T18:53:30.337Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T14:08:53.490Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigg3kazzlqz2qdscn4epmvsxgoavbeoipu4sdo4z2msizcv7lfvim",
+                        "uri": "at://did:plc:qtitsv5yqgo3hxjh3nq5d6sl/app.bsky.feed.post/3l3ni27egxx2n"
+                    },
+                    "root": {
+                        "cid": "bafyreib455gosbdkhryv3pesfnmmxsgk6kohc2on5ncrzkbfjcc56pu5ka",
+                        "uri": "at://did:plc:qtitsv5yqgo3hxjh3nq5d6sl/app.bsky.feed.post/3l3l2ruwv2v2x"
+                    }
+                },
+                "text": "Vivo aqui dentro dessa bola de ecossistema chamado terra, a qual nós todos estamos inseridos, sem esse ecossistema não temos como sobreviver, o resto são apenas conexões complexas de nossos neurônios, uns tende a ser machos outros fêmeas."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T14:08:53.490Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gpmpusyl2d",
+            "cid": "bafyreicmwyrttva555qtv2utpgvevumudzrzopon5iy5hah33ktra7ytiy",
+            "author": {
+                "did": "did:plc:bmrap76m3sje4l2ydpnlns6b",
+                "handle": "justicaglobal.bsky.social",
+                "displayName": "Justiça Global",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreih65qufsipphawcxxynbugoxepyatpnsilxqcu7abdi3drzmdtodq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-30T20:27:17.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T20:47:15.900Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "De 1985 a 2023, a área ocupada pela agropecuária na Amazônia cresceu de 12,85 milhões de hectares para 66,3 milhões de hectares. Hoje, 15,9% da Amazônia legal brasileira é ocupada por empreendimentos de pastagem e agricultura. (Fonte: MapBiomas)\nAo fundo, a foto de uma área sendo devastada para uso do agronegócio.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 424456
+                            }
+                        },
+                        {
+                            "alt": "E as vidas que estavam aqui?\nEnquanto poucos lucram com a destruição da floresta, pessoas, animais e toda uma cadeia de biodiversidade são atacados direta ou indiretamente. O desequilíbrio ambiental afeta o Brasil e o mundo.\nAo fundo, a foto de uma enchente.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 943124
+                            }
+                        },
+                        {
+                            "alt": "Nossos Desejos para o Dia da Amazônia\nRespeitar os povos da floresta, demarcar terras indígenas e quilombolas, frear a mineração e a agropecuária predatória e parar o desmatamento. Por um manejo consciente da terra e dos recursos.\n\nSão esses os nossos desejos nesse Dia da Amazônia!\n\nAo fundo, um rio amazônico",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 328102
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifg6d5kuvl7bxmti767pi62gkmmfotrb3a2lgjjxgzewsjthds3re",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gpkuajox2r"
+                    },
+                    "root": {
+                        "cid": "bafyreigy4zkqxm3v2qwwjgpadnj5ek2qfqb72oz46f7p3vx46h7gnryf4m",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gphg6l6p23"
+                    }
+                },
+                "text": "✊🏾 Por isso, reafirmamos a defesa desse ecossistema vital, que sustenta culturas e modos de vida. Honramos a sabedoria dos povos indígenas e tradicionais que, por séculos, protegem a maior floresta tropical do mundo.\n\n🌳 Não existe humanidade sem natureza. A Amazônia e seus povos merecem respeito!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe@jpeg",
+                        "alt": "De 1985 a 2023, a área ocupada pela agropecuária na Amazônia cresceu de 12,85 milhões de hectares para 66,3 milhões de hectares. Hoje, 15,9% da Amazônia legal brasileira é ocupada por empreendimentos de pastagem e agricultura. (Fonte: MapBiomas)\nAo fundo, a foto de uma área sendo devastada para uso do agronegócio.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq@jpeg",
+                        "alt": "E as vidas que estavam aqui?\nEnquanto poucos lucram com a destruição da floresta, pessoas, animais e toda uma cadeia de biodiversidade são atacados direta ou indiretamente. O desequilíbrio ambiental afeta o Brasil e o mundo.\nAo fundo, a foto de uma enchente.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm@jpeg",
+                        "alt": "Nossos Desejos para o Dia da Amazônia\nRespeitar os povos da floresta, demarcar terras indígenas e quilombolas, frear a mineração e a agropecuária predatória e parar o desmatamento. Por um manejo consciente da terra e dos recursos.\n\nSão esses os nossos desejos nesse Dia da Amazônia!\n\nAo fundo, um rio amazônico",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T20:47:15.900Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6tcc4sp45j5nwnxqp6chwxkh/app.bsky.feed.post/3l3fzil5tiq2l",
+            "cid": "bafyreifniul7sqost26drrzjdbtnf2muisja7xc5lwjgndxc7sek267dey",
+            "author": {
+                "did": "did:plc:6tcc4sp45j5nwnxqp6chwxkh",
+                "handle": "garciaalencar.bsky.social",
+                "displayName": "𝔊𝔞𝔯𝔠𝔦𝔞 𝔄𝔩𝔢𝔫𝔠𝔞𝔯 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6tcc4sp45j5nwnxqp6chwxkh/bafkreibvnrfqhha25xk7kiwbh47e2hxbna7xmzuacdh6ml6i5nce445f2a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:58:38.001Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T14:11:13.183Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje é o Dia da Amazônia! Mas hoje, os rios estão secos, peixes se debatem na lama onde antes eram rios e lagos. É nossa natureza, é nosso ecossistema, é parte de nós. Não há motivos para colocarmos pessoas no mundo se não restaurarmos a Terra, se não cuidarmos das sagradas florestas."
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 14,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T14:11:13.183Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dqpi7x7t7e5263advxrfmykl/app.bsky.feed.post/3l3eh54htua2d",
+            "cid": "bafyreiejyg6sloxtvjupkimgunfw4kjtemnc6meguxdhbur3y37v5mdw2q",
+            "author": {
+                "did": "did:plc:dqpi7x7t7e5263advxrfmykl",
+                "handle": "sidneyfelipe.bsky.social",
+                "displayName": "sid8888",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqpi7x7t7e5263advxrfmykl/bafkreihwx5fgiv34pxvqdu44uqrrkd6zgizthfc5k6ylddwyyutqqb3vtq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T22:59:13.230Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T23:10:03.096Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidvebdlvw3db72oegaqogcpljtgp7bmk774gj57wbhby5uq2u4obq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 839011
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "tempo seco em Goiás, 5 meses sem chuva em quase todo estado, as plantas, animais, os humanos e todos que fazem parte desse ecossistema planeta terra sofrem bastante, vamos repensar? ♻️🙇🫡"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqpi7x7t7e5263advxrfmykl/bafkreidvebdlvw3db72oegaqogcpljtgp7bmk774gj57wbhby5uq2u4obq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dqpi7x7t7e5263advxrfmykl/bafkreidvebdlvw3db72oegaqogcpljtgp7bmk774gj57wbhby5uq2u4obq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T23:10:03.096Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y5ukzlv2742paehzys7hg4ul/app.bsky.feed.post/3l3ayy7efbp2t",
+            "cid": "bafyreid5of2gin5exzystd6kb25mz2ofph362ikntvy2kw5274t5oybmme",
+            "author": {
+                "did": "did:plc:y5ukzlv2742paehzys7hg4ul",
+                "handle": "zeldroph.bsky.social",
+                "displayName": "ZeldroPH/LutoPeloSukuna⛩️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y5ukzlv2742paehzys7hg4ul/bafkreigs424on5yyo532gk3aliznwvfhmdllcgej53gl57cnua6u7ivga4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T06:25:52.498Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T14:18:47.058Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreida6mkjffcfbp2tpvpg6szddhvdsjbla7czqk6w7mcb3teagejcfu",
+                        "uri": "at://did:plc:wzzpfi2rnxquzfxqrfacpy4u/app.bsky.feed.post/3l3at2niqjb24"
+                    },
+                    "root": {
+                        "cid": "bafyreida6mkjffcfbp2tpvpg6szddhvdsjbla7czqk6w7mcb3teagejcfu",
+                        "uri": "at://did:plc:wzzpfi2rnxquzfxqrfacpy4u/app.bsky.feed.post/3l3at2niqjb24"
+                    }
+                },
+                "text": "Relatório:\n\n-apesar do claro ecossistema alterado e diferente, o ambiente não parece extremamente desconhecido ou novo, resumindo, habitável \n\n-Os habitantes desta terra parecem ter uma fascinação por gatos e pombos, só não entendemos ainda o porquê de estarem tristes, mais pesquisas necessárias..."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T14:18:47.000Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d7pum5nrqvhnrumr2fuj3lvf/app.bsky.feed.post/3l32sehb4yc2n",
+            "cid": "bafyreidllstb7dlgojfatxlsfk6z4bep6l7hcfoe2pza7lhhlg5n26jo7a",
+            "author": {
+                "did": "did:plc:d7pum5nrqvhnrumr2fuj3lvf",
+                "handle": "mdsqinfern0.bsky.social",
+                "displayName": "mdsqinfern0",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7pum5nrqvhnrumr2fuj3lvf/bafkreifdpu4q6cfyi6yqi4gnb6uwgslzl7szaor6saynddw6vjv4mciidm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-23T23:23:25.831Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T03:04:22.936Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreianlkcyqetaear4ht4iodmj5wftw7jf4wrlcg7snea3wwzm3pt7xi",
+                        "uri": "at://did:plc:jroueo4p5k52wd5qm5ig4nlo/app.bsky.feed.post/3l32c4ncqsz2g"
+                    },
+                    "root": {
+                        "cid": "bafyreianlkcyqetaear4ht4iodmj5wftw7jf4wrlcg7snea3wwzm3pt7xi",
+                        "uri": "at://did:plc:jroueo4p5k52wd5qm5ig4nlo/app.bsky.feed.post/3l32c4ncqsz2g"
+                    }
+                },
+                "text": "Outro que deveria sumir da face da terra e alimentar os vermes e fungos do ecossistema"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T03:04:22.936Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mkhqqagrma7wrva2rwzxbqf7/app.bsky.feed.post/3l32gtgn57s2n",
+            "cid": "bafyreibpkgnsuzgk3kok4ohdtopjnw23semytsdo7avalqcidernfd5jia",
+            "author": {
+                "did": "did:plc:mkhqqagrma7wrva2rwzxbqf7",
+                "handle": "gaju16.bsky.social",
+                "displayName": "Gaju ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mkhqqagrma7wrva2rwzxbqf7/bafkreih63x2imxnfemzs5uyaqn3cj4stfwnpz4lkp252suabmvuwjscwrm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T23:11:00.700Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-31T23:38:00.659Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: an astronaut is walking on the moon .",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihiycwv4dgk4lpw7awmeu3xmw3koctxtuajyhm4kg2dgscytpunyu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 668648
+                        },
+                        "title": "an astronaut is walking on the moon .",
+                        "uri": "https://media.tenor.com/KNOgyCQSjzEAAAAC/astronaut-moon.gif?hh=240&ww=350"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os primeiros passos em um mundo desconhecido \n\nMe preparando para interagir nesse novo ecossistema \n\nSou um de vários orfãos de uma terra que já não existe mais, a procura de uma nova casa."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/KNOgyCQSjzEAAAAC/astronaut-moon.gif?hh=240&ww=350",
+                    "title": "an astronaut is walking on the moon .",
+                    "description": "ALT: an astronaut is walking on the moon .",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mkhqqagrma7wrva2rwzxbqf7/bafkreihiycwv4dgk4lpw7awmeu3xmw3koctxtuajyhm4kg2dgscytpunyu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-31T23:38:00.659Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eix5jzgelh3b4r7a6vhm2obn/app.bsky.feed.post/3l2xuphgz4y2h",
+            "cid": "bafyreiesojhdnmz7jyq6erkyxi43o6h3wj2hpunesj7gpeloz44gss2r3m",
+            "author": {
+                "did": "did:plc:eix5jzgelh3b4r7a6vhm2obn",
+                "handle": "arilton.bsky.social",
+                "displayName": "arilton🪽",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eix5jzgelh3b4r7a6vhm2obn/bafkreiekmkjho6n5jfrcirjnez6siprjpjdqhc4fwayuo2h2zwmimr6s6q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:05:37.095Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-30T23:08:20.529Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a man with a beard is wearing a black hoodie and adjusting his sleeves",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreido46dwcfatpp3sibvm373n6deit5dsijje2rp2g67sh3yryxjcdq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 934396
+                        },
+                        "title": "a man with a beard is wearing a black hoodie and adjusting his sleeves",
+                        "uri": "https://media.tenor.com/EdvUgBWHnCYAAAAC/worried-james-tindale.gif?hh=498&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vamos pensar assim, o planeta terra acabou e fomos parar em outro planeta, onde que tudo é novo e vamos ter que se adaptar ao novo ecossistema! Boa noite"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/EdvUgBWHnCYAAAAC/worried-james-tindale.gif?hh=498&ww=498",
+                    "title": "a man with a beard is wearing a black hoodie and adjusting his sleeves",
+                    "description": "ALT: a man with a beard is wearing a black hoodie and adjusting his sleeves",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eix5jzgelh3b4r7a6vhm2obn/bafkreido46dwcfatpp3sibvm373n6deit5dsijje2rp2g67sh3yryxjcdq@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-30T23:08:20.529Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.feed.post/3kvtuwvy4rk2r",
+            "cid": "bafyreielmvs5fhhh4b2snldfeppa3eo7hrf4bt5yomow7a5uhedsiejwke",
+            "author": {
+                "did": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                "handle": "gabiaraujoo.bsky.social",
+                "displayName": "Gabriela Araujo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreicidspjj2fppsxlfbvzne553bcwg5gyhl36ybprncgbyotvldwsvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                        "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibgl5vqxmnkznqysw6bglzzh63vmuywtsxjcevex7ab2whir2trne",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T21:05:32.243Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T21:05:31.291Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-26T17:55:53.665Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Após 14 anos, Assange será libertado. Devemos homenagear as centenas de milhares de pessoas em todo o mundo que fizeram isto acontecer.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic7q6kwmm4ylgprxlvwoufzkbclc3vvfq3ojgla72mr7t3lgemd7m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 686386
+                        },
+                        "title": "Você salvou Julian Assange, por Chris Hedges",
+                        "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 263
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Protestos de rua em massa e desobediência civil prolongada são a nossa única esperança. Se não nos levantarmos — que é com o que o Estado corporativo conta — nos veremos escravizados e o ecossistema da Terra se tornará inóspito à habitação humana. jornalggn.com.br/cidadania/vo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/",
+                    "title": "Você salvou Julian Assange, por Chris Hedges",
+                    "description": "Após 14 anos, Assange será libertado. Devemos homenagear as centenas de milhares de pessoas em todo o mundo que fizeram isto acontecer.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreic7q6kwmm4ylgprxlvwoufzkbclc3vvfq3ojgla72mr7t3lgemd7m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-26T17:55:53.665Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pppinemkgh3qa2ptltofk7gd/app.bsky.feed.post/3kvtcrsifl226",
+            "cid": "bafyreihl2htxejb2e64d2tkzaa6ezkrruquzqrcgghbxtsahy2f7rb73ya",
+            "author": {
+                "did": "did:plc:pppinemkgh3qa2ptltofk7gd",
+                "handle": "zumbyruy.bsky.social",
+                "displayName": "zumby_ruy🚩♎🍺☮️🍀🤘👽🤙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pppinemkgh3qa2ptltofk7gd/bafkreiem5v5g4m34cvnd7lumwfpwnsx76jir5aj4cpzdq2vlgvnn4swzyi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-19T09:42:42.408Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-26T12:30:54.796Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Após 14 anos, Assange será libertado. Devemos homenagear as centenas de milhares de pessoas em todo o mundo que fizeram isto acontecer.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihvtnawuuowtkgsi2xjmvgiwofukp25udltfbgs5sguzhpto43iii"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 428875
+                        },
+                        "title": "Você salvou Julian Assange, por Chris Hedges",
+                        "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1719398166"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1719398166"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Protestos de rua em massa e desobediência civil prolongada são a nossa única esperança. Se não nos levantarmos — que é com o que o Estado corporativo conta — nos veremos escravizados e o ecossistema da Terra se tornará inóspito à habitação humana\"\n\njornalggn.com.br/cidadania/vo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalggn.com.br/cidadania/voce-salvou-julian-assange-por-chris-hedges/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1719398166",
+                    "title": "Você salvou Julian Assange, por Chris Hedges",
+                    "description": "Após 14 anos, Assange será libertado. Devemos homenagear as centenas de milhares de pessoas em todo o mundo que fizeram isto acontecer.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pppinemkgh3qa2ptltofk7gd/bafkreihvtnawuuowtkgsi2xjmvgiwofukp25udltfbgs5sguzhpto43iii@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 11,
+            "likeCount": 30,
+            "quoteCount": 2,
+            "indexedAt": "2024-06-26T12:30:54.796Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:isxq5ziugguvidhz2likao62/app.bsky.feed.post/3ksxepz6p2s2j",
+            "cid": "bafyreibfvopoekodvtgvetrlouekmz5geoyedmqmwhebffhyfk6qb7i3qa",
+            "author": {
+                "did": "did:plc:isxq5ziugguvidhz2likao62",
+                "handle": "allanoli.bsky.social",
+                "displayName": "Allan",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:isxq5ziugguvidhz2likao62/bafkreiajmahutvo74w42dvfawobiv34jnwk3vzubwn3re24mfp6dtkdamq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-11T21:09:05.646Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-20T23:00:44.885Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiafpzdhlsaq3ccab3c4lwm5qa3jzhnp2tcbgngbnt7qtgls4ybnqm",
+                        "uri": "at://did:plc:olt6nkuwdstbdmx2met4rjdl/app.bsky.feed.post/3ksxenonwkt2s"
+                    },
+                    "root": {
+                        "cid": "bafyreigtnei7ynxjfaumxij6rjs5fn7qewxvk65772e73bhajndvz4iiyy",
+                        "uri": "at://did:plc:olt6nkuwdstbdmx2met4rjdl/app.bsky.feed.post/3ksxe6jl43t2s"
+                    }
+                },
+                "text": "Se tivesse como silenciar quote igual aqui seria a paz na Terra \n\nOu se literalmente todo mundo que tá lá viesse pra cá. Mas os verificados não vão querer abrir mão do status, é isso interfere em todo o ecossistema"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-20T23:00:44.885Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hxvtzqnapn5hjagwwps4gycx/app.bsky.feed.post/3krwprn45cm25",
+            "cid": "bafyreihzqtpvgl3x7vypb4utz2yqwbek5yl5a7zs4p3szyybyblxb5hjlm",
+            "author": {
+                "did": "did:plc:hxvtzqnapn5hjagwwps4gycx",
+                "handle": "mrmarcinho.bsky.social",
+                "displayName": "🦋 Marcio Aloisio de Oliveira 🚩🏳️‍🌈",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hxvtzqnapn5hjagwwps4gycx/bafkreiec7k7njuix4rfenwwk44g4ncp73km3rzthgdyxnw2bs67pc47pp4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T11:57:15.985Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T23:15:26.917Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "A imagem é composta por três painéis que ilustram uma narrativa sobre as consequências das ações humanas na natureza:\n\nPainel 1: Apresenta uma floresta densa e verde, repleta de vida, com veados entre as árvores e um céu nublado acima, sugerindo um ecossistema equilibrado e saudável.\nPainel 2: Mostra o mesmo local, mas agora devastado pelo desmatamento. O céu está claro e o sol brilha intensamente, simbolizando a exposição e vulnerabilidade da terra. Árvores cortadas e animais mortos pontuam a paisagem, evidenciando a destruição.\nPainel 3: Ilustra uma enchente catastrófica, com águas torrenciais submergindo o que restou da paisagem, consequência direta da devastação anterior.\nAcima dos painéis, uma citação de Robert G. Ingersoll reforça a mensagem da charge: “Na Natureza não existem recompensas nem castigos. Existem consequências.”",
+                            "aspectRatio": {
+                                "height": 506,
+                                "width": 640
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiabvvsgjaeqntflw5my5stegqors5x67rb6loyz2zdw6i4pgjaa3m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 230706
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Na Natureza não existem recompensas nem castigos. Existem consequências.”  Da importância de cuidarmos do nosso ambiente natural  ou sérias repercussões que podem ocorrer se falharmos em protegê-lo!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hxvtzqnapn5hjagwwps4gycx/bafkreiabvvsgjaeqntflw5my5stegqors5x67rb6loyz2zdw6i4pgjaa3m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hxvtzqnapn5hjagwwps4gycx/bafkreiabvvsgjaeqntflw5my5stegqors5x67rb6loyz2zdw6i4pgjaa3m@jpeg",
+                        "alt": "A imagem é composta por três painéis que ilustram uma narrativa sobre as consequências das ações humanas na natureza:\n\nPainel 1: Apresenta uma floresta densa e verde, repleta de vida, com veados entre as árvores e um céu nublado acima, sugerindo um ecossistema equilibrado e saudável.\nPainel 2: Mostra o mesmo local, mas agora devastado pelo desmatamento. O céu está claro e o sol brilha intensamente, simbolizando a exposição e vulnerabilidade da terra. Árvores cortadas e animais mortos pontuam a paisagem, evidenciando a destruição.\nPainel 3: Ilustra uma enchente catastrófica, com águas torrenciais submergindo o que restou da paisagem, consequência direta da devastação anterior.\nAcima dos painéis, uma citação de Robert G. Ingersoll reforça a mensagem da charge: “Na Natureza não existem recompensas nem castigos. Existem consequências.”",
+                        "aspectRatio": {
+                            "height": 506,
+                            "width": 640
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T23:15:26.917Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tuadpknbgmfnclafiw6eqyrp/app.bsky.feed.post/3kr42awu3352t",
+            "cid": "bafyreib7hzgqjonz63gxwgyj3utospzy2l5ssjt7y2pmdvwvzvsljuveni",
+            "author": {
+                "did": "did:plc:tuadpknbgmfnclafiw6eqyrp",
+                "handle": "lidiamira.bsky.social",
+                "displayName": "Lídia Mira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tuadpknbgmfnclafiw6eqyrp/bafkreihlgewlbsuuw6ureidqaiqi3ppbfivpulisis5fcqmbs64nrpcnbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T12:48:09.163Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-27T08:46:18.631Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 674,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidom26ircczyazn5j5jlriz53lwlepminp4m5ga4gwas6fgsrcsai"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 85797
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uma vida próspera na terra é a base da nossa vida neste planeta. Todos fazemos parte do ecossistema e causamos graves danos através da perda de habitats naturais e da degradação dos solos. Promover a sustentabilidade dos ecossistemas e preservar a biodiversidade é a chave para a nossa sobrevivência."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tuadpknbgmfnclafiw6eqyrp/bafkreidom26ircczyazn5j5jlriz53lwlepminp4m5ga4gwas6fgsrcsai@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tuadpknbgmfnclafiw6eqyrp/bafkreidom26ircczyazn5j5jlriz53lwlepminp4m5ga4gwas6fgsrcsai@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 674,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-27T08:46:18.631Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7l2kx3luxba3tqbzbuproote/app.bsky.feed.post/3kqqfpivrj62o",
+            "cid": "bafyreiafeukf5orq6luog4omniyk3uvmm33gfcvheq2tzyqs3wujbomj3q",
+            "author": {
+                "did": "did:plc:7l2kx3luxba3tqbzbuproote",
+                "handle": "cantinhoniponico.bsky.social",
+                "displayName": "Cantinho Nipônico",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreic3l5oectlznqi5wlbtit44flessic5zv5qmpw7dpbjfmq3f7sppi@jpeg",
+                "labels": [],
+                "createdAt": "2024-02-06T21:40:09.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-22T17:39:56.975Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Imagem do anime Godzilla Ponto Singular",
+                            "aspectRatio": {
+                                "height": 383,
+                                "width": 680
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidmcwjf5owiwi4oe6dpcadbbpmghu2yqaovououbwhjmgxtdcodhe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 127776
+                            }
+                        },
+                        {
+                            "alt": "Imagem do anime Godzilla Ponto Singular",
+                            "aspectRatio": {
+                                "height": 203,
+                                "width": 360
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifdmyxpugorc7y3bklm646qnua3stztuuroj45xkogqim2hg5e3iy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 69837
+                            }
+                        },
+                        {
+                            "alt": "Imagem do anime Godzilla Ponto Singular",
+                            "aspectRatio": {
+                                "height": 383,
+                                "width": 680
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiap6vk4f2v7jxscknbrhg6i4toqkdslbf32lwsdf75q65zbk5yhoa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 200281
+                            }
+                        },
+                        {
+                            "alt": "Imagem do anime Godzilla Ponto Singular",
+                            "aspectRatio": {
+                                "height": 203,
+                                "width": 360
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibkk365waei5qipxlxoeya6hydqdbwt6xwbfq3du5v472ormrawje"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 75908
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifx5odsozn5hspkm2lqqkun6tkpcvy3vkdyyr6cfvjkzyqxrbbq6e",
+                        "uri": "at://did:plc:7l2kx3luxba3tqbzbuproote/app.bsky.feed.post/3kqqfjrmnvt2j"
+                    },
+                    "root": {
+                        "cid": "bafyreifx5odsozn5hspkm2lqqkun6tkpcvy3vkdyyr6cfvjkzyqxrbbq6e",
+                        "uri": "at://did:plc:7l2kx3luxba3tqbzbuproote/app.bsky.feed.post/3kqqfjrmnvt2j"
+                    }
+                },
+                "text": "Com a chegada dos kaijus em várias partes do mundo, a Terra começa a ser destruída, a humanidade corre o risco de ser exterminada e se inicia uma mudança no ecossistema do planeta para receber seus novos moradores"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreidmcwjf5owiwi4oe6dpcadbbpmghu2yqaovououbwhjmgxtdcodhe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreidmcwjf5owiwi4oe6dpcadbbpmghu2yqaovououbwhjmgxtdcodhe@jpeg",
+                        "alt": "Imagem do anime Godzilla Ponto Singular",
+                        "aspectRatio": {
+                            "height": 383,
+                            "width": 680
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreifdmyxpugorc7y3bklm646qnua3stztuuroj45xkogqim2hg5e3iy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreifdmyxpugorc7y3bklm646qnua3stztuuroj45xkogqim2hg5e3iy@jpeg",
+                        "alt": "Imagem do anime Godzilla Ponto Singular",
+                        "aspectRatio": {
+                            "height": 203,
+                            "width": 360
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreiap6vk4f2v7jxscknbrhg6i4toqkdslbf32lwsdf75q65zbk5yhoa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreiap6vk4f2v7jxscknbrhg6i4toqkdslbf32lwsdf75q65zbk5yhoa@jpeg",
+                        "alt": "Imagem do anime Godzilla Ponto Singular",
+                        "aspectRatio": {
+                            "height": 383,
+                            "width": 680
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreibkk365waei5qipxlxoeya6hydqdbwt6xwbfq3du5v472ormrawje@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7l2kx3luxba3tqbzbuproote/bafkreibkk365waei5qipxlxoeya6hydqdbwt6xwbfq3du5v472ormrawje@jpeg",
+                        "alt": "Imagem do anime Godzilla Ponto Singular",
+                        "aspectRatio": {
+                            "height": 203,
+                            "width": 360
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-22T17:39:23.014Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3khyzmps7322r",
+            "cid": "bafyreigwtxfnhyk2w4ztrqnbf4xzwm333bwzeb3o3g6wcb4dcbok5b67hm",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-02T15:10:13.113593Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pesquisadores descobriram um ecossistema lagunar único na região do Puna do Atacama, na Argentina.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibbxappyzppyqc22sjmlsw45u62vithtignmsx6phgpanbvyt747m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 143653
+                        },
+                        "title": "O ecossistema descoberto no deserto do Atacama que pode conter pistas sobre a origem da vida na Terra",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/01/02/o-ecossistema-descoberto-no-deserto-do-atacama-que-pode-conter-pistas-sobre-a-origem-da-vida-na-terra.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O ecossistema descoberto no deserto do Atacama que pode conter pistas sobre a origem da vida na Terra"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/01/02/o-ecossistema-descoberto-no-deserto-do-atacama-que-pode-conter-pistas-sobre-a-origem-da-vida-na-terra.ghtml",
+                    "title": "O ecossistema descoberto no deserto do Atacama que pode conter pistas sobre a origem da vida na Terra",
+                    "description": "Pesquisadores descobriram um ecossistema lagunar único na região do Puna do Atacama, na Argentina.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibbxappyzppyqc22sjmlsw45u62vithtignmsx6phgpanbvyt747m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-02T15:10:13.113Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vljgfzvjl3dkmjgsjmdoaidc/app.bsky.feed.post/3kh3635qc4d2k",
+            "cid": "bafyreie6vpmkoknwvu3t4hbk3l7khh7v4ybh72i4ryyudzl3tzbbcqnyr4",
+            "author": {
+                "did": "did:plc:vljgfzvjl3dkmjgsjmdoaidc",
+                "handle": "bbcnews-br-bot-rss.adilson.net.br",
+                "displayName": "BBC News Brasil (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiblfqcx2ypeap37o4egcvkasm2clha54vs7hiefsptlw3joozabom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-26T19:08:58.574Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-21T18:10:02.130409Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pesquisadores descobriram um ecossistema lagunar único na região do Puna do Atacama, na Argentina.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidg6mxwub2clgnb3ogsvcyuxir6wcbiscjesmb4o5b6l2aqqglv64"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 103005
+                        },
+                        "title": "Atacama: o ecossistema descoberto no deserto que pode conter pistas sobre a origem da vida na Terra - BBC News Brasil",
+                        "uri": "https://www.bbc.com/portuguese/articles/crgx2ry7m8jo"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O ecossistema descoberto no deserto do Atacama que pode conter pistas sobre a origem da vida na Terra"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bbc.com/portuguese/articles/crgx2ry7m8jo",
+                    "title": "Atacama: o ecossistema descoberto no deserto que pode conter pistas sobre a origem da vida na Terra - BBC News Brasil",
+                    "description": "Pesquisadores descobriram um ecossistema lagunar único na região do Puna do Atacama, na Argentina.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreidg6mxwub2clgnb3ogsvcyuxir6wcbiscjesmb4o5b6l2aqqglv64@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-21T18:10:02.130Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kvaypvzwysstq4bgvjedyfp2/app.bsky.feed.post/3k6bf4i7s4o2a",
+            "cid": "bafyreicvtkkclpvdqtn76qvbnl7ejazt7vpoo6fe73aw3apabcyy2s4dxa",
+            "author": {
+                "did": "did:plc:kvaypvzwysstq4bgvjedyfp2",
+                "handle": "f4bs.bsky.social",
+                "displayName": "fabs balvedi",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kvaypvzwysstq4bgvjedyfp2/bafkreih2xtb7xe2bhb3dgdhu6btrkh27j5yeotj2box747pvr4xvwuk7ge@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-19T20:51:36.060Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-31T16:45:17.795Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif7d3metszappyl2i67uykzg7psukzkywtom4xaclub6jgecdwbvq",
+                        "uri": "at://did:plc:kvaypvzwysstq4bgvjedyfp2/app.bsky.feed.post/3k6bewsbuuh2i"
+                    },
+                    "root": {
+                        "cid": "bafyreicu7gudjcpqthejxb3p5fvoexjdi22dqfqfmblxygaga4k37o55pi",
+                        "uri": "at://did:plc:kvaypvzwysstq4bgvjedyfp2/app.bsky.feed.post/3k6bemx2cul2n"
+                    }
+                },
+                "text": "por isso vejo muita permacultura no movimento do #softwarelivre. Visualizo um ecossistema de agrofloresta digital. E as infraestruturas físicas são a terra sobre a qual essas sementes vingam. Onde estamos plantando nossas sementes?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-31T16:45:17.795Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r5onmqjmslku7nkbfrdoeaoj/app.bsky.feed.post/3k5jx6ggo372f",
+            "cid": "bafyreidvclp4iuvnj2dyusxrf56tywl5mdljozaoluprgexksc5nw5skri",
+            "author": {
+                "did": "did:plc:r5onmqjmslku7nkbfrdoeaoj",
+                "handle": "sergiosgc.com",
+                "displayName": "Sérgio Carvalho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r5onmqjmslku7nkbfrdoeaoj/bafkreibm6qob5rzo2545uku2m6d4bw2iqmzqycsa7jz2tnoahnlwfv7gte@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-01T08:20:42.845Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-22T09:04:36.854Z",
+                "langs": [
+                    "en",
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia63xewcffnuul2vpth5adkgkrdotr2o7xjriefbl5tamrnazia7m",
+                        "uri": "at://did:plc:4htdonk6ih63b53yqzbjr22d/app.bsky.feed.post/3k5jwrb3j5p2f"
+                    },
+                    "root": {
+                        "cid": "bafyreihe5ajssuerb4jkuzwxmqgws4nldop544znlldhef5kity3dp2v2a",
+                        "uri": "at://did:plc:4o4hihnijq2guwmabeg5zmo5/app.bsky.feed.post/3k5ipscrvk727"
+                    }
+                },
+                "text": "É muito neutro, ecologicamente. Vamos para o pior cenário: baterias voltam à terra em aterro. Não é grave. É fundamentalmente cobre e ferro. Ferro temos já no ecossistema aos pontapés. Cobre não faz mal a ninguém. Os metais nobres não irão nunca para aterro e, se fossem, mais uma vez, zero grave."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-22T09:04:36.854Z",
+            "labels": []
+        }
+    ]
+}

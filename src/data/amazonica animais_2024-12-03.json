@@ -1,0 +1,1533 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:wurt2t4qdzr4xmpsqrbrifw7/app.bsky.feed.post/3lbbctsfbgc2m",
+            "cid": "bafyreigcj3ep3wp3dpnutneqwsqsbizchux3qfmynjxqlluwtxw5oeqkiq",
+            "author": {
+                "did": "did:plc:wurt2t4qdzr4xmpsqrbrifw7",
+                "handle": "questcuriosidades.bsky.social",
+                "displayName": "Quest Curiosidades",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wurt2t4qdzr4xmpsqrbrifw7/bafkreignzuoxrb7nukstu3nuizryvnyqsmnagdd7airystklyihgkmltxm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T04:58:27.421Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T01:46:26.245Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1080,
+                        "width": 1920
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 4353320
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Biodiversidade da Floresta Amazônica 🌳🌳🌳\n\nEstima-se que a Floresta Amazônica abriga um número estimado de 2 a 5 milhões de espécies de animais e plantas. Embora as estimativas variem, acredita-se que a Amazônia contenha cerca de: (segue o fio 👇)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Awurt2t4qdzr4xmpsqrbrifw7/bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Awurt2t4qdzr4xmpsqrbrifw7/bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1080,
+                    "width": 1920
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T01:48:07.843Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ewf2tjfaei2owt3wt4lptpo3/app.bsky.feed.post/3lawvmjdpa22z",
+            "cid": "bafyreihevjrysvcfxzx72ltzn3v6fcqivrjhctlqnd765m5ket6boefp3u",
+            "author": {
+                "did": "did:plc:ewf2tjfaei2owt3wt4lptpo3",
+                "handle": "tiagoaraujo1.bsky.social",
+                "displayName": "Tiago Araújo 🟥",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewf2tjfaei2owt3wt4lptpo3/bafkreibszkmg2so3osmg3lvhhcntemtrmfz64uerfyqae4jbw5h4xo7rlq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T11:19:55.435Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-14T22:23:05.848Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibu3csjf6l4qokiyqg6lsq3xa6mgqhk2an3l4bqdce3ddreu6wdry",
+                        "uri": "at://did:plc:zbtuvg2jvrc5wtmml6hdu2tp/app.bsky.feed.post/3lawsh6gxos2p"
+                    },
+                    "root": {
+                        "cid": "bafyreibu3csjf6l4qokiyqg6lsq3xa6mgqhk2an3l4bqdce3ddreu6wdry",
+                        "uri": "at://did:plc:zbtuvg2jvrc5wtmml6hdu2tp/app.bsky.feed.post/3lawsh6gxos2p"
+                    }
+                },
+                "text": "Queria que a prendessem no meio da selva amazonica e que ali ela lutasse pela sobrevivência entre os animais mais peçonhentos."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-14T22:23:09.045Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3laaecva2b52u",
+            "cid": "bafyreigctwykf5qffwrjp7wl3l4oiaq4mevmqtxqtjdtvqsfih7jcjufly",
+            "author": {
+                "did": "did:plc:mmfstj3aoyjlakckupdhgntu",
+                "handle": "flaviaward.bsky.social",
+                "displayName": "Flavia Ward 🌼🌱",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmfstj3aoyjlakckupdhgntu/bafkreih237fae2qcerrsgmiqlunq3sqfbehl7nswg3tvwcorkokpi7aaem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T18:18:18.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-05T23:14:54.680Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiejogv65fgo5e7xe2mhjauntufpkkbvmoxqqc54fybv3j6poyuv5e",
+                        "uri": "at://did:plc:fse7cowh4tnvbq2qqgaxev5q/app.bsky.feed.post/3la7ine52jr25"
+                    },
+                    "root": {
+                        "cid": "bafyreickovrh4fnlyzmqgta72ml4dcabcunc5ch3h3rjemb6n2afwzv4wm",
+                        "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3la627bru6r22"
+                    }
+                },
+                "text": "É um monitoramento do Ministério da Agricultura feito nos principais locais onde passam as rotas migratórias de aves. Nosso município tá na rota amazônica, aí até abril (qdo elas finalizam a migração) a gnt vai em uma propriedade e coleta sangue de 11 animais (ganso, marreco,pato etc)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-05T23:14:55.088Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:plxawwrjjd4ysewealtuunbe/app.bsky.feed.post/3l7weog2pwc2q",
+            "cid": "bafyreibwa2oe7eb5pl7iui3s2p3tfcqtm5fpcxx5kleemdu3gftg6jiqfy",
+            "author": {
+                "did": "did:plc:plxawwrjjd4ysewealtuunbe",
+                "handle": "yilingchild.bsky.social",
+                "displayName": "lui fascinating boy",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreifak33k26xk2wf5yznhwh3syhg7zeenngpvko6bzvawmu7bwh2xye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T00:37:47.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T23:54:44.100Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "publicação da contilnet noticias com a legenda \"duas capivaras foram flagradas acasalando nesta semana no lago da Universidade Federal do Acre (Ufac), no campus Rio Branco. As cenas viralizam e o vídeo foi enviado ao ContilNet por alunos da instituição. \"É o amor. Às vezes não importa o lugar, só a pessoa\", brincou um dos acadêmicos. O lago da Ufac é conhecido por abrigar uma gama de animais nativos da fauna amazônica. Além das capivaras, no local é possível ver jacarés, peixes e garças, que compõe a biodiversidade do lugar.\"",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 923
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 716239
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "acho q n tem nada acontecendo na cidade pq um portal de notícias SÉRIO daqui simplesmente fez coisa sobre um vídeo de duas capivaras acasalando na minha faculdade kkkkkkkk"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu@jpeg",
+                        "alt": "publicação da contilnet noticias com a legenda \"duas capivaras foram flagradas acasalando nesta semana no lago da Universidade Federal do Acre (Ufac), no campus Rio Branco. As cenas viralizam e o vídeo foi enviado ao ContilNet por alunos da instituição. \"É o amor. Às vezes não importa o lugar, só a pessoa\", brincou um dos acadêmicos. O lago da Ufac é conhecido por abrigar uma gama de animais nativos da fauna amazônica. Além das capivaras, no local é possível ver jacarés, peixes e garças, que compõe a biodiversidade do lugar.\"",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 923
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T23:54:46.181Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:phj3c7gcxmexasma3ceevmi7/app.bsky.feed.post/3l7p7genpik2n",
+            "cid": "bafyreiez3wa57obbgg4vflty7thslf6qc36o76xhvfasqnd7y4xiuilc44",
+            "author": {
+                "did": "did:plc:phj3c7gcxmexasma3ceevmi7",
+                "handle": "queencarolpls.bsky.social",
+                "displayName": "ari",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:phj3c7gcxmexasma3ceevmi7/bafkreid2u5scbrgt3go4kqnjr3sppgmaf5o5oe2h3omkf2x5gyr5hpw4fe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T00:57:19.573Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T03:32:07.001Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreievapzzw7zbp73uzcpz447g2bwbk4us4fzg5es2qski3z74glanla",
+                        "uri": "at://did:plc:phj3c7gcxmexasma3ceevmi7/app.bsky.feed.post/3l7p74q7by22l"
+                    },
+                    "root": {
+                        "cid": "bafyreievapzzw7zbp73uzcpz447g2bwbk4us4fzg5es2qski3z74glanla",
+                        "uri": "at://did:plc:phj3c7gcxmexasma3ceevmi7/app.bsky.feed.post/3l7p74q7by22l"
+                    }
+                },
+                "text": "mas nao ironicamente eu acho muito iconico amo estar em contato com a floresta amazonica e os animais antes de tudo acabar e a gente m0rrer devido ao aquecimento global 😍"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T03:32:07.001Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mrggcyi2rrpocjfy34hfgsa5/app.bsky.feed.post/3l7ntzzr6sz2m",
+            "cid": "bafyreievwwlzdq6m42imxb5heptkdq6mrwrmtmcyz4euif6o4jqheqpjoi",
+            "author": {
+                "did": "did:plc:mrggcyi2rrpocjfy34hfgsa5",
+                "handle": "brasil.gov.br",
+                "displayName": "Governo do Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreibx3cy7t2oxcvkpurgjpxhtwlsd4plg26ratgpnyr6xvxlzxcc6qu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:38:16.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T14:35:42.358Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidgbq5yn3265bgaisxl66juk5pa2hpghj5k4k4yzh3dok3glbodfa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 430869
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihw6rl5a6n36fh5sr5lwxvwhb4quoqtgvzc5kmb7kn4rc7ow5rsha"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 752001
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A esperança brota no semiárido e na região amazônica com o Programa Cisternas. Tecnologia simples, de baixo custo e fácil implementação que promove o acesso à água para consumo humano, a produção de alimentos e a criação dos animais."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreidgbq5yn3265bgaisxl66juk5pa2hpghj5k4k4yzh3dok3glbodfa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreidgbq5yn3265bgaisxl66juk5pa2hpghj5k4k4yzh3dok3glbodfa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihw6rl5a6n36fh5sr5lwxvwhb4quoqtgvzc5kmb7kn4rc7ow5rsha@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihw6rl5a6n36fh5sr5lwxvwhb4quoqtgvzc5kmb7kn4rc7ow5rsha@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 28,
+            "likeCount": 81,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T14:35:42.358Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zshukjyjirujmoscidmgmdxk/app.bsky.feed.post/3l6bupxsjqs2m",
+            "cid": "bafyreihu6bhigfl6z7r5z7bxkubrywx2odcdo4v3h3ptbafvtvvsthc2pi",
+            "author": {
+                "did": "did:plc:zshukjyjirujmoscidmgmdxk",
+                "handle": "vortice.bsky.social",
+                "displayName": "Vortex",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zshukjyjirujmoscidmgmdxk/bafkreialrustpjrkrtnvq6rj6stcrvcqwdu25rckvulsd323ofxd2ivrd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-06T13:15:00.609Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T02:50:48.882Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidrgdqlxiwmw42djshrvaphyq2epharql4fgtrj7ffbkyvk7mjplm",
+                        "uri": "at://did:plc:4qsv6edn6xssyoc2ojubmjxg/app.bsky.feed.post/3l6bqbrhezf2o"
+                    },
+                    "root": {
+                        "cid": "bafyreidrgdqlxiwmw42djshrvaphyq2epharql4fgtrj7ffbkyvk7mjplm",
+                        "uri": "at://did:plc:4qsv6edn6xssyoc2ojubmjxg/app.bsky.feed.post/3l6bqbrhezf2o"
+                    }
+                },
+                "text": "Rachel muito emocionada ao pensar em todos animais da floresta amazônica arrastados pela ventania em SP"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T02:50:48.882Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gi7linuakluypu7bbe2nodkc/app.bsky.feed.post/3l6b5ovqox42q",
+            "cid": "bafyreigcyya2hh2k56mtgtn6tlmqygmblpfvcqjx6by7ph7prpxmmkirgu",
+            "author": {
+                "did": "did:plc:gi7linuakluypu7bbe2nodkc",
+                "handle": "lari22.exol.social",
+                "displayName": "lari 🍒 GOLD✨️ Awe 🐺 || Spill the Feels 🧡 • Apt ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreidkqbdbjwwswqeipgv3thxamergjkr6pffprf6tj7j5tonifz5ulq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:29:55.238Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T19:58:37.142Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1124
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibu4m753tor2a2i22rzg3qqmigvpfesikgw7s3rr3icxjhwu57aiu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 550009
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiet7joupern5xsaksbcoewsos5y7rjmg5qclbyjynlj44u73zpmny"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 364779
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib3drykmqifbgnem7ptgfw3n46tk244uoktf7seoqbaspgjcribxe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 389200
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreichgstm2h5ppirl2e4nawp2l4oca7zfduxxr4oukybmmabui4e7ze"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 374758
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MuseuParaenseEmilioGoeldi"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 158,
+                            "byteStart": 132
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "hoje fui visitar uma exposição de fósseis de animais e plantas que ocorreram na região amazônica 😍 tava tudo lindo! ♥️\n\n#MuseuParaenseEmilioGoeldi"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreibu4m753tor2a2i22rzg3qqmigvpfesikgw7s3rr3icxjhwu57aiu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreibu4m753tor2a2i22rzg3qqmigvpfesikgw7s3rr3icxjhwu57aiu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1124
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreiet7joupern5xsaksbcoewsos5y7rjmg5qclbyjynlj44u73zpmny@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreiet7joupern5xsaksbcoewsos5y7rjmg5qclbyjynlj44u73zpmny@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreib3drykmqifbgnem7ptgfw3n46tk244uoktf7seoqbaspgjcribxe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreib3drykmqifbgnem7ptgfw3n46tk244uoktf7seoqbaspgjcribxe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreichgstm2h5ppirl2e4nawp2l4oca7zfduxxr4oukybmmabui4e7ze@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gi7linuakluypu7bbe2nodkc/bafkreichgstm2h5ppirl2e4nawp2l4oca7zfduxxr4oukybmmabui4e7ze@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 18,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T19:58:37.142Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5hhlri3hl25",
+            "cid": "bafyreibuijcvughugmzxsqio4e4erirrl5id3nghsqwohkml7dficyf7nu",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T14:46:37.105Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefoytot3o6lhks2kzfi3vew4lca7hc23tuyh6n6p5ldf3i3qm2mu",
+                        "uri": "at://did:plc:ubdu34np4u7pfcvak2hm34rw/app.bsky.feed.post/3l5hhjigq5f2m"
+                    },
+                    "root": {
+                        "cid": "bafyreifqh4vxa7uov7rrnpuiu2fprl2hpec7hhynscetr5235g6roirery",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5hhekuzhl2x"
+                    }
+                },
+                "text": "Pior sãos as pessoas que acham lindo ver pessoas morrendo, e ficam preocupadas com animais na floresta amazônica.\n\nEmpatia torta é o mesmo que não ter empatia.\n\nEssa gente é causa do problema, e se acham vítimas."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T14:46:37.105Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qjmnwkd65ztmujsht4arcgno/app.bsky.feed.post/3l52ymhffqs24",
+            "cid": "bafyreidpjiqvh2iccssnspglmae4birnzjivbrotasihgz55putzri6u4m",
+            "author": {
+                "did": "did:plc:qjmnwkd65ztmujsht4arcgno",
+                "handle": "agenciafapesp.bsky.social",
+                "displayName": "Agência FAPESP",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qjmnwkd65ztmujsht4arcgno/bafkreielibn4ylihr4zdh5u272p3q6qa2hkuejdyq3bnuqsm65pys7qnpu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-09T16:38:29.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T15:46:37.341Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Vaga é para projeto que estuda as interações entre plantas e animais na Amazônia e os impactos da degradação florestal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibghncm3gqnvti2wdts5xvip5574t2rwpvgk4zdy62xjdkhse27pu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 427794
+                        },
+                        "title": "Pós-doutorado em ecologia espacial no Instituto de Biologia da Unicamp",
+                        "uri": "https://agencia.fapesp.br/pos-doutorado-em-ecologia-espacial-no-instituto-de-biologia-da-unicamp/52863"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bolsasFAPESP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 13,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:kp5x6ozfyymokzcjoc5jphxf"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 227
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://agencia.fapesp.br/pos-doutorado-em-ecologia-espacial-no-instituto-de-biologia-da-unicamp/52863"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 269
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#bolsasFAPESP Uma vaga de pós-doutorado está aberta para o Projeto Temático “Interações entre plantas e animais e os impactos em cascata da fragmentação da Floresta Amazônica”, conduzido no Instituto de Biologia da @unicampoficial.bsky.social, em Campinas. agencia.fapesp.br/pos-doutorad..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://agencia.fapesp.br/pos-doutorado-em-ecologia-espacial-no-instituto-de-biologia-da-unicamp/52863",
+                    "title": "Pós-doutorado em ecologia espacial no Instituto de Biologia da Unicamp",
+                    "description": "Vaga é para projeto que estuda as interações entre plantas e animais na Amazônia e os impactos da degradação florestal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qjmnwkd65ztmujsht4arcgno/bafkreibghncm3gqnvti2wdts5xvip5574t2rwpvgk4zdy62xjdkhse27pu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T15:46:37.341Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hv6dlfri5hfob4ndctj7jgpc/app.bsky.feed.post/3l4smmot2ee2s",
+            "cid": "bafyreiabmllfvfciyn2snixgr3az44xymvspgslybcwub4iy5gahfkcdhy",
+            "author": {
+                "did": "did:plc:hv6dlfri5hfob4ndctj7jgpc",
+                "handle": "jorgehityon.bsky.social",
+                "displayName": "Jorge Hityon 🇧🇷🚩🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hv6dlfri5hfob4ndctj7jgpc/bafkreidqoc5pwsnmjmkakuhicfpi3ilxy7i3qvwpzqudlf6pp4gkm65dbe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:hv6dlfri5hfob4ndctj7jgpc",
+                        "uri": "at://did:plc:hv6dlfri5hfob4ndctj7jgpc/app.bsky.actor.profile/self",
+                        "cid": "bafyreibjxy5e5m7jsz2mxv7fgtb332cdkilr5vecdiuhxpbpw7voeub6um",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T06:16:03.882Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T06:16:02.726Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T07:50:41.988Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Se vai reiniciar a rodovia amazônica ,por que não fazer uma estrada suspensa em pilar ?\n\n Não precisa ser muito alto . Assim não haveria riscos de animais atravessarem a estrada e serem mortos.\n A construção seria mais lenta ,e tz mais cara ,mas ecologicamente viável .\n\nVai mesmo fazer a estrada ???"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T07:50:41.988Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4lvzrnphs26",
+            "cid": "bafyreibmqbxfuoozeqjiv74bn44ez3gfutkfdwpngcmlc6btn7q6qv2a3e",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T15:50:26.729Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreih3szlkhrpfjjyawvdjk4higd5q5gbn3td2smaaazpxpl3jbugivy",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4lved7bos2b"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Assim como qualquer organismo vivo, a FLORESTA AMAZÔNICA pode ativar gatilhos biológicos que aceleram sua morte. Assim como os animais possuem apoptose, a floresta também tem um processo semelhante, a SENESCÊNCIA.\n🌳💀\n\nCada ataque acelera sua morte celular programada, comprometendo sua regeneração."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4lved7bos2b",
+                    "cid": "bafyreih3szlkhrpfjjyawvdjk4higd5q5gbn3td2smaaazpxpl3jbugivy",
+                    "author": {
+                        "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                        "handle": "bbrezenski.bsky.social",
+                        "displayName": "Bruno Brezenski ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-09T23:19:25.561Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-20T15:38:26.963Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifxvz62swtxd7qkjjzsecfjr4mffz5fh5hzcys4py5dfkjul3jeeq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 3184978
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Para entender o clima do planeta Terra, é essencial considerar princípios de física, química e biologia. \nO que estabiliza nosso clima na terra é a VIDA.\n\nComo ilustrado neste gráfico que capturei em 2023, a FLORESTA AMAZÔNICA 🌳 é um organismo vivo que respira. \n\n🆘 AMAZÔNIA 🌳"
+                    },
+                    "labels": [],
+                    "likeCount": 142,
+                    "replyCount": 6,
+                    "repostCount": 29,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-09-20T15:38:26.963Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreifxvz62swtxd7qkjjzsecfjr4mffz5fh5hzcys4py5dfkjul3jeeq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreifxvz62swtxd7qkjjzsecfjr4mffz5fh5hzcys4py5dfkjul3jeeq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreifxvz62swtxd7qkjjzsecfjr4mffz5fh5hzcys4py5dfkjul3jeeq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 25,
+            "likeCount": 92,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-20T15:50:26.729Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rmgwmas2sltcadb6j2e4zlop/app.bsky.feed.post/3l4gl3fndmk2a",
+            "cid": "bafyreic6qj7r6dqmzgohgyrjotleidbj6bnhgixbw543lu7t333uv6g4by",
+            "author": {
+                "did": "did:plc:rmgwmas2sltcadb6j2e4zlop",
+                "handle": "bardodesespero.bsky.social",
+                "displayName": "ursinho pooh",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rmgwmas2sltcadb6j2e4zlop/bafkreiep675xp6i7mi5ewbzkngwtthltpquosnyuug26e2ggtiqzy6jsqy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:07:52.724Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T12:51:11.796Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreic7hr6rwdkj7h2f7vx5ydqlzg4ndnt47r22u7vree6ubl7mod6glm",
+                        "uri": "at://did:plc:xjixzepmwbxxrlhh7dt5z7g3/app.bsky.feed.post/3l4f3titouy2j"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "sem brincadeira, os gatos são literalmente um dos animais mais fodas do mundo\n\nvocê solta um gato num apartamento minúsculo no centro de são paulo, ele se adapta\nvocê solta um gato na floresta amazônica, O PORRA SE ADAPTA"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:xjixzepmwbxxrlhh7dt5z7g3/app.bsky.feed.post/3l4f3titouy2j",
+                    "cid": "bafyreic7hr6rwdkj7h2f7vx5ydqlzg4ndnt47r22u7vree6ubl7mod6glm",
+                    "author": {
+                        "did": "did:plc:xjixzepmwbxxrlhh7dt5z7g3",
+                        "handle": "memeinteligente.com",
+                        "displayName": "memes inteligentes ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xjixzepmwbxxrlhh7dt5z7g3/bafkreibddwtuj74nojomh6gtkhn5h3jfxuqc5qfavvachiaegtqlpquyii@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-31T16:40:46.797Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-17T22:45:40.248Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 856,
+                                        "width": 800
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreiesdjgmntluhx5dbmkxkjblmnxosdvnhfe6iyfsgwykuujhj5f5e4"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 221422
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": ""
+                    },
+                    "labels": [],
+                    "likeCount": 3557,
+                    "replyCount": 21,
+                    "repostCount": 501,
+                    "quoteCount": 39,
+                    "indexedAt": "2024-09-17T22:45:40.248Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xjixzepmwbxxrlhh7dt5z7g3/bafkreiesdjgmntluhx5dbmkxkjblmnxosdvnhfe6iyfsgwykuujhj5f5e4@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xjixzepmwbxxrlhh7dt5z7g3/bafkreiesdjgmntluhx5dbmkxkjblmnxosdvnhfe6iyfsgwykuujhj5f5e4@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 856,
+                                        "width": 800
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T12:51:11.796Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xfso3sqba3ug76uxfe6q2cbl/app.bsky.feed.post/3l4bswd4qbk2k",
+            "cid": "bafyreiav3ddjmkh364e2kkt7agfcftegkj7a7hkekg3udi6x5xt4wzn43e",
+            "author": {
+                "did": "did:plc:xfso3sqba3ug76uxfe6q2cbl",
+                "handle": "faelmds.bsky.social",
+                "displayName": "Fael, meu deus!",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xfso3sqba3ug76uxfe6q2cbl/bafkreifn73ctmlmwzmpib7agzvfhs54azdp6kwlf5eejjzsm4oof53uz6u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-05T18:08:00.945Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T15:28:12.440Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Isis chegou da escola contando q a Tia Brenda falou q tão tacando fogo na floresta amazônica,   ai a Isis falou \"que tal a gente pegar um 'Ônibus Banheira' e tacar bem muita água BEEEM MUITA ÁGUA pros animais voltarem?!\" 🥹"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T15:28:12.440Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eb2xt4x2jox3axl6k4lhxp6v/app.bsky.feed.post/3l3w7m3kt7k2q",
+            "cid": "bafyreiao4bfbj2v33vupq27hgshrzmoqjpxj4w4d3ef57mietl6jbyc6ii",
+            "author": {
+                "did": "did:plc:eb2xt4x2jox3axl6k4lhxp6v",
+                "handle": "brunnetxe.bsky.social",
+                "displayName": "Bruna Freitas ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eb2xt4x2jox3axl6k4lhxp6v/bafkreigmk4icbvs34z2uzpetldakinhjtnszlqjzk5ynxdkwxwssw7lvs4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T18:38:08.398Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T00:43:12.401Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreigdubbcx56junki22venan7qtgcmdqsw3zygsxlm2zhj33ibd5r5u",
+                        "uri": "at://did:plc:nar7rgiusrazx4emqer47gso/app.bsky.feed.post/3l3vkjt5dyv2z"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Enquanto isso os animais na Floresta Amazônica e no Pantanal sofrendo e morrendo queimados. Cansada demais e decepcionada com a passividade do governo ferderal, governo q eu depositei a confiança de que cuidaria melhor do meio ambiente."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:nar7rgiusrazx4emqer47gso/app.bsky.feed.post/3l3vkjt5dyv2z",
+                    "cid": "bafyreigdubbcx56junki22venan7qtgcmdqsw3zygsxlm2zhj33ibd5r5u",
+                    "author": {
+                        "did": "did:plc:nar7rgiusrazx4emqer47gso",
+                        "handle": "rcruz80.bsky.social",
+                        "displayName": "Tatu da Baixada",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nar7rgiusrazx4emqer47gso/bafkreiaxntzkwpwxwkizkr4fi7ei5c4jpmkfam46jwihiokdc3gky3tif4@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-07-03T11:25:15.943Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-11T18:26:06.315Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.recordWithMedia",
+                            "media": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 780,
+                                            "width": 1080
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreihgfwg44pluqoeyay2g2m5dnhcggxshcltzk6g5ss7ezi45av22he"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 165713
+                                        }
+                                    }
+                                ]
+                            },
+                            "record": {
+                                "$type": "app.bsky.embed.record",
+                                "record": {
+                                    "cid": "bafyreih4rf3b4tfhx2nbjprb3oxnr3ojy4gta6e44kkjr3d465sviabfdm",
+                                    "uri": "at://did:plc:nar7rgiusrazx4emqer47gso/app.bsky.feed.post/3l3puym24an2t"
+                                }
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Falei kkkkkkkkkkkk\n\nÉ muita cara de pau"
+                    },
+                    "labels": [],
+                    "likeCount": 480,
+                    "replyCount": 29,
+                    "repostCount": 51,
+                    "quoteCount": 8,
+                    "indexedAt": "2024-09-11T18:26:06.315Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.recordWithMedia#view",
+                            "media": {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nar7rgiusrazx4emqer47gso/bafkreihgfwg44pluqoeyay2g2m5dnhcggxshcltzk6g5ss7ezi45av22he@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nar7rgiusrazx4emqer47gso/bafkreihgfwg44pluqoeyay2g2m5dnhcggxshcltzk6g5ss7ezi45av22he@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 780,
+                                            "width": 1080
+                                        }
+                                    }
+                                ]
+                            },
+                            "record": {
+                                "record": {
+                                    "$type": "app.bsky.embed.record#viewRecord",
+                                    "uri": "at://did:plc:nar7rgiusrazx4emqer47gso/app.bsky.feed.post/3l3puym24an2t",
+                                    "cid": "bafyreih4rf3b4tfhx2nbjprb3oxnr3ojy4gta6e44kkjr3d465sviabfdm",
+                                    "author": {
+                                        "did": "did:plc:nar7rgiusrazx4emqer47gso",
+                                        "handle": "rcruz80.bsky.social",
+                                        "displayName": "Tatu da Baixada",
+                                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nar7rgiusrazx4emqer47gso/bafkreiaxntzkwpwxwkizkr4fi7ei5c4jpmkfam46jwihiokdc3gky3tif4@jpeg",
+                                        "associated": {
+                                            "chat": {
+                                                "allowIncoming": "following"
+                                            }
+                                        },
+                                        "labels": [],
+                                        "createdAt": "2023-07-03T11:25:15.943Z"
+                                    },
+                                    "value": {
+                                        "$type": "app.bsky.feed.post",
+                                        "createdAt": "2024-09-09T12:17:20.491Z",
+                                        "embed": {
+                                            "$type": "app.bsky.embed.record",
+                                            "record": {
+                                                "cid": "bafyreicdtubsinwntlrmyxmevruj5hjyhgjzecl6avxcv3yvrhfyoiexfa",
+                                                "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l3pra5hcip2p"
+                                            }
+                                        },
+                                        "langs": [
+                                            "pt"
+                                        ],
+                                        "text": "2022: o que o Governo Federal poderia fazer pra melhorar essa situação?\n2024: o que VOCÊ pode fazer pra melhorar essa situação?"
+                                    },
+                                    "labels": [],
+                                    "likeCount": 51,
+                                    "replyCount": 3,
+                                    "repostCount": 8,
+                                    "quoteCount": 2,
+                                    "indexedAt": "2024-09-09T12:17:20.491Z"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T00:43:11.110Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gpo2rqy2tbm2c25klciacyp5/app.bsky.feed.post/3l3iilgxh222i",
+            "cid": "bafyreiee4wvif3jk3r63q5kzqo6veo7bqklfzktrf6cdf4zzf4jlsot52q",
+            "author": {
+                "did": "did:plc:gpo2rqy2tbm2c25klciacyp5",
+                "handle": "liliancorado.bsky.social",
+                "displayName": "Lílian",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpo2rqy2tbm2c25klciacyp5/bafkreib4n4clxson3cw5eyiso3t5i5jmrvghbvtmiglja5uuq2bjr7v3ia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:05:35.580Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T13:46:36.511Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibaeglcplwxis3gyb5nnhgntbti464bxhcujrh7hx2w66iounnh7m",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3hgwnecup2p"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Enquanto isso a Floresta Amazônica queima, que é um problema Nacional, e não vejo post sobre os os ribeirinhos novamente numa seca histórica, população respirando fumaça e animais em sofrimento."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3hgwnecup2p",
+                    "cid": "bafyreibaeglcplwxis3gyb5nnhgntbti464bxhcujrh7hx2w66iounnh7m",
+                    "author": {
+                        "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                        "handle": "jnascim.info",
+                        "displayName": "Jeff Nascimento",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-22T10:36:21.706Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-06T03:44:25.182Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1562,
+                                        "width": 1179
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreid6pb2oro3e62scfozum7ye63qmdo5e3l2gwj2a5k6qisda6ricru"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 398715
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Janja há pouco no Instagram 👀"
+                    },
+                    "labels": [],
+                    "likeCount": 624,
+                    "replyCount": 33,
+                    "repostCount": 32,
+                    "quoteCount": 51,
+                    "indexedAt": "2024-09-06T03:44:25.182Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreid6pb2oro3e62scfozum7ye63qmdo5e3l2gwj2a5k6qisda6ricru@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreid6pb2oro3e62scfozum7ye63qmdo5e3l2gwj2a5k6qisda6ricru@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1562,
+                                        "width": 1179
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T13:46:36.511Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yjixedqxod2shtjt7jnkguvw/app.bsky.feed.post/3l3gx456hxo2r",
+            "cid": "bafyreid6g6plqbpp7pkh7fee34iyp657no4q7wxt7nff73t7ci4i4vmdhe",
+            "author": {
+                "did": "did:plc:yjixedqxod2shtjt7jnkguvw",
+                "handle": "vb-nogueira.bsky.social",
+                "displayName": "vb_Nogueira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yjixedqxod2shtjt7jnkguvw/bafkreia4vt5ydx73j3wbzzlsvw4dysx7x6h2b36d7v2bqx2b6v43tsftqq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T18:10:50.228Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T23:01:09.293Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicbjasycmsos6q7yykzkbuxoifmezps44ysmcdum7nyxncm25oiwq",
+                        "uri": "at://did:plc:lhveelj672q4fqwkerqwazeo/app.bsky.feed.post/3l3fu4p4zov2e"
+                    },
+                    "root": {
+                        "cid": "bafyreif4kk6fabcqcv7c53yh2jswjzfmpptcokuyers36wuarq4r4e4qrq",
+                        "uri": "at://did:plc:js6nbadqdyufj7pzopkdsryc/app.bsky.feed.post/3l3ftjxag562r"
+                    }
+                },
+                "text": "A exuberância da Floresta Amazônica não significa solidez, o solo é frágil e pobre em nutrientes, as árvores se sustentam dos detritos, próprios e de outras árvores e animais, portanto, “o ponto irreversível” é uma possibilidade concreta e real."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T23:01:09.293Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l2k2cdghi223",
+            "cid": "bafyreifv6bv3oftlvmgjmcqra7kcvsvl7akzyqo4hhm4ljbwy7tocirjzq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-25T11:11:04.644673Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Evento aconteceu nesse sábado (24) em Boa Vista. Com o objetivo de fortalecer e estimular o mercado voltado para o ramo de pets no estado, o evento contou com o apoio de mais de 30 parceiros. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigwoowc335qzn5mbzrma7cewpagoyu7nfxygytt7u457rljwabbfi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 171340
+                        },
+                        "title": "Amazônica Pet Show recebe milhares de pessoas, promove bem-estar e socialização entre animais e tutores em Roraima",
+                        "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/25/amazonica-pet-show-recebe-milhares-de-pessoas-promove-bem-estar-e-socializacao-entre-animais-e-tutores-em-roraima.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Amazônica Pet Show recebe milhares de pessoas, promove bem-estar e socialização entre animais e tutores em Roraima"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/25/amazonica-pet-show-recebe-milhares-de-pessoas-promove-bem-estar-e-socializacao-entre-animais-e-tutores-em-roraima.ghtml",
+                    "title": "Amazônica Pet Show recebe milhares de pessoas, promove bem-estar e socialização entre animais e tutores em Roraima",
+                    "description": "Evento aconteceu nesse sábado (24) em Boa Vista. Com o objetivo de fortalecer e estimular o mercado voltado para o ramo de pets no estado, o evento contou com o apoio de mais de 30 parceiros. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigwoowc335qzn5mbzrma7cewpagoyu7nfxygytt7u457rljwabbfi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-25T11:11:04.644Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l2iopjxilk2c",
+            "cid": "bafyreiguixflnywy765bdi636qwcekpaj3ss3slfsnufg5n43r77eg44fy",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-24T22:11:02.929071Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Evento iniciou às 15h e ocorre até 21h no Roraima Garden Shopping, localizado no bairro Caçari, zona Leste de Boa Vista.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidp3xpoey2t2ttmpat5idmdmhdenql6pdy2fukba2enzlnwdvwz4u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 340417
+                        },
+                        "title": "Primeira edição do Amazônica Pet Show tem adoção e vacinação de animais em Boa Vista",
+                        "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/24/primeira-edicao-do-amazonica-pet-show-tem-adocao-e-vacinacao-de-animais-em-boa-vista.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Primeira edição do Amazônica Pet Show tem adoção e vacinação de animais em Boa Vista"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/24/primeira-edicao-do-amazonica-pet-show-tem-adocao-e-vacinacao-de-animais-em-boa-vista.ghtml",
+                    "title": "Primeira edição do Amazônica Pet Show tem adoção e vacinação de animais em Boa Vista",
+                    "description": "Evento iniciou às 15h e ocorre até 21h no Roraima Garden Shopping, localizado no bairro Caçari, zona Leste de Boa Vista.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidp3xpoey2t2ttmpat5idmdmhdenql6pdy2fukba2enzlnwdvwz4u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-24T22:11:02.929Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l2hdog2lbx2r",
+            "cid": "bafyreice4ncber3igc24bwgi7vdkcw7q554yar474uozycziwgdmmyf6ku",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-24T09:20:54.190371Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Programação inicia às 15h e segue até às 21h. Primeira edição do evento ocorre no Roraima Garden Shopping, localizado no bairro Caçari, zona Leste de Boa Vista.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidmisppazsv3fpzrcctijavowvyt5qe37b7r3rj5uhcnnsivzxjmm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 216578
+                        },
+                        "title": "Feira Amazônica Pet Show tem desfile de cães, palestras, doação de animais e exposição de produtos em Boa Vista",
+                        "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/24/feira-amazonica-pet-show-tem-desfile-de-caes-palestras-doacao-de-animais-e-exposicao-de-produtos-em-boa-vista.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Feira Amazônica Pet Show tem desfile de cães, palestras, doação de animais e exposição de produtos em Boa Vista"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rr/roraima/noticia/2024/08/24/feira-amazonica-pet-show-tem-desfile-de-caes-palestras-doacao-de-animais-e-exposicao-de-produtos-em-boa-vista.ghtml",
+                    "title": "Feira Amazônica Pet Show tem desfile de cães, palestras, doação de animais e exposição de produtos em Boa Vista",
+                    "description": "Programação inicia às 15h e segue até às 21h. Primeira edição do evento ocorre no Roraima Garden Shopping, localizado no bairro Caçari, zona Leste de Boa Vista.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidmisppazsv3fpzrcctijavowvyt5qe37b7r3rj5uhcnnsivzxjmm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-24T09:20:54.190Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lzltso77kertizbvgk5xkpqs/app.bsky.feed.post/3k75mux5nui2w",
+            "cid": "bafyreida6dr3d5d2txdbxiiipmhjk3346ryidikhglfuufs4kt5uvkmuja",
+            "author": {
+                "did": "did:plc:lzltso77kertizbvgk5xkpqs",
+                "handle": "ikarow.bsky.social",
+                "displayName": "Ikarow",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreidg757u3d4es5biosra46lyczb27pfyxj2vblslqcjhor2khw3qhe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-31T17:20:48.965Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-11T22:18:47.210Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 880528
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 625776
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 640865
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A criptozoologia é a disciplina dedicada à pesquisa de espécies animais lendárias ou mitológicas. Algumas teorias propõem que a lenda do Mapinguary, originada na região amazônica, +\n\n#Folklore #horror #quadrinhos #illustration #comics"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-11T22:18:47.210Z",
+            "labels": []
+        }
+    ]
+}

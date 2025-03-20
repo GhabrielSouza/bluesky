@@ -1,0 +1,604 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:3g2aky5tmbcmm4zg43rtfnwr/app.bsky.feed.post/3lakkqdqte22i",
+            "cid": "bafyreihbqerlyk4rgh2ebjgcyhiz2vk5a7r6tem74uar66bnrtruosvn3a",
+            "author": {
+                "did": "did:plc:3g2aky5tmbcmm4zg43rtfnwr",
+                "handle": "guilandrade.bsky.social",
+                "displayName": "Guilherme Andrade ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3g2aky5tmbcmm4zg43rtfnwr/bafkreid22jdelty6uhertfqlurswcu5p6lgkmrdfmmxx7ex5fyf36fkmzu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-16T10:49:16.632Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-10T00:36:26.183Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidmn43tdbd2sznnvfhoqz7qvvkvnpuyqb63ze467e6hn5b5hlgbla",
+                        "uri": "at://did:plc:xplfowvb5fkrduzpw4s6fsrv/app.bsky.feed.post/3lakinvjxas2g"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nossa esperança 💙💙💙\n\nEspécie endêmica da Caatinga que foi extinta na natureza principalmente pelo tráfico de animais e desmatamento de seu habitat. Recentemente essa espécie começou a ser reintroduzida em seu local de origem"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:xplfowvb5fkrduzpw4s6fsrv/app.bsky.feed.post/3lakinvjxas2g",
+                    "cid": "bafyreidmn43tdbd2sznnvfhoqz7qvvkvnpuyqb63ze467e6hn5b5hlgbla",
+                    "author": {
+                        "did": "did:plc:xplfowvb5fkrduzpw4s6fsrv",
+                        "handle": "avesbrasil.bsky.social",
+                        "displayName": "Aves do Brasil",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xplfowvb5fkrduzpw4s6fsrv/bafkreifiujk7uo4nmxtwp5cszrxktj3dd57tg53xnb7hhawcvtmmbfd5la@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-08-08T00:31:39.648Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-09T23:59:16.242399+00:00",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicankb3n47l5gsbillxqdyqp5hotobr3ofcinlcg6lqv2aifbt4py"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 24711
+                                    }
+                                }
+                            ]
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "birds"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 156,
+                                    "byteStart": 150
+                                }
+                            }
+                        ],
+                        "text": "🇧🇷Ararinha-azul\n🌎Cyanopsitta spixii\n\nA ararinha-azul é uma ave da ordem dos Psittaciformes, da família Psittacidae.\n\n\n📷 Vincent Kurt Lo #birds"
+                    },
+                    "labels": [],
+                    "likeCount": 181,
+                    "replyCount": 1,
+                    "repostCount": 11,
+                    "quoteCount": 5,
+                    "indexedAt": "2024-11-09T23:59:16.784Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xplfowvb5fkrduzpw4s6fsrv/bafkreicankb3n47l5gsbillxqdyqp5hotobr3ofcinlcg6lqv2aifbt4py@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xplfowvb5fkrduzpw4s6fsrv/bafkreicankb3n47l5gsbillxqdyqp5hotobr3ofcinlcg6lqv2aifbt4py@jpeg",
+                                    "alt": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-10T00:36:28.389Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l6fyl7df4y2m",
+            "cid": "bafyreid6ab5lw7exfad6q6riwfqaxcmogqycjre3g6qlc3k5qgn7qjztf4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T18:10:21.777862Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Edilberto Rocha Júnior instala, desde 2020, uma câmera com sensor de movimento em locais estratégicos para flagrar cerca de 50 espécies, entre jaguatiricas, gatos-mouriscos, pacas e pica-paus-de-topete-vermelho.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigwpdze43bmzcfxizdhfxfnmdlfz4fn322u4b655b2hedhqmcuoxu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 161288
+                        },
+                        "title": "VÍDEO: estudante de 17 anos captura rotinas de animais silvestres no Piauí sob risco de extinção na Caatinga",
+                        "uri": "https://g1.globo.com/pi/piaui/cluberural/noticia/2024/10/13/video-estudante-de-17-anos-captura-rotinas-de-animais-silvestres-no-piaui-sob-risco-de-extincao-na-caatinga.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VÍDEO: estudante de 17 anos captura rotinas de animais silvestres no Piauí sob risco de extinção na Caatinga"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pi/piaui/cluberural/noticia/2024/10/13/video-estudante-de-17-anos-captura-rotinas-de-animais-silvestres-no-piaui-sob-risco-de-extincao-na-caatinga.ghtml",
+                    "title": "VÍDEO: estudante de 17 anos captura rotinas de animais silvestres no Piauí sob risco de extinção na Caatinga",
+                    "description": "Edilberto Rocha Júnior instala, desde 2020, uma câmera com sensor de movimento em locais estratégicos para flagrar cerca de 50 espécies, entre jaguatiricas, gatos-mouriscos, pacas e pica-paus-de-topete-vermelho.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigwpdze43bmzcfxizdhfxfnmdlfz4fn322u4b655b2hedhqmcuoxu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T18:10:21.777Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dppvptjwjcc7nv4l6fqq4ad6/app.bsky.feed.post/3l4jagzjhl62n",
+            "cid": "bafyreifyql3btuu3pmh76yn4p3zcfsgcyjeha4kng57bckxv7yy4xcrzem",
+            "author": {
+                "did": "did:plc:dppvptjwjcc7nv4l6fqq4ad6",
+                "handle": "lovelizard.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dppvptjwjcc7nv4l6fqq4ad6/bafkreig24vhifginjcwsyfekk5ynd3tzu5p3z6jic7lipojnfjokvke6a4@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T19:24:08.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T14:18:48.941Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihqqctt6k6rbe74csl3dpy6n4cucq7aici4rnti7uhozr332tm2ha",
+                        "uri": "at://did:plc:uhaqpotyvp32k7bapiiuv4sq/app.bsky.feed.post/3l4j7bxi5zz2w"
+                    },
+                    "root": {
+                        "cid": "bafyreihqqctt6k6rbe74csl3dpy6n4cucq7aici4rnti7uhozr332tm2ha",
+                        "uri": "at://did:plc:uhaqpotyvp32k7bapiiuv4sq/app.bsky.feed.post/3l4j7bxi5zz2w"
+                    }
+                },
+                "text": "Não  sei se um não  artista pode opinar mas tem alguns animais endêmicos do nordeste como veado -catingueiro, calango-de-cauda-verde, arara azul de Lear, guigó da caatinga, ararinha azul, sagui de tufos brancos, preguiça de chifres, periquito da caatinga e tatu bola do nordeste."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T14:18:48.941Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lwwjsy7ljqqr5lz2oxba22p2/app.bsky.feed.post/3l3sbp4gxvd2p",
+            "cid": "bafyreicy76eezsjy4txy3rqcjjbnovyi2ebxmhvqt37jfx6leo7mqxibqy",
+            "author": {
+                "did": "did:plc:lwwjsy7ljqqr5lz2oxba22p2",
+                "handle": "delleonor.bsky.social",
+                "displayName": "Elle D",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T19:56:34.846Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T11:10:00.935Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7vzu4vhawuamrp6wjpqchdhgetww6evtejlcww4f2pmi6e3xg64",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3sax7j3s522"
+                    },
+                    "root": {
+                        "cid": "bafyreia7vzu4vhawuamrp6wjpqchdhgetww6evtejlcww4f2pmi6e3xg64",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3sax7j3s522"
+                    }
+                },
+                "text": "E o resto do país presidente? As queimadas criminosas? E o serrado? A caatinga? O pantanal? E as cidades do litoral? E os rios? E lagos? E nascentes? E os animais carbonizados? TEM QUE EXPROPRIAR A TERRA de quem tava fogo no país. Chega de conciliar com o Agro presidente."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T11:10:00.935Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:f5tnezumhcojuomehnk4ks5t/app.bsky.feed.post/3l3img432y52e",
+            "cid": "bafyreiaycazrwhaaaawvbp6x7ghtnn44ttpfcdubmojsiebds45273w46m",
+            "author": {
+                "did": "did:plc:f5tnezumhcojuomehnk4ks5t",
+                "handle": "cisneros.bsky.social",
+                "displayName": "Prof. Juan Cisneros ⚒️🐉",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f5tnezumhcojuomehnk4ks5t/bafkreie4qjfgpmj5dlab2abqzzuas54ngw5vw44wj2g3axrgmsffzfbgci@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T23:13:03.218Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T14:55:12.364Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Fóssil de Brachyphyllum obesum. Duas mãos seguram uma rocha recém dividida ao meio com um martelo, mostrando, no seu interior, duas partes deste fóssil. Ao fundo vemos o solo da caatinga.",
+                            "aspectRatio": {
+                                "height": 631,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihrjvivwohbuqcjzwcho2p4slt4ap6d6txtw4nobo6x7s6f2mg5z4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 733832
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "FossilFriday"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 295
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Quando falam \"araucárias\" você pensa no Piauí? Pois no Período Cretáceo elas eram comuns aqui no NE. Este é um galhinho de Brachyphyllum obesum, uma Araucariaceae, em Curral Novo, PI. Com aprox. 110 milhões de anos, ela \"viu\" dinossauros, pterossauros, e vários outros animais extintos. #FossilFriday"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f5tnezumhcojuomehnk4ks5t/bafkreihrjvivwohbuqcjzwcho2p4slt4ap6d6txtw4nobo6x7s6f2mg5z4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:f5tnezumhcojuomehnk4ks5t/bafkreihrjvivwohbuqcjzwcho2p4slt4ap6d6txtw4nobo6x7s6f2mg5z4@jpeg",
+                        "alt": "Fóssil de Brachyphyllum obesum. Duas mãos seguram uma rocha recém dividida ao meio com um martelo, mostrando, no seu interior, duas partes deste fóssil. Ao fundo vemos o solo da caatinga.",
+                        "aspectRatio": {
+                            "height": 631,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 5,
+            "repostCount": 59,
+            "likeCount": 276,
+            "quoteCount": 3,
+            "indexedAt": "2024-09-06T14:55:12.364Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:f4wh5o4ypjiygksljitr2pl2/app.bsky.feed.post/3l27x2dyzkk2h",
+            "cid": "bafyreifrmtmc5buv3ln4j7uci2hketo6hncxht3fbewjudyf2fwfswfswy",
+            "author": {
+                "did": "did:plc:f4wh5o4ypjiygksljitr2pl2",
+                "handle": "ciciferreira.bsky.social",
+                "displayName": "ciciferreira ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f4wh5o4ypjiygksljitr2pl2/bafkreie7fomfjza7gjrblfpjly5h227ykbmpj7rhjjrawkbd3egy5zdw4e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-12T12:33:25.076Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-21T10:46:19.724Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1536
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid7rnqsopipq3cqe5qd4jmpfv5ajumxls6m5ycus5skh6f3zx3zwu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 820718
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🐒 Sagui-de-tufo-branco\nTambém chamado de \"mico-estrela\" tem como habitat natural a floresta da Mata atlântica e da Caatinga. E comum vê-los em grupos de até quinze animais. A cauda, maior do que o corpo, tem a função de manter-lo em equilíbrio nas copas das árvores.🌳\n🌺 Bom dia a todos.☕🌷"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f4wh5o4ypjiygksljitr2pl2/bafkreid7rnqsopipq3cqe5qd4jmpfv5ajumxls6m5ycus5skh6f3zx3zwu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:f4wh5o4ypjiygksljitr2pl2/bafkreid7rnqsopipq3cqe5qd4jmpfv5ajumxls6m5ycus5skh6f3zx3zwu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1536
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 42,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-21T10:46:19.724Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kaxe5gzrzbtrkhng6osbptd7/app.bsky.feed.post/3kxidmiti552j",
+            "cid": "bafyreibpmvb4oslzs3g636dethslwj7z5ikudqwmitlwpsj3bwkryzws24",
+            "author": {
+                "did": "did:plc:kaxe5gzrzbtrkhng6osbptd7",
+                "handle": "marcoseducacao.bsky.social",
+                "displayName": "Marcus Vitruvius",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kaxe5gzrzbtrkhng6osbptd7/bafkreidqz3jssk6n5ppw7bntreckzbngls35gemiclp5i6uzxz3yzulz4u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T18:16:25.700Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-17T14:36:56.777Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifu2zwgqx75ddtczz3orsaattizlin5dczkvulyqc6fwm2sg4ssga"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 630035
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifr5ckjqxslfacjh2ioily64gdj7trejar4ydrmxxa2ikaulbqjia",
+                        "uri": "at://did:plc:5mbpfie3q2zzlm4ches2pt3c/app.bsky.feed.post/3kxi6biqa2g2z"
+                    },
+                    "root": {
+                        "cid": "bafyreifr5ckjqxslfacjh2ioily64gdj7trejar4ydrmxxa2ikaulbqjia",
+                        "uri": "at://did:plc:5mbpfie3q2zzlm4ches2pt3c/app.bsky.feed.post/3kxi6biqa2g2z"
+                    }
+                },
+                "text": "Se depender da extrema-direita e direita, o Brasil voltará a ser um grande plantation, modo de produção agrícola implantado em toda a colônia brasileira entre os séculos XV e XIX.  Com desmatamento geral, supressão da caatinga e de outros biomas, com extinção de todos os animais silvestres."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kaxe5gzrzbtrkhng6osbptd7/bafkreifu2zwgqx75ddtczz3orsaattizlin5dczkvulyqc6fwm2sg4ssga@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kaxe5gzrzbtrkhng6osbptd7/bafkreifu2zwgqx75ddtczz3orsaattizlin5dczkvulyqc6fwm2sg4ssga@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-17T14:36:56.777Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2t3si2y4wj73tc67zatse5qu/app.bsky.feed.post/3ktd2i2mzr72q",
+            "cid": "bafyreiehaeknj2hvfmhnro2gvbmusxe4c4djlcrlofqclnwgs7snhaknka",
+            "author": {
+                "did": "did:plc:2t3si2y4wj73tc67zatse5qu",
+                "handle": "annpenha.bsky.social",
+                "displayName": "Anne ☕️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreifxr3lbknj6cj7hu6e6ehlsqrbxy2o543pzdj2dt7czvwiqktnjjm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-02T03:20:04.376Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-25T14:29:18.731Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 930,
+                                "width": 719
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 365972
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Reflexão,  pergunta-se, qual deles: \n\n- É a favor da educação laica e gratuita?\n- Proteção ao meio ambiente (Amazônia, Pantanal, Pampa, Cerrado, Caatinga), além das florestas, animais?\n- Sustentabilidade, crescimento +  proteção?\n- Liberdade de credo religioso?\n- Saúde gratuita?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreigf7rcbgvzyh4jf25ezt3pjk2gej7uuyvzlie3jjsj26ioacne6ee@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 930,
+                            "width": 719
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-05-25T14:29:18.731Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kr6mnbkdac2c",
+            "cid": "bafyreidt5fnxi3p3i4dtor722hy2ny5ukrtsfga44y7pczfc6tya7gjp2u",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-28T09:20:37.354534Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Câmeras mostraram os animais aproveitando os comedouros e bebedouros instalados ao longo da Trilha Ecológica Inclusiva do IFSertãoPE, na zona rural de Petrolina.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihs2i3sty5tgostrfsgicwnwudhcqxgu256lqkjduqvb5cd3owcgm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 281017
+                        },
+                        "title": "Tatu, guaxinim, raposa: animais nativos da Caatinga são flagrados em trilha ecológica no Sertão de PE",
+                        "uri": "https://g1.globo.com/pe/petrolina-regiao/noticia/2024/04/28/tatu-guaxinim-raposa-animais-nativos-da-caatinga-sao-flagrados-em-trilha-ecologica-no-sertao-de-pe.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tatu, guaxinim, raposa: animais nativos da Caatinga são flagrados em trilha ecológica no Sertão de PE"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pe/petrolina-regiao/noticia/2024/04/28/tatu-guaxinim-raposa-animais-nativos-da-caatinga-sao-flagrados-em-trilha-ecologica-no-sertao-de-pe.ghtml",
+                    "title": "Tatu, guaxinim, raposa: animais nativos da Caatinga são flagrados em trilha ecológica no Sertão de PE",
+                    "description": "Câmeras mostraram os animais aproveitando os comedouros e bebedouros instalados ao longo da Trilha Ecológica Inclusiva do IFSertãoPE, na zona rural de Petrolina.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihs2i3sty5tgostrfsgicwnwudhcqxgu256lqkjduqvb5cd3owcgm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-28T09:20:37.354Z",
+            "labels": []
+        }
+    ]
+}

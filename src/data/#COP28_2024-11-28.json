@@ -1,0 +1,1651 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3lam5ztdrnr2y",
+            "cid": "bafyreia3iocck4yyrxhms3vkxiwu3urxkhsrinsk7p7kmno3tq5cncoo6i",
+            "author": {
+                "did": "did:plc:moxr5wj3u5rwf25vgcemftvp",
+                "handle": "mbf.net.br",
+                "displayName": "Mateus BF",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreia22yw3ziniuxxuecewu7tvcxcce7k42n4oatcdxykz6yes2crsu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T10:34:42.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-10T15:54:24.320Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih6wxcu3i46oqbpxphqpws7dwabkkk6pxcmaphytezxhpzke3bsji"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 214267
+                        },
+                        "title": "Anfitrião da COP-30 em Belém, Helder Barbalho diz que espera participação dos EUA: 'país precisa sintonizar estratégia às urgências ambientais' | Pará | G1",
+                        "uri": "https://g1.globo.com/pa/para/noticia/2024/11/10/anfitriao-da-cop-30-em-belem-helder-barbalho-diz-que-espera-participacao-dos-eua-pais-precisa-sintonizar-estrategia-as-urgencias-ambientais.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 57,
+                            "byteStart": 51
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 111,
+                            "byteStart": 105
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP30"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 215,
+                            "byteStart": 209
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiag6xpehsbu7oq5ehzwtoresvjxhmqvm65awcfzu7s6dwai3zlh4a",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3lajvkpavaj2m"
+                    },
+                    "root": {
+                        "cid": "bafyreiah44zy2ia3ekfldtarw5ncrca4xuplalii6q65o2ar2z44fft234",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3lajott27ks2l"
+                    }
+                },
+                "text": "[ #clima: COMEÇA AMANHÃ MESMO?]\n\nOficialmente, a #COP29 começa amanhã, 11/11\nMas dizem q começou na #COP28 em Dubai, com a indicação do fim dos fósseis\nOutros, mais ufanistas, dizem q começa mesmo na #COP30 de Belém\n\nAnyways, sem 🇺🇸USA, o q vai ser \"usável\"?\n\nHelder tá esperando saber, mas sentado..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pa/para/noticia/2024/11/10/anfitriao-da-cop-30-em-belem-helder-barbalho-diz-que-espera-participacao-dos-eua-pais-precisa-sintonizar-estrategia-as-urgencias-ambientais.ghtml",
+                    "title": "Anfitrião da COP-30 em Belém, Helder Barbalho diz que espera participação dos EUA: 'país precisa sintonizar estratégia às urgências ambientais' | Pará | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreih6wxcu3i46oqbpxphqpws7dwabkkk6pxcmaphytezxhpzke3bsji@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-10T15:54:26.882Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3lajvkpavaj2m",
+            "cid": "bafyreiag6xpehsbu7oq5ehzwtoresvjxhmqvm65awcfzu7s6dwai3zlh4a",
+            "author": {
+                "did": "did:plc:moxr5wj3u5rwf25vgcemftvp",
+                "handle": "mbf.net.br",
+                "displayName": "Mateus BF",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreia22yw3ziniuxxuecewu7tvcxcce7k42n4oatcdxykz6yes2crsu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T10:34:42.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T18:17:27.325Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "País aumenta ambição com compromisso de reduzir emissões em até 67% em 2035",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreietbxmklvfnuphqoeu7wh55ujgbfujwxi5mnoj72pb6kcppaa3fgq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 179489
+                        },
+                        "title": "Brasil apresenta sua nova meta climática alinhada à Missão 1,5",
+                        "uri": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2024/11/brasil-apresenta-sua-nova-meta-climatica-alinhada-a-missao-1-5"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 149,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 184,
+                            "byteStart": 178
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP30"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 208
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicm62uvww354z5vyhg4tg46imdtr3hr53vsgmz5vtwrdyd5zpivie",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3laju4vahfd2j"
+                    },
+                    "root": {
+                        "cid": "bafyreiah44zy2ia3ekfldtarw5ncrca4xuplalii6q65o2ar2z44fft234",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3lajott27ks2l"
+                    }
+                },
+                "text": "[ #clima: NOVA NDC 2025]\n\n🗓️prazo pros países apresentarem sua meta: fev/2025\n\n🌐quem já apresentou?\nSó a Troika\n  🇦🇪EAU: host #COP28\n  🇦🇿Azerbaijão: host #COP29\n  🇧🇷Brasil: host #COP30\n\nℹ️qual a nova NDC 🇧🇷?\n📉Reduzir de 39% a 50% em relação a 2019 (=1,712 GtCO2e) 🟰 emissão de 1,050 a 0,850 GtCO2eq em 2035"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2024/11/brasil-apresenta-sua-nova-meta-climatica-alinhada-a-missao-1-5",
+                    "title": "Brasil apresenta sua nova meta climática alinhada à Missão 1,5",
+                    "description": "País aumenta ambição com compromisso de reduzir emissões em até 67% em 2035",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreietbxmklvfnuphqoeu7wh55ujgbfujwxi5mnoj72pb6kcppaa3fgq@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T18:17:29.290Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rxqyv7o2ri426famjwxkdgba/app.bsky.feed.post/3kqg6bspy2w24",
+            "cid": "bafyreibs4iqr7zzlqrqwp4a3eujwgeoxlhd4skha5ys7lhkmyx7xl6kqny",
+            "author": {
+                "did": "did:plc:rxqyv7o2ri426famjwxkdgba",
+                "handle": "estuarioramos.bsky.social",
+                "displayName": "Estuário Ramos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rxqyv7o2ri426famjwxkdgba/bafkreiafiqa4mhbelzwnv6if5yqpy7vzscathujlzrflkpmpords6stmaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-16T23:58:26.912Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-18T15:59:48.945Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 788,
+                                "width": 940
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibobitzhouj6wbdqddef6b3vscbebldg5dar5t2oo4e6je3quirla"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 160324
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 6,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 13,
+                            "byteStart": 7
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop30"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 14
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#cop28\n#cop29\n#cop30"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rxqyv7o2ri426famjwxkdgba/bafkreibobitzhouj6wbdqddef6b3vscbebldg5dar5t2oo4e6je3quirla@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rxqyv7o2ri426famjwxkdgba/bafkreibobitzhouj6wbdqddef6b3vscbebldg5dar5t2oo4e6je3quirla@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 788,
+                            "width": 940
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-18T15:59:48.945Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kgheipsnst2f",
+            "cid": "bafyreigs2tlij2k7k4x645ol2irjniaj6bilrhmg76emh5jgsuxotpbkwi",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T21:11:44.897Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Listen to this episode from O Eco | Jornalismo Ambiental on Spotify. Enfim chegamos ao último episódio da série especial COP 28, direto de Dubai. Cristiane Prizibisczki, Claudio Angelo e Mikaelle F...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibbxd3ksx3zssw3dtpuxplvwjjoiwmb2xl2agxu5icb3d4vf2aioq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 408922
+                        },
+                        "title": "Entrando no Clima | COP 28 #17: O texto final foi salvo?",
+                        "uri": "https://open.spotify.com/episode/6yo9onGjhQ8uUrlAuI9Aty?si=ytBBiDNCRl-ppQLdQQAvFQ"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://open.spotify.com/episode/6yo9onGjhQ8uUrlAuI9Aty?si=ytBBiDNCRl-ppQLdQQAvFQ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 262
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrando no Clima #COP28 | Enfim chegamos ao último episódio do podcast especial, direto de Dubai. Cristiane Prizibisczki, Claudio Angelo e Mikaelle Farias deixam as últimas informações e comentários sobre o texto final, que pode ser considerado positivo.\nopen.spotify.com/episode/6yo9..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://open.spotify.com/episode/6yo9onGjhQ8uUrlAuI9Aty?si=ytBBiDNCRl-ppQLdQQAvFQ",
+                    "title": "Entrando no Clima | COP 28 #17: O texto final foi salvo?",
+                    "description": "Listen to this episode from O Eco | Jornalismo Ambiental on Spotify. Enfim chegamos ao último episódio da série especial COP 28, direto de Dubai. Cristiane Prizibisczki, Claudio Angelo e Mikaelle F...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibbxd3ksx3zssw3dtpuxplvwjjoiwmb2xl2agxu5icb3d4vf2aioq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T21:11:44.897Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fdrpkaxodvd2stufq5dhxv6n/app.bsky.feed.post/3kggydr5eyb2i",
+            "cid": "bafyreicjlkuhb5epqzpntyfkg627h7r453fwy6xxcwdqw2nhztiraf7awi",
+            "author": {
+                "did": "did:plc:fdrpkaxodvd2stufq5dhxv6n",
+                "handle": "juliopereira.bsky.social",
+                "displayName": "Júlio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fdrpkaxodvd2stufq5dhxv6n/bafkreigbxojjhsvg7bcj22hecia2iwg5glai2s33oqfwcrcig4vxvdeedu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-04T23:16:43.891Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T17:34:15.449Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Conferência aponta caminho para o mundo pós-carbono pela primeira vez em três décadas; bloco do petróleo bloqueia linguagem mais incisiva",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihdrzaeop57eejsetvyo5wuxtiddqmp6n4fsp7m4lrbvwysyxf46a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 308613
+                        },
+                        "title": "COP28 termina com acordo histórico para transição de fósseis",
+                        "uri": "https://capitalreset.uol.com.br/clima/cop/cop28-termina-com-acordo-historico-para-transicao-de-fosseis/?utm_campaign=131223_-_cop_fim__blackrock__webinar_impulso_cop&utm_medium=email&utm_source=RD+Station"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "capitalreset"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 13,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 14
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "transicaoenergetica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 21
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://capitalreset.uol.com.br/clima/cop/cop28-termina-com-acordo-historico-para-transicao-de-fosseis/?utm_campaign=131223_-_cop_fim__blackrock__webinar_impulso_cop&utm_medium=email&utm_source=RD+Station"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 81,
+                            "byteStart": 42
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#capitalreset #cop28 #transicaoenergetica\ncapitalreset.uol.com.br/clima/cop/co..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://capitalreset.uol.com.br/clima/cop/cop28-termina-com-acordo-historico-para-transicao-de-fosseis/?utm_campaign=131223_-_cop_fim__blackrock__webinar_impulso_cop&utm_medium=email&utm_source=RD+Station",
+                    "title": "COP28 termina com acordo histórico para transição de fósseis",
+                    "description": "Conferência aponta caminho para o mundo pós-carbono pela primeira vez em três décadas; bloco do petróleo bloqueia linguagem mais incisiva",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fdrpkaxodvd2stufq5dhxv6n/bafkreihdrzaeop57eejsetvyo5wuxtiddqmp6n4fsp7m4lrbvwysyxf46a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T17:34:15.449Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kggl3vzgdo25",
+            "cid": "bafyreidkr3dbsfibnmjfpc3pxgxwh36hnohhsvepryaegous7iisip6d6u",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T13:37:13.259Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 81,
+                            "byteStart": 75
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28UAE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 91,
+                            "byteStart": 82
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/13/mudancas-climaticas-poderao-impactar-de-forma-severa-o-rio-de-janeiro/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 238
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mudanças climáticas poderão impactar de forma severa o Rio de Janeiro - #COP28 #COP28UAE\nO aumento da temperatura é a principal ameaça, com níveis de calor acima de 45 graus, principalmente na Baixada Fluminense e na área do Porto\nwww.ecodebate.com.br/2023/12/13/m..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T13:37:13.259Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kggkk2ivws2h",
+            "cid": "bafyreiett2x3fwmqwaqbkouzmfgrxwyaqvez2npcidzergffwu3lezjavm",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T13:27:13.969Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 77,
+                            "byteStart": 71
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28UAE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 87,
+                            "byteStart": 78
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/13/79-das-pessoas-no-brasil-ja-sentem-impactos-da-mudanca-climatica/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 258
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "79% das pessoas no Brasil já sentem impactos da mudança climática - #COP28 #COP28UAE\nA pesquisa “Global Views On Climate Change” indica que o Brasil está entre os países onde a população está mais insegura com relação às mudanças climáticas\nwww.ecodebate.com.br/2023/12/13/7..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T13:27:13.969Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kggjkgkhsi2a",
+            "cid": "bafyreicl3smhtrsrvwr5flamrqfp26wsiatq7xivaxgl4rxsrhifycuday",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T13:09:32.831Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 191
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28UAE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 207,
+                            "byteStart": 198
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/13/nossa-adaptacao-as-mudancas-climaticas-e-insuficiente/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 244,
+                            "byteStart": 208
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nossa adaptação às mudanças climáticas é insuficiente\nOs seres humanos estão se adaptando às mudanças climáticas, mas não com rapidez suficiente, de acordo com uma nova pesquisa - #COP28 #COP28UAE\nwww.ecodebate.com.br/2023/12/13/n..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T13:09:32.831Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kgginwomrk2h",
+            "cid": "bafyreibiqbg6f5kxtetj7a6p4hxz3hogmfqwtmk5snnkqglnnjvnmv3j4y",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T12:53:36.648Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 242,
+                            "byteStart": 236
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28UAE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 243
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/13/entenda-a-proposta-do-global-stocktake-do-acordo-de-paris/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 253
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entenda a proposta do Global Stocktake do Acordo de Paris\nO texto que encerra esta COP não é apenas um acordo final, como é tradição, mas um balanço da ação climática global até o momento, o primeiro desde o Acordo de Paris - #COP28 #COP28UAE\nwww.ecodebate.com.br/2023/12/13/e..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T12:53:36.648Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kggiafjlyw2v",
+            "cid": "bafyreiflbfzj5ldx3j2huer6msjftklbfl4iqdmtpk7x7sp4ylly6cpwl4",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-13T12:46:02.367Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 92,
+                            "byteStart": 86
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28UAE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 102,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/13/o-colapso-climatico-ja-comecou-com-anomalias-da-temperatura-acima-de-2-celsius/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 250
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O colapso climático já começou com anomalias da temperatura acima de 2º Celsius - #COP28 #COP28UAE\n“Estamos vivendo um colapso climático em tempo real e o impacto é arrasador”. Secretário-geral da ONU, António Guterres (novembro de 2023)\nwww.ecodebate.com.br/2023/12/13/o..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-13T12:46:02.367Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kgetnxcxrx24",
+            "cid": "bafyreiehcok4pvc667py4ljteoobd32p4zlzmvycei5tiwqbk43z7c5o5e",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-12T21:05:07.998Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Acompanhe as novidades das horas finais da Conferência do Clima em Dubai. A repórter especial de ((o))eco Cristiane Prizibisczki participa deste episódio, qu...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih3g722gap6hosqfyugd33jek44ja4ttglwkoox2ed6a4hda6wmue"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 723638
+                        },
+                        "title": "Entrando no Clima | COP 28 #16: Em compasso de espera",
+                        "uri": "https://youtu.be/PHAiOoHo7E0?feature=shared"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/PHAiOoHo7E0?feature=shared"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 262
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrando no Clima #COP28 | Acompanhe as novidades das horas finais da Conferência. A repórter especial de ((o))eco Cristiane Prizibisczki participa deste episódio, que segue com a coluna em áudio de Mikaelle Farias e a participação de Guilherme Lima. 🎧\nyoutu.be/PHAiOoHo7E0?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/PHAiOoHo7E0?feature=shared",
+                    "title": "Entrando no Clima | COP 28 #16: Em compasso de espera",
+                    "description": "Acompanhe as novidades das horas finais da Conferência do Clima em Dubai. A repórter especial de ((o))eco Cristiane Prizibisczki participa deste episódio, qu...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreih3g722gap6hosqfyugd33jek44ja4ttglwkoox2ed6a4hda6wmue@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-12T21:05:07.998Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kgccznaa6t2v",
+            "cid": "bafyreicwpgbckgtu2apl7tyiygdop4xk3ycou3in2snepcw6ew6mws2fdi",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-11T21:02:07.360Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Listen to this episode from O Eco | Jornalismo Ambiental on Spotify. Cristiane Prizibisczki e Claudio Angelo nos atualizam sobre o dia de negociações na COP 28. Embora o texto final e mais important...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaz6j7vasmdadh42x45upxrymzqyo2fmq3iqdvi425s64iay2aouq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 364981
+                        },
+                        "title": "Entrando no Clima | COP 28 #15: As negociações avançam... ou retrocedem?",
+                        "uri": "https://open.spotify.com/episode/2N0Fq4Ylb5yXc3ptHQ6WS5?si=nUTMfEdpTVqSqEfxl0SZ6g"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://open.spotify.com/episode/2N0Fq4Ylb5yXc3ptHQ6WS5?si=nUTMfEdpTVqSqEfxl0SZ6g"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 202
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrando no Clima #COP28 | Mais um dia de negociações na COP 28: embora o texto final e mais importante tenha avançado, os retrocessos sobre eliminação de combustíveis fósseis é flagrante. 🎧\nopen.spotify.com/episode/2N0F..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://open.spotify.com/episode/2N0Fq4Ylb5yXc3ptHQ6WS5?si=nUTMfEdpTVqSqEfxl0SZ6g",
+                    "title": "Entrando no Clima | COP 28 #15: As negociações avançam... ou retrocedem?",
+                    "description": "Listen to this episode from O Eco | Jornalismo Ambiental on Spotify. Cristiane Prizibisczki e Claudio Angelo nos atualizam sobre o dia de negociações na COP 28. Embora o texto final e mais important...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiaz6j7vasmdadh42x45upxrymzqyo2fmq3iqdvi425s64iay2aouq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-11T21:02:07.360Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kfuu5lpzmr2s",
+            "cid": "bafyreievs65y4mnphp3k3fuyzkq3nx6ux7keltgvboasqsly3bcgletn4u",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-06T12:31:17.697Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 6,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/06/cop28-e-mais-um-evento-de-consenso-oco-sem-metas-e-compromissos/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 233
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#COP28 é mais um evento de consenso oco, sem metas e compromissos\nPara provocar mudanças efetivas, além do rechaço necessário ao crescimento econômico ilimitado, é necessário desconcentrar capitais, descentralizar atividades\nwww.ecodebate.com.br/2023/12/06/c..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-06T12:31:17.697Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kftaagpjgk2k",
+            "cid": "bafyreic23tyuwpor5zztcsfns3aleoprns6nphbekihk5kuxgcxut65tim",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-05T21:02:17.212Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "No décimo episódio da série especial COP 28, trazemos algumas novidades sobre as negociações e o primeiro rascunho do texto do Balanço Global de Carbono. Ain...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaemoddpe4ymuxj5cytp6j3ze5hoqdiv7qwcssg6q6soyeuzznluy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 865702
+                        },
+                        "title": "Entrando no Clima | cop28 #10",
+                        "uri": "https://youtu.be/Oh-ZTn0itmw?feature=shared"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/Oh-ZTn0itmw?feature=shared"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 253
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrando no Clima #COP28 | Rascunho do texto do Balanço Global de Carbono, 300 indígenas X 2.400 lobistas do Petróleo marcando presença na COP e uma reflexão sobre como a cidade \"instagramável\" de Dubai reflete as contradições do encontro. 🎧\nyoutu.be/Oh-ZTn0itmw?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/Oh-ZTn0itmw?feature=shared",
+                    "title": "Entrando no Clima | cop28 #10",
+                    "description": "No décimo episódio da série especial COP 28, trazemos algumas novidades sobre as negociações e o primeiro rascunho do texto do Balanço Global de Carbono. Ain...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiaemoddpe4ymuxj5cytp6j3ze5hoqdiv7qwcssg6q6soyeuzznluy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-05T21:02:17.212Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3kfq3lv56fk2e",
+            "cid": "bafyreig33wtzugsiyhaczardpx2k3svlzzig767tlgg2acimh7ngcn64tm",
+            "author": {
+                "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                "handle": "jnascim.info",
+                "displayName": "Jeff Nascimento",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T10:36:21.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-04T15:01:14.832Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 667,
+                                "width": 1107
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidrwgykxhjiayhxowjhvcofdylrz4dzvxttryktwxgqd4fuvfceiy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 297902
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 35,
+                            "byteStart": 29
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jnascim.info/J7cDfP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 336,
+                            "byteStart": 317
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "👥 Maiores delegações na #COP28  \n1⃣ 🇦🇪 EAU 4.409\n2⃣ 🇧🇷 Brasil 3.081\n3⃣ 🇨🇳 China 1.411\n3⃣ 🇳🇬 Nigéria 1.411\n5⃣ 🇮🇩 Indonésia 1.229\n6⃣ 🇯🇵 Japão 1.067\n7⃣ 🇹🇷 Turquia 1.045\n8⃣ 🇮🇳 Índia 948\n9⃣ 🇲🇦 Marrocos 823\n🔟 🇫🇷 França 800\n\nFonte: jnascim.info/J7cDfP"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreidrwgykxhjiayhxowjhvcofdylrz4dzvxttryktwxgqd4fuvfceiy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreidrwgykxhjiayhxowjhvcofdylrz4dzvxttryktwxgqd4fuvfceiy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 667,
+                            "width": 1107
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 12,
+            "quoteCount": 1,
+            "indexedAt": "2023-12-04T15:01:14.832Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kfnfcku34b2d",
+            "cid": "bafyreid4udqe2mlxpf3h2i6iqnhsfoekkqe2ah66dnunp2hwyvgobvknky",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-03T13:17:00.267Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 420,
+                                "width": 800
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifyrx3orlbxehgo3uxdbl4ebnokhfts73tpsxnisrjajur7fcpal4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 185956
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 6,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/01/mudancas-climaticas-fundo-de-perdas-e-danos-e-um-passo-na-direcao-certa/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 227
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#COP28 : Até agora, o Fundo de Perdas e Danos é o único passo na direção certa e, mesmo assim, é apenas para mitigar o desastre climático crescente. \n\nNo importante, a redução das emissões, nada mudou.\n\nSaiba mais em www.ecodebate.com.br/2023/12/01/m..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreifyrx3orlbxehgo3uxdbl4ebnokhfts73tpsxnisrjajur7fcpal4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreifyrx3orlbxehgo3uxdbl4ebnokhfts73tpsxnisrjajur7fcpal4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 420,
+                            "width": 800
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-03T13:17:00.267Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kfnd2ujx2s26",
+            "cid": "bafyreicy3gycripxs3g6b3vfspscdqa4tghh6w6sv3e3k25q6a434vmq3a",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-03T12:36:54.431Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 6,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#COP28: A 'promessa' de mais de 100 países de triplicar a energia limpa e dobrar a eficiência energética ( o Acelerador de Descarbonização do Petróleo e Gás) é de participação voluntária e sem metas fixadas.\n\nOu seja, novamente, mais do mesmo. Não é um avanço, é uma distração."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-03T12:36:54.431Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kflow4k4cg2z",
+            "cid": "bafyreigdzjskcvfahwmpowhwcsizcwuuc35kiv4fxn2ifihnktlxv2phvy",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-02T21:03:39.313Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "No episódio de hoje, acompanhamos o 2o dia de presença do presidente Lula na conferência. Um climão se formou na reunião entre ele e a sociedade civil ao afi...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif7sivv54j4ql2bc2le334ydptz3kcctrg4uzih5nutnlzeo7aqru"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 864047
+                        },
+                        "title": "Entrando no Clima | COP28 #07",
+                        "uri": "https://youtu.be/nC1hqB4wwTY?feature=shared"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/nC1hqB4wwTY?feature=shared"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 250
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrando no Clima #COP28 | Climão na reunião entre Lula e sociedade civil ao afirmar que Brasil entrará na OPEP+, França contra o acordo UE-Mercosul nos moldes atuais e nossa colunista Mikaelle Farias mostra as demandas da juventude na COP. 🎧\nyoutu.be/nC1hqB4wwTY?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/nC1hqB4wwTY?feature=shared",
+                    "title": "Entrando no Clima | COP28 #07",
+                    "description": "No episódio de hoje, acompanhamos o 2o dia de presença do presidente Lula na conferência. Um climão se formou na reunião entre ele e a sociedade civil ao afi...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreif7sivv54j4ql2bc2le334ydptz3kcctrg4uzih5nutnlzeo7aqru@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-02T21:03:39.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oyt4rx7ygvaduj4yduluibfu/app.bsky.feed.post/3kfia7folfw2s",
+            "cid": "bafyreiaqzs2vscd6epco2kou7kzgdxnmtzt5b34bwamzjvoqyejdrvzn34",
+            "author": {
+                "did": "did:plc:oyt4rx7ygvaduj4yduluibfu",
+                "handle": "curtonews.bsky.social",
+                "displayName": "Curto News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oyt4rx7ygvaduj4yduluibfu/bafkreihmgonaiwfh3mnmmcq7dlzvdigphoycqsqboqyunijy4iltaekczm@jpeg",
+                "labels": [],
+                "createdAt": "2023-10-04T11:46:52.905Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-01T12:02:22.747Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "curtonewsletter"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 22
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "iA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 51
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 175,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mailchi.mp/curtonews.com/cn011223-top?e=ca8472d2ff"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 267,
+                            "byteStart": 241
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia!!! Confira na #curtonewsletter ⬇️\n - A #iA engorda seu salário \n - Já imaginou poder prever turbulências em aviões? \n- Poluição do ar mata milhões \n- #COP28 :  Acordo sobre perdas e danos \n- 🤖 Ferramenta do dia: Monic\nmailchi.mp/curtonews.co..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-01T12:02:22.747Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kffrumhlmk26",
+            "cid": "bafyreifoxgl2gn3vm3xdlsw5fzrkwrstk7zdoyjne4awukwaozz7zejysq",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-30T12:40:32.916Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "COP28",
+                            "aspectRatio": {
+                                "height": 619,
+                                "width": 552
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreih6ckdkmgo7abdypwewdreiuvgmgopxrfmu6cqvuv266i5g6o6cte"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 234046
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP28"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/11/30/entenda-as-urgencias-e-tendencias-da-cop28/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 207
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A #COP28 será um ponto de ruptura. Ou criam-se metas obrigatórias de redução de emissões e de transição energética justa, ou caminhamos para o desastre climático. Não há meio termo.\nSaiba mais em www.ecodebate.com.br/2023/11/30/e..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreih6ckdkmgo7abdypwewdreiuvgmgopxrfmu6cqvuv266i5g6o6cte@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreih6ckdkmgo7abdypwewdreiuvgmgopxrfmu6cqvuv266i5g6o6cte@jpeg",
+                        "alt": "COP28",
+                        "aspectRatio": {
+                            "height": 619,
+                            "width": 552
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-30T12:40:32.916Z",
+            "labels": []
+        }
+    ]
+}

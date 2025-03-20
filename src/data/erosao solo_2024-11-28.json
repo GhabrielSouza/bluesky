@@ -1,0 +1,2629 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:flpdvqnqme4abiywyj27sbt7/app.bsky.feed.post/3lbf7zsdtwc2j",
+            "cid": "bafyreicyttqkpvzocbhjtffxrhiyt47ol7m55hn4ov7uzajowybhffvbvi",
+            "author": {
+                "did": "did:plc:flpdvqnqme4abiywyj27sbt7",
+                "handle": "rdmonteiro.cinemaqui.com.br",
+                "displayName": "rodrigo monteiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:flpdvqnqme4abiywyj27sbt7/bafkreibaa3yed7noiigqbm64juhdu7sqg6bmvana6rx55jpa27zu73iu5i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-15T19:48:49.792Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-20T15:06:45.253Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tem um prédio na rua dos meus pais que vi ser construído. A obra foi embargada. Teve erosão no solo que engoliu o estande de vendas. Agora, anos depois de lançado, quando muita gente não lembra disso, a cobertura está sendo revendida por 12 milhões."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-20T15:06:45.690Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hazoig5gcisnpu4p7o4oxbmf/app.bsky.feed.post/3lafccn6ybb2b",
+            "cid": "bafyreigqjx7cxkmyndipjcamhhuhapcrksqi2ckhnqv6onv6sxhhmg67la",
+            "author": {
+                "did": "did:plc:hazoig5gcisnpu4p7o4oxbmf",
+                "handle": "fugitivodoc4ps.bsky.social",
+                "displayName": "igor ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hazoig5gcisnpu4p7o4oxbmf/bafkreiaypfgwuiuk2smxlsadnneskanzbirbar3meg2td7fbvzuxkqagx4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-10-06T02:54:49.907Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T22:22:17.229Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifxkto7ihllj7fbemx3gar4wwlbzrt6axd5vfdfwjbob7wyr5svfq",
+                        "uri": "at://did:plc:5decfjaoxwoizuomchevu36b/app.bsky.feed.post/3lacnpnv4sa2j"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "o brasil inteiro vai ficar insalubre, pois a atual economia da agropecuária é incompatível com a manutenção necessária para alavancar o equilíbrio da nossa biodiversidade, fim do desmatamento/erosão do solo e emissões dos GEEs  \nkkkkkkkk só ladeira a baixo pra todo mundo tá loco bicho"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:5decfjaoxwoizuomchevu36b/app.bsky.feed.post/3lacnpnv4sa2j",
+                    "cid": "bafyreifxkto7ihllj7fbemx3gar4wwlbzrt6axd5vfdfwjbob7wyr5svfq",
+                    "author": {
+                        "did": "did:plc:5decfjaoxwoizuomchevu36b",
+                        "handle": "climainfo.bsky.social",
+                        "displayName": "Climainfo",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5decfjaoxwoizuomchevu36b/bafkreif27tese74q7d2aj45vbjna5m4vrk4hrnws6negrpst2i5au5mfoq@jpeg",
+                        "labels": [],
+                        "createdAt": "2024-04-17T14:33:03.000Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-06T21:08:26.605Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Carlos Nobre realizou a palestra magna do 4º Summit Ambiental Internacional, promovido nesta terça e quarta pelo Hospital Moinhos de Vento",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreib42s2xbuiqdai7as7ghzgcbhgvlhbmhul2uzshbryen5vsug4g6u"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 700892
+                                },
+                                "title": "Mudanças climáticas podem tornar RS inabitável em breve, diz em Porto Alegre um dos maiores meteorologistas do país",
+                                "uri": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-rs-inabit%C3%A1vel-em-breve-diz-em-porto-alegre-um-dos-maiores-meteorologistas-do-pa%C3%ADs-1.1549528"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-rs-inabit%C3%A1vel-em-breve-diz-em-porto-alegre-um-dos-maiores-meteorologistas-do-pa%C3%ADs-1.1549528"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 67,
+                                    "byteStart": 27
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "en"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreicimz23skb4znpunmiblbgpwd42nrwge6liiekwqbwdn55j56x2hu",
+                                "uri": "at://did:plc:5decfjaoxwoizuomchevu36b/app.bsky.feed.post/3lacnp5ycl22v"
+                            },
+                            "root": {
+                                "cid": "bafyreidoxolwdtpaceyxu4afwfvaex2r5smcpjldpipnragvjmjznb2xca",
+                                "uri": "at://did:plc:5decfjaoxwoizuomchevu36b/app.bsky.feed.post/3lacnnv2iiy2j"
+                            }
+                        },
+                        "text": "Leia matéria completa em: www.correiodopovo.com.br/not%C3%ADcia..."
+                    },
+                    "labels": [],
+                    "likeCount": 15,
+                    "replyCount": 1,
+                    "repostCount": 4,
+                    "quoteCount": 5,
+                    "indexedAt": "2024-11-06T21:08:28.286Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/mudan%C3%A7as-clim%C3%A1ticas-podem-tornar-rs-inabit%C3%A1vel-em-breve-diz-em-porto-alegre-um-dos-maiores-meteorologistas-do-pa%C3%ADs-1.1549528",
+                                "title": "Mudanças climáticas podem tornar RS inabitável em breve, diz em Porto Alegre um dos maiores meteorologistas do país",
+                                "description": "Carlos Nobre realizou a palestra magna do 4º Summit Ambiental Internacional, promovido nesta terça e quarta pelo Hospital Moinhos de Vento",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5decfjaoxwoizuomchevu36b/bafkreib42s2xbuiqdai7as7ghzgcbhgvlhbmhul2uzshbryen5vsug4g6u@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T22:22:17.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l7ytaljmbl2k",
+            "cid": "bafyreibeg4cyponqn7jn25id6g6skrwmnfeparac4fjqw5gftf6ajys22a",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-02T23:20:44.382658Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Devido às chuvas que atingiram a cidade nos últimos meses, juntamente com a ruptura na tubulação de esgoto e águas pluviais, a erosão permanece aumentando e se estendendo.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiclne66d2sksvoc7efbnwt2dha6lqulzvrtnnpnslvttzg3n3gjiq"
+                            },
+                            "mimeType": "image/png",
+                            "size": 12038
+                        },
+                        "title": "Avaré registra erosão de solo no Bairro São Rogério após ruptura de rede água e esgoto",
+                        "uri": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2024/11/02/avare-registra-erosao-de-solo-no-bairro-sao-rogerio-apos-ruptura-de-rede-agua-e-esgoto.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Avaré registra erosão de solo no Bairro São Rogério após ruptura de rede água e esgoto"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2024/11/02/avare-registra-erosao-de-solo-no-bairro-sao-rogerio-apos-ruptura-de-rede-agua-e-esgoto.ghtml",
+                    "title": "Avaré registra erosão de solo no Bairro São Rogério após ruptura de rede água e esgoto",
+                    "description": "Devido às chuvas que atingiram a cidade nos últimos meses, juntamente com a ruptura na tubulação de esgoto e águas pluviais, a erosão permanece aumentando e se estendendo.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiclne66d2sksvoc7efbnwt2dha6lqulzvrtnnpnslvttzg3n3gjiq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T23:20:45.982Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:czovnd6sklec5pc3wlnuh7bu/app.bsky.feed.post/3l7bcali6aj2f",
+            "cid": "bafyreiaxllbqlfbzr73gdbix5li3ki6hyq3andoahorl3rgtzxg6j55vzu",
+            "author": {
+                "did": "did:plc:czovnd6sklec5pc3wlnuh7bu",
+                "handle": "entroponauta.bsky.social",
+                "displayName": "matheus schlittler",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:czovnd6sklec5pc3wlnuh7bu/bafkreidbae27kesgz4yz6z6wd5j6uknsltevp5gfila3lj7qjzt4re7bfe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-17T15:14:13.811Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T14:45:18.781Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibx3onq3ogkvps7kx2wvvzd4s6sh2zddjnzxxklsfhk2qiuazn454"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 883645
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Meu véio me explicando sobre processo de erosão do solo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:czovnd6sklec5pc3wlnuh7bu/bafkreibx3onq3ogkvps7kx2wvvzd4s6sh2zddjnzxxklsfhk2qiuazn454@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:czovnd6sklec5pc3wlnuh7bu/bafkreibx3onq3ogkvps7kx2wvvzd4s6sh2zddjnzxxklsfhk2qiuazn454@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 58,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-24T14:45:18.781Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6ne6puz3c2o",
+            "cid": "bafyreigx5u36xslgaimsrw2oyc4bk4vlo55idztwxg5e2okjew35kvq7ti",
+            "author": {
+                "did": "did:plc:4emjyzaf6t6puvmf2nwi3hou",
+                "handle": "nathaliasca.bsky.social",
+                "displayName": "Nathalia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4emjyzaf6t6puvmf2nwi3hou/bafkreicowlmhex3vta7ygtqsntlnlxlq57lrqnl6b462nkzcjttnrqgeky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:15:53.105Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-16T16:26:48.250Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibldwp6me43adshau25df5bclgdz62j22bykkpfjesns5pjnk6ury",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6ne3xm7cy2i"
+                    },
+                    "root": {
+                        "cid": "bafyreifi3k7a253wetrrnp735pmzvvrfp4ekyzfbu4ci5ili7k5pk62l4m",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6nd56xwxe2w"
+                    }
+                },
+                "text": "O agronegócio pode causar diversos danos, entre eles: \n \n1. Degradação ambiental\nA agropecuária pode causar desmatamento, queimadas, erosão, compactação do solo, assoreamento de rios, contaminação da água subterrânea e perda de biodiversidade."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-16T16:26:48.250Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p3kdlknwtkmefjaz45hzczsl/app.bsky.feed.post/3l6kjg7nggs2k",
+            "cid": "bafyreicg76muzgpbkfhv3ycsohbm5szswfdgpmqsx4nbfd6tue5lij6ala",
+            "author": {
+                "did": "did:plc:p3kdlknwtkmefjaz45hzczsl",
+                "handle": "mellf.bsky.social",
+                "displayName": "Mel",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p3kdlknwtkmefjaz45hzczsl/bafkreievy6ffpqk6hearsu772e4oc7wvw662fomx4c4luknch3rduzozyy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T03:30:34.195Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T13:22:28.337Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreighu2t3vekvo2galyxb6fp6epdzz5qd2t7fnvgepwxu2ajyfithvy",
+                        "uri": "at://did:plc:fmkkpgyk6frooa5q5veq2yqh/app.bsky.feed.post/3l6hznayf2y23"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A diferença foi o tipo de manejo do solo realizado pelos assentados. Ao vez de cultivar só o plantio da estação, o assentamento tem uma cobertura vegetal rica. Respeitando as épocas dos alimentos e fazendo rotação de culturas.Isso ajudou a brecar a erosão e, consequentemente, a perda de fertilidade."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:fmkkpgyk6frooa5q5veq2yqh/app.bsky.feed.post/3l6hznayf2y23",
+                    "cid": "bafyreighu2t3vekvo2galyxb6fp6epdzz5qd2t7fnvgepwxu2ajyfithvy",
+                    "author": {
+                        "did": "did:plc:fmkkpgyk6frooa5q5veq2yqh",
+                        "handle": "amandaaudi.bsky.social",
+                        "displayName": "Amanda Audi",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fmkkpgyk6frooa5q5veq2yqh/bafkreig6xxtipckysk7exbbsmxpoegoabkrhttitggeyr5fu3ujzfu433m@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-07-25T21:03:55.846Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-14T13:34:46.151Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Manejo adequado pelo MST protegeu solo do assentamento de Eldorado do Sul, que se manteve quase inalterado, segundo UFRGS",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiagoulwjsk57mpjtdcwoxwpzolfuglshasqxyrlmf3wu3gzumayi4"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 697034
+                                },
+                                "title": "MST: produção no RS manteve solo preservado após enchentes",
+                                "uri": "https://apublica.org/2024/10/producao-do-mst-no-rs-manteve-solo-preservado-apos-enchentes/"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://apublica.org/2024/10/producao-do-mst-no-rs-manteve-solo-preservado-apos-enchentes/"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 290,
+                                    "byteStart": 262
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "As enchentes arrasaram as terras do Rio Grande do Sul. Mas isso não aconteceu no assentamento do MST em Eldorado do Sul. Apesar de ficar 1 mês submerso, ele voltou a produzir apenas três meses dps. E isso tem tudo a ver com o formato agroecológico. Entenda: apublica.org/2024/10/prod..."
+                    },
+                    "labels": [],
+                    "likeCount": 1272,
+                    "replyCount": 10,
+                    "repostCount": 427,
+                    "quoteCount": 27,
+                    "indexedAt": "2024-10-14T13:34:46.151Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://apublica.org/2024/10/producao-do-mst-no-rs-manteve-solo-preservado-apos-enchentes/",
+                                "title": "MST: produção no RS manteve solo preservado após enchentes",
+                                "description": "Manejo adequado pelo MST protegeu solo do assentamento de Eldorado do Sul, que se manteve quase inalterado, segundo UFRGS",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fmkkpgyk6frooa5q5veq2yqh/bafkreiagoulwjsk57mpjtdcwoxwpzolfuglshasqxyrlmf3wu3gzumayi4@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T13:22:28.337Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:67i5vg6itlibo5itmcvbzz7w/app.bsky.feed.post/3l6j6ufpi2q2q",
+            "cid": "bafyreigzdui3nqzdk7ezwx27z3wkrpct4wnotmvia7ajhkfh2bumgqnley",
+            "author": {
+                "did": "did:plc:67i5vg6itlibo5itmcvbzz7w",
+                "handle": "marceloudr.bsky.social",
+                "displayName": "Marcelo UdR",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:67i5vg6itlibo5itmcvbzz7w/bafkreihsy7oba262m3ofzoct5n3osh72jwnbggdmwor3jodmzjndczlose@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T00:15:12.619Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T00:40:54.216Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Manejo adequado protegeu solo do assentamento de Eldorado do Sul, que se manteve quase inalterado, segundo UFRGS",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid6mbo5x3qjfm4nu2gnspbrs4we2e6odiovx3rzfups5clvasvyxu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 419834
+                        },
+                        "title": "Produção do MST no Rio Grande do Sul manteve solo preservado mesmo após enchente",
+                        "uri": "https://www.brasildefato.com.br/2024/10/14/producao-do-mst-no-rio-grande-do-sul-manteve-solo-preservado-mesmo-apos-enchente"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasildefato.com.br/2024/10/14/producao-do-mst-no-rio-grande-do-sul-manteve-solo-preservado-mesmo-apos-enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 39,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "www.brasildefato.com.br/2024/10/14/p...\n\"A diferença foi o tipo de manejo do solo. Em vez de produzirem só um determinado tipo de produto, eles respeitam as épocas dos alimentos e fazem rotação de culturas. Isso ajudou a brecar a erosão e a perda de fertilidade\"."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasildefato.com.br/2024/10/14/producao-do-mst-no-rio-grande-do-sul-manteve-solo-preservado-mesmo-apos-enchente",
+                    "title": "Produção do MST no Rio Grande do Sul manteve solo preservado mesmo após enchente",
+                    "description": "Manejo adequado protegeu solo do assentamento de Eldorado do Sul, que se manteve quase inalterado, segundo UFRGS",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:67i5vg6itlibo5itmcvbzz7w/bafkreid6mbo5x3qjfm4nu2gnspbrs4we2e6odiovx3rzfups5clvasvyxu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T00:40:54.216Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ygsiuidqn7vpyvrbklacdjtg/app.bsky.feed.post/3l63ufobgut2x",
+            "cid": "bafyreiaqtprvsl6z422xyftzc2loqudyyirdcu5q3dknvwrev6nsgpm4eq",
+            "author": {
+                "did": "did:plc:ygsiuidqn7vpyvrbklacdjtg",
+                "handle": "marcosnunes.bsky.social",
+                "displayName": "MarcosNunes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ygsiuidqn7vpyvrbklacdjtg/bafkreifkv3psn2k5tqehrfxtv65b7gozglstqignpn65gs5mrbgcmnn46e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T12:09:39.231Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T17:29:05.660Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiclbflx3eta44yyydn6e5nem3vmfswn4snwfl6ipvyogguto324r4",
+                        "uri": "at://did:plc:eg56q3me2zxzxfx464jkmzix/app.bsky.feed.post/3l63jb53bl62v"
+                    },
+                    "root": {
+                        "cid": "bafyreifko4qagce6z4h4y3zj7ah2bnstezxn4vsj4fawandbcxsmjuv2oe",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l5z3yx3dcb2l"
+                    }
+                },
+                "text": "É um ponto adicional ao problema: muitos falam em energia limpa, mas muitas energias \"limpas\" dependem de práticas que levam ao desmatamento, erosão e/ou empobrecimento do solo, ou utilizam metais raros cuja extração trará problemas locais e, pior, também tem reservas limitadas. Problemas demais."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T17:29:05.660Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5u2xyarm3shrje4u3zmtkhaj/app.bsky.feed.post/3l63sbw7mt62q",
+            "cid": "bafyreihu5h573ngny7zbwdtiu7xvaqmv6z57fsicb2pbve42zcerjljaci",
+            "author": {
+                "did": "did:plc:5u2xyarm3shrje4u3zmtkhaj",
+                "handle": "haitianlwa.bsky.social",
+                "displayName": "Leyogàn ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreibn2e5pdm6o2retar4koednmjf5downk6reyyft75fnpyzporm5zi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-25T04:37:46.874Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T17:22:51.652Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 668757
+                        },
+                        "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 237
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7feyjpvpydfvnnfvewcnclfbbtilmug7itqmkaziempq7sgl3am",
+                        "uri": "at://did:plc:53hx2knpmjwdns42tneonnab/app.bsky.feed.post/3l62kyfk6qg27"
+                    },
+                    "root": {
+                        "cid": "bafyreidjlpuehvamubad2cf3qxhk5fpboq75xmw2rwzjkh2geih4ehb6mu",
+                        "uri": "at://did:plc:vwftfl3bfcibbhi2g5cptsin/app.bsky.feed.post/3l5zupe3xfr2h"
+                    }
+                },
+                "text": "O custo da recuperação de terras tornadas inférteis pelas enchentes em Porto Alegre é de 16 bilhões de reais. 👇🏿👇🏿👇🏿\n\n2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater\ng1.globo.com/rs/rio-grand..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml",
+                    "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                    "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T16:51:12.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5u2xyarm3shrje4u3zmtkhaj/app.bsky.feed.post/3l63rzpggps2o",
+            "cid": "bafyreiacqdju5qyazajeuju2cjjfod3idlola6lutwj2s35iramor3iaf4",
+            "author": {
+                "did": "did:plc:5u2xyarm3shrje4u3zmtkhaj",
+                "handle": "haitianlwa.bsky.social",
+                "displayName": "Leyogàn ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreibn2e5pdm6o2retar4koednmjf5downk6reyyft75fnpyzporm5zi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-25T04:37:46.874Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T17:18:16.112Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 668757
+                        },
+                        "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 237
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieb6udwy6alt3famgxeovpzljrt4veuu5tiatqj2lbpzjq5uvhnmu",
+                        "uri": "at://did:plc:kztlimisbmqyj4c66yuonyjx/app.bsky.feed.post/3l5zueuvhcl2c"
+                    },
+                    "root": {
+                        "cid": "bafyreicur2jswcmwgj7ne6th76wbofm5vynemwdg3ez3ewz3e3b7hvxnke",
+                        "uri": "at://did:plc:xjs2mnc5ev6lspzqostvnrrl/app.bsky.feed.post/3l5ztwfeaqp2x"
+                    }
+                },
+                "text": "O custo da recuperação de terras tornadas inférteis pelas enchentes em Porto Alegre é de 16 bilhões de reais. 👇🏿👇🏿👇🏿\n\n2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater\ng1.globo.com/rs/rio-grand..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml",
+                    "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                    "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T16:46:38.109Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p4lz2upjx65u4yuqqdh4q6wi/app.bsky.feed.post/3l5mp2ff5ya2o",
+            "cid": "bafyreihpgbixzexzo46hiaf3u3nemaya6pov77q67xr7d6qa77t5qvw55m",
+            "author": {
+                "did": "did:plc:p4lz2upjx65u4yuqqdh4q6wi",
+                "handle": "spetsnazvolk.bsky.social",
+                "displayName": "SpetsnazVolk🇧🇷🇷🇺",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p4lz2upjx65u4yuqqdh4q6wi/bafkreifk5fymysuvibljmxjzrqhu4bbrwxqci7k3xmhqgso6jksifgp65q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-10-01T17:09:04.309Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T16:43:21.981Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicmabeh4xtzlxxolildim3gujgs2yvohvfrydwwxsfhptvpfkbcoe",
+                        "uri": "at://did:plc:6zjrsgbhsyhbzsaotmlaxxhu/app.bsky.feed.post/3l5mnwcfgra2x"
+                    },
+                    "root": {
+                        "cid": "bafyreihidz4baj7epm77ee5jw7rlwxb7ktk7n4cmdvwjtyzf5zz6mr3dhy",
+                        "uri": "at://did:plc:tcrb4cy6rdszohz7mwhrfboc/app.bsky.feed.post/3l5jkc2v63b2f"
+                    }
+                },
+                "text": "E outra pode causar erosão, perda de nutrientes e degradação no solo a longo prazo. Isso mais prejudica do que ajuda"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T16:43:21.981Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rmplxs6s5jqj4uptbtdsqkvw/app.bsky.feed.post/3l5l3vylr4p2g",
+            "cid": "bafyreiannjjx6zh2y3y7ndizwn7pmj6cxuozlr5zvjut27t22pl4nzdwim",
+            "author": {
+                "did": "did:plc:rmplxs6s5jqj4uptbtdsqkvw",
+                "handle": "jiminchuu.woke.cat",
+                "displayName": "hyunluka spreader",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rmplxs6s5jqj4uptbtdsqkvw/bafkreicnifhjvh4uyzpimjoly67c7rovzpydeiw3uk6eprnsj7ees5dfjm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T22:42:25.021Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T01:28:14.066Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Sakuma querendo saber qual é um processo natural de formação de uma erosão do solo e drenagem de estradas causando danos enormes aos solos",
+                            "aspectRatio": {
+                                "height": 611,
+                                "width": 736
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidnnem65cruxb6ctqjdhmv246plbhkyya6jmhhuuv3hidfuawdc7u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 218140
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiblsbvczsgamktqv2isaqa6iagxv4tdecrg67eysjnpxtcbmwhqze",
+                        "uri": "at://did:plc:gllnfrorq6nv6sdhu743ufow/app.bsky.feed.post/3l5l3mnopft2s"
+                    },
+                    "root": {
+                        "cid": "bafyreibbwognb7tlcgchrko6m2jhkc7ngftkhe7rf36ephzptz7jkfti5i",
+                        "uri": "at://did:plc:5qffkb76hmj6h57nna27fdfb/app.bsky.feed.post/3l5l2livpv62o"
+                    }
+                },
+                "text": "*Viro enstars responsável sakuma*"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rmplxs6s5jqj4uptbtdsqkvw/bafkreidnnem65cruxb6ctqjdhmv246plbhkyya6jmhhuuv3hidfuawdc7u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rmplxs6s5jqj4uptbtdsqkvw/bafkreidnnem65cruxb6ctqjdhmv246plbhkyya6jmhhuuv3hidfuawdc7u@jpeg",
+                        "alt": "Sakuma querendo saber qual é um processo natural de formação de uma erosão do solo e drenagem de estradas causando danos enormes aos solos",
+                        "aspectRatio": {
+                            "height": 611,
+                            "width": 736
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T01:28:14.066Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:542avp5x7jykvpz35attemto/app.bsky.feed.post/3l54xsqqvhq2j",
+            "cid": "bafyreicsmwdi7zfmkw3goc47pmqib6ecvpal76zz7rnfvwfxnw6kvssqsa",
+            "author": {
+                "did": "did:plc:542avp5x7jykvpz35attemto",
+                "handle": "reispybr13.bsky.social",
+                "displayName": "rei🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:542avp5x7jykvpz35attemto/bafkreibx7gw4g6li6erlemcr67vpm7vmucx6eor3fycqcevyzk3u5wesxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:542avp5x7jykvpz35attemto",
+                        "uri": "at://did:plc:542avp5x7jykvpz35attemto/app.bsky.actor.profile/self",
+                        "cid": "bafyreicvaz4rybwqppc3v6nzp4r54n6psjwn43ios7zyuhc6pfjk73cmma",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-31T22:51:46.061Z"
+                    }
+                ],
+                "createdAt": "2024-08-31T22:51:46.702Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T10:37:33.815Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 480,
+                                "width": 530
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifyhqnt3rgpbaicsrtm3ewaf5fwbxkf5yne4mtkhnfrplmdkqb6qy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 70892
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agradeça ao agro por ele ser pop:\n\nPop em desmatamento\n\nPop em emissão de gases de efeito estufa\n\nPop em erosão e compactação do solo\n\nPop em venenos\n\nPop em trabalhos análogos à escravidão\n\nPop em avanços tecnológicos que geram desemprego\n\nPop em exportação de commodities\n\nPop em queimadas..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:542avp5x7jykvpz35attemto/bafkreifyhqnt3rgpbaicsrtm3ewaf5fwbxkf5yne4mtkhnfrplmdkqb6qy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:542avp5x7jykvpz35attemto/bafkreifyhqnt3rgpbaicsrtm3ewaf5fwbxkf5yne4mtkhnfrplmdkqb6qy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 480,
+                            "width": 530
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 7,
+            "likeCount": 29,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-27T10:37:33.815Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:542avp5x7jykvpz35attemto/app.bsky.feed.post/3l4yufpugpd2c",
+            "cid": "bafyreiakzfor6e5tptt7rw2ykqiaggk35xk2o4cwgafa742irzaxw5ldhy",
+            "author": {
+                "did": "did:plc:542avp5x7jykvpz35attemto",
+                "handle": "reispybr13.bsky.social",
+                "displayName": "rei🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:542avp5x7jykvpz35attemto/bafkreibx7gw4g6li6erlemcr67vpm7vmucx6eor3fycqcevyzk3u5wesxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:542avp5x7jykvpz35attemto",
+                        "uri": "at://did:plc:542avp5x7jykvpz35attemto/app.bsky.actor.profile/self",
+                        "cid": "bafyreicvaz4rybwqppc3v6nzp4r54n6psjwn43ios7zyuhc6pfjk73cmma",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-31T22:51:46.061Z"
+                    }
+                ],
+                "createdAt": "2024-08-31T22:51:46.702Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:25:56.902Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 554,
+                                "width": 554
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig5tq32x4u6qguir5xmmtompitx3c7kryazojx3k5e4lbmpxwn634"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 140989
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agradeça ao agro por ele ser pop:\n\nPop em desmatamento\n\nPop em emissão de gases de efeito estufa\n\nPop em erosão e compactação do solo\n\nPop em venenos\n\nPop em trabalhos análogos à escravidão\n\nPop em avanços tecnológicos que geram desemprego\n\nPop em exportação de commodities\n\nPop em queimadas..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:542avp5x7jykvpz35attemto/bafkreig5tq32x4u6qguir5xmmtompitx3c7kryazojx3k5e4lbmpxwn634@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:542avp5x7jykvpz35attemto/bafkreig5tq32x4u6qguir5xmmtompitx3c7kryazojx3k5e4lbmpxwn634@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 554,
+                            "width": 554
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 19,
+            "likeCount": 53,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:25:56.902Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kbfqlfpug362m3neuhyograq/app.bsky.feed.post/3l4wjg2futd24",
+            "cid": "bafyreidppwcxhtl7urihijfbgpu3b65jp5iiopr3gf6oe6krxomc4iv44e",
+            "author": {
+                "did": "did:plc:kbfqlfpug362m3neuhyograq",
+                "handle": "lucas12812098.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kbfqlfpug362m3neuhyograq/bafkreichtibac2qhx5iw7jhnnm5iakc3ffcn2gmamymu7tq7tjywno473y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T09:41:37.099Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T21:03:57.335Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreignj77id4nklvimsunqirls4fa3ha2qdc3onadkxunzmbkswaussy",
+                        "uri": "at://did:plc:mnso7msffdovznjftbmnjljy/app.bsky.feed.post/3l4wfa3rbhk2q"
+                    },
+                    "root": {
+                        "cid": "bafyreih5lvtbcdquvc3shrkw3cirbhsv2s53dfuby5m6o7xaf3xkviori4",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l4wf3lq4ea23"
+                    }
+                },
+                "text": "Incêndio na lavoura, pasto, mata e floresta é crime com penas de até 9 anos. \n\nAs queimadas reduzem a fertilidade do solo e facilitam a erosão. Isso exigirá mais fertilizantes na agricultura e reduzirá a produtividade por hectare na pecuária. \n\nFazer cumprir a lei não diminuirá a produtividade."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T21:03:57.335Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rjgo7wkei6goff7ykdymd6br/app.bsky.feed.post/3l4jrb2j6qg2y",
+            "cid": "bafyreihqrcb7nxqbo6n7fuiqsaauim6nubfsgui4l3qcseqpeawdhri5ou",
+            "author": {
+                "did": "did:plc:rjgo7wkei6goff7ykdymd6br",
+                "handle": "filhosdaesperanca.bsky.social",
+                "displayName": "Filhos da Esperança",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rjgo7wkei6goff7ykdymd6br/bafkreih234e7illj5qqos44pmik5ja72gedft55dogaxhjck533nqgwatq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T17:43:41.718Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T19:19:42.981Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 512,
+                                "width": 800
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicokpwwkruuhqxko2rc7uznw5eqnte2oio5sl45kivyfy4xuwgu5i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 504493
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 534,
+                                "width": 800
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid4u4pkamgnydeintkvsv7cqe5mup7g7bsomjekon4d5dj7sclcgu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 595991
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieomjxkaxuxm3rf2ubmevg7ilchc6ypbvft6qlc4qddrxxertk7au",
+                        "uri": "at://did:plc:rjgo7wkei6goff7ykdymd6br/app.bsky.feed.post/3l4jpo54qe724"
+                    },
+                    "root": {
+                        "cid": "bafyreieomjxkaxuxm3rf2ubmevg7ilchc6ypbvft6qlc4qddrxxertk7au",
+                        "uri": "at://did:plc:rjgo7wkei6goff7ykdymd6br/app.bsky.feed.post/3l4jpo54qe724"
+                    }
+                },
+                "text": "O garimpo ilegal escava grandes buracos e crateras no solo, causando erosão severa e instabilidade do terreno. Essa destruição não só danifica a paisagem, mas também aumenta o risco de deslizamentos de terra e degrada a qualidade do solo. Reduzindo a capacidade do solo para sustentar vegetação."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rjgo7wkei6goff7ykdymd6br/bafkreicokpwwkruuhqxko2rc7uznw5eqnte2oio5sl45kivyfy4xuwgu5i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rjgo7wkei6goff7ykdymd6br/bafkreicokpwwkruuhqxko2rc7uznw5eqnte2oio5sl45kivyfy4xuwgu5i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 512,
+                            "width": 800
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rjgo7wkei6goff7ykdymd6br/bafkreid4u4pkamgnydeintkvsv7cqe5mup7g7bsomjekon4d5dj7sclcgu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rjgo7wkei6goff7ykdymd6br/bafkreid4u4pkamgnydeintkvsv7cqe5mup7g7bsomjekon4d5dj7sclcgu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 534,
+                            "width": 800
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T19:19:42.981Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:44qumw322zml6eyov46qojaz/app.bsky.feed.post/3l4f4qigm2b2w",
+            "cid": "bafyreigzitdlmzlvownvvweccgmvellajtdniv5anad2z6urzkdtvb742m",
+            "author": {
+                "did": "did:plc:44qumw322zml6eyov46qojaz",
+                "handle": "manox.bsky.social",
+                "displayName": "Manox 🎮 DQMJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:44qumw322zml6eyov46qojaz/bafkreiek6sba6modmo6lsihcjpkdoijvfqpyqqyrhizkmpokbblmbmtl5i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:44qumw322zml6eyov46qojaz",
+                        "uri": "at://did:plc:44qumw322zml6eyov46qojaz/app.bsky.actor.profile/self",
+                        "cid": "bafyreia5hm4t7fhou2g4q7morzyplprra3u4tphdulysudhn4mjfucxuxi",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-26T22:45:26.866Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T23:01:53.410Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiddsjkqjxvkfyv5ejntjjlp46aolsu6vaqa4yc7wtj3kfqcnihb7a",
+                        "uri": "at://did:plc:gxbwth6egnkqjtakw6gm655v/app.bsky.feed.post/3l4f43xmyd323"
+                    },
+                    "root": {
+                        "cid": "bafyreiddsjkqjxvkfyv5ejntjjlp46aolsu6vaqa4yc7wtj3kfqcnihb7a",
+                        "uri": "at://did:plc:gxbwth6egnkqjtakw6gm655v/app.bsky.feed.post/3l4f43xmyd323"
+                    }
+                },
+                "text": "Chamar um engenheiro e perguntar o que é solo\n-O químico vai trazer a constituição química\n-O de civil vai dizer que é a base de uma estrutura\n-O do meio ambiente vai falar que é o resultado de erosão etc\n-O eletricista vai falar que do uso do fio terra"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T23:01:53.410Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l4e2tkx2zo2p",
+            "cid": "bafyreib2auffo5fekcsf5uukthl7stbsackvvm7phditsoko27pxr3vd6y",
+            "author": {
+                "did": "did:plc:4emjyzaf6t6puvmf2nwi3hou",
+                "handle": "nathaliasca.bsky.social",
+                "displayName": "Nathalia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4emjyzaf6t6puvmf2nwi3hou/bafkreicowlmhex3vta7ygtqsntlnlxlq57lrqnl6b462nkzcjttnrqgeky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:15:53.105Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T12:55:09.460Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibmscpkbk2k5prjaex73rswp3x53n4zbn6isuumhiznkmqscoeaha",
+                        "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l4e23lkxee2u"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"deixando a água com coloração escura e turva, superfície espumosa e odor forte\"\n\"entre os prejuízos causados pelo crime ambiental estão a erosão, acidificação (redução de PH) e alteração da microbiologia do solo.\" – Toledo é uma cidade do Paraná"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l4e23lkxee2u",
+                    "cid": "bafyreibmscpkbk2k5prjaex73rswp3x53n4zbn6isuumhiznkmqscoeaha",
+                    "author": {
+                        "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                        "handle": "daniambiental.bsky.social",
+                        "displayName": "daniambiental",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-24T15:56:30.913Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-17T12:41:45.229Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Suinocultor é multado em R$ 100 mil por infração ambiental em córrego de Toledo",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreig3veu3zc22dthcrlpw4rpx352jbrp7jfrw4lgloulyg2vqw5nc6m"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 575869
+                                },
+                                "title": "Suinocultor é multado em R$ 100 mil por infração ambiental em córrego de Toledo",
+                                "uri": "https://www.aen.pr.gov.br/Noticia/Suinocultor-e-multado-em-R-100-mil-por-infracao-ambiental-em-corrego-de-Toledo"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.aen.pr.gov.br/Noticia/Suinocultor-e-multado-em-R-100-mil-por-infracao-ambiental-em-corrego-de-Toledo"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 291,
+                                    "byteStart": 258
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Produtor descartou de maneira irregular efluentes da suinocultura diretamente no solo da propriedade. O resíduo atingiu uma Área de Preservação Permanente (APP) e alcançou o córrego Laranjeiras, afluente do Rio Marreco, em Toledo, no Oeste do Paraná. www.aen.pr.gov.br/Noticia/Suin..."
+                    },
+                    "labels": [],
+                    "likeCount": 20,
+                    "replyCount": 0,
+                    "repostCount": 2,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-17T12:41:45.229Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.aen.pr.gov.br/Noticia/Suinocultor-e-multado-em-R-100-mil-por-infracao-ambiental-em-corrego-de-Toledo",
+                                "title": "Suinocultor é multado em R$ 100 mil por infração ambiental em córrego de Toledo",
+                                "description": "Suinocultor é multado em R$ 100 mil por infração ambiental em córrego de Toledo",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreig3veu3zc22dthcrlpw4rpx352jbrp7jfrw4lgloulyg2vqw5nc6m@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T12:55:09.460Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tfl5bdki6uy7chq7e47e5fl3/app.bsky.feed.post/3l437wzfhrn2k",
+            "cid": "bafyreigaf4qtm5readtpemqswufmwnoy7v6y5w5kk4pbjjo6yldmh54suu",
+            "author": {
+                "did": "did:plc:tfl5bdki6uy7chq7e47e5fl3",
+                "handle": "aguiar61.bsky.social",
+                "displayName": "Aguiar 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tfl5bdki6uy7chq7e47e5fl3/bafkreieul2uv43s2j5exuq6sntiqv2armym7iqfybva5mvsk3eesqacrju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:32:44.737Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T00:32:35.832Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif4mtgdtttqiv5leisc7bkszxrsyfhw7rga4xx762akiddh6fpgcq",
+                        "uri": "at://did:plc:374vecfggpud7xzxtfah4kqg/app.bsky.feed.post/3l42mrw4dvs22"
+                    },
+                    "root": {
+                        "cid": "bafyreif4mtgdtttqiv5leisc7bkszxrsyfhw7rga4xx762akiddh6fpgcq",
+                        "uri": "at://did:plc:374vecfggpud7xzxtfah4kqg/app.bsky.feed.post/3l42mrw4dvs22"
+                    }
+                },
+                "text": "Como é? Os incêndios são criminosos? Estão dizendo que o pessoal do agro, aqueles que invadem terras de indígenas, poluem rios e lagoas, provocam erosão do solo, usam venenos na lavoura e vendem os grãos para os outros países usarem como ração, são responsáveis pelos incêndios? Tô pasmo!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T00:32:35.832Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jjorblcj3ot6hhqyjeoupff7/app.bsky.feed.post/3l435pzshuk2k",
+            "cid": "bafyreic5cobvwokput6aawml4nvti27aop4jnokxehapwgj5amhmhznjca",
+            "author": {
+                "did": "did:plc:jjorblcj3ot6hhqyjeoupff7",
+                "handle": "santolegaliza.bsky.social",
+                "displayName": "Santo Legaliza 50420",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jjorblcj3ot6hhqyjeoupff7/bafkreid5xznasjohdy6jmbcahlx5fno35mmq4x4v4b3mdh7ascz5odlyvy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T17:36:09.201Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T23:52:54.409Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1019,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigttgjuseromsmru7uhijjdvjx4cdqxl5wbebpkpzobbupcbpc53e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 256999
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaktmwvzeeqtdcbbnlylrk6x5phbx5zmo4br265ovdnd5m2gvkgey",
+                        "uri": "at://did:plc:jjorblcj3ot6hhqyjeoupff7/app.bsky.feed.post/3l435n7evgr25"
+                    },
+                    "root": {
+                        "cid": "bafyreiaktmwvzeeqtdcbbnlylrk6x5phbx5zmo4br265ovdnd5m2gvkgey",
+                        "uri": "at://did:plc:jjorblcj3ot6hhqyjeoupff7/app.bsky.feed.post/3l435n7evgr25"
+                    }
+                },
+                "text": "O Agro é insustentável! 🌾🔥\nA expansão desenfreada de monoculturas do agronegócio, o uso de agrotóxicos e o aumento das áreas de pastagem resultam em desertificação, erosão, redução dos nutrientes do solo e redução da biodiversidade, contribuindo para o aquecimento global."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jjorblcj3ot6hhqyjeoupff7/bafkreigttgjuseromsmru7uhijjdvjx4cdqxl5wbebpkpzobbupcbpc53e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jjorblcj3ot6hhqyjeoupff7/bafkreigttgjuseromsmru7uhijjdvjx4cdqxl5wbebpkpzobbupcbpc53e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1019,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T23:52:54.409Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3l42jy7y6qh2p",
+            "cid": "bafyreig6yph3f6ebnjrbwhqncfbz3urbin45kotcaxnrnui3agpkqymawe",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T17:59:34.308Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 683,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigrmgucpant5tcavtg32pqqsoc4k2556o47pvvemeygoe7pvstlne"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 755744
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅ O cipreste da Palestina é uma árvore perene que embeleza e protege o ambiente natural. Adaptado às condições climáticas difíceis, ajuda a prevenir a erosão do solo e apoia a biodiversidade. Sua madeira é usada em artesanato e simboliza firmeza e estabilidade na paisagem palestina.\n\n🇵🇸𓂆 🍉🗝🕊"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigrmgucpant5tcavtg32pqqsoc4k2556o47pvvemeygoe7pvstlne@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigrmgucpant5tcavtg32pqqsoc4k2556o47pvvemeygoe7pvstlne@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 683,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T17:59:34.308Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:62qxcgsf2rffgvoaqlfyrlx2/app.bsky.feed.post/3l3whtyu5mn2q",
+            "cid": "bafyreidknvwobanjcdtdyux23hnvoeagqzljascfikuciyit7rzrjjn32m",
+            "author": {
+                "did": "did:plc:62qxcgsf2rffgvoaqlfyrlx2",
+                "handle": "patricia2024.bsky.social",
+                "displayName": "Patricia de Oliveira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:62qxcgsf2rffgvoaqlfyrlx2/bafkreickkj3vfbazfb6m5vnfmdrbxsm3xjue3wgvh6qm7qowby33tddpre@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T01:35:26.121Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T03:10:46.154Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1024,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihcwiqsfqeoa7z3kdznlvt7pzcj4npxrwn5ccjjfh53pcc6csdfhq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 616127
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Criei uma imagem por IA retratando os incêndios florestais no Brasil.\nQue Lula e seu gov, junto a Dino e STF criem barreiras que impeçam a redução da biodiversidade/nutrientes do solo, extinção de espécies animais e vegetais, desertificação/erosão, aquecimento global\n\nFonte: Arquivo/Agência Brasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:62qxcgsf2rffgvoaqlfyrlx2/bafkreihcwiqsfqeoa7z3kdznlvt7pzcj4npxrwn5ccjjfh53pcc6csdfhq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:62qxcgsf2rffgvoaqlfyrlx2/bafkreihcwiqsfqeoa7z3kdznlvt7pzcj4npxrwn5ccjjfh53pcc6csdfhq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1024,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T03:10:46.154Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s2qyn334l4maajfqjsvfcq6i/app.bsky.feed.post/3l3usnajlwy2g",
+            "cid": "bafyreie7z4fiqs53cxivqmayqhjwnm4ij7in4kwq7tuu2rwjjgirwq6b54",
+            "author": {
+                "did": "did:plc:s2qyn334l4maajfqjsvfcq6i",
+                "handle": "gabiqueamagatinhos.bsky.social",
+                "displayName": "Gabrita",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s2qyn334l4maajfqjsvfcq6i/bafkreibet5x53efalci67fvi6lxrbbrwwqjxfxv6yjjnbw6yo5yz56esju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-10T14:24:37.524Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T11:18:25.259Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig6eazugehoixlpyhvfkwbce6t7ufsg6q2psgf72ggjtaq5i6njwy",
+                        "uri": "at://did:plc:a23qclel7yq7l6l743fxvvnq/app.bsky.feed.post/3l3sob5sjxb26"
+                    },
+                    "root": {
+                        "cid": "bafyreig6eazugehoixlpyhvfkwbce6t7ufsg6q2psgf72ggjtaq5i6njwy",
+                        "uri": "at://did:plc:a23qclel7yq7l6l743fxvvnq/app.bsky.feed.post/3l3sob5sjxb26"
+                    }
+                },
+                "text": "Assoreamento é o acúmulo de sedimentos, como areia, argila e detritos, no leito de corpos d'água, como rios, lagos e represas. Esse processo ocorre naturalmente, mas pode ser intensificado por atividades humanas, como desmatamento, agricultura inadequada e urbanização, que aumentam a erosão do solo."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T11:18:25.259Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3lmb5w6mt24",
+            "cid": "bafyreidk7ijoxphf7cw3wseun3yt5zdlin22qymsxqzhnovhzbx3m2qwgm",
+            "author": {
+                "did": "did:plc:d6tisg6kfsulkb3ce7yvnmkl",
+                "handle": "kemonostudio.bsky.social",
+                "displayName": "Sura VTuber ✦ VGen ✦ COMM OPEN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6tisg6kfsulkb3ce7yvnmkl/bafkreid3yqh4e5elkltjf6f6ebxkyndndyc5k2ks7wah47aghmna27iqdy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-20T00:11:50.407Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T19:30:24.975Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaqokwpstgxfsdf23ewbcszvxwzvhw2azkx3un3cvyj4sliyavdh4",
+                        "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3hbwmmysx2u"
+                    },
+                    "root": {
+                        "cid": "bafyreiaqokwpstgxfsdf23ewbcszvxwzvhw2azkx3un3cvyj4sliyavdh4",
+                        "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3hbwmmysx2u"
+                    }
+                },
+                "text": "59. Adorava fazer trilha de bike com o pessoal da igreja! Em uma dessas eu levei um tombo por causa de erosão do solo e praticamente \"peguei jacaré\" na estrada!\nMe recusei a continuar no carro de apoio, fui pedalando com a galera até a praia em Arraial, comemos uma farofinha goxtooosa e voltamos! 🤣"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T19:30:24.975Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yfn2i66ydfasqzsrrgd6ezlf/app.bsky.feed.post/3l3jb5aczua2h",
+            "cid": "bafyreiciw4ckjg2p4kbq27ducvdh5eophxllt6vrhox3q7slvygjlmecae",
+            "author": {
+                "did": "did:plc:yfn2i66ydfasqzsrrgd6ezlf",
+                "handle": "antoniodatsch.bsky.social",
+                "displayName": "Antonio Datsch",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yfn2i66ydfasqzsrrgd6ezlf/bafkreie6o5tvxvvpwcgpauou65mb5o2s44foflhotnnqgevs6b4dgx42ya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T20:13:37.981Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T21:06:02.427Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1085,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidykzoz5i6byiypavrfdq2j7d7v44fqzjivx4pzmfhqdsoku4lf24"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 365633
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"É por isso que a vegetação nativa resiste à seca e ajuda a controlar erosão e inundações\n\nFlorestas, prados, pântanos e toda a vegetação nativa dependem de sistemas naturais de abastecimento de água para sobreviver. densas raízes qu, capazes de absorver e armazenar água diretamente no solo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfn2i66ydfasqzsrrgd6ezlf/bafkreidykzoz5i6byiypavrfdq2j7d7v44fqzjivx4pzmfhqdsoku4lf24@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yfn2i66ydfasqzsrrgd6ezlf/bafkreidykzoz5i6byiypavrfdq2j7d7v44fqzjivx4pzmfhqdsoku4lf24@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1085,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T21:06:02.427Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ialingtameaijk6limm5rhar/app.bsky.feed.post/3l3fhpzxmit2p",
+            "cid": "bafyreiheh2oj4jpkds7zzs3j4ce55a2lzvozmgcyyakfd67txijntop6ym",
+            "author": {
+                "did": "did:plc:ialingtameaijk6limm5rhar",
+                "handle": "gilsonf.bsky.social",
+                "displayName": "GILSON 🧉",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ialingtameaijk6limm5rhar/bafkreiexbtqkq2yzlamarruogethyvht3cs2qw2fdzdnw5zwjynoxqr6sa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:10:10.333Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T08:53:17.206Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifza7ss4m55bmnoclhp372f5fldr74ynu344y7pdqdfgcxyzmrhnu",
+                        "uri": "at://did:plc:g4do5gz47x2sbqg2rwuv564g/app.bsky.feed.post/3l3fhgfejvx2t"
+                    },
+                    "root": {
+                        "cid": "bafyreih62rfnhdv3zm2q7plkiwedibv3wwp25ik24vg3h7rmyspybh6eny",
+                        "uri": "at://did:plc:ialingtameaijk6limm5rhar/app.bsky.feed.post/3l3ermzwrps25"
+                    }
+                },
+                "text": "Não, segundo estudos que fizeram foi devido a um processo erosivo (erosão do solo), a ponte era uma formação natural de arenito com milhões de anos."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T08:53:17.206Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3l34kbpediz2z",
+            "cid": "bafyreicsyjftna2iikvkjrvgwxie3csw5plmakamh64ntf6mhgccqs6gze",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T19:45:00.184Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1440,
+                                "width": 1440
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia7bfdhhs6eh32apuykghjastfkddphuqjoul2o73jchivovziosy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 432803
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅As raízes das plantas desempenham um papel fundamental na saúde e estabilidade do solo, pois ajudam a ancorá-lo, evitando a erosão, melhoram sua estrutura, permitindo melhor infiltração de água e troca de gases, e participam do ciclo de nutrientes, absorvendo-os do solo e devolvendo-os quando se👇👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreia7bfdhhs6eh32apuykghjastfkddphuqjoul2o73jchivovziosy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreia7bfdhhs6eh32apuykghjastfkddphuqjoul2o73jchivovziosy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1440,
+                            "width": 1440
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T19:45:00.184Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:22sd7payekklarxzzqkkkllr/app.bsky.feed.post/3l33uofdnrq24",
+            "cid": "bafyreifgd5xa5u3nzz4h2lq255v56jndbmom4z4vasn6kdtk655jghaawe",
+            "author": {
+                "did": "did:plc:22sd7payekklarxzzqkkkllr",
+                "handle": "memessurrupiados.bsky.social",
+                "displayName": "Memes Surrupiados ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22sd7payekklarxzzqkkkllr/bafkreidlqkoeyisalus6udkn3rzxug23oftze5gecr3mnflktejw4k5tzq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T00:31:22.781Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T13:18:22.366Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 785,
+                                "width": 569
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigcd6fiatc3dn4wwf7rvcslxv6twqzuoxm4oinwxbk2ksogv4sowm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 318274
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "☝️🤓 O terraceamento é uma técnica agrícola utilizada para evitar a erosão do solo causada pelo escoamento da água. A técnica consiste em dividir uma área inclinada em degraus, reduzindo assim a velocidade da água e, consequentemente, prevenindo a sedimentação."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22sd7payekklarxzzqkkkllr/bafkreigcd6fiatc3dn4wwf7rvcslxv6twqzuoxm4oinwxbk2ksogv4sowm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:22sd7payekklarxzzqkkkllr/bafkreigcd6fiatc3dn4wwf7rvcslxv6twqzuoxm4oinwxbk2ksogv4sowm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 785,
+                            "width": 569
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T13:18:22.366Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gradjy4o7kljdjrj42xh64ax/app.bsky.feed.post/3kzzp5abxkh2t",
+            "cid": "bafyreiaotvbxunyn3bsuttacpsotfyn3ror47s4lqhiwdgvuskd5uypcuy",
+            "author": {
+                "did": "did:plc:gradjy4o7kljdjrj42xh64ax",
+                "handle": "cindycalismo.bsky.social",
+                "displayName": "Cindy",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreial7gxss5ywyp2vedpljofiqx6aq5vnbu7hclsi25zn74qsfmgzou@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gradjy4o7kljdjrj42xh64ax",
+                        "uri": "at://did:plc:gradjy4o7kljdjrj42xh64ax/app.bsky.actor.profile/self",
+                        "cid": "bafyreieqtys75b7ozassypqijyd6epx5qug2vobg3q5qu62obmxokjnivu",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-06T01:29:36.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-18T23:08:48.339Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "«Muito bem», disse em resposta à intervenção do camponês. «Aceito que eu sei e vocês não sabem. De qualquer forma, gostaria de lhes propor um jogo que, para funcionar bem, exige de nós absoluta leal-dade. Vou dividir o quadro-negro em dois pedaços, em que irei registrando, do meu lado e do lado de vocês, os gols que faremos eu em vocês; vocês em mim. O jogo consiste em cada um perguntar algo ao outro. Se o perguntado não sabe respon-der, é gol do perguntador. Começarei o jogo fazendo uma primeira pergunta a\nVOCêS».",
+                            "aspectRatio": {
+                                "height": 1065,
+                                "width": 1290
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigisvkxw6udtvpue7nta4nknw3mihflmwrvhew77gunaj5uaswozi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 526744
+                            }
+                        },
+                        {
+                            "alt": "A essa altura, precisamente porque assumira o «momento» do grupo, o clima era mais vivo do que quando começára-mos, antes do silêncio.\nPrimeira pergunta:\n- Que significa a maiêutica socrática?\nGargalhada geral e eu registrei o meu primeiro gol.\n- Agora cabe a vocês fazer a pergunta a mim - disse.\nHouve uns cochichos e um deles lançou a questão:\n- Que é curva de nível?\nNão soube responder. Registrei um a um.\n- Qual a importância de Hegel no pensamento de Marx?\nDois a um.\n- Para que serve a calagem do solo?\nDois a dois.\n— Que é um verbo intransitivo?\nTrês a dois.\n- Que relação há entre curva de nível e erosão?\nTrês a três.\n- Que significa epistemologia?\nQuatro a três.\n- O que é adubação verde?\nQuatro a quatro.\nAssim, sucessivamente, até chegarmos a dez a dez.",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1103
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib2mcg47ffpsms2cf7v7d6bz7zbt33dqpjomheaabkykh6zqkzfku"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 681269
+                            }
+                        },
+                        {
+                            "alt": "Ao me despedir deles lhes fiz uma sugestão: «Pensem no que houve esta tarde aqui. Vocês começaram discutindo muito bem comigo. Em certo momento ficaram silenciosos e disseram que só eu poderia falar porque só eu sabia e vocês não. Fizemos um jogo sobre saberes e empatamos dez a dez. Eu sabia dez coisas que vocês não sabiam e vocês sabiam dez coisas que eu não sabia. Pensem sobre istO».",
+                            "aspectRatio": {
+                                "height": 847,
+                                "width": 1290
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiedcxoyxxo2g57f6boxnoovx74sbakckjqdsvnq6h345kssg3wavu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 409342
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Guardar aqui o trechinho do Pedagogia da Esperança que caiu na prova de hoje"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreigisvkxw6udtvpue7nta4nknw3mihflmwrvhew77gunaj5uaswozi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreigisvkxw6udtvpue7nta4nknw3mihflmwrvhew77gunaj5uaswozi@jpeg",
+                        "alt": "«Muito bem», disse em resposta à intervenção do camponês. «Aceito que eu sei e vocês não sabem. De qualquer forma, gostaria de lhes propor um jogo que, para funcionar bem, exige de nós absoluta leal-dade. Vou dividir o quadro-negro em dois pedaços, em que irei registrando, do meu lado e do lado de vocês, os gols que faremos eu em vocês; vocês em mim. O jogo consiste em cada um perguntar algo ao outro. Se o perguntado não sabe respon-der, é gol do perguntador. Começarei o jogo fazendo uma primeira pergunta a\nVOCêS».",
+                        "aspectRatio": {
+                            "height": 1065,
+                            "width": 1290
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreib2mcg47ffpsms2cf7v7d6bz7zbt33dqpjomheaabkykh6zqkzfku@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreib2mcg47ffpsms2cf7v7d6bz7zbt33dqpjomheaabkykh6zqkzfku@jpeg",
+                        "alt": "A essa altura, precisamente porque assumira o «momento» do grupo, o clima era mais vivo do que quando começára-mos, antes do silêncio.\nPrimeira pergunta:\n- Que significa a maiêutica socrática?\nGargalhada geral e eu registrei o meu primeiro gol.\n- Agora cabe a vocês fazer a pergunta a mim - disse.\nHouve uns cochichos e um deles lançou a questão:\n- Que é curva de nível?\nNão soube responder. Registrei um a um.\n- Qual a importância de Hegel no pensamento de Marx?\nDois a um.\n- Para que serve a calagem do solo?\nDois a dois.\n— Que é um verbo intransitivo?\nTrês a dois.\n- Que relação há entre curva de nível e erosão?\nTrês a três.\n- Que significa epistemologia?\nQuatro a três.\n- O que é adubação verde?\nQuatro a quatro.\nAssim, sucessivamente, até chegarmos a dez a dez.",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1103
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreiedcxoyxxo2g57f6boxnoovx74sbakckjqdsvnq6h345kssg3wavu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gradjy4o7kljdjrj42xh64ax/bafkreiedcxoyxxo2g57f6boxnoovx74sbakckjqdsvnq6h345kssg3wavu@jpeg",
+                        "alt": "Ao me despedir deles lhes fiz uma sugestão: «Pensem no que houve esta tarde aqui. Vocês começaram discutindo muito bem comigo. Em certo momento ficaram silenciosos e disseram que só eu poderia falar porque só eu sabia e vocês não. Fizemos um jogo sobre saberes e empatamos dez a dez. Eu sabia dez coisas que vocês não sabiam e vocês sabiam dez coisas que eu não sabia. Pensem sobre istO».",
+                        "aspectRatio": {
+                            "height": 847,
+                            "width": 1290
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-18T23:08:48.339Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3kzskdvzqlz2h",
+            "cid": "bafyreiguspyjasfpdkkecswftfeoooxahs5eouzsnsthaqbnwmeai3j2je",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-16T02:54:25.493Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibvel4u3czthly2x6ge7pnvglobsd24i7t4afh4qm75cw5g3bpage",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3kzskbpfnhp2s"
+                    },
+                    "root": {
+                        "cid": "bafyreibvel4u3czthly2x6ge7pnvglobsd24i7t4afh4qm75cw5g3bpage",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3kzskbpfnhp2s"
+                    }
+                },
+                "text": "Em áreas degradadas, a agrofloresta pode ajudar a recuperar a fertilidade do solo, reestabelecer a cobertura vegetal e promover a biodiversidade.\n\nAs árvores e outras plantas utilizadas no sistema agroflorestal ajudam a fixar o nitrogênio no solo, controlar a erosão, reter a umidade e criar um… 👇"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-16T02:54:25.493Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kua25lovmf2v",
+            "cid": "bafyreicgivhilja6lhf7mang42yabxaajqjfbmg6f7fvekljegx7dnwng4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-06T03:10:38.419497Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiazxc7hkavspprgi2zubuefkvzgh6vmhkybnumomadbiyehpcupai"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 337450
+                        },
+                        "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml",
+                    "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                    "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiazxc7hkavspprgi2zubuefkvzgh6vmhkybnumomadbiyehpcupai@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-06T03:10:38.419Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jwdqzs3qjx3r3475elrb6ss3/app.bsky.feed.post/3ksxpcjdp2v2d",
+            "cid": "bafyreiejnildkhbcfsbcknvcdaxxjlfvypvojotxx7wt6kgrtyeb7qgtmi",
+            "author": {
+                "did": "did:plc:jwdqzs3qjx3r3475elrb6ss3",
+                "handle": "vinicius-egm.bsky.social",
+                "displayName": "Vinicius Eduardo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwdqzs3qjx3r3475elrb6ss3/bafkreidsz7xtcbby3abg4ipblolfebszs3gcb3xfzah6wccueyqrib72bq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-17T04:41:34.147Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-21T02:10:03.069Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em geral, a vegetação atenua a erosão do solo, principalmente através da redução das forças de impacto da gota no solo diminuindo a velocidade do escoamento superficial, aumentando a rugosidade...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicbveby5jb562fobzypsdh47atan2rs2lcsy6qwpqhdnhm6yptlfq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 696351
+                        },
+                        "title": "Em geral, a vegetação atenua a erosão do solo, principalmente através...",
+                        "uri": "https://www.facebook.com/reel/966103368397919"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em geral, a vegetação atenua a erosão do solo, principalmente através da redução das forças de impacto da gota no solo diminuindo a velocidade do escoamento superficial, aumentando a rugosidade hidráulica e as taxas de infiltração de água no solo, aumentando assim sua resistência à erosão?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.facebook.com/reel/966103368397919",
+                    "title": "Em geral, a vegetação atenua a erosão do solo, principalmente através...",
+                    "description": "Em geral, a vegetação atenua a erosão do solo, principalmente através da redução das forças de impacto da gota no solo diminuindo a velocidade do escoamento superficial, aumentando a rugosidade...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jwdqzs3qjx3r3475elrb6ss3/bafkreicbveby5jb562fobzypsdh47atan2rs2lcsy6qwpqhdnhm6yptlfq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-21T02:10:03.069Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5r3e6pabsqz2yh7gfqnnhp5i/app.bsky.feed.post/3kstnq7flfp2n",
+            "cid": "bafyreia5jfcnz4ejn54r4gcvxmwsbirnz457wl46mcbu4rw7d7kbbqeara",
+            "author": {
+                "did": "did:plc:5r3e6pabsqz2yh7gfqnnhp5i",
+                "handle": "cleberadv.bsky.social",
+                "displayName": "CLEBER CARVALHO RUMBELSPERGER - 🚩 Filiado ao PT",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5r3e6pabsqz2yh7gfqnnhp5i/bafkreicclfgdxrxpqbnuk2enyyd5nub7iuxv6j4ztzizzzdxaw3ltdel34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T16:14:14.899Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-19T11:31:18.112Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A partir dos anos 1990, o estado passou por uma onda neoliberal que resultou em desindustrialização e desestruturação econômica e social, aponta o presidente do IBGE",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih6a3oljlzwngbj4aspmgvpggzklungtic7j4goev6azglihbnuq4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 898054
+                        },
+                        "title": "Pochmann diz que regressão do RS ao capitalismo agrário explica a catástrofe no Sul",
+                        "uri": "https://www.brasil247.com/regionais/sul/pochmann-diz-que-regressao-do-rs-ao-capitalismo-agrario-explica-a-catastrofe-no-sul"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/regionais/sul/pochmann-diz-que-regressao-do-rs-ao-capitalismo-agrario-explica-a-catastrofe-no-sul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 245
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia a todes! \n\nQualquer idiota é capaz de entender que a devastação de mata nativa, para plantação e pasto, causa erosão do solo e permite catástrofes como a do RS.\n\nMas os neoliberais do extinto PSDB não são QUALQUER idiota, né?\n\nwww.brasil247.com/regionais/su..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/regionais/sul/pochmann-diz-que-regressao-do-rs-ao-capitalismo-agrario-explica-a-catastrofe-no-sul",
+                    "title": "Pochmann diz que regressão do RS ao capitalismo agrário explica a catástrofe no Sul",
+                    "description": "A partir dos anos 1990, o estado passou por uma onda neoliberal que resultou em desindustrialização e desestruturação econômica e social, aponta o presidente do IBGE",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5r3e6pabsqz2yh7gfqnnhp5i/bafkreih6a3oljlzwngbj4aspmgvpggzklungtic7j4goev6azglihbnuq4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-19T11:31:18.112Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6dwgz2mb2ocuxs7bmtzq6fdq/app.bsky.feed.post/3kssw5jtqwa24",
+            "cid": "bafyreiaekuk3ledntvuna4jmotmmlouwtoqosheniwo23eeox5ibky6lde",
+            "author": {
+                "did": "did:plc:6dwgz2mb2ocuxs7bmtzq6fdq",
+                "handle": "ciram1515.bsky.social",
+                "displayName": "FADAH1515",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dwgz2mb2ocuxs7bmtzq6fdq/bafkreigdhmigd3wrvkrhgsjnjm6a3c26g54k3i2ror7ptpytkgvg2g5eii@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T20:33:30.011Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-19T04:29:14.958Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieispqyfmddvdmzeuykdwsldxqjwekfmjuvtl4uskq4xrlqee2uoi",
+                        "uri": "at://did:plc:vigh74ih6a3yovbtpi4wlzt6/app.bsky.feed.post/3ksshjbpnvz25"
+                    },
+                    "root": {
+                        "cid": "bafyreieispqyfmddvdmzeuykdwsldxqjwekfmjuvtl4uskq4xrlqee2uoi",
+                        "uri": "at://did:plc:vigh74ih6a3yovbtpi4wlzt6/app.bsky.feed.post/3ksshjbpnvz25"
+                    }
+                },
+                "text": "Dois políticos de diferentes cidades do RGS,  disseram que iriam apresentar projeto para arrancar as árvores, com a justificativa de que o peso das mesmas ajudou a erosão do solo. \nSanta Ignorância!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-19T04:29:14.958Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cszyrsn7khxockcaxo7yceob/app.bsky.feed.post/3ksn7rncj4r27",
+            "cid": "bafyreierfwopzv24bisjrhjkqp33o6wldoq7kt43rfblsq5lcxwwy2yv7y",
+            "author": {
+                "did": "did:plc:cszyrsn7khxockcaxo7yceob",
+                "handle": "duducompanheiro.bsky.social",
+                "displayName": "Dudu Companheiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cszyrsn7khxockcaxo7yceob/bafkreid6mdbeh6ft4d7xponx24biprm6nryahm6wq2s5pbo4wv26rthepa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:08:24.759Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-16T22:05:34.626Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicdezmizm5ofydx3vg3tr6lwh7zdit3jye4eqel7p6sglrnm742km"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 715043
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Minha casa, meu óbito: O gaúcho quer arrancar árvores enraizadas p/ evitar deslizamentos de terra! Tira tudo pro solo ficar leve e formar erosão com avalanche, solo não enraizado vira erosão; mas pro bolsominion= um solo polenta encima das casas é lucrativo, o pobre de direita vota na própria morte."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cszyrsn7khxockcaxo7yceob/bafkreicdezmizm5ofydx3vg3tr6lwh7zdit3jye4eqel7p6sglrnm742km@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cszyrsn7khxockcaxo7yceob/bafkreicdezmizm5ofydx3vg3tr6lwh7zdit3jye4eqel7p6sglrnm742km@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-16T22:05:34.626Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3krjxytsrla2h",
+            "cid": "bafyreif4hsnfcythzxhnpxmwgvg56ufluxnflsqcbt527p4hyl4zs3no4m",
+            "author": {
+                "did": "did:plc:76e26g3uofeckavyyzyolqi7",
+                "handle": "sandra10.bsky.social",
+                "displayName": "Sandra10🇵🇸🌎🌳🐬🐢🐳🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76e26g3uofeckavyyzyolqi7/bafkreicpqqwobakfcqq56o7v2ihvh3425js6rvaeqtsr65665tfw7fibz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:76e26g3uofeckavyyzyolqi7",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.actor.profile/self",
+                        "cid": "bafyreiejxtajvojhl6pwi65bdr3gsdob47ksdedapxie5khkgnugrcxiwi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:03:23.042Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:04:02.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T21:42:23.491Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Agronegócio traz $$$. Mas tb perdas.\n\"Quais são os impactos ambientais...?\nA retirada da cobertura vegetal provoca a redução da biodiversidade, extinção de espécies animais e vegetais, desertificação, erosão, redução dos nutrientes do solo, contribui para o aquecimento global, entre outros danos.\""
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T21:42:23.491Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3krhqc5ahbs24",
+            "cid": "bafyreiaxmx2to4enudoin3fbnbrnojpkyzmnttf22krak6e7y7v56opgeq",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T00:19:59.925Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Essa barreira protege o solo contra erosão e inundações",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibchq5maxxdznjiv7b2xlvniuucpajk7awmn6mngkcd6rtdb5slhy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 433696
+                        },
+                        "title": "Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo  | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 153,
+                            "byteStart": 137
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 166,
+                            "byteStart": 154
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 206,
+                            "byteStart": 168
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo\nEssa barreira protege o solo contra erosão e inundações\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500",
+                    "title": "Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo  | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Essa barreira protege o solo contra erosão e inundações",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreibchq5maxxdznjiv7b2xlvniuucpajk7awmn6mngkcd6rtdb5slhy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T00:19:59.210Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5yudsqeoddsrh4ci56ehhws6/app.bsky.feed.post/3kh32tsqqlo2i",
+            "cid": "bafyreid5no7e3w6fugdex7obynufvplmnkvjxwvloqtvvwnqhi3njamc2m",
+            "author": {
+                "did": "did:plc:5yudsqeoddsrh4ci56ehhws6",
+                "handle": "carlosrollsing.bsky.social",
+                "displayName": "Carlos Rollsing",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5yudsqeoddsrh4ci56ehhws6/bafkreifctsaj2s7ucdbvf5yejhfqyfojtxtt245opxm6jhshk7a54y2cwy@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-09T22:40:42.002Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-21T17:12:07.206Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Prefeito destaca que “solo está cheio de problemas” e considera transferir a estrutura para a pista de rolagem",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia5m4f5zqymojz2l5emndfj2iek4u6z7j6klavsjhvskh7izkqig4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 409632
+                        },
+                        "title": "Melo diz que um trecho será reaberto nos próximos dias, mas não descarta fechamento definitivo da...",
+                        "uri": "https://gauchazh.clicrbs.com.br/porto-alegre/noticia/2023/12/melo-diz-que-um-trecho-sera-reaberto-nos-proximos-dias-mas-nao-descarta-fechamento-definitivo-da-ciclovia-da-ipiranga-clqfag1sk001t013lidhgya62.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pequeno trecho da ciclovia da Ipiranga, a principal de Porto Alegre, deve reabrir nos próximos. Contudo, devido ao comprometimento do solo e pontos de erosão na maior parte do trajeto, prefeito Melo considera fechar o equipamento em definitivo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://gauchazh.clicrbs.com.br/porto-alegre/noticia/2023/12/melo-diz-que-um-trecho-sera-reaberto-nos-proximos-dias-mas-nao-descarta-fechamento-definitivo-da-ciclovia-da-ipiranga-clqfag1sk001t013lidhgya62.html",
+                    "title": "Melo diz que um trecho será reaberto nos próximos dias, mas não descarta fechamento definitivo da...",
+                    "description": "Prefeito destaca que “solo está cheio de problemas” e considera transferir a estrutura para a pista de rolagem",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5yudsqeoddsrh4ci56ehhws6/bafkreia5m4f5zqymojz2l5emndfj2iek4u6z7j6klavsjhvskh7izkqig4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-21T17:12:07.206Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:odzeez6qcezrqwnki2chzkoz/app.bsky.feed.post/3kfi6fpdo3o2s",
+            "cid": "bafyreic4ddfhq2nskopjphrjatvk7ftw35lbbgeox4qjfrepid3g4mku2a",
+            "author": {
+                "did": "did:plc:odzeez6qcezrqwnki2chzkoz",
+                "handle": "fhsdoc.bsky.social",
+                "displayName": "Flávio Henrique 🟡🟢🔵",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:odzeez6qcezrqwnki2chzkoz/bafkreiemwum5ollwdmiekb6wxegqbgjwc5t26mnyhuknet24ve3oc4k2bi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:odzeez6qcezrqwnki2chzkoz",
+                        "uri": "at://did:plc:odzeez6qcezrqwnki2chzkoz/app.bsky.actor.profile/self",
+                        "cid": "bafyreihteok6hgehfm3x72fh5jbzglyx373samzz76dqz5xnqbtdaqjjpy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-03T21:36:59.966Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-01T11:31:04.128Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Lembrando aqui que na empresa que trabalho essas semanas começaram redução de uso de copos plásticos \"pelo meio ambiente\". Sendo que um dos fornecedores da fábrica do grupo empresarial é a BRASKEM responsável pelo maior desastre ambiental do estado do AL. Hj às 6h tinha alerta de nova erosão do solo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-01T11:31:04.128Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p5gvvrw37agja7atn5k2rfka/app.bsky.feed.post/3k4fz3jrsvo2n",
+            "cid": "bafyreiggago76yseivh5vlueeotielsc7cprz6izyo2cs3smyblsyoewxe",
+            "author": {
+                "did": "did:plc:p5gvvrw37agja7atn5k2rfka",
+                "handle": "aardwark.bsky.social",
+                "displayName": "Anderson Rabello ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreiburcqwr2pffgxsy7ldrfdpowgnqsnojb4f6pzuqzp7m6q2ggbmte@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-01T22:39:57.852Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-08T02:02:56.383Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidtksf5qjc24zqtpej7pg4p7vktbzno3fuvfgsdhaztv64vmxkdli"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 759098
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifsjxb5xobxcor67hvfelkxys47zzrbsserbympoxfmdrqjmtuphi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 735699
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigob45b2445vrgeji3sdmjwhzvz7ycr4tcmker7zx76fb2c6o2uxy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 696607
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidiwxlxvttwrek3smoy72qbzbdktfq7cb4rpqli6ixtrgdt2zgovq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 832764
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajpc4olt5ebjimvzed2uuavceckgvvljkpf2j4v5rwktqhkv3r3u",
+                        "uri": "at://did:plc:p5gvvrw37agja7atn5k2rfka/app.bsky.feed.post/3k4fyjex2im2t"
+                    },
+                    "root": {
+                        "cid": "bafyreia3d5cdmij5shbs3yjwm3zfks2gxtj6oxxhg33lx5fflsxxaizzra",
+                        "uri": "at://did:plc:p5gvvrw37agja7atn5k2rfka/app.bsky.feed.post/3k4fxgipoqd2v"
+                    }
+                },
+                "text": "Pioneiro na colonização da terra foi 1 dos responsáveis pela criação do solo no planeta. Faz isso liberando ácidos que dissolvem a rocha (Pedogênesi).Colaboram, assim, na formação de solo em locais de rocho vulcânica. Utilizam essa erosão química para obter os minerais necessários à fotossíntese."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreidtksf5qjc24zqtpej7pg4p7vktbzno3fuvfgsdhaztv64vmxkdli@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreidtksf5qjc24zqtpej7pg4p7vktbzno3fuvfgsdhaztv64vmxkdli@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreifsjxb5xobxcor67hvfelkxys47zzrbsserbympoxfmdrqjmtuphi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreifsjxb5xobxcor67hvfelkxys47zzrbsserbympoxfmdrqjmtuphi@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreigob45b2445vrgeji3sdmjwhzvz7ycr4tcmker7zx76fb2c6o2uxy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreigob45b2445vrgeji3sdmjwhzvz7ycr4tcmker7zx76fb2c6o2uxy@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreidiwxlxvttwrek3smoy72qbzbdktfq7cb4rpqli6ixtrgdt2zgovq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p5gvvrw37agja7atn5k2rfka/bafkreidiwxlxvttwrek3smoy72qbzbdktfq7cb4rpqli6ixtrgdt2zgovq@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-08T02:02:56.383Z",
+            "labels": []
+        }
+    ]
+}

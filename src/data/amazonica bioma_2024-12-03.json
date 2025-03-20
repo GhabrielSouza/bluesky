@@ -1,0 +1,1932 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:jm565etav7qdy2pss4hfatne/app.bsky.feed.post/3lacpkv4vf724",
+            "cid": "bafyreialoith5iq5eqmvddwgo7e7exm27tcjixdtrodhbrlb5l5fgzhdnq",
+            "author": {
+                "did": "did:plc:jm565etav7qdy2pss4hfatne",
+                "handle": "secom.gov.br",
+                "displayName": "SecomVc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreic3o5ikszgjckcgntyxpnkh7hxnwqbnw442sfu6zqmlxoltgd4uz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:29:53.922Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T21:41:33.042Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreid4fke3ncqwg3sigobg4xrmg3yyqjdbrgv5k3nwpva4iq4ex4wry4"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 3500761
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nesta quarta-feira (6), o Ministério do Meio Ambiente divulga os números do PRODES, programa que Monitora o Desmatamento da Floresta Amazônica. Também será assinado o Pacto pelo Cerrado, que visa diminuir o desmatamento no bioma.\nAcompanhe a cobertura pelas nossas redes!\n\n📲Digital/PR"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreid4fke3ncqwg3sigobg4xrmg3yyqjdbrgv5k3nwpva4iq4ex4wry4",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ajm565etav7qdy2pss4hfatne/bafkreid4fke3ncqwg3sigobg4xrmg3yyqjdbrgv5k3nwpva4iq4ex4wry4/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ajm565etav7qdy2pss4hfatne/bafkreid4fke3ncqwg3sigobg4xrmg3yyqjdbrgv5k3nwpva4iq4ex4wry4/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 19,
+            "quoteCount": 2,
+            "indexedAt": "2024-11-06T21:41:34.591Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.feed.post/3l7qlz24gff25",
+            "cid": "bafyreibk3j7af35ajirwrohrpebvuujpbgcoimk7vtihcpigr6iibo2isu",
+            "author": {
+                "did": "did:plc:rjou76pd4hivl4roluudgjnd",
+                "handle": "passarimazul.bsky.social",
+                "displayName": "sóumpassarimazul",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rjou76pd4hivl4roluudgjnd/bafkreifte5zlbydqdqcl7b5qcvuw7lltpe7riahcpmbohzpy4ifj66fgpa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rjou76pd4hivl4roluudgjnd",
+                        "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.actor.profile/self",
+                        "cid": "bafyreihqpqsc4cepxztkjh2i5fckz7fu3svp4we32vwg4qucort4i65nsq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-12T23:54:34.411Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T16:49:57.057Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia6e2teor5htxcxtwkm7q3egwlp4cf5wlkpo6cguusappwtjvy5n4",
+                        "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.feed.post/3l7qlvqqgxo2y"
+                    },
+                    "root": {
+                        "cid": "bafyreia6e2teor5htxcxtwkm7q3egwlp4cf5wlkpo6cguusappwtjvy5n4",
+                        "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.feed.post/3l7qlvqqgxo2y"
+                    }
+                },
+                "text": "+ muitos dos nossos biomas, inclusive a própria existência da floresta amazônica está entrelaçada com a existência dessas populações que aprenderam a conviver com o bioma e alterá-lo harmonicamente, bem melhor que as práticas do paradigma capitalista ."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T16:49:57.057Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dkwcln42q6m3ylsbrpbpheqr/app.bsky.feed.post/3l7apzyqoxs2a",
+            "cid": "bafyreifwvagdnbgbnxhkbjdejrh6a64oo5asgoe6ta5htnnutcyam7l6vi",
+            "author": {
+                "did": "did:plc:dkwcln42q6m3ylsbrpbpheqr",
+                "handle": "ladradeboleira.bsky.social",
+                "displayName": "Ladra de boleira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkwcln42q6m3ylsbrpbpheqr/bafkreic6lppocu5uxptektws3tfrplelvld5pif2ljcljw6nrqhzx5zpfq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T08:28:56.117Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T09:19:29.177Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Minha tese de mestrado era: como o consumo de carne na Europa afeta a floresta amazônica e o cerrado. Bom, com as queimadas não tem mais tese pois não vai ter FLORESTA, BIOMA, NADA nesse inferno de país"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-24T09:19:29.177Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qzslzir7toizd75j3wpa6j3c/app.bsky.feed.post/3l63sknffrr2l",
+            "cid": "bafyreidupev3jy4ry3rvnt37s24n7pybbfjfwirslgsckmy36oozuqtky4",
+            "author": {
+                "did": "did:plc:qzslzir7toizd75j3wpa6j3c",
+                "handle": "colabora.bsky.social",
+                "displayName": "Colabora - Jornalismo Sustentável",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreihcxrw67mjnbm5glysh3t3crrsdfehpouqmwqrdimxt2qu2madwyu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:34:44.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T16:56:05.150Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Seca extrema no Amazonas já impacta a vida de 747.642 pessoas no estado; pelo menos, outros cinco rios já chegaram ao menor nível da história",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidgn24ttnk2cevzgx2eaynbbl2xcgjm5ihnlhkqrcrnkywjj4hhhe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 589188
+                        },
+                        "title": "Seca extrema na Amazônia: Rio Negro atinge mínima histórica - #Colabora",
+                        "uri": "https://projetocolabora.com.br/ods13/seca-extrema-na-amazonia-rio-negro-atinge-minima-historica/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Colabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 177
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🏜️ A seca extrema tem feito rios da região amazônica alcançarem mínimas históricas. A situação já impacta a vida de milhares de moradores da região. Reportagem do #Colabora mostra o cenário da estiagem que afeta o bioma:"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://projetocolabora.com.br/ods13/seca-extrema-na-amazonia-rio-negro-atinge-minima-historica/",
+                    "title": "Seca extrema na Amazônia: Rio Negro atinge mínima histórica - #Colabora",
+                    "description": "Seca extrema no Amazonas já impacta a vida de 747.642 pessoas no estado; pelo menos, outros cinco rios já chegaram ao menor nível da história",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreidgn24ttnk2cevzgx2eaynbbl2xcgjm5ihnlhkqrcrnkywjj4hhhe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T16:56:05.150Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cret5cy35xdcexktk4gmpjs3/app.bsky.feed.post/3l5pfhnfii62j",
+            "cid": "bafyreif5eu26am7aknuioosnxy6jkvom4m4duo4op3vefdqra65retbkuy",
+            "author": {
+                "did": "did:plc:cret5cy35xdcexktk4gmpjs3",
+                "handle": "caldeiraopolitico.bsky.social",
+                "displayName": "Caldeirão Político",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cret5cy35xdcexktk4gmpjs3/bafkreiaucjw3yvadiwt3hvvutjvk3fre7rxmoosmxbzyo5qxsayqjl5zmq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-25T16:46:16.493Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T18:29:09.189Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 750,
+                                "width": 600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicky2vb3hqfhm5pzwkagws2hgczk7j5gtlovskezdxcbvy4z4oe5q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 219921
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamentoilegal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 114
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "marcelândia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 134
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "stj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 152,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "tjmt"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 158,
+                            "byteStart": 153
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "notícia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caldeiraopolitico"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 187,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.caldeiraopolitico.com.br/noticia/78376/stj-restabelece-sentenca-que-condenou-fazendeiro-a-pagar-dano-moral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 189
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\nA área desmatada é equivalente a 1.250 campos de futebol, de floresta nativa em bioma da Floresta Amazônica. \n#desmatamentoilegal #marcelândia #stj #tjmt #notícia #caldeiraopolitico \nwww.caldeiraopolitico.com.br/noticia/7837..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cret5cy35xdcexktk4gmpjs3/bafkreicky2vb3hqfhm5pzwkagws2hgczk7j5gtlovskezdxcbvy4z4oe5q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cret5cy35xdcexktk4gmpjs3/bafkreicky2vb3hqfhm5pzwkagws2hgczk7j5gtlovskezdxcbvy4z4oe5q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 750,
+                            "width": 600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T18:29:09.189Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:amdevbuzceinodilqgyofchk/app.bsky.feed.post/3l5ddi357rn2m",
+            "cid": "bafyreicsr6itwu46xao4sw6aq5nyj3staphlmko4hhr3rhz642unssnfou",
+            "author": {
+                "did": "did:plc:amdevbuzceinodilqgyofchk",
+                "handle": "eaivcsabia.bsky.social",
+                "displayName": "Eai, vc sabia ?",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreibtjc6j5shlbyy4o6ib7xuzhi7rewzoaufxbhggza4cmydghizgki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:26:18.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T23:22:19.618Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 681,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 581747
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 449,
+                                "width": 697
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 381866
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Floresta Amazônica: É o maior bioma tropical do mundo e abriga uma incrível diversidade de fauna e flora."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 681,
+                            "width": 1024
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 449,
+                            "width": 697
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T23:22:19.618Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l55rkdyqet2m",
+            "cid": "bafyreidfegt26ncvp56a6mdy7sz6a5opviyoxhawsgziehj7wo2x3o2gy4",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T18:18:08.947Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 720,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreibzrk4jcelp4sl3m3mrrcqltdgowtq2ear4qmlhryvqczbczutzcu"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2494993
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Para quem duvida que temos a capacidade de destruir rapidamente a Floresta Amazônica, assistam a este vídeo sobre as florestas que já desapareceram ao redor do mundo.\n\nCadê a Mata Atlântica? 😳\n\nTemos, sim, a capacidade de destruir qualquer bioma no Brasil, e estamos acelerando essa destruição."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreibzrk4jcelp4sl3m3mrrcqltdgowtq2ear4qmlhryvqczbczutzcu",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreibzrk4jcelp4sl3m3mrrcqltdgowtq2ear4qmlhryvqczbczutzcu/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreibzrk4jcelp4sl3m3mrrcqltdgowtq2ear4qmlhryvqczbczutzcu/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 720,
+                    "width": 720
+                }
+            },
+            "replyCount": 5,
+            "repostCount": 72,
+            "likeCount": 206,
+            "quoteCount": 9,
+            "indexedAt": "2024-09-27T18:18:08.947Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2sp7f2rkr6kvnfdasbu25fmr/app.bsky.feed.post/3l4vu67runm23",
+            "cid": "bafyreicu5n7yarfbaprxx4kxw76cs4shv6yaqxu2hu6dubftir6ysnlhx4",
+            "author": {
+                "did": "did:plc:2sp7f2rkr6kvnfdasbu25fmr",
+                "handle": "camarotedacpi.bsky.social",
+                "displayName": "Camarote da República",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2sp7f2rkr6kvnfdasbu25fmr/bafkreifxq5xsjfp3r62gf2ls3v4hlyl2zcy53ljk7sry3h2t3r4rmogehe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-15T22:28:41.257Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T14:43:46.883Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aumento de queimadas em áreas de floresta nativa e seca extrema podem levar a quadro irreversível",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreice2fcjb4d4l2bjraokovqg3rpkt3vv5h4vc4iaeqbzo74ioq4cfi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 613926
+                        },
+                        "title": "Megaincêndios na amazônia aceleram chance de colapso - 18/09/2024 - Ambiente - Folha",
+                        "uri": "https://t.ly/nJGjr"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreico5tivwj67gkzybysylu7ego3a4pt6t7orz5wxf3wf3f324oisam",
+                        "uri": "at://did:plc:2sp7f2rkr6kvnfdasbu25fmr/app.bsky.feed.post/3l4vu5nbges2n"
+                    },
+                    "root": {
+                        "cid": "bafyreifkherud7n2b5s3wez47w4eqayepjuwf3dhjcokvi2cpr7sf3q3da",
+                        "uri": "at://did:plc:2sp7f2rkr6kvnfdasbu25fmr/app.bsky.feed.post/3l4vu5ffsvg2c"
+                    }
+                },
+                "text": "O MapBiomas indicou que mais de 1,77 milhão de hectares de floresta amazônica queimaram em 2024, com 30% em áreas nativas. Além disso, setembro registrou o maior número de focos de incêndio desde 2010, sugerindo que o bioma está cada vez mais próximo de um colapso.\n—\n📰 Infos de Folha de SP"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://t.ly/nJGjr",
+                    "title": "Megaincêndios na amazônia aceleram chance de colapso - 18/09/2024 - Ambiente - Folha",
+                    "description": "Aumento de queimadas em áreas de floresta nativa e seca extrema podem levar a quadro irreversível",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2sp7f2rkr6kvnfdasbu25fmr/bafkreice2fcjb4d4l2bjraokovqg3rpkt3vv5h4vc4iaeqbzo74ioq4cfi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 34,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T14:43:46.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aihgfv3crh7mxfp2bc2ugwrj/app.bsky.feed.post/3l4upqavav62v",
+            "cid": "bafyreifri67f53j3ofpla6jwgckyq6r4wjauyxrmgrcsjvmwx4rohuzlxq",
+            "author": {
+                "did": "did:plc:aihgfv3crh7mxfp2bc2ugwrj",
+                "handle": "voxmonika.bsky.social",
+                "displayName": "Monika Vox",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aihgfv3crh7mxfp2bc2ugwrj/bafkreibzm7imznb7hacuiwdrlfsmfuku36aqzolvhir6n77jbvfglbsqkq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:18:58.797Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T03:51:38.396Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nós queremos nosso planeta de volta . Na sei qual tipo de ser está entre nós destruído-o a cada dia, ajudando na desertificação de um país onde verdes da floresta Amazônica trazia os rios flutuantes equilibrando nosso clima\nO Pantanal com um bioma invejável\nMatas de cerrado se renovando\nTá errado😠"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T03:51:38.396Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pxdkqugb4oxvbm7uruyeql4z/app.bsky.feed.post/3l4jhgqxqnk2c",
+            "cid": "bafyreift57aryrod3pnaef6xprapmjyivyvpw4z2w3mj6g26rca36vezq4",
+            "author": {
+                "did": "did:plc:pxdkqugb4oxvbm7uruyeql4z",
+                "handle": "fa213040.bsky.social",
+                "displayName": "Fafer",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxdkqugb4oxvbm7uruyeql4z/bafkreid256yrow7xmmdirt6koyx4gpsjjdt3bkn2u2iupqx46ijtqhip7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T23:26:02.902Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T16:23:55.407Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mega Incêndios na Floresta Amazônica aceleram risco de colapso do Bioma."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T16:23:55.407Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l4j6lycuym2a",
+            "cid": "bafyreie3qhikduc3dejdt4rvkypr62z3g6ewemoobgr6yevy6qwvhg6bcq",
+            "author": {
+                "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                "handle": "uol.com.br",
+                "displayName": "UOL - Universo Online",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:19:32.498Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T13:45:48.553Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 683,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiet7cgudqkgq64jbv6bsbdhm5ww5asizbgrk35cns7cswankqnyv4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 240911
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www1.folha.uol.com.br/ambiente/2024/09/megaincendios-na-amazonia-aceleram-chance-de-colapso-do-bioma.shtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 207,
+                            "byteStart": 170
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Megaincêndios na floresta amazônica aceleram risco de colapso do bioma\n\n➡️ Aumento de queimadas em áreas nativas e seca extrema podem levar a quadro irreversível www1.folha.uol.com.br/ambiente/202..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreiet7cgudqkgq64jbv6bsbdhm5ww5asizbgrk35cns7cswankqnyv4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreiet7cgudqkgq64jbv6bsbdhm5ww5asizbgrk35cns7cswankqnyv4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 683,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 9,
+            "likeCount": 51,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-19T13:45:48.553Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l4j6jyioso2q",
+            "cid": "bafyreiblmh4bjvdp3k3zivlvqvwzyw2ftk7g45a2mkjr3cfrvujxhvf26u",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T13:44:42.317Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Fotografia aérea mostra fumaça no horizonte causada por incêndio florestal de grandes dimensões que atinge a floresta amazônica na Terra Indígena Kayapó, no Pará. Sobre a imagem há o texto: \"Megaincêndios na amazônia aceleram chance de colapso do bioma\"",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibwkdnfnkyysywydhzdpasgrh3yclnmxrr7maiwuvvvfjv4cxml5q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 747271
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mla.bs/b206962e"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 210,
+                            "byteStart": 195
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Megaincêndios na amazônia aceleram chance de colapso do bioma. \n\n🔥 Aumento de queimadas em áreas de floresta nativa e seca extrema podem levar a quadro irreversível\n\n📲📰 Leia mais em mla.bs/b206962e"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreibwkdnfnkyysywydhzdpasgrh3yclnmxrr7maiwuvvvfjv4cxml5q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreibwkdnfnkyysywydhzdpasgrh3yclnmxrr7maiwuvvvfjv4cxml5q@jpeg",
+                        "alt": "Fotografia aérea mostra fumaça no horizonte causada por incêndio florestal de grandes dimensões que atinge a floresta amazônica na Terra Indígena Kayapó, no Pará. Sobre a imagem há o texto: \"Megaincêndios na amazônia aceleram chance de colapso do bioma\"",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 33,
+            "repostCount": 61,
+            "likeCount": 425,
+            "quoteCount": 13,
+            "indexedAt": "2024-09-19T13:44:42.317Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cy74ukfc6vo4mgabdv5zlrtk/app.bsky.feed.post/3l43jpj3jw524",
+            "cid": "bafyreiccwgg5aeaiikiuffeqwmcbnwwm3kbgpepygcqt76slwk24kinbde",
+            "author": {
+                "did": "did:plc:cy74ukfc6vo4mgabdv5zlrtk",
+                "handle": "altourinho.bsky.social",
+                "displayName": "Canal da Dona Aranha - Dra Ana Lúcia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cy74ukfc6vo4mgabdv5zlrtk/bafkreiepyiyxfy5ca2avgmuo7ok3h5n2ojnfori5rrhxegarxxxwsapww4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-07T16:47:26.181Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T03:27:21.662Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7kfezxip3ra2o3zzvps3caqawy3nt3gmr5rquwgwjs7ypifwbau",
+                        "uri": "at://did:plc:iipmcynw6gxlwlkdntvv3hgg/app.bsky.feed.post/3l43jde54zh2w"
+                    },
+                    "root": {
+                        "cid": "bafyreidaliem3n6zilj3ky5zyeseirfteibglysz6h2ccw6wn43rsnbpxa",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l42vec463r2d"
+                    }
+                },
+                "text": "O ecótono está dentro do Bioma Amazônia fofo, a Amazônia de trânsição ocorre dentro do bioma Amazônia = Amazônia Legal. Vou te explicar: Amazônia Matogrossense é uma zona da floresta formada por vegetação Amazônica e mosaicos de vegetação de cerrado,  as plantas não seguem linha política"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T03:27:21.662Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l42h36y7r22y",
+            "cid": "bafyreiba5krbdp7dsbaqqb2zr4rhtv2pmmwbnhos5zxc47znzdxusy2iwi",
+            "author": {
+                "did": "did:plc:sthqanpgrq4yiuhe7eluw66u",
+                "handle": "hiltonbastos.bsky.social",
+                "displayName": "Hilton Bastos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreibb7z34e6kxoup5joatad736lurfdfwz3n672vn2xgdozmsephqyi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:16:13.624Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T17:07:25.690Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 756930
+                        },
+                        "title": "Silas Malafaia, o Profeta do Fogo",
+                        "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidkieafbsnykmibdjjfyh2duvcgm6xy5llvbdkqo4djrml4dwv5hq",
+                        "uri": "at://did:plc:6iwfq5klg5sc2hywfaimfk3r/app.bsky.feed.post/3l42ekyibz22k"
+                    },
+                    "root": {
+                        "cid": "bafyreidkieafbsnykmibdjjfyh2duvcgm6xy5llvbdkqo4djrml4dwv5hq",
+                        "uri": "at://did:plc:6iwfq5klg5sc2hywfaimfk3r/app.bsky.feed.post/3l42ekyibz22k"
+                    }
+                },
+                "text": "Incêndios criminosos avançam sobre o cerrado, o segundo maior bioma do país. Imagens chocantes revelam o fogo se alastrando por 500 km na floresta amazônica. A ganância do agronegócio e a imbecilidade humana de negacionistas de extrema-direita, estão colocando em risco a vida em nosso planeta."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo",
+                    "title": "Silas Malafaia, o Profeta do Fogo",
+                    "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T17:07:25.690Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l42di7flb72c",
+            "cid": "bafyreiajdxxnotcfyeqczo2hh2d3gzaphjfzc5rufnwcsijjozq5apkhoq",
+            "author": {
+                "did": "did:plc:sthqanpgrq4yiuhe7eluw66u",
+                "handle": "hiltonbastos.bsky.social",
+                "displayName": "Hilton Bastos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreibb7z34e6kxoup5joatad736lurfdfwz3n672vn2xgdozmsephqyi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:16:13.624Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T16:03:07.392Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 756930
+                        },
+                        "title": "Silas Malafaia, o Profeta do Fogo",
+                        "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:wjnkjjyzo32p5hldvodm5qlp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigqshuuyrxvv6caalw4txjvukjn5n3kqicxaagmevztapox5ipcze",
+                        "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l3ytcwgrjx2y"
+                    },
+                    "root": {
+                        "cid": "bafyreigqshuuyrxvv6caalw4txjvukjn5n3kqicxaagmevztapox5ipcze",
+                        "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l3ytcwgrjx2y"
+                    }
+                },
+                "text": "Incêndios criminosos avançam sobre o cerrado, o segundo maior bioma do país. Imagens chocantes revelam o fogo se alastrando por 500 km na floresta amazônica. A ganância do agronegócio e a imbecilidade humana da direita, estão colocando em risco a vida em nosso planeta.\nPor @florestan-jr.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo",
+                    "title": "Silas Malafaia, o Profeta do Fogo",
+                    "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T16:03:07.392Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l42cdeegmm2e",
+            "cid": "bafyreict6pkrqnykhyioahatozs5jzao67jkkkwlfm46ccwshqokci2ok4",
+            "author": {
+                "did": "did:plc:sthqanpgrq4yiuhe7eluw66u",
+                "handle": "hiltonbastos.bsky.social",
+                "displayName": "Hilton Bastos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreibb7z34e6kxoup5joatad736lurfdfwz3n672vn2xgdozmsephqyi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:16:13.624Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T15:42:31.103Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 756930
+                        },
+                        "title": "Silas Malafaia, o Profeta do Fogo",
+                        "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicptxhetitrztx7ydntikl3r4z7h7bjdnojnjryvajezrkuliex6q",
+                        "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l42ccgyvzg22"
+                    },
+                    "root": {
+                        "cid": "bafyreicptxhetitrztx7ydntikl3r4z7h7bjdnojnjryvajezrkuliex6q",
+                        "uri": "at://did:plc:sthqanpgrq4yiuhe7eluw66u/app.bsky.feed.post/3l42ccgyvzg22"
+                    }
+                },
+                "text": "Incêndios criminosos avançam sobre o cerrado, o segundo maior bioma do país. Imagens chocantes revelam o fogo se alastrando por 500 km na floresta amazônica. A ganância do agronegócio e a imbecilidade humana de negacionistas de extrema-direita, estão colocando em risco a vida em nosso planeta."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/blog/silas-malafaia-o-profeta-do-fogo",
+                    "title": "Silas Malafaia, o Profeta do Fogo",
+                    "description": "'A profecia de Silas Malafaia se realizou', escreve Florestan Fernandes Jr.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sthqanpgrq4yiuhe7eluw66u/bafkreight73axuapscwmh4mau2tlytos4yvv3dfbwshbalmr5loje7mjgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T15:42:31.103Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5plwl7jbv5tqcvdlbkc6gctw/app.bsky.feed.post/3l3yhg7iodz2u",
+            "cid": "bafyreidusy4rm7qfxuqenvwoo6epdywv57xlzfmgmdwyv6e32qrlixz5x4",
+            "author": {
+                "did": "did:plc:5plwl7jbv5tqcvdlbkc6gctw",
+                "handle": "anarcoteca.bsky.social",
+                "displayName": "tocante de TTPs",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5plwl7jbv5tqcvdlbkc6gctw/bafkreib5brix5j2vcf2k53ewinfxnq2gmtmzpuohubb2j47yaspbixti7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:23:41.428Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T22:08:21.423Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreie5eommns6fnyoptvqng5ck5dblfvcjx2djxhaqwh7conlo5fjnby",
+                        "uri": "at://did:plc:4ndmu2zw4qqv62zcblklprw4/app.bsky.feed.post/3l3x6uij6zg2z"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Apenas a bacia amazônica tem 20 milhões de anos. Um punhado de pessoas vai conseguir destruir um bioma que indígenas passaram mais de 8 mil anos habitando."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:4ndmu2zw4qqv62zcblklprw4/app.bsky.feed.post/3l3x6uij6zg2z",
+                    "cid": "bafyreie5eommns6fnyoptvqng5ck5dblfvcjx2djxhaqwh7conlo5fjnby",
+                    "author": {
+                        "did": "did:plc:4ndmu2zw4qqv62zcblklprw4",
+                        "handle": "goyzueta.bsky.social",
+                        "displayName": "Verónica Goyzueta",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ndmu2zw4qqv62zcblklprw4/bafkreihz3n276ylvwgjv634bbt6pdbdmsi4rr33zlso5aalo2n62pzsmfy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-30T21:53:42.035Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-12T10:02:38.864Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Biomas brasileiros estão gravemente ameaçados pelo aquecimento global; Pantanal deve perder toda a sua área alagada antes mesmo do fim do século",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreibtxyuwteruypqexbal5p6po73zyg7o6mjg2y4j563lhem4kcts2u"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 566960
+                                },
+                                "title": "Entrevista | ‘Estou apavorado. Ninguém previa isso; é muito rápido’, diz Carlos Nobre sobre crise climática",
+                                "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 297,
+                                    "byteStart": 263
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Carlos Nobre: ‘Estou apavorado. Ninguém previa isso; é muito rápido’.\nO climatologista prevê que Pantanal e metade da Amazônia devem desaparecer até 2070.\nNobre diz que o fogo é criminoso e que o problema é de polícia.\n\nEntrevista de Roberta Jansen\n\nwww.estadao.com.br/sustentabili..."
+                    },
+                    "labels": [],
+                    "likeCount": 757,
+                    "replyCount": 22,
+                    "repostCount": 284,
+                    "quoteCount": 102,
+                    "indexedAt": "2024-09-12T10:02:38.864Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/",
+                                "title": "Entrevista | ‘Estou apavorado. Ninguém previa isso; é muito rápido’, diz Carlos Nobre sobre crise climática",
+                                "description": "Biomas brasileiros estão gravemente ameaçados pelo aquecimento global; Pantanal deve perder toda a sua área alagada antes mesmo do fim do século",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ndmu2zw4qqv62zcblklprw4/bafkreibtxyuwteruypqexbal5p6po73zyg7o6mjg2y4j563lhem4kcts2u@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T22:08:21.423Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3wb2zowps2b",
+            "cid": "bafyreibpfmqvoaimpuvhe3uhhwo4audvv3vejd3xoe7vv2ub42bm5kkevy",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:09:25.864Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihkeygssziep6lp2xpx6sdo7uowvsaalxqwylbwi2vyog4rpgbkqy",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3waytnk542i"
+                    },
+                    "root": {
+                        "cid": "bafyreib46q2kvraoujduuu4orpeqcwrlgkdmg5jpgj2s6llmm3a5es7ur4",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3warwttiu25"
+                    }
+                },
+                "text": "pois é nele que se encontram as nascentes das três maiores bacias hidrográficas da América do Sul (Amazônica/Tocantins, São Francisco e Prata). Das 12 principais bacias hidrográficas brasileiras, oito são irrigadas pelo Cerrado, sendo que seis delas estão dentro do bioma. \n\nA sua vegetação rasteira+"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T01:09:25.864Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3warwttiu25",
+            "cid": "bafyreib46q2kvraoujduuu4orpeqcwrlgkdmg5jpgj2s6llmm3a5es7ur4",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:04:20.586Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihumb25rvdihy5a7a4o34m4444yz4dldimrcn5x5ie6c5xv6g4vgq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 673044
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TodayIsDay"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 225,
+                            "byteStart": 214
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje é o Dia Nacional do Cerrado!\n\nCriado em 2003 para chamar atenção sobre a necessidade de se preservar esse que é o segundo maior bioma da América do Sul e do Brasil, atrás apenas da Floresta Amazônica.\n\n#TodayIsDay"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreihumb25rvdihy5a7a4o34m4444yz4dldimrcn5x5ie6c5xv6g4vgq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreihumb25rvdihy5a7a4o34m4444yz4dldimrcn5x5ie6c5xv6g4vgq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 63,
+            "likeCount": 159,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-12T01:04:20.586Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l3vnh2vqxq25",
+            "cid": "bafyreihaewasennjeufgpxe56bselubstuokmkpfprvmqu7pd2pz33j46i",
+            "author": {
+                "did": "did:plc:4emjyzaf6t6puvmf2nwi3hou",
+                "handle": "nathaliasca.bsky.social",
+                "displayName": "Nathalia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4emjyzaf6t6puvmf2nwi3hou/bafkreicowlmhex3vta7ygtqsntlnlxlq57lrqnl6b462nkzcjttnrqgeky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:15:53.105Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T19:18:13.626Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Desde que o INPE começou o monitoramento em 1998, apenas em outros dois anos o bioma amazônico teve mais incidentes no primeiro semestre: em 2004, com 17.340 queimadas, e em 2003, com 17.143 queimadas. A Floresta Amazônica, ao contrário do Cerrado, não pega fogo naturalmente."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T19:18:13.626Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5q45o4t3uu764j54blcelwpc/app.bsky.feed.post/3l3tdnqnhcr27",
+            "cid": "bafyreibz3gqtszmqk6b74ceehgmyghxtly22hfnm3gxcdiopdsbshnvoa4",
+            "author": {
+                "did": "did:plc:5q45o4t3uu764j54blcelwpc",
+                "handle": "iv46.bsky.social",
+                "displayName": "Ivone Arruda de Carvalho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5q45o4t3uu764j54blcelwpc/bafkreiahpz5rt4z6dbobnmfs5tfin5o7vpjy36kq2xy3fyrrvx6ny3sngy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T12:06:38.344Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T21:17:41.904Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajlxc66x4pwekivn72q6wl5iwr5ogpz634v2chz2e4ilhwz4zhge",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3swxhbpx32w"
+                    },
+                    "root": {
+                        "cid": "bafyreiajlxc66x4pwekivn72q6wl5iwr5ogpz634v2chz2e4ilhwz4zhge",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3swxhbpx32w"
+                    }
+                },
+                "text": "Presidente Lula, ainda não vi ninguém ser preso por estar colocando fogo no BIOMA AMAZÔNICA,  PANTANAL, CERRADO...URGENTE SEREM PUNIDOS, DIVULGAR ESSES INCENDIÁRIOS!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T21:17:41.904Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cpjj5vs5wc43v55ary7v72a7/app.bsky.feed.post/3l3h2g4hvpu2a",
+            "cid": "bafyreieypudikvk3o6vkbvsnd4fri2a5ea2kx4dlpnhddv5623p4imhvee",
+            "author": {
+                "did": "did:plc:cpjj5vs5wc43v55ary7v72a7",
+                "handle": "prexedes.bsky.social",
+                "displayName": "adriano",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreigcphtsybgqfrq7dtcxpn6jjx74c3uhjil4ujiump4qe5yt4jq6dm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-26T00:09:32.345Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T00:00:25.053Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 452,
+                                "width": 679
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiadfisbtr4gzftgiv5zd2m2uenrz3argc74fctfreovv7hgucmmii"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 93445
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 415,
+                                "width": 739
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigdtol4ob3nt7d5vyeckbbirr6vpotzvvh4vliaow4r3uslmclpxi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 76791
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 452,
+                                "width": 678
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifkritkf4bsikupiebklck7plfct2mmwizsz75ctr7gx7lc4sus5e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 67786
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 360,
+                                "width": 480
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidaniwcy4w4bcledkq663v7qahu36tihfwp72qsenybraww3yn54u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 60424
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiadaAmazônia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 52,
+                            "byteStart": 37
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "es",
+                    "it"
+                ],
+                "text": "🌳 No dia de hoje (5) celebra-se o #DiadaAmazônia. A data lembra da importância do maior bioma do Brasil e alerta para sua conservação. No carnaval, a região é tema recorrente de enredos.\n\nHoje veremos 10 desfiles que falaram da região Amazônica.\n\n🧶Venha e segue o fio!",
+                "via": "TOKIMEKI"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreiadfisbtr4gzftgiv5zd2m2uenrz3argc74fctfreovv7hgucmmii@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreiadfisbtr4gzftgiv5zd2m2uenrz3argc74fctfreovv7hgucmmii@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 452,
+                            "width": 679
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreigdtol4ob3nt7d5vyeckbbirr6vpotzvvh4vliaow4r3uslmclpxi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreigdtol4ob3nt7d5vyeckbbirr6vpotzvvh4vliaow4r3uslmclpxi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 415,
+                            "width": 739
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreifkritkf4bsikupiebklck7plfct2mmwizsz75ctr7gx7lc4sus5e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreifkritkf4bsikupiebklck7plfct2mmwizsz75ctr7gx7lc4sus5e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 452,
+                            "width": 678
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreidaniwcy4w4bcledkq663v7qahu36tihfwp72qsenybraww3yn54u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreidaniwcy4w4bcledkq663v7qahu36tihfwp72qsenybraww3yn54u@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 360,
+                            "width": 480
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 8,
+            "likeCount": 43,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-06T00:00:25.053Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gpkuajox2r",
+            "cid": "bafyreifg6d5kuvl7bxmti767pi62gkmmfotrb3a2lgjjxgzewsjthds3re",
+            "author": {
+                "did": "did:plc:bmrap76m3sje4l2ydpnlns6b",
+                "handle": "justicaglobal.bsky.social",
+                "displayName": "Justiça Global",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreih65qufsipphawcxxynbugoxepyatpnsilxqcu7abdi3drzmdtodq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-30T20:27:17.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T20:46:13.368Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Atualmente, há 45.065 concessões mineradoras em operação ou aguardando aprovação, e 21.536 delas sobrepõem-se a áreas protegidas e terras indígenas. (Fonte: Dário Bossi, MCCJ, Rede Igrejas e Mineração e REPAM, jan/2024).\nAo fundo, uma foto de uma área de mineração.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib7kwemlhotvqe5uvk5zcidopjbt722gfjsvkavogoxlu22lbsmsm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 320526
+                            }
+                        },
+                        {
+                            "alt": "Estima-se que existam 453 focos de mineração ilegal na Amazônia brasileira e mais de 2.500 em toda a bacia amazônica. Em terras indígenas, a incidência de garimpos ilegais aumentou em 361% entre 2016 e 2022. (Dados da REPAM e da EBC)\nAo fundo, uma foto de uma área de mineração.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigmub3hov7rvq5w6h6um6tyv7h4epjwtdx2lkc3tfw24bnzybt4xe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 333770
+                            }
+                        },
+                        {
+                            "alt": "Card 4:  Grandes Empreendimentos\nProjetos como o Grão-Pará no Maranhão e a Usina Hidrelétrica de Belo Monte atacam diretamente a diversidade e afetam profundamente as pessoas. Na região da Usina, mais de 50 mil pessoas podem ser impactadas. (Fonte: Xingu Vivo para Sempre)\nAo fundo, uma foto da usina hidrelétrica de Belo Monte.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaqyfwef2ivkopwipnzdccamlyiotycwmxfnmvu3ducurjrlquudi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 938499
+                            }
+                        },
+                        {
+                            "alt": "Em agosto, foram registrados 38,2 mil focos de fogo na Amazônia, de acordo com o InfoAmazônia e dados do Inpe (Instituto Nacional de Pesquisas Espaciais).\nAo fundo, uma foto de uma queimada.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif6qxqhfmkmiigbzewx464d4bvwemvvzr7c5ci4642rllpfs3bnt4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 209408
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigy4zkqxm3v2qwwjgpadnj5ek2qfqb72oz46f7p3vx46h7gnryf4m",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gphg6l6p23"
+                    },
+                    "root": {
+                        "cid": "bafyreigy4zkqxm3v2qwwjgpadnj5ek2qfqb72oz46f7p3vx46h7gnryf4m",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gphg6l6p23"
+                    }
+                },
+                "text": "Os megaprojetos da mineração e do agronegócio, grandes responsáveis pela destruição do bioma, veem a região apenas como um recurso comercial e infinito, ignorando as diversas formas de vida que nela habitam."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreib7kwemlhotvqe5uvk5zcidopjbt722gfjsvkavogoxlu22lbsmsm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreib7kwemlhotvqe5uvk5zcidopjbt722gfjsvkavogoxlu22lbsmsm@jpeg",
+                        "alt": "Atualmente, há 45.065 concessões mineradoras em operação ou aguardando aprovação, e 21.536 delas sobrepõem-se a áreas protegidas e terras indígenas. (Fonte: Dário Bossi, MCCJ, Rede Igrejas e Mineração e REPAM, jan/2024).\nAo fundo, uma foto de uma área de mineração.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigmub3hov7rvq5w6h6um6tyv7h4epjwtdx2lkc3tfw24bnzybt4xe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigmub3hov7rvq5w6h6um6tyv7h4epjwtdx2lkc3tfw24bnzybt4xe@jpeg",
+                        "alt": "Estima-se que existam 453 focos de mineração ilegal na Amazônia brasileira e mais de 2.500 em toda a bacia amazônica. Em terras indígenas, a incidência de garimpos ilegais aumentou em 361% entre 2016 e 2022. (Dados da REPAM e da EBC)\nAo fundo, uma foto de uma área de mineração.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreiaqyfwef2ivkopwipnzdccamlyiotycwmxfnmvu3ducurjrlquudi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreiaqyfwef2ivkopwipnzdccamlyiotycwmxfnmvu3ducurjrlquudi@jpeg",
+                        "alt": "Card 4:  Grandes Empreendimentos\nProjetos como o Grão-Pará no Maranhão e a Usina Hidrelétrica de Belo Monte atacam diretamente a diversidade e afetam profundamente as pessoas. Na região da Usina, mais de 50 mil pessoas podem ser impactadas. (Fonte: Xingu Vivo para Sempre)\nAo fundo, uma foto da usina hidrelétrica de Belo Monte.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreif6qxqhfmkmiigbzewx464d4bvwemvvzr7c5ci4642rllpfs3bnt4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreif6qxqhfmkmiigbzewx464d4bvwemvvzr7c5ci4642rllpfs3bnt4@jpeg",
+                        "alt": "Em agosto, foram registrados 38,2 mil focos de fogo na Amazônia, de acordo com o InfoAmazônia e dados do Inpe (Instituto Nacional de Pesquisas Espaciais).\nAo fundo, uma foto de uma queimada.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 10,
+            "likeCount": 20,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T20:46:13.368Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:khsolbf4c37vkbr4fxpr3v76/app.bsky.feed.post/3l3ftlb367m2w",
+            "cid": "bafyreiefq3zbxvv5emwzfsyvpkyrm6bp5jobyr3c5scsondwq7badahpuy",
+            "author": {
+                "did": "did:plc:khsolbf4c37vkbr4fxpr3v76",
+                "handle": "terrabrasil.bsky.social",
+                "displayName": "Terra",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:khsolbf4c37vkbr4fxpr3v76/bafkreidf53njpv6lpnwhu62o3gzr43d53kjz3w6y4vakqu5mh4onl62dt4@jpeg",
+                "labels": [],
+                "createdAt": "2023-07-03T20:09:40.935Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T12:25:23.277Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Enquanto mundo celebra mais um Dia da Amazônia, repórter do Terra relata situação de municípios isolados por causa da seca dos rios",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigh234wvtja7t6i3icxokxljgys72doj3bbudo5hnkvhs4w6pkn3q"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 671306
+                        },
+                        "title": "No Acre, população tem que lidar com seca histórica enquanto respira fumaça",
+                        "uri": "https://bit.ly/4dQ91VY"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/4dQ91VY"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 317,
+                            "byteStart": 303
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": " Hoje é o Dia da Amazônia, bioma tão necessário para o equilíbrio do planeta. Apesar de sua dimensão, diversidade e importância, não há muito o que comemorar. Direto do Acre o Terra conta o que a população nortista enfrenta devido às queimadas e à seca que atinge a bacia amazônica ➡️ bit.ly/4dQ91VY"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bit.ly/4dQ91VY",
+                    "title": "No Acre, população tem que lidar com seca histórica enquanto respira fumaça",
+                    "description": "Enquanto mundo celebra mais um Dia da Amazônia, repórter do Terra relata situação de municípios isolados por causa da seca dos rios",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:khsolbf4c37vkbr4fxpr3v76/bafkreigh234wvtja7t6i3icxokxljgys72doj3bbudo5hnkvhs4w6pkn3q@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T12:25:23.277Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3qmru4xicu7vskm7wgfqgbuu/app.bsky.feed.post/3l3dqbvuexe2x",
+            "cid": "bafyreifbunmmxkcwwrdnjponn4j34q6tqgvgxywqbnvbfboc4uzjycq2iy",
+            "author": {
+                "did": "did:plc:3qmru4xicu7vskm7wgfqgbuu",
+                "handle": "real33.bsky.social",
+                "displayName": "ReAl.🇧🇷🔬🦉🛒📈(#sdv).",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3qmru4xicu7vskm7wgfqgbuu/bafkreiafoflzqwctdco5kjakdbrilvdspuj4jxmkzmfn7nqsutrvfugphi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:3qmru4xicu7vskm7wgfqgbuu",
+                        "uri": "at://did:plc:3qmru4xicu7vskm7wgfqgbuu/app.bsky.actor.profile/self",
+                        "cid": "bafyreidexnwf7sofpp55noa3cmkks6d4tdq2qv2vsba4u3zhfnrjfcqyh4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-31T05:23:09.834Z"
+                    }
+                ],
+                "createdAt": "2024-08-31T05:24:03.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:21:07.365Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ministra participou de sessão da Comissão de Meio Ambiente do Senado para falar sobre combate a incêndios na Amazônia e no Pantanal em meio a estiagem histórica.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic4b2sibbou3ot4yarf6drwqxworrlvhgbfilqp675vdlzjkqcv5e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 517556
+                        },
+                        "title": "Amazônia perde umidade e área nativa e pode se tornar vulnerável a incêndios 'naturais' nos próximos anos, diz Marina Silva",
+                        "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "É da natureza amazônica, os grandes incêndios NATURAIS. Esses eventos fazem parte do ciclo de vida da floresta.\nQuem vive lá, sabe disso.\nA questão importante, está na mudança na cobertura natural vegetação nas outras áreas do bioma que a cerca: Andes, Pantanal, etc...\ng1.globo.com/politica/not..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/politica/noticia/2024/09/04/com-perda-de-umidade-e-area-nativa-amazonia-pode-se-tornar-vulneravel-a-incendios-naturais-nos-proximos-anos-diz-marina-silva.ghtml",
+                    "title": "Amazônia perde umidade e área nativa e pode se tornar vulnerável a incêndios 'naturais' nos próximos anos, diz Marina Silva",
+                    "description": "Ministra participou de sessão da Comissão de Meio Ambiente do Senado para falar sobre combate a incêndios na Amazônia e no Pantanal em meio a estiagem histórica.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3qmru4xicu7vskm7wgfqgbuu/bafkreic4b2sibbou3ot4yarf6drwqxworrlvhgbfilqp675vdlzjkqcv5e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:21:07.365Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yz374uhwuizifgnst5hdpqqg/app.bsky.feed.post/3kftachmyx42o",
+            "cid": "bafyreicorpmzlaobq7cvoxunke7ppv6mc54jssvw7snz6gssptvgpxj27u",
+            "author": {
+                "did": "did:plc:yz374uhwuizifgnst5hdpqqg",
+                "handle": "cienciaufpr.bsky.social",
+                "displayName": "Ciência UFPR ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yz374uhwuizifgnst5hdpqqg/bafkreihc7e62xohlocbnpef466woixzylz2pxlvbiopv766mddjnni7h34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-31T17:58:38.741Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-05T21:03:25.140Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Floresta Amazônica pode aumentar em mais de 15 mil hectares no Brasil, até 2050, caso a execução de programas...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibunb3kovpaye562cg2abma6shjceu2c5pq4a7uyhphhnyvhbhjua"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 555037
+                        },
+                        "title": "Se superar desmatamento, Amazônia pode ganhar 15 mil hectares no TO até 2050 e ajudar a atenuar cr...",
+                        "uri": "https://ciencia.ufpr.br/portal/?p=24581"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://ciencia.ufpr.br/portal/?p=24581"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 304,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "RITMO\n\nTomando como base a dinâmica da Floresta Amazônica no Tocantins, pesquisadores testaram cenários para esse bioma até 2050, considerando recuperação de território e reflexos econômicos da manutenção da política de contenção do desmatamento.\n\nLeia ➡️ ciencia.ufpr.br/portal/?p=24..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://ciencia.ufpr.br/portal/?p=24581",
+                    "title": "Se superar desmatamento, Amazônia pode ganhar 15 mil hectares no TO até 2050 e ajudar a atenuar cr...",
+                    "description": "A Floresta Amazônica pode aumentar em mais de 15 mil hectares no Brasil, até 2050, caso a execução de programas...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yz374uhwuizifgnst5hdpqqg/bafkreibunb3kovpaye562cg2abma6shjceu2c5pq4a7uyhphhnyvhbhjua@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-05T21:03:25.140Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k2akgflqpt2o",
+            "cid": "bafyreic3vtlmn2xge3xybyjxuhasocf7brbkbthdavrwe2ptp7ofcf2l5q",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-11T11:06:52.957Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em reunião preparatória para a Cúpula da Amazônia, na Colômbia, Lula pregou união entre países e desmatamento zero em todo bioma",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihnsfleguwopuj2cum7nwu6m5oazwpyh6avz6dksc5r6fvgthefuy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 446568
+                        },
+                        "title": "Lula sugere a criação de um IPCC para a floresta amazônica - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/lula-sugere-a-criacao-de-um-ipcc-para-a-floresta-amazonica/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/lula-sugere-a-criacao-de-um-ipcc-para-a-floresta-amazonica/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 206
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "Lula sugere a criação de um IPCC para a floresta amazônica ⬇️\n\nEm reunião preparatória para a Cúpula da Amazônia, na Colômbia, Lula pregou união entre países e desmatamento zero em todo bioma\nhttps://oeco.org.br/noticias/lula-sugere-a-criacao-de-um-ipcc-para-a-floresta-amazonica/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/lula-sugere-a-criacao-de-um-ipcc-para-a-floresta-amazonica/",
+                    "title": "Lula sugere a criação de um IPCC para a floresta amazônica - ((o))eco",
+                    "description": "Em reunião preparatória para a Cúpula da Amazônia, na Colômbia, Lula pregou união entre países e desmatamento zero em todo bioma",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreihnsfleguwopuj2cum7nwu6m5oazwpyh6avz6dksc5r6fvgthefuy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-11T11:06:52.957Z",
+            "labels": []
+        }
+    ]
+}

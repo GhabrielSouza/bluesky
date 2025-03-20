@@ -1,0 +1,436 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathtqxjlk2w",
+            "cid": "bafyreia2mwgnojhuphapt3hifzs7l65pbykcn2ov4dv2igkfubzcpbspk4",
+            "author": {
+                "did": "did:plc:mo4wfo3ehcfnv3zsqlpzu5pg",
+                "handle": "governodabahia.bsky.social",
+                "displayName": "GovBa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/bafkreiacxhkalywzjgagr2zahjhwhntx3gu5x62l7ae2qdbn5wi2ha2jvm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-07T14:22:02.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T13:38:37.119Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Secretaria de Desenvolvimento Rural lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicoiyxmnnj7fsxx7z24qxqtbbviaehwqmk4k4hi7muaoxxjaxd76m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 613879
+                        },
+                        "title": "SDR lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia - Secom GOVBA",
+                        "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 213
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiht2ohdlcf4nhvoqp7jxcglufs7c5fnrgqts6lp45ebuuwllp4gq4",
+                        "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathtazjbk2w"
+                    },
+                    "root": {
+                        "cid": "bafyreifug4n2xk2n72mpj4ik3h345iqj7fchzz2arfhobvl5zic4fsmpxi",
+                        "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathsbvzsk2s"
+                    }
+                },
+                "text": "🌵 Já o Candeeiros da Caatinga tem como foco a preservação e recuperação do bioma, além de articular redes de apoio para promover a educação ambiental, geração de renda e desenvolvimento sustentável. www.comunicacao.ba.gov.br/2024/11/noti..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/",
+                    "title": "SDR lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia - Secom GOVBA",
+                    "description": "Secretaria de Desenvolvimento Rural lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/bafkreicoiyxmnnj7fsxx7z24qxqtbbviaehwqmk4k4hi7muaoxxjaxd76m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T13:38:40.890Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:56fuhztbhsqeq4eol4lhneth/app.bsky.feed.post/3l47iuynqzr2y",
+            "cid": "bafyreifwjvfaob5h3ribfxyxthfngs3on56puxqg7qdxstqzohp3ni4dhm",
+            "author": {
+                "did": "did:plc:56fuhztbhsqeq4eol4lhneth",
+                "handle": "grossomondo.bsky.social",
+                "displayName": "thais",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:56fuhztbhsqeq4eol4lhneth/bafkreiglvtrczcilwzl4kbhapjkffocevkcohxszlexeqnxecuwmnn2azq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T15:59:37.967Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T17:23:24.670Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Podcast · [object Object] · 1959. Uma professora de ciências é expulsa de uma cidade no interior de São Paulo depois de ensinar a teoria da evolução das espécies numa cidade bastante católica. Começa ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicbbadiuhmsjoj5cftj6irkyhzibbxpmxjlx6aa4ssdcatngadx4q"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 652088
+                        },
+                        "title": "Os Caminhos de Niéde Guidon",
+                        "uri": "https://open.spotify.com/show/2qNbBmnm4gAKgw15vC3gv4?si=7112d23ed51543ce"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://open.spotify.com/show/2qNbBmnm4gAKgw15vC3gv4?si=7112d23ed51543ce"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 282,
+                            "byteStart": 250
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "acabei em dois dias esse pod incrível sobre a historia da ainda mais incrível niede guidon, arqueologa brasileira que lutou pela criação da serra da capivara, parque nacional de preservação permanente da caatinga, e do museu do homem americano\nopen.spotify.com/show/2qNbBmn..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://open.spotify.com/show/2qNbBmnm4gAKgw15vC3gv4?si=7112d23ed51543ce",
+                    "title": "Os Caminhos de Niéde Guidon",
+                    "description": "Podcast · [object Object] · 1959. Uma professora de ciências é expulsa de uma cidade no interior de São Paulo depois de ensinar a teoria da evolução das espécies numa cidade bastante católica. Começa ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:56fuhztbhsqeq4eol4lhneth/bafkreicbbadiuhmsjoj5cftj6irkyhzibbxpmxjlx6aa4ssdcatngadx4q@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T17:23:12.212Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:btjto7wm4426m2lfcqeehl3o/app.bsky.feed.post/3l3tn2sudvf26",
+            "cid": "bafyreicbpepgjngstoevlgupcubgvr4laxtvcca7lqthnq7b2wn2n2neaq",
+            "author": {
+                "did": "did:plc:btjto7wm4426m2lfcqeehl3o",
+                "handle": "noite-arty.bsky.social",
+                "displayName": "Noite",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:btjto7wm4426m2lfcqeehl3o/bafkreicohxtdbdcpzgomh6e57zvs4c227k56fw5lsc6r264tn62wpru7wu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:32:27.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T00:06:04.949Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifcltqi2qhzjupyo4ypjjweph6f6vysslpv4mnft5jgu7ugt7awuy",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3tiyqplrc2q"
+                    },
+                    "root": {
+                        "cid": "bafyreifcltqi2qhzjupyo4ypjjweph6f6vysslpv4mnft5jgu7ugt7awuy",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3tiyqplrc2q"
+                    }
+                },
+                "text": "Uma pergunta, já que provavelmente o Brasil está bem economicamente, por que não utiliza parte desse dinheiro para o próprio país?, como preservação no amazonas, mata atlântica, caatinga, pantanal, etc."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T00:06:04.720Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2mhzphtdaj5icocxvuimmhoz/app.bsky.feed.post/3l3oo6m542s2r",
+            "cid": "bafyreibocoixejryzloehjch7y4qwk7jnjnuw3sk3sbuck4dzjf6fyoyua",
+            "author": {
+                "did": "did:plc:2mhzphtdaj5icocxvuimmhoz",
+                "handle": "barrgui19.bsky.social",
+                "displayName": "Jaime Guimarães",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mhzphtdaj5icocxvuimmhoz/bafkreietasvkhjykiyo4e6axtvpnr6kfxjctjnus2gob5jvo3aaibaqk7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T19:45:06.023Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T00:42:46.595Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigpwmyoj3zumwakmp7vrrpzuhxzhxxmuiz427qa7yksxgkadqdbye",
+                        "uri": "at://did:plc:ln365l6vi27yltu64foyujle/app.bsky.feed.post/3l3omakwnl42q"
+                    },
+                    "root": {
+                        "cid": "bafyreigpwmyoj3zumwakmp7vrrpzuhxzhxxmuiz427qa7yksxgkadqdbye",
+                        "uri": "at://did:plc:ln365l6vi27yltu64foyujle/app.bsky.feed.post/3l3omakwnl42q"
+                    }
+                },
+                "text": "A gente tá lascado, de modo geral. Aqui no nordeste a caatinga também sofre com a ação predatória humana e de uns anos pra cá estão surgindo alguns projetos de preservação e reflorestamento do bioma. Ainda é pouco e o desafio é grande."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T00:42:46.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xubcywfdl4bihtkm7nocmlc6/app.bsky.feed.post/3l3hholthwb2x",
+            "cid": "bafyreialo5gpjbdewvlp4d4bjckgd67undlj43p5ogbqq25f7mteyyawqu",
+            "author": {
+                "did": "did:plc:xubcywfdl4bihtkm7nocmlc6",
+                "handle": "cearaselvagem.bsky.social",
+                "displayName": "Maurício Uchôa [Bruttos]",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xubcywfdl4bihtkm7nocmlc6/bafkreid2b5xa6xpcngdua6slejlz765y432yybzmjcluzqz53urdmf2vue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T11:54:08.731Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T03:57:48.339Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid6sukls7xma2s4ftsfokbdhlsupyvlkvm35mpeefnw7z3xx2mdi4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 309633
+                        },
+                        "title": "A Caatinga: O Tesouro Escondido do Nordeste - Ceará Selvagem",
+                        "uri": "https://cearaselvagem.com/caatinga-o-tesouro-escondido/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 139,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "belezas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 140
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desafios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 158,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "preservação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cearaselvagem"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 198,
+                            "byteStart": 184
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial\n\n#caatinga #belezas #desafios #nordeste #preservação #cearaselvagem"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://cearaselvagem.com/caatinga-o-tesouro-escondido/",
+                    "title": "A Caatinga: O Tesouro Escondido do Nordeste - Ceará Selvagem",
+                    "description": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xubcywfdl4bihtkm7nocmlc6/bafkreid6sukls7xma2s4ftsfokbdhlsupyvlkvm35mpeefnw7z3xx2mdi4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T03:57:48.339Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p7676xwi5i33zqmop6e6gcy3/app.bsky.feed.post/3l32eehckin2u",
+            "cid": "bafyreiaa2fmvmv2noqsm655jfdst5wwam2kifyl6lqpzi5iwiqaxbjewuq",
+            "author": {
+                "did": "did:plc:p7676xwi5i33zqmop6e6gcy3",
+                "handle": "caiogrio.bsky.social",
+                "displayName": "Caio da Griô 🎙️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7676xwi5i33zqmop6e6gcy3/bafkreiarqcim2go2qzzxxtjrxrexz4xlt5iv4qqbpo636ozjko4szipprm@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-14T13:50:36.314Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-31T22:53:50.196Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Episode · Caatingueira Podcast  · A Caatinga é uma região misteriosa, e esse podcast vai te ajudar a desvendar alguns enigmas. Porque com certeza o que você já viu e ouviu sobre ela é diferente do que...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidjxabuxufytolh4izl2jqymnj7gu7u274quckx3udml57w5qwdru"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 451704
+                        },
+                        "title": "#01 Que Caatinga é essa?",
+                        "uri": "https://open.spotify.com/episode/0W2d2GoEcHRRYsuqvJVm9M?si=qSmMiLWoTEG2nGt5Q5s4Iw"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://open.spotify.com/episode/0W2d2GoEcHRRYsuqvJVm9M?si=qSmMiLWoTEG2nGt5Q5s4Iw"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 293,
+                            "byteStart": 261
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidbm3xucr5waumqjd436qzyuul4zxnq3fg6vr7jg5s2j7n7bwmj5e",
+                        "uri": "at://did:plc:p7676xwi5i33zqmop6e6gcy3/app.bsky.feed.post/3l32e7y7ncq2i"
+                    },
+                    "root": {
+                        "cid": "bafyreienldh5vxcrdyh7wlqr73g4uywzjdsahkajeablku5gomhblwua6i",
+                        "uri": "at://did:plc:p7676xwi5i33zqmop6e6gcy3/app.bsky.feed.post/3l32dqo7lyr2b"
+                    }
+                },
+                "text": "Fui roteirista de um xodó de podcast o Caatingueira criação da minha amiga Pâmela, produção da Rádio Unaé. Aqui falamos dos desafios de preservação da caatinga, o mais brasileiro dos biomas e como o conhecimento ancestral das meizinheiras ajuda nisso open.spotify.com/episode/0W2d..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://open.spotify.com/episode/0W2d2GoEcHRRYsuqvJVm9M?si=qSmMiLWoTEG2nGt5Q5s4Iw",
+                    "title": "#01 Que Caatinga é essa?",
+                    "description": "Episode · Caatingueira Podcast  · A Caatinga é uma região misteriosa, e esse podcast vai te ajudar a desvendar alguns enigmas. Porque com certeza o que você já viu e ouviu sobre ela é diferente do que...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p7676xwi5i33zqmop6e6gcy3/bafkreidjxabuxufytolh4izl2jqymnj7gu7u274quckx3udml57w5qwdru@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-31T22:53:50.196Z",
+            "labels": []
+        }
+    ]
+}

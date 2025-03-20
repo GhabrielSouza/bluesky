@@ -1,0 +1,531 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3laehq5lhsx2l",
+            "cid": "bafyreia5il3zdbhz6pp6xqpiez6cszhd2ozzmjlu7b7v7yr4j23cnxfhu4",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T14:26:39.860Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aquecimento global e desmatamento estão entre os fatores que podem influenciar no aumento de frequência das secas, que afetam populações ribeirinhas, a fauna amazônica e a agricultura brasileira",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieaqenocaxegw3xmvmurdmfmxfdthyihcstj65tsukudwxoszuh7e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 370456
+                        },
+                        "title": "Seca em rios amazônicos impacta todo o território nacional",
+                        "uri": "https://is.gd/wFsaIC"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 96,
+                            "byteStart": 83
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agricultura"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 240
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 270,
+                            "byteStart": 265
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudançasclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 292,
+                            "byteStart": 271
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://is.gd/wFsaIC"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 305,
+                            "byteStart": 293
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Seca em rios amazônicos impacta todo o território nacional\n\nAquecimento global e #desmatamento estão entre os fatores que podem influenciar no aumento de frequência das secas, que afetam populações ribeirinhas, a fauna amazônica e a #agricultura brasileira \n#seca #mudançasclimáticas\nis.gd/wFsaIC"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://is.gd/wFsaIC",
+                    "title": "Seca em rios amazônicos impacta todo o território nacional",
+                    "description": "Aquecimento global e desmatamento estão entre os fatores que podem influenciar no aumento de frequência das secas, que afetam populações ribeirinhas, a fauna amazônica e a agricultura brasileira",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreieaqenocaxegw3xmvmurdmfmxfdthyihcstj65tsukudwxoszuh7e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 15,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-07T14:26:40.984Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:plxawwrjjd4ysewealtuunbe/app.bsky.feed.post/3l7weog2pwc2q",
+            "cid": "bafyreibwa2oe7eb5pl7iui3s2p3tfcqtm5fpcxx5kleemdu3gftg6jiqfy",
+            "author": {
+                "did": "did:plc:plxawwrjjd4ysewealtuunbe",
+                "handle": "yilingchild.bsky.social",
+                "displayName": "lui fascinating boy",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreifak33k26xk2wf5yznhwh3syhg7zeenngpvko6bzvawmu7bwh2xye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T00:37:47.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T23:54:44.100Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "publicação da contilnet noticias com a legenda \"duas capivaras foram flagradas acasalando nesta semana no lago da Universidade Federal do Acre (Ufac), no campus Rio Branco. As cenas viralizam e o vídeo foi enviado ao ContilNet por alunos da instituição. \"É o amor. Às vezes não importa o lugar, só a pessoa\", brincou um dos acadêmicos. O lago da Ufac é conhecido por abrigar uma gama de animais nativos da fauna amazônica. Além das capivaras, no local é possível ver jacarés, peixes e garças, que compõe a biodiversidade do lugar.\"",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 923
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 716239
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "acho q n tem nada acontecendo na cidade pq um portal de notícias SÉRIO daqui simplesmente fez coisa sobre um vídeo de duas capivaras acasalando na minha faculdade kkkkkkkk"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:plxawwrjjd4ysewealtuunbe/bafkreigbnkv5dbljpl4wigoxqxyjdqxy3kx6u334qmeky6774owddnkyfu@jpeg",
+                        "alt": "publicação da contilnet noticias com a legenda \"duas capivaras foram flagradas acasalando nesta semana no lago da Universidade Federal do Acre (Ufac), no campus Rio Branco. As cenas viralizam e o vídeo foi enviado ao ContilNet por alunos da instituição. \"É o amor. Às vezes não importa o lugar, só a pessoa\", brincou um dos acadêmicos. O lago da Ufac é conhecido por abrigar uma gama de animais nativos da fauna amazônica. Além das capivaras, no local é possível ver jacarés, peixes e garças, que compõe a biodiversidade do lugar.\"",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 923
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T23:54:46.181Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xygiqegtsl2b2angbxn6kcr6/app.bsky.feed.post/3l5ypcgvuue26",
+            "cid": "bafyreihvfpg2puuu5lvcbmazvqqxbud5drwhddap7roarbwmwlas7oum34",
+            "author": {
+                "did": "did:plc:xygiqegtsl2b2angbxn6kcr6",
+                "handle": "rosmarinnus.bsky.social",
+                "displayName": "Juriti pupu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xygiqegtsl2b2angbxn6kcr6/bafkreicgub5lxaviohjklyrshygtzv5aju7ldw6yli4oqdjcjquah34rlu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-18T23:40:14.435Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T11:19:49.558Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibd5xdkmxa4pa2vovqrg6xfiujop2nqcnqmfzichci6unnuvsotci",
+                        "uri": "at://did:plc:zwbihdxrivm5phdlku75thtb/app.bsky.feed.post/3l5yp3as4j423"
+                    },
+                    "root": {
+                        "cid": "bafyreiflgykbkj7v2wyicirqrjfxzbiuvl4yfxzujohumpv27tvq5fmlqi",
+                        "uri": "at://did:plc:xygiqegtsl2b2angbxn6kcr6/app.bsky.feed.post/3l5yoxzdigs2i"
+                    }
+                },
+                "text": "Cesaaar, com ctz devo dar um pulo no Emílio goeldi, mas tem mais alguma dica de lugar imperdível de visitar pra saber mais sobre a fauna e flora amazonica???"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T11:19:49.558Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:amdevbuzceinodilqgyofchk/app.bsky.feed.post/3l5ddi357rn2m",
+            "cid": "bafyreicsr6itwu46xao4sw6aq5nyj3staphlmko4hhr3rhz642unssnfou",
+            "author": {
+                "did": "did:plc:amdevbuzceinodilqgyofchk",
+                "handle": "eaivcsabia.bsky.social",
+                "displayName": "Eai, vc sabia ?",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreibtjc6j5shlbyy4o6ib7xuzhi7rewzoaufxbhggza4cmydghizgki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:26:18.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T23:22:19.618Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 681,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 581747
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 449,
+                                "width": 697
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 381866
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Floresta Amazônica: É o maior bioma tropical do mundo e abriga uma incrível diversidade de fauna e flora."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 681,
+                            "width": 1024
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 449,
+                            "width": 697
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T23:22:19.618Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:q7k5zfjbntixpkx2twcb25s6/app.bsky.feed.post/3l4adh6iird2x",
+            "cid": "bafyreide3tuwzvaph744unf3snulbrfpws63ynpyyapjsp2o5b4eeslb5i",
+            "author": {
+                "did": "did:plc:q7k5zfjbntixpkx2twcb25s6",
+                "handle": "ssyvies.bsky.social",
+                "displayName": "b. 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q7k5zfjbntixpkx2twcb25s6/bafkreie4j6rr6rb3vux445e6phhiveikkzrnah66xzukr75gceyvsp4rea@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:05:17.889Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T01:18:38.522Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidci3adoib4qzhqj6mo4rllkmaxvz25jvt32bqsl3seoan5hw6mry",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l4a2jhgtb62f"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "fauna e flora afirma serem a favor do desmatamento da floresta amazônica e aumento do aquecimento global"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l4a2jhgtb62f",
+                    "cid": "bafyreidci3adoib4qzhqj6mo4rllkmaxvz25jvt32bqsl3seoan5hw6mry",
+                    "author": {
+                        "did": "did:plc:ss7zmsfvuw5wwxefvz5flgbb",
+                        "handle": "poptime.space",
+                        "displayName": "POPTime",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ss7zmsfvuw5wwxefvz5flgbb/bafkreigdcdipxcn64672xeisfxavd7qifvsawwps2zp7knh7aq22umwpgu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "none"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-29T02:12:15.519Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-15T22:38:50.890Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 584
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 4451236
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "🚨 ALGUÉM SURPRESO? Jojo Todynho afirma ser mulher preta de direita."
+                    },
+                    "labels": [],
+                    "likeCount": 10537,
+                    "replyCount": 2084,
+                    "repostCount": 417,
+                    "quoteCount": 2813,
+                    "indexedAt": "2024-09-15T22:38:50.890Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ass7zmsfvuw5wwxefvz5flgbb/bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ass7zmsfvuw5wwxefvz5flgbb/bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 584
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T01:18:38.522Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dq4bsbkhxwgj7x4gc54tdstw/app.bsky.feed.post/3l44dszau6c2m",
+            "cid": "bafyreiad253jkqfklibvjjrkfospkxup4ph3crdhdb4kecqfrqvcjgbsaq",
+            "author": {
+                "did": "did:plc:dq4bsbkhxwgj7x4gc54tdstw",
+                "handle": "rjasper.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dq4bsbkhxwgj7x4gc54tdstw/bafkreihbuiyjuitjklgzetddgj5vdkskohrjxh7ahzbrwupyhj22xikt3y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:dq4bsbkhxwgj7x4gc54tdstw",
+                        "uri": "at://did:plc:dq4bsbkhxwgj7x4gc54tdstw/app.bsky.actor.profile/self",
+                        "cid": "bafyreihqvfusrftc35jkindrctbczmkgxtyityeymaht3v7x42evtd7blq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T10:24:55.529Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T10:24:55.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T11:14:35.099Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TERRORISTASINCENDIÁRIOS"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 58,
+                            "byteStart": 33
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PENASMAIORES"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 74,
+                            "byteStart": 61
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CLIMA EXTREMO X CRIMES EXTREMOS\n\n#TERRORISTASINCENDIÁRIOS \n\n#PENASMAIORES\n\n LEGISLAÇÃO NÃO AVANÇOU TANTO QUANTO  OS CRIMINOSOS \nDESOLAÇÃO, DESTRUIÇÃO FLORESTAS, PARQUES.\n\nPREJUÍZO 10.000 CAMPOS DE FUTEBOL😡\n\nA REGIÃO AMAZONICA MAIS SOFREU. \n\nFLORA E FAUNA MAIOR MORTANDADE DOS BIOMAS,  AINDA QUEIMAM!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T11:14:35.099Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3vdmzxfj42w",
+            "cid": "bafyreiaqtwvaradxrozfy45woxyz3ze7sumfdo5ujpgp6uboc2bc3buso4",
+            "author": {
+                "did": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                "handle": "yrs-pa.bsky.social",
+                "displayName": "Yago Santos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:huc54kfiozknlko7qxnj7jgz/bafkreicr2z32amzdb6b6ginoxstihjehpgfggwc56b7h3ceqjvhi6qa6ya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.actor.profile/self",
+                        "cid": "bafyreiefcbk5qmbnqo74zmglkv24kchmu2e74fxaepigzf5xxecz7vyeai",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T16:45:05.845Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T16:45:08.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:22:37.909Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibwmvcdd7425asq6kf7mghnte5gwxrx3rh4pj4vg4ky2l4tne3qtu",
+                        "uri": "at://did:plc:25uxxehnah6bcs4loe7cguml/app.bsky.feed.post/3l3vdelxxor2a"
+                    },
+                    "root": {
+                        "cid": "bafyreic4przubyg52bvcknyjgupaqmi7d3s3b3eras7pkbjb72fjbspujy",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3uom3s7wd2o"
+                    }
+                },
+                "text": "Uma pena pois em ambas você verá, povos amazônidas, música amazônica, culinária amazônica, história amazônica, arquitetura amazônica, fauna e flora amazônica…."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:22:37.909Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,1371 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:jem7ddlrlbzwlw2lmnup6etj/app.bsky.feed.post/3lasyjhvrs22x",
+            "cid": "bafyreiabqxvnyfbkjevmobjzgz7hpkplclpr6ro3fuoaltybhiwxihowga",
+            "author": {
+                "did": "did:plc:jem7ddlrlbzwlw2lmnup6etj",
+                "handle": "renildoborges.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreifujajvcdhnmbxwdnzw2luzviy2fuodljhwzib2xf4yc5xu65ahcm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T19:15:34.974Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T09:04:25.952Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "\"Abordar as mudanças climáticas é uma corrida contra o tempo, sem espaço para hesitação ou transferência de culpa\", diz o jornal chinês",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicna4afsiwx7gy4rdiusiecoz3xynaisghbjei7iq3or7qtskgpfu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 750149
+                        },
+                        "title": "Países desenvolvidos devem apoiar as ambições verdes mundiais com ações, diz editorial do Global Times",
+                        "uri": "https://www.brasil247.com/mundo/paises-desenvolvidos-devem-apoiar-as-ambicoes-verdes-mundiais-com-acoes-diz-editorial-do-global-times"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A 29ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP29) está sendo realizada de 11 a 22 de novembro em Baku, capital do Azerbaijão, trazendo de volta à agenda internacional a urgência de enfrentar as mudanças climáticas globais. A visão desta..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/mundo/paises-desenvolvidos-devem-apoiar-as-ambicoes-verdes-mundiais-com-acoes-diz-editorial-do-global-times",
+                    "title": "Países desenvolvidos devem apoiar as ambições verdes mundiais com ações, diz editorial do Global Times",
+                    "description": "\"Abordar as mudanças climáticas é uma corrida contra o tempo, sem espaço para hesitação ou transferência de culpa\", diz o jornal chinês",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreicna4afsiwx7gy4rdiusiecoz3xynaisghbjei7iq3or7qtskgpfu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T09:04:30.591Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dlz4o3l4be5tcqta2vwkqct5/app.bsky.feed.post/3lasdgdbn622p",
+            "cid": "bafyreihxswhnne4ixahxgsijcww5d35vh7lba3xdtxqrx5jxvvcbokbtjm",
+            "author": {
+                "did": "did:plc:dlz4o3l4be5tcqta2vwkqct5",
+                "handle": "jsouza314.bsky.social",
+                "displayName": "À Miséria Humana 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlz4o3l4be5tcqta2vwkqct5/bafkreigmb4ytjbi4njmst3qfcy3dylzshczo6rdzlbvmmmjffs6zj3vpgi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:48:55.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T02:46:51.852Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihg2nud2ade5jfft2m63mr4tesxnlw6vichtgxtaynd6iihg2znaq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 91128
+                        },
+                        "title": "'Estamos a caminho de um suicídio planetário', alerta climatologista Carlos Nobre",
+                        "uri": "https://www.jb.com.br/brasil/meio-ambiente/2024/11/1052899-estamos-a-caminho-de-um-suicidio-planetario-alerta-climatologista-carlos-nobre.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jb.com.br/brasil/meio-ambiente/2024/11/1052899-estamos-a-caminho-de-um-suicidio-planetario-alerta-climatologista-carlos-nobre.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "... climatologista Carlos Nobre, referência mundial sobre o tema, considera insuficientes as propostas apresentadas até agora pelos países na 29ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (COP29)...\n\nwww.jb.com.br/brasil/meio-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.jb.com.br/brasil/meio-ambiente/2024/11/1052899-estamos-a-caminho-de-um-suicidio-planetario-alerta-climatologista-carlos-nobre.html",
+                    "title": "'Estamos a caminho de um suicídio planetário', alerta climatologista Carlos Nobre",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dlz4o3l4be5tcqta2vwkqct5/bafkreihg2nud2ade5jfft2m63mr4tesxnlw6vichtgxtaynd6iihg2znaq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-13T02:46:56.084Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3larg6v5q5k2i",
+            "cid": "bafyreib6zpktwrijumo6x65gsfovylbwl4ystfvww52fdm2zp7pi3elrkm",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T18:03:43.652Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigcks62dpp522ylecpjjl5p4wx5r5ae53df6flg7so37slrxbciye"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 599424
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/Sy40G"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 311,
+                            "byteStart": 291
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅O climatologista Carlos Nobre, referência mundial sobre o tema, considera insuficientes as propostas apresentadas até agora pelos países na 29ª Conferência das Partes da Convenção-Quadro da ONU sobre Mudanças Climáticas (COP29), q está sendo realizada em Baku, no Azerbaijão.\n\ntrk.ebc.com.br/Sy40G."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigcks62dpp522ylecpjjl5p4wx5r5ae53df6flg7so37slrxbciye@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigcks62dpp522ylecpjjl5p4wx5r5ae53df6flg7so37slrxbciye@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T18:03:49.487Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dk644jtqur3mvxphdwuawi25/app.bsky.feed.post/3laqwzbhtgk26",
+            "cid": "bafyreidvo2ad4lzi4iodawcu2tz4g4bwuawhvag4wkuklackhaalgal53i",
+            "author": {
+                "did": "did:plc:dk644jtqur3mvxphdwuawi25",
+                "handle": "marcianobrito.bsky.social",
+                "displayName": "Marciano Brito",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dk644jtqur3mvxphdwuawi25/bafkreihuq47vuhxego5rladypruflerdljmjbbsavnjalq7zwqdr7y63fq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:39:21.361Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T13:32:09.115Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Para Carlos Nobre, é preciso começar a debater o risco de termos um planeta chegando até a 2,5 graus em 2050. \"A COP29 tem que ser desafiadora\"",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibeq5vmgbi3zch5tgukch6w4pkejpfjwifdahvj2qni2rpbgqsovi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 977210
+                        },
+                        "title": "“Estamos a caminho de um suicídio planetário”, diz climatologista",
+                        "uri": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/estamos-caminho-de-um-suicidio-planetario-diz-climatologista"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreic6rpit2dugysfpdlrqjcdwantgminhqrny3bohjxpuxy3s7um7qa",
+                        "uri": "at://did:plc:dk644jtqur3mvxphdwuawi25/app.bsky.feed.post/3laqwucc3gk26"
+                    },
+                    "root": {
+                        "cid": "bafyreic6rpit2dugysfpdlrqjcdwantgminhqrny3bohjxpuxy3s7um7qa",
+                        "uri": "at://did:plc:dk644jtqur3mvxphdwuawi25/app.bsky.feed.post/3laqwucc3gk26"
+                    }
+                },
+                "text": "“Estamos a caminho de um suicídio planetário”, diz climatologista\nCarlos Nobre considera insuficientes as propostas apresentadas até agora pelos países na 29ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudanças Climáticas (COP29), q está sendo realizada em Baku, no Azerbaijão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/estamos-caminho-de-um-suicidio-planetario-diz-climatologista",
+                    "title": "“Estamos a caminho de um suicídio planetário”, diz climatologista",
+                    "description": "Para Carlos Nobre, é preciso começar a debater o risco de termos um planeta chegando até a 2,5 graus em 2050. \"A COP29 tem que ser desafiadora\"",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dk644jtqur3mvxphdwuawi25/bafkreibeq5vmgbi3zch5tgukch6w4pkejpfjwifdahvj2qni2rpbgqsovi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T13:32:18.417Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:x6w75g4fxmcl56xqrju2uahb/app.bsky.feed.post/3lapfnd6bzx2d",
+            "cid": "bafyreihfzjhwruqyxmabiv4x7cbgofs3rjva2fof6sx5qrramiqia5ojsa",
+            "author": {
+                "did": "did:plc:x6w75g4fxmcl56xqrju2uahb",
+                "handle": "minpovosindigenas.bsky.social",
+                "displayName": "Ministério dos Povos Indígenas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreify6njawaufgj7fne4hpryj6vv4gnjtu72gtanqnq43hrwdkh2qsu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T17:19:52.238Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-11T22:48:31.777Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1999,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibfsdcenag5fhqkd6kwv6mm5ccxtvazrcm6jpecvuuxcxo472o74q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 833001
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌍 🌱 O MINISTÉRIO DOS POVOS INDÍGENAS ESTÁ NA COP 29!\n\nA 29ª Conferência das Partes (COP29) da Convenção-Quadro das Nações Unidas sobre Mudanças do Clima (UNFCCC) começa hoje, em Baku, Azerbaijão."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreibfsdcenag5fhqkd6kwv6mm5ccxtvazrcm6jpecvuuxcxo472o74q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreibfsdcenag5fhqkd6kwv6mm5ccxtvazrcm6jpecvuuxcxo472o74q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1999,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-11T22:48:35.506Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:grldyvgqlohx7ngay554snne/app.bsky.feed.post/3l7e4rd25qx2w",
+            "cid": "bafyreiacoab4wedmt5qhuz3yc6mnixbbes5i4ryafv7lwet5gfs75wcn4y",
+            "author": {
+                "did": "did:plc:grldyvgqlohx7ngay554snne",
+                "handle": "meioambientegov.bsky.social",
+                "displayName": "Ministério do Meio Ambiente e Mudança do Clima",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:grldyvgqlohx7ngay554snne/bafkreidjb3wrfz4iyft4em34wdyyxqrctexwngdtsvnugaprcsh3s7wpp4@jpeg",
+                "labels": [],
+                "createdAt": "2023-05-09T18:59:36.408Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-25T17:45:05.675Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiermozphfhq5d67bjiyt6gyf43kr6fgc7jvys7e7clmjemkxandfe",
+                        "uri": "at://did:plc:grldyvgqlohx7ngay554snne/app.bsky.feed.post/3l7e4r63h4h2a"
+                    },
+                    "root": {
+                        "cid": "bafyreibta62ikpoghpgqbr2w3ynw4th7unxhvxkvqumqdcbgkbr2eekbo4",
+                        "uri": "at://did:plc:grldyvgqlohx7ngay554snne/app.bsky.feed.post/3l7e4qoag272w"
+                    }
+                },
+                "text": "A resolução não vinculante apresentada por Brasil, França e Peru foi aprovada durante a 12ª Conferência das Partes (COP) da convenção. O documento também demanda que as nações garantam assistência e proteção para testemunhas e vítimas de crimes ambientais."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-25T17:45:05.675Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3l7durtyvvd2a",
+            "cid": "bafyreibideqm2e3pbzk6lwpum7jjeczgvvdl5s5f7pbdjr7ddgeqivtkf4",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-25T15:22:24.091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 311,
+                                "width": 744
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid4xdmie7ht4quadhzf4hebzhzgyq4kecg5meoor2qgu6i7xoqd4u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 188728
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅ Uma carta aberta assinada por 154 organizações sociais brasileiras foi entregue à delegação oficial que representará o país na tomada de decisões da 16ª edição da Conferência das Partes da Convenção da ONU sobre Diversidade Biológica (COP16), em Cali, na Colômbia. 👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreid4xdmie7ht4quadhzf4hebzhzgyq4kecg5meoor2qgu6i7xoqd4u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreid4xdmie7ht4quadhzf4hebzhzgyq4kecg5meoor2qgu6i7xoqd4u@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 311,
+                            "width": 744
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-25T15:22:24.091Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l76ko44tq62q",
+            "cid": "bafyreichqzq4xf2ejjcxebwo7dlwfsmsdvmcfs7lv7v5jsjtkhfypwkwey",
+            "author": {
+                "did": "did:plc:moxr5wj3u5rwf25vgcemftvp",
+                "handle": "mbf.net.br",
+                "displayName": "Mateus BF",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreia22yw3ziniuxxuecewu7tvcxcce7k42n4oatcdxykz6yes2crsu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T10:34:42.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-23T12:38:02.404Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Espaço Brasil COP 16 - 23/10 - Manhã: Clima e Biodiversidade\n\nTransmissão da programação do Pavilhão Brasil na 16ª Conferência das Partes (COP16) da Convenção sobre Diversidade Biológica (CDB), na cidade de Cali, na Colômbia. A COP da CDB é realizada a cada dois anos e é o principal fórum internacional para buscar a cooperação pela conservação e o uso sustentável da biodiversidade. O Pavilhão Brasil recebe 35 eventos de 21 a 31 de outubro, todos com transmissão ao vivo no canal do MMA (Ministério do Meio Ambiente e Mudança do Clima). Serão realizadas discussões, apresentações, workshops e lançamento de políticas públicas e iniciativas do governo federal e outras instituições, como o setor financeiro, organizações da sociedade civil, governos subnacionais e empresas.\n\n3° DIA (23/10/24)  Clima e Biodiversidade\n \n• 11h00 (Horário de Brasília): Conectando agendas: Rumo à integração das convenções de clima e biodiversidade. Organização: DOCEANO/SMC/MMA\n\n• 13h00 (Horário de Brasília): Promovendo ações climáticas baseadas no oceano em NBSAPS e NDCS: Desafios e oportunidades para a América Latina. Organização: DOCEANO/SMC/MMA\n\n\n",
+                                "aspectRatio": {
+                                    "height": 2000,
+                                    "width": 979
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreid2vstdki6svntpz5e6yb2i3dhwnaahcaaqf77xspfgrqexqkhyem"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 682906
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreibfxjenbww6loweoayzrv7n4r4765a55rfexave6ukzvjxw7h57ny",
+                            "uri": "at://did:plc:42kiichdlgiltngurnxsuujc/app.bsky.feed.post/3l75cuhl7m42g"
+                        }
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bioeiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 17,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:42kiichdlgiltngurnxsuujc"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 217,
+                            "byteStart": 196
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP16"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 329,
+                            "byteStart": 323
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibihpacethttchbknhxvamddmqph4vwy35fpxceyo3vavvisnebkm",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l6zo5z2fmx2b"
+                    },
+                    "root": {
+                        "cid": "bafyreid7i6p2t2anct2gfkz2hot3nsfu2yhreehfd3rcgw55d6kfp5ifbq",
+                        "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l6xqwsftgp2m"
+                    }
+                },
+                "text": "[ #bioeiversidade: QUERO ACOMPANHAR ONLINE]\n\n🌞🌊nada como um clima de mar biodiverso, né?\nℹ️111 milhões (55%) de pessoas vivem a até 150km da costa🇧🇷\n\nSe vc é+1\n1️⃣siga👉 @drilippi.bsky.social\n2️⃣aproveita q estamos na Década do Oceano pra juntar o agradável ao útil: tem 2 painéis HOJE na #COP16 sobre isso👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreid2vstdki6svntpz5e6yb2i3dhwnaahcaaqf77xspfgrqexqkhyem@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreid2vstdki6svntpz5e6yb2i3dhwnaahcaaqf77xspfgrqexqkhyem@jpeg",
+                            "alt": "Espaço Brasil COP 16 - 23/10 - Manhã: Clima e Biodiversidade\n\nTransmissão da programação do Pavilhão Brasil na 16ª Conferência das Partes (COP16) da Convenção sobre Diversidade Biológica (CDB), na cidade de Cali, na Colômbia. A COP da CDB é realizada a cada dois anos e é o principal fórum internacional para buscar a cooperação pela conservação e o uso sustentável da biodiversidade. O Pavilhão Brasil recebe 35 eventos de 21 a 31 de outubro, todos com transmissão ao vivo no canal do MMA (Ministério do Meio Ambiente e Mudança do Clima). Serão realizadas discussões, apresentações, workshops e lançamento de políticas públicas e iniciativas do governo federal e outras instituições, como o setor financeiro, organizações da sociedade civil, governos subnacionais e empresas.\n\n3° DIA (23/10/24)  Clima e Biodiversidade\n \n• 11h00 (Horário de Brasília): Conectando agendas: Rumo à integração das convenções de clima e biodiversidade. Organização: DOCEANO/SMC/MMA\n\n• 13h00 (Horário de Brasília): Promovendo ações climáticas baseadas no oceano em NBSAPS e NDCS: Desafios e oportunidades para a América Latina. Organização: DOCEANO/SMC/MMA\n\n\n",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 979
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:42kiichdlgiltngurnxsuujc/app.bsky.feed.post/3l75cuhl7m42g",
+                        "cid": "bafyreibfxjenbww6loweoayzrv7n4r4765a55rfexave6ukzvjxw7h57ny",
+                        "author": {
+                            "did": "did:plc:42kiichdlgiltngurnxsuujc",
+                            "handle": "drilippi.bsky.social",
+                            "displayName": "Adriana Lippi",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:42kiichdlgiltngurnxsuujc/bafkreigm3plubwjtsagfrgdfi5sqhy5guxm6hsb3kobksxdexqbbjyj2oi@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-05-08T11:17:39.815Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-10-23T00:45:46.212Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.record",
+                                "record": {
+                                    "cid": "bafyreifrjiqor3n4g2yyszs4q2d2ubc7wtuggdxpmiucmoxwxshqkv6d34",
+                                    "uri": "at://did:plc:u3qtwr3xni67et44ip5vov2z/app.bsky.feed.post/3l75bgm2ubb2r"
+                                }
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Uma das soluções baseadas na Natureza é a restauração de ecossistemas costeiros. Alguns deles (como manguezais) tem uma capacidade enorme de armazenar carbono\n\nMas a ciência sobre esses ecossistemas ainda n sabe o suficiente pra determinar o qto esses ecossistemas tem de capacidade \n+"
+                        },
+                        "labels": [],
+                        "likeCount": 90,
+                        "replyCount": 1,
+                        "repostCount": 23,
+                        "quoteCount": 1,
+                        "indexedAt": "2024-10-23T00:45:46.212Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.record#view",
+                                "record": {
+                                    "$type": "app.bsky.embed.record#viewRecord",
+                                    "uri": "at://did:plc:u3qtwr3xni67et44ip5vov2z/app.bsky.feed.post/3l75bgm2ubb2r",
+                                    "cid": "bafyreifrjiqor3n4g2yyszs4q2d2ubc7wtuggdxpmiucmoxwxshqkv6d34",
+                                    "author": {
+                                        "did": "did:plc:u3qtwr3xni67et44ip5vov2z",
+                                        "handle": "katharinehayhoe.com",
+                                        "displayName": "Katharine Hayhoe",
+                                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u3qtwr3xni67et44ip5vov2z/bafkreieo5pfkofpj5hibfjv3j25dvaoorcrcnn665gyormvezugi3bpney@jpeg",
+                                        "associated": {
+                                            "chat": {
+                                                "allowIncoming": "following"
+                                            }
+                                        },
+                                        "labels": [],
+                                        "createdAt": "2023-07-01T16:33:48.541Z"
+                                    },
+                                    "value": {
+                                        "$type": "app.bsky.feed.post",
+                                        "createdAt": "2024-10-23T00:20:07.303Z",
+                                        "embed": {
+                                            "$type": "app.bsky.embed.external",
+                                            "external": {
+                                                "description": "When a huge tract of land on the Somerset coast was deliberately flooded, the project was slammed as “ridiculous” by a local lawmaker. But the results have been transformative.",
+                                                "thumb": {
+                                                    "$type": "blob",
+                                                    "ref": {
+                                                        "$link": "bafkreigr3fm5ywkfz5ftm6z3r7reaoheaovib55x5bkly7r5tgu57pqjje"
+                                                    },
+                                                    "mimeType": "image/jpeg",
+                                                    "size": 417321
+                                                },
+                                                "title": "A Radical Approach to Flooding in the UK: Give Land Back to the Sea",
+                                                "uri": "https://www.nytimes.com/2024/10/22/world/europe/uk-steart-marshes-carbon-climate-change-flooding.html"
+                                            }
+                                        },
+                                        "langs": [
+                                            "en"
+                                        ],
+                                        "text": "Natural climate solutions can take up carbon ... and enhance biodiversity, filter water, protect coastlines and more. They don't require energy and the costs of setting them up are quite reasonable compared to current technological carbon capture options.\n\nDiving a bit deeper into the science ..."
+                                    },
+                                    "labels": [],
+                                    "likeCount": 189,
+                                    "replyCount": 4,
+                                    "repostCount": 33,
+                                    "quoteCount": 2,
+                                    "indexedAt": "2024-10-23T00:20:07.303Z"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-23T12:38:02.404Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l76fak5xzc2s",
+            "cid": "bafyreiaza4l4e5clmqpjo7p5kdznewn7rnxwdn7tz7yvy3kt6q4ns56fby",
+            "author": {
+                "did": "did:plc:eijtg7fkchas6niyv3uo44xb",
+                "handle": "bibianamaia.bsky.social",
+                "displayName": "Bibiana Maia da Silva 🌻",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eijtg7fkchas6niyv3uo44xb/bafkreiaiuqlfiv6nht5mpj2fsjkuwugupcgbpt2gywyn5vkty2qkjwyjju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:29:32.380Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-23T11:00:59.959Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibzw7c4jyido3c5iyfrkcpv3xjog3ulbzntrbglg46ngkk3lpgqca",
+                        "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l76f65mmsj2g"
+                    },
+                    "root": {
+                        "cid": "bafyreih4642m37b7f73pimdlk4ibl7smiodurjq37lxhbg6g6jsmwstmp4",
+                        "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l76ewv44na2k"
+                    }
+                },
+                "text": "No Grupo 2, há muitas pautas relacionadas com a Convenção sobre Diversidade Biológica. A CBD é o tratado da Organização das Nações Unidas assinado durante a ECO 92, no Rio de Janeiro. A partir dela nasce a Conferência das Partes, que está na 16 edição - essa da Colômbia, sobre a qual estamos falando"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-23T11:00:59.110Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:x6w75g4fxmcl56xqrju2uahb/app.bsky.feed.post/3l72hw6lx442a",
+            "cid": "bafyreia3xyickdb3lsqojnso64qlwytevqatjpfj3zhymo7nnsnvin74ba",
+            "author": {
+                "did": "did:plc:x6w75g4fxmcl56xqrju2uahb",
+                "handle": "minpovosindigenas.bsky.social",
+                "displayName": "Ministério dos Povos Indígenas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreify6njawaufgj7fne4hpryj6vv4gnjtu72gtanqnq43hrwdkh2qsu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T17:19:52.238Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T21:38:13.031Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1081,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicjbwm7pijqlolqxsnihyiokalbeiy36phcqzbkxavcgm32xynwzq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 322279
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1081,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia2qfzbhauvxb2o4mbowm7ixrxzvskvgh5ak7oeol5z2xgz3tckvi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 318338
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1081,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiciaw7gpsluf4rahgrndx6vuhz2csrwfwszp7ovo6rft4nvduwf24"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 975463
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1081,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihhswjvyanna76qyjntzvk7aucn23cphvd6rgwjopcu6czctugqqi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 959072
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "📅 A partir desta segunda-feira, todos os olhos estarão voltados para Cali, na Colômbia, onde é realizada 16ª Conferência das Partes da Convenção das Nações Unidas sobre Diversidade Biológica, a COP 16."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreicjbwm7pijqlolqxsnihyiokalbeiy36phcqzbkxavcgm32xynwzq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreicjbwm7pijqlolqxsnihyiokalbeiy36phcqzbkxavcgm32xynwzq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1081,
+                            "width": 1081
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreia2qfzbhauvxb2o4mbowm7ixrxzvskvgh5ak7oeol5z2xgz3tckvi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreia2qfzbhauvxb2o4mbowm7ixrxzvskvgh5ak7oeol5z2xgz3tckvi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1081,
+                            "width": 1081
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreiciaw7gpsluf4rahgrndx6vuhz2csrwfwszp7ovo6rft4nvduwf24@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreiciaw7gpsluf4rahgrndx6vuhz2csrwfwszp7ovo6rft4nvduwf24@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1081,
+                            "width": 1081
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreihhswjvyanna76qyjntzvk7aucn23cphvd6rgwjopcu6czctugqqi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreihhswjvyanna76qyjntzvk7aucn23cphvd6rgwjopcu6czctugqqi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1081,
+                            "width": 1081
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 12,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-21T21:38:13.031Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l72baelvnw2a",
+            "cid": "bafyreihx2idx5bzvxpwoznzqdh64dtywmrseu43mpkboq2x5gz2sqk7uny",
+            "author": {
+                "did": "did:plc:bmrap76m3sje4l2ydpnlns6b",
+                "handle": "justicaglobal.bsky.social",
+                "displayName": "Justiça Global",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreih65qufsipphawcxxynbugoxepyatpnsilxqcu7abdi3drzmdtodq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-30T20:27:17.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T19:38:37.499Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Texto: COP-16 da Biodiversidade: evento na Colômbia debate caminhos para a preservação da vida e de um meio ambiente equilibrado.\n\nImagem: Um jovem com o rosto desfocado exibe um broche da cop-16.\n",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie3k7efvrqytkkybt6h3phrowm2mlskxzxtvjuimts6elnh5ogvoy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 629588
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Começa nesta segunda-feira (21) a 16ª edição da Conferência das Partes da Convenção das Nações Unidas sobre Diversidade Biológica (COP-16). O tema deste ano é a Paz com a Natureza. O encontro será realizado em Cali, na Colômbia e vai até o dia 01 de novembro."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreie3k7efvrqytkkybt6h3phrowm2mlskxzxtvjuimts6elnh5ogvoy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreie3k7efvrqytkkybt6h3phrowm2mlskxzxtvjuimts6elnh5ogvoy@jpeg",
+                        "alt": "Texto: COP-16 da Biodiversidade: evento na Colômbia debate caminhos para a preservação da vida e de um meio ambiente equilibrado.\n\nImagem: Um jovem com o rosto desfocado exibe um broche da cop-16.\n",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 9,
+            "quoteCount": 2,
+            "indexedAt": "2024-10-21T19:38:37.499Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l725mebonf2y",
+            "cid": "bafyreidkaeghka2sb7ew6t2cbwx3spaimynnpegbpzcapkxb7gwod7rbte",
+            "author": {
+                "did": "did:plc:m2z2svsvien232llzw55xlwd",
+                "handle": "handle.invalid",
+                "displayName": "Plataforma CIPÓ ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreid73xx6il35dtudbgal4jadeif2wfp3ct3kzdqzoj2fmyuwupsl4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T02:56:12.101Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T18:33:46.357Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigvdef7vurwqhhn63hxry7i4hh5jhpqgi5o3lrtb5gw3zfg7irzkq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 361842
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie77rxm7e5qopiafgrpc2vvutjhtmms7f6bkth2fndhdc7hb5weca"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 897410
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": " CIPÓ na COP16!🌎🚀\n\nMarília Closs, coordenadora de projetos da organização, chegou hoje à 16ª Conferência das Partes da Convenção da ONU sobre Diversidade Biológica 🌱, que acontece de 21 de outubro a 1º de novembro de 2024, na Colômbia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreigvdef7vurwqhhn63hxry7i4hh5jhpqgi5o3lrtb5gw3zfg7irzkq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreigvdef7vurwqhhn63hxry7i4hh5jhpqgi5o3lrtb5gw3zfg7irzkq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1600
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreie77rxm7e5qopiafgrpc2vvutjhtmms7f6bkth2fndhdc7hb5weca@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreie77rxm7e5qopiafgrpc2vvutjhtmms7f6bkth2fndhdc7hb5weca@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-21T18:33:46.357Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:25vahvfq4fk5y4f6b7nf6ruv/app.bsky.feed.post/3l6xrfqpg5y24",
+            "cid": "bafyreicqiukww5zlpiywgsbob4zi5upyy4k43qcbxiqcvchrqcr34f3b3a",
+            "author": {
+                "did": "did:plc:25vahvfq4fk5y4f6b7nf6ruv",
+                "handle": "brasilfato.bsky.social",
+                "displayName": "Brasil de Fato",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:25vahvfq4fk5y4f6b7nf6ruv/bafkreibbogats7g3deq7mah7mtvi2aouwygnrsgqnwyqtplwmmpja3truu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T19:18:56.577Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T19:49:59.561Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BrasildeFato"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 250
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bdf.onl/f/BcKT"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 269
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A 16ª edição da Conferência das Partes da Convenção das Nações Unidas sobre Diversidade Biológica (COP-16) começa na segunda-feira (21) em Cali, na Colômbia. O encontro ocorre até o dia 1ª de novembro e traz o tema \"Paz com a Natureza.\n\n#BrasildeFato 📲 bdf.onl/f/BcKT"
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T19:49:59.561Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:moxr5wj3u5rwf25vgcemftvp/app.bsky.feed.post/3l6xqwsftgp2m",
+            "cid": "bafyreid7i6p2t2anct2gfkz2hot3nsfu2yhreehfd3rcgw55d6kfp5ifbq",
+            "author": {
+                "did": "did:plc:moxr5wj3u5rwf25vgcemftvp",
+                "handle": "mbf.net.br",
+                "displayName": "Mateus BF",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreia22yw3ziniuxxuecewu7tvcxcce7k42n4oatcdxykz6yes2crsu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T10:34:42.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T19:41:38.289Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Logomarca da COP16, com o lema: \"Paz con la Naturaleza\"\n\n16ª reunião da Conferência das Partes da Convenção sobre Diversidade Biológica (CDB)\n21 de outubro a 1º de novembro de 2024 - Cali, Colômbia",
+                            "aspectRatio": {
+                                "height": 200,
+                                "width": 356
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreictjcfkrlz4eyymvirnix3qowmndbbic7fkviexdk2qiwmfnnoi3q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 41520
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 17,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP16"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 232,
+                            "byteStart": 226
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "[ #biodiversidade: VAI COMEÇAR +1 COP]\n\nCáli, na Colômbia🇨🇴, foi uma das cidades q + sofreu com a violência das máfias na década de 1990\nE venceu!\n\nNão à toa, Cáli será a capital mundial da Biodiversidade e da #COP16 com o lema: \"Paz com a Natureza\"\n\nE EU COM ISSO?\nBora descobrir nos próximos dias\n🧶👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreictjcfkrlz4eyymvirnix3qowmndbbic7fkviexdk2qiwmfnnoi3q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:moxr5wj3u5rwf25vgcemftvp/bafkreictjcfkrlz4eyymvirnix3qowmndbbic7fkviexdk2qiwmfnnoi3q@jpeg",
+                        "alt": "Logomarca da COP16, com o lema: \"Paz con la Naturaleza\"\n\n16ª reunião da Conferência das Partes da Convenção sobre Diversidade Biológica (CDB)\n21 de outubro a 1º de novembro de 2024 - Cali, Colômbia",
+                        "aspectRatio": {
+                            "height": 200,
+                            "width": 356
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 11,
+            "likeCount": 38,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-20T19:41:38.289Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l6ssxrhsgi2r",
+            "cid": "bafyreibdipzf24pzjnocs3mw6dg4xkohcquty4izyz7lzouswyaheuj3q4",
+            "author": {
+                "did": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                "handle": "yrs-pa.bsky.social",
+                "displayName": "Yago Santos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:huc54kfiozknlko7qxnj7jgz/bafkreicr2z32amzdb6b6ginoxstihjehpgfggwc56b7h3ceqjvhi6qa6ya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.actor.profile/self",
+                        "cid": "bafyreiefcbk5qmbnqo74zmglkv24kchmu2e74fxaepigzf5xxecz7vyeai",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T16:45:05.845Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T16:45:08.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-18T20:34:40.020Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih4gfqaaep2luxc25bq7jjkmdlidmd3by74cj7qyrbib553k3v2pm",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l6ssw57owe2z"
+                    },
+                    "root": {
+                        "cid": "bafyreihy4luok4dstjb6zfhluphewutlxd25t3qrx4qhfirweeaavnjv5m",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l6ssuhpsik2l"
+                    }
+                },
+                "text": "•\tA Convenção-Quadro das Nações Unidas sobre a Mudança do Clima (UNFCCC).\nEssas convenções são as que tem reuniões conhecidas como COP. Conferência das partes, mas com a sigla em inglês. Supostamente eram pra acontecer anualmente, mas acabou que só a do clima continuou a ter edições anuais"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-18T20:34:40.020Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5djxflp5bkokgykn5z3l4zfn/app.bsky.feed.post/3l4cvrdqzvl2w",
+            "cid": "bafyreichaswdup6ppmmkpi4r26jpzspjufi6lgvnn5qkttckcnen2jgrom",
+            "author": {
+                "did": "did:plc:5djxflp5bkokgykn5z3l4zfn",
+                "handle": "sarahblue.bsky.social",
+                "displayName": "Sarah שרה",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5djxflp5bkokgykn5z3l4zfn/bafkreienm7dgblmryyf4y4gpcmesw7rb6dme3iwawkn4f7pi5i7du45h54@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5djxflp5bkokgykn5z3l4zfn",
+                        "uri": "at://did:plc:5djxflp5bkokgykn5z3l4zfn/app.bsky.actor.profile/self",
+                        "cid": "bafyreiarioai6bxrhqaxqhj5yq6vpqrmqstf6vfnnvnzq332bqi3wnrigy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-30T07:20:26.966Z"
+                    }
+                ],
+                "createdAt": "2024-08-30T07:20:28.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T01:51:46.316Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih2f6h4rvedboikustpf6mxg5roszw2hp3l64aaaz7mljbn6ebnca",
+                        "uri": "at://did:plc:skr57gg2odoga4jevnp3xzc2/app.bsky.feed.post/3l4cv5fpi6y26"
+                    },
+                    "root": {
+                        "cid": "bafyreihk24zivrrkpthaxyq4yp5r4g7l4jcabp7jaidr6ui3k4gfwzz6s4",
+                        "uri": "at://did:plc:5djxflp5bkokgykn5z3l4zfn/app.bsky.feed.post/3l4bosvbe2x2y"
+                    }
+                },
+                "text": "Não fala besteira, o Brasil é signatário da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC) e participa das negociações e compromissos internacionais relacionados ao clima, incluindo a Conferência das Partes (COP) e outras iniciativas globais."
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T01:51:46.316Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:55d32j323imaca55f3llorrj/app.bsky.feed.post/3l4btisu5st22",
+            "cid": "bafyreiaegasas366s2sziak4n2hpyrh7zov4qy6jnatz3ybj4znz74x4mi",
+            "author": {
+                "did": "did:plc:55d32j323imaca55f3llorrj",
+                "handle": "matosra.bsky.social",
+                "displayName": "Rogério A. Matos🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:55d32j323imaca55f3llorrj/bafkreid2i5tqo7qw26q5v4kfqi5fby2eqmrrhyc3juycvtdtkrqwxliuqi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-01T12:10:13.247Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T15:38:33.026Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreic4netpm3irvxw6cv2bn6yh5v2qm4dfl23rodqvg5z344vp745whe",
+                        "uri": "at://did:plc:rns4u2ydac6xacx65rlbiip4/app.bsky.feed.post/3l43d3tw6622m"
+                    },
+                    "root": {
+                        "cid": "bafyreic4netpm3irvxw6cv2bn6yh5v2qm4dfl23rodqvg5z344vp745whe",
+                        "uri": "at://did:plc:rns4u2ydac6xacx65rlbiip4/app.bsky.feed.post/3l43d3tw6622m"
+                    }
+                },
+                "text": "Acho que tem de tudo um pouco: a seca está muito pior que nos últimos anos, incêndios irresponsáveis para limpeza de pastagens/plantações e incêndios criminosos com o objetivo de desmoralizar o presidente na Conferência das Partes da Convenção - Quadro das Nações Unidas sobre Mudança do Clima COP30."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T15:38:33.026Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:avno54rfihb7s56pi7lg4je5/app.bsky.feed.post/3l43xuctpg22y",
+            "cid": "bafyreihiqjvrqwra6go6f42r4fpj7ckyp4ubhl4mnmlekjimg6vqkiyshi",
+            "author": {
+                "did": "did:plc:avno54rfihb7s56pi7lg4je5",
+                "handle": "ricardomatos50.bsky.social",
+                "displayName": "Ricardo Matos / Zotam2",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:avno54rfihb7s56pi7lg4je5/bafkreihsczdfrwy3kb2gpswwzdgpbsnerqsmf4djii2ntat4shfcapb7sm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T07:43:49.568Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T07:40:31.370Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiespx42fkv4akdirnuyo2pzrfd3spxt4b42mnehk4ki5wfnggz5vm",
+                        "uri": "at://did:plc:wx7vbeyhzjh3q546ajdxjolw/app.bsky.feed.post/3l42wyqruxv26"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tá obvio, desde o início, que isso foi coisa \"orquestrada\" por grileiros antecipando a COP 30, em 2025. A COP 30ª é Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima, que será realizada em Belém, entre 10 e 21 de novembro de 2025.\nGrilagem é crime contra o estado!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:wx7vbeyhzjh3q546ajdxjolw/app.bsky.feed.post/3l42wyqruxv26",
+                    "cid": "bafyreiespx42fkv4akdirnuyo2pzrfd3spxt4b42mnehk4ki5wfnggz5vm",
+                    "author": {
+                        "did": "did:plc:wx7vbeyhzjh3q546ajdxjolw",
+                        "handle": "dcmonline.bsky.social",
+                        "displayName": "Diário do Centro do Mundo",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wx7vbeyhzjh3q546ajdxjolw/bafkreiexh76dtg7j26jm5a2fyobpim4rew24ktffqcnevsbb2nep7zv4oi@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-12T18:00:48.852Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-13T21:52:31.149Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "A Polícia Federal identificou indícios de “ações coordenadas” nos incêndios ambientais que ocorrem no país, segundo o diretor de Meio Ambiente da corporação, Humberto Freire. Ele afirma que algumas qu...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreigdgjoaky3paf7jkxxfte4utqtgtdmmprxmrq6gnvzarv3jl7tr3a"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 266133
+                                },
+                                "title": "PF vê indícios de \"ações coordenadas\" em incêndios e tenta identificar criminosos",
+                                "uri": "https://www.diariodocentrodomundo.com.br/pf-ve-indicios-de-acoes-coordenadas-em-incendios-e-tenta-identificar-criminosos/"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "PF vê indícios de “ações coordenadas” em incêndios e tenta identificar criminosos"
+                    },
+                    "labels": [],
+                    "likeCount": 290,
+                    "replyCount": 17,
+                    "repostCount": 104,
+                    "quoteCount": 13,
+                    "indexedAt": "2024-09-13T21:52:31.149Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.diariodocentrodomundo.com.br/pf-ve-indicios-de-acoes-coordenadas-em-incendios-e-tenta-identificar-criminosos/",
+                                "title": "PF vê indícios de \"ações coordenadas\" em incêndios e tenta identificar criminosos",
+                                "description": "A Polícia Federal identificou indícios de “ações coordenadas” nos incêndios ambientais que ocorrem no país, segundo o diretor de Meio Ambiente da corporação, Humberto Freire. Ele afirma que algumas qu...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wx7vbeyhzjh3q546ajdxjolw/bafkreigdgjoaky3paf7jkxxfte4utqtgtdmmprxmrq6gnvzarv3jl7tr3a@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T07:40:31.370Z",
+            "labels": []
+        }
+    ]
+}

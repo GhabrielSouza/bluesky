@@ -1,0 +1,3607 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:4mwbrothhihg6364t3y6tmzr/app.bsky.feed.post/3lcbdv5r4x22w",
+            "cid": "bafyreifpqwqdo4twz2k43hfnyo6honexjrg2pd3nyeunfp3ihrywwioloy",
+            "author": {
+                "did": "did:plc:4mwbrothhihg6364t3y6tmzr",
+                "handle": "caralbe.bsky.social",
+                "displayName": "",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T21:52:54.443Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T19:30:17.093Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Excesso de vegetação produz excesso de substrato que produz excesso de terra, que assoreia os rios e então vem a chuva que perdeu seu espaço para a terra, para o substrato (dois corpos não ocupam o mesmo espaço ao mesmo tempo).\nO rio transborda, o resto todos já estão cansados de saber."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T19:30:17.956Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nikafcdgw44zbbkk4di6igmb/app.bsky.feed.post/3lbcezfr47k27",
+            "cid": "bafyreibdlgazp3lbyshs7dbrk5eatiowqrdvp76sf5lwv2qjve3ossnk6y",
+            "author": {
+                "did": "did:plc:nikafcdgw44zbbkk4di6igmb",
+                "handle": "cahlac.com.br",
+                "displayName": "Camila Abdanur",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nikafcdgw44zbbkk4di6igmb/bafkreihehqhm6z7huxbly6o4bb3v3stsax4fuopjdklcqvv4jeejehwobq@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-25T14:39:55.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T11:58:01.544Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "1- Mel. Cherosa. Toma banho. Usa perfume, hidratante, sais de banho, cuida do cabelo.\n\n2- Ambessa. Tal mãe, tal filha. Adora um banho de banheira sendo mimada e massageada por um gostoso.\n\n3- Jayce. Tem cheiro de pós-barba e perfume Kayak em excesso.\n\n4- Caitlyn. Um approach muito mais sobre higiene que sobre cheiro. Hidrata o cabelo sempre.\n\n5- Heimer. Presença semanal marcada no petshop pro banho e tosa\n\n6- Ekko. Os firelights tudo cheroso pra manter a qualidade do ar da casa deles. Gosta de uns oleos esssnciais.",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 905
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidtr4oyky7mmumyrxt6di7lq4zhdoagwtulkciblhztuu5iwo5klu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 225221
+                            }
+                        },
+                        {
+                            "alt": "7- Vander. Acorda 4 da manhã, toma um banho e parte pra labuta. Mais sobre rotina que qualquer outra coisa.\n\n8- Sevika. De vez em quando gosta de tomar um daqueles banho com a agua fervendo. Mas não é sempre.\n\n9- Viktor. Ja foi chegado num banho mas agora quase não toma devido a depressão e os Horrores.\n\n10- Silco. Banho, banho msm não curte. Mas tem todo role dele com agua. Acho que gosta de nadar no rio e ficar submerso no silencio.\n\n11. Jinx & Vi. Irmãs sujinhas. Ultimo banho que a Jinx tomou foi o \"batismo\" que o  Silco deu nela. Ultimo banho que a Vi tomou foi a chuva na porta da casa da Cait.",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 905
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihc22swsfvi54b4xltf5cvqokyolituruhnsvc3iz2hxgtokykeuy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 254377
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib6jnksnpyeacpw5tztc3plduidr26ebibfloi7flmlorxbc62me4",
+                        "uri": "at://did:plc:ibhesuzgki6bkp7mjxqdyara/app.bsky.feed.post/3lbax2bur6k2g"
+                    },
+                    "root": {
+                        "cid": "bafyreighmpt26dxts6b5cwmw6sgjhgizlxnluy7nax4sqzsnttc3ja2n7i",
+                        "uri": "at://did:plc:ibhesuzgki6bkp7mjxqdyara/app.bsky.feed.post/3lb73z5yau22h"
+                    }
+                },
+                "text": "Pensei muito nisso durante a noite e essas foram minhas conclusões\n\nErrata: jinx entrou no rio essa temporada tb. esse que foi o ultimo banho kk"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nikafcdgw44zbbkk4di6igmb/bafkreidtr4oyky7mmumyrxt6di7lq4zhdoagwtulkciblhztuu5iwo5klu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nikafcdgw44zbbkk4di6igmb/bafkreidtr4oyky7mmumyrxt6di7lq4zhdoagwtulkciblhztuu5iwo5klu@jpeg",
+                        "alt": "1- Mel. Cherosa. Toma banho. Usa perfume, hidratante, sais de banho, cuida do cabelo.\n\n2- Ambessa. Tal mãe, tal filha. Adora um banho de banheira sendo mimada e massageada por um gostoso.\n\n3- Jayce. Tem cheiro de pós-barba e perfume Kayak em excesso.\n\n4- Caitlyn. Um approach muito mais sobre higiene que sobre cheiro. Hidrata o cabelo sempre.\n\n5- Heimer. Presença semanal marcada no petshop pro banho e tosa\n\n6- Ekko. Os firelights tudo cheroso pra manter a qualidade do ar da casa deles. Gosta de uns oleos esssnciais.",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 905
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nikafcdgw44zbbkk4di6igmb/bafkreihc22swsfvi54b4xltf5cvqokyolituruhnsvc3iz2hxgtokykeuy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nikafcdgw44zbbkk4di6igmb/bafkreihc22swsfvi54b4xltf5cvqokyolituruhnsvc3iz2hxgtokykeuy@jpeg",
+                        "alt": "7- Vander. Acorda 4 da manhã, toma um banho e parte pra labuta. Mais sobre rotina que qualquer outra coisa.\n\n8- Sevika. De vez em quando gosta de tomar um daqueles banho com a agua fervendo. Mas não é sempre.\n\n9- Viktor. Ja foi chegado num banho mas agora quase não toma devido a depressão e os Horrores.\n\n10- Silco. Banho, banho msm não curte. Mas tem todo role dele com agua. Acho que gosta de nadar no rio e ficar submerso no silencio.\n\n11. Jinx & Vi. Irmãs sujinhas. Ultimo banho que a Jinx tomou foi o \"batismo\" que o  Silco deu nela. Ultimo banho que a Vi tomou foi a chuva na porta da casa da Cait.",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 905
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T11:58:04.520Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aqtgqgeui547geqpca5xqcyg/app.bsky.feed.post/3lau7icme7c2n",
+            "cid": "bafyreihrkm2e3ysoc3ym2iksoq5idumbyzcte57zamwzlog5p462qwanru",
+            "author": {
+                "did": "did:plc:aqtgqgeui547geqpca5xqcyg",
+                "handle": "paulo.pfmj.me",
+                "displayName": "Calcinha puxada até o limite em ensaio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aqtgqgeui547geqpca5xqcyg/bafkreigu4ls3x6jvfveyfvudvv3f6cxt4qgxgvlgzapl5mfm5skreljqqm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-18T17:47:52.087Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T20:41:42.776Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigntkapdpvwdyzhojj7y5xgyzdqty3khvm26dicupwseni32erbja"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 339253
+                        },
+                        "title": "Barragem de água se rompe em parque de Belo Horizonte; VÍDEOS | Minas Gerais | G1",
+                        "uri": "https://g1.globo.com/mg/minas-gerais/noticia/2024/11/13/barragem-de-agua-se-rompe-em-parque-de-belo-horizonte-videos.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/mg/minas-gerais/noticia/2024/11/13/barragem-de-agua-se-rompe-em-parque-de-belo-horizonte-videos.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 131,
+                            "byteStart": 103
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caramba, a barragem da lagoa no Parque Lagoa do Nado (BH) se rompeu por causa do excesso de chuva 😱\ng1.globo.com/mg/minas-ger..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mg/minas-gerais/noticia/2024/11/13/barragem-de-agua-se-rompe-em-parque-de-belo-horizonte-videos.ghtml",
+                    "title": "Barragem de água se rompe em parque de Belo Horizonte; VÍDEOS | Minas Gerais | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aqtgqgeui547geqpca5xqcyg/bafkreigntkapdpvwdyzhojj7y5xgyzdqty3khvm26dicupwseni32erbja@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-13T20:41:42.984Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5mctldpckd26x4tbwwmi72vj/app.bsky.feed.post/3larijsvxuc2b",
+            "cid": "bafyreiaokcdbz5v6oj7e7hzgbyvxa76cuqvecazm6sugoc6bw6gkptqf2a",
+            "author": {
+                "did": "did:plc:5mctldpckd26x4tbwwmi72vj",
+                "handle": "moreirc.bsky.social",
+                "displayName": ".",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mctldpckd26x4tbwwmi72vj/bafkreifhqkyt6ze3wj33jcnz2lwhq47sywjhm4ksryrgycd467hyjghm7i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5mctldpckd26x4tbwwmi72vj",
+                        "uri": "at://did:plc:5mctldpckd26x4tbwwmi72vj/app.bsky.actor.profile/self",
+                        "cid": "bafyreiefmpbnupeplv6mphram3vxoyszo5dddt6ztvfiomfimr5jyv6tki",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-28T00:14:56.487Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T18:45:37.886Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Brasília é cansativa por motivos de: 6 meses de seca, 6 meses de chuva, gente morta por dentro e excesso de informação. \n\nQuero ser desinformada na praia, tomando sol, bebendo mate e comendo bixcoito Grobo."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T18:45:40.106Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i7qyytmtkjpxjd2eytzy6hsj/app.bsky.feed.post/3laghpnoe6a2q",
+            "cid": "bafyreibjlusdgfxb32vjwlpwe4mbevjuprqgysrbgapq5u4hm7a255mzwy",
+            "author": {
+                "did": "did:plc:i7qyytmtkjpxjd2eytzy6hsj",
+                "handle": "guimmaro.bsky.social",
+                "displayName": "Guimmaro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i7qyytmtkjpxjd2eytzy6hsj/bafkreifpoojam3v6ellp5cldei4haamr5qbzed25kzz5ejsxf43ukn2egu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T11:57:30.419Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T09:31:44.914Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a man with glasses is standing in front of a waterfall .",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiegemjgxhnvwuovkk6d34oxkniwsrlwxrqpcudb5igh53dbqusz34"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 114391
+                        },
+                        "title": "a man with glasses is standing in front of a waterfall .",
+                        "uri": "https://media.tenor.com/XOJOUr0Y_L4AAAAC/what-2d1n.gif?hh=419&ww=388"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Meus lindos, bom dia! Faz quase uma semana que não para de chover em SP....chuva e vida, mas excesso prejudica 😞😞😞😞😞"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/XOJOUr0Y_L4AAAAC/what-2d1n.gif?hh=419&ww=388",
+                    "title": "a man with glasses is standing in front of a waterfall .",
+                    "description": "ALT: a man with glasses is standing in front of a waterfall .",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i7qyytmtkjpxjd2eytzy6hsj/bafkreiegemjgxhnvwuovkk6d34oxkniwsrlwxrqpcudb5igh53dbqusz34@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T09:31:44.082Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2vkvmwxkehwprg2oluuaqhdx/app.bsky.feed.post/3la4xpshq2i22",
+            "cid": "bafyreiaxlqpkklganpjcyrxe5psyrq2ln6tu3f63fwgyk7ore34cghnrtq",
+            "author": {
+                "did": "did:plc:2vkvmwxkehwprg2oluuaqhdx",
+                "handle": "deseixas.bsky.social",
+                "displayName": "Tio Seixas ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vkvmwxkehwprg2oluuaqhdx/bafkreiebhcgo6epcudflzzx3as74uomseriqr4owfdevzz3brsxwn6pbni@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T02:37:10.414Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-04T14:51:30.137Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihc3mbkxscql3qyhh7ah6s2624tschzscvuuqdqrnxps23dnxjdye",
+                        "uri": "at://did:plc:tduq3abacf73tz5sbtg5pmtq/app.bsky.feed.post/3la4pevy34b2w"
+                    },
+                    "root": {
+                        "cid": "bafyreibu7p7nhtvwsc3fofajkhamlohsnekjnsableczd3tcmsrrtkbx2q",
+                        "uri": "at://did:plc:2vkvmwxkehwprg2oluuaqhdx/app.bsky.feed.post/3la3m2kvmdm22"
+                    }
+                },
+                "text": "O Lula caiu em Brasília isso desabalou as estruturas geotérmicas subatômica provocou excesso de chuva São Paulo e no Sul.."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-04T14:51:30.482Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3la234s2vn22k",
+            "cid": "bafyreidsumxl2mjrstekwfwmc5hddvjcjmdrczxt7p2cgh62aiccuz4nim",
+            "author": {
+                "did": "did:plc:mmfstj3aoyjlakckupdhgntu",
+                "handle": "flaviaward.bsky.social",
+                "displayName": "Flavia Ward 🌼🌱",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmfstj3aoyjlakckupdhgntu/bafkreih237fae2qcerrsgmiqlunq3sqfbehl7nswg3tvwcorkokpi7aaem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T18:18:18.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-03T11:14:28.060Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihgwrwdmbaf5a6iqpin2hfsdtppqslwunqa4zb3h34dygdswu7m4q",
+                        "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3la22wlr65s2k"
+                    },
+                    "root": {
+                        "cid": "bafyreihbh2q4koohr2muwf4ugcn35hllcyaxhap7i7ol5d26zrnemcoppu",
+                        "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3la22sedaoc2y"
+                    }
+                },
+                "text": "Arroz no RS tá com o plantio atrasado. O atraso foi pelo excesso de chuva na região. Mas assim, foram 15 dias só. Tem q ver a produtividade desse solo aí depois dessa lama toda."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-03T11:14:28.384Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pyx7d72qw25hpymnkchda5tc/app.bsky.feed.post/3l7w24d5si22i",
+            "cid": "bafyreiearqyxoekkh7qqfvhcxpgbdmidmdolnkdwz5riug6smmzrpifw6m",
+            "author": {
+                "did": "did:plc:pyx7d72qw25hpymnkchda5tc",
+                "handle": "ju-sayuri.bsky.social",
+                "displayName": "Ju Sayuri",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreidzrnm4ciokk6dzmmbmf6gtkqkfyixg4uqkybpnhfgueflywqtsaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:pyx7d72qw25hpymnkchda5tc",
+                        "uri": "at://did:plc:pyx7d72qw25hpymnkchda5tc/app.bsky.actor.profile/self",
+                        "cid": "bafyreie2jilbp2gh6nlraqosad2pcck4qvmvzh5jhuuzq6qynztbg2dx7y",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-30T11:02:01.250Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T20:45:39.827Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Foto de um cesto de fibra natural (que não sei qual), redondo, sobre uma mesa de madeira. Preso ao cesto tem 3 aranhas peludinhas feitas manualmente, uma verde neon na parte superior esquerda, outra preta na parte superior direita e uma rosa neon entre elas, na parte inferior do cesto. Pendurada por um fio de nylon (invisível), tem uma outra aranha amarelo neon. Ao fundo tem um piso quadriculado de tamanhos e cores variados (bege claro e escuro, cinza e uns quadrados decorados) e parte de um sofá de madeira. Os móveis de madeira estão envelhecidos de tanto sol e chuva que tomaram",
+                                "aspectRatio": {
+                                    "height": 2000,
+                                    "width": 1089
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreigyyuw2ctl3x7k7ymxnw7wkvp5yd75zbbznt3wueqdopggl6kyziy"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 937104
+                                }
+                            },
+                            {
+                                "alt": "Close-up de uma aranha peludinha que eu fiz, ela é laranja neon e está sobre uma mesa de madeira",
+                                "aspectRatio": {
+                                    "height": 1979,
+                                    "width": 1979
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiceczoec2niqyrl6sxnjs3be4q4dz57weewqaybjpjf2ei3zzl4pu"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 801611
+                                }
+                            },
+                            {
+                                "alt": "5 embalagens de doces: TRUENO POP SODA, é um doce que “estoura” na boca e tem sabor de refrigerante. 3 embalagens na vertical (vermelha, laranja e verde) e outras duas ainda grudadas na horizontal (verdes).\nSão envelopinhos com um pique pra rasgar ao meio, com um desenho de líquido colorido que “explodiu” e o desenho do sabor no canto inferior esquerdo:\nA embalagem vermelha, tem o desenho de uma garrafa de coca cola, a laranja tem o gomo de uma 🍊 e a verde, de um gomo de 🍋‍🟩 ",
+                                "aspectRatio": {
+                                    "height": 1630,
+                                    "width": 1741
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreih36oqi2pir7fpo2lbfek3qqxh5nk2rq5urzlkfuue3tajm33c4xy"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 788532
+                                }
+                            },
+                            {
+                                "alt": "Um pirulito com formato de cabeça de porquinho no centro da foto e, no canto superior esquerdo o verso da embalagem, plástico branco por baixo e transparente por cima, com o nome GABRIEL escrito em roxo centralizado. Do lado direito tem a frente da embalagem do pirulito, de plástico rosa, tá escrito PUERQUITOS em amarelo e os avisos de excesso de calorias e açúcar",
+                                "aspectRatio": {
+                                    "height": 1852,
+                                    "width": 1999
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreidb44k6swvddobhsjte63c4r2b3o25adey3p4oxho7plolclbiu64"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 900565
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreigfiht7bsfjl7wssxxjbjlebruhyzsjvzdk5diqphwvcg2fpnafjq",
+                            "uri": "at://did:plc:pyx7d72qw25hpymnkchda5tc/app.bsky.feed.post/3l7tfjq25322y"
+                        }
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:4ydtby5ehm2cijikgrmljnl7"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 167,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:ggjonthpau6xfjpqkf2hp4e5"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:yofonrs4mrn6xmkxuiw7kwjt"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 280,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ontem foi caótico demais, não deu pra subir as fotos.\nAs aranhas ficaram assim. A laranja usei no cabelo (mas meu filho já quebrou a presilha).\n\n@joga51.bsky.social e @gabekn.bsky.social , olha esses docinhos! São aqueles que ESTOURAM na boca!\n\nGabe e @w0porquinho.bsky.social , lembrei de vocês! 🩷"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreigyyuw2ctl3x7k7ymxnw7wkvp5yd75zbbznt3wueqdopggl6kyziy@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreigyyuw2ctl3x7k7ymxnw7wkvp5yd75zbbznt3wueqdopggl6kyziy@jpeg",
+                            "alt": "Foto de um cesto de fibra natural (que não sei qual), redondo, sobre uma mesa de madeira. Preso ao cesto tem 3 aranhas peludinhas feitas manualmente, uma verde neon na parte superior esquerda, outra preta na parte superior direita e uma rosa neon entre elas, na parte inferior do cesto. Pendurada por um fio de nylon (invisível), tem uma outra aranha amarelo neon. Ao fundo tem um piso quadriculado de tamanhos e cores variados (bege claro e escuro, cinza e uns quadrados decorados) e parte de um sofá de madeira. Os móveis de madeira estão envelhecidos de tanto sol e chuva que tomaram",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1089
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreiceczoec2niqyrl6sxnjs3be4q4dz57weewqaybjpjf2ei3zzl4pu@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreiceczoec2niqyrl6sxnjs3be4q4dz57weewqaybjpjf2ei3zzl4pu@jpeg",
+                            "alt": "Close-up de uma aranha peludinha que eu fiz, ela é laranja neon e está sobre uma mesa de madeira",
+                            "aspectRatio": {
+                                "height": 1979,
+                                "width": 1979
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreih36oqi2pir7fpo2lbfek3qqxh5nk2rq5urzlkfuue3tajm33c4xy@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreih36oqi2pir7fpo2lbfek3qqxh5nk2rq5urzlkfuue3tajm33c4xy@jpeg",
+                            "alt": "5 embalagens de doces: TRUENO POP SODA, é um doce que “estoura” na boca e tem sabor de refrigerante. 3 embalagens na vertical (vermelha, laranja e verde) e outras duas ainda grudadas na horizontal (verdes).\nSão envelopinhos com um pique pra rasgar ao meio, com um desenho de líquido colorido que “explodiu” e o desenho do sabor no canto inferior esquerdo:\nA embalagem vermelha, tem o desenho de uma garrafa de coca cola, a laranja tem o gomo de uma 🍊 e a verde, de um gomo de 🍋‍🟩 ",
+                            "aspectRatio": {
+                                "height": 1630,
+                                "width": 1741
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreidb44k6swvddobhsjte63c4r2b3o25adey3p4oxho7plolclbiu64@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreidb44k6swvddobhsjte63c4r2b3o25adey3p4oxho7plolclbiu64@jpeg",
+                            "alt": "Um pirulito com formato de cabeça de porquinho no centro da foto e, no canto superior esquerdo o verso da embalagem, plástico branco por baixo e transparente por cima, com o nome GABRIEL escrito em roxo centralizado. Do lado direito tem a frente da embalagem do pirulito, de plástico rosa, tá escrito PUERQUITOS em amarelo e os avisos de excesso de calorias e açúcar",
+                            "aspectRatio": {
+                                "height": 1852,
+                                "width": 1999
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:pyx7d72qw25hpymnkchda5tc/app.bsky.feed.post/3l7tfjq25322y",
+                        "cid": "bafyreigfiht7bsfjl7wssxxjbjlebruhyzsjvzdk5diqphwvcg2fpnafjq",
+                        "author": {
+                            "did": "did:plc:pyx7d72qw25hpymnkchda5tc",
+                            "handle": "ju-sayuri.bsky.social",
+                            "displayName": "Ju Sayuri",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pyx7d72qw25hpymnkchda5tc/bafkreidzrnm4ciokk6dzmmbmf6gtkqkfyixg4uqkybpnhfgueflywqtsaa@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [
+                                {
+                                    "src": "did:plc:pyx7d72qw25hpymnkchda5tc",
+                                    "uri": "at://did:plc:pyx7d72qw25hpymnkchda5tc/app.bsky.actor.profile/self",
+                                    "cid": "bafyreie2jilbp2gh6nlraqosad2pcck4qvmvzh5jhuuzq6qynztbg2dx7y",
+                                    "val": "!no-unauthenticated",
+                                    "cts": "1970-01-01T00:00:00.000Z"
+                                }
+                            ],
+                            "createdAt": "2023-06-30T11:02:01.250Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-10-31T19:32:01.025Z",
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Adivinha quem tá com os dedos cheios de cola porque inventou de fazer aranhas pro Halloween? 🤡Hahaha"
+                        },
+                        "labels": [],
+                        "likeCount": 25,
+                        "replyCount": 4,
+                        "repostCount": 0,
+                        "quoteCount": 1,
+                        "indexedAt": "2024-10-31T19:32:01.025Z",
+                        "embeds": []
+                    }
+                }
+            },
+            "replyCount": 7,
+            "repostCount": 1,
+            "likeCount": 30,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-01T20:45:41.087Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cwuz6oxs3jlchwfr3ygh4rsc/app.bsky.feed.post/3l7qggxctsv2n",
+            "cid": "bafyreid4tdivkghm5i4lgv3ubh4noc7oxi55rt23hjgupgcsnqh2qrliwq",
+            "author": {
+                "did": "did:plc:cwuz6oxs3jlchwfr3ygh4rsc",
+                "handle": "noniel.bsky.social",
+                "displayName": "calvo químico",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cwuz6oxs3jlchwfr3ygh4rsc/bafkreiaotmnmk3shejycmzfdiergzewriopv7bv6425fdnnknvyr3xju5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T08:45:19.781Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T15:10:22.914Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigv5nzroqoohz2tvgsbwxjkav7wpglsmmui3igojzp4mroi2thniy",
+                        "uri": "at://did:plc:cwuz6oxs3jlchwfr3ygh4rsc/app.bsky.feed.post/3l7qgg73txc2b"
+                    },
+                    "root": {
+                        "cid": "bafyreicthaj2oo2stseowf5eq4w5abzut7gkjz46eptgz36uhmpaywnona",
+                        "uri": "at://did:plc:lzioeybs7nnj346d3m3eidpl/app.bsky.feed.post/3l7qfa6liwc2i"
+                    }
+                },
+                "text": "excesso de chuva? falta de chuva? putaria??"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T15:10:22.914Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b4pobldcaiulhtsz5ufo7c6x/app.bsky.feed.post/3l7jwprv52b2h",
+            "cid": "bafyreic2ue2qcqhkv6qdw6wtqe5b425oojxwmtcagaxz6urkesmowfn6e4",
+            "author": {
+                "did": "did:plc:b4pobldcaiulhtsz5ufo7c6x",
+                "handle": "tempo-sao-leopoldo.bsky.social",
+                "displayName": "Tempo São Leopoldo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b4pobldcaiulhtsz5ufo7c6x/bafkreibbkkdp7nyf34c7x3eevbywx75k4adcu7ls7oi5scalvyfneqwgo4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T18:29:37.196Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-28T01:13:01.228Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 808,
+                                "width": 984
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie7f4qcegh73scgco5ryjrvk2ven3senzzgwtkdxg7w64t577fhxa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 883907
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 808,
+                                "width": 984
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiagkqrp7vkp4rm53j24cz3nl7l7pzf7fahc4qh3qju2vohpyvwlxm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 767318
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Modelos ECMWF e GFS, em suas versões ensemble, projetam predomínio de tempo seco no sul do Brasil ao longo dos próximos 10 dias. Modelos convergem na previsão de chuva em excesso em Goiás, Minas Gerais e Espírito Santo nesse período.\nMapas mostram previsões de anomalias de precipitação."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4pobldcaiulhtsz5ufo7c6x/bafkreie7f4qcegh73scgco5ryjrvk2ven3senzzgwtkdxg7w64t577fhxa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:b4pobldcaiulhtsz5ufo7c6x/bafkreie7f4qcegh73scgco5ryjrvk2ven3senzzgwtkdxg7w64t577fhxa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 808,
+                            "width": 984
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4pobldcaiulhtsz5ufo7c6x/bafkreiagkqrp7vkp4rm53j24cz3nl7l7pzf7fahc4qh3qju2vohpyvwlxm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:b4pobldcaiulhtsz5ufo7c6x/bafkreiagkqrp7vkp4rm53j24cz3nl7l7pzf7fahc4qh3qju2vohpyvwlxm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 808,
+                            "width": 984
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-28T01:13:01.228Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lez43m7m4vbx7z2lshuwcnng/app.bsky.feed.post/3l6qejhxogx2o",
+            "cid": "bafyreic7gjk36h4y35hregxyvx7vnt6loqfxve2hloggr4wg2fcapyrpia",
+            "author": {
+                "did": "did:plc:lez43m7m4vbx7z2lshuwcnng",
+                "handle": "eduhonorato.com.br",
+                "displayName": "Concierge do porão....",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lez43m7m4vbx7z2lshuwcnng/bafkreie7pudw4cc7wtmucxncwhxncbhjqaihqed7my5htgltpbytzz2dxq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-06T16:27:57.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-17T21:10:48.141Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1500,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifh4bjeht3t55qp3mpjxpmw2gqdj5lssa2vb6i3l45ovveigfj6re"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 853088
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Previsão de nova chuva em sp. Só lembro do q falei outro dia. A água em excesso causa comoção. Qnd ela está em falta ninguém lembra. Ou será que tem a ver com região do país? Fico sempre na dúvida…"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lez43m7m4vbx7z2lshuwcnng/bafkreifh4bjeht3t55qp3mpjxpmw2gqdj5lssa2vb6i3l45ovveigfj6re@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lez43m7m4vbx7z2lshuwcnng/bafkreifh4bjeht3t55qp3mpjxpmw2gqdj5lssa2vb6i3l45ovveigfj6re@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1500,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 2,
+            "likeCount": 20,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-17T21:10:48.141Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ydtby5ehm2cijikgrmljnl7/app.bsky.feed.post/3l6bxzykdsl2r",
+            "cid": "bafyreicd5rvnt5lbfoduvp4ch2koft3artqyufyqpf2q5c56dh5n6prao4",
+            "author": {
+                "did": "did:plc:4ydtby5ehm2cijikgrmljnl7",
+                "handle": "joga51.bsky.social",
+                "displayName": "Alessandro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreiabpw3rauvjzxhuefqcvnmebwsm5h7a5sz3w7ww3lk7gkl2prox6e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-22T18:47:06.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T03:50:05.395Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vou mentir não, ver esse temporal em São Paulo me deixou angustiado. Aí mostrei pra algumas pessoas aqui do RS e todo mundo que viu ficou mal.\nTodo mundo aqui ainda tem muito medo do clima, coisas relacionadas a vento e chuva em excesso. Um abraço aí pro pessoal que foi afetado pela chuva hoje."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T03:50:05.395Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oqs4thtxfsch3ylsnvqnvsaa/app.bsky.feed.post/3l64hl6h3ha2o",
+            "cid": "bafyreib5tsruvnbizbayy5wef42ovq2za7qzmomsdr7tzfoaauqftwpika",
+            "author": {
+                "did": "did:plc:oqs4thtxfsch3ylsnvqnvsaa",
+                "handle": "xoalsox93.shinee.club",
+                "displayName": "Gabe⁵ 🐥 VAI VER O TAEMIN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oqs4thtxfsch3ylsnvqnvsaa/bafkreidbd4l34c2r4v2rdix43zjy42zdzjlgncpamk64skg6hzkclp6a7m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-15T20:14:43.700Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T23:12:11.403Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chuvinha gostosa, mas espero que não seja igual o que falam os metereologistas em alertas de chuva em excesso"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T23:12:11.403Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:x724pmaem6kweh5e5ypmrnrr/app.bsky.feed.post/3l6447heqlp2u",
+            "cid": "bafyreic3hdbdwadagl2t7qcxsakxgrzvwxucgx2yio3cvua755weoxry4m",
+            "author": {
+                "did": "did:plc:x724pmaem6kweh5e5ypmrnrr",
+                "handle": "caixetista.bsky.social",
+                "displayName": "matheus",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x724pmaem6kweh5e5ypmrnrr/bafkreia2utaroymaszedvhrjge4qyioivgi5v2ppyya6ykgjhko43ptkdm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-02T16:38:18.006Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T19:48:47.459Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "às vezes do nada penso no quanto a geografia dos eua é um lixo. na costa do pacífico tem a falha de san andreas. na meiuca as montanhas rochosas e pura planície. na costa do caribe tem a rota dos furacões. na costa do atlântico chuva em excesso e maré alta frequente. e no midwest neve rigorosa"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T19:48:47.459Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3l5tp3qd7ge2k",
+            "cid": "bafyreiggabeennapjht4jzdv7g36vkfja7hcmvb6nfo5tajjujvqhrhkzi",
+            "author": {
+                "did": "did:plc:mmfstj3aoyjlakckupdhgntu",
+                "handle": "flaviaward.bsky.social",
+                "displayName": "Flavia Ward 🌼🌱",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmfstj3aoyjlakckupdhgntu/bafkreih237fae2qcerrsgmiqlunq3sqfbehl7nswg3tvwcorkokpi7aaem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T18:18:18.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-06T11:32:46.079Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreier6py2dpgtq7cfd5vzkvszixz4bdmk2mct472xguzmd4i575o25a",
+                        "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3l5tozctupz26"
+                    },
+                    "root": {
+                        "cid": "bafyreid7er5efvulg3arvvzbqwfcxkangv3m52hplixrrox2kzjbujgd3m",
+                        "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3l5tnvhoiiu22"
+                    }
+                },
+                "text": "No RS o excesso de chuva lascou a maçã e o tabaco\nGov federal abriu linha de crédito pros pequenos agricultores de lá. Aaaffff falta aprovação ainda! Pelamordedeus"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-06T11:32:46.079Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jdcrcn4mhrnnq7zcx6wvpt64/app.bsky.feed.post/3l5re6mdmhx2m",
+            "cid": "bafyreibvfduet5ilzr6yaddrdg2pas3t2l7ubggezzggctkbuyf75jo3qy",
+            "author": {
+                "did": "did:plc:jdcrcn4mhrnnq7zcx6wvpt64",
+                "handle": "luvnicoughlan.bsky.social",
+                "displayName": "Gisele 💞 Polin forever ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jdcrcn4mhrnnq7zcx6wvpt64/bafkreiemuyojjpdw344hdfzwd3ck6s7j65zixuvel3jyo2t3ivueljuv24@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T22:30:18.131Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-05T13:12:11.677Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifr64n76olpanytwmdckhkv6bzzkmovowf7wjvczexsqiohm6y6r4",
+                        "uri": "at://did:plc:g3btkgqzgicroaigs7gxvu3d/app.bsky.feed.post/3l5rdnm2ka623"
+                    },
+                    "root": {
+                        "cid": "bafyreiac3iptifoj7spm27bvnh6z7shrbpdspk56v63a6zlzfb2uu3b6im",
+                        "uri": "at://did:plc:g3btkgqzgicroaigs7gxvu3d/app.bsky.feed.post/3l5qtxln2se2d"
+                    }
+                },
+                "text": "Aqui foi assim no ano passado, só que com chuva em excesso, e muito calor. Esse ano tá mais de boas"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-05T13:12:11.677Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mth3j5joysljzayrc3ad5fcg/app.bsky.feed.post/3l5nnw3qg7h2g",
+            "cid": "bafyreib5l23cvxbcc4ucn7cslthkl7kmhn6iehvlqfzt7ee5mjrxl7g3fi",
+            "author": {
+                "did": "did:plc:mth3j5joysljzayrc3ad5fcg",
+                "handle": "alvesdelmar.bsky.social",
+                "displayName": "Delmar Alves 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mth3j5joysljzayrc3ad5fcg/bafkreic4h3425tam7ii7lphhjcbbxhrpaueewk5bjgok5izv2x3rb3vtbq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:08:41.035Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T01:55:43.296Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibpyxon45m3pqclmrz47jo664t5rtb7y7ugnt7jrd46sawitirwr4",
+                        "uri": "at://did:plc:43nddxn3kvpns6an3asrqmn3/app.bsky.feed.post/3l5nnotzgpk2b"
+                    },
+                    "root": {
+                        "cid": "bafyreibpyxon45m3pqclmrz47jo664t5rtb7y7ugnt7jrd46sawitirwr4",
+                        "uri": "at://did:plc:43nddxn3kvpns6an3asrqmn3/app.bsky.feed.post/3l5nnotzgpk2b"
+                    }
+                },
+                "text": "Aqui em Porto Alegre, o atual Prefeito bolsonarista está culpando o Presidente Lula de tudo, até dos alagamentos. Talvez, o excesso de chuva também foi por ordem do PT."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T01:55:43.296Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nca3azcqwbit6wkf7yhlphcv/app.bsky.feed.post/3l5kdrplxji24",
+            "cid": "bafyreidxqfxqevtagvjdaaiqc27lqr2pzmdnuvsmrped7mjousodqxgljq",
+            "author": {
+                "did": "did:plc:nca3azcqwbit6wkf7yhlphcv",
+                "handle": "debbieserraglio.bsky.social",
+                "displayName": "Debbie🇦🇹",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nca3azcqwbit6wkf7yhlphcv/bafkreibkyfrbjxqweygnuz672c62aypsdj44uh27q5q3iyknv3fqcsbv7m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:nca3azcqwbit6wkf7yhlphcv",
+                        "uri": "at://did:plc:nca3azcqwbit6wkf7yhlphcv/app.bsky.actor.profile/self",
+                        "cid": "bafyreiacizv6gw47anljd34uhojxlh4o573psozovlc2qwwu7rx6dv2wfi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-31T00:58:51.887Z"
+                    }
+                ],
+                "createdAt": "2024-08-31T00:58:52.826Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T18:16:21.187Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Por isso que odeio calor em excesso, pq o que era pra ser uma simples chuva, virá uma tempestade🤬"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T18:16:21.187Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:adymunrxegohmgswseemofqc/app.bsky.feed.post/3l5i6jvab5p2n",
+            "cid": "bafyreihojv6boph6cb5mp4fqvwdwoikhouglmr2ihivcraqekdqz7lu4va",
+            "author": {
+                "did": "did:plc:adymunrxegohmgswseemofqc",
+                "handle": "leonardobhte.bsky.social",
+                "displayName": "Leonardo Correa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:adymunrxegohmgswseemofqc/bafkreiet6jlm6feq2ar3ix5egd6qxtkjitsimcowluskzluhcw2dmy6dgq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T16:07:53.433Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T21:37:10.873Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicau7ovj6inp5xjuyx6ficg3o3qvdi3llc2ofhjqhwumir53ixtpe",
+                        "uri": "at://did:plc:22bfuafcreawxlqfzwedk3p4/app.bsky.feed.post/3l5i522tomq2a"
+                    },
+                    "root": {
+                        "cid": "bafyreieavesfxmrl3rhxi5qqlqooirzgxe4kyj6kbgsbubwsry5ripqioy",
+                        "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l5hhijgvuq2r"
+                    }
+                },
+                "text": "Aqui somos acostumados com, todos os anos, a chuva em excesso trazer problemas, pois as médias são muito altas entre novembro e janeiro. \n\nMas ela é necessária. Seu estado sofreu até com racionamento de água por causa da falta de chuva anos atrás.\n\nA gente precisa aprender a lidar com esses extremos"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T21:37:10.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yqizoj5bes55cedtsqubjxcn/app.bsky.feed.post/3l5476djdb22q",
+            "cid": "bafyreihs5fl3wghlnpqavel6zdt54reaicoo7rdnhacaoo2iinyemgt5xy",
+            "author": {
+                "did": "did:plc:yqizoj5bes55cedtsqubjxcn",
+                "handle": "hrainho.bsky.social",
+                "displayName": "Helio Ricardo Rainho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yqizoj5bes55cedtsqubjxcn/bafkreihhhacc2roe3yo7yuuerkupseonm4gj2jqzerth5wj47i3icch5ve@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:26:29.089Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T03:16:39.040Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tite: \"Esse excesso de jogos...\"\n=> Botafogo e vários outros times jogaram muito mais\n\nRenato: \"Esqueceram que a chuva (no sul) nos prejudicou...\"\n=> Juventude e Internacional são times do nordeste?!?!?!\n\nTreineiros caozeiros!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T03:16:39.040Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oosulntmf6677hu6m4v4ax5d/app.bsky.feed.post/3l52mlfrsoq2w",
+            "cid": "bafyreihxn4d2nqg4bpy63wkqdqwuomciqyixadvuuhee6nt7sasw57sm7e",
+            "author": {
+                "did": "did:plc:oosulntmf6677hu6m4v4ax5d",
+                "handle": "daianedsilverio.bsky.social",
+                "displayName": "Daiane Daniele 🍉",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oosulntmf6677hu6m4v4ax5d/bafkreidonymrnen5botxqidrawz4uy5vnqv3k5dbixmch3ubl5dndvk3nq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T10:41:48.898Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T12:11:17.149Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifisjc2vnhxwdpbmcwjvxa6g47p66dvklibhmaoqu64bkvv4brrdy",
+                        "uri": "at://did:plc:vu7d65lkdbryulaoma4f6vcp/app.bsky.feed.post/3l4zljhvykt2h"
+                    },
+                    "root": {
+                        "cid": "bafyreifisjc2vnhxwdpbmcwjvxa6g47p66dvklibhmaoqu64bkvv4brrdy",
+                        "uri": "at://did:plc:vu7d65lkdbryulaoma4f6vcp/app.bsky.feed.post/3l4zljhvykt2h"
+                    }
+                },
+                "text": "Ou mata á pedrada ou com excesso insuportável de calor. Ontem aqui na cidade fez tanto calor, que acordei com as mãos coçando demais , cheguei ter crise de pânico. Passei álcool , tomei anti alérgico , e custou passar. Faz meses que a gente não vê uma chuva descente"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T12:11:17.149Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:x5zuxkajkkgfexqifxjnigmc/app.bsky.feed.post/3l52jiaqcnz2q",
+            "cid": "bafyreifaf2ldygqknpg6lhmss2hoj2xpyujofhcq6724wuzhturn4kbyqm",
+            "author": {
+                "did": "did:plc:x5zuxkajkkgfexqifxjnigmc",
+                "handle": "stellaa603.bsky.social",
+                "displayName": "Seresth",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x5zuxkajkkgfexqifxjnigmc/bafkreihssuwbrz5gwivo3rfh4vxxyumm3wjgq6uckcpi2ax7t2nngsmphi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:21:10.297Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T11:14:59.308Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif2lyydubixdpn3iydyufilfxyloqhx7vzij6kuzdstz3pjz5xjfq",
+                        "uri": "at://did:plc:x5zuxkajkkgfexqifxjnigmc/app.bsky.feed.post/3l52jgwibx72s"
+                    },
+                    "root": {
+                        "cid": "bafyreif2lyydubixdpn3iydyufilfxyloqhx7vzij6kuzdstz3pjz5xjfq",
+                        "uri": "at://did:plc:x5zuxkajkkgfexqifxjnigmc/app.bsky.feed.post/3l52jgwibx72s"
+                    }
+                },
+                "text": "Enquanto em tanto lugar do Brasil não chove aqui é um excesso de chuva"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T11:14:59.308Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6jsvvsjh6umoxp7yqzmx3j4s/app.bsky.feed.post/3l526idftmy2e",
+            "cid": "bafyreibx62xy552ohb26wl4w62lixlpndz7ri6xwzrg4243idjyvlq7lce",
+            "author": {
+                "did": "did:plc:6jsvvsjh6umoxp7yqzmx3j4s",
+                "handle": "comunafenix.bsky.social",
+                "displayName": "Fogo nos Fascistas!",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6jsvvsjh6umoxp7yqzmx3j4s/bafkreih2rspdqkznqdnmx7a6b4tzu4ao2akjbdzntkigrpckpi6l3m56a4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:19:43.334Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T07:59:01.271Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibciqlfvb7ewhb4pzvwb443ligpibejrzsjht6xf4cn6fkxoapugy",
+                        "uri": "at://did:plc:xgwilwgow3m4qqpeqzurzmge/app.bsky.feed.post/3l4zzhnsiwj27"
+                    },
+                    "root": {
+                        "cid": "bafyreibciqlfvb7ewhb4pzvwb443ligpibejrzsjht6xf4cn6fkxoapugy",
+                        "uri": "at://did:plc:xgwilwgow3m4qqpeqzurzmge/app.bsky.feed.post/3l4zzhnsiwj27"
+                    }
+                },
+                "text": "O que é uma dupla desgraça: a memória “curta” do eleitor médio e o eterno retorno do mesmo dos estragos causados pela chuva nunca cidade cuja administração negligenciou o investimento em infraestrutura para suportar e escoar excesso de água."
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 34,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T07:59:01.271Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l4z4xdacpb2a",
+            "cid": "bafyreigkpfgvmec2wy3rmnsgq6aaf577qgaqz3z42vr3rhyrsydnpftb6m",
+            "author": {
+                "did": "did:plc:vccpbr5bhtrrfseedgokbsng",
+                "handle": "metsul.com",
+                "displayName": "MetSul Meteorologia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vccpbr5bhtrrfseedgokbsng/bafkreidfybn52ke4avqyar37lnpplkc3iy7s2af6zxjb4ry6ewxokadnam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T22:05:10.454Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T21:58:57.332Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Chuva excessiva levou duas barragens da cidade de Pelotas a cotas de emergência em que há risco de ruptura das estruturas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia7goxnflq24fwcqbi2luyzia5c3vpjaxwxtzktbw22oyqnxiq5zi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 875127
+                        },
+                        "title": "Emergência em Pelotas por risco de ruptura de barragens e açudes",
+                        "uri": "https://metsul.com/emergencia-em-pelotas-por-risco-de-ruptura-de-barragens-e-acudes/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🔴 AGORA | Emergência por risco iminente de ruptura de barragens e açudes no Sul gaúcho por excesso de chuva."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://metsul.com/emergencia-em-pelotas-por-risco-de-ruptura-de-barragens-e-acudes/",
+                    "title": "Emergência em Pelotas por risco de ruptura de barragens e açudes",
+                    "description": "Chuva excessiva levou duas barragens da cidade de Pelotas a cotas de emergência em que há risco de ruptura das estruturas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vccpbr5bhtrrfseedgokbsng/bafkreia7goxnflq24fwcqbi2luyzia5c3vpjaxwxtzktbw22oyqnxiq5zi@jpeg"
+                }
+            },
+            "replyCount": 8,
+            "repostCount": 30,
+            "likeCount": 193,
+            "quoteCount": 29,
+            "indexedAt": "2024-09-25T21:58:57.332Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tgqwggazl5gal4v64x3ujeao/app.bsky.feed.post/3l4wddc6vsw2i",
+            "cid": "bafyreiejqbymeb4kaykjb2eodbvba5ewuzg6jip6txlya3uxdare5i3o3e",
+            "author": {
+                "did": "did:plc:tgqwggazl5gal4v64x3ujeao",
+                "handle": "correiodopovo.bsky.social",
+                "displayName": "Correio do Povo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tgqwggazl5gal4v64x3ujeao/bafkreibbca64y6vhmxeb644eszc5tcajsfypi3hv5mxwo2rmwpy2apnp64@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-10-17T19:59:58.235Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T19:15:02.354Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo a Prefeitura choveu mais de 100 milímetros em dois dias na cidade",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaom6vuh3t756ivr5rebp3unioxbjjbcluvbzp4w4a37giqkc6dwu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 479477
+                        },
+                        "title": "Arroio das Cabeças transborda em Rio Grande",
+                        "uri": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/arroio-das-cabe%C3%A7as-transborda-em-rio-grande-1.1536385"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vários locais da cidade ficaram alagados com o excesso de chuva"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/arroio-das-cabe%C3%A7as-transborda-em-rio-grande-1.1536385",
+                    "title": "Arroio das Cabeças transborda em Rio Grande",
+                    "description": "Segundo a Prefeitura choveu mais de 100 milímetros em dois dias na cidade",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgqwggazl5gal4v64x3ujeao/bafkreiaom6vuh3t756ivr5rebp3unioxbjjbcluvbzp4w4a37giqkc6dwu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T19:15:02.354Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:anrab4irpu6pasbwbbzvo7wp/app.bsky.feed.post/3l4wbnhogdk2r",
+            "cid": "bafyreiaaxmak2p6fgqldalvcsw35xkoymfehhclmmq2ewd6iuj5ojwmbq4",
+            "author": {
+                "did": "did:plc:anrab4irpu6pasbwbbzvo7wp",
+                "handle": "fjunior.bsky.social",
+                "displayName": "Chico da Matilde",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:anrab4irpu6pasbwbbzvo7wp/bafkreidocce53yxf3foehkwgkl75lg3drotapxvcha2o5gxg7exhfxsomq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-07T22:04:59.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T18:44:55.671Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreic2s6gfne3demweiz7o2ru7h3tq2g4u4v7cbhhjymbtszyvau7aqq",
+                        "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l4wafb4jte2q"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Daqui pra frente vai ser assim: seca numa parte do país e chuva em excesso noutra."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l4wafb4jte2q",
+                    "cid": "bafyreic2s6gfne3demweiz7o2ru7h3tq2g4u4v7cbhhjymbtszyvau7aqq",
+                    "author": {
+                        "did": "did:plc:vccpbr5bhtrrfseedgokbsng",
+                        "handle": "metsul.com",
+                        "displayName": "MetSul Meteorologia",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vccpbr5bhtrrfseedgokbsng/bafkreidfybn52ke4avqyar37lnpplkc3iy7s2af6zxjb4ry6ewxokadnam@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-07-03T22:05:10.454Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-24T18:22:26.282Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 720
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigqql4x66gsjuoll3mn6knyd2cxtgfyd5e5sco5tkyo4twe6n7xnq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 6015867
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "💦 AGORA | Arroios sobem rapidamente com a chuva excessiva no Sul gaúcho e alguns já transbordam. Imagens do município de Cerrito. 📷 Diones Forlan"
+                    },
+                    "labels": [],
+                    "likeCount": 299,
+                    "replyCount": 1,
+                    "repostCount": 42,
+                    "quoteCount": 37,
+                    "indexedAt": "2024-09-24T18:22:26.282Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreigqql4x66gsjuoll3mn6knyd2cxtgfyd5e5sco5tkyo4twe6n7xnq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Avccpbr5bhtrrfseedgokbsng/bafkreigqql4x66gsjuoll3mn6knyd2cxtgfyd5e5sco5tkyo4twe6n7xnq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Avccpbr5bhtrrfseedgokbsng/bafkreigqql4x66gsjuoll3mn6knyd2cxtgfyd5e5sco5tkyo4twe6n7xnq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 720
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T18:44:55.671Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7myqc7ir77ug7zh46jc5aqoc/app.bsky.feed.post/3l4wblwwbik2z",
+            "cid": "bafyreih5vssd7e3nu7tmhv5hxwykxj7ywq5ghgy52wtdrxn7towex53cju",
+            "author": {
+                "did": "did:plc:7myqc7ir77ug7zh46jc5aqoc",
+                "handle": "a-persefone.bsky.social",
+                "displayName": "Persefone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7myqc7ir77ug7zh46jc5aqoc/bafkreieteet6tt7u2v7u6kd3xnitzalpszqbbvzaforfcgjmdy6cfm72aq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:02:39.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T18:44:04.957Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "No meu vídeo longo do tiktok sobre o Eclipse eu comentei lá no final q não seria estranho que houvesse novas inundações por excesso de chuva em algumas partes do BR. Aqui no sul desde a madrugada é chuva forte, com vento e chuva de raios. Estou sem luz desde as 5h da manhã, sem previsão de retorno."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T18:44:04.957Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bbsa7d3inuc4fjscn3lhcqxn/app.bsky.feed.post/3l4toe3iqlg2j",
+            "cid": "bafyreiggbz2uyrrs3n47k7fgyzkszjwr223jptz475w2ky4ovcaxrroyse",
+            "author": {
+                "did": "did:plc:bbsa7d3inuc4fjscn3lhcqxn",
+                "handle": "amareense.bsky.social",
+                "displayName": "Kananda Ferreira ✨️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bbsa7d3inuc4fjscn3lhcqxn/bafkreihgubbyt4f6tkwclwvb27m7apc6v323xyv6bdl7qv457f4kdi6dzy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:bbsa7d3inuc4fjscn3lhcqxn",
+                        "uri": "at://did:plc:bbsa7d3inuc4fjscn3lhcqxn/app.bsky.actor.profile/self",
+                        "cid": "bafyreia57zoqobtfbza7jcw7w7vqt7volipomfgw3dgmzkb6tyb7nuppc4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-03T11:15:04.899Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T17:54:22.101Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto da tela do celular da previsão do tempo no Rio de Janeiro. Agora: 28°C. Previsão de chuva só no sábado.",
+                            "aspectRatio": {
+                                "height": 1440,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigbysvflr7vznjv4dpkggt26e6zlmgvtjnvz67jyltlqm5fwwly5i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 396697
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.tjdft.jus.br/informacoes/programas-projetos-e-acoes/pro-vida/dicas-de-saude/pilulas-de-saude/calor-extremo-entenda-como-as-altas-temperaturas-afetam-o-corpo-e-a-saude#:~:text=Temperatura%20muito%20alta%20associada%20ao,crises%20asm%C3%A1ticas%20em%20pessoas%20predispostas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifqzyz2mamhgmrsp2tvowxcavzr6hpz5wvshimheraftgqicwgf6m",
+                        "uri": "at://did:plc:bbsa7d3inuc4fjscn3lhcqxn/app.bsky.feed.post/3l4tnod2wvt2x"
+                    },
+                    "root": {
+                        "cid": "bafyreifqzyz2mamhgmrsp2tvowxcavzr6hpz5wvshimheraftgqicwgf6m",
+                        "uri": "at://did:plc:bbsa7d3inuc4fjscn3lhcqxn/app.bsky.feed.post/3l4tnod2wvt2x"
+                    }
+                },
+                "text": "A bancada do agronegócio (conhecido por \"O agro é pop\") defendendo seus interesses e botando fogo no Brasil, enquanto a gente tá nesse inferno de calor com a saúde em risco porque (pasmem) calor em excesso mata.\n\nwww.tjdft.jus.br/informacoes/...."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bbsa7d3inuc4fjscn3lhcqxn/bafkreigbysvflr7vznjv4dpkggt26e6zlmgvtjnvz67jyltlqm5fwwly5i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bbsa7d3inuc4fjscn3lhcqxn/bafkreigbysvflr7vznjv4dpkggt26e6zlmgvtjnvz67jyltlqm5fwwly5i@jpeg",
+                        "alt": "Foto da tela do celular da previsão do tempo no Rio de Janeiro. Agora: 28°C. Previsão de chuva só no sábado.",
+                        "aspectRatio": {
+                            "height": 1440,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T17:54:21.619Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmcvxfz6bxxhns7fcrlwxofz/app.bsky.feed.post/3l4kw3ycngs2z",
+            "cid": "bafyreidmqpyznun2jptt5b6xdvitto7x2wejkf2jrixyau3cnbperodjdi",
+            "author": {
+                "did": "did:plc:zmcvxfz6bxxhns7fcrlwxofz",
+                "handle": "namoita52.bsky.social",
+                "displayName": "SISSA FLORIDA/NA MOITA🚩🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmcvxfz6bxxhns7fcrlwxofz/bafkreihknxqhg2w44w57ssqi2q3wgdyjwgr2xn2thmb7nrbcqyceun2ohi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-15T19:55:05.701Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T06:19:01.214Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidaye5krihbtmogbweg3zuzp7melvdyzfxlb57m32vy2lw3jz26hu",
+                        "uri": "at://did:plc:qka5s6j5fm4tpmvcqaaoqg7c/app.bsky.feed.post/3l4kvxjcnsc2t"
+                    },
+                    "root": {
+                        "cid": "bafyreidaye5krihbtmogbweg3zuzp7melvdyzfxlb57m32vy2lw3jz26hu",
+                        "uri": "at://did:plc:qka5s6j5fm4tpmvcqaaoqg7c/app.bsky.feed.post/3l4kvxjcnsc2t"
+                    }
+                },
+                "text": "Mas sempre tem chuva sem arco íris.\nArco íris não é regra. É excesso!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T06:19:01.214Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7jy6gafyw5hrr6gyqjmenotw/app.bsky.feed.post/3l4khykumjs2e",
+            "cid": "bafyreihxlxz5dtu63dbdl6hzeluqheukedv4xgh5mchscfyizvzx5voo5i",
+            "author": {
+                "did": "did:plc:7jy6gafyw5hrr6gyqjmenotw",
+                "handle": "henrique23097.bsky.social",
+                "displayName": "HenriQ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jy6gafyw5hrr6gyqjmenotw/bafkreigrfu3kddkyzepfxr2i5gfklned7tjwher4jdoqs5lm3qdwcyo5y4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:40:17.676Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T02:06:33.786Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiggyyqe6zw2ypkenr34zur5eqbh6gbxszyalgu7i6wy5wu3jmucua",
+                        "uri": "at://did:plc:lczqublxvcrnrgl7hqchf5xn/app.bsky.feed.post/3l4khgjgolk2n"
+                    },
+                    "root": {
+                        "cid": "bafyreigffmbjl7csz3r6zxpgb7fg4qndn55i455esce3nzn2glr4a2pz5e",
+                        "uri": "at://did:plc:rugfznmdhcczrhwdtrod4dnt/app.bsky.feed.post/3l4gwprte2o26"
+                    }
+                },
+                "text": "O norte de São Paulo custava ser muito quente mesmo, e não chove tanto já que a serra impede que chege a chuva (em excesso)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T02:06:33.786Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m3qpnnjrccrtaauuqdr27g5d/app.bsky.feed.post/3l4irhpkbb42k",
+            "cid": "bafyreieublorectsvg2tp5lcwccjwipvqoucegdeh4fbd5yi5fbnir3n4a",
+            "author": {
+                "did": "did:plc:m3qpnnjrccrtaauuqdr27g5d",
+                "handle": "celebridadesdas.bsky.social",
+                "displayName": "Castro, Gilson Devorak 🟥🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3qpnnjrccrtaauuqdr27g5d/bafkreifqokkkvmcsxyadqbxjyr3gs46w6u2m3kqggczp2vetrjoshkr2ia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T21:17:34.181Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T09:50:44.758Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibhnide55rvuk6cjjncbaerxlovhuxqmxk34lcwqbhu5ykzkhcwbi",
+                        "uri": "at://did:plc:22bfuafcreawxlqfzwedk3p4/app.bsky.feed.post/3l4hu27biay2y"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Não conheço um evento de extinção humana que tenha sido causado pela chuva. Há mortes sim quando há chuvas em excesso e além do mais não duram para sempre."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:22bfuafcreawxlqfzwedk3p4/app.bsky.feed.post/3l4hu27biay2y",
+                    "cid": "bafyreibhnide55rvuk6cjjncbaerxlovhuxqmxk34lcwqbhu5ykzkhcwbi",
+                    "author": {
+                        "did": "did:plc:22bfuafcreawxlqfzwedk3p4",
+                        "handle": "epileffelipe.bsky.social",
+                        "displayName": "",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22bfuafcreawxlqfzwedk3p4/bafkreifeihdfahrh6p3onkezbskxw3e5bj3zrqo2bcgtr5q6kx6qy2dyga@jpeg",
+                        "labels": [],
+                        "createdAt": "2024-09-01T21:20:08.400Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-19T01:04:13.957Z",
+                        "langs": [
+                            "en"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreia5usuuegzcx7vkw3dwthphn5rww4eajikpzew62ut2sc6gjiu4oi",
+                                "uri": "at://did:plc:m3qpnnjrccrtaauuqdr27g5d/app.bsky.feed.post/3l4hdtmfj6x2k"
+                            },
+                            "root": {
+                                "cid": "bafyreieu4tgmpolcyacfsbehsgynzjcyv7qr3ez3c2i5h6zngvgsnc3ogq",
+                                "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l4hd3k3las2u"
+                            }
+                        },
+                        "text": "E a chuva não mata e destrói povos né....Só o calor!Claro..."
+                    },
+                    "labels": [],
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-19T01:04:13.957Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T09:50:44.758Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3li7dxqrnsi52seug44pxeym/app.bsky.feed.post/3l4crske67z27",
+            "cid": "bafyreie4a46nltxxjigotpmqnvihzxpww67bfbldxfln4gznshildkd7oi",
+            "author": {
+                "did": "did:plc:3li7dxqrnsi52seug44pxeym",
+                "handle": "guxtx.bsky.social",
+                "displayName": "gu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3li7dxqrnsi52seug44pxeym/bafkreicxplerxf24d6hf2zcvw4ulcizte5tubg24qtqsbji6huf7evczei@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T23:49:31.516Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T00:40:51.296Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "não sei se é sinal de chuva ou excesso de fumaça"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T00:40:51.296Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2nuqud5b4c7eut5otkpkyouh/app.bsky.feed.post/3l4bvxbmltd22",
+            "cid": "bafyreic4tz3t7ncfliczik2k4gop4eeykajnmhgeie6imve66xq6he3gp4",
+            "author": {
+                "did": "did:plc:2nuqud5b4c7eut5otkpkyouh",
+                "handle": "karenventura.bsky.social",
+                "displayName": "Karen Colucci",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nuqud5b4c7eut5otkpkyouh/bafkreiftg6nqldwv53wpmoshqjcjldntsduyzjbdlag6wd74sk2xc2giqy@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T00:22:12.201Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T16:22:25.295Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "é o fim do mundo mesmo ... começo do ano: tragédias por excesso de chuva, fim do ano: excesso de queimadas e falta de chuva"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T16:22:25.295Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b54tavmx3wqpwgz3ed2mszfy/app.bsky.feed.post/3l47tq5woeu2s",
+            "cid": "bafyreicfvlrertm5gmafkuyflw3g7szwrhqu634zmkcoy5p4s6b6xr4kby",
+            "author": {
+                "did": "did:plc:b54tavmx3wqpwgz3ed2mszfy",
+                "handle": "mesaquadradamg.bsky.social",
+                "displayName": "Mesa Quadrada MG",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b54tavmx3wqpwgz3ed2mszfy/bafkreifzqf53fydgfn3wjcpnhfy2kddx7ny22xebgv7bieouot4gqq5cvm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-12T22:55:29.006Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T20:37:20.568Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "(🦊x 🔴⚪⚫): Mineirão encoberto com uma neblina de fumaça. Belo Horizonte tem sofrido com a falta de chuva e o excesso de queimadas, provocando esse clima árido."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T20:37:20.310Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.feed.post/3l47e2piu6e2n",
+            "cid": "bafyreighju4724aayl27mohwa5v6yl53rf6fgpaxnvgii4niiyav4umf7m",
+            "author": {
+                "did": "did:plc:m7v22s6av7wa5mht366iszbu",
+                "handle": "cansei.bsky.social",
+                "displayName": "MLucia 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7v22s6av7wa5mht366iszbu/bafkreifihpa635tanbqwe4cy3yspjgtfjljilige4awggqz7rvzh4fneb4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:m7v22s6av7wa5mht366iszbu",
+                        "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibjhf22gvh5hql6fvthdhiygibszoj7zggnynjx72a6z62vmsew34",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T14:05:39.386Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T14:05:37.992Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T16:01:03.528Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1224,
+                                "width": 750
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifvjy5nykhakvs3t7yar7l4v4ndxmtqc3tfyjh7lhrhmz6zoeoxfe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 553007
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "VOTE13"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 270
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MariaPrefeita"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 292,
+                            "byteStart": 278
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TamyresVice"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 305,
+                            "byteStart": 293
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eleitor de Porto Alegre-RS precisa acordar e deixar de ser negacionista e de extremista. É só ver como ficaram as ruas com a chuva em 13/09/2024.....a causa não foi excesso de chuva, e sim, a continuidade da má administração negacionista do atual gestor Seb.Melo.\n#VOTE13\n#MariaPrefeita\n#TamyresVice"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7v22s6av7wa5mht366iszbu/bafkreifvjy5nykhakvs3t7yar7l4v4ndxmtqc3tfyjh7lhrhmz6zoeoxfe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:m7v22s6av7wa5mht366iszbu/bafkreifvjy5nykhakvs3t7yar7l4v4ndxmtqc3tfyjh7lhrhmz6zoeoxfe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1224,
+                            "width": 750
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 6,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T15:56:55.116Z",
+            "labels": [],
+            "threadgate": {
+                "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.feed.threadgate/3l47e2piu6e2n",
+                "cid": "bafyreicji6o7foajyljhqljwkatunjj5sppvlgubljcngi3y6lecbnu7ha",
+                "record": {
+                    "$type": "app.bsky.feed.threadgate",
+                    "createdAt": "2024-09-16T21:32:13.865Z",
+                    "hiddenReplies": [
+                        "at://did:plc:kdnkflfrwb5xcktkdfl3kjlf/app.bsky.feed.post/3l4cefusp5r2d"
+                    ],
+                    "post": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.feed.post/3l47e2piu6e2n"
+                },
+                "lists": []
+            }
+        },
+        {
+            "uri": "at://did:plc:qr6gyw5jb7gme5fdwdtwkyow/app.bsky.feed.post/3l42qdwpsqo2h",
+            "cid": "bafyreifj5ru6rcggqdrult4h54onkjbzif6pherk6gvrslkfkq47bbstse",
+            "author": {
+                "did": "did:plc:qr6gyw5jb7gme5fdwdtwkyow",
+                "handle": "aedo53.bsky.social",
+                "displayName": "aedo53",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qr6gyw5jb7gme5fdwdtwkyow/bafkreigx4yvfqv7rrqlui4kr36bbua2ssuk6dgrpmt7unlxfbsiwu2wxam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T16:25:55.823Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T19:51:48.188Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 830,
+                                "width": 1245
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif4wntbvthjlop7bsjisxe2b4ytztz2ry55t2h25nm2x2p6b7nfhy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 813889
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CACHOEIRA BOM DESPACHO, SANTA CRUZ DE MINAS, MG. SECOU! INCÊNDIOS ASSOLAM O ESTADO E A FALTA DE CHUVA JÁ MOSTRA SEUS EFEITOS EM ALGUNS CURSOS D'ÁGUA QUE REDUZIRAM DRASTICAMENTE O VOLUME OU SECARAM TOTALMENTE. É TANTO TEMPO SEM CHOVER QUE CRESCE O MEDO DA PRÓXIMA TEMPORADA DE CHUVA: TALVEZ EXCESSO"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qr6gyw5jb7gme5fdwdtwkyow/bafkreif4wntbvthjlop7bsjisxe2b4ytztz2ry55t2h25nm2x2p6b7nfhy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr6gyw5jb7gme5fdwdtwkyow/bafkreif4wntbvthjlop7bsjisxe2b4ytztz2ry55t2h25nm2x2p6b7nfhy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 830,
+                            "width": 1245
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T19:51:48.188Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:thbcgyhay5bksjo2cqfl3qou/app.bsky.feed.post/3l42byxavrs26",
+            "cid": "bafyreicfnhl7a6wz2y5kzmozdjbz7uo4yqqhoip7hbimipso3wajhrezfq",
+            "author": {
+                "did": "did:plc:thbcgyhay5bksjo2cqfl3qou",
+                "handle": "xoxothales.bsky.social",
+                "displayName": "thales;",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:thbcgyhay5bksjo2cqfl3qou/bafkreig6s6ufaa3sdfagpdlmyvxvd5skowqqbzvc2ffcvpdoxwgeg5pemi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T17:44:59.503Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T15:36:48.482Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "acordei cedo capinando o passeio da casa, varrendo e tirando excesso de onde a água da chuva escapa... ontem foi limpeza em casa!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T15:36:48.482Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m7jvuzsitmz5mykuc2qo7yha/app.bsky.feed.post/3l3ykrwkrg22w",
+            "cid": "bafyreidmciurrhvum7bcmhdvl7r45lqeqzii4sd3qlnyr2py76syyz6cqa",
+            "author": {
+                "did": "did:plc:m7jvuzsitmz5mykuc2qo7yha",
+                "handle": "victorizxss.bsky.social",
+                "displayName": "vick",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7jvuzsitmz5mykuc2qo7yha/bafkreiamnnfjgxv6zexmi5y6v7xciwyo24j56fr5qpcwwgciyvolthakei@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T11:43:06.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T23:08:35.189Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "não aguento mais ver jornal nacional anunciando todo dia sobre queimada, poluição, seca, chuva em excesso tamo tudo fudido e vamo morrer por culpa desses tabacudo do agronegócio eu vo me matar"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T23:08:35.189Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sm4rbri7rr2kotvtximxjgho/app.bsky.feed.post/3l3xytptdis2g",
+            "cid": "bafyreieayuk4o7okquprmaanfdep7757npkpndmfczdvfgbcsimsqforbi",
+            "author": {
+                "did": "did:plc:sm4rbri7rr2kotvtximxjgho",
+                "handle": "beto13paes.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sm4rbri7rr2kotvtximxjgho/bafkreib3vcxqcpzhsqxubfgwv7zxvtt2nqerittsxwdkml3rrgustca2ba@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T14:23:36.004Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T17:47:29.990Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:a5o5pa6imrd52s627zq63zgz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 188,
+                            "byteStart": 176
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:ftzfqqac3illc5mqhdtkw2zr"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 300,
+                            "byteStart": 289
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ainda tem os negacionista dizendo q não existe emergência climática, RGS quase acabou devido excesso de chuva e inundações, agora mais da metade do país está em chamas.\n@lula.com.br presidente estamos em guerra, hectares em chamas, em uma batalha se pensa primeiro em salvar vidas!\n@stf.jus.br"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T17:47:29.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lz2cgjzqdp4kuqyhdqhqxeim/app.bsky.feed.post/3l3srjzhr2m27",
+            "cid": "bafyreicjueaic5wiveskbometybg7fjx7ldqis2jifpnz6gy4c7rsimij4",
+            "author": {
+                "did": "did:plc:lz2cgjzqdp4kuqyhdqhqxeim",
+                "handle": "mailsonr13.bsky.social",
+                "displayName": "🇦🇹Mailson dos Santos🇦🇹",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lz2cgjzqdp4kuqyhdqhqxeim/bafkreib2nx3tgvxcecg6jdyp24557zgsuez3ckxdzszfvjflwgejqv3kmu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T11:39:23.336Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T15:53:30.969Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifjnhq6giigquzwskn2v4e3yjkuawg7pejjpz4d2mshiar4up2mnu",
+                        "uri": "at://did:plc:lz2cgjzqdp4kuqyhdqhqxeim/app.bsky.feed.post/3l3srdluguj2o"
+                    },
+                    "root": {
+                        "cid": "bafyreifecsssmbieefylb2z2zzwvlc2fo67h6j3qdzjw4eyguxw522m6sq",
+                        "uri": "at://did:plc:q6re2uv7i5bvb7vkl5n2jhya/app.bsky.feed.post/3l3scl5e2fi23"
+                    }
+                },
+                "text": "Não quer prejudicar o meio ambiente, pois dependem da terra pra tirar seu sustento. As mudanças climáticas afetam diretamente o bolso do produtor, seja pela estiagem ou excesso de chuva, tudo prejudica a produção, e logo prejudica o bolso de nós produtores"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T15:53:30.129Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g4wobcolvdjsgdkkw7gupghj/app.bsky.feed.post/3l3opkdbizu2f",
+            "cid": "bafyreigmjzqjpxitkt2cp5taznh3pdnsdfjicvvkm2pzbn6f42aovces4e",
+            "author": {
+                "did": "did:plc:g4wobcolvdjsgdkkw7gupghj",
+                "handle": "sabrinaaleatoria.bsky.social",
+                "displayName": "Moça Aleatória",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g4wobcolvdjsgdkkw7gupghj/bafkreigjeyb7h6moac2tubnxlimmw6gxxlbc6sixwb2xwihyvfe4czbxty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-31T12:32:27.867Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T01:07:14.572Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidwcqn43wsvbrasignweauimqpwafm7xvkipflk6dagcmdc24gowm",
+                        "uri": "at://did:plc:22bfuafcreawxlqfzwedk3p4/app.bsky.feed.post/3l3oclzgftg2z"
+                    },
+                    "root": {
+                        "cid": "bafyreih5j4afjacdg4xacgtq7t35iiihpccch3j6yfxlum3ultximqz474",
+                        "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3l3nnexaa6t2i"
+                    }
+                },
+                "text": "O  certo mesmo era ter um equilíbrio, com clima tropical típico, chuva na época de chuva/verão e seca na época de seca/inverno. O excesso de tudo q tá tornando as coisas péssimas e devastando tudo. As queimadas e fumaça q estão tendo aqui tbm causam danos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T01:07:14.024Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wdpglmol5fyiq52u4h53gbte/app.bsky.feed.post/3l3lchwb4q62n",
+            "cid": "bafyreicc3di7xzhj7j5fqoivd5vcppp35vr2r7jtn6ziozyzuri4yohbqq",
+            "author": {
+                "did": "did:plc:wdpglmol5fyiq52u4h53gbte",
+                "handle": "stillowzah.bsky.social",
+                "displayName": "🧡💙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wdpglmol5fyiq52u4h53gbte/bafkreiblrchv3klkqjjwpgqhbjfuw5rd2xj66g54nkmg4mojauszcmtuka@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T01:19:09.725Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T16:35:14.881Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "agora esperar o chaveiro vir aqui trocar a minha fechadura toda que foi de arrasta... excesso de chuva, até que demorou, 4 aninhos"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T16:35:14.881Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6qnqhxvxduodkpjbi56jt5we/app.bsky.feed.post/3l3get5zy332o",
+            "cid": "bafyreig27njbbvbkdzqywiydbciphzj4tkfyc4lsivhetbvlha5iol4ajq",
+            "author": {
+                "did": "did:plc:6qnqhxvxduodkpjbi56jt5we",
+                "handle": "marcelodarw.bsky.social",
+                "displayName": "Marcelo Darw",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6qnqhxvxduodkpjbi56jt5we/bafkreidmsmcu5lcresoyjw6wruu5eilf7ucnpj3mmxqw4cz7ezlls76c34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-25T12:38:53.225Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T17:34:02.312Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaxbsgvvo3kxo7q3ebjyojby6fqrdwlfngonwdv6jmtynx3hqvybq",
+                        "uri": "at://did:plc:7cb3hdykdqrtmnitl3wbltpm/app.bsky.feed.post/3l3gdxxix4h2q"
+                    },
+                    "root": {
+                        "cid": "bafyreiemqndjjxr5kp56dryhkkdqxsh2sntccon5xt4bg5ieni6klwywqm",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l3g76qxwb42s"
+                    }
+                },
+                "text": "Olha, do que eu sei, toda chuva é naturalmente ácida, exatamente por causa da presença do CO2 na atmosfera. A chuva ácida perigosa é a formada pelo excesso de óxidos de enxofre e nitrogênio na atmosfera, não é isso?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T17:34:01.438Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:l5d3uoyg6h2gobiaffjjyygs/app.bsky.feed.post/3l3eu65ewf52c",
+            "cid": "bafyreicduvk334lwllcci77mjtn4g4s7gy2at373kydlgico5g46o55umy",
+            "author": {
+                "did": "did:plc:l5d3uoyg6h2gobiaffjjyygs",
+                "handle": "1903natalia.bsky.social",
+                "displayName": "nat 🇪🇪",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l5d3uoyg6h2gobiaffjjyygs/bafkreic2tdwi3nqkbxwbkbdoqmu5imlpbjrns62m2uw2x3c42m65ym4mzy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:04:50.339Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T03:03:15.726Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifd3pabuzfun3fnortkuall2oymjuin43ldau2texy5sexclmg6ze",
+                        "uri": "at://did:plc:jfdccpxljkrzsjy23f7u7ib6/app.bsky.feed.post/3l3eu37smbc2n"
+                    },
+                    "root": {
+                        "cid": "bafyreicctjlvgm3lqpdhpt7b47znebo257gogm7thb66suu2fdm5hkfc5m",
+                        "uri": "at://did:plc:l5d3uoyg6h2gobiaffjjyygs/app.bsky.feed.post/3l3etdpmg252w"
+                    }
+                },
+                "text": "que horror. preocupante isso, se não é excesso de chuva é muito calor e fogo"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T03:03:15.726Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l3egg7me6t2s",
+            "cid": "bafyreibbenerxu3e4vmlxgg6cvbzyb6wzc3rpyvagdxfggifl64dd74yqq",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T22:57:14.489Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A situação também tinha influência de queimadas em estados vizinhos, segundo meteorologistas do Climatempo. A névoa fina era perceptível em imagens de satélite e foi notada por muitos cariocas ao long...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiezepihd5r76an5loae2f4ar7opwgj6eszegfwd6ajat25n34j2zy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 724725
+                        },
+                        "title": "RJ tem tarde de névoa causada por fatores como falta de chuva e fumaça de focos de incêndio do interior",
+                        "uri": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2024/09/04/rj-tem-tarde-de-nevoa-falta-de-chuva.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2024/09/04/rj-tem-tarde-de-nevoa-falta-de-chuva.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 201
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifu3hjanmkhsgrdifiiwypspa7ejxjgps3yrt62szifuasecvoymy",
+                        "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l3egadymxl2s"
+                    },
+                    "root": {
+                        "cid": "bafyreiaojhmcnrmmhvcleo5mx75ngj2ycvqetifvpipxadta6xhz63ynda",
+                        "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l3e4wyzpo52s"
+                    }
+                },
+                "text": "Excesso de poluentes por falta de chuva + fumaça de focos de incêndio no interior do Rio + influência de queimadas em estados vizinhos = névoa seca e fina em vários pontos do estado e na capital\n\ng1.globo.com/rj/rio-de-ja..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2024/09/04/rj-tem-tarde-de-nevoa-falta-de-chuva.ghtml",
+                    "title": "RJ tem tarde de névoa causada por fatores como falta de chuva e fumaça de focos de incêndio do interior",
+                    "description": "A situação também tinha influência de queimadas em estados vizinhos, segundo meteorologistas do Climatempo. A névoa fina era perceptível em imagens de satélite e foi notada por muitos cariocas ao long...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreiezepihd5r76an5loae2f4ar7opwgj6eszegfwd6ajat25n34j2zy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T22:57:14.489Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:q5fhvu55mph25ntzz3lt3nix/app.bsky.feed.post/3l3ebdantzy2x",
+            "cid": "bafyreiahan3q72rtfpm4pzi3mia3l7zyaxglylu7n3q53br44x4vtnnh2a",
+            "author": {
+                "did": "did:plc:q5fhvu55mph25ntzz3lt3nix",
+                "handle": "douglasferreira.bsky.social",
+                "displayName": "Dôuglas Ferreira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q5fhvu55mph25ntzz3lt3nix/bafkreiavfeocqwmgjiqjljfvtdlhza25fyehzskvswi5tiykkmnnijrxlu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-05T00:02:48.915Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T21:26:05.777Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "O clima de fato é algo que preocupa. Não lembro de antes ser tão afetado por chuva demais, frio demais, seca demais, calor demais...tudo em excesso"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T21:26:05.777Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kwpbael2le2z",
+            "cid": "bafyreifxdfbmh2mzb2q3krurx6witjo6grxgtnge5rcywhqexrqle5mgou",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-07T15:17:48.770Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaplxatbtrufbv44477gditgtngvteljnr5nq3rhbockzcz3uy67m",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kwpb7426ki2b"
+                    },
+                    "root": {
+                        "cid": "bafyreiaplxatbtrufbv44477gditgtngvteljnr5nq3rhbockzcz3uy67m",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3kwpb7426ki2b"
+                    }
+                },
+                "text": "Fizemos lei para o aproveitamento da água das chuvas, para economizar água e para evitar que o excesso de chuva entupa as ruas do Rio e de outras cidades fluminenses."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-07T15:17:48.770Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kuzxwg3peg2s",
+            "cid": "bafyreifdahnnrzwd73txgyl5ofwe5zsmnqznzwzwqhzrmchpz2unrkricm",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-16T10:40:03.005784Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Colheita de 2024 está terminando e deve render menos do que o esperado.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicnzj6mzhm3sqntg2nstshuwsx2l7vfekfxbkipptpfd6rgx6zvta"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 180549
+                        },
+                        "title": "Paraná enfrenta queda na produção de milho por falta de chuva e excesso de calor, diz especialista",
+                        "uri": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2024/06/16/parana-enfrenta-queda-na-producao-de-milho-por-falta-de-chuva-e-excesso-de-calor-diz-especialista.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Paraná enfrenta queda na produção de milho por falta de chuva e excesso de calor, diz especialista"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2024/06/16/parana-enfrenta-queda-na-producao-de-milho-por-falta-de-chuva-e-excesso-de-calor-diz-especialista.ghtml",
+                    "title": "Paraná enfrenta queda na produção de milho por falta de chuva e excesso de calor, diz especialista",
+                    "description": "Colheita de 2024 está terminando e deve render menos do que o esperado.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicnzj6mzhm3sqntg2nstshuwsx2l7vfekfxbkipptpfd6rgx6zvta@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-16T10:40:03.005Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xvxdshrp4rjqm3pezm7pfzr5/app.bsky.feed.post/3ku7jgjgzwc2e",
+            "cid": "bafyreiehvwo3nzyslwthhenmghiwi4sofeqc6gncbqr4tpujakb7xh3jmu",
+            "author": {
+                "did": "did:plc:xvxdshrp4rjqm3pezm7pfzr5",
+                "handle": "aldobarroso.bsky.social",
+                "displayName": "AldoBarroso",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xvxdshrp4rjqm3pezm7pfzr5/bafkreidptagz6fcrnoy7woba4xjgk6botquzvhzerjh5vd7ldmmk44nyz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T11:46:53.604Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T22:05:09.039Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Não tenho mais dúvidas,  não foi somente chuva em excesso! Foi tragédia anunciada,  abertura de comportas ! Aí se juntou às chuvas!"
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T22:05:09.039Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nyq4rn6mdhba7atwztqtfaiv/app.bsky.feed.post/3kt5mzalqdc2a",
+            "cid": "bafyreihbequ2uj76akindnidpkvjwq3ajef7ilqf6tfszz5ps4yvwoj4qi",
+            "author": {
+                "did": "did:plc:nyq4rn6mdhba7atwztqtfaiv",
+                "handle": "ritapalladino.bsky.social",
+                "displayName": "Rita Palladino ",
+                "labels": [],
+                "createdAt": "2024-04-20T21:34:00.873Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-23T10:45:03.688Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidrgtslduviwhtfz56qvutthhzoktnyif64w4eirheit7b2zelfgi",
+                        "uri": "at://did:plc:lzeelk2t6xq7vzbuzqm26mo5/app.bsky.feed.post/3kt5kl4tr622v"
+                    },
+                    "root": {
+                        "cid": "bafyreidrgtslduviwhtfz56qvutthhzoktnyif64w4eirheit7b2zelfgi",
+                        "uri": "at://did:plc:lzeelk2t6xq7vzbuzqm26mo5/app.bsky.feed.post/3kt5kl4tr622v"
+                    }
+                },
+                "text": "Vc está se preocupando com a luz do dia? Se preocupe com o calor ou chuva em excesso"
+            },
+            "replyCount": 5,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 4,
+            "indexedAt": "2024-05-23T10:45:03.688Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3kstyeb2zic2q",
+            "cid": "bafyreidsfnygmvvgmxoblmqtztikxjy7fqrlw36n55z6dqge4ugdmc2num",
+            "author": {
+                "did": "did:plc:mmfstj3aoyjlakckupdhgntu",
+                "handle": "flaviaward.bsky.social",
+                "displayName": "Flavia Ward 🌼🌱",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmfstj3aoyjlakckupdhgntu/bafkreih237fae2qcerrsgmiqlunq3sqfbehl7nswg3tvwcorkokpi7aaem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T18:18:18.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-19T14:41:27.859Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Já no sítio do seu Airton, o milho ficou bem ruim pelo excesso de chuva e falta de sol. \n“Perdendo com chuva é melhor do q com sol”\nEle vai plantar de novo."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-19T14:41:27.859Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ll2qv3abv43ktd2cioey2y4j/app.bsky.feed.post/3ksritjf3lo2l",
+            "cid": "bafyreievyb6ubjosftzve2m5uzlkv65l5w3t7ecla5gjgqrxwtu3keccza",
+            "author": {
+                "did": "did:plc:ll2qv3abv43ktd2cioey2y4j",
+                "handle": "juidson.bsky.social",
+                "displayName": "Juidson Campos ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ll2qv3abv43ktd2cioey2y4j/bafkreibfg7kiz4tx72qx75rtwlm3jnmsvvli55ilizssrayjuh7jpk7flu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:15:46.291Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-18T14:58:19.404Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Quando é que o agronegócio vai acabar com esse negócio de estiagem e chuva em excesso e o negócio ficar cada vez mais ogro de encarar?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-18T14:58:19.404Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kfcvbenek4jlkip3tcupihni/app.bsky.feed.post/3ksjxgvb4vp25",
+            "cid": "bafyreid5rj3y5leka6ixsbahaz52gb6rlzh6sdrnmv5op6cbszzp55wrna",
+            "author": {
+                "did": "did:plc:kfcvbenek4jlkip3tcupihni",
+                "handle": "thatsglitch.bsky.social",
+                "displayName": "Munir",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kfcvbenek4jlkip3tcupihni/bafkreiem7r3mpte4yvhcanminoh5mlfcxsl4tuyhxob4ejm55aiqlvqqe4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:kfcvbenek4jlkip3tcupihni",
+                        "uri": "at://did:plc:kfcvbenek4jlkip3tcupihni/app.bsky.actor.profile/self",
+                        "cid": "bafyreibcoupjykwuu4s72c7sx24sbaaydjjccnwqe66szwa6ycxkjgnahm",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-26T22:09:31.096Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-15T14:58:26.063Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A notícia que toda a região não gostaria de ouvir, mas a ponte sobre o Rio das Antas, entre Cotiporã e Bento Gonçalves não resistiu as forças das água",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifxjfjtxd4shmc56vzfmlnqm5mkpe4i654srf25uwghkbk5gm3bem"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 711066
+                        },
+                        "title": "Ponte sobre o Rio das Antas entre Cotiporã e Bento Gonçalves não resiste | Rádio Studio 87.7 FM | Studio TV",
+                        "uri": "https://www.google.com/amp/s/www.studio.fm.br/2024/05/ponte-sobre-o-rio-das-antas-entre-cotipora-e-bento-goncalves-nao-resiste/amp/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.google.com/amp/s/www.studio.fm.br/2024/05/ponte-sobre-o-rio-das-antas-entre-cotipora-e-bento-goncalves-nao-resiste/amp/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 118
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Meu deus, essa foi guerreira e jamais será esquecida. Qualquer chuva em excesso ela ficava embaixo d'água 🕊 RIP\n\nwww.google.com/amp/s/www.st..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.google.com/amp/s/www.studio.fm.br/2024/05/ponte-sobre-o-rio-das-antas-entre-cotipora-e-bento-goncalves-nao-resiste/amp/",
+                    "title": "Ponte sobre o Rio das Antas entre Cotiporã e Bento Gonçalves não resiste | Rádio Studio 87.7 FM | Studio TV",
+                    "description": "A notícia que toda a região não gostaria de ouvir, mas a ponte sobre o Rio das Antas, entre Cotiporã e Bento Gonçalves não resistiu as forças das água",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kfcvbenek4jlkip3tcupihni/bafkreifxjfjtxd4shmc56vzfmlnqm5mkpe4i654srf25uwghkbk5gm3bem@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-15T14:58:26.063Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ow7sfdpirfr7zl7o2pgupnap/app.bsky.feed.post/3ksgzh7xr722m",
+            "cid": "bafyreifgdafdeebqn6bubajv5xhucsu5xv376ljxagoi24utipdjkqqeiq",
+            "author": {
+                "did": "did:plc:ow7sfdpirfr7zl7o2pgupnap",
+                "handle": "paulouberaba.blue",
+                "displayName": "Paulo Uberaba 🏳️‍🌈 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ow7sfdpirfr7zl7o2pgupnap/bafkreifrdb4zgomgrrzq5s4hrn3dinnzs2k3wsbdpkdwhitqm5hrrni6fy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ow7sfdpirfr7zl7o2pgupnap",
+                        "uri": "at://did:plc:ow7sfdpirfr7zl7o2pgupnap/app.bsky.actor.profile/self",
+                        "cid": "bafyreicqokuorqmh2bekacguahmf4a6nxpgoh6grjdws3h3hd2sqinripa",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-19T21:41:09.289Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T10:56:24.184Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 584,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiha4j6o52fldnjg5fjnpdp3ooi3vvgxkd2gcxqv32pf675wbe7cse"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 128186
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Explicação do excesso de chuva no RS, graficamente falando.\nUmidade amazônica, que desceu e subiu devido a um sistema cavado que joga a umidade pra cima e forma nuvens.\nA onda de calor (bloqueio) impediu a subida desse sistema.  Tudo isso potencializado pelo El Niño."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ow7sfdpirfr7zl7o2pgupnap/bafkreiha4j6o52fldnjg5fjnpdp3ooi3vvgxkd2gcxqv32pf675wbe7cse@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ow7sfdpirfr7zl7o2pgupnap/bafkreiha4j6o52fldnjg5fjnpdp3ooi3vvgxkd2gcxqv32pf675wbe7cse@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 584,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T10:56:24.184Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vccpbr5bhtrrfseedgokbsng/app.bsky.feed.post/3kseplcun5d2i",
+            "cid": "bafyreibg3hh4ejhhlzilfe7xaooedbycmza7furlpl7wuhjchkgpninc7q",
+            "author": {
+                "did": "did:plc:vccpbr5bhtrrfseedgokbsng",
+                "handle": "metsul.com",
+                "displayName": "MetSul Meteorologia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vccpbr5bhtrrfseedgokbsng/bafkreidfybn52ke4avqyar37lnpplkc3iy7s2af6zxjb4ry6ewxokadnam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T22:05:10.454Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-13T12:54:24.895Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Abalos assustaram a população de Caxias do Sul na madrugada de hoje. Risco geológico é extremo de deslizamentos.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid5arfw4bnt5oyyhaui7fdau75o5wr7wl5mncu4utmrpndidmzy34"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 944976
+                        },
+                        "title": "Caxias do Sul tem tremores de terra e rachaduras na BR-116; entenda",
+                        "uri": "https://metsul.com/caxias-do-sul-tem-tremores-de-terra-e-rachaduras-na-br-116-entenda/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🔴 AGORA | Sob risco geológico extremo por excesso de chuva, Caxias do Sul registra tremores de terra, deslizamentos e rachaduras na BR-116."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://metsul.com/caxias-do-sul-tem-tremores-de-terra-e-rachaduras-na-br-116-entenda/",
+                    "title": "Caxias do Sul tem tremores de terra e rachaduras na BR-116; entenda",
+                    "description": "Abalos assustaram a população de Caxias do Sul na madrugada de hoje. Risco geológico é extremo de deslizamentos.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vccpbr5bhtrrfseedgokbsng/bafkreid5arfw4bnt5oyyhaui7fdau75o5wr7wl5mncu4utmrpndidmzy34@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 6,
+            "likeCount": 28,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-13T12:54:24.895Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3ksaj7jcfql2j",
+            "cid": "bafyreihgxwcslo3xzbqftxkiyzrvdjjsgkn5jazoswhdfdmyms4i67kfdq",
+            "author": {
+                "did": "did:plc:rlnjc4a6ioervuuwjcpr4y4e",
+                "handle": "lucianosresende.bsky.social",
+                "displayName": "lucianosresende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlnjc4a6ioervuuwjcpr4y4e/bafkreiavwxmpsv2kfrdbmpnihyubhrssgrqgbyhxzljdpoafwwp4ajuv2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-07T00:25:28.043Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-11T20:49:47.434Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigs4fvgj54rp6uyguq3umhzch6gp7ocbo72rglvrdjpszyblqwwsq",
+                        "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3ksaj6onduc2x"
+                    },
+                    "root": {
+                        "cid": "bafyreigs4fvgj54rp6uyguq3umhzch6gp7ocbo72rglvrdjpszyblqwwsq",
+                        "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3ksaj6onduc2x"
+                    }
+                },
+                "text": "Com isso, já são 2.039.084 pessoas afetadas no estado que desde o final de abril vive os problemas decorrentes do excesso de chuva."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-11T20:49:47.434Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ygsiuidqn7vpyvrbklacdjtg/app.bsky.feed.post/3krjptt5piz27",
+            "cid": "bafyreidof6jncuwznwfq6xr65bmy2bukfr57clpbwmoial5qlpq6gq34ua",
+            "author": {
+                "did": "did:plc:ygsiuidqn7vpyvrbklacdjtg",
+                "handle": "marcosnunes.bsky.social",
+                "displayName": "MarcosNunes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ygsiuidqn7vpyvrbklacdjtg/bafkreifkv3psn2k5tqehrfxtv65b7gozglstqignpn65gs5mrbgcmnn46e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T12:09:39.231Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T19:17:17.469Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Existem estudos de sobre que indicam onde e como devem ser realizadas obras preventivas das grandes catástrofes que vivem a ocorrer por excesso de chuvas e ventos, ou falta de chuva e ocorrência de terremotos. Se obras não são feitas, os responsáveis por elas devem vir à tona e explicar porque não."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T19:17:17.469Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4f6y77wdgidlp5gztx3mzu5j/app.bsky.feed.post/3krjimdgsjv2g",
+            "cid": "bafyreihwh3fzn2jbhk6tz5224xnornco3kkp57lvlhphun3p32o7x3wyzq",
+            "author": {
+                "did": "did:plc:4f6y77wdgidlp5gztx3mzu5j",
+                "handle": "vklszim.tripazeada.club",
+                "displayName": "TiuzimVolk 🍧",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4f6y77wdgidlp5gztx3mzu5j/bafkreiei5qo6giyqga4hmo26lsarue35cxhhf57px5ls7imi52szmgil74@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:4f6y77wdgidlp5gztx3mzu5j",
+                        "uri": "at://did:plc:4f6y77wdgidlp5gztx3mzu5j/app.bsky.actor.profile/self",
+                        "cid": "bafyreicryokb2osz24jpsjz3o3ilm5dgbqza3gfycdzqyrzdvcvhao3tg4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T18:46:34.125Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T18:46:32.185Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T17:07:48.964Z",
+                "langs": [
+                    "es",
+                    "fr",
+                    "pt"
+                ],
+                "text": "A situação aqui no meu estado ta horrível, vários lugares estão inundados por conta do excesso de chuva, e isso ta acontecendo por conta de nós humanos que só matamos a mãe natureza"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T17:07:48.964Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mbwisujqiuxqh3afq3pwphry/app.bsky.feed.post/3krjbmrnh2v2y",
+            "cid": "bafyreibdnevjrfqi4rnjebzy2lyjjnaqbfjiim6fg76ibvt7zbjdvz6llu",
+            "author": {
+                "did": "did:plc:mbwisujqiuxqh3afq3pwphry",
+                "handle": "elianissima.bsky.social",
+                "displayName": "🪑Canjiqueira 🚂",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbwisujqiuxqh3afq3pwphry/bafkreicnzwealx3fvhx5tih4xiqqlc5h2kgm5k3bsdezniyppeu4jq5aoy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:mbwisujqiuxqh3afq3pwphry",
+                        "uri": "at://did:plc:mbwisujqiuxqh3afq3pwphry/app.bsky.actor.profile/self",
+                        "cid": "bafyreihovktzgupostgmbcrv6tlo5hyth6mvjyqpfr6ck4jh4geqxuyvde",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-27T14:02:23.935Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T15:02:48.043Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chuva em excesso no Sul, seca no centro oeste"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T15:02:48.043Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fw6thk2goohtlhur4jb5kb4t/app.bsky.feed.post/3kr4tyjm2sv2i",
+            "cid": "bafyreih46s3o5v35vkltvpqpy6blm365nefcrqa45dzsema6xqmpwhynsy",
+            "author": {
+                "did": "did:plc:fw6thk2goohtlhur4jb5kb4t",
+                "handle": "angelicagbk.bsky.social",
+                "displayName": "Angélicanaquistagraçasadeus🇵🇸🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fw6thk2goohtlhur4jb5kb4t/bafkreihi33kfbiypevhy34qxgdt22psfyhtrriji2ri6lksd7izl5vnmtq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T18:07:29.920Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-27T16:26:52.446Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pobre sempre foi \"ecológico\", me lembro da minha avó, que escorria o excesso de óleo, dos seus maravilhosos bolinhos de chuva, no papel de pão!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-27T16:26:52.446Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kqh3euccrk2h",
+            "cid": "bafyreigutjxhxis4jjx77wo3ipiimjslsj67542g3pc7geo7cg2vanj53u",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-19T00:40:27.862139Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em 2017, a cidade recebeu um investimento de o equivalente a R$ 8 bilhões para a despoluição do Rio Sena, mas as obras necessárias ainda não foram concluídas. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif2gktwcvwej3pscb7bx5pcpe5m5waq53kuii2jtd3lfe4x42wjia"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 120540
+                        },
+                        "title": "Excesso de chuva preocupa a organização dos Jogos de Paris",
+                        "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/04/18/excesso-de-chuva-preocupa-a-organizacao-dos-jogos-de-paris.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Excesso de chuva preocupa a organização dos Jogos de Paris"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/04/18/excesso-de-chuva-preocupa-a-organizacao-dos-jogos-de-paris.ghtml",
+                    "title": "Excesso de chuva preocupa a organização dos Jogos de Paris",
+                    "description": "Em 2017, a cidade recebeu um investimento de o equivalente a R$ 8 bilhões para a despoluição do Rio Sena, mas as obras necessárias ainda não foram concluídas. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreif2gktwcvwej3pscb7bx5pcpe5m5waq53kuii2jtd3lfe4x42wjia@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-19T00:40:27.862Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kiun37djgh2e",
+            "cid": "bafyreidxddpi6p6b3e4fomcwkxcvocy7siqbuixjcf2egag55lkk3ndusq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-13T14:40:13.610091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Estimativa é de que o serviço seja concluído até 13h deste sábado (13) e o abastecimento seja retomado gradativamente ao longo da tarde.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreied5xfoblyvmqifwtnxjpyggzjm2i3fztdcfbxatdpgho2gg23o44"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 242821
+                        },
+                        "title": "Estação de água é paralisada por excesso de lama e galhos após chuva em Salto ",
+                        "uri": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/01/13/estacao-de-agua-e-paralisada-por-excesso-de-lama-e-galhos-apos-chuva-em-salto.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Estação de água é paralisada por excesso de lama e galhos após chuva em Salto"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/01/13/estacao-de-agua-e-paralisada-por-excesso-de-lama-e-galhos-apos-chuva-em-salto.ghtml",
+                    "title": "Estação de água é paralisada por excesso de lama e galhos após chuva em Salto ",
+                    "description": "Estimativa é de que o serviço seja concluído até 13h deste sábado (13) e o abastecimento seja retomado gradativamente ao longo da tarde.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreied5xfoblyvmqifwtnxjpyggzjm2i3fztdcfbxatdpgho2gg23o44@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-13T14:40:13.610Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kexbj764ig2p",
+            "cid": "bafyreibsenck7hecfrduawcw3ksvevwdmcil7pff3xqihmrlf23raaf6ve",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-24T18:10:31.196016Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo a Secretaria da Agricultura e do Abastecimento do estado, chuvas recentes causaram de 20% a 30% de perdas para culturas nos Campos Gerais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicvqqapkqvpvcisf2po7he3v3oerapg2agw2cessokzisjxoapfe4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 172837
+                        },
+                        "title": "\nExcesso de chuva derruba em até 30% produtividade de trigo e de cevada no PR: entenda os efeitos das mudanças climáticas na agricultura",
+                        "uri": "https://g1.globo.com/pr/campos-gerais-sul/agro-riqueza-campos-gerais/noticia/2023/11/24/excesso-de-chuva-derruba-em-ate-30percent-produtividade-de-trigo-e-de-cevada-no-pr-entenda-os-efeitos-das-mudancas-climaticas-na-agricultura.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Excesso de chuva derruba em até 30% produtividade de trigo e de cevada no PR: entenda os efeitos das mudanças climáticas na agricultura"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pr/campos-gerais-sul/agro-riqueza-campos-gerais/noticia/2023/11/24/excesso-de-chuva-derruba-em-ate-30percent-produtividade-de-trigo-e-de-cevada-no-pr-entenda-os-efeitos-das-mudancas-climaticas-na-agricultura.ghtml",
+                    "title": "\nExcesso de chuva derruba em até 30% produtividade de trigo e de cevada no PR: entenda os efeitos das mudanças climáticas na agricultura",
+                    "description": "Segundo a Secretaria da Agricultura e do Abastecimento do estado, chuvas recentes causaram de 20% a 30% de perdas para culturas nos Campos Gerais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicvqqapkqvpvcisf2po7he3v3oerapg2agw2cessokzisjxoapfe4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-24T18:10:31.196Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gk4liyzbjro3b45tduz3fghb/app.bsky.feed.post/3kdctxdctgs24",
+            "cid": "bafyreif6qhcn4zmx3uthvb5ruqlphplvs2iqvl4ztspqg2ehaqzyu5k5oi",
+            "author": {
+                "did": "did:plc:gk4liyzbjro3b45tduz3fghb",
+                "handle": "thiagosemaga.bsky.social",
+                "displayName": " Thiago",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gk4liyzbjro3b45tduz3fghb/bafkreidjwrj3bpcszr4xc3ridz7g36em6wg7mitxjua3mtgdxyazjf6baa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gk4liyzbjro3b45tduz3fghb",
+                        "uri": "at://did:plc:gk4liyzbjro3b45tduz3fghb/app.bsky.actor.profile/self",
+                        "cid": "bafyreiblwtnz5rq4mufp4vmiea3s76ko5hod6vl4moure6rixvopq4ej2u",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-04T14:01:10.910Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-03T21:49:50.057Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibx7pnizkdodjgcrxkegtutbf5uwldwjqfkwgnmxg33ur6rn4nwry",
+                        "uri": "at://did:plc:lzeelk2t6xq7vzbuzqm26mo5/app.bsky.feed.post/3kdctq6wuqf2b"
+                    },
+                    "root": {
+                        "cid": "bafyreigrgufld4trccgylsovwwoxogdboicpnaiwrjgg5p3yxvpgaevcja",
+                        "uri": "at://did:plc:lzeelk2t6xq7vzbuzqm26mo5/app.bsky.feed.post/3kdcm72mh3p27"
+                    }
+                },
+                "text": "Tem. A gente já colheu muito morango aqui. Mas choveu demais e apodreceu muita coisa. Esse ano foi ruim demais por causa do excesso de chuva."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-03T21:49:50.057Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kd4pvy2iiy2m",
+            "cid": "bafyreidxiq7rjixu23tz7atio5c4tmdvtlk7b7fvgexvb7hapldwft4huq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-01T11:21:08.163839Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo empresa, vazão de água está em 1,4 milhão de litros por segundo na manhã desta quarta-feira (1º).",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicnplru3pebiswjwrk4ukfnvtixbdnu4rgxkw5ywuerqygdapdhy4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 70614
+                        },
+                        "title": "Seis comportas da Itaipu são abertas devido ao excesso de chuva",
+                        "uri": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2023/11/01/seis-comportas-da-itaipu-sao-abertas-devido-ao-excesso-de-chuva.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Seis comportas da Itaipu são abertas devido ao excesso de chuva"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2023/11/01/seis-comportas-da-itaipu-sao-abertas-devido-ao-excesso-de-chuva.ghtml",
+                    "title": "Seis comportas da Itaipu são abertas devido ao excesso de chuva",
+                    "description": "Segundo empresa, vazão de água está em 1,4 milhão de litros por segundo na manhã desta quarta-feira (1º).",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicnplru3pebiswjwrk4ukfnvtixbdnu4rgxkw5ywuerqygdapdhy4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-01T11:21:08.163Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:egmqi7orzydih32uyaj7g6up/app.bsky.feed.post/3kd2dqyqvlo2y",
+            "cid": "bafyreidntex5ptxj7iawwfnpgu45ie3sqmoiwgdw2lhngxuzpxwh6bck3y",
+            "author": {
+                "did": "did:plc:egmqi7orzydih32uyaj7g6up",
+                "handle": "limaozinho.bsky.social",
+                "displayName": "Don Lemoncito 🍋‍🟩🍋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:egmqi7orzydih32uyaj7g6up/bafkreiddj5qcgqmkc5epskgfovkkchjdcdtnd3lywwn4owskqccjrvulvm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:egmqi7orzydih32uyaj7g6up",
+                        "uri": "at://did:plc:egmqi7orzydih32uyaj7g6up/app.bsky.actor.profile/self",
+                        "cid": "bafyreihbfa6e6k255evd7ta2qxz5usxgrusec4jy5akdwaqeb2wxo3siga",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-30T02:00:02.417Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-31T12:38:18.565Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigfs5tm5tuev25qq6oryjb6kwhkbzjbmlodwrovns4bgysy7mnkcq",
+                        "uri": "at://did:plc:qbj5eg5e7mocan3hgxetogju/app.bsky.feed.post/3kd2dldf6sq2s"
+                    },
+                    "root": {
+                        "cid": "bafyreibpgg65wq5gsnleirzco7sbm5elhn42g3ijachfosjo2ep2lx77le",
+                        "uri": "at://did:plc:egmqi7orzydih32uyaj7g6up/app.bsky.feed.post/3kczgdzg6mq2r"
+                    }
+                },
+                "text": "Estou bem amiga, espero que a chuva dê trégua hoje, mas não sei se isso vai acontecer tão cedo... Sim, nossa, as últimas semanas tem sido difíceis, com destelhamentos, granizo, agora chuva em excesso"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-31T12:38:18.565Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3svxguslvjg3e42rzltstuxj/app.bsky.feed.post/3kcremfx27426",
+            "cid": "bafyreibovetf7jvwuhoazguntfbaou5hxqq6osorr5w76ffsxf5jmha5l4",
+            "author": {
+                "did": "did:plc:3svxguslvjg3e42rzltstuxj",
+                "handle": "glauberge.bsky.social",
+                "displayName": "Glauber Rezende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3svxguslvjg3e42rzltstuxj/bafkreicky5rp62ohcjmjco32xrw34mjvqhwlfgiplzs6f3rdnhhcoyeb5i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:3svxguslvjg3e42rzltstuxj",
+                        "uri": "at://did:plc:3svxguslvjg3e42rzltstuxj/app.bsky.actor.profile/self",
+                        "cid": "bafyreiaujhcf4yxw7iaxrxnkuf5d5x2slotqzpk33kzmrb573b2wo5r25q",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-19T00:48:05.085Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-27T22:59:56.094Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigvc4sl6km4wmitefsiwpqy5grbwkvhkbc5sleww5qbfagqh7liwi",
+                        "uri": "at://did:plc:a3eijl2gbkmykioieinpvyjd/app.bsky.feed.post/3kcrapxamkf2d"
+                    },
+                    "root": {
+                        "cid": "bafyreigvc4sl6km4wmitefsiwpqy5grbwkvhkbc5sleww5qbfagqh7liwi",
+                        "uri": "at://did:plc:a3eijl2gbkmykioieinpvyjd/app.bsky.feed.post/3kcrapxamkf2d"
+                    }
+                },
+                "text": "Eike dó... ele tomou chuva em excesso?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-27T22:59:56.094Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gk4liyzbjro3b45tduz3fghb/app.bsky.feed.post/3kcdktizden2v",
+            "cid": "bafyreia6l5brkbrdbrgroarnjunmczi5f4hlqxqpaii4xigv25o453exwa",
+            "author": {
+                "did": "did:plc:gk4liyzbjro3b45tduz3fghb",
+                "handle": "thiagosemaga.bsky.social",
+                "displayName": " Thiago",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gk4liyzbjro3b45tduz3fghb/bafkreidjwrj3bpcszr4xc3ridz7g36em6wg7mitxjua3mtgdxyazjf6baa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gk4liyzbjro3b45tduz3fghb",
+                        "uri": "at://did:plc:gk4liyzbjro3b45tduz3fghb/app.bsky.actor.profile/self",
+                        "cid": "bafyreiblwtnz5rq4mufp4vmiea3s76ko5hod6vl4moure6rixvopq4ej2u",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-04T14:01:10.910Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-22T11:14:13.771Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "As abobrinha tudo estragando no pé por causa do excesso de chuva. \n\nDeus, que dor."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-22T11:14:13.771Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jd5w4c4exmhmayivxibbwhvu/app.bsky.feed.post/3k6lhj464jm27",
+            "cid": "bafyreia43ujcv3xdojb6jwwltierjg3dzsbl6atl74zjttnoxe5dlssxle",
+            "author": {
+                "did": "did:plc:jd5w4c4exmhmayivxibbwhvu",
+                "handle": "rafa3l.bsky.social",
+                "displayName": "Rafael",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jd5w4c4exmhmayivxibbwhvu/bafkreihrefw5232tj2ace35ttmlqcatx74w6dnwmvz5kpvw2d4ii2yvzkq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jd5w4c4exmhmayivxibbwhvu",
+                        "uri": "at://did:plc:jd5w4c4exmhmayivxibbwhvu/app.bsky.actor.profile/self",
+                        "cid": "bafyreigudqv5pro2xqgo7bj5ndpnyasglizbo5ffqsj3kdn7dw4jc5bau4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T19:44:21.779Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-04T16:54:45.761Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "O país todo com altas temperaturas e desaguando a chuva retida pela barreira de calor por aqui, baixando assim a temperatura local. É lindo o ciclo. Só que, desregulado, vem água em excesso. E assim causa prejuízos. Fazemos parte do sistema, isso que geral tem que se dar conta."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-04T16:54:45.761Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:khfaiock5f7lppdlk6dq26jf/app.bsky.feed.post/3k3vibxc7xi2z",
+            "cid": "bafyreidvixacijgwq3irdre3bwuvjlf7srrkoxeicwjpss3drkdgcdiql4",
+            "author": {
+                "did": "did:plc:khfaiock5f7lppdlk6dq26jf",
+                "handle": "bmalveira.com",
+                "displayName": "Bruno Malveira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:khfaiock5f7lppdlk6dq26jf/bafkreigyvprfcbotpykrlczpqi6iswq5zcrqombbef32ygyqh7nmz4metq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-14T21:11:56.684Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-01T12:19:41.397Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia2tmtg6kqtiwdsrwn5sxjsswfzm3hosrq3hr6m4amwkoi5ssrcqq",
+                        "uri": "at://did:plc:p4w7z7sawtzsluum53hlq4sp/app.bsky.feed.post/3k3vi37lvtt2z"
+                    },
+                    "root": {
+                        "cid": "bafyreigbe2kbfjifsazlrtgaq6mkaxmuwpzkyh4mobp5jjalctorw3t4ym",
+                        "uri": "at://did:plc:p4w7z7sawtzsluum53hlq4sp/app.bsky.feed.post/3k3vhcyq54k2h"
+                    }
+                },
+                "text": "Moro em Campinas! Kkkkk\nGosto justamente pq passou o frio mais forte e tá começando a esquentar sem excesso de chuva"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-01T12:19:41.397Z",
+            "labels": []
+        }
+    ]
+}

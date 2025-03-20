@@ -1,0 +1,125 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:hnqu4w5ipdq4nq277biinmhf/app.bsky.feed.post/3l66rekj4r42o",
+            "cid": "bafyreiep53bm7a3r5v3775kigl5gfscyuiky3rz6p74td3rnx2zvemlh7i",
+            "author": {
+                "did": "did:plc:hnqu4w5ipdq4nq277biinmhf",
+                "handle": "aguoficial.bsky.social",
+                "displayName": "Advocacia-Geral da União (AGU)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hnqu4w5ipdq4nq277biinmhf/bafkreidhwc3o23oceccxdabo7eubl65zoepqrw5y6xudmucckz7ripalvu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T17:10:59.400Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T21:12:46.175Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Atuação busca a recuperação de cinco mil hectares e a responsabilização por destruição no bioma Amazônico",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicgufaomvho45ug73w677whpmr5bacl3qv3efvly34mbkb6mxonba"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 377424
+                        },
+                        "title": "AGU cobra mais de R$ 89 milhões de infratores por queimadas em vegetação nativa",
+                        "uri": "https://tinyurl.com/2d26uxyv"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A AGU está intensificando a luta contra crimes ambientais! Foram ajuizadas cinco ações contra responsáveis pela destruição de vegetação nativa em municípios do Amazonas, Rondônia e Pará. Ao todo, são cobrados R$ 89 milhões por danos a cinco mil hectares do bioma Amazônico."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://tinyurl.com/2d26uxyv",
+                    "title": "AGU cobra mais de R$ 89 milhões de infratores por queimadas em vegetação nativa",
+                    "description": "Atuação busca a recuperação de cinco mil hectares e a responsabilização por destruição no bioma Amazônico",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hnqu4w5ipdq4nq277biinmhf/bafkreicgufaomvho45ug73w677whpmr5bacl3qv3efvly34mbkb6mxonba@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T21:12:46.175Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kw7vhbunp52k",
+            "cid": "bafyreidutsenkqvw2g5mnnb7yrepjeyxr7osjgcn2nmijko35damyyabvq",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-01T12:36:59.794Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Área queimada chegou a 10 milhões de hectares em 2023, mesmo com redução da perda de vegetação nativa no Arco do Desmatamento, na porção sul do bioma Amazônico",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiax26eooqei34i647jvr22fuqi4kwy66sn2tk5xlobcrgjjirhpti"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 502399
+                        },
+                        "title": "Seca aumenta incêndios na Amazônia em 36%",
+                        "uri": "https://www.ecodebate.com.br/2024/07/01/seca-aumenta-incendios-na-amazonia-em-36/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2024/07/01/seca-aumenta-incendios-na-amazonia-em-36/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 213
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Seca aumenta incêndios na Amazônia em 36%\nÁrea queimada chegou a 10 milhões de hectares em 2023, mesmo com redução da perda de vegetação nativa no Arco do Desmatamento, na porção sul do bioma Amazônico\nwww.ecodebate.com.br/2024/07/01/s..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ecodebate.com.br/2024/07/01/seca-aumenta-incendios-na-amazonia-em-36/",
+                    "title": "Seca aumenta incêndios na Amazônia em 36%",
+                    "description": "Área queimada chegou a 10 milhões de hectares em 2023, mesmo com redução da perda de vegetação nativa no Arco do Desmatamento, na porção sul do bioma Amazônico",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreiax26eooqei34i647jvr22fuqi4kwy66sn2tk5xlobcrgjjirhpti@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-01T12:36:59.794Z",
+            "labels": []
+        }
+    ]
+}

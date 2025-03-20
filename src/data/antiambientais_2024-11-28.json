@@ -1,0 +1,2239 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:jzqijbrsfnpvtzg5tyh5duwm/app.bsky.feed.post/3la7ytpofn527",
+            "cid": "bafyreiftqoautz364xr3kj3zj53vpih7ke67t37lbigggihhknlfr4jwli",
+            "author": {
+                "did": "did:plc:jzqijbrsfnpvtzg5tyh5duwm",
+                "handle": "jacksontome.bsky.social",
+                "displayName": "Jackson Tomé ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jzqijbrsfnpvtzg5tyh5duwm/bafkreibosu7j6yoeapadloxmiagfyshrc5bxl4c3phye3diwsb7cps5cuy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T17:43:51.221Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-05T19:49:36.432Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "CARTA DO FÓRUM DAS ÁGUAS DO AMAZONAS À SOCIEDADE E TOMADORES DE DECISÃO\n\nA Amazônia e o Pantanal, biomas essenciais à vida do planeta, estão à beira do colapso. As regiões sofrem impactos devastadores...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihqvuwewlbajlhrkbbkvjnnlje6a664bfac7zdugn6fawy4pghebe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 290074
+                        },
+                        "title": "Carta do Fórum das Águas do Amazonas denuncia políticas antiambientais de governos e do agronegócio",
+                        "uri": "https://cspconlutas.org.br/n/18875/carta-do-forum-das-aguas-do-amazonas-denuncia-politicas-antiambientais-de-governos-e-do-agronegocio"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://cspconlutas.org.br/n/18875/carta-do-forum-das-aguas-do-amazonas-denuncia-politicas-antiambientais-de-governos-e-do-agronegocio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 159,
+                            "byteStart": 125
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tai!  Carta do Fórum das Águas do Amazonas denuncia políticas antiambientais de governos e do agronegócio | CSP-Conlutas cspconlutas.org.br/n/18875/cart..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://cspconlutas.org.br/n/18875/carta-do-forum-das-aguas-do-amazonas-denuncia-politicas-antiambientais-de-governos-e-do-agronegocio",
+                    "title": "Carta do Fórum das Águas do Amazonas denuncia políticas antiambientais de governos e do agronegócio",
+                    "description": "CARTA DO FÓRUM DAS ÁGUAS DO AMAZONAS À SOCIEDADE E TOMADORES DE DECISÃO\n\nA Amazônia e o Pantanal, biomas essenciais à vida do planeta, estão à beira do colapso. As regiões sofrem impactos devastadores...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jzqijbrsfnpvtzg5tyh5duwm/bafkreihqvuwewlbajlhrkbbkvjnnlje6a664bfac7zdugn6fawy4pghebe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-05T19:49:35.486Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fq4fxxopcf2p3jswy27hdn6y/app.bsky.feed.post/3l7mc2oh5hx2d",
+            "cid": "bafyreietmdrixpuqrhxxdl3hgggvt7mtvdmznmkbg7l4paou3usdt76eui",
+            "author": {
+                "did": "did:plc:fq4fxxopcf2p3jswy27hdn6y",
+                "handle": "leogcosta.bsky.social",
+                "displayName": "Leo Gonzaga",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fq4fxxopcf2p3jswy27hdn6y/bafkreigezzdks2vefdop4y2f5dgp4g225br37nneokkhnllwcri764b2jq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-18T23:32:35.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-28T23:41:16.579Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiar6fjvcwebs5y6eo4slhaqqllmnslscdaruvaesganf4zx3lrn7u",
+                        "uri": "at://did:plc:fqiatejd2mv34wztyh2euto7/app.bsky.feed.post/3l7lynz5ulv2i"
+                    },
+                    "root": {
+                        "cid": "bafyreiar6fjvcwebs5y6eo4slhaqqllmnslscdaruvaesganf4zx3lrn7u",
+                        "uri": "at://did:plc:fqiatejd2mv34wztyh2euto7/app.bsky.feed.post/3l7lynz5ulv2i"
+                    }
+                },
+                "text": "Ia falar uma gracinha, mas melhor falar sério... A esquerda perdeu o protagonismo das ruas. Não protesta, não mobiliza, não tem foco. Pautas antiambientais, antidemocráticas e de costumes correndo soltas e não se vê um movimento nas ruas pra fazer pressão.\n\nPra mim, a rua é a base das bases..."
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-28T23:41:16.579Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6ust74tcfundvikbd52pfdig/app.bsky.feed.post/3l7dz4do6ws2a",
+            "cid": "bafyreigaqop2djrm7yrjs4epluqrocwklayd7ztpskgznhjejac6ud6wmy",
+            "author": {
+                "did": "did:plc:6ust74tcfundvikbd52pfdig",
+                "handle": "breakingnewsnozap.bsky.social",
+                "displayName": "Breaking News no Zap (no BlueSky)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ust74tcfundvikbd52pfdig/bafkreibjuzir4wvx632yd3y2t6xatedcwinj4x6cgqiisk2fda7rcskphq@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T15:06:26.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-25T16:39:50.992Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic7heexats2kctmii37cyy2xssi7mkma5vkzr7bcn3aw2z5xmoxsa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 447002
+                        },
+                        "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                        "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚨 BANCO DO BRASIL, BRADESCO E ITAÚ LIDERAM RANKING GLOBAL DE FINANCIADORES ANTIAMBIENTAIS\n\n➡️ Banco do Brasil destinou, entre 2018 e 2024, 95 bilhões de dólares. Bradesco destinou 14,5 bi e Itaú Unibanco destinou 12 bi.\n\n🔗 Repórter Brasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/",
+                    "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                    "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ust74tcfundvikbd52pfdig/bafkreic7heexats2kctmii37cyy2xssi7mkma5vkzr7bcn3aw2z5xmoxsa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 18,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-25T16:39:50.992Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:q6sw4homazdn5xrbotlzoat2/app.bsky.feed.post/3l6gcao2wxs2h",
+            "cid": "bafyreiejuied2cy2m5irm4vmmk67nxgdk6leb4xop75femnmuuzolqrxgq",
+            "author": {
+                "did": "did:plc:q6sw4homazdn5xrbotlzoat2",
+                "handle": "jornalggnbot.bsky.social",
+                "displayName": "Jornal GGN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q6sw4homazdn5xrbotlzoat2/bafkreihvjtx3r4kfg2n6bu6vpp72t2hg5owyk7rqhzqald3jjy3gxjadpe@jpeg",
+                "labels": [],
+                "createdAt": "2024-07-27T14:31:24.474Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T21:03:27.824Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidaojyczrecjthyog5otjgyrg7h2x7i4jxareib5qnmh5jeym6lji"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 943749
+                        },
+                        "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                        "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:heh5ldjt5hwhwqyg7cfknwo3"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 109,
+                            "byteStart": 87
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno\n\npor @jornalggn.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/",
+                    "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                    "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q6sw4homazdn5xrbotlzoat2/bafkreidaojyczrecjthyog5otjgyrg7h2x7i4jxareib5qnmh5jeym6lji@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T21:03:27.824Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qusxzluzr5kkyz3rtivtc6y7/app.bsky.feed.post/3l6gbo63i5i2v",
+            "cid": "bafyreifhbbhiunyf2hxwt4oc342ozh6xgrvx2s2qaj35all7e6lj6kcblm",
+            "author": {
+                "did": "did:plc:qusxzluzr5kkyz3rtivtc6y7",
+                "handle": "marceuelo.bsky.social",
+                "displayName": "Mar.Ceu.Elo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qusxzluzr5kkyz3rtivtc6y7/bafkreieevoe4nqdy6efzyc6xxd23osi3dreq6iofwoet44zsiul3hp2aie@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:07:52.606Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T20:53:07.891Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A maioria dos deputados que vai disputar o 2° turno das eleições municipais é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreids6c2u7c5hs5tb4h6l64anvuf3tf6iccstt3g2l6puby3vt3lsca"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 333814
+                        },
+                        "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                        "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 248,
+                            "byteStart": 220
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Importante saber como seus candidatos pensam sobre o meio ambiente, agrotóxicos, marco temporal, a reportagem fala de inúmeras cidades. Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno apublica.org/nota/deputad..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/",
+                    "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                    "description": "A maioria dos deputados que vai disputar o 2° turno das eleições municipais é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qusxzluzr5kkyz3rtivtc6y7/bafkreids6c2u7c5hs5tb4h6l64anvuf3tf6iccstt3g2l6puby3vt3lsca@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T20:53:07.891Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:heh5ldjt5hwhwqyg7cfknwo3/app.bsky.feed.post/3l6fynexifl2q",
+            "cid": "bafyreidq2yuznbudlom7jngsgtgf7mwbigjgws2puaq47ognqictabzhz4",
+            "author": {
+                "did": "did:plc:heh5ldjt5hwhwqyg7cfknwo3",
+                "handle": "jornalggn.bsky.social",
+                "displayName": "Jornal GGN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:heh5ldjt5hwhwqyg7cfknwo3/bafkreia2pu3loejwnop6p26ztukrtnur3hrn64fzohm3fjvkf2qcqt2thi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-05-07T00:15:14.186Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T18:11:36.775Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigqeove3dkrdvveqeaehotwoift7ymakzyt4izcensxicbmxnc2ua"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 943710
+                        },
+                        "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                        "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 83
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno\n\njornalggn.com.br/noticia/depu..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/",
+                    "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                    "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:heh5ldjt5hwhwqyg7cfknwo3/bafkreigqeove3dkrdvveqeaehotwoift7ymakzyt4izcensxicbmxnc2ua@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 14,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T18:11:36.775Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4z3zpztpn35miubx3exja4uh/app.bsky.feed.post/3l6fymuapu42c",
+            "cid": "bafyreiakresnn6ekhtxq2trsg6z5lgldz7qik27kjpdgluqkoohiwgo5ym",
+            "author": {
+                "did": "did:plc:4z3zpztpn35miubx3exja4uh",
+                "handle": "luisnassif.bsky.social",
+                "displayName": "Luís Nassif",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4z3zpztpn35miubx3exja4uh/bafkreiftqwom56lnqjaajb6bevwuodizys3c3fqrilfm5un2xy56ehs2na@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-08T19:27:33.837Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T18:11:19.275Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigqeove3dkrdvveqeaehotwoift7ymakzyt4izcensxicbmxnc2ua"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 943710
+                        },
+                        "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                        "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 83
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno\n\njornalggn.com.br/noticia/depu..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalggn.com.br/noticia/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/",
+                    "title": "Deputados que aprovaram projetos antiambientais disputam prefeituras",
+                    "description": "Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou majoritariamente a favor dos projetos “antiambientais”",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4z3zpztpn35miubx3exja4uh/bafkreigqeove3dkrdvveqeaehotwoift7ymakzyt4izcensxicbmxnc2ua@jpeg"
+                }
+            },
+            "replyCount": 5,
+            "repostCount": 38,
+            "likeCount": 100,
+            "quoteCount": 2,
+            "indexedAt": "2024-10-13T18:11:19.275Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5b5tan6bwyifgk43hrx3r3sn/app.bsky.feed.post/3l63ocprujg2r",
+            "cid": "bafyreibxn7lpvlqmralc5zs4ccpuxttol2sjqkyp5umjx4kmrelthj6djq",
+            "author": {
+                "did": "did:plc:5b5tan6bwyifgk43hrx3r3sn",
+                "handle": "luizmlima.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5b5tan6bwyifgk43hrx3r3sn/bafkreihg35bxlqw5wkdrd7r2as5esvppbdtfwmebsy6rmo5ogronzej7nm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-09T13:21:06.917Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T15:40:04.074Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 110,
+                            "byteStart": 82
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno apublica.org/nota/deputad..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T15:40:04.074Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:odjrvosdzbcyuxsm4wk7lafx/app.bsky.feed.post/3l63iiuzhj32w",
+            "cid": "bafyreics662jyy2gb4lyw3ddmlqu6c2pel7s3524bi4uigaiq7qvwyhyka",
+            "author": {
+                "did": "did:plc:odjrvosdzbcyuxsm4wk7lafx",
+                "handle": "sergionobre.bsky.social",
+                "displayName": "Sergio Nobre CUT",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:odjrvosdzbcyuxsm4wk7lafx/bafkreibct6jkj5qgce5ekzdgagf34nmjr3lgupm5w4uzm6asi4bg3b5lti@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T16:14:16.223Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T13:56:07.612Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A maioria dos deputados federais eleitos no 1° turno ou que ainda vão concorrer no 2° turno votou a favor de projetos de lei que fazem parte do chamado “Pacote da Destruição”. Dos 16 candidatos ainda em disputa (15 a prefeito e um a vice), metade votou a favor dos projetos cons “antiambientais”."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T13:56:07.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zzxqtd4ckrr5tubj2prlsqje/app.bsky.feed.post/3l62e5gzf252v",
+            "cid": "bafyreiegfxbqk6fttfksffnpq5lqgumqirrpkumagjn67re2qjibtxqqwi",
+            "author": {
+                "did": "did:plc:zzxqtd4ckrr5tubj2prlsqje",
+                "handle": "harlei.bsky.social",
+                "displayName": "Harlei",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zzxqtd4ckrr5tubj2prlsqje/bafkreibimo55ld7tp65jwxywhlk3zcqvbu53no6na322gz6ljpmbkbotom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:16:22.939Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T03:05:27.461Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibz6dhcke3xynn3a6x6zixo7y32odybvsvh22ermx6636uxa5lcbq",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5ztv6cuvo2g"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:a5o5pa6imrd52s627zq63zgz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 287,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 312,
+                            "byteStart": 288
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌍 Diversos deputados federais que aprovaram projetos antiambientais estão agora disputando prefeituras no segundo turno, mesmo em plena emergência climática. 🤔 Isso é por interesses econômicos, desinformação, influência política ou falta de alternativas? 💸 @lula.com.br @marinasilva.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5ztv6cuvo2g",
+                    "cid": "bafyreibz6dhcke3xynn3a6x6zixo7y32odybvsvh22ermx6636uxa5lcbq",
+                    "author": {
+                        "did": "did:plc:6okfkqs5whr275g4aahfnboz",
+                        "handle": "apublica.org",
+                        "displayName": "Agência Pública",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreig7xddyg6nt74mwdzs6rwp2vvcwnx4lfththlchjtc6bzwnfhs66e@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-30T20:41:29.541Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-08T22:14:33.046Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 625014
+                                },
+                                "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                                "uri": "https://agen.pub/antiambientaisb"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://agen.pub/antiambientaisb"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 302,
+                                    "byteStart": 278
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Entrelinhas do Poder: Se vencer o segundo turno em Belém, o Delegado Éder Mauro (PL), será prefeito da cidade-sede da COP-30 em 2025. Ele é um dos deputados federais que estão na disputa municipal e que votaram a favor de projetos de lei considerados “antiambientais”. agen.pub/antiambienta..."
+                    },
+                    "labels": [],
+                    "likeCount": 51,
+                    "replyCount": 5,
+                    "repostCount": 21,
+                    "quoteCount": 4,
+                    "indexedAt": "2024-10-08T22:14:33.046Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://agen.pub/antiambientaisb",
+                                "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                                "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T03:05:27.461Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5ztv6cuvo2g",
+            "cid": "bafyreibz6dhcke3xynn3a6x6zixo7y32odybvsvh22ermx6636uxa5lcbq",
+            "author": {
+                "did": "did:plc:6okfkqs5whr275g4aahfnboz",
+                "handle": "apublica.org",
+                "displayName": "Agência Pública",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreig7xddyg6nt74mwdzs6rwp2vvcwnx4lfththlchjtc6bzwnfhs66e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:41:29.541Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T22:14:33.046Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 625014
+                        },
+                        "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                        "uri": "https://agen.pub/antiambientaisb"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://agen.pub/antiambientaisb"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 278
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Entrelinhas do Poder: Se vencer o segundo turno em Belém, o Delegado Éder Mauro (PL), será prefeito da cidade-sede da COP-30 em 2025. Ele é um dos deputados federais que estão na disputa municipal e que votaram a favor de projetos de lei considerados “antiambientais”. agen.pub/antiambienta..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://agen.pub/antiambientaisb",
+                    "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                    "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce@jpeg"
+                }
+            },
+            "replyCount": 5,
+            "repostCount": 21,
+            "likeCount": 51,
+            "quoteCount": 4,
+            "indexedAt": "2024-10-08T22:14:33.046Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7edvdgheaqfxrikhprwfibnn/app.bsky.feed.post/3l5zsnpgxzw2e",
+            "cid": "bafyreiczelg3fvvv3or4sj6hxmslsctp7rupkzs4baqgvi6fkhig2gjbzm",
+            "author": {
+                "did": "did:plc:7edvdgheaqfxrikhprwfibnn",
+                "handle": "obrunofonseca.bsky.social",
+                "displayName": "Bruno Fonseca ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7edvdgheaqfxrikhprwfibnn/bafkreib4p6ou2wmnxw5yv4jzlfslclrxo5ewrl7jwtc5fqjp2gq5q374bi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T23:22:23.905Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T21:52:29.075Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 625014
+                        },
+                        "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                        "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:eayxx6m52ifmw7s3jqmuwnuv"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 177,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:6okfkqs5whr275g4aahfnboz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 194,
+                            "byteStart": 181
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 225,
+                            "byteStart": 197
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Deputados que aprovaram projetos antiambientais disputam prefeituras no 2º turno. A maioria é do PL de Bolsonaro. Lista inclui candidatos de 5 capitais.\n\nDo @brafa.bsky.social na @apublica.org \n\napublica.org/nota/deputad..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://apublica.org/nota/deputados-que-aprovaram-projetos-antiambientais-disputam-prefeituras-no-2o-turno/",
+                    "title": "2° turno eleições: deputados antiambientais disputam prefeituras",
+                    "description": "A maioria dos políticos é do PL de Bolsonaro; lista inclui candidatos de cinco capitais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7edvdgheaqfxrikhprwfibnn/bafkreic2shjn6jza5y34yo6752g5njluuzts5zhqofsdl3k6udheb5lnce@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T21:52:29.075Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:252fcenopnortptktqhtazxh/app.bsky.feed.post/3l5v25zjezc2c",
+            "cid": "bafyreiga7v3qu54yx26j4cplvdluy6rkkw4fin42xcp4ocbo7kg3eopmxq",
+            "author": {
+                "did": "did:plc:252fcenopnortptktqhtazxh",
+                "handle": "angelosilva.bsky.social",
+                "displayName": "Angelo Silva",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:252fcenopnortptktqhtazxh/bafkreicg3u74fnfw7ifwbkl7wcjoaicwft4zxc4xybvxmu66ygtdpoz3bm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:37:02.503Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T00:23:32.845Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 1572,
+                                    "width": 923
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiagfaqlaacybiyddg5cauitobd7gwqwizws27bmv4ch7ontiyqbye"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 751552
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreibfxrbckwlmwvx6l4b42fdoaazw46z44v5r7wp6c7hvojvknh2xb4",
+                            "uri": "at://did:plc:7vqgcuzof5itcpfc73njbstf/app.bsky.feed.post/3l5uy6zxxym2i"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mais da metade dos municípios do Pará elegeram prefeitos do MDB, partido que tem votado em várias pautas antiambientais na câmara, como o PL do veneno e da grilagem. Inclusive em municípios no sul e sudeste do estado que estão há meses pegando fogo e liderando índices de desmatamento."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:252fcenopnortptktqhtazxh/bafkreiagfaqlaacybiyddg5cauitobd7gwqwizws27bmv4ch7ontiyqbye@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:252fcenopnortptktqhtazxh/bafkreiagfaqlaacybiyddg5cauitobd7gwqwizws27bmv4ch7ontiyqbye@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1572,
+                                "width": 923
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:7vqgcuzof5itcpfc73njbstf/app.bsky.feed.post/3l5uy6zxxym2i",
+                        "cid": "bafyreibfxrbckwlmwvx6l4b42fdoaazw46z44v5r7wp6c7hvojvknh2xb4",
+                        "author": {
+                            "did": "did:plc:7vqgcuzof5itcpfc73njbstf",
+                            "handle": "g1portal.bsky.social",
+                            "displayName": "g1 - O portal de notícias da Globo",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreiabremzk7p3dc7ern4urfl3wnxkv2npfhvzpy2w7jtmtuy6z6bwse@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "none"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2024-09-03T17:35:54.898Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-10-06T23:48:20.756Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 304,
+                                            "width": 540
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreibbkq5ke6h6e3hfxul5fzeuxpnkzxcl7stxouhle6cxje4npleor4"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 93307
+                                        }
+                                    }
+                                ]
+                            },
+                            "facets": [
+                                {
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#link",
+                                            "uri": "http://glo.bo/3zEwECm"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 90,
+                                        "byteStart": 76
+                                    }
+                                },
+                                {
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#tag",
+                                            "tag": "g1eleições2024"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 108,
+                                        "byteStart": 91
+                                    }
+                                }
+                            ],
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "MAPA interativo mostra resultado em todas as prefeituras do Brasil; navegue glo.bo/3zEwECm #g1eleições2024"
+                        },
+                        "labels": [],
+                        "likeCount": 86,
+                        "replyCount": 3,
+                        "repostCount": 11,
+                        "quoteCount": 4,
+                        "indexedAt": "2024-10-06T23:48:20.756Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreibbkq5ke6h6e3hfxul5fzeuxpnkzxcl7stxouhle6cxje4npleor4@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreibbkq5ke6h6e3hfxul5fzeuxpnkzxcl7stxouhle6cxje4npleor4@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 304,
+                                            "width": 540
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T00:23:32.845Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mj2n7bcbv2qmgotp2rt6skpc/app.bsky.feed.post/3l5upuxplkc2e",
+            "cid": "bafyreifzqmcsy23jcdqylw4pmuoeudptvrl5plq6fw7ricr73qfgdclo5i",
+            "author": {
+                "did": "did:plc:mj2n7bcbv2qmgotp2rt6skpc",
+                "handle": "mgangelo.bsky.social",
+                "displayName": "Maurício Angelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mj2n7bcbv2qmgotp2rt6skpc/bafkreigxxoulo2xd3uopgsnlmsjyitfjy6rydlzzjclx6pgbwrxc3gsgt4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T15:22:14.484Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-06T21:19:29.337Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreigjnd7kpliiwpbg6s2zppyfdc7drq3elx27dssetcwvwckkcvasxi",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5uos7teeq23"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "E Belém corre o risco de sediar a COP com um prefeito que, entre outras coisas, se orgulha de ter \"matado muita gente\" e é um dos mais antiambientais do Brasil. Coerente com um evento em que os lobistas do petróleo dão as cartas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5uos7teeq23",
+                    "cid": "bafyreigjnd7kpliiwpbg6s2zppyfdc7drq3elx27dssetcwvwckkcvasxi",
+                    "author": {
+                        "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                        "handle": "uol.com.br",
+                        "displayName": "UOL - Universo Online",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-02T18:19:32.498Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-06T21:00:06.458Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1350,
+                                        "width": 1080
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreidrd7fbwb4imqj3ilkacf5mencpbj4y7xujsfzhw5nbg5jmzxavdq"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 850361
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Igor Normando (MDB) e Éder Mauro (PL) vão disputar o 2º turno para a Prefeitura de Belém\n\n➡️ Edmilson Rodrigues (PSOL), atual prefeito, fica de fora"
+                    },
+                    "labels": [],
+                    "likeCount": 30,
+                    "replyCount": 4,
+                    "repostCount": 5,
+                    "quoteCount": 35,
+                    "indexedAt": "2024-10-06T21:00:06.458Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidrd7fbwb4imqj3ilkacf5mencpbj4y7xujsfzhw5nbg5jmzxavdq@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidrd7fbwb4imqj3ilkacf5mencpbj4y7xujsfzhw5nbg5jmzxavdq@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1350,
+                                        "width": 1080
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 8,
+            "likeCount": 31,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-06T21:19:29.337Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yjclg6fyzbhqfltj5uerl6b2/app.bsky.feed.post/3l4smllpkck26",
+            "cid": "bafyreiau64dp77cj6l3pftkrm332a6mih2x2p7e4e52f3ajtt3ln3anzca",
+            "author": {
+                "did": "did:plc:yjclg6fyzbhqfltj5uerl6b2",
+                "handle": "gabrieltussini.bsky.social",
+                "displayName": "Gabriel Tussini",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yjclg6fyzbhqfltj5uerl6b2/bafkreignyeq7rsmbukzoxe5njhsoeedo567juokg6wourmqgjd3mnmchtq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T06:23:33.127Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T07:50:04.204Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "((o))eco verificou as votações das propostas que flexibilizam a legislação socioambiental brasileira neste Monitor do Congresso.",
+                            "title": "Monitor do Congresso - ((o))eco",
+                            "uri": "https://oeco.org.br/especial/monitor_do_congresso/"
+                        }
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreif4pnw5l7c5orivj5h4k4ldftl7djl4yov3kyzcdtvq2pwd4gbt44",
+                            "uri": "at://did:plc:iddtdjw5gujvbxbzjm45wlgb/app.bsky.feed.post/3l4rse3a33p2c"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Alexandre Baldy, ex-dep. federal e hj presidente do PP em Goiás, está aí falando em respeito ao meio ambiente\n\nAlém dele próprio ter histórico complicado, seu ex-chefe de gabinete e apadrinhado político, o hj dep. federal Adriano do Baldy, esteve entre os mais antiambientais da legislatura 2019-23"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://oeco.org.br/especial/monitor_do_congresso/",
+                        "title": "Monitor do Congresso - ((o))eco",
+                        "description": "((o))eco verificou as votações das propostas que flexibilizam a legislação socioambiental brasileira neste Monitor do Congresso."
+                    }
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:iddtdjw5gujvbxbzjm45wlgb/app.bsky.feed.post/3l4rse3a33p2c",
+                        "cid": "bafyreif4pnw5l7c5orivj5h4k4ldftl7djl4yov3kyzcdtvq2pwd4gbt44",
+                        "author": {
+                            "did": "did:plc:iddtdjw5gujvbxbzjm45wlgb",
+                            "handle": "oglobo.globo.com",
+                            "displayName": "Jornal O Globo",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iddtdjw5gujvbxbzjm45wlgb/bafkreiheizfirvrx2z574boxuhrx4f34lkwpaiu2eslaqblwkoe3j5vdwm@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2024-08-31T16:43:39.899Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-23T00:00:35Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.external",
+                                "external": {
+                                    "description": "Alexandre Baldy, executivo montadora chinesa, diz que projeto do governo para criar um sistema de baterias para armazenar energia solar e eólica tem ‘total convergência’ com planos da empresa no país A chinesa BYD é conhecida no país pelos carros…",
+                                    "thumb": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreigc4537ug5235pfug6mxjvjuyojvkvh3dxxmh5b5j3i52afjmkiqe"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 185172
+                                    },
+                                    "title": "‘O carro elétrico tem estímulo em todo o mundo’, diz vice-presidente sênior da BYD",
+                                    "uri": "http://dlvr.it/TDYZ7D"
+                                }
+                            },
+                            "text": "‘O carro elétrico tem estímulo em todo o mundo’, diz vice-presidente sênior da BYD ."
+                        },
+                        "labels": [],
+                        "likeCount": 31,
+                        "replyCount": 1,
+                        "repostCount": 4,
+                        "quoteCount": 1,
+                        "indexedAt": "2024-09-23T00:00:35.000Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.external#view",
+                                "external": {
+                                    "uri": "http://dlvr.it/TDYZ7D",
+                                    "title": "‘O carro elétrico tem estímulo em todo o mundo’, diz vice-presidente sênior da BYD",
+                                    "description": "Alexandre Baldy, executivo montadora chinesa, diz que projeto do governo para criar um sistema de baterias para armazenar energia solar e eólica tem ‘total convergência’ com planos da empresa no país A chinesa BYD é conhecida no país pelos carros…",
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iddtdjw5gujvbxbzjm45wlgb/bafkreigc4537ug5235pfug6mxjvjuyojvkvh3dxxmh5b5j3i52afjmkiqe@jpeg"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T07:50:04.204Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l4mq5oricb2x",
+            "cid": "bafyreihhizv6mln2yr4iexpu63utxoiiyelvplikmhrkwzuqkfhukeviee",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T23:37:55.276Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibp2sacmtsfbntqp4jcijjcmalyq2rhh5wyybkil3xkqhc2ysazw4",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l4mq5hw6lr2h"
+                    },
+                    "root": {
+                        "cid": "bafyreigtf5whhtg4u4fxuza5bgemx5yxj5aumqsh62665be623o474h6ee",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l4mq55ljkd2p"
+                    }
+                },
+                "text": "Bom, é uma cena feliz no meio de uma tragédia ambiental, social e climática. No meio disso tudo, ainda tramitam 28 projetos antiambientais na Câmara Federal e no Senado, e a CCJ da Câmara está preocupada com a anistia dos golpistas.\n\nÉ muito triste, mas um sopro de alegria no meio da tragédia."
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 32,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T23:37:55.276Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ffthrsir4acmxkzheyr5yclo/app.bsky.feed.post/3l3snhl2mhi26",
+            "cid": "bafyreig34x4p5nth5mvu74wwr4bxltg24k27pok3gca7rkxac2vcikwbn4",
+            "author": {
+                "did": "did:plc:ffthrsir4acmxkzheyr5yclo",
+                "handle": "janabueno.bsky.social",
+                "displayName": "Jana Bueno",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ffthrsir4acmxkzheyr5yclo/bafkreih5u6is7f2gbo3ly7xeui4vegz5igwlntcif7euyafcujky7a7kym@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T14:11:09.960Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T14:40:32.708Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1135,
+                                "width": 1042
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicatjvnayfcnmw2mxd7snxb2vye736t4t3wvgqqb3exgxivfmj4tq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 444755
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihsuq44464bxwfjk7ypmi5o5fba5ap6iufscmuag2oosajbrxhroq",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l3smr5vm762j"
+                    },
+                    "root": {
+                        "cid": "bafyreihsuq44464bxwfjk7ypmi5o5fba5ap6iufscmuag2oosajbrxhroq",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l3smr5vm762j"
+                    }
+                },
+                "text": "E no poder autor de projetos antiambientais cobrando ações ambientais e jogando a velha e hipócrita política suja , como se ele estivesse muito preocupado com isso.  Brasil não é pra amadores🤡"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ffthrsir4acmxkzheyr5yclo/bafkreicatjvnayfcnmw2mxd7snxb2vye736t4t3wvgqqb3exgxivfmj4tq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ffthrsir4acmxkzheyr5yclo/bafkreicatjvnayfcnmw2mxd7snxb2vye736t4t3wvgqqb3exgxivfmj4tq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1135,
+                            "width": 1042
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T14:40:32.708Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l2hx2lxk7p2f",
+            "cid": "bafyreibq7skh3s5tppvwycpdgpwhlhbihi4lgsmuwhoodjczzlav35ycpy",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-24T15:07:46.144Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibheioiyvzo4ljkm3oxi2fvlb2uesed3k7etx2yunxbst7kwrobay",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l2hx2e25rn2r"
+                    },
+                    "root": {
+                        "cid": "bafyreihwjkbppsmx44wuc5gpaas3qi6gyppqyo27ktep7bnchdie5a5mtu",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l2hwxgjqwv2r"
+                    }
+                },
+                "text": "E veja como é triste isso. Os pescadores têm que andar mil, dois mil metros para chegar no barco para pescar. As pessoas na Amazônia precisam de água potável. E para piorar isso, tem 38 projetos antiambientais e anticlimáticos tramitando no Congresso."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-24T15:07:46.144Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qgobj55xrthqixirvmiyoy6x/app.bsky.feed.post/3kv5peustgv2u",
+            "cid": "bafyreiacqewe5l2i4fzrnfenltf3xpw2na3p2kxqijuh7ubpwrjmnm5ina",
+            "author": {
+                "did": "did:plc:qgobj55xrthqixirvmiyoy6x",
+                "handle": "osmarpsouza.bsky.social",
+                "displayName": "",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:35:16.327Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-17T22:17:45.258Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreialdsokdlbegldglfmtiqhzitnramm5rl6itu4h56n4zscgwqcihu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 390117
+                        },
+                        "title": "Apoie o revogaço das leis antiambientais de Eduardo Leite",
+                        "uri": "https://docs.google.com/forms/d/e/1FAIpQLSchz3oWbLkRaQW3DO9HsTN028vwtKuydW5o0CwsVQzBrDr9gQ/viewform?pli=1&pli=1"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://docs.google.com/forms/d/e/1FAIpQLSchz3oWbLkRaQW3DO9HsTN028vwtKuydW5o0CwsVQzBrDr9gQ/viewform?pli=1&pli=1"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 91,
+                            "byteStart": 60
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Apoie o revogaço das leis antiambientais de Eduardo Leite\n\ndocs.google.com/forms/d/e/1F..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://docs.google.com/forms/d/e/1FAIpQLSchz3oWbLkRaQW3DO9HsTN028vwtKuydW5o0CwsVQzBrDr9gQ/viewform?pli=1&pli=1",
+                    "title": "Apoie o revogaço das leis antiambientais de Eduardo Leite",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qgobj55xrthqixirvmiyoy6x/bafkreialdsokdlbegldglfmtiqhzitnramm5rl6itu4h56n4zscgwqcihu@jpeg"
+                }
+            },
+            "replyCount": 7,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-17T22:17:45.258Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oa2lexb4hcbifvdsmkgokk3w/app.bsky.feed.post/3kuvv4ccon223",
+            "cid": "bafyreibsl2zbukzo4prml4rx6ijgb72hqa43c5c46rrxi3vfdo5wjcimqa",
+            "author": {
+                "did": "did:plc:oa2lexb4hcbifvdsmkgokk3w",
+                "handle": "joao1950martins.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oa2lexb4hcbifvdsmkgokk3w/bafkreignlbvrpemuy3tbq6x3jgok2wmc55xovjaqfmtynrp5nmbwob5tie@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-05-15T16:45:29.370Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-14T19:39:01.738Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "\n\nMiguel Rossetto\n@MiguelSRossetto\n Os partidos de esquerda (PT, PCdoB e PSOL) se uniram e estão propondo na Assembleia um revogaço das leis antiambientais de Eduardo Leite. Junte-se a nós nesta luta! Assine o revogaço!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-14T19:39:01.738Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3kursi4l4if2r",
+            "cid": "bafyreibg62ouz4gg46c2qd6aydqwlwna7dxz7rpc2f3r3vuhs7adgwikbe",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-13T04:33:59.173Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Projeto pretende reverter o desmonte ambiental feito pelo governador, que alterou 480 pontos do Código Ambiental do Rio Grande do Sul",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigsbci45apltjz4kpdlreftajmawam26ac4kjhowibbnygssbt4ay"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 773793
+                        },
+                        "title": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite",
+                        "uri": "https://revistaforum.com.br/politica/2024/6/12/rs-deputado-apresenta-pl-para-revogar-leis-antiambientais-de-eduardo-leite-160374.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Resistencia2261Dias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 232,
+                            "byteStart": 212
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite\nProjeto pretende reverter o desmonte ambiental feito pelo governador, que alterou 480 pontos do Código Ambiental do Rio Grande do Sul \n#Resistencia2261Dias\nSiga nosso BlueSky DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/politica/2024/6/12/rs-deputado-apresenta-pl-para-revogar-leis-antiambientais-de-eduardo-leite-160374.html",
+                    "title": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite",
+                    "description": "Projeto pretende reverter o desmonte ambiental feito pelo governador, que alterou 480 pontos do Código Ambiental do Rio Grande do Sul",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreigsbci45apltjz4kpdlreftajmawam26ac4kjhowibbnygssbt4ay@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-13T04:33:59.173Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3kuqyodvfc224",
+            "cid": "bafyreia5ebwf6yovticaljuagwfc5umdquiy3rkrs34w4i37yfbqwdziiy",
+            "author": {
+                "did": "did:plc:22u3xlfdxqxyzva2fsljotcy",
+                "handle": "revistaforum.com.br",
+                "displayName": "Revista Fórum",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreical2bujjrg6eepu62cgihuzbwqmfxogaxrss7gzphp5igibhavsm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:05:59.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-12T20:59:30.305Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Projeto pretende reverter o desmonte ambiental feito pelo governador, que alterou 480 pontos do Código Ambiental do Rio Grande do Sul",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid7gu5h7f234vq6lug5mr4fpyt3azuahxoeanxforuslvucrqymsi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 773841
+                        },
+                        "title": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite",
+                        "uri": "https://revistaforum.com.br/politica/2024/6/12/rs-deputado-apresenta-pl-para-revogar-leis-antiambientais-de-eduardo-leite-160374.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/politica/2024/6/12/rs-deputado-apresenta-pl-para-revogar-leis-antiambientais-de-eduardo-leite-160374.html",
+                    "title": "RS: Deputado apresenta PL para revogar leis antiambientais de Eduardo Leite",
+                    "description": "Projeto pretende reverter o desmonte ambiental feito pelo governador, que alterou 480 pontos do Código Ambiental do Rio Grande do Sul",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreid7gu5h7f234vq6lug5mr4fpyt3azuahxoeanxforuslvucrqymsi@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 14,
+            "likeCount": 38,
+            "quoteCount": 1,
+            "indexedAt": "2024-06-12T20:59:30.305Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ktds54knh52t",
+            "cid": "bafyreihwdakq5tdx434vajyzsnigeap4nil6ksauci2vxwozpt7padkzfq",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-25T21:32:41.612Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid33j3poymf3yjw6puj44hzhq6uwjfhwbfjidwr7vuij4zzym5bwu",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ktds4oyukk2a"
+                    },
+                    "root": {
+                        "cid": "bafyreibx5qds7gilm6ofuoranf5xtfyotbqdvj57j2sebw66undr6kzyla",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ktds3ffnws2k"
+                    }
+                },
+                "text": "Então, sobre qualquer ponto de vista, isso significa a privatização das praias, como existe em alguns países europeus, e a aprovação de projetos antiambientais, antissociais e sem qualquer contrapartida."
+            },
+            "replyCount": 1,
+            "repostCount": 4,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-25T21:32:41.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kszqxrg7st2r",
+            "cid": "bafyreigmg5lmxazpbwov4z7w3yqh773l7kipf5sajb7ztyalq2s5qvo4ly",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-21T21:45:10.659Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "1º suplente do PL-MT, Barbudo tomou posse hoje à tarde; ele já defendeu a legalização da caça, a limitação de multas ambientais a R$ 5 mil e criticou desintrusão de terra indígena",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiefxkeyf4nn2quzqc22iem2k5pakvzqwmjb4qnznve5aafgkdpct4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 272487
+                        },
+                        "title": "Um dos deputados mais antiambientais até 2022, Nelson Barbudo está de volta à Câmara - ((o))eco",
+                        "uri": "https://oeco.org.br/salada-verde/um-dos-deputados-mais-antiambientais-ate-2022-nelson-barbudo-esta-de-volta-a-camara/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/salada-verde/um-dos-deputados-mais-antiambientais-ate-2022-nelson-barbudo-esta-de-volta-a-camara/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 318,
+                            "byteStart": 291
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Um dos deputados mais antiambientais até 2022, Nelson Barbudo está de volta à Câmara. ⬇️\n\n1º suplente do PL-MT, Barbudo tomou posse hoje à tarde; ele já defendeu a legalização da caça, a limitação de multas ambientais a R$ 5 mil e criticou desintrusão de terra indígena. \n\noeco.org.br/salada-verde..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/salada-verde/um-dos-deputados-mais-antiambientais-ate-2022-nelson-barbudo-esta-de-volta-a-camara/",
+                    "title": "Um dos deputados mais antiambientais até 2022, Nelson Barbudo está de volta à Câmara - ((o))eco",
+                    "description": "1º suplente do PL-MT, Barbudo tomou posse hoje à tarde; ele já defendeu a legalização da caça, a limitação de multas ambientais a R$ 5 mil e criticou desintrusão de terra indígena",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiefxkeyf4nn2quzqc22iem2k5pakvzqwmjb4qnznve5aafgkdpct4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-21T21:45:10.659Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3ksmzxsg6tt2e",
+            "cid": "bafyreie4muxmju57aora5lmbzwowacwaibygwe2txrssaefeenqg63qj6q",
+            "author": {
+                "did": "did:plc:76e26g3uofeckavyyzyolqi7",
+                "handle": "sandra10.bsky.social",
+                "displayName": "Sandra10🇵🇸🌎🌳🐬🐢🐳🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76e26g3uofeckavyyzyolqi7/bafkreicpqqwobakfcqq56o7v2ihvh3425js6rvaeqtsr65665tfw7fibz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:76e26g3uofeckavyyzyolqi7",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.actor.profile/self",
+                        "cid": "bafyreiejxtajvojhl6pwi65bdr3gsdob47ksdedapxie5khkgnugrcxiwi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:03:23.042Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:04:02.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-16T20:20:40.413Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreievt57e7plhfl3bhpsfnuhslpfirkrbrsxablz3naf7pq32xwjhpu",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ksmigzu7hu2m"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alguns comentários👏👏\n\n\"É hora de parar os 24 projetos antiambientais, anticlimáticos, antiecológicos que tramitam no Congresso. Será que nenhuma desgraça desse tamanho vai fazer o Parlamento dar um basta em projetos que agravam a crise climática e ambiental? \n\nChega! Aprendam com essa desgraça!\"👊👏👏"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ksmigzu7hu2m",
+                    "cid": "bafyreievt57e7plhfl3bhpsfnuhslpfirkrbrsxablz3naf7pq32xwjhpu",
+                    "author": {
+                        "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                        "handle": "carlosminc.bsky.social",
+                        "displayName": "Carlos Minc",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-11T14:08:17.152Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-05-16T15:08:02.910Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "13 likes, 3 comments - carlos.minc on May 16, 2024: \"A INACREDITÁVEL DEFESA DO CORTE DE ÁRVORES!\n\nDois vereadores direitistas gaúchos, um de Garibaldi, outro de Caxias do Sul, simplesment...\".",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreihr7t3vjuxcendcbkld5gwydaovereg6yvzmi56fmlvhgpg5ilx5u"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 809318
+                                },
+                                "title": "Carlos Minc on Instagram: \"A INACREDITÁVEL DEFESA DO CORTE DE ÁRVORES!\n\nDois vereadores direitistas gaúchos, um de Garibaldi, outro de Caxias do Sul, simplesmente defendem que uma maneira de combater ...",
+                                "uri": "https://www.instagram.com/reel/C7CJkR2L9ug/?igsh=MW85cWV3bHJjcG54Mw=="
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.instagram.com/reel/C7CJkR2L9ug/?igsh=MW85cWV3bHJjcG54Mw=="
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 309,
+                                    "byteStart": 276
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Dois vereadores direitistas gaúchos, um de Garibaldi, outro de Caxias do Sul, defendem que uma maneira de combater as inundações é cortando árvores. É inacreditável como o negacionismo e ignorância podem se mesclar para produzir uma autêntica receita de catástrofe.\nwww.instagram.com/reel/C7CJkR2..."
+                    },
+                    "labels": [],
+                    "likeCount": 146,
+                    "replyCount": 15,
+                    "repostCount": 55,
+                    "quoteCount": 6,
+                    "indexedAt": "2024-05-16T15:08:02.910Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.instagram.com/reel/C7CJkR2L9ug/?igsh=MW85cWV3bHJjcG54Mw==",
+                                "title": "Carlos Minc on Instagram: \"A INACREDITÁVEL DEFESA DO CORTE DE ÁRVORES!\n\nDois vereadores direitistas gaúchos, um de Garibaldi, outro de Caxias do Sul, simplesmente defendem que uma maneira de combater ...",
+                                "description": "13 likes, 3 comments - carlos.minc on May 16, 2024: \"A INACREDITÁVEL DEFESA DO CORTE DE ÁRVORES!\n\nDois vereadores direitistas gaúchos, um de Garibaldi, outro de Caxias do Sul, simplesment...\".",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihr7t3vjuxcendcbkld5gwydaovereg6yvzmi56fmlvhgpg5ilx5u@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 12,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-16T20:20:40.413Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ksmiipu4fs27",
+            "cid": "bafyreibs5tsdhvj4zqbxzmtazayjtstsuo5inwogd6ug36y56pq2rnghtm",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-16T15:08:59.531Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicjlmizwm745irr55clhfwaowynvo6yslqnx7fpvnu2kgaj2noou4",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ksmiik3rtc2f"
+                    },
+                    "root": {
+                        "cid": "bafyreievt57e7plhfl3bhpsfnuhslpfirkrbrsxablz3naf7pq32xwjhpu",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ksmigzu7hu2m"
+                    }
+                },
+                "text": "É hora de parar os 24 projetos antiambientais, anticlimáticos, antiecológicos que tramitam no Congresso. Será que nenhuma desgraça desse tamanho vai fazer o Parlamento dar um basta em projetos que agravam a crise climática e ambiental? \n\nChega! Aprendam com essa desgraça!"
+            },
+            "replyCount": 5,
+            "repostCount": 16,
+            "likeCount": 52,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-16T15:08:59.531Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ykn5mhmp2xmwfw6uxp7uo4lk/app.bsky.feed.post/3kshtzbbgyc2f",
+            "cid": "bafyreifarutg3yjfa4iep5xqjnsfedgilj67uxnsby27imwgclnlvzeamu",
+            "author": {
+                "did": "did:plc:ykn5mhmp2xmwfw6uxp7uo4lk",
+                "handle": "anadesant.bsky.social",
+                "displayName": "Ana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ykn5mhmp2xmwfw6uxp7uo4lk/bafkreigkofa7cwdyppimt454d2s7bdwygn3xkgumm75n647pmlwweyfuhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-07T23:24:45.355Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T18:51:46.855Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Imagens com falas/objetivos de senadores e deputados negacionistas do aquecimento global.\nSen. Heinze/PP-RS: \"Não acredito em aquecimento global.\"\nSen. Zequinha Marinho/Podemos-PA, quer acabar com a demarcação de terras indígenas.\nSen. Hamilton Mourão/Republicanos-RS, deixou o desmatamento subir em 60% no seu governo.\nDep. Ricardo Salles/PL-SP, desmontou a política climática para \"passar a boiada\".\nSen. Irajá/PSD-TO, quer anistiar a grilagem de terras.\nSen. Márcio Bittar/União Brasil-AC, quer legalizar o desmatamento na Amazônia.\nDep. Marcel Van Hattem/NOVO-RS, apoiou todos os projetos antiambientais da Câmara.\nDep. Alceu Moreira/MDB-RS, quer liberar desmate em área de vegetação nativa maior que a Alemanha.\nDep. Pedro Lupion/PP-PR, quer inviabilizar a criação de áreas protegidas.",
+                            "aspectRatio": {
+                                "height": 1344,
+                                "width": 1068
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifhslksrpspcnfcegy5sshvvtop23h4gavs636ilsbzdma3mlbuom"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 833871
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "É preciso estar atento e forte...\nÉ hora de parar os projetos de destruição ambiental, ou melhor, já passou e muito da hora de parar essa gente. \nO clima mudou.\nO Congresso precisa mudar. 👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ykn5mhmp2xmwfw6uxp7uo4lk/bafkreifhslksrpspcnfcegy5sshvvtop23h4gavs636ilsbzdma3mlbuom@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ykn5mhmp2xmwfw6uxp7uo4lk/bafkreifhslksrpspcnfcegy5sshvvtop23h4gavs636ilsbzdma3mlbuom@jpeg",
+                        "alt": "Imagens com falas/objetivos de senadores e deputados negacionistas do aquecimento global.\nSen. Heinze/PP-RS: \"Não acredito em aquecimento global.\"\nSen. Zequinha Marinho/Podemos-PA, quer acabar com a demarcação de terras indígenas.\nSen. Hamilton Mourão/Republicanos-RS, deixou o desmatamento subir em 60% no seu governo.\nDep. Ricardo Salles/PL-SP, desmontou a política climática para \"passar a boiada\".\nSen. Irajá/PSD-TO, quer anistiar a grilagem de terras.\nSen. Márcio Bittar/União Brasil-AC, quer legalizar o desmatamento na Amazônia.\nDep. Marcel Van Hattem/NOVO-RS, apoiou todos os projetos antiambientais da Câmara.\nDep. Alceu Moreira/MDB-RS, quer liberar desmate em área de vegetação nativa maior que a Alemanha.\nDep. Pedro Lupion/PP-PR, quer inviabilizar a criação de áreas protegidas.",
+                        "aspectRatio": {
+                            "height": 1344,
+                            "width": 1068
+                        }
+                    }
+                ]
+            },
+            "replyCount": 6,
+            "repostCount": 61,
+            "likeCount": 125,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-14T18:51:46.855Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2726zad6v6cgpc5iesvohfnz/app.bsky.feed.post/3krvxy3lpd226",
+            "cid": "bafyreiea7q2tbeitxgmfwac2z3evu5du5srcbsk6n4xnfgx4jdfjkb4h6q",
+            "author": {
+                "did": "did:plc:2726zad6v6cgpc5iesvohfnz",
+                "handle": "dindacacta.bsky.social",
+                "displayName": "Dinda 🚩🌵",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2726zad6v6cgpc5iesvohfnz/bafkreicnu4rykbfzre7nwoyfir424lcy5igiihkb5bciunndrosveyhif4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-25T20:07:21.532Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T16:14:48.773Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 779,
+                                "width": 1008
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigwi7roljzkgtwqmmfqc7soyqjaspye6rstfutp6emti3aqofgwn4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 369321
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Precisamos ir pra cima de Lira e Pacheco. Mais do que nunca é necessário derrotar as pautas antiambientais.\nA CCJ do SENADO pretende votar na próxima quarta um projeto que REDUZ AS ÁREAS PROTEGIDAS NA AMAZÔNIA.\n\nNão dá mais! O caos climático/ambiental já chegou."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2726zad6v6cgpc5iesvohfnz/bafkreigwi7roljzkgtwqmmfqc7soyqjaspye6rstfutp6emti3aqofgwn4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2726zad6v6cgpc5iesvohfnz/bafkreigwi7roljzkgtwqmmfqc7soyqjaspye6rstfutp6emti3aqofgwn4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 779,
+                            "width": 1008
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T16:14:48.773Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsrjnr3jx22",
+            "cid": "bafyreicndr5zoz7f4qfqodgdzxoituw63vlgfknkao5d3sv3ws5zlurptu",
+            "author": {
+                "did": "did:plc:cvqirq6coo77og6zpisjswsp",
+                "handle": "thomas1949.bsky.social",
+                "displayName": "Mario Thomas Garfias 🇨🇱🇧🇷🇯🇴🍉🫒🗝️ 🕊️",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T14:46:01.333Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-06T09:41:21.358Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigvbtfz3xpkwlcay4fm2mbpkuvv2obk2isvupdvt2ebtpuxnzzw74",
+                        "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsrig7glr2q"
+                    },
+                    "root": {
+                        "cid": "bafyreighol3evk5fowr7ffzkosp56jzve7xedbsyng6clyrohhuzve6sua",
+                        "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsqhlj2ko23"
+                    }
+                },
+                "text": "O agro(tóxico) negócio, marcado pela exploração desenfreada da terra, vai amargar os prejuízos das escolhas antiambientais que defendeu ao longo dos séculos."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-06T09:41:21.358Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsrf3x6y72g",
+            "cid": "bafyreihv3p2opdtxp3h2j5stswiduvaaeh6j57jhenuuepxrrmjofctwbu",
+            "author": {
+                "did": "did:plc:cvqirq6coo77og6zpisjswsp",
+                "handle": "thomas1949.bsky.social",
+                "displayName": "Mario Thomas Garfias 🇨🇱🇧🇷🇯🇴🍉🫒🗝️ 🕊️",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T14:46:01.333Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-06T09:38:48.457Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreighol3evk5fowr7ffzkosp56jzve7xedbsyng6clyrohhuzve6sua",
+                        "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsqhlj2ko23"
+                    },
+                    "root": {
+                        "cid": "bafyreighol3evk5fowr7ffzkosp56jzve7xedbsyng6clyrohhuzve6sua",
+                        "uri": "at://did:plc:cvqirq6coo77og6zpisjswsp/app.bsky.feed.post/3krsqhlj2ko23"
+                    }
+                },
+                "text": "O agro(tóxico) negócio, marcado pela exploração desenfreada da terra, vai amargar os prejuízos das escolhas antiambientais que defendeu ao longo dos séculos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-06T09:38:48.457Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gfexk3xtrelrl4th764e6frg/app.bsky.feed.post/3krrvxcqlfe2d",
+            "cid": "bafyreih5mhaalalp7hhtp2276kbafd7vlzaiq2be27crdgw6pgjjtt73le",
+            "author": {
+                "did": "did:plc:gfexk3xtrelrl4th764e6frg",
+                "handle": "marcris.bsky.social",
+                "displayName": "Marcris🚩🍉",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gfexk3xtrelrl4th764e6frg/bafkreiewdlrlqbi5lvznqvhjtxm6pcxt2imde7nv6kvqxkvlfa22q2nyxq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T01:32:24.366Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-06T01:27:53.104Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreig2thakvwto7i5ecwmc2sapjwy7z3vulodd7whicbzyjqk3wk6rzy",
+                        "uri": "at://did:plc:opsinf3gmlvnza43opq233yl/app.bsky.feed.post/3krqvgmwem22u"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O que me deixa fula é que o país paga inteiro paga pelas cagadas dessa gente e pelas pressões antiambientais do agro irresponsável, que ainda nos mostra o relho como a corja da ex-senadora Ana Amélia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:opsinf3gmlvnza43opq233yl/app.bsky.feed.post/3krqvgmwem22u",
+                    "cid": "bafyreig2thakvwto7i5ecwmc2sapjwy7z3vulodd7whicbzyjqk3wk6rzy",
+                    "author": {
+                        "did": "did:plc:opsinf3gmlvnza43opq233yl",
+                        "handle": "nietzsche4speed.bsky.social",
+                        "displayName": "judz",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:opsinf3gmlvnza43opq233yl/bafkreieyjsyva4qs4lgwmjcb4wsijtckxff4vd74hjxlfyjisd4di2e5t4@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-26T20:28:04.193Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-05-05T15:47:03.271Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 533,
+                                        "width": 800
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreibj56yyjb523o3j26pqqzpwnosiupnkcqa345hi3fu2qg25fbia4m"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 284621
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Para que ninguém esqueça: Sebastião Melo (MDB) está em cargos na prefeitura de Porto Alegre desde 2013. Eduardo Leite (PSDB) é governador há 6 anos.\n\nNão há surpresa climática que não poderia ter sido mitigada e diminuida seu impacto se tivessem plano para desastre ambiental."
+                    },
+                    "labels": [],
+                    "likeCount": 203,
+                    "replyCount": 5,
+                    "repostCount": 91,
+                    "quoteCount": 8,
+                    "indexedAt": "2024-05-05T15:45:56.113Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:opsinf3gmlvnza43opq233yl/bafkreibj56yyjb523o3j26pqqzpwnosiupnkcqa345hi3fu2qg25fbia4m@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:opsinf3gmlvnza43opq233yl/bafkreibj56yyjb523o3j26pqqzpwnosiupnkcqa345hi3fu2qg25fbia4m@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 533,
+                                        "width": 800
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-06T01:27:53.104Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn7nueza2o",
+            "cid": "bafyreiecjrcaygqyj3qhjabi5u2q64afp5k4kaz7kmrtcdjkkrd5eydaum",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:51:31.016Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih46zvulyzvi4b6rsgtgkmh5vyihqdz6yqyimaubhhkpmkoujjo6q",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn7e2wpr2g"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "Sinduscon -, que além de claro conflito de interesses, por atuarem diariamente contra o meio ambiente, aprovam os seus interesses, por mais espúrios, indecentes e antiambientais que possam ser."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:51:31.016Z",
+            "labels": []
+        }
+    ]
+}

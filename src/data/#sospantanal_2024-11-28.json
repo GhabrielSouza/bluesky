@@ -1,0 +1,1256 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3lari4lvexk2u",
+            "cid": "bafyreiegnliz4tx64se523csr4f47l4hemkwkw37xwt62xvbfhpddkwx2q",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T18:38:14.318Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreic7vg56to625vw2ccgngoy2yp2wo2wouhlmjnq77p6if2nnkcwrna",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3larhhy4pik2m"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 62,
+                            "byteStart": 50
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "É de doer. E não por falta de avisos e alertas.\n#sospantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3larhhy4pik2m",
+                    "cid": "bafyreic7vg56to625vw2ccgngoy2yp2wo2wouhlmjnq77p6if2nnkcwrna",
+                    "author": {
+                        "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                        "handle": "uol.com.br",
+                        "displayName": "UOL - Universo Online",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-02T18:19:32.498Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-12T18:26:42.498Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "O Pantanal brasileiro está alagando uma área cada vez menor e ficando seco por períodos cada vez maiores no ano. A constatação faz parte do mapeamento anual de cobertura e uso da terra do Pantanal, pr...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreigv6sllonph6xiudadebtwhmzd4nnnfw6hhgeywqtplnoahyt4h54"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 831237
+                                },
+                                "title": "Carlos Madeiro: Área alagada do Pantanal cai 39% em 5 anos, diz estudo: 'Sinal alarmante'",
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/12/pantanal-reduz-38-de-area-alagada-em-5-anos-diz-estudo-sinal-alarmante.htm?utm_source=bluesky&utm_medium=social-media&utm_campaign=uol&utm_content=geral"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "➡️ Área alagada do Pantanal cai 39% em 5 anos, diz estudo: “Sinal alarmante”\n\nConstatação faz parte do mapeamento anual de cobertura e uso da terra do Pantanal, produzido e divulgado pela rede de pesquisas MapBiomas"
+                    },
+                    "labels": [],
+                    "likeCount": 15,
+                    "replyCount": 0,
+                    "repostCount": 6,
+                    "quoteCount": 5,
+                    "indexedAt": "2024-11-12T18:26:51.710Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/12/pantanal-reduz-38-de-area-alagada-em-5-anos-diz-estudo-sinal-alarmante.htm?utm_source=bluesky&utm_medium=social-media&utm_campaign=uol&utm_content=geral",
+                                "title": "Carlos Madeiro: Área alagada do Pantanal cai 39% em 5 anos, diz estudo: 'Sinal alarmante'",
+                                "description": "O Pantanal brasileiro está alagando uma área cada vez menor e ficando seco por períodos cada vez maiores no ano. A constatação faz parte do mapeamento anual de cobertura e uso da terra do Pantanal, pr...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreigv6sllonph6xiudadebtwhmzd4nnnfw6hhgeywqtplnoahyt4h54@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T18:38:15.018Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:v42pl6qnyq6ctrdt5cywos5g/app.bsky.feed.post/3l5lxm3zx5g2s",
+            "cid": "bafyreicq6aygrnkvq7axxyh35s6q6mw7bdegs6sqaaaomzrteucxamepne",
+            "author": {
+                "did": "did:plc:v42pl6qnyq6ctrdt5cywos5g",
+                "handle": "loboreporter.bsky.social",
+                "displayName": "Lobo Repórter",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v42pl6qnyq6ctrdt5cywos5g/bafkreigbiqxztuny7aq24or3kuzi3oq4juebsbwzx76s4ad5iof2w5rhcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T14:26:23.010Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T09:43:47.171Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A tragédia que é a morte da onça GaiaR",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif4etuzfsubqunfdnneeznoziy5xebm4u67r44uy6khwmrf54iz5y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 347290
+                        },
+                        "title": "Gaia morreu por nossa culpa",
+                        "uri": "https://loboreporter.blogspot.com/2024/10/onca-gaia-morreu-queimada.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 21,
+                            "byteStart": 9
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://loboreporter.blogspot.com/2024/10/onca-gaia-morreu-queimada.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 64,
+                            "byteStart": 23
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "RIP Gaia #sospantanal\n\nloboreporter.blogspot.com/2024/10/onca..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://loboreporter.blogspot.com/2024/10/onca-gaia-morreu-queimada.html",
+                    "title": "Gaia morreu por nossa culpa",
+                    "description": "A tragédia que é a morte da onça GaiaR",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v42pl6qnyq6ctrdt5cywos5g/bafkreif4etuzfsubqunfdnneeznoziy5xebm4u67r44uy6khwmrf54iz5y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T09:43:47.171Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4oxkhgdzr2e",
+            "cid": "bafyreid4n2pzpbbxv4x4gxmcklwvemfmdlpwvxtahhlavzgsvj6cax7yxm",
+            "author": {
+                "did": "did:plc:l4t6ovqctwpp64d2vgiypj6w",
+                "handle": "heldias.bsky.social",
+                "displayName": "Vira à Esquerda Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreietyuysrhucefhu5pqyjkxsdwbgv55t6sjsnplu6rf34nohemd2pu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:42:03.301Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:55:39.248Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidwbcjdczoik7lramsew7casy6ap3s7q5abhdzkqgczzchh4nh3na",
+                        "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4olvug4po2d"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SosPantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bsky.app/profile/heldias.bsky.social/post/3l4olvug4po2d"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 14
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie3hi7rpmcrtakzrtz6zjxtvizhqqdhebdsp2euqt3adewuudtdo4",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l4odictmvf2w"
+                    },
+                    "root": {
+                        "cid": "bafyreie3hi7rpmcrtakzrtz6zjxtvizhqqdhebdsp2euqt3adewuudtdo4",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l4odictmvf2w"
+                    }
+                },
+                "text": "#SosPantanal \nbsky.app/profile/held..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4olvug4po2d",
+                    "cid": "bafyreidwbcjdczoik7lramsew7casy6ap3s7q5abhdzkqgczzchh4nh3na",
+                    "author": {
+                        "did": "did:plc:l4t6ovqctwpp64d2vgiypj6w",
+                        "handle": "heldias.bsky.social",
+                        "displayName": "Vira à Esquerda Brasil",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreietyuysrhucefhu5pqyjkxsdwbgv55t6sjsnplu6rf34nohemd2pu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-31T15:42:03.301Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-21T17:27:17.079Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 899
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreibymj4ispjnzhmpbphqfdytylr65ssuytet35ezs6x6635yk5orsi"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 600845
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1579,
+                                        "width": 1079
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreihg6omhm3weasjkq6attsywxxpd3y63bc4qavpxtcecuhtft3c7vu"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 466699
+                                    }
+                                }
+                            ]
+                        },
+                        "facets": [
+                            {
+                                "$type": "app.bsky.richtext.facet",
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#mention",
+                                        "did": "did:plc:cm6zbdsjrkd6xs7maxg5zds7"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 44,
+                                    "byteStart": 21
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://congressoemfoco.uol.com.br/area/pais/governador-de-mt-autoriza-pecuaria-em-area-protegida-do-pantanal/"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 239,
+                                    "byteStart": 197
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreifdj2qqmk3lhr2f7oia6vs2tvpkqaxqknehthdf6xjsp563zrlaha",
+                                "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4okwcgk3z2j"
+                            },
+                            "root": {
+                                "cid": "bafyreifdj2qqmk3lhr2f7oia6vs2tvpkqaxqknehthdf6xjsp563zrlaha",
+                                "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4okwcgk3z2j"
+                            }
+                        },
+                        "text": "Um apelo ao MINISTRO @flaviodino.bsky.social , ajude a impedir essa barbaridade do Governador do MT em autorizar a pecuaria em áreas protegidas. \n\nA ideia dele é se não tem mata não tem fogo.\n\ncongressoemfoco.uol.com.br/area/pais/go..."
+                    },
+                    "labels": [],
+                    "likeCount": 27,
+                    "replyCount": 1,
+                    "repostCount": 10,
+                    "quoteCount": 3,
+                    "indexedAt": "2024-09-21T17:27:17.079Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreibymj4ispjnzhmpbphqfdytylr65ssuytet35ezs6x6635yk5orsi@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreibymj4ispjnzhmpbphqfdytylr65ssuytet35ezs6x6635yk5orsi@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 899
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreihg6omhm3weasjkq6attsywxxpd3y63bc4qavpxtcecuhtft3c7vu@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreihg6omhm3weasjkq6attsywxxpd3y63bc4qavpxtcecuhtft3c7vu@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1579,
+                                        "width": 1079
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:55:39.248Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4oxhs72gx2x",
+            "cid": "bafyreiedt2zed4z23byete4dz7tfzys2jdjn5ladftdlz4zcy2y7nzsp6y",
+            "author": {
+                "did": "did:plc:l4t6ovqctwpp64d2vgiypj6w",
+                "handle": "heldias.bsky.social",
+                "displayName": "Vira à Esquerda Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreietyuysrhucefhu5pqyjkxsdwbgv55t6sjsnplu6rf34nohemd2pu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:42:03.301Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:54:09.637Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SosPantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia4uwcwpqckuqakdniwvcx72o57ceo2swgsbee2hqdtju6r2hy42q",
+                        "uri": "at://did:plc:cy74ukfc6vo4mgabdv5zlrtk/app.bsky.feed.post/3l4ogq3d6un24"
+                    },
+                    "root": {
+                        "cid": "bafyreia4uwcwpqckuqakdniwvcx72o57ceo2swgsbee2hqdtju6r2hy42q",
+                        "uri": "at://did:plc:cy74ukfc6vo4mgabdv5zlrtk/app.bsky.feed.post/3l4ogq3d6un24"
+                    }
+                },
+                "text": "#SosPantanal"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:54:09.637Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l4oiaqqy2v2l",
+            "cid": "bafyreihrdre3biglzuiff3b5mxqtn4vnio6iuthm3k2vqnevbg4z2ksi6i",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T16:21:47.046Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 292,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih5i3aub3p6rnenhmubxkzqcplak2vixrtnl5hsemlyjrnkcaaw3u",
+                        "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l4oi3anjbw2l"
+                    },
+                    "root": {
+                        "cid": "bafyreih5i3aub3p6rnenhmubxkzqcplak2vixrtnl5hsemlyjrnkcaaw3u",
+                        "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l4oi3anjbw2l"
+                    }
+                },
+                "text": "Os poderes de Mato Grosso trabalham de forma coordenada na desconstrução do escopo legal da proteção ao meio ambiente num dos estados recordistas em queimadas e desmatamento. O único que tem em seu território os três ecossistemas, Amazônia Cerrado e Pantanal, ameaçados.\n#sospantanal"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T16:21:47.046Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lxog55dgboylwlssyhgzpoao/app.bsky.feed.post/3l4lxmfdpzc2a",
+            "cid": "bafyreigghagba7icbdib7n2cgkbmlgfbhomfip3kstij423itmowthlr3i",
+            "author": {
+                "did": "did:plc:lxog55dgboylwlssyhgzpoao",
+                "handle": "anabernardi24.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxog55dgboylwlssyhgzpoao/bafkreidlojod7ptx747p7fjbm5qfqqid43bgadlihd6xaoqujivtobxibu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T14:00:24.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T16:18:45.146Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Polícia apontou que grupo invadiu área no bioma e incendiava para se apropriar de forma ilegal para a criação de gados.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiewgocrjyttn5nvohahccc4ylxrzqocybwmlgirhowc6rr2dgipay"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 814689
+                        },
+                        "title": "PF diz que grupo causou prejuízo de R$ 220 milhões com queimadas no Pantanal para criação de gado",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/09/20/pf-diz-que-grupo-causou-prejuizo-de-r-220-milhoes-com-queimadas-no-pantanal-para-criacao-de-gado.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/09/20/pf-diz-que-grupo-causou-prejuizo-de-r-220-milhoes-com-queimadas-no-pantanal-para-criacao-de-gado.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 28,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "OAgroÉMorte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 72,
+                            "byteStart": 59
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SOSPantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 87,
+                            "byteStart": 75
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "g1.globo.com/meio-ambient...\nO agro mata!\nO agro é morte.\n#OAgroÉMorte !\n#SOSPantanal !\nVida longa às sanções impostas pela União Européia !"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/09/20/pf-diz-que-grupo-causou-prejuizo-de-r-220-milhoes-com-queimadas-no-pantanal-para-criacao-de-gado.ghtml",
+                    "title": "PF diz que grupo causou prejuízo de R$ 220 milhões com queimadas no Pantanal para criação de gado",
+                    "description": "Polícia apontou que grupo invadiu área no bioma e incendiava para se apropriar de forma ilegal para a criação de gados.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lxog55dgboylwlssyhgzpoao/bafkreiewgocrjyttn5nvohahccc4ylxrzqocybwmlgirhowc6rr2dgipay@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T16:18:45.146Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:55pe5u2srxgpjvrcchscnddh/app.bsky.feed.post/3l47zt2p75h2u",
+            "cid": "bafyreibhfu2iq6vohsakibh6ymezklz73bxgpw42o4liikrx4bqmlkehfe",
+            "author": {
+                "did": "did:plc:55pe5u2srxgpjvrcchscnddh",
+                "handle": "rapaliga.bsky.social",
+                "displayName": "monicahlopes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:55pe5u2srxgpjvrcchscnddh/bafkreidhtkcvz62lrxhoukzgku6j7waqvljryx6oh5cc5dwjefunnahhye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T04:14:39.523Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T22:26:19.477Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreiaf4ofhcgvv3sruguwkzkc5obbzm2h7mt3jpxj4v2275xymlgat4i"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 7029748
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agromata"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 220,
+                            "byteStart": 211
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agrodestrói"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 221
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 235
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sosamazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 260,
+                            "byteStart": 248
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "monicahlopes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 261
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "todavidaimporta"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 291,
+                            "byteStart": 275
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A compaixão pelos animais não foi suficiente para que parassem. \n\nMas agora o que está em jogo é nossa sobrevivência. \n\nSe acham que não podem viver sem carne, pensem o que será viver sem ar e sem água.\n#agromata #agrodestrói #sospantanal #sosamazonia #monicahlopes #todavidaimporta"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreiaf4ofhcgvv3sruguwkzkc5obbzm2h7mt3jpxj4v2275xymlgat4i",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A55pe5u2srxgpjvrcchscnddh/bafkreiaf4ofhcgvv3sruguwkzkc5obbzm2h7mt3jpxj4v2275xymlgat4i/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A55pe5u2srxgpjvrcchscnddh/bafkreiaf4ofhcgvv3sruguwkzkc5obbzm2h7mt3jpxj4v2275xymlgat4i/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T22:26:19.477Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4kvi3pyzjjcnbz7p6ozhhc2x/app.bsky.feed.post/3l42l4smbpc27",
+            "cid": "bafyreiamhdzlvxgfc6j6fyt6semaeny65g7bakfbyqnxjbokonassoawem",
+            "author": {
+                "did": "did:plc:4kvi3pyzjjcnbz7p6ozhhc2x",
+                "handle": "marcelviesser.bsky.social",
+                "displayName": "Marcel Vidal",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4kvi3pyzjjcnbz7p6ozhhc2x/bafkreicthkliit2dzaazwyupr7ezfndcuzpxnct2nit4bfgsiotifq27yy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T15:15:05.729Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T18:20:00.799Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreihtifcsypyhcigmqf5kcahkd4o54ohn7scufy7ycvw2hpwfu5hiza",
+                        "uri": "at://did:plc:dr4samo3an7zx3ds6utf7ots/app.bsky.feed.post/3l423x7jx442c"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SOSAmazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 29
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SosPantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 42
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "StopFire"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 64,
+                            "byteStart": 55
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Parem logo de botar fogo!!!!\n#SOSAmazonia #SosPantanal #StopFire"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:dr4samo3an7zx3ds6utf7ots/app.bsky.feed.post/3l423x7jx442c",
+                    "cid": "bafyreihtifcsypyhcigmqf5kcahkd4o54ohn7scufy7ycvw2hpwfu5hiza",
+                    "author": {
+                        "did": "did:plc:dr4samo3an7zx3ds6utf7ots",
+                        "handle": "thiagobagatin.bsky.social",
+                        "displayName": "Thiago Bagatin",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dr4samo3an7zx3ds6utf7ots/bafkreidyomy7lewviwent7dfpgnmdlmqxl4siovygdujsnn2hfg4ahp4fy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-09T02:49:09.254Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-13T13:48:27.364Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihyxjsi6gi3jeb73v2wgfxtaugjcmwauje4zio64vyntj6se4axsy"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 15011081
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Atenção! Colocaram fogo no Território Sagrado, terra indígena onde mora Eloy Nhandewa, candidato a vereador do PSOL em Curitiba. Não podemos deixar barato!"
+                    },
+                    "labels": [],
+                    "likeCount": 154,
+                    "replyCount": 4,
+                    "repostCount": 68,
+                    "quoteCount": 7,
+                    "indexedAt": "2024-09-13T13:48:27.364Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreihyxjsi6gi3jeb73v2wgfxtaugjcmwauje4zio64vyntj6se4axsy",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Adr4samo3an7zx3ds6utf7ots/bafkreihyxjsi6gi3jeb73v2wgfxtaugjcmwauje4zio64vyntj6se4axsy/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Adr4samo3an7zx3ds6utf7ots/bafkreihyxjsi6gi3jeb73v2wgfxtaugjcmwauje4zio64vyntj6se4axsy/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T18:20:00.799Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l3r4u5u5ih2z",
+            "cid": "bafyreiesafj4qvonsrfs3pv5d3dxo2ltqp2ptdffilsodz5lvfh5c2yjqe",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T00:10:41.704Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Bem vindo ao Pantanal Sem Fim... DIÁRIO DE BORDO - Cruzamos o Pantanal! A primeira etapa da Expedição \"Historia Sem Fim... do rio Paraguai\" foi realizada. Agora é esperar o relatório do professor Céli...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiewkktvm5zthbm4qu2n5ttrlgepmavpjapxg3rk4t6gduyztd7vfa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 885496
+                        },
+                        "title": "Sem Fim...",
+                        "uri": "https://Pantanalsemfim.wordpress.com"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://pantanalsemfim.wordpress.com"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 171,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiey23oefunfzn2yhiyfqhby34ffe6bc75wolyvgxukhkp7upg7m2i",
+                        "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l3r4gdb6lv26"
+                    },
+                    "root": {
+                        "cid": "bafyreien77u5bgt3fjhc6b6xfybgpsbk53bxbzqbizbkt3bhjt4s4oica4",
+                        "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3l3r3yulumo25"
+                    }
+                },
+                "text": "Somos testemunhas de que o paraíso existiu. Apelos à sua preservação poucos efeitos surtiram. Restam registros como os disponibilizados no pantanalsemfim.wordpress.com\nQue tristeza ver a derrota de nossos sonhos,  esforços e alertas para que o Pantanal fosse poupado da destruição. \n#sospantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://Pantanalsemfim.wordpress.com",
+                    "title": "Sem Fim...",
+                    "description": "Bem vindo ao Pantanal Sem Fim... DIÁRIO DE BORDO - Cruzamos o Pantanal! A primeira etapa da Expedição \"Historia Sem Fim... do rio Paraguai\" foi realizada. Agora é esperar o relatório do professor Céli...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreiewkktvm5zthbm4qu2n5ttrlgepmavpjapxg3rk4t6gduyztd7vfa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T00:10:41.704Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5decfjaoxwoizuomchevu36b/app.bsky.feed.post/3kyjil5i2ny2p",
+            "cid": "bafyreifi7odluv3sr4a7j3f2y5x2bzhfdce4nsocfiwhxtnyllujbinilq",
+            "author": {
+                "did": "did:plc:5decfjaoxwoizuomchevu36b",
+                "handle": "climainfo.bsky.social",
+                "displayName": "Climainfo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5decfjaoxwoizuomchevu36b/bafkreif27tese74q7d2aj45vbjna5m4vrk4hrnws6negrpst2i5au5mfoq@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-17T14:33:03.000Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-30T19:03:31.883Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreias4yk3g2ivb6gqrrfbcsik4ordbcu7vpthgkapunkj6ss4kzqnym"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 770662
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 16
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SOSPantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 287,
+                            "byteStart": 275
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "As queimadas no #Pantanal seguem preocupantes.\nTemperaturas elevadas e ventos contribuem para a propagação do fogo. \n\nOs dados do LASA-UFRJ mostram que a área queimada é 2.397,8% maior em comparação com 2020.\n\nO enfrentamento às queimadas no bioma completou 120 dias. #SOSPantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5decfjaoxwoizuomchevu36b/bafkreias4yk3g2ivb6gqrrfbcsik4ordbcu7vpthgkapunkj6ss4kzqnym@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5decfjaoxwoizuomchevu36b/bafkreias4yk3g2ivb6gqrrfbcsik4ordbcu7vpthgkapunkj6ss4kzqnym@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 22,
+            "quoteCount": 1,
+            "indexedAt": "2024-07-30T19:03:31.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3kq6qevpiiz2g",
+            "cid": "bafyreifjnl5ihgutbmh6v6n33spxqtjmns4vg46qjjypga4t74gds46riq",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T17:02:21.779Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 192,
+                            "byteStart": 180
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.diariodecuiaba.com.br/ambiente/fazendeiro-e-multado-em-r-28-bi-por-desmate-quimico-no-bioma/678910"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 193
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Até parece que o responsável vão pagar por seu crime.  O Pantanal é, ou deveria ser, um santuário protegido. O que Mato Grosso faz é afrouxar cada vez mais a legislação.  \n#sospantanal\nwww.diariodecuiaba.com.br/ambiente/faz..."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T17:02:21.779Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vubqwfmj6rikkfk2duizli73/app.bsky.feed.post/3kenaa76qfv2p",
+            "cid": "bafyreifqunwy7x5bb44qybvaxm2in2iagpohs5xwtgby6lekjnbetylgku",
+            "author": {
+                "did": "did:plc:vubqwfmj6rikkfk2duizli73",
+                "handle": "tadeum.bsky.social",
+                "displayName": "Tadeu Martinez ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vubqwfmj6rikkfk2duizli73/bafkreiaunzyresty2vgulxjw6q7xtgqn63rxq5gitliujwnpua4kpyy45a@jpeg",
+                "labels": [],
+                "createdAt": "2023-10-18T22:29:05.071Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-20T18:21:00.069Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 996,
+                                "width": 1079
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicipmpdhopljgllj5edq4shz67q3raes4rb2tpdk3jtw6akbmxdmq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 408565
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#sospantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vubqwfmj6rikkfk2duizli73/bafkreicipmpdhopljgllj5edq4shz67q3raes4rb2tpdk3jtw6akbmxdmq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vubqwfmj6rikkfk2duizli73/bafkreicipmpdhopljgllj5edq4shz67q3raes4rb2tpdk3jtw6akbmxdmq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 996,
+                            "width": 1079
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-20T18:21:00.069Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tkyj6bmmxzsfw23yxedjcghu/app.bsky.feed.post/3ke3khb243t2u",
+            "cid": "bafyreihf3okgqghdu6k75ohgo6ht5atnvg4lckvptuk4opylxt6vtxzg74",
+            "author": {
+                "did": "did:plc:tkyj6bmmxzsfw23yxedjcghu",
+                "handle": "delcueto.bsky.social",
+                "displayName": "Valéria del Cueto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tkyj6bmmxzsfw23yxedjcghu/bafkreifwtfdzjaacqj6fs6ilyvindd53hcbgszb5hqpb33srgwgm2eotnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T04:10:32.083Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-13T17:35:59.581Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sospantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "valerio2023"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 174,
+                            "byteStart": 162
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://wp.me/p2Eomp-2fF"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 191,
+                            "byteStart": 175
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"O bambu e a flecha\"\nUm título, muito material e vários alvos no texto da série \"Parador Cuiabano\", de Valéria del Cueto @no_rumo do Sem Fim... \n#sospantanal\n#valerio2023\nwp.me/p2Eomp-2fF"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-13T17:35:59.581Z",
+            "labels": []
+        }
+    ]
+}

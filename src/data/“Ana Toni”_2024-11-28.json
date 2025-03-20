@@ -1,0 +1,1307 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:cxk7sqeup4bg3obqdvzxgndk/app.bsky.feed.post/3lbx7rcvmdc27",
+            "cid": "bafyreieswjpt3d3ivydosd4r4ejcjyxizp66j27saeiyphkf4dqcdzp7ku",
+            "author": {
+                "did": "did:plc:cxk7sqeup4bg3obqdvzxgndk",
+                "handle": "icnews.bsky.social",
+                "displayName": "Investigação Criminal ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cxk7sqeup4bg3obqdvzxgndk/bafkreigq45o7dq7zl3bcz7efprsfmqbfa2hmyjpopsqs6sgcbnjelyc3d4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T15:58:20.136Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T18:49:55.913Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 194,
+                                "width": 259
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicro2zv2ls3pcbbne2iq4ycowokyegulresuirsqkovtfxykhq3ea"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 37378
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.youtube.com/watch?v=KEqOa9NfCZQ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚨CASO TONI FLOR\nO empresário Toni Flor foi assassinado em 2020, mas a verdade por trás de sua morte só foi revelada um ano depois. O que parecia um crime encomendado, se revelou uma trama fria de sua própria esposa, Ana Claudia.\n▶ www.youtube.com/watch?v=KEqO..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxk7sqeup4bg3obqdvzxgndk/bafkreicro2zv2ls3pcbbne2iq4ycowokyegulresuirsqkovtfxykhq3ea@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cxk7sqeup4bg3obqdvzxgndk/bafkreicro2zv2ls3pcbbne2iq4ycowokyegulresuirsqkovtfxykhq3ea@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 194,
+                            "width": 259
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T18:49:57.661Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3lbwqa7zaxk24",
+            "cid": "bafyreibyrmexomwu6xsjdrl7t6swafk5p5tbofdn4jf2npf2oz35os53ia",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T14:11:56.335Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Para Ana Toni, difícil debate sobre financiamento na COP 29 não deixou espaço para mais avanços.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifu6f6gkxhcc6kwuahpf27rzzdxd3iyvbnm6vwgnivznzs4xjxji4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 953445
+                        },
+                        "title": "COP30 deve retomar confiança no processo multilateral, diz secretária",
+                        "uri": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/cop30-deve-retomar-confianca-no-processo-multilateral-diz-secret%C3%A1ria"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/cop30-deve-retomar-confianca-no-processo-multilateral-diz-secret%C3%A1ria"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 249
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "“O que a gente vai ter que fazer na COP30 é reconquistar a confiança no processo multilateral que foi esgarçada na COP29”, avalia a secretária nacional de Mudança do Clima do Ministério do Meio Ambiente e Mudança do Clima (MMA), Ana Toni\nagenciabrasil.ebc.com.br/meio-ambient..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-11/cop30-deve-retomar-confianca-no-processo-multilateral-diz-secret%C3%A1ria",
+                    "title": "COP30 deve retomar confiança no processo multilateral, diz secretária",
+                    "description": "Para Ana Toni, difícil debate sobre financiamento na COP 29 não deixou espaço para mais avanços.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreifu6f6gkxhcc6kwuahpf27rzzdxd3iyvbnm6vwgnivznzs4xjxji4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T14:14:42.267Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cilsuckmjangnse5fxvqrfpj/app.bsky.feed.post/3lboz6jtwok2w",
+            "cid": "bafyreie4nk56nel22xyzhfimll7yvqncc4xhcch5vw3ai2i6c2kc5wzzlm",
+            "author": {
+                "did": "did:plc:cilsuckmjangnse5fxvqrfpj",
+                "handle": "fmuriana.bsky.social",
+                "displayName": "Fabrício Muriana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cilsuckmjangnse5fxvqrfpj/bafkreidahs7vzienx53cbqfec4znsuvxkomd4vfl5wuabx6k6x47xnj42m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-14T13:24:25.349Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-24T12:30:45.306Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia5ywd4frbkywjxunworhi6mpuy3q7ndod6ayu6vniqcxnjdrshmu",
+                        "uri": "at://did:plc:vvsgargkd63beo6qsl3hwjvz/app.bsky.feed.post/3lbnhkvorqk2h"
+                    },
+                    "root": {
+                        "cid": "bafyreia5ywd4frbkywjxunworhi6mpuy3q7ndod6ayu6vniqcxnjdrshmu",
+                        "uri": "at://did:plc:vvsgargkd63beo6qsl3hwjvz/app.bsky.feed.post/3lbnhkvorqk2h"
+                    }
+                },
+                "text": "Criticadíssimo e muito insuficiente mesmo. Mas era a meta que o governo brasileiro (marina, andré corteia e ana toni) achava viável uma dia antes."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-24T12:30:45.857Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gunb2xhzmh4jqwyajxdrdzo3/app.bsky.feed.post/3la2mlk7ibx2o",
+            "cid": "bafyreie54d3yeprbvzzrvov3lrh62ywl74pn4v6yt76dst6hbxtb55rgqa",
+            "author": {
+                "did": "did:plc:gunb2xhzmh4jqwyajxdrdzo3",
+                "handle": "coelhomalditolendo.bsky.social",
+                "displayName": "Toca do Coelho Maldito ☠📖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gunb2xhzmh4jqwyajxdrdzo3/bafkreibmel7frrhtrfz5mfvaca3hlsmodhn5d2arvorpvjmjyejkpvuqne@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T23:35:42.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-03T16:26:58.106Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiar4i542hitxawkcbnh3hcw5foia4avdgvwlrbuosedkrkmvjfd3q",
+                        "uri": "at://did:plc:tb33kg4aitck6jmbdnazqkcj/app.bsky.feed.post/3la2fvdbptm2q"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Augusto dos Anjos, Emily Brontë, Edgar Allan Poe, Toni Morrison, Han Kang, Verena Cavalcanti, Mónica Ojeda, Maria Fernanda Ampuero e Ana Paula Maia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:tb33kg4aitck6jmbdnazqkcj/app.bsky.feed.post/3la2fvdbptm2q",
+                    "cid": "bafyreiar4i542hitxawkcbnh3hcw5foia4avdgvwlrbuosedkrkmvjfd3q",
+                    "author": {
+                        "did": "did:plc:tb33kg4aitck6jmbdnazqkcj",
+                        "handle": "letsszp.bsky.social",
+                        "displayName": "let 🎄| vai ver o skz",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tb33kg4aitck6jmbdnazqkcj/bafkreih4oaz33diwpyq7jhvzg5znhjkoryevjy5bmd4cpe2ea2vizy5kvm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-02T02:21:35.904Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-03T14:27:08.822Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreid2airyvjheuwzw6mdm54ipeswmwzw7h7aejal4g26pqywkkvnibu",
+                                "uri": "at://did:plc:tb33kg4aitck6jmbdnazqkcj/app.bsky.feed.post/3la2futwujs2d"
+                            },
+                            "root": {
+                                "cid": "bafyreibtkorqoqmqknb2lgwbaqfil2bftifln2epim7fwlut5ctrmzyi2m",
+                                "uri": "at://did:plc:tb33kg4aitck6jmbdnazqkcj/app.bsky.feed.post/3la2fmylebt2p"
+                            }
+                        },
+                        "text": "—> Qual o seu autor favorito?"
+                    },
+                    "labels": [],
+                    "likeCount": 9,
+                    "replyCount": 2,
+                    "repostCount": 0,
+                    "quoteCount": 50,
+                    "indexedAt": "2024-11-03T14:27:09.083Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-03T16:26:57.081Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwyvnynvmay2lrwwoyhpf2bf/app.bsky.feed.post/3l7hy37xue42j",
+            "cid": "bafyreigre546v7hyfjncua6tixfsdi3dnhtm7xb5gifecerk6tqhxjhp5a",
+            "author": {
+                "did": "did:plc:bwyvnynvmay2lrwwoyhpf2bf",
+                "handle": "paintedbymarina.bsky.social",
+                "displayName": "Lau ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwyvnynvmay2lrwwoyhpf2bf/bafkreife535eieddvi2nf5juj7ex3kji32jn27lspbgkwg7cuwsneu3544@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T17:18:01.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-27T06:31:57.060Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreih6e2gi3rwifj2wckgcp57npeozqwlzquobxyw5zzvy5bsjrfyvfe",
+                        "uri": "at://did:plc:6wtt3esjhfbuhjydcbgobdmy/app.bsky.feed.post/3l7gvsp7its2h"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A MSP tá do nada criando uns casais héteros muito aleatórios e é um pior que o outro :Aninha e Maneco,Toni e Maria Mello,Quim e Dorinha,Professor Spada e Dona Xarlene,Seu Xavier e Professora Ana Paula"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:6wtt3esjhfbuhjydcbgobdmy/app.bsky.feed.post/3l7gvsp7its2h",
+                    "cid": "bafyreih6e2gi3rwifj2wckgcp57npeozqwlzquobxyw5zzvy5bsjrfyvfe",
+                    "author": {
+                        "did": "did:plc:6wtt3esjhfbuhjydcbgobdmy",
+                        "handle": "bruxadevenus13.bsky.social",
+                        "displayName": "Bruxinha",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6wtt3esjhfbuhjydcbgobdmy/bafkreihpdvubbdlgmottqlctgitioh2hy5yzw26uc6ksmai2ijpaupn3cq@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-29T19:36:01.620Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-26T20:18:44.227Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "É impressão minha ou os novos casais da turma da Mônica jovem parece que foram feitos a partir de sorteios? Pois não é possível, tá muito aleatório"
+                    },
+                    "labels": [],
+                    "likeCount": 7,
+                    "replyCount": 0,
+                    "repostCount": 2,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-10-26T20:18:44.227Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 1,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-27T06:31:57.060Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqueogzb23",
+            "cid": "bafyreid5zghdxrti267uqpa5ozxrpdkkxv3m7fkf5kblilf2ubs6rjxgbq",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T00:34:57.533Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidscki3j7smgraexpa2chhqnmieearqulhhrbej3phhfe4euneav4",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqu7jumk2d"
+                    },
+                    "root": {
+                        "cid": "bafyreiezaz5rudbliwpsqiq5klk7yue7dioxysx3qko3ivlo5rpw4q45fy",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqtrcqec2f"
+                    }
+                },
+                "text": "Aproveitei o encontro para entrevistar a Izabella e a Ana Toni sobre os desafios ambientais atuais frente ao avanço das mudanças climáticas. Confira os melhores momentos no vídeo!"
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T00:34:57.533Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqu7jumk2d",
+            "cid": "bafyreidscki3j7smgraexpa2chhqnmieearqulhhrbej3phhfe4euneav4",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T00:34:52.091Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiezaz5rudbliwpsqiq5klk7yue7dioxysx3qko3ivlo5rpw4q45fy",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqtrcqec2f"
+                    },
+                    "root": {
+                        "cid": "bafyreiezaz5rudbliwpsqiq5klk7yue7dioxysx3qko3ivlo5rpw4q45fy",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l6vqtrcqec2f"
+                    }
+                },
+                "text": "Me encontrei com o pesquisador francês Jean-Charles Hourcade, Suzana Kahn, diretora da Coppe/UFRJ, a ex-ministra do Meio Ambiente Izabella Teixeira e a atual secretária nacional do Clima, Ana Toni."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 21,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T00:34:52.091Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:smmh66szhmz6zc3c3gv466pi/app.bsky.feed.post/3l6fkghxr6s2o",
+            "cid": "bafyreif5v2pnjbrqyhh6orrbac7k5uswii3w3sreskiwhsdhubd7nbcbwq",
+            "author": {
+                "did": "did:plc:smmh66szhmz6zc3c3gv466pi",
+                "handle": "caroltypes.bsky.social",
+                "displayName": "Carol Almeida 🇵🇸 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreifidqtl5fjijmet6pnnc7iu4y72o4msrz2ilztwjsryt526f4kloy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-07T13:57:40.087Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T13:57:12.632Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibht65nujofzsfumpmqkhtyqh3uy5eqowdaoqeaxcuvby4xxakzke",
+                        "uri": "at://did:plc:smmh66szhmz6zc3c3gv466pi/app.bsky.feed.post/3l6fkftiexy22"
+                    },
+                    "root": {
+                        "cid": "bafyreibht65nujofzsfumpmqkhtyqh3uy5eqowdaoqeaxcuvby4xxakzke",
+                        "uri": "at://did:plc:smmh66szhmz6zc3c3gv466pi/app.bsky.feed.post/3l6fkftiexy22"
+                    }
+                },
+                "text": "Memórias póstumas de Brás Cubas, Machado de Assis\nSeminário dos ratos, de Lygia Fagundes Telles\nÁgua viva, de Clarice Lispector\nA teus pés, de Ana Cristina Cesar \nAmada, de Toni Morrison\nTexaco, de Patrick Chamoiseau\nA obscena Senhora D, de Hilda Hilst\nA droga da obediência, de Pedro Bandeira [2/4]"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T13:57:12.632Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ltfd3uazdwml2s26pscnybc6/app.bsky.feed.post/3l67eyzdtig23",
+            "cid": "bafyreifnp6vhbddhigbvqhnivukpnbm7tz7jbszfw5mgieqrngdonmaeue",
+            "author": {
+                "did": "did:plc:ltfd3uazdwml2s26pscnybc6",
+                "handle": "cinegrafia.bsky.social",
+                "displayName": "Matheus Monteiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreifnpmc62ghhyryq5gajd737q4jweog2p4lea6j65gkzhdt26pzp7i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:32:16.580Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T03:04:13.850Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 643,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidjvdtmdbtcwavmnwivl7gv4ikll4tvirwzkn7htktgqszdk5imie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 710864
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 788,
+                                "width": 1400
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigebnyp7l3ty23kcbo4yiw47ekfs6ok5nv3nhrf4omcnjowrfd4ji"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 650256
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1036,
+                                "width": 1920
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig2pd66brlobdhzydozuww6r67dgiivcj3rivewwdu56cwbit6j6i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 306718
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1036,
+                                "width": 1920
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia7ff3t32gnxddtq6akzvxss4ulzss4fcf3dqrjzaojnpaoxxczgi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 374609
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Entre Facas e Segredos” (Knives Out) • 2019 • Rian Johnson  \nSuspense, Crime, Comédia \n🎬 Daniel Craig, Ana de Armas, Chris Evans, Jamie Lee Curtis, Christopher Plummer, Toni Collette, Michael Shannon, Don Johnson, Katherine Langford, Jaeden Martell, LaKeith Stanfield\n🍿\n\nInstagram: cinegrafia_"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreidjvdtmdbtcwavmnwivl7gv4ikll4tvirwzkn7htktgqszdk5imie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreidjvdtmdbtcwavmnwivl7gv4ikll4tvirwzkn7htktgqszdk5imie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 643,
+                            "width": 1200
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreigebnyp7l3ty23kcbo4yiw47ekfs6ok5nv3nhrf4omcnjowrfd4ji@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreigebnyp7l3ty23kcbo4yiw47ekfs6ok5nv3nhrf4omcnjowrfd4ji@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 788,
+                            "width": 1400
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreig2pd66brlobdhzydozuww6r67dgiivcj3rivewwdu56cwbit6j6i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreig2pd66brlobdhzydozuww6r67dgiivcj3rivewwdu56cwbit6j6i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1036,
+                            "width": 1920
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreia7ff3t32gnxddtq6akzvxss4ulzss4fcf3dqrjzaojnpaoxxczgi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ltfd3uazdwml2s26pscnybc6/bafkreia7ff3t32gnxddtq6akzvxss4ulzss4fcf3dqrjzaojnpaoxxczgi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1036,
+                            "width": 1920
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T03:04:13.850Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l4ubzxs5gx2n",
+            "cid": "bafyreihrixsozjp4axte2uc4n7jgvy2jtlc4rnjto3bspyt5ldvvvsl2m4",
+            "author": {
+                "did": "did:plc:m2z2svsvien232llzw55xlwd",
+                "handle": "handle.invalid",
+                "displayName": "Plataforma CIPÓ ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreid73xx6il35dtudbgal4jadeif2wfp3ct3kzdqzoj2fmyuwupsl4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T02:56:12.101Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T23:46:36.166Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib73hv4voyrmod5z63githg2v2p3jlms4mzyqewhxjhfsgcof653q",
+                        "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l4uaxs4ve52v"
+                    },
+                    "root": {
+                        "cid": "bafyreifq53uoefv4q3rjafezsudigcs3mwofuri2il7bpfbacojz2ojoda",
+                        "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l4uasl2xz222"
+                    }
+                },
+                "text": "📣 Entre os palestrantes estão Ana Toni, secretária nacional de Mudança do Clima do Ministério do Meio Ambiente, Laurence Tubiana, CEO da European Climate Foundation e uma das principais arquitetas do Acordo de Paris, e Rich Wilson, CEO da Iswe e organizador da Assembleia Global de Cidadãos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T23:46:36.166Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jj3jq62a5yk2wdkicws4prtp/app.bsky.feed.post/3l4mloexo3z25",
+            "cid": "bafyreicrl4cp2673ttrnwxbbfiza5gykp33gdy3npbuqjiaibbplwt5n4e",
+            "author": {
+                "did": "did:plc:jj3jq62a5yk2wdkicws4prtp",
+                "handle": "cguedes1906.bsky.social",
+                "displayName": "CGuedes🦑🚩❤️🐶🙏 Urbi et Orbi",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jj3jq62a5yk2wdkicws4prtp/bafkreidzgas47em74d43lcqtwxjbrdacn2bsa4fg2wsw43g5zwf6wpz47a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T15:50:23.940Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T22:17:46.932Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Com hegemonia ameaçada na ultradireita neofascista, Bolsonaro ainda tem que conviver com racha de apoiadores no estado onde teve mais votos",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibvugxaergqluuvxrptewkme73vhuv6iwbvyyhta3ovkbjy3se25u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 586021
+                        },
+                        "title": "Bolsonaro participa de ato flopado com Jair Renan em Camboriú e suspende parte da agenda em SC",
+                        "uri": "https://revistaforum.com.br/brasil/sul/2024/9/20/bolsonaro-participa-de-ato-flopado-com-jair-renan-em-camboriu-suspende-parte-da-agenda-em-sc-165944.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://revistaforum.com.br/brasil/sul/2024/9/20/bolsonaro-participa-de-ato-flopado-com-jair-renan-em-camboriu-suspende-parte-da-agenda-em-sc-165944.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bolsonaro foi chamado de \"coitado\" pela deputada estadual Ana Campagnolo, Bozo apoia Rogério da Equilíbrios, candidato a prefeito de Navegantes\n\nRogério é aliado de Seif e de Carol de Toni, que estão em pé de guerra com Ana Campagnolo, que apoia Liba Fronza..\nrevistaforum.com.br/brasil/sul/2..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/brasil/sul/2024/9/20/bolsonaro-participa-de-ato-flopado-com-jair-renan-em-camboriu-suspende-parte-da-agenda-em-sc-165944.html",
+                    "title": "Bolsonaro participa de ato flopado com Jair Renan em Camboriú e suspende parte da agenda em SC",
+                    "description": "Com hegemonia ameaçada na ultradireita neofascista, Bolsonaro ainda tem que conviver com racha de apoiadores no estado onde teve mais votos",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jj3jq62a5yk2wdkicws4prtp/bafkreibvugxaergqluuvxrptewkme73vhuv6iwbvyyhta3ovkbjy3se25u@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T22:17:46.932Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hel6khlz373lsjikbblzcw54/app.bsky.feed.post/3l4dxomgvgo2o",
+            "cid": "bafyreigaxya3bbd6jmb2gnw23jpirm7qdflibwius7zhngbj2lfjeoyh2i",
+            "author": {
+                "did": "did:plc:hel6khlz373lsjikbblzcw54",
+                "handle": "terezacruvinel.bsky.social",
+                "displayName": "",
+                "labels": [],
+                "createdAt": "2024-04-10T20:01:09.894Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T11:58:39.936Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 96,
+                            "byteStart": 63
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Autoridade Climática será Ana Toni ou André Corrêa do Lago www.brasil247.com/blog/autorid..."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T11:58:39.936Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ujswpukxtei5jpu5ykintaoa/app.bsky.feed.post/3l4birm6iei2n",
+            "cid": "bafyreifgxmn7dfy2nwmxyokpe2qttssuw6kag27syspmrnu2n7gounwlhe",
+            "author": {
+                "did": "did:plc:ujswpukxtei5jpu5ykintaoa",
+                "handle": "anacruzzeli.bsky.social",
+                "displayName": "LULA-DILMA❤️ -BRICS-DF 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ujswpukxtei5jpu5ykintaoa/bafkreietxbqcuodyan5qvnuuzo6bpaa6przipotwpt7gyxu2nc65x72x2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T12:26:37.863Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T12:26:37.529Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "\"O presidente Lula escolherá entre dois nomes, nas próximas horas, o ocupante do posto de Autoridade Nacional Climática\", informa Tereza Cruvinel",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiatn4mzrzxx6jjt47x33ypdxde2hqefhvtnlkzkmbjjbp4ysjvph4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 831293
+                        },
+                        "title": "Autoridade Climática será Ana Toni ou André Corrêa do Lago",
+                        "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 291,
+                            "byteStart": 258
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A indicação de Ana Toni é defendida pela ministra Marina Silva... parece haver mais convergência no interior do governo a favor do nome do embaixador, que já tem reputação internacional no tema e reconhecida experiência como negociador diplomático. www.brasil247.com/blog/autorid..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago",
+                    "title": "Autoridade Climática será Ana Toni ou André Corrêa do Lago",
+                    "description": "\"O presidente Lula escolherá entre dois nomes, nas próximas horas, o ocupante do posto de Autoridade Nacional Climática\", informa Tereza Cruvinel",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ujswpukxtei5jpu5ykintaoa/bafkreiatn4mzrzxx6jjt47x33ypdxde2hqefhvtnlkzkmbjjbp4ysjvph4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-16T12:26:37.529Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:z7lkqlobtsv7jpm6l7xovomc/app.bsky.feed.post/3l4b7rwinwk2d",
+            "cid": "bafyreif2w6qwsxcfmt34d7cjk6pfzjkerzk2vm44jzdg2fsjsjom6dkqdm",
+            "author": {
+                "did": "did:plc:z7lkqlobtsv7jpm6l7xovomc",
+                "handle": "brasil247.bsky.social",
+                "displayName": "Brasil 247",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z7lkqlobtsv7jpm6l7xovomc/bafkreicoukwklmjz7s7hxgbxbefrm3xwmx57ulathxyu6a6zebltnzc7pa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-03T12:56:14.214Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T09:44:54.981Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "\"O presidente Lula escolherá entre dois nomes, nas próximas horas, o ocupante do posto de Autoridade Nacional Climática\", informa Tereza Cruvinel",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia6z3th4g2ssvwxmwwlvzcowllcf2fqgapvli6hiwhn5a4cbvkhw4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 831275
+                        },
+                        "title": "Autoridade Climática será Ana de Toni ou André Corrêa do Lago",
+                        "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 99,
+                            "byteStart": 66
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Autoridade Climática será Ana de Toni ou André Corrêa do Lago\nwww.brasil247.com/blog/autorid...\nClique na foto"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/blog/autoridade-climatica-sera-ana-de-toni-ou-andre-correa-do-lago",
+                    "title": "Autoridade Climática será Ana de Toni ou André Corrêa do Lago",
+                    "description": "\"O presidente Lula escolherá entre dois nomes, nas próximas horas, o ocupante do posto de Autoridade Nacional Climática\", informa Tereza Cruvinel",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z7lkqlobtsv7jpm6l7xovomc/bafkreia6z3th4g2ssvwxmwwlvzcowllcf2fqgapvli6hiwhn5a4cbvkhw4@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 11,
+            "likeCount": 66,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-16T09:44:54.981Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rrceigyt5s33tqt4jncsucri/app.bsky.feed.post/3l3gaz3r5wf2x",
+            "cid": "bafyreigayupgmzjl763sqbq7v26z7s4se6elsxb5yowisshsu77w2pk7b4",
+            "author": {
+                "did": "did:plc:rrceigyt5s33tqt4jncsucri",
+                "handle": "sunflowervl6.bsky.social",
+                "displayName": "meli mel",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rrceigyt5s33tqt4jncsucri/bafkreibgtu2vv4nt2twie3oh25bxrfnum5orwzjs6y3zq2545gnogj6uqm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T00:14:36.999Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T16:25:45.129Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib4u7e3qmokgbphbe6gjmvikzjgubzrgu7plfp73hrtraxals3wv4",
+                        "uri": "at://did:plc:rrceigyt5s33tqt4jncsucri/app.bsky.feed.post/3l3gay2qqsa2q"
+                    },
+                    "root": {
+                        "cid": "bafyreib4u7e3qmokgbphbe6gjmvikzjgubzrgu7plfp73hrtraxals3wv4",
+                        "uri": "at://did:plc:rrceigyt5s33tqt4jncsucri/app.bsky.feed.post/3l3gay2qqsa2q"
+                    }
+                },
+                "text": "e eu conheci a fucking ana toni e o embaixador andré correia\n\njurooo, quase morri quando a ana veio falar comigo. ele nem sabe que é minha diva 🥺🥺"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T16:25:45.129Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ikripyqr2om4orr4a3b3l7jc/app.bsky.feed.post/3kxfnv5ngxg2l",
+            "cid": "bafyreieecsvuhhu6l2es7xdnzrp7377p2yb5b5sqpde6tgwbct4cpzz3q4",
+            "author": {
+                "did": "did:plc:ikripyqr2om4orr4a3b3l7jc",
+                "handle": "comunidade247.bsky.social",
+                "displayName": "Comunidade 247 🇵🇸 🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ikripyqr2om4orr4a3b3l7jc/bafkreiatr4bcpwinp3ychypdv6upl3ebhsnzb36if3t4ei6jrvpzgqkj2q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-02T11:27:17.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-16T13:02:45.315Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Para falar das providências de combate e adaptação às mudanças climáticas, Regina Zappa e Mario Vitor recebem nesta terça-feira Ana Toni, secretária nacional...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib4t45q3psxjtod37lvhfwyjbz6xcigwbonp7knc44nae3n4qpi64"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 736308
+                        },
+                        "title": "Mario Vitor & Regina Zappa - Como enfrentar as mudanças climáticas 16.07.24",
+                        "uri": "https://www.youtube.com/live/qrdp9PzPFoc?si=ixs0qi-0O_kDA2ld"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:ikripyqr2om4orr4a3b3l7jc"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 26,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:6yln4xfh2nupijllyfgb7jeh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 107,
+                            "byteStart": 78
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:e5f2nmznj32bxsjkrzj275qj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 128,
+                            "byteStart": 109
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:fnmrigs4jproej7m4p7eeitf"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.youtube.com/live/qrdp9PzPFoc?si=ixs0qi-0O_kDA2ld"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 182,
+                            "byteStart": 151
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "@comunidade247.bsky.social \n\n“Mário Vitor\ne\nRegina Zappa”\n\nCom\nAna Toni\n\n@mariovitorsantos.bsky.social \n@rzappa.bsky.social \n@tv247.bsky.social \n\nwww.youtube.com/live/qrdp9Pz..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.youtube.com/live/qrdp9PzPFoc?si=ixs0qi-0O_kDA2ld",
+                    "title": "Mario Vitor & Regina Zappa - Como enfrentar as mudanças climáticas 16.07.24",
+                    "description": "Para falar das providências de combate e adaptação às mudanças climáticas, Regina Zappa e Mario Vitor recebem nesta terça-feira Ana Toni, secretária nacional...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ikripyqr2om4orr4a3b3l7jc/bafkreib4t45q3psxjtod37lvhfwyjbz6xcigwbonp7knc44nae3n4qpi64@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-16T13:02:45.315Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3kshjwaxdgy26",
+            "cid": "bafyreifrgw7r7orcg7rpq4xgsznjpobwogd5fa4f6arpfws3dy64kzt2bi",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T15:51:08.445Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiewho4hctopuvlor6l4zip4m3pv7mltyx7nnxukeavqnyzhk5hvxq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 642405
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eduardo Leite\nJorginho Melo\nJúlia Zanatta \nBozo Filhos Mijóia \nMourão\nBonner\nAllan dos Santos\nRegina Duarte\nGal Heleno\nGal Braga Neto \nAna Maria Braga\nBia Kices \nZema \nChupetinha \nPaulo Lemann\nMauro Cid\nVéio da Havan\nCarla Zambelli…\n\n*Gus Gayer \n*Osmar Terra Plana\n* Marcel Van Hattem\n*Carol de Toni"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiewho4hctopuvlor6l4zip4m3pv7mltyx7nnxukeavqnyzhk5hvxq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiewho4hctopuvlor6l4zip4m3pv7mltyx7nnxukeavqnyzhk5hvxq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T15:51:08.445Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k4gwurr76n2p",
+            "cid": "bafyreidi6ybbudro5yb2tdmwz34xcwfrsa4tkt6lmbluiprx5z5gg7m4zm",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-08T10:55:50.884Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Secretária de Mudança do Clima do MMA conversou com ((o))eco em Belém sobre revisão da NDC brasileira e redução no uso de combustíveis fósseis no país",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihkqzinwafywf4gzwfz4zi6r264ge5q72c7v5nlwnizfdwc2bxm6i"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 402789
+                        },
+                        "title": "“Pedalada climática” de Salles será corrigida pelo governo Lula até outubro, diz Ana Toni - (...",
+                        "uri": "https://oeco.org.br/reportagens/pedalada-climatica-de-salles-sera-corrigida-pelo-governo-lula-ate-outubro-diz-ana-toni/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/reportagens/pedalada-climatica-de-salles-sera-corrigida-pelo-governo-lula-ate-outubro-diz-ana-toni/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 178
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "“Pedalada climática” de Salles será corrigida pelo governo Lula até outubro, diz Ana Toni ⬇️\n\nSecretária de Mudança do Clima do MMA conversou com ((o))eco em Belém\nhttps://oeco.org.br/reportagens/pedalada-climatica-de-salles-sera-corrigida-pelo-governo-lula-ate-outubro-diz-ana-toni/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/pedalada-climatica-de-salles-sera-corrigida-pelo-governo-lula-ate-outubro-diz-ana-toni/",
+                    "title": "“Pedalada climática” de Salles será corrigida pelo governo Lula até outubro, diz Ana Toni - (...",
+                    "description": "Secretária de Mudança do Clima do MMA conversou com ((o))eco em Belém sobre revisão da NDC brasileira e redução no uso de combustíveis fósseis no país",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreihkqzinwafywf4gzwfz4zi6r264ge5q72c7v5nlwnizfdwc2bxm6i@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-08T10:55:50.884Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:smmh66szhmz6zc3c3gv466pi/app.bsky.feed.post/3jzs5cvfm6p2q",
+            "cid": "bafyreihm4hgsihzgjedzbqixt4dmmjsnhi26ai5p34psewxori7i6wzzcu",
+            "author": {
+                "did": "did:plc:smmh66szhmz6zc3c3gv466pi",
+                "handle": "caroltypes.bsky.social",
+                "displayName": "Carol Almeida 🇵🇸 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreifidqtl5fjijmet6pnnc7iu4y72o4msrz2ilztwjsryt526f4kloy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-07T13:57:40.087Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-05T17:35:01.041Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreictzewhhdgq2vxlov2lgeffwe2zhnpehsmaou4ao7fdlaberik2ga"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 178498
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigaebexj3zzrzihb3xhqhxsptabryjwzkhw4hq6kug7nq2sxo4pcy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 155939
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiepwnpcu6g4xrbdeviydscoh3kyivkj7agle2w2vb236cyf3klhxu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 212786
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidri6rj23qtenblk3pqvbc76jxp667c6frwxujesxj6cv2adbtchi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 51574
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "Da série Quatro Escritoras que te ampliam e te expandem em milhões de experiências da vida humana. Pra mim, Lygia Fagundes Telles, Toni Morrison, Ana Cristina Cesar, Hilda Hilst."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreictzewhhdgq2vxlov2lgeffwe2zhnpehsmaou4ao7fdlaberik2ga@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreictzewhhdgq2vxlov2lgeffwe2zhnpehsmaou4ao7fdlaberik2ga@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreigaebexj3zzrzihb3xhqhxsptabryjwzkhw4hq6kug7nq2sxo4pcy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreigaebexj3zzrzihb3xhqhxsptabryjwzkhw4hq6kug7nq2sxo4pcy@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreiepwnpcu6g4xrbdeviydscoh3kyivkj7agle2w2vb236cyf3klhxu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreiepwnpcu6g4xrbdeviydscoh3kyivkj7agle2w2vb236cyf3klhxu@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreidri6rj23qtenblk3pqvbc76jxp667c6frwxujesxj6cv2adbtchi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:smmh66szhmz6zc3c3gv466pi/bafkreidri6rj23qtenblk3pqvbc76jxp667c6frwxujesxj6cv2adbtchi@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-05T17:35:01.041Z",
+            "labels": []
+        }
+    ]
+}

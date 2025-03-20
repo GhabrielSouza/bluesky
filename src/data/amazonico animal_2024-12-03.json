@@ -1,0 +1,384 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:ru7kdvxlm77ommdqmy4gvd6m/app.bsky.feed.post/3l4qmviw5tl2i",
+            "cid": "bafyreifgfoggumoidrgcgxtfzy4hbveapapta46epnstw4knyuhp4jj6uq",
+            "author": {
+                "did": "did:plc:ru7kdvxlm77ommdqmy4gvd6m",
+                "handle": "felizp.bsky.social",
+                "displayName": "Eusexua",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ru7kdvxlm77ommdqmy4gvd6m/bafkreictocfq3dfncdvcu7k56gldtfx7ndhf4m4xjgj7m72xlvgxtofohu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:45:32.631Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T12:50:18.645Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tive um pesadelo amazônico onde cada animal se revoltava com os seres humanos e buscava a morte de cada um que penetrasse a floresta incluso eu."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T12:50:18.645Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yeennrthuznu4mu6ltzx5pbf/app.bsky.feed.post/3l4743k3uws2v",
+            "cid": "bafyreidqunvheamdm7lridsfgwzfczrnga2r4fmoljw5l4hbxwogwh5eti",
+            "author": {
+                "did": "did:plc:yeennrthuznu4mu6ltzx5pbf",
+                "handle": "mariaclaarz.bsky.social",
+                "displayName": "preta 🐚",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yeennrthuznu4mu6ltzx5pbf/bafkreibuk5hslum3logml2h4v7pwecyzaro3msa5k52tdcmhjnphw6gycq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T02:15:22.305Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T13:34:11.409Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "quem disse que no parque amazônico não tem animal? tem o próprio tucano lá"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T13:34:11.409Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4qsv6edn6xssyoc2ojubmjxg/app.bsky.feed.post/3l3xrkc5urb2p",
+            "cid": "bafyreibdphqjpwuhkim6vypmctd2yurskx5woefgqihmd3no2w4gaxa4qm",
+            "author": {
+                "did": "did:plc:4qsv6edn6xssyoc2ojubmjxg",
+                "handle": "jefinhomenes.bsky.social",
+                "displayName": "Jéferfon Menezes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qsv6edn6xssyoc2ojubmjxg/bafkreifqa3ek6ivtw3ncegrqvm2tthvvlcq5nxadvkxydqftvkanrncmuu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-05T18:23:48.993Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T15:36:57.067Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidc3ef4csa53eyaivnt7lz3e5lv3vh7hkrh7vpylkhzehtc4mb5ai",
+                        "uri": "at://did:plc:xie74nughxy6wcz3xx3w33af/app.bsky.feed.post/3l3xreqxhwf2q"
+                    },
+                    "root": {
+                        "cid": "bafyreig7ro6nhum62fdwie5wewpfsfxvn6jgb5mzcdl53ucopfqhk6jimq",
+                        "uri": "at://did:plc:4qsv6edn6xssyoc2ojubmjxg/app.bsky.feed.post/3l3xqlm4mi52k"
+                    }
+                },
+                "text": "LITERALMENTE Macron e Lula fizeram reunião sobre esses dias e sobre o fundo amazônico, animal.\n\nSe você sabe algo então que ninguém sabe, conta pra gente, agente secreto blueskizeiro"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 25,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T15:36:57.067Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qxrdxq4yd353quixynr46ipz/app.bsky.feed.post/3l3ojul6mix2r",
+            "cid": "bafyreiajpfka5kcnct2etg3vlbmvjdpgcjfhzkd5znfeuyey2io6dthl6m",
+            "author": {
+                "did": "did:plc:qxrdxq4yd353quixynr46ipz",
+                "handle": "ibereulhoa.bsky.social",
+                "displayName": "Iberê Ulhoa 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreidgldulbuzw47wwqietmc53egbuxnratiyvfupb3c24dozlqlqvkq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:28:49.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T23:25:34.285Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 828,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 349013
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigxkwgkit62jfobyngaemkwgpuqbsqzutpoasj6t5xkn53vknph4e",
+                        "uri": "at://did:plc:w3wnj5nfcqxt26pmx3ajzsrb/app.bsky.feed.post/3l3oetnqkyw2o"
+                    },
+                    "root": {
+                        "cid": "bafyreigxkwgkit62jfobyngaemkwgpuqbsqzutpoasj6t5xkn53vknph4e",
+                        "uri": "at://did:plc:w3wnj5nfcqxt26pmx3ajzsrb/app.bsky.feed.post/3l3oetnqkyw2o"
+                    }
+                },
+                "text": "Vamo ser sincero? Enquanto estiver demanda por proteína animal será disso pra pior.\n\nUma das raízes do desflorestamento amazônico, e das mais vistosas, é a produção de proteína animal.\n\nConsidere o veganismo pela vida de todos animais explorados e tb pela amazônia em chamas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 828,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T23:25:34.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rxnbkt4774cgq52635xwsvm3/app.bsky.feed.post/3kjordkztqo2a",
+            "cid": "bafyreih4x3chsnoi7jiuf7z5diazu6qmzztocw5x42muneksgjqwxscnea",
+            "author": {
+                "did": "did:plc:rxnbkt4774cgq52635xwsvm3",
+                "handle": "pedrinhos.bsky.social",
+                "displayName": "‎‎little pedro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rxnbkt4774cgq52635xwsvm3/bafkreiezkqwcbjttcm353gduq3z5xaxedhfpatsajmt5ylak5v7hu2k474@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rxnbkt4774cgq52635xwsvm3",
+                        "uri": "at://did:plc:rxnbkt4774cgq52635xwsvm3/app.bsky.actor.profile/self",
+                        "cid": "bafyreidna33kundfpf45kscqfedxztjholwrunr55dp54tzizxb2l4zzda",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-20T00:25:28.594Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-24T00:05:44.305Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibdkxxly6ovsb4hxybxrvlzjtpiw6sqz6ojixnpz2sbeqruxssnyy",
+                        "uri": "at://did:plc:qjjqopofnzvrdngtrhl7noth/app.bsky.feed.post/3kjom7jgnvc2h"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temos algo em comum?\n\naniversário: 27/09\nestado: Do PA, no PI\nsigno: Libra \ncor fav: Roxo/vermelho\nanimal fav: Doguinho and gatíneo\ncomida fav: [difíciO decisão by TVS]\nanime fav: No tengo\nestação fav: Inverno amazônico\nEsporte fav: Futebol/vôlei (telespec)\nBebida quente: Café\nBebida gelada: Suco 🫶"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:qjjqopofnzvrdngtrhl7noth/app.bsky.feed.post/3kjom7jgnvc2h",
+                    "cid": "bafyreibdkxxly6ovsb4hxybxrvlzjtpiw6sqz6ojixnpz2sbeqruxssnyy",
+                    "author": {
+                        "did": "did:plc:qjjqopofnzvrdngtrhl7noth",
+                        "handle": "ramonlopes.bsky.social",
+                        "displayName": " ramonzin 🧬",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qjjqopofnzvrdngtrhl7noth/bafkreievbvfgymsshsx4zcdt6635syy3uippvljriakojrlktstf6r2e3u@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [
+                            {
+                                "src": "did:plc:qjjqopofnzvrdngtrhl7noth",
+                                "uri": "at://did:plc:qjjqopofnzvrdngtrhl7noth/app.bsky.actor.profile/self",
+                                "cid": "bafyreibatknpwcp3ibswtzslizur5djsflzmc6plbtrbp6ooob3mhxdg5y",
+                                "val": "!no-unauthenticated",
+                                "cts": "1970-01-01T00:00:00.000Z"
+                            }
+                        ],
+                        "createdAt": "2023-08-19T13:53:21.241Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-01-23T22:34:00.626Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.record",
+                            "record": {
+                                "cid": "bafyreigqhpts557k2nrdvluabrrd7l4qrng3h6ddszswb7taoecjccirsy",
+                                "uri": "at://did:plc:2ivfzlho7f7e4fuv3jubu67f/app.bsky.feed.post/3kjoly4katg2q"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Temos algo em comum?\n\naniversário: 12/03\nestado: MG\nsigno: Peixes\ncor fav: Verde\nanimal fav: Cachorro\ncomida fav: Japonês \nanime fav: não vejo 😭\nestação fav: Inferno \nEsporte fav: vôlei \nBebida quente: Café\nBebida gelada: suco maracujá com hortelã"
+                    },
+                    "labels": [],
+                    "likeCount": 14,
+                    "replyCount": 1,
+                    "repostCount": 0,
+                    "quoteCount": 4,
+                    "indexedAt": "2024-01-23T22:34:00.626Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.record#view",
+                            "record": {
+                                "$type": "app.bsky.embed.record#viewRecord",
+                                "uri": "at://did:plc:2ivfzlho7f7e4fuv3jubu67f/app.bsky.feed.post/3kjoly4katg2q",
+                                "cid": "bafyreigqhpts557k2nrdvluabrrd7l4qrng3h6ddszswb7taoecjccirsy",
+                                "author": {
+                                    "did": "did:plc:2ivfzlho7f7e4fuv3jubu67f",
+                                    "handle": "jacksantos.bsky.social",
+                                    "displayName": "Jackson",
+                                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ivfzlho7f7e4fuv3jubu67f/bafkreig5xlrkvdqdtqo44quwr7ad6vchourw7zuvy563orsshmb5g3b4la@jpeg",
+                                    "associated": {
+                                        "chat": {
+                                            "allowIncoming": "following"
+                                        }
+                                    },
+                                    "labels": [
+                                        {
+                                            "src": "did:plc:2ivfzlho7f7e4fuv3jubu67f",
+                                            "uri": "at://did:plc:2ivfzlho7f7e4fuv3jubu67f/app.bsky.actor.profile/self",
+                                            "cid": "bafyreickrswk5gtcgzdln7d4z6rg77kihhvsamxfblfidkkdoail2vedxq",
+                                            "val": "!no-unauthenticated",
+                                            "cts": "1970-01-01T00:00:00.000Z"
+                                        }
+                                    ],
+                                    "createdAt": "2023-06-11T14:47:04.671Z"
+                                },
+                                "value": {
+                                    "$type": "app.bsky.feed.post",
+                                    "createdAt": "2024-01-23T22:29:50.459Z",
+                                    "embed": {
+                                        "$type": "app.bsky.embed.record",
+                                        "record": {
+                                            "cid": "bafyreia6i2iml3pw2gxwgsw7zoa3av7ahe3gchwzqskv7rxtybwakfb3i4",
+                                            "uri": "at://did:plc:y7ped4bl22m5xz6bvtmrtjfj/app.bsky.feed.post/3kjolibkcmt27"
+                                        }
+                                    },
+                                    "langs": [
+                                        "pt"
+                                    ],
+                                    "text": "Temos algo em comum?\n\naniversário: 21/12\nestado: PA\nsigno: Sagitário\ncor fav: Preto e vinho\nanimal fav: Cachorro\ncomida fav: Macarronada e lasanha\nanime fav: Dragon Ball\nestação fav: Verão (inverno amazônico)\nEsporte fav: Automobilismo (fórmula 1)\nBebida quente: Café\nBebida gelada: Suco de acerola"
+                                },
+                                "labels": [],
+                                "likeCount": 11,
+                                "replyCount": 3,
+                                "repostCount": 0,
+                                "quoteCount": 4,
+                                "indexedAt": "2024-01-23T22:29:50.459Z"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 1,
+            "indexedAt": "2024-01-24T00:05:44.305Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2ivfzlho7f7e4fuv3jubu67f/app.bsky.feed.post/3kjoly4katg2q",
+            "cid": "bafyreigqhpts557k2nrdvluabrrd7l4qrng3h6ddszswb7taoecjccirsy",
+            "author": {
+                "did": "did:plc:2ivfzlho7f7e4fuv3jubu67f",
+                "handle": "jacksantos.bsky.social",
+                "displayName": "Jackson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ivfzlho7f7e4fuv3jubu67f/bafkreig5xlrkvdqdtqo44quwr7ad6vchourw7zuvy563orsshmb5g3b4la@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2ivfzlho7f7e4fuv3jubu67f",
+                        "uri": "at://did:plc:2ivfzlho7f7e4fuv3jubu67f/app.bsky.actor.profile/self",
+                        "cid": "bafyreickrswk5gtcgzdln7d4z6rg77kihhvsamxfblfidkkdoail2vedxq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-11T14:47:04.671Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-23T22:29:50.459Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreia6i2iml3pw2gxwgsw7zoa3av7ahe3gchwzqskv7rxtybwakfb3i4",
+                        "uri": "at://did:plc:y7ped4bl22m5xz6bvtmrtjfj/app.bsky.feed.post/3kjolibkcmt27"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temos algo em comum?\n\naniversário: 21/12\nestado: PA\nsigno: Sagitário\ncor fav: Preto e vinho\nanimal fav: Cachorro\ncomida fav: Macarronada e lasanha\nanime fav: Dragon Ball\nestação fav: Verão (inverno amazônico)\nEsporte fav: Automobilismo (fórmula 1)\nBebida quente: Café\nBebida gelada: Suco de acerola"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewNotFound",
+                    "uri": "at://did:plc:y7ped4bl22m5xz6bvtmrtjfj/app.bsky.feed.post/3kjolibkcmt27",
+                    "notFound": true
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 4,
+            "indexedAt": "2024-01-23T22:29:50.459Z",
+            "labels": []
+        }
+    ]
+}

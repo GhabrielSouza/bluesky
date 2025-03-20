@@ -1,0 +1,1312 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:prwbcbblv7j3fo7rlv6toznc/app.bsky.feed.post/3l7hb5qp5py2q",
+            "cid": "bafyreig3oojdmcgkgwgxs4voncpo2ut3rlj7dzqmnxerez7z5nxcjixzmu",
+            "author": {
+                "did": "did:plc:prwbcbblv7j3fo7rlv6toznc",
+                "handle": "somosjacare.bsky.social",
+                "displayName": "Somos Jacare",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:prwbcbblv7j3fo7rlv6toznc/bafkreiatcpk444cxzkqmhqt2vbwuf3xhd4c7qwphivobx3iqngkz44slk4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:39:40.598Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-26T23:41:47.292Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibl6nxu3lvavh36noutlp5qu5g3gxsv23cgoteqoruf457nerphoy",
+                        "uri": "at://did:plc:rpfxdsewrhq2owcbrw3mjg6x/app.bsky.feed.post/3l7edwhtvb42x"
+                    },
+                    "root": {
+                        "cid": "bafyreibl6nxu3lvavh36noutlp5qu5g3gxsv23cgoteqoruf457nerphoy",
+                        "uri": "at://did:plc:rpfxdsewrhq2owcbrw3mjg6x/app.bsky.feed.post/3l7edwhtvb42x"
+                    }
+                },
+                "text": "Toma!! Agora começará a brincadeira. As gaias vão crescer na cabeça do animal silvestre do cerrado."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-26T23:41:47.292Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xwfiige2zheuuxtkqruhxrm2/app.bsky.feed.post/3l6aarqx4a32i",
+            "cid": "bafyreievqk2mltdmmoytagkoi4atrtsbosrpcdykgjys33iilnwyvstte4",
+            "author": {
+                "did": "did:plc:xwfiige2zheuuxtkqruhxrm2",
+                "handle": "gabineto.bsky.social",
+                "displayName": "Silva Sousa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xwfiige2zheuuxtkqruhxrm2/bafkreihjyv36qu6xno2nqy2cgwf6vrfqsabc23gjlrvv7vmmskt3de4q2q@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-07T21:16:01.529Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T11:21:09.086Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifeh3k5xvmprff4qzi4pc2ba7izrja3jom5ix257czgwbsd3tqy64"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 485698
+                        },
+                        "title": "O Lobo-guará - Um animal típico do Cerrado",
+                        "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 315,
+                            "byteStart": 275
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Lobo-guará - Um animal típico do Cerrado - O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo.\nÉ a única espécie do gênero Chrysocyon e provavelmente, a espécie...ver mais\nfuxiqueiro2.blogspot.com/2023/05/o-lo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html",
+                    "title": "O Lobo-guará - Um animal típico do Cerrado",
+                    "description": "O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xwfiige2zheuuxtkqruhxrm2/bafkreifeh3k5xvmprff4qzi4pc2ba7izrja3jom5ix257czgwbsd3tqy64@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T11:21:09.086Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:44lckopibosjqnxlgomljo5i/app.bsky.feed.post/3l67vev5wki24",
+            "cid": "bafyreieuokobmbwxas5wc4mtnlykej7dcalcyiit5qicdluvanlnqz6dnq",
+            "author": {
+                "did": "did:plc:44lckopibosjqnxlgomljo5i",
+                "handle": "fcosilvasousa.bsky.social",
+                "displayName": "Francisco Silva Sousa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:44lckopibosjqnxlgomljo5i/bafkreibq3ppvk4bbickf743c4jegs3yz6s64tyb4jhuynd5hm4pp3fumue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T11:55:11.903Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T07:57:06.197Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifeh3k5xvmprff4qzi4pc2ba7izrja3jom5ix257czgwbsd3tqy64"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 485698
+                        },
+                        "title": "O Lobo-guará - Um animal típico do Cerrado",
+                        "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 315,
+                            "byteStart": 275
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Lobo-guará - Um animal típico do Cerrado - O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo.\nÉ a única espécie do gênero Chrysocyon e provavelmente, a espécie...ver mais\nfuxiqueiro2.blogspot.com/2023/05/o-lo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://fuxiqueiro2.blogspot.com/2023/05/o-lobo-guara.html",
+                    "title": "O Lobo-guará - Um animal típico do Cerrado",
+                    "description": "O lobo-guará é uma espécie de canídeo endêmico da América do Sul. Suas marcas lembram as de uma raposa, mas não é uma raposa nem um lobo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:44lckopibosjqnxlgomljo5i/bafkreifeh3k5xvmprff4qzi4pc2ba7izrja3jom5ix257czgwbsd3tqy64@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T07:57:06.197Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a73tttce4vajw22tkvebfanq/app.bsky.feed.post/3l5zaub7iq523",
+            "cid": "bafyreicc2qeigwsliyeawzvkljlkk6vzegkjoel2csb6p34oolk5mxbube",
+            "author": {
+                "did": "did:plc:a73tttce4vajw22tkvebfanq",
+                "handle": "mcinza03.bsky.social",
+                "displayName": "Love",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a73tttce4vajw22tkvebfanq/bafkreifpam2wlu4lrouzn56emumfyowog2l4vbz5qc3nzllhgo2tz37n44@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:09:57.762Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T16:34:01.194Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieipvdddgqwy4tt72ygneitfxfsglv7xqjkkhf3xe62r7adgsxqoq",
+                        "uri": "at://did:plc:olhzzv5ix6diplu7oqnw2m4f/app.bsky.feed.post/3l5z74iqcqj2e"
+                    },
+                    "root": {
+                        "cid": "bafyreia4ofcakbvpobw5pay5eheqi3sq3dttqfkmccadp7btllr4cbtcfm",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l5z4um7gkg24"
+                    }
+                },
+                "text": "O preço do arroz aumentou por conta das chuvas no RS e a seca no leste asiático seu animal, tenta plantar arroz no cerrado ou na costa brasileira pra vê se nasce seu tapado"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T16:34:01.194Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l5p7l42i5a2v",
+            "cid": "bafyreiatqpdo4y37vupwcm55ffrsbxkoqwoprigpqkhktmenhidd2ox5am",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T16:44:49.916Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Famosa por permitir aos turistas um \"encontro\" com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaqnudmy72j5ryx4salwsjlujm4gpj6jwwhyslgld325brmnw36dm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 732425
+                        },
+                        "title": "‘Casa’ dos lobos-guarás, serra do Caraça (MG) segue queimando após 19 dias de combate - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 250,
+                            "byteStart": 219
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Famosa por permitir aos turistas um “encontro” com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às chamas. \nolharanimal.org/casa-dos-lob..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/",
+                    "title": "‘Casa’ dos lobos-guarás, serra do Caraça (MG) segue queimando após 19 dias de combate - ONG Olhar Animal",
+                    "description": "Famosa por permitir aos turistas um \"encontro\" com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreiaqnudmy72j5ryx4salwsjlujm4gpj6jwwhyslgld325brmnw36dm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T16:44:24.911Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6fzo2462h",
+            "cid": "bafyreifknypomajt33r33lkepmztp5o2fckisdzprufqgq755feulrevpm",
+            "author": {
+                "did": "did:plc:nvpuoxauer4fkrtwpoj22azp",
+                "handle": "lucianagenro.bsky.social",
+                "displayName": "Luciana Genro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvpuoxauer4fkrtwpoj22azp/bafkreicvwnbx6x4bcu6coefsx43vkesigoabmxvn7c2fhk7oi5qod5zzxa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:19:32.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T18:37:09.313Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:n76735vzb2jrbmcwtywzf6xn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicpox5hmpmbapqwgdai6x5nit3f66hgc5bnjygpgabueljpvlk75i",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6dxfnxo2j"
+                    },
+                    "root": {
+                        "cid": "bafyreibotam64kocm7ywyw5hnixuntmnekn6jduuk3nul7bb745npfu6qu",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6digy6o2h"
+                    }
+                },
+                "text": "Precisamos mudar o sistema econômico predatório em que vivemos, para garantir um futuro para o planeta e para todas as espécies. Parabéns às equipes do Ibama, do Grupo de Resgate Técnico Animal Cerrado Pantanal e do do Centro de Reabilitação de Animais Silvestres! Via @cnnbrasil.com.br.web.brid.gy."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T18:37:09.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iu7vahvhpwc3slcpy7vsesi2/app.bsky.feed.post/3l44pcnwd3t2o",
+            "cid": "bafyreifb4nnw2ap2t52rtuxytekhb2xvg5at6xii2alxqppir32q67wv54",
+            "author": {
+                "did": "did:plc:iu7vahvhpwc3slcpy7vsesi2",
+                "handle": "claptonmoura.bsky.social",
+                "displayName": "Clapton Moura",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iu7vahvhpwc3slcpy7vsesi2/bafkreicjeayn6melymopkda4fpqs7wnfq2z3cmhcc4xieeeif7tfi3d4d4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-06-16T21:40:14.612Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T14:40:12.534Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 540,
+                        "width": 960
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreid72bxopflvu25l4rzglbuou7njnmkjfusq6e4kni6bdzbr5vdkky"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2422214
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 150,
+                            "byteStart": 142
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PreserveOCerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 151
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Conservation"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 182,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brazil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 190,
+                            "byteStart": 183
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SouthAmerica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 191
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Nature"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 205
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Science"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 213
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Biology"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 230,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Birds"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 237,
+                            "byteStart": 231
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BirdWatching"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 251,
+                            "byteStart": 238
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Sky"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 252
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cloud"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 257
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Biodiversity"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 264
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 278
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazon"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 293,
+                            "byteStart": 286
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O tucanuçu ou tucano-toco (Ramphastos toco) é uma ave endêmica da América do Sul e o maior representente de sua família (Ramphastidae).\n\n#Cerrado #PreserveOCerrado #Conservation #Brazil #SouthAmerica #Nature #Science #Biology #Birds #BirdWatching #Sky #Cloud #Biodiversity #Animal #Amazon 🪶"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreid72bxopflvu25l4rzglbuou7njnmkjfusq6e4kni6bdzbr5vdkky",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aiu7vahvhpwc3slcpy7vsesi2/bafkreid72bxopflvu25l4rzglbuou7njnmkjfusq6e4kni6bdzbr5vdkky/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aiu7vahvhpwc3slcpy7vsesi2/bafkreid72bxopflvu25l4rzglbuou7njnmkjfusq6e4kni6bdzbr5vdkky/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 540,
+                    "width": 960
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T14:40:12.534Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jy34iyvharhmn37gmhjistn3/app.bsky.feed.post/3l3o3tgoqav26",
+            "cid": "bafyreibdipg6qksyfxj5f4f5fxforrfx5nsz63w7cpkgh6tbni5lyud6h4",
+            "author": {
+                "did": "did:plc:jy34iyvharhmn37gmhjistn3",
+                "handle": "arcanoedu.bsky.social",
+                "displayName": "Edu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jy34iyvharhmn37gmhjistn3/bafkreiaqs7vpzeqynxg7frzomc466vckio7g3cfrg5zy7nh7pw6clvjrpm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:01:06.920Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T19:14:23.882Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Palavras de um biólogo no linkdin: \"Com quase 3 meses sem resgatar nenhum bicho, Justo dia 03/09, dia do biólogo, recebi esse presente do cerrado!\"\n\nPRESENTE??? Meu filho vc teve que RESGATAR um animal num bioma AMEAÇADO por fogo. ISSO É PRESENTE ONDE?\n\n\"Biólogo\" com síndrome de Richard Rasmussen"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T19:14:23.882Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hs4622peunnbrogwlqqos6bz/app.bsky.feed.post/3l3bzne7dkx2p",
+            "cid": "bafyreibmondm7ike7rgvjosbiqfrsotl372xgypmnbppiupgzwb6sndxwa",
+            "author": {
+                "did": "did:plc:hs4622peunnbrogwlqqos6bz",
+                "handle": "10uilton.bsky.social",
+                "displayName": "Uilton ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreihc6tlolpeeftzhhj6kbk6fuqs5ivuk4ckwjheqstbzzdafhpnoj4@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T14:43:39.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T00:03:16.091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 659,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 37104
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Papagaio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 16
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Psittacidae"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 26
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 39
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Natureza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 65,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazonas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 75,
+                            "byteStart": 66
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 85,
+                            "byteStart": 76
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 94,
+                            "byteStart": 86
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Arte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 100,
+                            "byteStart": 95
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArteManual"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 112,
+                            "byteStart": 101
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UiltonArtes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 125,
+                            "byteStart": 113
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Uilton"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 126
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UiltonSantos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 134
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "10uilton"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 148
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🎨 Papagaio \n\n#Papagaio #Psittacidae #Animal #Animais #Natureza #Amazonas #Pantanal #Cerrado #Arte #ArteManual #UiltonArtes #Uilton #UiltonSantos #10uilton"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 659,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T00:03:16.091Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iu7vahvhpwc3slcpy7vsesi2/app.bsky.feed.post/3l33xwcl23l26",
+            "cid": "bafyreieofjlikro3bbawm3cgfs5rwgifmg3cpcj2ektxafs7dytsd2jvri",
+            "author": {
+                "did": "did:plc:iu7vahvhpwc3slcpy7vsesi2",
+                "handle": "claptonmoura.bsky.social",
+                "displayName": "Clapton Moura",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iu7vahvhpwc3slcpy7vsesi2/bafkreicjeayn6melymopkda4fpqs7wnfq2z3cmhcc4xieeeif7tfi3d4d4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-06-16T21:40:14.612Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T14:16:26.401Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1323,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicjobint7lsfy26p7lthg265yqebgl6rpuu6qmvahm77yf76pwo4y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 322495
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Nature"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 31
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Natureza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 48,
+                            "byteStart": 39
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Birdwatching"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 62,
+                            "byteStart": 49
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brazil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 63
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 78,
+                            "byteStart": 71
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Science"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 87,
+                            "byteStart": 79
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 95,
+                            "byteStart": 88
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Ave"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 100,
+                            "byteStart": 96
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Conservation"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 114,
+                            "byteStart": 101
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Sky"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 119,
+                            "byteStart": 115
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Neotropical"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 132,
+                            "byteStart": 120
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Biodiversity"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 146,
+                            "byteStart": 133
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Bird"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 152,
+                            "byteStart": 147
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 153
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Savana"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 162
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Vulture"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 178,
+                            "byteStart": 170
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Urubu-rei (Sarcoramphus papa)\n\n#Nature #Natureza #Birdwatching\n#Brazil #Brasil #Science #Animal #Ave #Conservation #Sky #Neotropical #Biodiversity #Bird #Cerrado #Savana #Vulture"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iu7vahvhpwc3slcpy7vsesi2/bafkreicjobint7lsfy26p7lthg265yqebgl6rpuu6qmvahm77yf76pwo4y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:iu7vahvhpwc3slcpy7vsesi2/bafkreicjobint7lsfy26p7lthg265yqebgl6rpuu6qmvahm77yf76pwo4y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1323,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T14:16:26.401Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:euur44mkfugw2j6rblwano4g/app.bsky.feed.post/3l2sosh3su22j",
+            "cid": "bafyreihgy2loihqart3biuggzqdqhqasiauj6bkolscjcesext7znwnedq",
+            "author": {
+                "did": "did:plc:euur44mkfugw2j6rblwano4g",
+                "handle": "seuassis.bsky.social",
+                "displayName": "Where The Heck Is Assis",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:euur44mkfugw2j6rblwano4g/bafkreifshb7qsiplyvd6j2eulptbutj2awahoztd2iul4wprbtlmp2bzye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:euur44mkfugw2j6rblwano4g",
+                        "uri": "at://did:plc:euur44mkfugw2j6rblwano4g/app.bsky.actor.profile/self",
+                        "cid": "bafyreifd6dle7lxvqgufvucifmxf44i2q6mb73kigarl2ztryrazmclkcq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-20T23:05:48.977Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-28T21:39:18.839Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifnni7l3idtza2nnis35ozxy3etdqdahxmzvf4osenkz4asqxx6li",
+                        "uri": "at://did:plc:bzuegt7gz76e35hwqkuxp44r/app.bsky.feed.post/3l2sokg43nu2y"
+                    },
+                    "root": {
+                        "cid": "bafyreih3z47hrq5i2mpzy5yysjo73iqci4wavmzmjvlrztg7m5njmbhxim",
+                        "uri": "at://did:plc:bzuegt7gz76e35hwqkuxp44r/app.bsky.feed.post/3l2rz6b567t2j"
+                    }
+                },
+                "text": "Eu sou do interior de Minas, mas moro em Brasília. Animal do cerrado."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-28T21:39:18.839Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kvrpdqexgs2l",
+            "cid": "bafyreib5vrphfz7elbod2prrmjpfe7niiqq6qeaipo34ttc4brlf5tzw6i",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-25T21:10:20.098820Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aracnídeo vive às margens de rios e riachos e apresenta características diferentes de outros do gênero esquizômido. Primeiro espécime foi encontrado, em Floriano, na beira de um riacho que deixou de existir devido ao desmatamento.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig33tioxwnrv7zmztwl5pnnadx7mxhjkj4acorvfb5lhb7weyw26i"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 137225
+                        },
+                        "title": "Vídeo: pesquisadores descobrem espécie de aracnídeo do Cerrado no PI; animal está ameaçado de extinção",
+                        "uri": "https://g1.globo.com/pi/piaui/noticia/2024/06/25/video-pesquisadores-descobrem-especie-de-aracnideo-do-cerrado-no-pi-animal-esta-ameacado-de-extincao.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vídeo: pesquisadores descobrem espécie de aracnídeo do Cerrado no PI; animal está ameaçado de extinção"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pi/piaui/noticia/2024/06/25/video-pesquisadores-descobrem-especie-de-aracnideo-do-cerrado-no-pi-animal-esta-ameacado-de-extincao.ghtml",
+                    "title": "Vídeo: pesquisadores descobrem espécie de aracnídeo do Cerrado no PI; animal está ameaçado de extinção",
+                    "description": "Aracnídeo vive às margens de rios e riachos e apresenta características diferentes de outros do gênero esquizômido. Primeiro espécime foi encontrado, em Floriano, na beira de um riacho que deixou de existir devido ao desmatamento.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreig33tioxwnrv7zmztwl5pnnadx7mxhjkj4acorvfb5lhb7weyw26i@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-25T21:10:20.098Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3kqnvqmhbtu2o",
+            "cid": "bafyreiap34wadse2hlhemawleenkpgyg5ugjemnnjkos3psdlfwazequ7m",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T17:48:19.411Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Definição ocorreu durante a primeira reunião dos novos membros",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibmwgkaqnltuxizvpu7cofvowsoiv2zvteqxusobbflhvvgtgwsqa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 345218
+                        },
+                        "title": "Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027 | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 180,
+                            "byteStart": 164
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 181
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 195
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027\nDefinição ocorreu durante a primeira reunião dos novos membros\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/politica-e-p..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007",
+                    "title": "Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027 | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Definição ocorreu durante a primeira reunião dos novos membros",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreibmwgkaqnltuxizvpu7cofvowsoiv2zvteqxusobbflhvvgtgwsqa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T17:48:19.411Z",
+            "labels": []
+        }
+    ]
+}

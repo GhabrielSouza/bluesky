@@ -1,0 +1,158 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:7mm24ewiyslbugnqewaljxvx/app.bsky.feed.post/3l357646sla2c",
+            "cid": "bafyreiepfvgtxizn6vsajprsoj65vutkxaw5nbhr3myzopylj5ixp3r364",
+            "author": {
+                "did": "did:plc:7mm24ewiyslbugnqewaljxvx",
+                "handle": "portaldecamaqua.bsky.social",
+                "displayName": "Site Portal de Camaquã",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreihhdyr4jl27ewzprl4gbh5bv6n5xasxqzj73semqyrpgc3qxsavqi@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-01T03:13:35.798Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T01:58:47.579Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 500,
+                                "width": 797
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 515395
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.portaldecamaqua.com.br/noticias/84555/rodovias-da-ecosul-ao-longo-das-br-392-e-br-116-sao-cruciais-na-preservacao-do-bioma-pampa.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 198
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rodovias da Ecosul, ao longo das BR-392 e BR-116, são cruciais na preservação do Bioma Pampa \n\nEm 2023, as câmeras capturaram 1.265 registros de fauna, de pelo menos 26 espécies diferentes \n\n( www.portaldecamaqua.com.br/noticias/845... )"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 500,
+                            "width": 797
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-02T01:58:47.579Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:odau56uhdzwruxkq7zj2h63v/app.bsky.feed.post/3kwwra5sckx2f",
+            "cid": "bafyreictqjoqrvfslojp3mujreqfldon4akeyhdskpr3mps6tmumta2kl4",
+            "author": {
+                "did": "did:plc:odau56uhdzwruxkq7zj2h63v",
+                "handle": "jmiltonrosa1.bsky.social",
+                "displayName": "Milton Figueiredo Rosa ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:odau56uhdzwruxkq7zj2h63v/bafkreie3jkbl6z4rdiaoizkkesbqlmwe3ea2abfl3jf44f4bvfqtqmafri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:odau56uhdzwruxkq7zj2h63v",
+                        "uri": "at://did:plc:odau56uhdzwruxkq7zj2h63v/app.bsky.actor.profile/self",
+                        "cid": "bafyreihi5rlisr6efrto3nux4h25dtkq3cuheh3xw6v72nihxsiyehyifq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T12:23:22.074Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T12:23:20.819Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-10T14:52:39.378Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Na Assembléia do RS a base do Dudu Milk: recusou emenda para estudos, projetos e manutenção de macrodrenagem na Região Metropolitana; recusou a preservação do bioma Pampa e Mata Atlântica; recusou fortalecimento dos Bombeiros e Defesa Civil. Depois de tudo que o Estado passou!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 1,
+            "indexedAt": "2024-07-10T14:52:39.378Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn467kwq2o",
+            "cid": "bafyreihpbq6rmcttwpik3cfe7bylcujx4fa7mijk6iorepxxklq52s3jte",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:49:33.883Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieke4z5leudp5lmwbs3uallm23kfrqxalwrrmvbrkyoepecqvb5vq",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn3vpvmz2l"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "mecanismo para saber e regular a Reserva Legal e as APP nas propriedades, com impactos significativos na preservação dos rios e dos biomas da Mata Atlântica e do Pampa."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:49:33.883Z",
+            "labels": []
+        }
+    ]
+}

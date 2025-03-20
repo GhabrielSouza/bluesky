@@ -1,0 +1,206 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:yt47riglxzlmuocc52liuoak/app.bsky.feed.post/3l66z2wbtks2p",
+            "cid": "bafyreia2ckzgpp4urnnrfa3gtq2rndlrfraw6fyjmy5oajw2b3jumc3snm",
+            "author": {
+                "did": "did:plc:yt47riglxzlmuocc52liuoak",
+                "handle": "ytsilva.bsky.social",
+                "displayName": "Yt Silva",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yt47riglxzlmuocc52liuoak/bafkreicjcr3hmvwlypyyuqyzhfwb53la4t7ez6ptlukfsnwcc7ptzujvpu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T00:58:29.923Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T23:30:34.446Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifzdn7ojildt6vypansd4lqy6pcyfg6effasteenorvmpetzqrf3m",
+                        "uri": "at://did:plc:dsva7vpwdiacliuc5jrqicge/app.bsky.feed.post/3l63xezk6uo2w"
+                    },
+                    "root": {
+                        "cid": "bafyreifzdn7ojildt6vypansd4lqy6pcyfg6effasteenorvmpetzqrf3m",
+                        "uri": "at://did:plc:dsva7vpwdiacliuc5jrqicge/app.bsky.feed.post/3l63xezk6uo2w"
+                    }
+                },
+                "text": "Ela deu foi muuuita sorte de não estar num rio amazônico cheio de candirú. Senão a direção do reality teria que interromper a gravação e levar a maluca para uma emergência. Eles entram fundo na uretra e retirar essa fauna de lá, com as escamas e barbatanas ao contrário, é uma carnificina dolorosa."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T23:30:33.711Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ttb4o7yqwbzns437jt6zrf25/app.bsky.feed.post/3l2y7ccnevx2i",
+            "cid": "bafyreibe4xjkcafirfqtsm5ph5jzo7c4h34y56pqskutidnsrze7tctaom",
+            "author": {
+                "did": "did:plc:ttb4o7yqwbzns437jt6zrf25",
+                "handle": "karush.bsky.social",
+                "displayName": "K A R U S H ℹ️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreibjbuyjhzwve5we5z7oqyin76vbgq2l7znh5lk2hmw2244n6toajm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:50:52.253Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-31T02:17:50.437Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 424,
+                                "width": 636
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieva432rxzwumw22px3y32ohulbsplnif3aahdymj7qn6ni434gle"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 145016
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 421,
+                                "width": 636
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiczqmsywggafdsyc7imwuio6qoxr2ibozm2yzfbm35wm5zwaj2guq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 176328
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 853,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicrj4przb4ejbdtnyf2cmkwf62izwbs5jphsiqcuvjdrirjqyw4s4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 684762
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 853,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigd7sao3hfiarvhkw664gs7qa2xeyxea6wjtbf3ae727xu44jsi4i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 680404
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ALTERDOCHÃO"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 13,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigfbe7e4qqfgii3botn7mgqmxq2cggbgvb72w4mnajye3qcuhdh7i",
+                        "uri": "at://did:plc:ttb4o7yqwbzns437jt6zrf25/app.bsky.feed.post/3l2y75nkey72d"
+                    },
+                    "root": {
+                        "cid": "bafyreicmcl2oibgxxzmgqr23wb3iouw5bsth2knzzx334hzbd2aqlfl2vu",
+                        "uri": "at://did:plc:ttb4o7yqwbzns437jt6zrf25/app.bsky.feed.post/3l2y6q5hzee2w"
+                    }
+                },
+                "text": "#ALTERDOCHÃO - O CARIBE AMAZÔNICO\n\nLocalizado na margem do Rio Tapajós, Alter é um distrito de Santarém, cercado por belezas naturais, com fauna e flora envolvidas nas atividades turísticas.\nA ilha do amor e a Ponta do Cururu são pontos estratégicos para desfrutar da natureza"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreieva432rxzwumw22px3y32ohulbsplnif3aahdymj7qn6ni434gle@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreieva432rxzwumw22px3y32ohulbsplnif3aahdymj7qn6ni434gle@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 424,
+                            "width": 636
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreiczqmsywggafdsyc7imwuio6qoxr2ibozm2yzfbm35wm5zwaj2guq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreiczqmsywggafdsyc7imwuio6qoxr2ibozm2yzfbm35wm5zwaj2guq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 421,
+                            "width": 636
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreicrj4przb4ejbdtnyf2cmkwf62izwbs5jphsiqcuvjdrirjqyw4s4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreicrj4przb4ejbdtnyf2cmkwf62izwbs5jphsiqcuvjdrirjqyw4s4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 853,
+                            "width": 1280
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreigd7sao3hfiarvhkw664gs7qa2xeyxea6wjtbf3ae727xu44jsi4i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ttb4o7yqwbzns437jt6zrf25/bafkreigd7sao3hfiarvhkw664gs7qa2xeyxea6wjtbf3ae727xu44jsi4i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 853,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-31T02:17:50.437Z",
+            "labels": []
+        }
+    ]
+}

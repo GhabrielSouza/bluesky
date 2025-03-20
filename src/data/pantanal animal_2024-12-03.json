@@ -1,0 +1,2460 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3lazj3x25ms2u",
+            "cid": "bafyreihoisxcwihalssbt36emxmzuwgulomekvdpmndhyjk5fomm3smjwq",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-15T23:17:04.103Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Monitoramento de tatus-canastra é fundamental para pesquisa sobre a espécie ameaçada",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidamjtvvryr2w6legycbgjvyvlqebmilu6evbh3tplz6kqg4xobq4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 501521
+                        },
+                        "title": "Projeto Tatu-canastra captura 44º animal no Pantanal da Nhecolândia | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/projeto-tatu-canastra-captura-44-animal-no-pantanal-da-nhecolandia/412720"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 182,
+                            "byteStart": 166
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 195,
+                            "byteStart": 183
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/projeto-tatu-canastra-captura-44-animal-no-pantanal-da-nhecolandia/412720"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 197
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Projeto Tatu-canastra captura 44º animal no Pantanal da Nhecolândia\nMonitoramento de tatus-canastra é fundamental para pesquisa sobre a espécie ameaçada\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/projeto-tatu-canastra-captura-44-animal-no-pantanal-da-nhecolandia/412720",
+                    "title": "Projeto Tatu-canastra captura 44º animal no Pantanal da Nhecolândia | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Monitoramento de tatus-canastra é fundamental para pesquisa sobre a espécie ameaçada",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreidamjtvvryr2w6legycbgjvyvlqebmilu6evbh3tplz6kqg4xobq4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-15T23:22:43.995Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tgfbbsl4ee5h3n3ucp76dtpq/app.bsky.feed.post/3l75esy7mcc2x",
+            "cid": "bafyreiafuuinak5gdi6wr4bonw2fyuliutn4d7orbarql5v3zzw4ompgdy",
+            "author": {
+                "did": "did:plc:tgfbbsl4ee5h3n3ucp76dtpq",
+                "handle": "portal-r7.bsky.social",
+                "displayName": "Portal R7 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tgfbbsl4ee5h3n3ucp76dtpq/bafkreibcyifz7gcw5toql5kdkliu2bckbsdh7d57h33fokazjx36xb3iju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T20:24:47.407Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-23T01:20:43.649Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A espécie é considerada 'engenheira do ecossistema', segundo Instituto de Conservação de Animais Silvestres",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifkwvog62wmmf6vqr4y2mcfa55obfwgcdhggvcm3g2lsiezahjuva"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 796890
+                        },
+                        "title": "Maior tatu-canastra macho do Pantanal é capturado; animal pesa 36 quilos",
+                        "uri": "https://noticias.r7.com/record-news/news-das-19h/video/maior-tatu-canastra-macho-do-pantanal-e-capturado-animal-pesa-36-quilos-22102024/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PortalR7"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 84,
+                            "byteStart": 75
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "R7"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 88,
+                            "byteStart": 85
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Maior tatu-canastra macho do Pantanal é capturado; animal pesa 36 quilos\n\n#PortalR7 #R7"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://noticias.r7.com/record-news/news-das-19h/video/maior-tatu-canastra-macho-do-pantanal-e-capturado-animal-pesa-36-quilos-22102024/",
+                    "title": "Maior tatu-canastra macho do Pantanal é capturado; animal pesa 36 quilos",
+                    "description": "A espécie é considerada 'engenheira do ecossistema', segundo Instituto de Conservação de Animais Silvestres",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tgfbbsl4ee5h3n3ucp76dtpq/bafkreifkwvog62wmmf6vqr4y2mcfa55obfwgcdhggvcm3g2lsiezahjuva@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-23T01:20:43.649Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l6dw3m6ews24",
+            "cid": "bafyreiaug6qv2gl4fcvtsbnqbzwrvbkv3ec7hg3ere6z2u5kvlzx4kxbva",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T22:20:31.711996Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O vídeo abaixo mostra os filhotes de anta e de onça-pintada sendo cuidados e explorando o mundo, ao lado das mães. Os registros foram feitos pelo Instituto Homem Pantaneiro (IHP) e pelo biólogo Lucas Morgado.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie3myaqpyvecpszewxsxluk6grixzm6tqsizvibcpy67tzh5ty7oq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 64113
+                        },
+                        "title": "Dia das Crianças no mundo animal: filhotes de anta e onça-pintada são vistos sendo cuidados pelas mães no Pantanal de MS",
+                        "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/10/12/dia-das-criancas-no-mundo-animal-filhotes-de-anta-e-onca-pintada-sao-vistos-sendo-cuidados-pelas-maes-no-pantanal-de-ms.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia das Crianças no mundo animal: filhotes de anta e onça-pintada são vistos sendo cuidados pelas mães no Pantanal de MS"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/10/12/dia-das-criancas-no-mundo-animal-filhotes-de-anta-e-onca-pintada-sao-vistos-sendo-cuidados-pelas-maes-no-pantanal-de-ms.ghtml",
+                    "title": "Dia das Crianças no mundo animal: filhotes de anta e onça-pintada são vistos sendo cuidados pelas mães no Pantanal de MS",
+                    "description": "O vídeo abaixo mostra os filhotes de anta e de onça-pintada sendo cuidados e explorando o mundo, ao lado das mães. Os registros foram feitos pelo Instituto Homem Pantaneiro (IHP) e pelo biólogo Lucas Morgado.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreie3myaqpyvecpszewxsxluk6grixzm6tqsizvibcpy67tzh5ty7oq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T22:20:31.711Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l6abycu57k24",
+            "cid": "bafyreibw4w5kwnp46wdes5govbnqaxpkcgh42ggi4n64ghvgtd3t6e7e7i",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T11:43:26.493Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Em agosto, uma onça-pintada apelidada de Miranda foi resgatada com queimaduras de segundo grau nas patas em uma fazenda no município sul mato-grossense que dá seu nome. Fugindo do fogo que devasta o P...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreickpyzonfvaolkgu3isqilruwvzdejhmyedpwqho6nube4s5mvbbu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 996861
+                        },
+                        "title": "Terra arrasada: fogo no Pantanal deixa animais resgatados sem ter para onde ir - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/terra-arrasada-fogo-no-pantanal-deixa-animais-resgatados-sem-ter-para-onde-ir/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/terra-arrasada-fogo-no-pantanal-deixa-animais-resgatados-sem-ter-para-onde-ir/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 270
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em agosto, uma onça-pintada apelidada de Miranda foi resgatada com queimaduras de segundo grau nas patas em uma fazenda no município sul mato-grossense que dá seu nome. Fugindo do fogo que devasta o Pantanal, o animal atravessou locais em chamas e pisou em cinzas...\nolharanimal.org/terra-arrasa..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/terra-arrasada-fogo-no-pantanal-deixa-animais-resgatados-sem-ter-para-onde-ir/",
+                    "title": "Terra arrasada: fogo no Pantanal deixa animais resgatados sem ter para onde ir - ONG Olhar Animal",
+                    "description": "Em agosto, uma onça-pintada apelidada de Miranda foi resgatada com queimaduras de segundo grau nas patas em uma fazenda no município sul mato-grossense que dá seu nome. Fugindo do fogo que devasta o P...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreickpyzonfvaolkgu3isqilruwvzdejhmyedpwqho6nube4s5mvbbu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T11:42:50.812Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nxojr4mluyzmmsr7kn72kx5c/app.bsky.feed.post/3l5mrfcariw2l",
+            "cid": "bafyreidncrwgitgrist4ni7eizjow5ixe7s4ysbhefakk2q24sybqccuva",
+            "author": {
+                "did": "did:plc:nxojr4mluyzmmsr7kn72kx5c",
+                "handle": "renhummel.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nxojr4mluyzmmsr7kn72kx5c/bafkreibmmqgcjzuilasl6i3mz3botch4agllkcmj6u4s632pgk5h6vqiwm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-07T19:09:59.208Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T17:24:07.526Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidneyzv7msrystpdqsjfplyqha3zv46d2mgmdxzpatkyjzd3orxbm",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l5mqbusw4y2o"
+                    },
+                    "root": {
+                        "cid": "bafyreidneyzv7msrystpdqsjfplyqha3zv46d2mgmdxzpatkyjzd3orxbm",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l5mqbusw4y2o"
+                    }
+                },
+                "text": "Pauta animal na direita=pet. Pantanal e Amazônia que queimem."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T17:24:07.526Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nxojr4mluyzmmsr7kn72kx5c/app.bsky.feed.post/3l5mrchtriq2b",
+            "cid": "bafyreih6zs6pmrulnbnv464qqs3jx5d3wcj3h4kabl74kvos3ejj6pt6xe",
+            "author": {
+                "did": "did:plc:nxojr4mluyzmmsr7kn72kx5c",
+                "handle": "renhummel.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nxojr4mluyzmmsr7kn72kx5c/bafkreibmmqgcjzuilasl6i3mz3botch4agllkcmj6u4s632pgk5h6vqiwm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-07T19:09:59.208Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T17:22:32.729Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27"
+                    },
+                    "root": {
+                        "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27"
+                    }
+                },
+                "text": "Pauta animal da direita = pet. O Pantanal e a Amazônia que queimem."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T17:22:32.729Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w6wnxe6cmmqwm4uwx54ffuat/app.bsky.feed.post/3l5mpagelph2r",
+            "cid": "bafyreiby6e3c3yl3euvhg5cmo46sgyqrin2ifsmm5pyouuqhhr5m3ouogu",
+            "author": {
+                "did": "did:plc:w6wnxe6cmmqwm4uwx54ffuat",
+                "handle": "rhane.bsky.social",
+                "displayName": "Nane",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6wnxe6cmmqwm4uwx54ffuat/bafkreicpmugecx3qigpbo2r2i5idaqzbi6wm2fs6e4e4shvnfajgy47v44@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-30T12:27:32.751Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T16:46:45.070Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibh5igzhne2yn2ssy6ek35hdfwuumvzm43ec7pieruyujbkw6hiee",
+                        "uri": "at://did:plc:4sl6eeh4o6ajqbp4armm7n3e/app.bsky.feed.post/3l5mp2mnhgz27"
+                    },
+                    "root": {
+                        "cid": "bafyreibh5igzhne2yn2ssy6ek35hdfwuumvzm43ec7pieruyujbkw6hiee",
+                        "uri": "at://did:plc:4sl6eeh4o6ajqbp4armm7n3e/app.bsky.feed.post/3l5mp2mnhgz27"
+                    }
+                },
+                "text": "A direita causa animal é tipo aquela Luísa Mel que enche o bolso falando de bicho enquanto apoiava o barriguinha de amolar faca DURANTE as queimadas do Pantanal que colocavam toda uma fauna em sofrimento e perigo de morte."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 28,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T16:46:45.070Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bggkldtwra6zkaafwqxhz2d5/app.bsky.feed.post/3l5mn7dcfdq24",
+            "cid": "bafyreicxjohghbkjddl4spszy7frurpsnglnwz3mqd2wvq4q5xul2cvmse",
+            "author": {
+                "did": "did:plc:bggkldtwra6zkaafwqxhz2d5",
+                "handle": "katnissaku.bsky.social",
+                "displayName": "Lari aqui ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bggkldtwra6zkaafwqxhz2d5/bafkreid5mo2ds3ezt2swge4m6wnb27jshrminwxmcrohpdsbaeeok6ek7i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-28T16:28:38.261Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T16:10:20.643Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "No início das eleições a gente falou disso né \n\nQue quem tá com pauta animal tá na lista pra cortar que nem pastor e militar \n\nTá aí \n\nSó quer proteger o Lulu da Pomerania deles.\nMas jacaré no Pantanal pode virar cinzas mesmo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27",
+                    "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                    "author": {
+                        "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                        "handle": "uol.com.br",
+                        "displayName": "UOL - Universo Online",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-02T18:19:32.498Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-03T14:15:29.022Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1333,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 576234
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 889,
+                                        "width": 819
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 201343
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Direita ultrapassa esquerda no total de candidatos com nomes de urna ligados à pauta animal\n\n➡️ A defesa dos animais é um recorte da proteção do meio ambiente —pauta historicamente ligada à esquerda. No entanto, dos 494 postulantes ligados à pauta, 198 são de direita e 92, de esquerda"
+                    },
+                    "labels": [],
+                    "likeCount": 245,
+                    "replyCount": 82,
+                    "repostCount": 27,
+                    "quoteCount": 443,
+                    "indexedAt": "2024-10-03T14:15:29.022Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1333,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 889,
+                                        "width": 819
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T16:10:20.643Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:avrstjdbra5yzhhyj4vplefa/app.bsky.feed.post/3l5mm2nzxhd2m",
+            "cid": "bafyreiaszcooeb4p7hidlq4mfmen37dpjlaxwjg6csiptzajqlmdegnq7m",
+            "author": {
+                "did": "did:plc:avrstjdbra5yzhhyj4vplefa",
+                "handle": "viuvadodreamcast.bsky.social",
+                "displayName": "Viúva do Dreamcast",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:avrstjdbra5yzhhyj4vplefa/bafkreicum3shtay6p2quhbiichxzjozua4ktui2xsfyooexrnv6vkqmtfi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-25T19:58:26.038Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T15:49:50.569Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                        "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "pauta animal, leia-se gato e cachorro\n\npra essa gente da direita foda-se a onça pintada do pantanal, o lobo-guara, o cervo, o macaco-aranha, mico-leão, a ariranha..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l5mgrwobvs27",
+                    "cid": "bafyreibt7p77dpm6hyviyfkbifjta7kwr2spsdfrplrkqhj6hlmmqj3wyq",
+                    "author": {
+                        "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                        "handle": "uol.com.br",
+                        "displayName": "UOL - Universo Online",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-02T18:19:32.498Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-03T14:15:29.022Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1333,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 576234
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 889,
+                                        "width": 819
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 201343
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Direita ultrapassa esquerda no total de candidatos com nomes de urna ligados à pauta animal\n\n➡️ A defesa dos animais é um recorte da proteção do meio ambiente —pauta historicamente ligada à esquerda. No entanto, dos 494 postulantes ligados à pauta, 198 são de direita e 92, de esquerda"
+                    },
+                    "labels": [],
+                    "likeCount": 245,
+                    "replyCount": 82,
+                    "repostCount": 27,
+                    "quoteCount": 443,
+                    "indexedAt": "2024-10-03T14:15:29.022Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreibnt2jpr3jehkpeguumcy5h2uiy6bo7nrzz5ycpsl3niinpvmtak4@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1333,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreihcdm6d64j4445gu7c7eq6dhzv75ogviz2r3wss3scs3z7hoabl34@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 889,
+                                        "width": 819
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 8,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T15:49:50.569Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l5jerjy5z42p",
+            "cid": "bafyreiceq7i7sorq5wfku6r6elzk4umo553iiekvgjf6wfli5adjzmwrrq",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T09:01:52.049Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A onça-pintada Miranda, resgatada durante os incêndios no Pantanal, em agosto deste ano, foi solta em uma área de refúgio ecológico no município que leva o mesmo nome do animal, a 236 km de Campo Gran...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiapeifprwy5hwtow7gpqu6ixrqwxuhxztqucrc5a372vwn2momcvq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 747068
+                        },
+                        "title": "Miranda: onça-pintada resgatada em incêndio no Pantanal retorna à natureza após 43 dias em tratamento - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/miranda-onca-pintada-resgatada-em-incendio-no-pantanal-retorna-a-natureza-apos-43-dias-em-tratamento/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/miranda-onca-pintada-resgatada-em-incendio-no-pantanal-retorna-a-natureza-apos-43-dias-em-tratamento/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 216
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A onça-pintada Miranda, resgatada durante os incêndios no Pantanal, em agosto deste ano, foi solta em uma área de refúgio ecológico no município que leva o mesmo nome do animal, a 236 km de Campo Grande (MS). \nolharanimal.org/miranda-onca..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/miranda-onca-pintada-resgatada-em-incendio-no-pantanal-retorna-a-natureza-apos-43-dias-em-tratamento/",
+                    "title": "Miranda: onça-pintada resgatada em incêndio no Pantanal retorna à natureza após 43 dias em tratamento - ONG Olhar Animal",
+                    "description": "A onça-pintada Miranda, resgatada durante os incêndios no Pantanal, em agosto deste ano, foi solta em uma área de refúgio ecológico no município que leva o mesmo nome do animal, a 236 km de Campo Gran...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreiapeifprwy5hwtow7gpqu6ixrqwxuhxztqucrc5a372vwn2momcvq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T09:01:30.510Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:55pe5u2srxgpjvrcchscnddh/app.bsky.feed.post/3l5g3mm3y3p2g",
+            "cid": "bafyreid5vwynvoreazltntkvtp6whui4e4iksfs7ntn33qqdp6eogqso7i",
+            "author": {
+                "did": "did:plc:55pe5u2srxgpjvrcchscnddh",
+                "handle": "rapaliga.bsky.social",
+                "displayName": "monicahlopes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:55pe5u2srxgpjvrcchscnddh/bafkreidhtkcvz62lrxhoukzgku6j7waqvljryx6oh5cc5dwjefunnahhye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T04:14:39.523Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T01:39:40.031Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreiepzo3wvcckyspvjfpyqbi4fahc5kptkf6kksxfjecgixgekjm7ru"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 14134693
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O influenciador, cantor, lutador e empresário Whindersson Nunes, grande apoiador da causa animal, visitou recentemente o Pantanal para entender de perto a difícil realidade pela qual o bioma está passando."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreiepzo3wvcckyspvjfpyqbi4fahc5kptkf6kksxfjecgixgekjm7ru",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A55pe5u2srxgpjvrcchscnddh/bafkreiepzo3wvcckyspvjfpyqbi4fahc5kptkf6kksxfjecgixgekjm7ru/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A55pe5u2srxgpjvrcchscnddh/bafkreiepzo3wvcckyspvjfpyqbi4fahc5kptkf6kksxfjecgixgekjm7ru/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T01:39:40.031Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3l5crmb6xmk2e",
+            "cid": "bafyreiecksyt2iylscit6ump46dxn72xr37jm7sae5pc6apbhorjmp7wgu",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T18:02:32.379Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Animal foi solta após 43 dias em tratamento",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreickwivyr4lsue6fis7vespjqzyr5bvptbh6vgsswyykvuyslxw57e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 528908
+                        },
+                        "title": "Onça-pintada Miranda volta ao Pantanal | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/onca-pintada-miranda-volta-ao-pantanal/410148"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 109,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 122,
+                            "byteStart": 110
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/onca-pintada-miranda-volta-ao-pantanal/410148"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 162,
+                            "byteStart": 124
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Onça-pintada Miranda volta ao Pantanal\nAnimal foi solta após 43 dias em tratamento\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/onca-pintada-miranda-volta-ao-pantanal/410148",
+                    "title": "Onça-pintada Miranda volta ao Pantanal | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Animal foi solta após 43 dias em tratamento",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreickwivyr4lsue6fis7vespjqzyr5bvptbh6vgsswyykvuyslxw57e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T18:02:32.379Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:j75nntzjslr6ucgs776inixb/app.bsky.feed.post/3l5bij2pcgt2k",
+            "cid": "bafyreiap73bmifh6ng56pw3pmnmczlv4hztb2csxkzciey75mbpxlc354q",
+            "author": {
+                "did": "did:plc:j75nntzjslr6ucgs776inixb",
+                "handle": "paiva-1954.bsky.social",
+                "displayName": "O Cors@RIO",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j75nntzjslr6ucgs776inixb/bafkreid2ageibmscvzqo44rsvzybgsuvhze2e4qkj3rhhj2rtrqzb5okbe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-17T16:50:24.613Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T05:47:01.343Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 195,
+                                "width": 350
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig45crknscqlzhqgcwalzenufny6cd4f4iz77xtd7rh3bzy2roccy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 99759
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "S.O.S  PANTANAL\nUma onça-pintada resgatada de um incêndio no mês passado em Miranda (MS), no Pantanal sul-mato-grossense, foi solta nesta sexta-feira (27/09). O animal, símbolo do bioma, ficou por 43 dias em tratamento e recuperação no Centro de Reabilitação de Animais Silvestres, em Campo Grande."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j75nntzjslr6ucgs776inixb/bafkreig45crknscqlzhqgcwalzenufny6cd4f4iz77xtd7rh3bzy2roccy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:j75nntzjslr6ucgs776inixb/bafkreig45crknscqlzhqgcwalzenufny6cd4f4iz77xtd7rh3bzy2roccy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 195,
+                            "width": 350
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T05:47:01.343Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5w5fyfwtxiv7m3xid4p3ll5d/app.bsky.feed.post/3l5atj5zrj32y",
+            "cid": "bafyreiajdhm2whybpfscou4cxznver5wpph3lkdk3sdo5s62hwjs7p6jbe",
+            "author": {
+                "did": "did:plc:5w5fyfwtxiv7m3xid4p3ll5d",
+                "handle": "kauapenudo.bsky.social",
+                "displayName": "Kauã Penudo ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5w5fyfwtxiv7m3xid4p3ll5d/bafkreihjbbuqqfpferwtzctzg345e7vgkcrshmgz56eseblufxlftpc52i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:28:52.997Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-28T23:31:16.628Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig2plxk6gkqpvjepuqydkvqec6i76np6m4kr4zy4matuwzr57ifnm",
+                        "uri": "at://did:plc:uaenbtrtrefpecde6bvvchgv/app.bsky.feed.post/3l5atcpocvi2a"
+                    },
+                    "root": {
+                        "cid": "bafyreig6cpgq6wh2whjvz2by5k6ywsxb5vk7qfq2nte5um3bhgyv4h3mde",
+                        "uri": "at://did:plc:wnpenvfgi77zmd25rcw5vrjy/app.bsky.feed.post/3l5aawutwqe2e"
+                    }
+                },
+                "text": "Pois é. Se pudesse perguntar pra um papagaio entre escolher  ficar em um recinto dentro de uma casa confortável ou nas queimadas do pantanal? Nas garras de um gavião? A resposta é óbvia. O animal doméstico vive sem estresse algum, se o dono for competente ou amar seu animal, claro."
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-28T23:31:16.628Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2wv55yipfc3opk5xi67euthq/app.bsky.feed.post/3l5562hm2gq2o",
+            "cid": "bafyreie4yk32fw7fjo37nh5aykzytofymnclqlshtcuixdr66i67dbwwly",
+            "author": {
+                "did": "did:plc:2wv55yipfc3opk5xi67euthq",
+                "handle": "cpopx.bsky.social",
+                "displayName": "POINT POP",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2wv55yipfc3opk5xi67euthq/bafkreiayariwsnoxrho2gsay2ypvwnximlbfqb7oxvooud6hw2pmug53mu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-23T00:16:27.726Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T12:29:15.548Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1485,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreideie6oyekstq6nu6g4xoj6lnur27xxb2deppkjimbrgl6mml3hja"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 960199
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ossada de jacaré é encontrada no Pantanal após incêndios. O animal não conseguiu se salvar e morreu queimado. \n."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2wv55yipfc3opk5xi67euthq/bafkreideie6oyekstq6nu6g4xoj6lnur27xxb2deppkjimbrgl6mml3hja@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2wv55yipfc3opk5xi67euthq/bafkreideie6oyekstq6nu6g4xoj6lnur27xxb2deppkjimbrgl6mml3hja@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1485,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 4,
+            "likeCount": 54,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-27T12:29:15.548Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.feed.post/3l4mpe4277v22",
+            "cid": "bafyreigpsw36h52zj4yu6ugnkz7ujoe2vb2kds5oo45xyct2opk7zej6ki",
+            "author": {
+                "did": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                "handle": "gabiaraujoo.bsky.social",
+                "displayName": "Gabriela Araujo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreicidspjj2fppsxlfbvzne553bcwg5gyhl36ybprncgbyotvldwsvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                        "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibgl5vqxmnkznqysw6bglzzh63vmuywtsxjcevex7ab2whir2trne",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T21:05:32.243Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T21:05:31.291Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T23:23:36.792Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 616,
+                                "width": 390
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaprksctbcn4hzpdhxoez7l5pskc3kvtiiieukmcdw73fbtreu5ja"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 237482
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/reel/DAJufgLyjCJ/?igsh=MW93ODhjN3k0bW1tdA=="
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Operação Prometeu, realizada pelo Ibama, em conjunto com a Polícia Federal (PF) e com a Agência Estadual de Defesa Sanitária Animal e Vegetal (lagro), cumpriu sete mandados de busca e apreensão por crimes ambientais em área superior a 6.400 hectares no Pantanal sul www.instagram.com/reel/DAJufgL..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreiaprksctbcn4hzpdhxoez7l5pskc3kvtiiieukmcdw73fbtreu5ja@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreiaprksctbcn4hzpdhxoez7l5pskc3kvtiiieukmcdw73fbtreu5ja@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 616,
+                            "width": 390
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T23:23:36.792Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6fzo2462h",
+            "cid": "bafyreifknypomajt33r33lkepmztp5o2fckisdzprufqgq755feulrevpm",
+            "author": {
+                "did": "did:plc:nvpuoxauer4fkrtwpoj22azp",
+                "handle": "lucianagenro.bsky.social",
+                "displayName": "Luciana Genro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvpuoxauer4fkrtwpoj22azp/bafkreicvwnbx6x4bcu6coefsx43vkesigoabmxvn7c2fhk7oi5qod5zzxa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:19:32.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T18:37:09.313Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:n76735vzb2jrbmcwtywzf6xn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicpox5hmpmbapqwgdai6x5nit3f66hgc5bnjygpgabueljpvlk75i",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6dxfnxo2j"
+                    },
+                    "root": {
+                        "cid": "bafyreibotam64kocm7ywyw5hnixuntmnekn6jduuk3nul7bb745npfu6qu",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6digy6o2h"
+                    }
+                },
+                "text": "Precisamos mudar o sistema econômico predatório em que vivemos, para garantir um futuro para o planeta e para todas as espécies. Parabéns às equipes do Ibama, do Grupo de Resgate Técnico Animal Cerrado Pantanal e do do Centro de Reabilitação de Animais Silvestres! Via @cnnbrasil.com.br.web.brid.gy."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T18:37:09.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:j6cdmiiohcs3wowlrmzlcicm/app.bsky.feed.post/3l4h4b5b6gl2r",
+            "cid": "bafyreiduucnvd6swtan4iky7evde5cxwbgrebm77byayu7o7ytehaup7xm",
+            "author": {
+                "did": "did:plc:j6cdmiiohcs3wowlrmzlcicm",
+                "handle": "obairristars.bsky.social",
+                "displayName": "O Bairrista",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j6cdmiiohcs3wowlrmzlcicm/bafkreidjq6d6f5u2bkwishf7csg56tpvqquh6q2srivimdilxoe3cnnx54@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T22:37:12.496Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T17:58:20.051Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreibm5yggnnkek5w7dejyvobizjxjqnfy752abusavayyvqpkzxpohe"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2209630
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🐵 Um filhote de macaco-prego de apenas 3 dias foi resgatado em meio às cinzas das queimadas no Pantanal, em Mato Grosso do Sul. O animal, batizado de Fênix, em referência à ave mitológica que renasce das cinzas, foi encontrado perdido da mãe na região de Miranda (MS).\n\n🎥 Ibama"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreibm5yggnnkek5w7dejyvobizjxjqnfy752abusavayyvqpkzxpohe",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aj6cdmiiohcs3wowlrmzlcicm/bafkreibm5yggnnkek5w7dejyvobizjxjqnfy752abusavayyvqpkzxpohe/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aj6cdmiiohcs3wowlrmzlcicm/bafkreibm5yggnnkek5w7dejyvobizjxjqnfy752abusavayyvqpkzxpohe/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 7,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-18T17:58:20.051Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gi3j33zx7eqro3k6kvxezeya/app.bsky.feed.post/3l4gdsf4kax2g",
+            "cid": "bafyreicyry6dgipnhw4au4lnczx22utdzthuxfsqhxaqu4bgdfiuczrlke",
+            "author": {
+                "did": "did:plc:gi3j33zx7eqro3k6kvxezeya",
+                "handle": "mizazag.bsky.social",
+                "displayName": "ZanZag",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gi3j33zx7eqro3k6kvxezeya/bafkreie3xlkepsxgogbbfidzce2ly3223flc3tgojhfttghaulmk5p4hze@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T02:43:11.365Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T10:40:53.360Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 539,
+                                "width": 969
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihfr36kpjdxqciswutbfljl6mmjqtx5k7cvs73vlnecvpkstg3bba"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 390624
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O maior pecuarista incendiário do Pantanal vende gado para dois dos maiores frigoríficos do país e para a Minerva, que possui como acionista majoritário a Salic, uma empresa da família real saudita.\n\nA Minerva domina o mercado de proteína animal na Austrália.\n\nInformações e análise da Fórum."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gi3j33zx7eqro3k6kvxezeya/bafkreihfr36kpjdxqciswutbfljl6mmjqtx5k7cvs73vlnecvpkstg3bba@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gi3j33zx7eqro3k6kvxezeya/bafkreihfr36kpjdxqciswutbfljl6mmjqtx5k7cvs73vlnecvpkstg3bba@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 539,
+                            "width": 969
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T10:40:53.360Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l4ff4byrg72i",
+            "cid": "bafyreic6d575ubzpwisqvhy5uce6fq6o3loykyk4erbgx53qsatzyb3c5y",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T01:31:39.351Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A veterinária Pollyanna Motinha aplica as últimas bandagens em Itapira, uma onça-pintada com queimaduras nas quatro patas. O imponente animal logo se curará, mas seu lar no Pantanal, um santuário...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieffiuhxk7hwss4mobc22rtfhjzblhbxuxxnyokr3wsqomcav6i3m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 415128
+                        },
+                        "title": "Um refúgio trabalha para curar onças feridas por incêndios no Brasil - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/um-refugio-trabalha-para-curar-oncas-feridas-por-incendios-no-brasil/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/um-refugio-trabalha-para-curar-oncas-feridas-por-incendios-no-brasil/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A veterinária Pollyanna Motinha aplica as últimas bandagens em Itapira, uma onça-pintada com queimaduras nas quatro patas. O imponente animal logo se curará, mas seu lar no Pantanal, um santuário da biodiversidade, continua em chamas.\nolharanimal.org/um-refugio-t..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/um-refugio-trabalha-para-curar-oncas-feridas-por-incendios-no-brasil/",
+                    "title": "Um refúgio trabalha para curar onças feridas por incêndios no Brasil - ONG Olhar Animal",
+                    "description": "A veterinária Pollyanna Motinha aplica as últimas bandagens em Itapira, uma onça-pintada com queimaduras nas quatro patas. O imponente animal logo se curará, mas seu lar no Pantanal, um santuário...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreieffiuhxk7hwss4mobc22rtfhjzblhbxuxxnyokr3wsqomcav6i3m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T01:31:39.351Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6dv4llx7ykqjr3ta5iemba2u/app.bsky.feed.post/3l4fa2c56bg2t",
+            "cid": "bafyreiaeqvf4lnhigyj6hhoplbcereex4dniozwjxbl34for2kgmo6deiu",
+            "author": {
+                "did": "did:plc:6dv4llx7ykqjr3ta5iemba2u",
+                "handle": "bettercallrael.bsky.social",
+                "displayName": "rael out of context ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6dv4llx7ykqjr3ta5iemba2u/bafkreid3bqje6jj7p4ctd4tbih6jsupiccvolqmfjg34moifjh6zm3i2o4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-27T22:18:44.350Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T00:01:03.153Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "toda hora chega informação dos amigos que tão em missão no Pantanal e na Amazônia, tristeza atrás de tristeza com tanto animal ferido ou morto\n\nimpressionante até onde o brasileiro vai por causa de 2 caras"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T00:01:03.153Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dlgoudmprmt7p7ed3wosx73e/app.bsky.feed.post/3l3yxshivlw2u",
+            "cid": "bafyreifvwgxpq6tjm2opubcxtyqfoov46wfttuvlpbupklg3nslsydoc44",
+            "author": {
+                "did": "did:plc:dlgoudmprmt7p7ed3wosx73e",
+                "handle": "gplusnoticias.bsky.social",
+                "displayName": "Notícias G Plus",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dlgoudmprmt7p7ed3wosx73e/bafkreif5p2jihwn2qfyztq7jjsgqqa76bzdobsypviuifsjkh77otjbqnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:03:10.247Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:dlgoudmprmt7p7ed3wosx73e",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2024-09-01T07:33:55.797Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T03:01:33.203Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 652,
+                                "width": 984
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreielq45c4edciyksxc4vbbnit6e6nohxgo3ugcuip57jz3sylmjgcu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 322833
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Morre onça-pintada resgatada com queimaduras nas patas e pulmão comprometido das queimadas no Pantanal\n\nAntã, um macho de 8 anos, foi resgatado em agosto na região do Passo do Lontra, em Miranda (MS). Além das queimaduras, o animal apresentava desidratação, anemia e inflamação na bexiga."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dlgoudmprmt7p7ed3wosx73e/bafkreielq45c4edciyksxc4vbbnit6e6nohxgo3ugcuip57jz3sylmjgcu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dlgoudmprmt7p7ed3wosx73e/bafkreielq45c4edciyksxc4vbbnit6e6nohxgo3ugcuip57jz3sylmjgcu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 652,
+                            "width": 984
+                        }
+                    }
+                ]
+            },
+            "replyCount": 23,
+            "repostCount": 21,
+            "likeCount": 294,
+            "quoteCount": 25,
+            "indexedAt": "2024-09-13T03:01:33.203Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uxw3nt2z6chua44ss3pxmnhb/app.bsky.feed.post/3l3r3w7htn22w",
+            "cid": "bafyreig4pcdi3eqa4hnfxlcrdgd67p7adskoile3nvuqzdksa6kwbluvfq",
+            "author": {
+                "did": "did:plc:uxw3nt2z6chua44ss3pxmnhb",
+                "handle": "ricafaust.bsky.social",
+                "displayName": "Rica Faust ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uxw3nt2z6chua44ss3pxmnhb/bafkreiblch2wm6ogurgaregtwhhkvotkg3tuogjak5q5c37obagc3pjedu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T02:18:37.437Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T23:53:53.878Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a cartoon of a man in a hat holding a pair of scissors in his hand",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih5uvvrcuhjok5fctvvtbho6zs3deupfiayrrsg3zwitnhry5pd5m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 830103
+                        },
+                        "title": "a cartoon of a man in a hat holding a pair of scissors in his hand",
+                        "uri": "https://media.tenor.com/1OKiBNGx71IAAAAC/apagar-el-fuego-max.gif?hh=280&ww=498"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brazil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 291
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 299
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihoqg3nuewrhuzl5ltq7znuih7ovs3ig7rtqnnvauplnt64seill4",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l3qkxtvecm2u"
+                    },
+                    "root": {
+                        "cid": "bafyreihoqg3nuewrhuzl5ltq7znuih7ovs3ig7rtqnnvauplnt64seill4",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l3qkxtvecm2u"
+                    }
+                },
+                "text": "Os hospitais abarrotados ,desmaios na rua e gente passando mal..\nA agricultura indo por água a baixo principalmente a soja ,o café e o milho que são sensíveis ao calor e o não menos importante os incêndios áreas como Pantanal e Amazônia devastando a vida animal e biodiversidade....\n#Brazil #brasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/1OKiBNGx71IAAAAC/apagar-el-fuego-max.gif?hh=280&ww=498",
+                    "title": "a cartoon of a man in a hat holding a pair of scissors in his hand",
+                    "description": "ALT: a cartoon of a man in a hat holding a pair of scissors in his hand",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uxw3nt2z6chua44ss3pxmnhb/bafkreih5uvvrcuhjok5fctvvtbho6zs3deupfiayrrsg3zwitnhry5pd5m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T23:53:53.878Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hs4622peunnbrogwlqqos6bz/app.bsky.feed.post/3l3bzne7dkx2p",
+            "cid": "bafyreibmondm7ike7rgvjosbiqfrsotl372xgypmnbppiupgzwb6sndxwa",
+            "author": {
+                "did": "did:plc:hs4622peunnbrogwlqqos6bz",
+                "handle": "10uilton.bsky.social",
+                "displayName": "Uilton ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreihc6tlolpeeftzhhj6kbk6fuqs5ivuk4ckwjheqstbzzdafhpnoj4@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T14:43:39.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T00:03:16.091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 659,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 37104
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Papagaio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 16
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Psittacidae"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 26
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 39
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Animais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Natureza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 65,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazonas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 75,
+                            "byteStart": 66
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 85,
+                            "byteStart": 76
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 94,
+                            "byteStart": 86
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Arte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 100,
+                            "byteStart": 95
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArteManual"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 112,
+                            "byteStart": 101
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UiltonArtes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 125,
+                            "byteStart": 113
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Uilton"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 126
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UiltonSantos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 134
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "10uilton"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 148
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🎨 Papagaio \n\n#Papagaio #Psittacidae #Animal #Animais #Natureza #Amazonas #Pantanal #Cerrado #Arte #ArteManual #UiltonArtes #Uilton #UiltonSantos #10uilton"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hs4622peunnbrogwlqqos6bz/bafkreiex646ewbragrm6x4vf2o5r5rkk2cca476xu7jdnvbz62l46zxhfe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 659,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T00:03:16.091Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3kz336s6qq62a",
+            "cid": "bafyreiaidl5rc4porvydgyckyt4hej64a2bm4b3r4m7bqqaplgflsyuzxm",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-06T18:51:52.241Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Proprietário rural foi quem localizou o animal e acionou policiais ambientais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiechqose3hansxcxxfwsxzxxukc26ckxoqpu2tq4z5do5l7b76n7a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 719089
+                        },
+                        "title": "PMA resgata filhote de anta vítima de queimadura no Pantanal | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/pma-resgata-filhote-de-anta-vitima-de-queimadura-no-pantanal/407336"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 165,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 178,
+                            "byteStart": 166
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/pma-resgata-filhote-de-anta-vitima-de-queimadura-no-pantanal/407336"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 219,
+                            "byteStart": 181
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ PMA resgata filhote de anta vítima de queimadura no Pantanal\nProprietário rural foi quem localizou o animal e acionou policiais ambientais\n\n#UltimasNoticias #CapitalNews \n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/pma-resgata-filhote-de-anta-vitima-de-queimadura-no-pantanal/407336",
+                    "title": "PMA resgata filhote de anta vítima de queimadura no Pantanal | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Proprietário rural foi quem localizou o animal e acionou policiais ambientais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreiechqose3hansxcxxfwsxzxxukc26ckxoqpu2tq4z5do5l7b76n7a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-06T18:51:52.241Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3kx2l2w4az52k",
+            "cid": "bafyreih2kk644o4nav3wziuah57awkgzj55jmvpoyyafb6sh2why2hk4wy",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-12T03:13:00.509Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Animal é comumente encontrado em baías do Pantanal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibxmnzados5sxo4hztvox2tgkevwvitowvyu6luooltqsdc7rdkau"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 434144
+                        },
+                        "title": "Conheça os filhotes de Acará nascidos no Bioparque | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/conheca-os-filhotes-de-acara-nascidos-no-bioparque/406017"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 114
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 143,
+                            "byteStart": 131
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/conheca-os-filhotes-de-acara-nascidos-no-bioparque/406017"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 184,
+                            "byteStart": 146
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Conheça os filhotes de Acará nascidos no Bioparque\nAnimal é comumente encontrado em baías do Pantanal\n\n#UltimasNoticias #CapitalNews \n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/conheca-os-filhotes-de-acara-nascidos-no-bioparque/406017",
+                    "title": "Conheça os filhotes de Acará nascidos no Bioparque | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Animal é comumente encontrado em baías do Pantanal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreibxmnzados5sxo4hztvox2tgkevwvitowvyu6luooltqsdc7rdkau@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-12T03:13:00.509Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kuqa7awx4e2p",
+            "cid": "bafyreibpzmv2g6fi2diovqibp7dyzrmmgisqhdff7lg7ilp3hdn72ypwhy",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-12T13:41:32.250900Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Casal pertence a um dos maiores grupos da região de Porto Jofre.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifwnbq3hm4olzgjn6d4u3zvi4n3jeza3xzsx2vugi5w45xdblfzty"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 165003
+                        },
+                        "title": "Amor animal: casal de ariranhas é flagrado em momento de carinho no Pantanal de MT",
+                        "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2024/06/12/amor-animal-casal-de-ariranhas-e-flagrado-em-momento-de-carinho-no-pantanal-de-mt.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Amor animal: casal de ariranhas é flagrado em momento de carinho no Pantanal de MT"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2024/06/12/amor-animal-casal-de-ariranhas-e-flagrado-em-momento-de-carinho-no-pantanal-de-mt.ghtml",
+                    "title": "Amor animal: casal de ariranhas é flagrado em momento de carinho no Pantanal de MT",
+                    "description": "Casal pertence a um dos maiores grupos da região de Porto Jofre.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifwnbq3hm4olzgjn6d4u3zvi4n3jeza3xzsx2vugi5w45xdblfzty@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-12T13:41:32.250Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dkpmc5pq6rscu5d6lgxabole/app.bsky.feed.post/3ktzenpesic2d",
+            "cid": "bafyreid76l5agzgjw62jnguzggx7snkccyelf4rlrfrgdec64c4jupxuly",
+            "author": {
+                "did": "did:plc:dkpmc5pq6rscu5d6lgxabole",
+                "handle": "robertoponciano.bsky.social",
+                "displayName": "Roberto Ponciano",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dkpmc5pq6rscu5d6lgxabole/bafkreih3rgqck7aboiyy72xod2cbvgbyfu7qfzsfuut3qbky7fhprqqype@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T13:47:49.659Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-03T11:29:58.435Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Restou algum negacionista da mudança climática no Brasil depois da tragédia no Rio Grande do Sul?\nEm tempo, se vive agora uma grande seca no Pantanal.\nO homem é o único animal que serra o galho no qual está sentado."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-03T11:29:58.435Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3kqnvqmhbtu2o",
+            "cid": "bafyreiap34wadse2hlhemawleenkpgyg5ugjemnnjkos3psdlfwazequ7m",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T17:48:19.411Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Definição ocorreu durante a primeira reunião dos novos membros",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibmwgkaqnltuxizvpu7cofvowsoiv2zvteqxusobbflhvvgtgwsqa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 345218
+                        },
+                        "title": "Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027 | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 180,
+                            "byteStart": 164
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 181
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 195
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027\nDefinição ocorreu durante a primeira reunião dos novos membros\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/politica-e-p..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/grupo-de-resgate-tecnico-animal-cerrado-pantanal-define-atividades-do-trienio-2024-2027/402007",
+                    "title": "Grupo de Resgate Técnico Animal Cerrado Pantanal define atividades do triênio 2024-2027 | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Definição ocorreu durante a primeira reunião dos novos membros",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreibmwgkaqnltuxizvpu7cofvowsoiv2zvteqxusobbflhvvgtgwsqa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T17:48:19.411Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zccqyhbzdirzxnuhk7dwwz5d/app.bsky.feed.post/3kq6xyqrmok23",
+            "cid": "bafyreifeqm2zdoelrq3oysflpshnwtvektaqbijuslvsvwbxrk3fw7qbze",
+            "author": {
+                "did": "did:plc:zccqyhbzdirzxnuhk7dwwz5d",
+                "handle": "jomiyagui.bsky.social",
+                "displayName": "Jô Miyagui",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zccqyhbzdirzxnuhk7dwwz5d/bafkreig5pszebnohhztjfi7ysfus5fksh4cp32jgx5j75zo2nwhneidlwy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T00:12:36.496Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T19:18:43.178Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "É de chorar essa história do fazendeiro que gastou R$ 25 milhões em veneno (foram 25 tipos, incluindo agente laranja) para destruir 80 mil hectares do Pantanal e plantar capim. Daí o gado come o capim que cresceu em terreno altamente contaminado e nós comemos a carne do animal altamente contaminado."
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T19:18:43.178Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:j7wf6uhl2qwvxejpsqsgzq5s/app.bsky.feed.post/3kfh7l57key2u",
+            "cid": "bafyreid742cszemkeonjjc4gpdlv4gyc3tj5t65532guhpotktzhdfmlpu",
+            "author": {
+                "did": "did:plc:j7wf6uhl2qwvxejpsqsgzq5s",
+                "handle": "revistametroid.bsky.social",
+                "displayName": "Revista Metroid",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j7wf6uhl2qwvxejpsqsgzq5s/bafkreiaj3wlb2j5z5beisrak63avwdzez2m2io7jjfxht5hooz5plpkvgq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-06T22:22:41.756Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-01T02:18:26.978Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Revista Metroid - Explorando Cultura",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigcxuuf5wq2prjeca5zmas2hjb4hiyf2v5dbl2lksektbtehffq7y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 350556
+                        },
+                        "title": "Diário de Uma Onça (2023)",
+                        "uri": "https://revistametroid.blogspot.com/2023/11/diario-de-uma-onca-2023.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://revistametroid.blogspot.com/2023/11/diario-de-uma-onca-2023.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 190
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "DIÁRIO DE UMA ONÇA\n\nAlanis Guillen narra a jornada de onças-pintadas no Pantanal em documentário sobre vida animal.\n\nQuinta-feira, 30 de novembro, nos cinemas.\n\nConfira a nossa resenha:\nrevistametroid.blogspot.com/2023/11/diar..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistametroid.blogspot.com/2023/11/diario-de-uma-onca-2023.html",
+                    "title": "Diário de Uma Onça (2023)",
+                    "description": "Revista Metroid - Explorando Cultura",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j7wf6uhl2qwvxejpsqsgzq5s/bafkreigcxuuf5wq2prjeca5zmas2hjb4hiyf2v5dbl2lksektbtehffq7y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-01T02:18:26.978Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kfafsbx7kn2f",
+            "cid": "bafyreigwiubmhy6pp4hk3slsk6cyzblfgd2utxg27gwzkmqccuzqb46cua",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-28T09:21:08.921928Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Filhote de veado campeiro albino voltou aparecer após focos de incêndio serem apagados pela chuva no Pantanal de MS. Fotógrafo quer batizá-lo de \"Anhangá\", espírito de uma lenda antiga que protegia a natureza e se materializava em um veado branco.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreickbrwnbpzsgtj3kk65ahni24n7kv5daj2ipg32cba45owbx6waza"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 74506
+                        },
+                        "title": "Animal raro resiste às queimadas do Pantanal e ganha fama mística de 'protetor das matas'; veja vídeo",
+                        "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2023/11/28/animal-raro-resiste-as-queimadas-do-pantanal-e-ganha-fama-mistica-de-protetor-das-matas-veja-video.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Animal raro resiste às queimadas do Pantanal e ganha fama mística de 'protetor das matas'; veja vídeo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2023/11/28/animal-raro-resiste-as-queimadas-do-pantanal-e-ganha-fama-mistica-de-protetor-das-matas-veja-video.ghtml",
+                    "title": "Animal raro resiste às queimadas do Pantanal e ganha fama mística de 'protetor das matas'; veja vídeo",
+                    "description": "Filhote de veado campeiro albino voltou aparecer após focos de incêndio serem apagados pela chuva no Pantanal de MS. Fotógrafo quer batizá-lo de \"Anhangá\", espírito de uma lenda antiga que protegia a natureza e se materializava em um veado branco.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreickbrwnbpzsgtj3kk65ahni24n7kv5daj2ipg32cba45owbx6waza@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-28T09:21:08.921Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kexjedyw5j2y",
+            "cid": "bafyreibpnxf3qh7iyqg263rqlmfffyfqvzw3nkc3zee4fpdvhnehusfgza",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-24T20:30:58.704314Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O animal é considerado raro pois tem hábitos solitários e é de difícil visualização, sendo descrita na década de 1950 como específico do Pantanal, segundo a coordenadora do Grupo De Resgate De Animais Em Desastres (Grad). ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiggzlbw56hzxtr7mze25l7rny3z5lxjgkzabnxa3myecee6z7fhwy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 95223
+                        },
+                        "title": "Animal raro: 'Víbora do Pantanal' sobrevive a incêndio na Transpantaneira e é resgatada por voluntários em MT",
+                        "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2023/11/24/animal-raro-vibora-do-pantanal-sobrevive-a-incendio-na-transpantaneira-e-e-resgatada-por-voluntarios-em-mt.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Animal raro: 'Víbora do Pantanal' sobrevive a incêndio na Transpantaneira e é resgatada por voluntários em MT"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2023/11/24/animal-raro-vibora-do-pantanal-sobrevive-a-incendio-na-transpantaneira-e-e-resgatada-por-voluntarios-em-mt.ghtml",
+                    "title": "Animal raro: 'Víbora do Pantanal' sobrevive a incêndio na Transpantaneira e é resgatada por voluntários em MT",
+                    "description": "O animal é considerado raro pois tem hábitos solitários e é de difícil visualização, sendo descrita na década de 1950 como específico do Pantanal, segundo a coordenadora do Grupo De Resgate De Animais Em Desastres (Grad). ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiggzlbw56hzxtr7mze25l7rny3z5lxjgkzabnxa3myecee6z7fhwy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-24T20:30:58.704Z",
+            "labels": []
+        }
+    ]
+}

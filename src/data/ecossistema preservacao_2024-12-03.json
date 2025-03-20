@@ -1,0 +1,920 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:gmeskfvck4m33rmipdlvihfp/app.bsky.feed.post/3lc6uba3jkc2a",
+            "cid": "bafyreidv233pb6imm5derihlea32lyinxqv7gcu3weqk2wx24dso5mv45e",
+            "author": {
+                "did": "did:plc:gmeskfvck4m33rmipdlvihfp",
+                "handle": "digor77.bsky.social",
+                "displayName": "Digor 🏹🧉🧭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmeskfvck4m33rmipdlvihfp/bafkreihlupqorsb6pixu24y6f3m6ixyxfeznzih75vhuhg6pmg5cl74rhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:11:27.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T19:45:22.837Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreigahxfobr5i54ukxnppk7hwrqxq7i5u6zmxwr4b76acj24cyy7k6u"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 14483950
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/nex_noextinction/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 317,
+                            "byteStart": 284
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "📱 E por falar no Dia Internacional da Onça-Pintada... 💛🤎🏹\n\nDepois de postar seu vídeo no IG, enaltecendo a importância da preservação e da presença da Onça-Pintada no Ecossistema (EQUILÍBRIO AMBIENTAL), ela começou a ser seguida pela ONG NEX_No Extinction:\n\n👉 www.instagram.com/nex_noextinc..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreigahxfobr5i54ukxnppk7hwrqxq7i5u6zmxwr4b76acj24cyy7k6u",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreigahxfobr5i54ukxnppk7hwrqxq7i5u6zmxwr4b76acj24cyy7k6u/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreigahxfobr5i54ukxnppk7hwrqxq7i5u6zmxwr4b76acj24cyy7k6u/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T19:45:24.752Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sapcb4ajgnq5xelltkusd77j/app.bsky.feed.post/3lc3erh6hn22r",
+            "cid": "bafyreic3kgem2mbcr4ldipvxcqjlwy3gg2orzpte3lobjqwo3uwmpespky",
+            "author": {
+                "did": "did:plc:sapcb4ajgnq5xelltkusd77j",
+                "handle": "thedevils1971.bsky.social",
+                "displayName": "fancam de misoprostol",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sapcb4ajgnq5xelltkusd77j/bafkreibjbgquyqj7ybpptkyfajgb2bg7nwzdaqbrndwf34his5p4gkd3oy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:sapcb4ajgnq5xelltkusd77j",
+                        "uri": "at://did:plc:sapcb4ajgnq5xelltkusd77j/app.bsky.actor.profile/self",
+                        "cid": "bafyreibndjzk2c2lzznttgofphxzjse35hqgncomnlukrmdsofwyb6udva",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-04T22:16:56.963Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T10:30:08.060Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibkw6vz2x66u6wydcvmcgbnyn3lzybcm2to3iaikvyqhzbwtng7ai",
+                        "uri": "at://did:plc:5mxfmvmekf2bwc662yq6dowo/app.bsky.feed.post/3lbzu7gwe6s2o"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "sério a raiva que esse discurso me dá, especialmente pensando numa perspectiva macro. nós devemos uns aos outros ar respirável, preservação do ecossistema, respeito ao planeta que todos nós vivemos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:5mxfmvmekf2bwc662yq6dowo/app.bsky.feed.post/3lbzu7gwe6s2o",
+                    "cid": "bafyreibkw6vz2x66u6wydcvmcgbnyn3lzybcm2to3iaikvyqhzbwtng7ai",
+                    "author": {
+                        "did": "did:plc:5mxfmvmekf2bwc662yq6dowo",
+                        "handle": "pangolimgigante.bsky.social",
+                        "displayName": "a doleira dentro da roupa de margaret qualley",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5mxfmvmekf2bwc662yq6dowo/bafkreibpwvqjs3ifgavvo3esxde5bnqqcng5rbukxyqvopdktn4eklgffq@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [
+                            {
+                                "src": "did:plc:5mxfmvmekf2bwc662yq6dowo",
+                                "uri": "at://did:plc:5mxfmvmekf2bwc662yq6dowo/app.bsky.actor.profile/self",
+                                "cid": "bafyreiheit5ksffpxsqvmss6x6tnqy444ozu5hdtmirgvrslujpf5owwea",
+                                "val": "!no-unauthenticated",
+                                "cts": "1970-01-01T00:00:00.000Z"
+                            }
+                        ],
+                        "createdAt": "2023-03-30T02:46:04.529Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-28T20:01:04.206Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Essa onda de “ninguém te deve nada” e o “nada” em questão são regras de convivência básica em sociedade para um funcionamento menos desgastante para todo mundo envolvido"
+                    },
+                    "labels": [],
+                    "likeCount": 447,
+                    "replyCount": 2,
+                    "repostCount": 126,
+                    "quoteCount": 16,
+                    "indexedAt": "2024-11-28T20:01:04.458Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 7,
+            "likeCount": 55,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T10:30:07.556Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dqmumfqvltsjwm6glhplk3bh/app.bsky.feed.post/3lau2zrxirs2s",
+            "cid": "bafyreiaf7qtuvtiqolmj3bydzu2wrkazfj45n7qhyggijetwjafwes2jwm",
+            "author": {
+                "did": "did:plc:dqmumfqvltsjwm6glhplk3bh",
+                "handle": "laranjeirasnews.bsky.social",
+                "displayName": "Laranjeiras.News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreiawqkt4j6gvnnjj2xspspv6qrib5cs5lltfyrlkxrbaxugxwjtvje@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T15:17:48.201Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T19:22:00.580Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 450,
+                                "width": 675
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibujgkv5mf7tp4dsg357qrib3htm5sevi72dh5lzbpcnhwz43jiky"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 211533
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 183,
+                                "width": 275
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidwjmeu4kesek7i7l2ilnng7cvhjp5qth5qjrqb4yg5mfd7xk3oce"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 46866
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🇧🇷 VISITA NA VIZINHANÇA 🇺🇸\n\nEm Manaus, Biden visitará maior bairro indígena do Brasil.\n\n🏛️ Segundo a Casa Branca, Biden quer “dialogar com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema, marcando a primeira visita de um presidente dos EUA à região”."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreibujgkv5mf7tp4dsg357qrib3htm5sevi72dh5lzbpcnhwz43jiky@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreibujgkv5mf7tp4dsg357qrib3htm5sevi72dh5lzbpcnhwz43jiky@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 450,
+                            "width": 675
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidwjmeu4kesek7i7l2ilnng7cvhjp5qth5qjrqb4yg5mfd7xk3oce@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidwjmeu4kesek7i7l2ilnng7cvhjp5qth5qjrqb4yg5mfd7xk3oce@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 183,
+                            "width": 275
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T19:22:02.203Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3lahi6pdr3x2u",
+            "cid": "bafyreieiuh7scfjzm36i3p5h35a2tqndxromcy7i6evjjuheqgzukova2y",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T19:12:47.559Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 553238
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/6Q3Cg"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 310,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅O presidente dos EUA, Joe Biden, terá uma agenda em Manaus, no Amazonas, no dia 17 deste mês, onde deverá visitar a Floresta Amazônica e se reunir com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema.\n\n(Pica ele Haemagogus e Sabethes)\n\ntrk.ebc.com.br/6Q3Cg"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T19:12:48.483Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:26ka3nxo2ubts4jzmqhavhfw/app.bsky.feed.post/3lahdxs3b5j2z",
+            "cid": "bafyreiecqg767sasp6uzwwdcpbu5wlmnyy4omjwvrikik6h7oomuspsy5q",
+            "author": {
+                "did": "did:plc:26ka3nxo2ubts4jzmqhavhfw",
+                "handle": "riosdenoticias.bsky.social",
+                "displayName": "Portal Rios de Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreie7m35jy7ec3sdseqoqtof42wg5ba5o66tdmtnlstsbmwujrqarjy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:35:52.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T17:57:21.187Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, onde visitará a Floresta Amazônica e se reunirá com líderes locais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicy4g22xknlwy35le6hpi25xi7r3awxixip5wzdm5z3n4q5t4m3s4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 325709
+                        },
+                        "title": "Biden vai se reunir com indígenas e lideranças em visita a Manaus",
+                        "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cidades"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 322,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#cidades | 🇺🇸🤝🏼🌳 O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, no próximo dia 17/11, onde visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema. \n\nwww.riosdenoticias.com.br/biden-vai-se..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/",
+                    "title": "Biden vai se reunir com indígenas e lideranças em visita a Manaus",
+                    "description": "O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, onde visitará a Floresta Amazônica e se reunirá com líderes locais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreicy4g22xknlwy35le6hpi25xi7r3awxixip5wzdm5z3n4q5t4m3s4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T17:57:25.988Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dqmumfqvltsjwm6glhplk3bh/app.bsky.feed.post/3lah77jr6en2j",
+            "cid": "bafyreie4hie6lubhvlnrzmddx2lyqcu2isu2eyrie3nmvypevsc6idamoy",
+            "author": {
+                "did": "did:plc:dqmumfqvltsjwm6glhplk3bh",
+                "handle": "laranjeirasnews.bsky.social",
+                "displayName": "Laranjeiras.News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreiawqkt4j6gvnnjj2xspspv6qrib5cs5lltfyrlkxrbaxugxwjtvje@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T15:17:48.201Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T16:32:11.294Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 831880
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VISITA NA VIZINHANÇA \n\n🇺🇸 O presidente dos Estados Unidos, Joe Biden, terá agenda em Manaus no dia 17/11\n\n🌱 Ele visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T16:32:12.189Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:v2hjqyoauxc4x22ek5k5o674/app.bsky.feed.post/3lagulcvec62l",
+            "cid": "bafyreiggija4q4353dkqps2fthf2vv7thyzfh7ufa52l7s5v2ni265hp5y",
+            "author": {
+                "did": "did:plc:v2hjqyoauxc4x22ek5k5o674",
+                "handle": "cenarium.bsky.social",
+                "displayName": "Cenarium ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiectiuog7b4v5vozxfvkefmi2mvuirmmj6l53j253bkrdxcqxvjqu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:31:23.125Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T13:18:41.988Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 609,
+                                "width": 1536
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 331146
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3NY4YLZ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 316,
+                            "byteStart": 302
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🇺🇸 Presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, no dia 17 deste mês, onde visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema. A informação foi divulgada pela Casa Branca. | bit.ly/3NY4YLZ"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 609,
+                            "width": 1536
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T13:21:57.281Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hgdc4iqwudhqn22hinvxek42/app.bsky.feed.post/3laeykozogo2p",
+            "cid": "bafyreifch4rk26tfk55cfdjluxh2xlykbyfq6youatkmoxl2biy7srpn7u",
+            "author": {
+                "did": "did:plc:hgdc4iqwudhqn22hinvxek42",
+                "handle": "lacerdices.bsky.social",
+                "displayName": "João Lacerda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hgdc4iqwudhqn22hinvxek42/bafkreifn73vkhkiw6ww2ankgf3fqywhxk4nj5m6qfjounxdrdvxmuvkuti@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T00:50:20.101Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T19:27:50.364Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih7vfu3t3bbyqzetlekcwyobm62ev547sapgfysghex4hfixmxj74",
+                        "uri": "at://did:plc:hgdc4iqwudhqn22hinvxek42/app.bsky.feed.post/3laeyhtj5qy2s"
+                    },
+                    "root": {
+                        "cid": "bafyreih7vfu3t3bbyqzetlekcwyobm62ev547sapgfysghex4hfixmxj74",
+                        "uri": "at://did:plc:hgdc4iqwudhqn22hinvxek42/app.bsky.feed.post/3laeyhtj5qy2s"
+                    }
+                },
+                "text": "A recomendação foi fundamentada em:\n\n1) Danos Ambientais: \n\nAs obras estariam causando desmatamento de áreas de preservação permanente, com o corte indiscriminado de árvores, o que afeta negativamente o ecossistema local, incluindo a fauna, o Córrego Emboaçu e a cobertura vegetal da região."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T19:27:50.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yz374uhwuizifgnst5hdpqqg/app.bsky.feed.post/3laco5a6v7o2q",
+            "cid": "bafyreicyc24i26ufegensazxir6qrk3sz63u347edn2s2sqppvqkvwn4ui",
+            "author": {
+                "did": "did:plc:yz374uhwuizifgnst5hdpqqg",
+                "handle": "cienciaufpr.bsky.social",
+                "displayName": "Ciência UFPR ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yz374uhwuizifgnst5hdpqqg/bafkreihc7e62xohlocbnpef466woixzylz2pxlvbiopv766mddjnni7h34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-31T17:58:38.741Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T21:15:34.445Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto de uma formiga carregando uma semente. Esse inseto atua na dispersão de sementes, em uma dinâmica conhecida como \"mirmecocoria\". Foto: Twitter @InsetoLand/Reprodução",
+                            "aspectRatio": {
+                                "height": 437,
+                                "width": 437
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifsr2ymzohx2hjd5jp3hjz2gdkzu4uh4io3b4epdbic76hacnmq5e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 105707
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigxqjr6lsstvtfibteiuhvslbjnfz4q6ec3xlwsi7ustuqs5vlsb4",
+                        "uri": "at://did:plc:yz374uhwuizifgnst5hdpqqg/app.bsky.feed.post/3laamf7ct5z2w"
+                    },
+                    "root": {
+                        "cid": "bafyreigxqjr6lsstvtfibteiuhvslbjnfz4q6ec3xlwsi7ustuqs5vlsb4",
+                        "uri": "at://did:plc:yz374uhwuizifgnst5hdpqqg/app.bsky.feed.post/3laamf7ct5z2w"
+                    }
+                },
+                "text": "A catalogação de espécies é uma etapa necessária para as políticas de preservação dos insetos e do ecossistema que eles ajudam a preservar. Insetos têm papéis ecológicos importantes, que vão da polinização ao auxílio no ciclo de nutrientes dos solos.+"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yz374uhwuizifgnst5hdpqqg/bafkreifsr2ymzohx2hjd5jp3hjz2gdkzu4uh4io3b4epdbic76hacnmq5e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yz374uhwuizifgnst5hdpqqg/bafkreifsr2ymzohx2hjd5jp3hjz2gdkzu4uh4io3b4epdbic76hacnmq5e@jpeg",
+                        "alt": "Foto de uma formiga carregando uma semente. Esse inseto atua na dispersão de sementes, em uma dinâmica conhecida como \"mirmecocoria\". Foto: Twitter @InsetoLand/Reprodução",
+                        "aspectRatio": {
+                            "height": 437,
+                            "width": 437
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-06T21:16:02.893Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3laa2klimit23",
+            "cid": "bafyreifitarxztkdgum7tmd7daihyyoyjoagoftuf6iuyorf57azylgv3u",
+            "author": {
+                "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                "handle": "daniambiental.bsky.social",
+                "displayName": "daniambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-24T15:56:30.913Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-05T20:20:14.131Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Reflorestamento contribui para normalização do ecossistema e preservação da Mata Atlântica",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicec3ypxfyiws6lseunoudncyk6ig4j3svd2hpurfp5kk5kevvjiu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 723052
+                        },
+                        "title": "Parque Paleontológico de Itaboraí avança em recuperação ambiental com 65 mil mudas plantadas - Diário do Rio de Janeiro",
+                        "uri": "https://diariodorio.com/parque-paleontologico-de-itaborai-avanca-em-recuperacao-ambiental-com-65-mil-mudas-plantadas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://diariodorio.com/parque-paleontologico-de-itaborai-avanca-em-recuperacao-ambiental-com-65-mil-mudas-plantadas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 226,
+                            "byteStart": 195
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Parque Paleontológico de Itaboraí avança em recuperação ambiental com 65 mil mudas plantadas\nReflorestamento contribui para normalização do ecossistema e preservação da Mata Atlântica \ndiariodorio.com/parque-paleo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://diariodorio.com/parque-paleontologico-de-itaborai-avanca-em-recuperacao-ambiental-com-65-mil-mudas-plantadas/",
+                    "title": "Parque Paleontológico de Itaboraí avança em recuperação ambiental com 65 mil mudas plantadas - Diário do Rio de Janeiro",
+                    "description": "Reflorestamento contribui para normalização do ecossistema e preservação da Mata Atlântica",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreicec3ypxfyiws6lseunoudncyk6ig4j3svd2hpurfp5kk5kevvjiu@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 6,
+            "likeCount": 46,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-05T20:20:16.385Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mqs5d425rmdsljcti7mekr6j/app.bsky.feed.post/3l676hw7kp722",
+            "cid": "bafyreicqosepzxygrxebpco7smbnznervkwd2tqsbgpo2vemmi3hmcti2m",
+            "author": {
+                "did": "did:plc:mqs5d425rmdsljcti7mekr6j",
+                "handle": "fenixlucca.bsky.social",
+                "displayName": "Fênix Lucca 🚩🌟",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqs5d425rmdsljcti7mekr6j/bafkreicxp2gjgmiyivse4p6sc53bsmat7qxt6ylu6jatnfcic6hf4aax2u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:28:49.967Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T01:07:18.391Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Share petition · Proibir Pecuária no Pantanal do Mato Grosso · Change.org",
+                        "uri": "https://www.change.org/p/proibir-pecu%C3%A1ria-no-pantanal-do-mato-grosso/psf/share?source_location=combo_psf&psf_variant=combo&cbd_s=eyJleHBlcmltZW50TmFtZSI6InBzZl9jb21iby00OTAyMjI3NDMiLCJ2YXJpYW50Ijp7InZhcmlhbnROYW1lIjoiYTQiLCJkYXRhIjp7ImFtb3VudCI6NDAsImFtb3VudF9pZCI6ImE0In0sInB1bGxzIjo4MDYsInJld2FyZHMiOjUzNn0sInZhcmlhbnROYW1lIjoiYTQiLCJjb21ib0JhbmRpdEFtb3VudCI6NDAsImFtb3VudElkIjoiYTQifQ%3D%3D&share_intent=1"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.change.org/p/proibir-pecu%C3%A1ria-no-pantanal-do-mato-grosso/psf/share?source_location=combo_psf&psf_variant=combo&cbd_s=eyJleHBlcmltZW50TmFtZSI6InBzZl9jb21iby00OTAyMjI3NDMiLCJ2YXJpYW50Ijp7InZhcmlhbnROYW1lIjoiYTQiLCJkYXRhIjp7ImFtb3VudCI6NDAsImFtb3VudF9pZCI6ImE0In0sInB1bGxzIjo4MDYsInJld2FyZHMiOjUzNn0sInZhcmlhbnROYW1lIjoiYTQiLCJjb21ib0JhbmRpdEFtb3VudCI6NDAsImFtb3VudElkIjoiYTQifQ%3D%3D&share_intent=1"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 311,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Pantanal está ameaçado p expansão da pecuária  extensiva. O PL 561/22 libera a pecuária em Áreas d Preservação Permanente foi aprovado e é considerado um grande retrocesso. Precisamos agir p proteger esse ecossistema vital e preservar a fauna e flora únicas da região\nwww.change.org/p/proibir-pe..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.change.org/p/proibir-pecu%C3%A1ria-no-pantanal-do-mato-grosso/psf/share?source_location=combo_psf&psf_variant=combo&cbd_s=eyJleHBlcmltZW50TmFtZSI6InBzZl9jb21iby00OTAyMjI3NDMiLCJ2YXJpYW50Ijp7InZhcmlhbnROYW1lIjoiYTQiLCJkYXRhIjp7ImFtb3VudCI6NDAsImFtb3VudF9pZCI6ImE0In0sInB1bGxzIjo4MDYsInJld2FyZHMiOjUzNn0sInZhcmlhbnROYW1lIjoiYTQiLCJjb21ib0JhbmRpdEFtb3VudCI6NDAsImFtb3VudElkIjoiYTQifQ%3D%3D&share_intent=1",
+                    "title": "Share petition · Proibir Pecuária no Pantanal do Mato Grosso · Change.org",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T01:07:18.391Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7f3cpfwlq74mdarkr5jmocjm/app.bsky.feed.post/3l56ta67tst2y",
+            "cid": "bafyreibypu7w56bvx26awe7tlbpwn5kqblfkl7axgsxufirpx54erjko34",
+            "author": {
+                "did": "did:plc:7f3cpfwlq74mdarkr5jmocjm",
+                "handle": "rmonologo.bsky.social",
+                "displayName": "peixe",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7f3cpfwlq74mdarkr5jmocjm/bafkreifkvdn25yh3yzocdtrwlguhauw6lslsptlvjj6mu3g7kzdzybkr24@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:21:57.318Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-28T04:20:55.281Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihptx2qrf7mabpqycwfi3ooy76yt55gtg5qj3rry3mjbt3nhxettm",
+                        "uri": "at://did:plc:7f3cpfwlq74mdarkr5jmocjm/app.bsky.feed.post/3l56svxtp5j2d"
+                    },
+                    "root": {
+                        "cid": "bafyreihptx2qrf7mabpqycwfi3ooy76yt55gtg5qj3rry3mjbt3nhxettm",
+                        "uri": "at://did:plc:7f3cpfwlq74mdarkr5jmocjm/app.bsky.feed.post/3l56svxtp5j2d"
+                    }
+                },
+                "text": "e tudo isso so serviu pra mostrar mais ainda a importância dos abutres pra todo o ecossistema e mesmo assim a especie continua diminuindo sem grandes leis de preservação"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-28T04:20:55.281Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6jarik64y2bfdhklksaxuod7/app.bsky.feed.post/3l4rqfsm6et25",
+            "cid": "bafyreihz3qucdpvwqpoboev3bsfypexb4rtptj3s7mllgq7lxfg5cxu5ku",
+            "author": {
+                "did": "did:plc:6jarik64y2bfdhklksaxuod7",
+                "handle": "victtorbrilhante.bsky.social",
+                "displayName": "Ativista de Varanda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6jarik64y2bfdhklksaxuod7/bafkreicapxhqabc2iqanu4iouwdioxbse6ec74xkqn7jlfgnjpv3yrang4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T01:58:47.220Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T23:25:46.658Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 3840,
+                        "width": 2160
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2358628
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:a5o5pa6imrd52s627zq63zgz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 272,
+                            "byteStart": 260
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os incêndios do Ecossistema Amazônico precisam ser CRIMINALIZADOS INTERNACIONALMENTE, precisamos que os outros países ajudem e pressionem os representantes locais, precisamos falar sobre AMAZÔNIA LEGAL! \n\nA preservação  precisa ser conjunta e urgente! \n\n@lula.com.br @marinasilva.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A6jarik64y2bfdhklksaxuod7/bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6jarik64y2bfdhklksaxuod7/bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 3840,
+                    "width": 2160
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T23:25:46.658Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,1803 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:aubdtjnudu2vzqfmri6q64bo/app.bsky.feed.post/3laezhvzul62h",
+            "cid": "bafyreiev5abqdrf43t73puecildyehbvuuphsbg6sdqq3hblpp3vw3a5lm",
+            "author": {
+                "did": "did:plc:aubdtjnudu2vzqfmri6q64bo",
+                "handle": "jardimbotanicorj.bsky.social",
+                "displayName": "Jardim Botânico do RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreihkijccud2k6nggzscaunyis4mxnvzbe4lbjparkd5hknho6m6vma@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:58:05.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T19:44:10.375Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1800,
+                                "width": 1440
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 416967
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.gov.br/jbrj/pt-br/assuntos/noticias/jardim-botanico-do-rio-promove-semana-de-atividades-sobre-o-pantanal-a-partir-desta-sexta-8-11"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 251,
+                            "byteStart": 225
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nesta sexta-feira, o JBRJ realiza a visita guiada à Trilha Pantanal. Durante o passeio, poderão ser observadas 15 espécies do bioma, como pau-formiga (Triplaris americana), ipê-do-cerrado (Tabebuia aurea), dentre outras. www.gov.br/jbrj/pt-br/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1800,
+                            "width": 1440
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T19:44:12.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3la7jmvkhmw2k",
+            "cid": "bafyreiggn3hec5j2ig642dskr2pnkbkthpfkyi7hq45oi4sbn3pxrsgxpi",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-05T15:17:19.569Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Nas lagoas de água salgada do Pantanal, conhecidas popularmente como salinas, entre os poucos seres vivos que sobrevivem à alta alcalinidade da água estão os microrganismos, em especial as microscópic...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicblw2mwlq7qy4jxo2fniueqtmadvu4o7kzigusewtecvbe6rvc2i"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 540938
+                        },
+                        "title": "Mudança do clima afeta a vida microscópica em lagoas do Pantanal | Florestal Brasil",
+                        "uri": "https://florestalbrasil.com/mudanca-do-clima-afeta-a-vida-microscopica-em-lagoas-do-pantanal/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://florestalbrasil.com/mudanca-do-clima-afeta-a-vida-microscopica-em-lagoas-do-pantanal/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 246,
+                            "byteStart": 211
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅ Um estudo publicado na revista Acta Limnologica Brasiliensia mostrou que o aumento de temperatura diminui a reprodução de duas espécies de cianobactérias que vivem em lagoas salinas do Pantanal…\n\n🔗 florestalbrasil.com/mudanca-do-c..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://florestalbrasil.com/mudanca-do-clima-afeta-a-vida-microscopica-em-lagoas-do-pantanal/",
+                    "title": "Mudança do clima afeta a vida microscópica em lagoas do Pantanal | Florestal Brasil",
+                    "description": "Nas lagoas de água salgada do Pantanal, conhecidas popularmente como salinas, entre os poucos seres vivos que sobrevivem à alta alcalinidade da água estão os microrganismos, em especial as microscópic...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreicblw2mwlq7qy4jxo2fniueqtmadvu4o7kzigusewtecvbe6rvc2i@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-05T15:17:20.584Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l7ehlmsp6e26",
+            "cid": "bafyreidmh6hbbyfdmb7cbgxohgg4yewrzzejolsuaro3qbu7soywb57gvm",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-25T20:58:56.036Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicjt7vld3ml76mocrkmyedpna5gum55w2wz6zdxcbmxr6rltzbboi",
+                        "uri": "at://did:plc:m26hctuk66nh3z6trfmttlp4/app.bsky.feed.post/3l7ehafrovn2w"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Essa mesma região da Serra do Amolar já havia sido atingida pelos incêndios que queimaram quase 30% da vegetação do Pantanal, em 2020, e mataram 17 milhões de animais. Desde então, ações de recuperação estavam sendo desenvolvidas, como o plantio de mais de 25 mil mudas de espécies nativas.\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:m26hctuk66nh3z6trfmttlp4/app.bsky.feed.post/3l7ehafrovn2w",
+                    "cid": "bafyreicjt7vld3ml76mocrkmyedpna5gum55w2wz6zdxcbmxr6rltzbboi",
+                    "author": {
+                        "did": "did:plc:m26hctuk66nh3z6trfmttlp4",
+                        "handle": "conexaoplaneta.bsky.social",
+                        "displayName": "Conexão Planeta ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreidv7vbc3n6tvhneve2ybtbqeakcojy5bwqyliwpkihtx5adyit5fq@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-01T13:10:15.003Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-25T20:52:39.320Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Um incêndio de grandes proporções atingiu a Reserva Particular de Patrimônio Natural Acurizal, na Serra do Amolar, no Mato Grosso do Sul. Os ventos de 20 km/h e temperaturas superiores a 40°C fizeram ...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreihb55l5udaqtyvl5bxoonkebrdukzi7o527apk4csy2ynzs72z6di"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 367897
+                                },
+                                "title": "Área onde foram plantadas mais de 25 mil mudas após incêndios de 2020 volta a pegar fogo no Pantanal",
+                                "uri": "https://conexaoplaneta.com.br/blog/area-onde-foram-plantadas-mais-de-25-mil-mudas-apos-incendios-de-2020-volta-a-pegar-fogo-no-pantanal/"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "incêndio"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 13,
+                                    "byteStart": 3
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "SerraDoAmolar"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 117,
+                                    "byteStart": 103
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "temperaturas"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 176,
+                                    "byteStart": 163
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "chamas"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 222,
+                                    "byteStart": 215
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "fogo"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 263,
+                                    "byteStart": 258
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Um #incêndio de grandes proporções atingiu a Reserva Particular de Patrimônio Natural Acurizal, na #SerraDoAmolar, no Mato Grosso do Sul. Ventos de 20 km/h e #temperaturas superiores a 40°C fizeram com que as #chamas avançassem, formando uma linha de #fogo com extensão de 11 km"
+                    },
+                    "labels": [],
+                    "likeCount": 5,
+                    "replyCount": 0,
+                    "repostCount": 1,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-10-25T20:52:39.320Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://conexaoplaneta.com.br/blog/area-onde-foram-plantadas-mais-de-25-mil-mudas-apos-incendios-de-2020-volta-a-pegar-fogo-no-pantanal/",
+                                "title": "Área onde foram plantadas mais de 25 mil mudas após incêndios de 2020 volta a pegar fogo no Pantanal",
+                                "description": "Um incêndio de grandes proporções atingiu a Reserva Particular de Patrimônio Natural Acurizal, na Serra do Amolar, no Mato Grosso do Sul. Os ventos de 20 km/h e temperaturas superiores a 40°C fizeram ...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreihb55l5udaqtyvl5bxoonkebrdukzi7o527apk4csy2ynzs72z6di@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-25T20:58:56.036Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jem7ddlrlbzwlw2lmnup6etj/app.bsky.feed.post/3l6ggi34xwt2b",
+            "cid": "bafyreiauder5ltotfzupisaq3q2mvi6tayccx4syoy67wlp3lehbwhe33m",
+            "author": {
+                "did": "did:plc:jem7ddlrlbzwlw2lmnup6etj",
+                "handle": "renildoborges.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreifujajvcdhnmbxwdnzw2luzviy2fuodljhwzib2xf4yc5xu65ahcm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T19:15:34.974Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T22:19:11.707Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Desesperados por água, aves, insetos, mamíferos e grandes predadores como a onça-pintada têm utilizado os bebedouros instalados na Transpantaneira, no Pantanal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie5lwk5ffji3pzpqcuq4p6y427ea4swmqkckqerpz6xloy37r4czq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 495035
+                        },
+                        "title": "No Pantanal, GRAD Brasil instala cochos de água e atende mais de 800 animais em 8 dias",
+                        "uri": "https://conexaoplaneta.com.br/blog/no-pantanal-grad-brasil-instala-pontos-de-agua-e-atende-mais-de-800-animais-em-apenas-8-dias/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://conexaoplaneta.com.br/blog/no-pantanal-grad-brasil-instala-pontos-de-agua-e-atende-mais-de-800-animais-em-apenas-8-dias/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 260
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A maior planície alagada do planeta, o Pantanal, enfrenta uma das piores secas de sua história. As consequências são devastadoras para a fauna e a flora locais, resultando em grande número de espécies à beira da extinção e um ecossistema em colapso. \nconexaoplaneta.com.br/blog/no-pant..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://conexaoplaneta.com.br/blog/no-pantanal-grad-brasil-instala-pontos-de-agua-e-atende-mais-de-800-animais-em-apenas-8-dias/",
+                    "title": "No Pantanal, GRAD Brasil instala cochos de água e atende mais de 800 animais em 8 dias",
+                    "description": "Desesperados por água, aves, insetos, mamíferos e grandes predadores como a onça-pintada têm utilizado os bebedouros instalados na Transpantaneira, no Pantanal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreie5lwk5ffji3pzpqcuq4p6y427ea4swmqkckqerpz6xloy37r4czq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T22:19:11.707Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:75x7nyyuja56h274csf4gnhi/app.bsky.feed.post/3l4yrl72jh22u",
+            "cid": "bafyreihmy43pptkcmthap72d3awvhlazjatrgkeu7ysy6yamcvxxkxinxe",
+            "author": {
+                "did": "did:plc:75x7nyyuja56h274csf4gnhi",
+                "handle": "gabisrm.bsky.social",
+                "displayName": "Gabii⁴⁴⁶³",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:75x7nyyuja56h274csf4gnhi/bafkreihtykwhn5gzrzxqbrsx7ilcmgrzdornnb7qs26epyiwexnaovwdjq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T21:55:05.048Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T18:35:18.320Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "É que o Cerrado já é preparado para isso amores! O fogo natural do Cerrado ocorre e é fundamental para algumas espécies.\n\nFogo não é comum para Pantanal e Amazônia!!\n\nMAS protejam o cerrado, as queimadas criminosas sim são prejudiciais para esse bioma, que está sumindo cada vez mais"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v",
+                    "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                    "author": {
+                        "did": "did:plc:2rjdcvh2znplhwwoijelhxxs",
+                        "handle": "updatecharts.com.br",
+                        "displayName": "UpdateCharts",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreifo6k36nepvqj42jm5eah3n2mhof6fhq24krs5fttkhxthe7sefti@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-03-02T12:13:25.242Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-25T15:46:23.031Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 722215
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 903484
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Flores nascem em meio as cinzas de incêndio e mostram a força do Cerrado."
+                    },
+                    "labels": [],
+                    "likeCount": 24062,
+                    "replyCount": 189,
+                    "repostCount": 1840,
+                    "quoteCount": 447,
+                    "indexedAt": "2024-09-25T15:46:23.031Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T18:35:18.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d42zo3yx7s2fvy6vnbl6iiad/app.bsky.feed.post/3l4ypdqzhxd2e",
+            "cid": "bafyreid2ew4vt3oggzc2o4ayjsdpf3tnoai6ed3dmgqxph5hys42vbr7we",
+            "author": {
+                "did": "did:plc:d42zo3yx7s2fvy6vnbl6iiad",
+                "handle": "alexandrexyz.bsky.social",
+                "displayName": "Alexandre do Blue 💙 sky ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d42zo3yx7s2fvy6vnbl6iiad/bafkreihn5ztcqepibyelfjyalxwetwmxefd7iccbj5oj3lvc7dsafjvzku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-23T01:58:45.870Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T17:55:23.328Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihdh4nmdabgrnkcazvj2wh7odibzlxh7bizkuarluzt7znfoffcee",
+                        "uri": "at://did:plc:gd4kajxatkpvd4rh4ptzvayc/app.bsky.feed.post/3l4ymorqtpk2e"
+                    },
+                    "root": {
+                        "cid": "bafyreihdh4nmdabgrnkcazvj2wh7odibzlxh7bizkuarluzt7znfoffcee",
+                        "uri": "at://did:plc:gd4kajxatkpvd4rh4ptzvayc/app.bsky.feed.post/3l4ymorqtpk2e"
+                    }
+                },
+                "text": "O Pantanal está com menos de 1/3 da área que possuía nos anos 90\nO rio Amazonas está secando cada vez mais \nÉ \"benéfico\" para extinguir espécies empobrecendo a biodiversidade e esquentar o planeta"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T17:55:22.617Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:l4t6ovqctwpp64d2vgiypj6w/app.bsky.feed.post/3l4wfuoce7p2i",
+            "cid": "bafyreiay6ucbmijbwrkv23yb3mdanwlsc44ygaqb4wii2xo5gju3loo554",
+            "author": {
+                "did": "did:plc:l4t6ovqctwpp64d2vgiypj6w",
+                "handle": "heldias.bsky.social",
+                "displayName": "Vira à Esquerda Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreietyuysrhucefhu5pqyjkxsdwbgv55t6sjsnplu6rf34nohemd2pu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:42:03.301Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T20:00:32.709Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Com a alteração dos dispositivos da legislação ambiental estadual de 2008, a Lei 12.653/2022 tornou permitida a pecuária extensiva (ou seja, a pasto), em áreas alagadas e em reserva legal com pastagem...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidfxs2676ww2z4cqif3why4dvf5qpmexxiudwlp4gfm54saqw2pca"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 775709
+                        },
+                        "title": "Pecuaristas comemoram lei que permite atividade em áreas alagadas do Pantanal",
+                        "uri": "https://matogrossoeconomico.com.br/agronegocio-mato-grosso/pecuaristas-comemoram-lei-que-permite-atividade-em-areas-alagadas-do-pantanal/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🔥#SosPantanal\n\nOs Pecuristas comemoram que a nova lei do MT permite o cultivo o plantio de pastagens cultivadas em até 40% da área total nas planícies alagáveis do Pantanal. Além de expandir as opções p/a renovação de pastagens, anteriormente limitadas a algumas espécies específicas de gramíneas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://matogrossoeconomico.com.br/agronegocio-mato-grosso/pecuaristas-comemoram-lei-que-permite-atividade-em-areas-alagadas-do-pantanal/",
+                    "title": "Pecuaristas comemoram lei que permite atividade em áreas alagadas do Pantanal",
+                    "description": "Com a alteração dos dispositivos da legislação ambiental estadual de 2008, a Lei 12.653/2022 tornou permitida a pecuária extensiva (ou seja, a pasto), em áreas alagadas e em reserva legal com pastagem...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l4t6ovqctwpp64d2vgiypj6w/bafkreidfxs2676ww2z4cqif3why4dvf5qpmexxiudwlp4gfm54saqw2pca@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 9,
+            "likeCount": 20,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-24T20:00:32.709Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gqwmbhb2h4tgow6tbzbmxbpc/app.bsky.feed.post/3l4tau6tkj224",
+            "cid": "bafyreic7xhptnishkcbe2abzmn3dxtlazi7tx2kvgdp4ky5zdeovnylbce",
+            "author": {
+                "did": "did:plc:gqwmbhb2h4tgow6tbzbmxbpc",
+                "handle": "jmf7.bsky.social",
+                "displayName": "Josie_Melo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gqwmbhb2h4tgow6tbzbmxbpc/bafkreid454nrqopzbq3bkfliqjwh7ky5ev7fsx3ffuzqy7zxihf7gbdpbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:48:21.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T13:52:48.872Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1676,
+                                "width": 1290
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiclijr5wrp5sinwfkenrpwes6jrnqzt3qvl7d64bgyw6hndanxad4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 879307
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:guk5hlrju26na4dlojhof2t6"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Santuários de animais são invadidos por incêndios 🔥que matam e afugentam espécies. Carbonizados ou afugentados pelo fogo, os animais são vítimas das queimadas.\nNo Pantanal, onças 🐆 e araras-azuis viram seus santuários se transformarem em cinzas, por \nLucas Altino cc @dharazim.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gqwmbhb2h4tgow6tbzbmxbpc/bafkreiclijr5wrp5sinwfkenrpwes6jrnqzt3qvl7d64bgyw6hndanxad4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gqwmbhb2h4tgow6tbzbmxbpc/bafkreiclijr5wrp5sinwfkenrpwes6jrnqzt3qvl7d64bgyw6hndanxad4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1676,
+                            "width": 1290
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 4,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T13:52:48.872Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mfynrccm27",
+            "cid": "bafyreihekuxuwf4glrbf3wfos5vphang2mlapo4emohcvmfdor6z747twq",
+            "author": {
+                "did": "did:plc:b5yori4l3kj65tsrlw2awmaj",
+                "handle": "legiaoescamada.bsky.social",
+                "displayName": "Legião Escamada 🐍🦎🐊🐢 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5yori4l3kj65tsrlw2awmaj/bafkreif2qbivyhu6ek3juwthvlaodpwg6o2cwmi4i2bathzkmr3ke3qzmm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-08T00:50:59.552Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T20:36:06.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreie3hcrkiqk63kfkh5dfyhqpumdqrzzrlhcrtffxuwuqyq2xov5ury",
+                        "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mew3ep2j2g"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O mais legal é que logo após esse momento começamos a discutir o efeito Pantanal Pebas na formação da floresta amazônica, e como as espécies se adaptaram a todo aquele ambiente aquático. \nEssa troca de conhecimentos é muito foda !!!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mew3ep2j2g",
+                    "cid": "bafyreie3hcrkiqk63kfkh5dfyhqpumdqrzzrlhcrtffxuwuqyq2xov5ury",
+                    "author": {
+                        "did": "did:plc:b5yori4l3kj65tsrlw2awmaj",
+                        "handle": "legiaoescamada.bsky.social",
+                        "displayName": "Legião Escamada 🐍🦎🐊🐢 ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5yori4l3kj65tsrlw2awmaj/bafkreif2qbivyhu6ek3juwthvlaodpwg6o2cwmi4i2bathzkmr3ke3qzmm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-08T00:50:59.552Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-20T20:16:48.325Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 850,
+                                "width": 478
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 1912939
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Aleatoriedades de laboratório de biologia:\nEstava no laboratório organizando minha planilhas, e do nada chega meu amigo com um didgeridoo, instrumento de sopro australiano de origem aborígene.\nTive que arriscar tocar pouco"
+                    },
+                    "labels": [],
+                    "likeCount": 28,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-09-20T20:16:48.325Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ab5yori4l3kj65tsrlw2awmaj/bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ab5yori4l3kj65tsrlw2awmaj/bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 850,
+                                "width": 478
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T20:36:06.966Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6fzo2462h",
+            "cid": "bafyreifknypomajt33r33lkepmztp5o2fckisdzprufqgq755feulrevpm",
+            "author": {
+                "did": "did:plc:nvpuoxauer4fkrtwpoj22azp",
+                "handle": "lucianagenro.bsky.social",
+                "displayName": "Luciana Genro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvpuoxauer4fkrtwpoj22azp/bafkreicvwnbx6x4bcu6coefsx43vkesigoabmxvn7c2fhk7oi5qod5zzxa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:19:32.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T18:37:09.313Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:n76735vzb2jrbmcwtywzf6xn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicpox5hmpmbapqwgdai6x5nit3f66hgc5bnjygpgabueljpvlk75i",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6dxfnxo2j"
+                    },
+                    "root": {
+                        "cid": "bafyreibotam64kocm7ywyw5hnixuntmnekn6jduuk3nul7bb745npfu6qu",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6digy6o2h"
+                    }
+                },
+                "text": "Precisamos mudar o sistema econômico predatório em que vivemos, para garantir um futuro para o planeta e para todas as espécies. Parabéns às equipes do Ibama, do Grupo de Resgate Técnico Animal Cerrado Pantanal e do do Centro de Reabilitação de Animais Silvestres! Via @cnnbrasil.com.br.web.brid.gy."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T18:37:09.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rdf3bd3bo3lkpozyaavkgezy/app.bsky.feed.post/3l44s2d7efp2t",
+            "cid": "bafyreib3ydioh42mpv7rjv5mfxa66w2a5ke62iullliu3dhcy6l34pbhtu",
+            "author": {
+                "did": "did:plc:rdf3bd3bo3lkpozyaavkgezy",
+                "handle": "ronnmarckes.bsky.social",
+                "displayName": "Ronn Marckes ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rdf3bd3bo3lkpozyaavkgezy/bafkreieg4feg5ttc327retoxjxygflygfz57aahkcqcfh3tb7nqo4dzjla@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T14:25:23.628Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T15:29:12.152Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreihhwmdsga4vxwujhcptxtcfzocbg7ht4igkj4wgrciv6glx5corj4",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l43enq7j3o2i"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "E quem paga com a fauna e flora e espécies animais é o Pantanal... Lastimável"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l43enq7j3o2i",
+                    "cid": "bafyreihhwmdsga4vxwujhcptxtcfzocbg7ht4igkj4wgrciv6glx5corj4",
+                    "author": {
+                        "did": "did:plc:iqcv4a6wqbxv3fl5uuwupkpd",
+                        "handle": "fiscaldoibama.bsky.social",
+                        "displayName": "O FISCAL do IBAMA 🌎",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreia7ilqqp4xju6p5shcqhqdecui2i7gigldcja43kqbty7zvbewbsm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-20T01:09:15.984Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-14T01:56:52.192Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 1196,
+                                "width": 720
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihmrze455pu35vnwhukyid5hjanttce54mqf5wu3me5vrxabyaphu"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 2640193
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Brasil, 2024.\n\nO AGRO tá destruindo o país."
+                    },
+                    "labels": [],
+                    "likeCount": 4357,
+                    "replyCount": 98,
+                    "repostCount": 748,
+                    "quoteCount": 67,
+                    "indexedAt": "2024-09-14T01:56:52.192Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreihmrze455pu35vnwhukyid5hjanttce54mqf5wu3me5vrxabyaphu",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aiqcv4a6wqbxv3fl5uuwupkpd/bafkreihmrze455pu35vnwhukyid5hjanttce54mqf5wu3me5vrxabyaphu/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aiqcv4a6wqbxv3fl5uuwupkpd/bafkreihmrze455pu35vnwhukyid5hjanttce54mqf5wu3me5vrxabyaphu/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 1196,
+                                "width": 720
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T15:29:12.152Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pf457n3y75ecal7ydtzgdgal/app.bsky.feed.post/3l43gg2srff2u",
+            "cid": "bafyreihpsny7pv6a7qvtgotnrqzazv3drfwq3p4h2nkjj2rqisbfaej36q",
+            "author": {
+                "did": "did:plc:pf457n3y75ecal7ydtzgdgal",
+                "handle": "ruanaway.bsky.social",
+                "displayName": "Melkita'Ulamun ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pf457n3y75ecal7ydtzgdgal/bafkreid77iz5zkwmiencraq7y3f6pvpq4ulfosycklso5mxcx277ygparq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:33:11.724Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T02:28:23.520Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "gente, lembre-se que o fogo não está destruindo só a Amazônia, mas o PANTANAL e o CERRADO. O Cerrado é o Bioma mais antigo do Brasil e o berço das águas. O Pantanal apesar de pequeno, é a maior planície alagável do mundo e com muita diversidade de espécies."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T02:28:23.520Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:knvm2jrg72ltkjcnyi363bj3/app.bsky.feed.post/3l42mvhl5fn2f",
+            "cid": "bafyreid2a6vewrhhgmofvieucz2i5jaeuswr3iysq2gw2snfv2g4yb7xqy",
+            "author": {
+                "did": "did:plc:knvm2jrg72ltkjcnyi363bj3",
+                "handle": "helisa.bsky.social",
+                "displayName": "Helisa🏹",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:knvm2jrg72ltkjcnyi363bj3/bafkreias3p2ktqfsvugs6ebwwiyz7zovy3igblljh7yqvgvxezjgbgdjye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T01:01:30.221Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T18:51:42.239Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A AMAZÔNIA, o CERRADO , a MATA ATLÂNTICA , o PANTANAL gente são biomas inteiros sério eu não tô conseguindo pensar em outras coisa e o pior estão deixando queimar ,como pode? O tanto de espécies de plantas animais estão morrendo tbm ,  e o pior ficamos de mãos atadas e sem ter muito o q fazer"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T18:51:42.239Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3ennwlsf4zaz4kgnzcsy3sys/app.bsky.feed.post/3l42gsbryp422",
+            "cid": "bafyreigbl4fewwjg6cfk3el7uytfxljuwf7tiyybqlfqudqbkwe23kwxly",
+            "author": {
+                "did": "did:plc:3ennwlsf4zaz4kgnzcsy3sys",
+                "handle": "myeonclark.bsky.social",
+                "displayName": "tovito. ✿",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ennwlsf4zaz4kgnzcsy3sys/bafkreie7xgxe5knjfmudqekot5wgdeqvduq3rqgjrmpy7jgzlomq6uc5ai@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T14:44:11.432Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T17:08:37.783Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihfjgyrsat6hrppng3n6yr5f7mxigjfklune3hk67x53heug2xyce",
+                        "uri": "at://did:plc:3ennwlsf4zaz4kgnzcsy3sys/app.bsky.feed.post/3l42gmxcohu2y"
+                    },
+                    "root": {
+                        "cid": "bafyreihfjgyrsat6hrppng3n6yr5f7mxigjfklune3hk67x53heug2xyce",
+                        "uri": "at://did:plc:3ennwlsf4zaz4kgnzcsy3sys/app.bsky.feed.post/3l42gmxcohu2y"
+                    }
+                },
+                "text": "a gente também tem muitas espécies em risco de extinção graças aos latifúndios do agro e o número de animais mortos todo ano com as queimas é tenebroso, o slogan da gestão é \"o estado do pantanal\" mas ninguém lá dentro faz algo significativo por ele"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T17:02:34.020Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wvwofghfa6wi34co7diyzhal/app.bsky.feed.post/3l3zwads3sq2s",
+            "cid": "bafyreifdkssyehdytvxn4uwsnhdln4cqvg3ewvqtbvvfgfi5d5tauykilq",
+            "author": {
+                "did": "did:plc:wvwofghfa6wi34co7diyzhal",
+                "handle": "hecodex.bsky.social",
+                "displayName": "Tricholoma matsutake",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wvwofghfa6wi34co7diyzhal/bafkreids22lk7zll7fbukcfr4qywy5opdfakcy5lbflameioi5olxaxg7a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wvwofghfa6wi34co7diyzhal",
+                        "uri": "at://did:plc:wvwofghfa6wi34co7diyzhal/app.bsky.actor.profile/self",
+                        "cid": "bafyreiebn7jmouxtdpidj6zqdn5ufn7fgqqc2xrsz66wl2265yjcsedefy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-08T13:11:10.572Z"
+                    }
+                ],
+                "createdAt": "2024-09-08T13:11:12.525Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T12:03:24.890Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid2gbpiv7cnh5tkfxopljosmvw3xlx4xsuypftp2qynbqej65m6zm",
+                        "uri": "at://did:plc:wvwofghfa6wi34co7diyzhal/app.bsky.feed.post/3l3zw36b7lo2j"
+                    },
+                    "root": {
+                        "cid": "bafyreihd5nyq76mbe26ekg3s7dkgnrhsdfrhxorlw5wa3osga6iig2yyye",
+                        "uri": "at://did:plc:wvwofghfa6wi34co7diyzhal/app.bsky.feed.post/3l3zvuo3knz2k"
+                    }
+                },
+                "text": "Tem horas q o noticiário climático parece mais a transmissão de um jogo de basquete: \"a queimada no Pantanal deste ano atingiu seu quinto triplo-duplo da temporada, com céu de fuligem, extinção de espécies e perda de nascentes! Não deixem de fazer suas apostas para a próxima temporada de incêndios!\""
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T12:03:24.890Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a6ypfhfsk55wxd36pvvcqxep/app.bsky.feed.post/3l3uynuzdqk2p",
+            "cid": "bafyreiauvy5uszyxdoqxikknym7dtk3aahcggyvnr57l2t2zcqs6y2lq4q",
+            "author": {
+                "did": "did:plc:a6ypfhfsk55wxd36pvvcqxep",
+                "handle": "oliviaveronese.bsky.social",
+                "displayName": "Olivia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a6ypfhfsk55wxd36pvvcqxep/bafkreihueqdjj3cp5cseecrxsza3mgy5tsx4eksveab7aba3okpcch4c3y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-18T12:50:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T13:06:14.117Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibgtfkn6vf7moaigrnstoxoo6abdohumj7m3vipo4r37hwxragjpq",
+                        "uri": "at://did:plc:tug5yaaq3ljyjvfuenrahsmr/app.bsky.feed.post/3l3ux6gkud52t"
+                    },
+                    "root": {
+                        "cid": "bafyreibgtfkn6vf7moaigrnstoxoo6abdohumj7m3vipo4r37hwxragjpq",
+                        "uri": "at://did:plc:tug5yaaq3ljyjvfuenrahsmr/app.bsky.feed.post/3l3ux6gkud52t"
+                    }
+                },
+                "text": "Os rios de MS estão secando. O Pantanal queimado perdendo diversas vidas, várias espécies que já estavam ameaçadas hoje sofrem ainda mais.\nE não vemos uma atitude dos governos estaduais ou municipais. Todos só estão voltados às eleições. ☹️\nEstamos sozinhos e continua queimando."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-11T13:06:14.117Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yoh2dq3o2uhgxko7aqd3osre/app.bsky.feed.post/3l3ec5dgqgs2c",
+            "cid": "bafyreiht2yydzodouy5mkjwdqog3jyn32rvf6zvbquk74lq54hxsyqxuni",
+            "author": {
+                "did": "did:plc:yoh2dq3o2uhgxko7aqd3osre",
+                "handle": "filosofanny.bsky.social",
+                "displayName": "teff",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yoh2dq3o2uhgxko7aqd3osre/bafkreifefnb7ab3sdhrgzq2fk7z4njmbtjbdnzvyo2cwep7jo5munrfbp4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T12:30:47.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T21:40:41.057Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A multa para as empresas responsáveis pelo incêndio no Pantanal deveria ser convertida em reflorestamento, não pagar nenhum valor em dinheiro, isso só enche o bolso do governo enquanto o mundo se acaba mais\nprestar atendimento aos animais que se feriram e cuidar para a reprodução de novas espécies"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T21:40:41.057Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rdf3bd3bo3lkpozyaavkgezy/app.bsky.feed.post/3l3dr67bts72r",
+            "cid": "bafyreicyvlk5kfccj4mjelg7nbc2a2r4opqhxrndftw5yoqkduztgnb334",
+            "author": {
+                "did": "did:plc:rdf3bd3bo3lkpozyaavkgezy",
+                "handle": "ronnmarckes.bsky.social",
+                "displayName": "Ronn Marckes ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rdf3bd3bo3lkpozyaavkgezy/bafkreieg4feg5ttc327retoxjxygflygfz57aahkcqcfh3tb7nqo4dzjla@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T14:25:23.628Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:36:55.563Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Mídia NINJA",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiapo3axm3mlsd2cd2azwwv4qsib2bni6gbqj4vikjqzewemhfsaee"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 786591
+                        },
+                        "title": "💢Ibama multa empresas em mais de R$ 100Mi por incêndios devastador no Pantanal💢",
+                        "uri": "https://youtube.com/shorts/2cEBWHgAroQ?si=mTU_Nw-rqNlmdsCc"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "E quem paga com a fauna e flora e espécies animais é o Pantanal... Lastimável"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtube.com/shorts/2cEBWHgAroQ?si=mTU_Nw-rqNlmdsCc",
+                    "title": "💢Ibama multa empresas em mais de R$ 100Mi por incêndios devastador no Pantanal💢",
+                    "description": "YouTube video by Mídia NINJA",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rdf3bd3bo3lkpozyaavkgezy/bafkreiapo3axm3mlsd2cd2azwwv4qsib2bni6gbqj4vikjqzewemhfsaee@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 17,
+            "likeCount": 39,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:36:55.563Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3kz7q7cyvnw2w",
+            "cid": "bafyreiat2jgqmqw5ogrijspqati7z25ardqazytuv6cjwq75vti6pcb76e",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-08T15:18:36.847Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Tatu-canastra é uma das espécies mais suscetíveis aos danos causados pelo fogo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiao2p5j4m5xhibsqcgabnixn3sgyq5roeg7qvl3rym2uw5chrvsti"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 821541
+                        },
+                        "title": "Onças-pintadas morrem por conta do fogo no Pantanal | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/oncas-pintadas-morrem-por-conta-do-fogo-no-pantanal/407432"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 159,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 172,
+                            "byteStart": 160
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/oncas-pintadas-morrem-por-conta-do-fogo-no-pantanal/407432"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 213,
+                            "byteStart": 175
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Onças-pintadas morrem por conta do fogo no Pantanal\nTatu-canastra é uma das espécies mais suscetíveis aos danos causados pelo fogo\n\n#UltimasNoticias #CapitalNews \n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/oncas-pintadas-morrem-por-conta-do-fogo-no-pantanal/407432",
+                    "title": "Onças-pintadas morrem por conta do fogo no Pantanal | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Tatu-canastra é uma das espécies mais suscetíveis aos danos causados pelo fogo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreiao2p5j4m5xhibsqcgabnixn3sgyq5roeg7qvl3rym2uw5chrvsti@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-08T15:18:36.847Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ky6z6vqgps2w",
+            "cid": "bafyreigzudzlxvbhlh6moz4jm4wcxsg4nzazgz75skatlxibpbtxibt2we",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-26T15:01:37.089Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiakn7inwkmqjfhmbpthzqno2hwibibvxida6vrtbjxh5pe6l2xg7q",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ky6z52hla223"
+                    },
+                    "root": {
+                        "cid": "bafyreiakn7inwkmqjfhmbpthzqno2hwibibvxida6vrtbjxh5pe6l2xg7q",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3ky6z52hla223"
+                    }
+                },
+                "text": "Quando a gente vê que apesar da seca no Pantanal e da tragédia no Rio Grande do Sul,ainda há 28 projetos antiecológicos e anticlimáticos tramitando no Congresso, percebemos como é importante plantar árvores, e no nosso caso aqui, de espécies nativas da Mata Atlântica, dentro de corredores florestais"
+            },
+            "replyCount": 2,
+            "repostCount": 7,
+            "likeCount": 14,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-26T15:01:37.089Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kxj76s7bg72e",
+            "cid": "bafyreiggpzg2whngmk4tftnqt3yy2ksabklt62byr7njnyvrxwsswr2l7q",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-17T22:50:20.117110Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O Maciço do Urucum tornou-se abrigo de diversas espécies de primatas, como o macaco-prego, bugio-preto, sagui-de-rabo-preto, macaco-da-noite e o boca d’água. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie37hllkwwklstmk6vtlymcrcwl7ayiktafcixvvvrd7wuisqpoe4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 178758
+                        },
+                        "title": "Primatas e tecnologia: área de exploração de rochas é abrigo para espécies de macacos no Pantanal",
+                        "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/07/17/primatas-e-tecnologia-area-de-exploracao-de-rochas-e-abrigo-para-especies-de-macacos-no-pantanal.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Primatas e tecnologia: área de exploração de rochas é abrigo para espécies de macacos no Pantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2024/07/17/primatas-e-tecnologia-area-de-exploracao-de-rochas-e-abrigo-para-especies-de-macacos-no-pantanal.ghtml",
+                    "title": "Primatas e tecnologia: área de exploração de rochas é abrigo para espécies de macacos no Pantanal",
+                    "description": "O Maciço do Urucum tornou-se abrigo de diversas espécies de primatas, como o macaco-prego, bugio-preto, sagui-de-rabo-preto, macaco-da-noite e o boca d’água. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreie37hllkwwklstmk6vtlymcrcwl7ayiktafcixvvvrd7wuisqpoe4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-17T22:50:20.117Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7basl7ubtjeyh5pzsbevmurg/app.bsky.feed.post/3kweydbpfxa2r",
+            "cid": "bafyreignfuztvcymeurn6sbjmhezz7clyf6wyp3greu6m7h4mwt7oqcqia",
+            "author": {
+                "did": "did:plc:7basl7ubtjeyh5pzsbevmurg",
+                "handle": "walker.eco.br",
+                "displayName": "Walker Barros",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7basl7ubtjeyh5pzsbevmurg/bafkreiedg2wir6rna6jwes7k3knela7qu6aqkjh5ueqwnt647tsfla3454@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:7basl7ubtjeyh5pzsbevmurg",
+                        "uri": "at://did:plc:7basl7ubtjeyh5pzsbevmurg/app.bsky.actor.profile/self",
+                        "cid": "bafyreifyklgb6atqvt3phwunlsmf3prngdwijuuczqhsetb6uanjn4pbrq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2024-02-06T17:33:32.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-03T13:11:44.891Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pantanal em chamas, próximo do ponto de não retorno, a singularidade de nossa miséria. \n\nComo explicarão nossos filhos aos seus filhos que certas espécies não existem mais porque seus avós botaram fogo em um bioma inteiro?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-03T13:11:44.891Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kvs47bw6vs24",
+            "cid": "bafyreidsk2ssnqil5g3jko3knb2kt3e5oqy2j7ogaladfrcojp3ewpcgay",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-26T01:00:29.671908Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ao ver as chamas avançando sobre árvore onde estava um ninho de tuiuiú, eles a cercaram, puxaram a água do rio para apagar as chamas e defenderam o ninho de um dia para o outro.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif3lcu34xzfkrhvsplr6rzhu7u4f4wbxfs4novssgra3mqfyy6gyi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 130888
+                        },
+                        "title": "Em meio a incêndios, bombeiros conseguem salvar família de uma das espécies mais importantes do Pantanal ",
+                        "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/06/25/em-meio-a-incendios-bombeiros-conseguem-salvar-familia-de-uma-das-especies-mais-importantes-do-pantanal.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em meio a incêndios, bombeiros conseguem salvar família de uma das espécies mais importantes do Pantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/06/25/em-meio-a-incendios-bombeiros-conseguem-salvar-familia-de-uma-das-especies-mais-importantes-do-pantanal.ghtml",
+                    "title": "Em meio a incêndios, bombeiros conseguem salvar família de uma das espécies mais importantes do Pantanal ",
+                    "description": "Ao ver as chamas avançando sobre árvore onde estava um ninho de tuiuiú, eles a cercaram, puxaram a água do rio para apagar as chamas e defenderam o ninho de um dia para o outro.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreif3lcu34xzfkrhvsplr6rzhu7u4f4wbxfs4novssgra3mqfyy6gyi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-26T01:00:29.671Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3ks6dvaoskn2l",
+            "cid": "bafyreihiey4sgl6pljzp4rn5shzymhndoa6owtnttfoexv7dc6e6e773mq",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-11T00:09:12.926Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Peixes estavam no Aquário de Bonito, mas foram doados ao Bioparque",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihubmalnp6jgght3775ulej524jssz3ljm7zqw4dgjlcs3qtlj3oi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 571311
+                        },
+                        "title": "Bioparque Pantanal recebe novas espécies de peixes vindas de Bonito  | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/bioparque-pantanal-recebe-novas-especies-de-peixes-vindas-de-bonito/402969"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 145
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 174,
+                            "byteStart": 162
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/bioparque-pantanal-recebe-novas-especies-de-peixes-vindas-de-bonito/402969"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 176
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Bioparque Pantanal recebe novas espécies de peixes vindas de Bonito\nPeixes estavam no Aquário de Bonito, mas foram doados ao Bioparque\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/bioparque-pantanal-recebe-novas-especies-de-peixes-vindas-de-bonito/402969",
+                    "title": "Bioparque Pantanal recebe novas espécies de peixes vindas de Bonito  | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Peixes estavam no Aquário de Bonito, mas foram doados ao Bioparque",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreihubmalnp6jgght3775ulej524jssz3ljm7zqw4dgjlcs3qtlj3oi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-11T00:09:12.926Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l5lgf7225",
+            "cid": "bafyreiez6646ovq3l3azcxs2ulcmnoev3z5p32rfd5d46g3f6ao4lrv5kq",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-10T07:13:50.912Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie56mlkjjszmhtdmkjbntglt5e45uvva6am2xwxihpw64er4adtd4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l2usc5223"
+                    },
+                    "root": {
+                        "cid": "bafyreie56mlkjjszmhtdmkjbntglt5e45uvva6am2xwxihpw64er4adtd4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l2usc5223"
+                    }
+                },
+                "text": "-Amazônia: desmatamento, queimadas, contaminação de rios e nascentes, caça ilegal, invasão de espécies exóticas, atividades econômicas predatórias \n\n-Pantanal: o desmatamento, a mineração e a queimadas\n\n-Caatinga: desmatamento: primeira causa de degradação"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-10T07:13:50.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3kq7abiv3ph2w",
+            "cid": "bafyreidaklpxaevep4s2kgu6kf4ydxhigyjabao6e7qbnr4s5iah6vllg4",
+            "author": {
+                "did": "did:plc:mhebmnvi5li7s6hmw3s6c3mp",
+                "handle": "liliumazules.bsky.social",
+                "displayName": "Porã (Humanista)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiama644tvjophsoh6tg5vvdtydfdutdslmv6a5pt7d3spu56vugma@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T04:08:34.630Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T21:46:47.566Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 748,
+                                "width": 703
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiavxtixoldsalml3b7cxdxwuexqcpnehovpwhmfampfy36z5g7sku"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 363625
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌿 AGENTE LARANJA\n\nPecuarista usa agrotóxico e destrói área do Pantanal do tamanho da cidade de Campinas. E vai ficar por isso mesmo?\n\n🌿 Quando a legislação brasileira vai deixar de ser boazinha com quem destrói a natureza e outras espécies deste país."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiavxtixoldsalml3b7cxdxwuexqcpnehovpwhmfampfy36z5g7sku@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiavxtixoldsalml3b7cxdxwuexqcpnehovpwhmfampfy36z5g7sku@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 748,
+                            "width": 703
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 15,
+            "likeCount": 40,
+            "quoteCount": 5,
+            "indexedAt": "2024-04-15T21:46:47.566Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzhrzfcx2t",
+            "cid": "bafyreigvi4o67soxktm5afc5r6hux5nz6powyl6kvnnwaocqqhmzhgevsi",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-13T20:01:42.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 357061
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiadbhvbtkrzi22pkybspenv6zbi4mnm4ug32xmzqgtcpnbjcr3kxa",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzeqdyfa2b"
+                    },
+                    "root": {
+                        "cid": "bafyreiblszpp6475xp5fpnntbjswlwxlbumhrmctnkcbjupsqrmcbkubhq",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzytkrked2m"
+                    }
+                },
+                "text": "Isso coloca o Pampa na frente da Amazônia, Caatinga e Pantanal na lista de biomas brasileiros com mais espécies ameaçadas ou extintas. O Pampa é um bioma pequeno mas muito rico em biodiversidade, que precisa de nossa proteção e não deve ser esquecido."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-13T20:01:42.966Z",
+            "labels": []
+        }
+    ]
+}

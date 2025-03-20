@@ -1,0 +1,3232 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:rulzwwdvrwt6u6iwoqej4rxj/app.bsky.feed.post/3lbrqkzoyfc2u",
+            "cid": "bafyreigi2r3e64cldxq4v2iwmrl54y52yvijyicuc5mta7fqpk5qxxqvxy",
+            "author": {
+                "did": "did:plc:rulzwwdvrwt6u6iwoqej4rxj",
+                "handle": "vicebas.bsky.social",
+                "displayName": "Vicebas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rulzwwdvrwt6u6iwoqej4rxj/bafkreicg4ug2grh5btoqpscttocyz5ro4faov3qpj7yyld4yhhgi46kzhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-01-04T03:17:22.212Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-25T14:34:40.113Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiei6spainpbdl2xbswjz6hswzkcfwfp5xtg5exciyuro24bjeewz4",
+                        "uri": "at://did:plc:sbo3q46h66p6yu7t776xi7yx/app.bsky.feed.post/3lbp5gizo422v"
+                    },
+                    "root": {
+                        "cid": "bafyreicxsonpq4jy36562ereci5ss6u5vgekzm4qa4zwp76ckgovobziqy",
+                        "uri": "at://did:plc:5ly6ag5av4pcgf425ku5kzby/app.bsky.feed.post/3lbozkp2bqk2n"
+                    }
+                },
+                "text": "A constituição tem leis que impedem preço abusivo de serviço necessário. Se os órgãos reguladores entenderem que os preços subiram de forma exorbitante, é ilegal.\nÉ o mesmo precedente de venda de água em momento de crise, ou subir preço de um mantimento ante um possível futuro desabastecimento"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-25T14:34:40.954Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3lagvmnp5mn2k",
+            "cid": "bafyreig2zjt4tbuvovjwswtxf3zucvlppbzkxocom7zzw4n5juqqyxct3m",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T13:40:33.728Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihxdqcpbqf44pnjone6yraalo2onkhy364zbia5xc7rehszxykcsy",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3lagvm5yuqh2n"
+                    },
+                    "root": {
+                        "cid": "bafyreidtwcdrvw6u4bsjaars6t5uilbay4jhcgyoefmqkhlzdyztirjmu4",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3lagvk2q42x2n"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Clientes da Cedae podem pedir caminhões-pipa pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T13:40:34.780Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l7yjgytmjz2x",
+            "cid": "bafyreidao7pgnqalyktfogcsk7nbtooift2qyzvkl3isuisctwx3xecii4",
+            "author": {
+                "did": "did:plc:n65klbqrbpc3zqse7pxgk7qs",
+                "handle": "mellziland.bsky.social",
+                "displayName": "Mellanie Fontes-Dutra",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreibff3i643y5vmpvfxnuye7v6tzy5caq5thn2pba74z67r7xubwkpu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-08T14:40:20.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-02T20:25:25.146Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Secretaria Estadual da Saúde (SES), por meio do Centro Estadual de Vigilância em Saúde (Cevs), orienta sobre a prevenção à raiva humana se uma pessoa ser mordida por algum cachorro resgatado nas enc...",
+                        "title": "“Um cão resgatado me mordeu” - Secretaria da Saúde orienta sobre prevenção à raiva humana",
+                        "uri": "https://saude.rs.gov.br/um-cao-resgatado-me-mordeu-secretaria-da-saude-orienta-sobre-prevencao-a-raiva-humana"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaw6muzk7imvr7m6kiunpjkz5jjynalpsvpr3anur4qt3vdn5b4ey",
+                        "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l7yjcg7vsv2s"
+                    },
+                    "root": {
+                        "cid": "bafyreiao3yq67yegz5nt7ubkyzp5g4r2ouwi56swpgoy6rqjlqdtnxk4rq",
+                        "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l7yiieiogr2g"
+                    }
+                },
+                "text": "Ainda sobre a situação de, por exemplo, mordedura: em caso de desabastecimento de água, utilizar álcool iodado, clorexidina ou álcool 70%\n\nA profilaxia pós-exposição pode envolver a vacina (administrada em quatro doses ao longo de duas semanas), soro antirrábico ou a combinação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://saude.rs.gov.br/um-cao-resgatado-me-mordeu-secretaria-da-saude-orienta-sobre-prevencao-a-raiva-humana",
+                    "title": "“Um cão resgatado me mordeu” - Secretaria da Saúde orienta sobre prevenção à raiva humana",
+                    "description": "A Secretaria Estadual da Saúde (SES), por meio do Centro Estadual de Vigilância em Saúde (Cevs), orienta sobre a prevenção à raiva humana se uma pessoa ser mordida por algum cachorro resgatado nas enc..."
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 22,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T20:25:23.785Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:atwuii4q46ynalc77d6hg7ig/app.bsky.feed.post/3l7w2zo7o572x",
+            "cid": "bafyreigi3ui66jrf2q7dw4m5dkvcufy2ppf7hgchd3vut6nagqtk3c7a6y",
+            "author": {
+                "did": "did:plc:atwuii4q46ynalc77d6hg7ig",
+                "handle": "outraspalavras.net",
+                "displayName": "Outras Palavras",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:atwuii4q46ynalc77d6hg7ig/bafkreicg5zes5jcy5evswr5kk5exqkle7cdzx6ugy3dvlsvkzjfaq7r5vm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:19:21.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T21:02:04.350Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Seca volta a colocar SP sob o risco de desabastecimento. Mas, agora voltada para o lucro, empresa despreza até o sucesso que alcançou há dez anos, ao premiar quem fazia o uso racional da água. Governo...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibjpim6iapmppdxyt4sampyemnj4vwyvb3sa6imsfcq2bwgsw5ihm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 254090
+                        },
+                        "title": "Sabesp: privatização convoca a crise hídrica - Outras Palavras",
+                        "uri": "https://outraspalavras.net/crise-brasileira/sabesp-privatizacao-convoca-a-crise-hidrica/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://outraspalavras.net/crise-brasileira/sabesp-privatizacao-convoca-a-crise-hidrica/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 300,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "SABESP\nSeca volta a colocar SP sob o risco de desabastecimento. Mas, agora voltada para o lucro, empresa despreza até o sucesso que alcançou há dez anos, ao premiar quem fazia o uso racional da água. Governo estadual insiste em paliativos. Sabesp lava as mãos\n\noutraspalavras.net/crise-brasil..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://outraspalavras.net/crise-brasileira/sabesp-privatizacao-convoca-a-crise-hidrica/",
+                    "title": "Sabesp: privatização convoca a crise hídrica - Outras Palavras",
+                    "description": "Seca volta a colocar SP sob o risco de desabastecimento. Mas, agora voltada para o lucro, empresa despreza até o sucesso que alcançou há dez anos, ao premiar quem fazia o uso racional da água. Governo...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:atwuii4q46ynalc77d6hg7ig/bafkreibjpim6iapmppdxyt4sampyemnj4vwyvb3sa6imsfcq2bwgsw5ihm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T21:02:05.696Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7qjhdsbkw2b",
+            "cid": "bafyreihapw74zvhzipwsaycur3v2c7a6rwpyryvekxl75p5tdwshdah2wq",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T16:04:16.924Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifeab7rep7qy4lfz2xm3yif2jzf7l7ckexjzovmygwldrmhivupwi",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7qjh5ti3w2b"
+                    },
+                    "root": {
+                        "cid": "bafyreielny76ln4vmyguflb4dbfknrxao32zuddebii3t5xfbgc365qdw4",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7qjgcfeig2b"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T16:04:16.924Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gcfyxoviypdmwmlz2q3ahoo7/app.bsky.feed.post/3l7netcdj5v2w",
+            "cid": "bafyreic3dkmna3lpynom4cjnqlhsvauqzy47n4k6le3jxylrndkrnyiy3q",
+            "author": {
+                "did": "did:plc:gcfyxoviypdmwmlz2q3ahoo7",
+                "handle": "rede98oficial.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gcfyxoviypdmwmlz2q3ahoo7/bafkreih5d7i2gaciujmyrnqb7rwaelo443vxwaycj6kt62z63weo5634q4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:04:27.438Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T10:03:30.057Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo a Copasa, abastecimento será retomado ao longo do dia",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihrp734bpoc35fbmirakms6cqgeznmscunelx7ocytcx6lkxmdiny"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 759184
+                        },
+                        "title": "Chuva deixa dois bairros de BH sem água nesta terça-feira",
+                        "uri": "https://www.98live.com.br/noticias/cidades/chuva-deixa-dois-bairros-de-bh-sem-agua-nesta-terca-feira"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.98live.com.br/noticias/cidades/chuva-deixa-dois-bairros-de-bh-sem-agua-nesta-terca-feira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 262
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "FALTA DE ÁGUA 🚱 | A chuva que atingiu Belo Horizonte nessa segunda-feira (28/10) deixou sem água casas dos bairros Buritis e Estoril, na Região Oeste da capital. O desabastecimento é causado por falha em equipamentos de bombeamento da Copasa.\n\nLeia mais: www.98live.com.br/noticias/cid..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.98live.com.br/noticias/cidades/chuva-deixa-dois-bairros-de-bh-sem-agua-nesta-terca-feira",
+                    "title": "Chuva deixa dois bairros de BH sem água nesta terça-feira",
+                    "description": "Segundo a Copasa, abastecimento será retomado ao longo do dia",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gcfyxoviypdmwmlz2q3ahoo7/bafkreihrp734bpoc35fbmirakms6cqgeznmscunelx7ocytcx6lkxmdiny@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T10:03:30.057Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:seem7lvhp7r4n5prbkns27jv/app.bsky.feed.post/3l7bulcya2f2b",
+            "cid": "bafyreicekkwh5vqy4okcxdt3k24oho6wq3q2pkv3jlse64iwupsucpjdpa",
+            "author": {
+                "did": "did:plc:seem7lvhp7r4n5prbkns27jv",
+                "handle": "paoladcs.bsky.social",
+                "displayName": "Paola Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:seem7lvhp7r4n5prbkns27jv/bafkreih6yh7k667xg3a4u3bg7ar7d5ofwumfisnmdgnxlrq3xxezc6dtuq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T21:16:28.313Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T20:13:24.423Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚰 PORTO ALEGRE/RS - Desabastecimento de Água\n\nDMAE registrou FALTA DE ENERGIA ELÉTRICA em uma Estação de Tratamento de Água e em 6 Estações de Bombeamento de Água Tratada. 17 bairros podem ter períodos de desabastecimento. \n\n[1/2] ⬇️"
+            },
+            "replyCount": 2,
+            "repostCount": 3,
+            "likeCount": 41,
+            "quoteCount": 7,
+            "indexedAt": "2024-10-24T20:13:24.423Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7bbbpp6jf2i",
+            "cid": "bafyreidp2pryiwuhx2flfcbweknjynnw52otzb5iaynve5ajbqnom4oqci",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T14:28:01.715Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajrt7xzqjw7msnoe634z33mszd7kx5rpmw7ha7k3xlaliektofnq",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7bbbjqw472a"
+                    },
+                    "root": {
+                        "cid": "bafyreifei65aln3pls3jbk5paimo3dhjs6h2swb7kyflsg6gmm3cfq5g2u",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l7bb7b7jau23"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-24T14:28:01.715Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l74xlc6czj2m",
+            "cid": "bafyreicgdq4qthjwixumyvfmj77xj4xwg37nqn2g4gvh7qetysrvilrefa",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T21:23:46.977Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibcvlhbhitruf7c34lmk3k3xpvb3t2upeuomgqtrxlyuttmfhrezu",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l74xkz52ql2g"
+                    },
+                    "root": {
+                        "cid": "bafyreih7xu4auufvuy3cmtwfmffc2zxrjwq4afdaojkqml4s75akklgzyq",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l74xkk2pm52s"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-22T21:23:46.977Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l746dgfpiz2l",
+            "cid": "bafyreiegnypjwzvvglcdcbu4l7a35nmqioxmejiekgn4ttqjubbnulnwma",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T13:51:59.510Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihgzno4oqe4pavpjskxufppwg7u34eclyxhgxjazoxezezghno4dm",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l746d5hvry2a"
+                    },
+                    "root": {
+                        "cid": "bafyreighv2kvqx7g6xfhyfjzz64cm3rxnwu7vtc6vk4ota7cnjalioix5a",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l746cslj332q"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-22T13:51:59.510Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ij5cwv65ls62igxo6ol34tne/app.bsky.feed.post/3l6lqirusnl24",
+            "cid": "bafyreighmehqesowyaaxhbp6addflplal5kafbvs4iw7zztuv4tc4ykibe",
+            "author": {
+                "did": "did:plc:ij5cwv65ls62igxo6ol34tne",
+                "handle": "jornalotempo.bsky.social",
+                "displayName": "O TEMPO",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ij5cwv65ls62igxo6ol34tne/bafkreifd2zl2qjgv4u4wadgw2u2ls37wznxqheybf5auxcjvpsqgjtblpa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:58:58.694Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-16T01:01:51.364Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Problema é causado por uma manutenção operacional, informou a Copasa",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifsc3jzs6ngebvjrwjtzbptagy5c7r4sy36ub63723kesk4ygzxnq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 908086
+                        },
+                        "title": "Bairros da região Oeste de BH podem sofrer com falta de água; saiba quais",
+                        "uri": "https://www.otempo.com.br/cidades/2024/10/15/bairros-da-regiao-oeste-de-bh-podem-sofrer-com-falta-de-agua--sa"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "DESABASTECIMENTO\n\nBairros da região Oeste de BH podem sofrer com falta de água; saiba quais"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.otempo.com.br/cidades/2024/10/15/bairros-da-regiao-oeste-de-bh-podem-sofrer-com-falta-de-agua--sa",
+                    "title": "Bairros da região Oeste de BH podem sofrer com falta de água; saiba quais",
+                    "description": "Problema é causado por uma manutenção operacional, informou a Copasa",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ij5cwv65ls62igxo6ol34tne/bafkreifsc3jzs6ngebvjrwjtzbptagy5c7r4sy36ub63723kesk4ygzxnq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-16T01:01:51.364Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6knb4ojkc2b",
+            "cid": "bafyreicrukhgrmm34knvz74whyslwui775hlzxdk6vfbehbuq3e6q2u5jy",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T14:31:13.004Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidaavfhqcfhitoeuqbsgxzbrkajmjubv4j3bfbn5odz5mwk2mpuie",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6knaw3le524"
+                    },
+                    "root": {
+                        "cid": "bafyreibl3dzj22bshi3k2fih4ysnztu6gnk4j3jem7tdek5tjdmyr4fsam",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6knafvcxh2d"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T14:31:13.004Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6irxrezlu2o",
+            "cid": "bafyreica2vcfjzlhgfuuleikjgwpunbjdixo2g6iwhjp5qjnksrhkzltyq",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T20:50:08.527Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaeqsvccmlvqq7sz75qb6ag7cwktds5aciy2xjfdp4aukpjdgcjfa",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6irxa2i7a2y"
+                    },
+                    "root": {
+                        "cid": "bafyreib3l2672gxkomvc3s4jli2bnobymnwwkjzwnt7rsq4lh7sapgh2ge",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l6irwrxlkh2d"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T20:50:08.527Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ixuz3tcd7os465k7w4z4plvt/app.bsky.feed.post/3l6gejpuucf2f",
+            "cid": "bafyreidx4bdksri34bzh2kb54uod5vlue5yjlurzfokx7d5enj4vcdrefu",
+            "author": {
+                "did": "did:plc:ixuz3tcd7os465k7w4z4plvt",
+                "handle": "margolf.bsky.social",
+                "displayName": "Margolf ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ixuz3tcd7os465k7w4z4plvt/bafkreictvebonslmdt3qr7abausvvksva4nucou3z5t62ed47mdu5ngqwe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T21:18:51.165Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T21:44:18.903Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifckgqmedmqqx3rrpdypm7p4cipk3pvjzsbir7pbbmd7zn5cuxwiu",
+                        "uri": "at://did:plc:oemnb4zd3jqlag4yokdcr5jn/app.bsky.feed.post/3l6bnj5kniy2r"
+                    },
+                    "root": {
+                        "cid": "bafyreieiy5u4hhpgpwuowoh3sjpirmgeba2y76qxnwmsycjz7hinzzoswq",
+                        "uri": "at://did:plc:z7lkqlobtsv7jpm6l7xovomc/app.bsky.feed.post/3l66xfh7vxj2d"
+                    }
+                },
+                "text": "Todis os alvis tinham objetivos militares. O hamas fez bases, arsenais, cenyros de comando em hodpitais escolas. \nNão ha 40 mil mortos, o hamas infla o número de mortos  usto ja foi provado.  Não ha desabastecimento, onu  estados Unidos e mesmo Israel fornece alimentos,  remédios e água. Se informe"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T21:44:18.903Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l6fzox45lp22",
+            "cid": "bafyreideyo4e3vod6tulrd42r6pc7jkasz5nvvm3ecrhsq6bb4ojem2qvy",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T18:30:21.248364Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Distribuição continua suspensa nos bairros afetados pelas obras no Complexo Viário Leblon, totalizando 15.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifp2vx5cygyup3f5rmxud365uhuqh2l465mwwhddq6vcc67bj7b7u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 83438
+                        },
+                        "title": "Mais 7 bairros podem ter desabastecimento de água durante manutenção em Cuiabá; veja quais",
+                        "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2024/10/13/mais-7-bairros-podem-ter-desabastecimento-de-agua-durante-manutencao-em-cuiaba-veja-quais.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mais 7 bairros podem ter desabastecimento de água durante manutenção em Cuiabá; veja quais"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mt/mato-grosso/noticia/2024/10/13/mais-7-bairros-podem-ter-desabastecimento-de-agua-durante-manutencao-em-cuiaba-veja-quais.ghtml",
+                    "title": "Mais 7 bairros podem ter desabastecimento de água durante manutenção em Cuiabá; veja quais",
+                    "description": "Distribuição continua suspensa nos bairros afetados pelas obras no Complexo Viário Leblon, totalizando 15.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifp2vx5cygyup3f5rmxud365uhuqh2l465mwwhddq6vcc67bj7b7u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T18:30:21.248Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:t3vyvbzndritey7tpkwazkxc/app.bsky.feed.post/3l6fhffutct24",
+            "cid": "bafyreighqosaddj46j7ip4bnr77pueo36w3qbb7kdx2mctvjlwptxcui3u",
+            "author": {
+                "did": "did:plc:t3vyvbzndritey7tpkwazkxc",
+                "handle": "pattrodriguez.bsky.social",
+                "displayName": "Patt Rodriguez",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t3vyvbzndritey7tpkwazkxc/bafkreicvxh5or34siuomqdxldnc4hbnervtdvcw4ya3aexhzmusjhcaxia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-10-09T13:21:26.353Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T13:02:57.760Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifhzmi5aje7vcvhjj34ipugma4n5bi3cecnrb6dg2tja4vwaatm2q",
+                        "uri": "at://did:plc:zmmogjtrv2il4o6qas6jtjcp/app.bsky.feed.post/3l6fh3mx2j62z"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ainda tem isso: toda vez que falta luz por muito tempo isso atinge as subestações de água, causando desabastecimento \n\nAqui no RJ o Dudu Paes deu a previsão de tempo ele vai morar na central de operações Rio \n\nIsso é algo q o Boulos poderia sd inspirar e dizer que fará igual"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:zmmogjtrv2il4o6qas6jtjcp/app.bsky.feed.post/3l6fh3mx2j62z",
+                    "cid": "bafyreifhzmi5aje7vcvhjj34ipugma4n5bi3cecnrb6dg2tja4vwaatm2q",
+                    "author": {
+                        "did": "did:plc:zmmogjtrv2il4o6qas6jtjcp",
+                        "handle": "bianaaf.bsky.social",
+                        "displayName": "BIANA",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmmogjtrv2il4o6qas6jtjcp/bafkreig2tpbxdpoax5kmqgrgj3lns3bkz3uhnyjwjnj45smslfxvqyrdty@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-08T18:50:03.631Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-13T12:57:26.986Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "indo para a casa da minha mãe pois estou sem água e sem luz virei refugiada climática dentro da minha própria cidade tá feliz ricardo nunes?"
+                    },
+                    "labels": [],
+                    "likeCount": 165,
+                    "replyCount": 3,
+                    "repostCount": 9,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-10-13T12:57:26.986Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T13:02:56.308Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r2fmjhohn2rt57trax3pv5ex/app.bsky.feed.post/3l6cxfo3gjf2b",
+            "cid": "bafyreiaq3ee5slzks6hy23oujnyqhnt6qzqqduffbafvnxqxahcyxbmmda",
+            "author": {
+                "did": "did:plc:r2fmjhohn2rt57trax3pv5ex",
+                "handle": "bubru30.bsky.social",
+                "displayName": "bru",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r2fmjhohn2rt57trax3pv5ex/bafkreicqxb6o4t7nh5llhit7szk3wxhvz7me5cvfd2ecn54x3xahsefwiu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-13T12:45:14.208Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T13:11:24.826Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreih7tgw6xsn3b7dysd35gaa65ym7urck7o2ckvn3fo6ggksz54vtbq",
+                        "uri": "at://did:plc:2ixe2cneo3ipw5ikjsuwksss/app.bsky.feed.post/3l6cwx4c27s2w"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Luto pela família e contra o comunismo”\n\nShow, more, mas e o desabastecimento de água na cidade, os buracos na rua, os problemas no trânsito, as filas na saúde?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2ixe2cneo3ipw5ikjsuwksss/app.bsky.feed.post/3l6cwx4c27s2w",
+                    "cid": "bafyreih7tgw6xsn3b7dysd35gaa65ym7urck7o2ckvn3fo6ggksz54vtbq",
+                    "author": {
+                        "did": "did:plc:2ixe2cneo3ipw5ikjsuwksss",
+                        "handle": "vieneinpace.bsky.social",
+                        "displayName": "Marie Declercq",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ixe2cneo3ipw5ikjsuwksss/bafkreid53d7u7e4sbun5bs2nxemynrxu2h3avfynm5p6vntvr7tvhuaapy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [
+                            {
+                                "src": "did:plc:2ixe2cneo3ipw5ikjsuwksss",
+                                "uri": "at://did:plc:2ixe2cneo3ipw5ikjsuwksss/app.bsky.actor.profile/self",
+                                "cid": "bafyreibxqgi73e3eiaa32qvgp6e46u5u2di72bxrgef657zdjboa7nv7wi",
+                                "val": "!no-unauthenticated",
+                                "cts": "1970-01-01T00:00:00.000Z"
+                            }
+                        ],
+                        "createdAt": "2023-07-03T11:08:38.091Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-12T13:03:17.213Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Eleição municipal já é um bagulho xexelento por natureza, mas nos últimos anos tudo isso foi transformado em uma aceleradora de candidaturas de direita, onde não se discute o que importa (literalmente poda de árvores e lixo na rua) e sim se candidato x defende a Venezuela e expulsão do comunismo"
+                    },
+                    "labels": [],
+                    "likeCount": 2661,
+                    "replyCount": 23,
+                    "repostCount": 491,
+                    "quoteCount": 37,
+                    "indexedAt": "2024-10-12T13:03:17.112Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 35,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T13:11:24.826Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l5zkg2vld22v",
+            "cid": "bafyreidxyj6ax2f2irylpd6ywxnvufxl4sqepcmwt7joave7xzcill24te",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T19:25:02.061Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigasu3vi3ikwhn5je6ejwa4xubhjuajszvaagou6pp4alkqa33qdy",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l5zkfmjofu2q"
+                    },
+                    "root": {
+                        "cid": "bafyreigj65pcin5mbplv3jpgx4meaps25b2ek7jxemasss2mjr7tdmdx7u",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l5zkf6mwxq2d"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-119."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T19:25:02.061Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:h32oztv2dq3otpatyo6v6cib/app.bsky.feed.post/3l5toj4dxt42a",
+            "cid": "bafyreiberedwn2q67tpkflgbb4en3tqnko5jum3y35jjk643djsywxnm2a",
+            "author": {
+                "did": "did:plc:h32oztv2dq3otpatyo6v6cib",
+                "handle": "marianacatto.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h32oztv2dq3otpatyo6v6cib/bafkreifsnfvep3uofttz7ugisj3dadt7nckzykr5g7iainmioy6al3ysqa@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T01:23:04.529Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-06T11:22:20.815Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vê o globo rural , tem agricultor que causa o problema que ele próprio reclama. Tem que mudar o trato da terra urgente. A gente vai ter desabastecimento em breve. Acabou a água. Terra aberta. Vai dar merda."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-06T11:22:20.815Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vjpwkfwxuysxliab57pryctp/app.bsky.feed.post/3l55nr3nldx2l",
+            "cid": "bafyreifvckvsjurgefxpvgckhpwaopsyt2224vdtw6edck2vclipiqzx5i",
+            "author": {
+                "did": "did:plc:vjpwkfwxuysxliab57pryctp",
+                "handle": "mprjoficial.bsky.social",
+                "displayName": "Ministério Público do Rio de Janeiro ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjpwkfwxuysxliab57pryctp/bafkreib6hyvx2wsu3j5opl622kccftjbdbfkkgmgzhoatsl4gudaacupte@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-25T13:55:17.273Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T17:10:20.592Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifm4vcwrfdl4ivmmkb2yk5cmg4niqygzcmf53su3pak4knk4oqc5e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 206194
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MPRJ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 5,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.mprj.mp.br/visualizar?noticiaId=154406"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 100
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#MPRJ discute medidas preventivas para evitar desabastecimento de energia e água em Nova Friburgo: www.mprj.mp.br/visualizar?n..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vjpwkfwxuysxliab57pryctp/bafkreifm4vcwrfdl4ivmmkb2yk5cmg4niqygzcmf53su3pak4knk4oqc5e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vjpwkfwxuysxliab57pryctp/bafkreifm4vcwrfdl4ivmmkb2yk5cmg4niqygzcmf53su3pak4knk4oqc5e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T17:10:20.592Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wtsg45g4rg75br5uv4nivswp/app.bsky.feed.post/3l55egbxuyu2s",
+            "cid": "bafyreie6jeq5jevjb43kswdjsmes4u5rp5bcpzxlz3g5yocbygoyeezn6m",
+            "author": {
+                "did": "did:plc:wtsg45g4rg75br5uv4nivswp",
+                "handle": "radio93fm.bsky.social",
+                "displayName": "Rádio 93FM - RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wtsg45g4rg75br5uv4nivswp/bafkreignny5yd7472by6hz5hp3jolw6izb2u653szfrt4ftv3bw4zkgauu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-12T11:24:40.707Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T14:23:14.446Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 480,
+                        "width": 848
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreifiz46jiie6cozqqwpaprx3vtjqtaqb35vycfmylbyedukk5xzlri"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 6075770
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Helicóptero93"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 264
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rompimento de adutora de grande porte na Av. Martin Luther King, na altura do Cemitério de Inhaúma, sentido Centro, causa desabastecimento de água nos bairros Bonsucesso, Del Castilho, Jacaré, Jacarezinho e partes de Maria da Graça, Ramos e Rocha. \n\nImagens: #Helicóptero93"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreifiz46jiie6cozqqwpaprx3vtjqtaqb35vycfmylbyedukk5xzlri",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Awtsg45g4rg75br5uv4nivswp/bafkreifiz46jiie6cozqqwpaprx3vtjqtaqb35vycfmylbyedukk5xzlri/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Awtsg45g4rg75br5uv4nivswp/bafkreifiz46jiie6cozqqwpaprx3vtjqtaqb35vycfmylbyedukk5xzlri/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 480,
+                    "width": 848
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T14:23:14.446Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ij5cwv65ls62igxo6ol34tne/app.bsky.feed.post/3l53hgvqhah2e",
+            "cid": "bafyreid2anl7rws5xliswbyb2pc7dhcxav4sjtvd5czqtwobfialq2kg2i",
+            "author": {
+                "did": "did:plc:ij5cwv65ls62igxo6ol34tne",
+                "handle": "jornalotempo.bsky.social",
+                "displayName": "O TEMPO",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ij5cwv65ls62igxo6ol34tne/bafkreifd2zl2qjgv4u4wadgw2u2ls37wznxqheybf5auxcjvpsqgjtblpa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:58:58.694Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T20:11:57.028Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Manunteções emergenciais deixam bairros de Contagem, na Grande BH, desabastecidos",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidaxn336sohnrecbgmm55nwqzubz2o5ztg7f3n6nvskrrahxhi4hi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 660925
+                        },
+                        "title": "Bairros da Grande BH ficam sem água nesta quinta (26); saiba quais",
+                        "uri": "https://www.otempo.com.br/cidades/2024/9/26/bairros-da-grande-bh-ficam-sem-agua-nesta-quinta--26---saiba-qua"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.otempo.com.br/cidades/2024/9/26/bairros-da-grande-bh-ficam-sem-agua-nesta-quinta--26---saiba-qua"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 211,
+                            "byteStart": 178
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "SEM ÁGUA\n\nBairros da Grande BH ficam sem água nesta quinta (26); saiba quais \n\nDevido a manutenções emergenciais, bairros de Contagem, na Grande BH, sofrem desabastecimento\n\nwww.otempo.com.br/cidades/2024..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.otempo.com.br/cidades/2024/9/26/bairros-da-grande-bh-ficam-sem-agua-nesta-quinta--26---saiba-qua",
+                    "title": "Bairros da Grande BH ficam sem água nesta quinta (26); saiba quais",
+                    "description": "Manunteções emergenciais deixam bairros de Contagem, na Grande BH, desabastecidos",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ij5cwv65ls62igxo6ol34tne/bafkreidaxn336sohnrecbgmm55nwqzubz2o5ztg7f3n6nvskrrahxhi4hi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T20:11:57.028Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gsmurwnllrx2fth34uewwdbe/app.bsky.feed.post/3l4zjk53ls322",
+            "cid": "bafyreiaxd3rqot4uaktpljpcrr7gryb7dj232bqxpvrtnvax4ue543hmzu",
+            "author": {
+                "did": "did:plc:gsmurwnllrx2fth34uewwdbe",
+                "handle": "jacabreu.bsky.social",
+                "displayName": "Jac Abreu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsmurwnllrx2fth34uewwdbe/bafkreifkbinoaykkh6xktcc53sod3xdahqtrmrz5l3ilbrqmv4kjcrmgvy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T11:03:08.999Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T01:44:13.355Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicczwtugzabevtg3d54wo4es6fhn3dz2vnthjnotqihorpn6topcu",
+                        "uri": "at://did:plc:gsmurwnllrx2fth34uewwdbe/app.bsky.feed.post/3l4zjd43bfg2o"
+                    },
+                    "root": {
+                        "cid": "bafyreicczwtugzabevtg3d54wo4es6fhn3dz2vnthjnotqihorpn6topcu",
+                        "uri": "at://did:plc:gsmurwnllrx2fth34uewwdbe/app.bsky.feed.post/3l4zjd43bfg2o"
+                    }
+                },
+                "text": "O que é estabilidade térmica, na minha visão atual:\n\nUm lugar que não tenha enchentes.\n\nUm lugar que não pareça uma Air Fryer.\n\nUm lugar com ar respirável e sem risco de desabastecimento de água."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T01:44:13.355Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qq7mw2ikz6tvn7uw2di3gisf/app.bsky.feed.post/3l4rlnweg2l2s",
+            "cid": "bafyreiefb46mokesaubfkpzuaxzjm324oywi6a7bmqpe7lhkhpfpw2qdhi",
+            "author": {
+                "did": "did:plc:qq7mw2ikz6tvn7uw2di3gisf",
+                "handle": "carlosnomp.bsky.social",
+                "displayName": "Carlos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qq7mw2ikz6tvn7uw2di3gisf/bafkreid7hfbukkm6jyatdwr7w42k37bdwy6t5jyrbrqbfhfvxlhrctx3wu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-04T12:51:11.403Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T22:00:50.080Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "No meu bairro, cortam a água todo dia (segundo eles, por causa do desabastecimento, mas no resto da cidade deve tá chovendo normal)\nHoje a água tava normal, caiu a energia 🫠"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 24,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T22:00:50.080Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5hqahkrztbutwnkgsxi2g27h/app.bsky.feed.post/3l4osoh33qi2u",
+            "cid": "bafyreicq43xqph7tmf2u5parnluacsh5x4jjbh5g3y34ot33vmvv6axgva",
+            "author": {
+                "did": "did:plc:5hqahkrztbutwnkgsxi2g27h",
+                "handle": "arielstrauss.bsky.social",
+                "displayName": "Ariel | אריאל 🏳️‍🌈",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5hqahkrztbutwnkgsxi2g27h/bafkreifdbnxmgee4maub2txeoaceofncjdesz6uryidowu75s3fhigrb64@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-05T16:57:03.537Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T19:28:24.797Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiejlmnrxrjbimxd6eiikvsdiaqcsni5bs2nuup4yqpnm24jjzu5s4",
+                        "uri": "at://did:plc:5hqahkrztbutwnkgsxi2g27h/app.bsky.feed.post/3l4ose4yuqj2i"
+                    },
+                    "root": {
+                        "cid": "bafyreidokykrh4nxjmd7n5erwqygh5rt6m5l5pf5cs6enckwaytftz6kd4",
+                        "uri": "at://did:plc:5hqahkrztbutwnkgsxi2g27h/app.bsky.feed.post/3l4oknvwnrt23"
+                    }
+                },
+                "text": "21- Durante o período colonial, o Rio passou por desabastecimento de água pq o Carioca não conseguia suprir a demanda da população e a galera tinha q pegar água em Niterói e São Gonçalo de barco pra trazer pra capital 🤡"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T19:28:24.797Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:shirovchha3iv3srwiufblwo/app.bsky.feed.post/3l4moiimnbw2v",
+            "cid": "bafyreidvlkj45bgov2qjjmnjw7hsg4kqdcatl4w3o6yuxqjjapit55rcfu",
+            "author": {
+                "did": "did:plc:shirovchha3iv3srwiufblwo",
+                "handle": "lidianevieira.bsky.social",
+                "displayName": "Lidiane Vieira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:shirovchha3iv3srwiufblwo/bafkreib2m5ir3wk45vcwbllpzirb3fi5i27bwq5hofyhxc743vyuoqr7yy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T18:56:16.700Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T23:08:10.705Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Lembrando aqui do dia que fui numa reunião administrativa no MP para discutir a questão de desabastecimento de água na zona rural, várias autoridades presentes, e após muito falar, na leitura da Ata, constou: pela procuradora do município X, está disse: é complicado kkkkkkkkkkkkkkkkkkkkkkkkk"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T23:08:10.705Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4jtexkc552y",
+            "cid": "bafyreifqlzkngpmkezldi6olsykcjrevnh4r7ersqacasrz4h6aux24u4q",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T19:57:41.082Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicgbclrtrhmuohoagxs2a7fymwableqnpms2qb7ddwepa2xbsgyxq",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4jteqlssq2y"
+                    },
+                    "root": {
+                        "cid": "bafyreidq5io273337eov4jhtc3motdudiapb5gpxddjkv5qcvzsi6knb5i",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4jtcvtfvm2y"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T19:57:41.082Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l4jsy4hg6z25",
+            "cid": "bafyreigu7gx4ob2frslwlyqyxqvcft7ilc24nkak5i5xy43jayw6omlo7e",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T19:50:28.521745Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreictsusb7syz54ivxfbpxogtnad3jusanswi27uogiojdzzaeib2uu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 115619
+                        },
+                        "title": "",
+                        "uri": "https://g1.globo.com/mg/sul-de-minas/noticia/2024/09/19/copasa-deve-ter-r-5-milhoes-bloqueados-apos-nova-multa-por-desabastecimento-de-agua-em-lavras-mg.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Copasa deve ter R$ 5 milhões bloqueados após nova multa por desabastecimento de água em Lavras, MG"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mg/sul-de-minas/noticia/2024/09/19/copasa-deve-ter-r-5-milhoes-bloqueados-apos-nova-multa-por-desabastecimento-de-agua-em-lavras-mg.ghtml",
+                    "title": "",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreictsusb7syz54ivxfbpxogtnad3jusanswi27uogiojdzzaeib2uu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T19:50:28.521Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d4n7fmyaekcjuyatwkf2df47/app.bsky.feed.post/3l4hc2o3wss23",
+            "cid": "bafyreibf2nn5eid3ldef6bsfcsb5onnes2fcnrtpcvf2tcd2dubwnad2jy",
+            "author": {
+                "did": "did:plc:d4n7fmyaekcjuyatwkf2df47",
+                "handle": "borboletabutterfly.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d4n7fmyaekcjuyatwkf2df47/bafkreicgyiytkxjmubw4w2aex5ygwtvr5ib7w5fkvbjt66lidvhbi4iwum@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-12T12:33:18.008Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T19:42:22.783Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigdf6s4lksnzoxaidvtgnqm4o5vgk43dwur4rrztzgh2qlwk25ccm",
+                        "uri": "at://did:plc:uqk3umoefc666jz45rm6dbbk/app.bsky.feed.post/3l4hbqjojke2a"
+                    },
+                    "root": {
+                        "cid": "bafyreigdf6s4lksnzoxaidvtgnqm4o5vgk43dwur4rrztzgh2qlwk25ccm",
+                        "uri": "at://did:plc:uqk3umoefc666jz45rm6dbbk/app.bsky.feed.post/3l4hbqjojke2a"
+                    }
+                },
+                "text": "Os casos de microcefalia derivada da Zika escalaram no Nordeste do Brasil em 2015/2016 devido à seca , que fez com que as pessoas armazenassem água pra evitar o desabastecimento.\nTem que ter um olhar atento pra isso..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T19:42:22.783Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4gvwgzhul26",
+            "cid": "bafyreiawujnsawxcxrfbliggoxcawa7bnqa3dlcr2vedcc2l6nwdmiihru",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T16:04:28.014Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibmteatdv3dhvwgiicdcirn65es5xa737aj7zufy3hhj73khcdhz4",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4gvwburw722"
+                    },
+                    "root": {
+                        "cid": "bafyreidbo65nxc2lwersvmwyzjfnmvjfqjda33zdxovr2yrna46zxkihfy",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l4gvvq4hjh2y"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T16:04:28.014Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l4cpkiwtii2q",
+            "cid": "bafyreihy3wvau62unwdzwpreei2gjktop3p3hgniafahph2il6xzctmlky",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T00:00:32.570937Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Prefeitura publicou o decreto nesta segunda-feira (16). Medida é válida por 60 dias, podendo ser prorrogada se persistir o risco declarado.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib7bnyie7mu3unmxi3pe7yaceatsmyqqwwc6mqpaevp7h2czp5ebe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 284668
+                        },
+                        "title": "Situação de emergência de desabastecimento de água é declarada em Uberaba; quem desperdiçar água poderá ser multado",
+                        "uri": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2024/09/16/situacao-de-emergencia-de-desabastecimento-de-agua-e-declarada-em-uberaba-quem-desperdicar-agua-podera-ate-ser-multado.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Situação de emergência de desabastecimento de água é declarada em Uberaba; quem desperdiçar água poderá ser multado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2024/09/16/situacao-de-emergencia-de-desabastecimento-de-agua-e-declarada-em-uberaba-quem-desperdicar-agua-podera-ate-ser-multado.ghtml",
+                    "title": "Situação de emergência de desabastecimento de água é declarada em Uberaba; quem desperdiçar água poderá ser multado",
+                    "description": "Prefeitura publicou o decreto nesta segunda-feira (16). Medida é válida por 60 dias, podendo ser prorrogada se persistir o risco declarado.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreib7bnyie7mu3unmxi3pe7yaceatsmyqqwwc6mqpaevp7h2czp5ebe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T00:00:32.570Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:27hkuqnxyebgvmhmilgx5cxd/app.bsky.feed.post/3l47j2uhhai2a",
+            "cid": "bafyreidnut2judbnqligltof5w3fnyeaugppjjevtpvlsky6g3tt4lucve",
+            "author": {
+                "did": "did:plc:27hkuqnxyebgvmhmilgx5cxd",
+                "handle": "cleitonsotte.bsky.social",
+                "displayName": "Cleiton Sotte",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:27hkuqnxyebgvmhmilgx5cxd/bafkreihjsprzsp37w2py6toep33snp6otucl7buudpta4o2uqqghkd6ble@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:01:19.203Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T17:26:28.205Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid5xvav5fttphamz44d7yegoujmtq4co47jifga5ottzneh3t7ebu",
+                        "uri": "at://did:plc:27hkuqnxyebgvmhmilgx5cxd/app.bsky.feed.post/3l47iykqax22j"
+                    },
+                    "root": {
+                        "cid": "bafyreid5xvav5fttphamz44d7yegoujmtq4co47jifga5ottzneh3t7ebu",
+                        "uri": "at://did:plc:27hkuqnxyebgvmhmilgx5cxd/app.bsky.feed.post/3l47iykqax22j"
+                    }
+                },
+                "text": "Até chegar na cidade, o fogo deve passar numa área da elektro,  ou seja, pode vir apagão e desabastecimento de água."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T17:26:28.205Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hmrf5c76izelev55rm6dbovr/app.bsky.feed.post/3l45dzpbf322t",
+            "cid": "bafyreiaed2tevfpoi37jjhmtq3x4dipsznlrhnt7cbx7u7mkmwdhxhx6ui",
+            "author": {
+                "did": "did:plc:hmrf5c76izelev55rm6dbovr",
+                "handle": "ferrnandamotta.bsky.social",
+                "displayName": "ferrnanda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmrf5c76izelev55rm6dbovr/bafkreibm2s4flpxtgojj4fdjbjp2omeaeiimq2mwacbqzvlh6owonkpxre@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:36:39.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T20:51:00.434Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "e o desabastecimento de água já tá pegando"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T20:51:00.434Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:noqjd5tvzroy75dxgvhh7srf/app.bsky.feed.post/3l43773cjxz2a",
+            "cid": "bafyreidl2hztrdp3raxuva53wogl6qx44zy3kycwv6phxqozbstgnhosq4",
+            "author": {
+                "did": "did:plc:noqjd5tvzroy75dxgvhh7srf",
+                "handle": "malucabral.bsky.social",
+                "displayName": "Malu Cabral",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:noqjd5tvzroy75dxgvhh7srf/bafkreif7jlmqnp4gk2fnbsbhohywyelp647z6tgckxezc5pszexgtz2eze@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T08:06:10.854Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T00:19:13.031Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Companhia de água e esgoto do Estado diz que São Gonçalo, Niterói, Maricá e Acarí podem ser afetados; pede que população economize água.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicgl6hbhcguwffwvb4xf4huxx6i6cl6as7rbjsmbxvh4rgqg4ik7m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 382231
+                        },
+                        "title": "Rio emite alerta para desabastecimento de água por causa da seca",
+                        "uri": "https://www.poder360.com.br/poder-sustentavel/rio-emite-alerta-para-desabastecimento-de-agua-por-causa-da-seca/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.poder360.com.br/poder-sustentavel/rio-emite-alerta-para-desabastecimento-de-agua-por-causa-da-seca/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 280,
+                            "byteStart": 245
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rio emite alerta para desabastecimento de água por causa da seca Companhia de água e esgoto do Estado diz que São Gonçalo, Niterói, Maricá e Acarí podem ser afetados; pede que população economize água...\n\nLeia mais no texto original: (www.poder360.com.br/poder-susten...)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.poder360.com.br/poder-sustentavel/rio-emite-alerta-para-desabastecimento-de-agua-por-causa-da-seca/",
+                    "title": "Rio emite alerta para desabastecimento de água por causa da seca",
+                    "description": "Companhia de água e esgoto do Estado diz que São Gonçalo, Niterói, Maricá e Acarí podem ser afetados; pede que população economize água.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:noqjd5tvzroy75dxgvhh7srf/bafkreicgl6hbhcguwffwvb4xf4huxx6i6cl6as7rbjsmbxvh4rgqg4ik7m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T00:19:13.031Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mqjq4i4bfk57lzushh7f7vi3/app.bsky.feed.post/3l3x7hwt6zw2e",
+            "cid": "bafyreiaxh4r5hlkmjxwozs2gdwomp5f6o2gvugrppwwqu3xfkln753kzju",
+            "author": {
+                "did": "did:plc:mqjq4i4bfk57lzushh7f7vi3",
+                "handle": "vmfaria.bsky.social",
+                "displayName": "Vitória Faria ✨",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mqjq4i4bfk57lzushh7f7vi3/bafkreia35irjdkfkjhlbzzpgl66jaj2c4cqxpx4kt74bz7mjrrmnsix3qm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T00:29:09.702Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T10:13:31.352Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 817,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreickzbk3iuerg6nwankbqkwvj6egnvdmnftmorjmfrd7kgocvvlxnq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 536077
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Acordando com a notícia de alerta de desabastecimento de água por causa da seca"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mqjq4i4bfk57lzushh7f7vi3/bafkreickzbk3iuerg6nwankbqkwvj6egnvdmnftmorjmfrd7kgocvvlxnq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mqjq4i4bfk57lzushh7f7vi3/bafkreickzbk3iuerg6nwankbqkwvj6egnvdmnftmorjmfrd7kgocvvlxnq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 817,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T10:13:31.352Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vgb24vizftaasj2a45sh3hgf/app.bsky.feed.post/3l3vk3dyptt2q",
+            "cid": "bafyreidz6kpbjtduoo2dlnfo3d2tsw33zzvhnjii2cvxpkajknvdlxxuta",
+            "author": {
+                "did": "did:plc:vgb24vizftaasj2a45sh3hgf",
+                "handle": "anxietyridden.bsky.social",
+                "displayName": "Anxiety Ridden",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vgb24vizftaasj2a45sh3hgf/bafkreihkqgik3an3mgmpb4ttjzynakpmbtk6yaoordtdafnblhxdlnjojq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:41:56.576Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T18:18:00.553Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidfits7k44rznspstkijdovu3rsiyjzcfmasc4vbqrebmqrfhgpxy",
+                        "uri": "at://did:plc:6lejfovzvinx2lwcahqssmwf/app.bsky.feed.post/3l3vjvskwtt2u"
+                    },
+                    "root": {
+                        "cid": "bafyreicxklfxmecjiycbierzmyb46v3da3x4tzudd56tzk6fbbmrrcsypi",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l3vh7vsayp2v"
+                    }
+                },
+                "text": "não, não melhora a seca, isso serve apenas para evitar desabastecimento de energia elétrica e o uso de energia mais caras e mais poluentes. A água economizada na hidrelétrica não limpa o ar, não apaga fogo da floresta."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T18:18:00.553Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3tb2oyfzs2l",
+            "cid": "bafyreid72y6c26cvqry3mz3krtrkze42m5tkdplhya3dks6jopjdydqwqe",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T20:31:14.855Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig555booxpuhqpyi6jmhbolqephnsyhkgb57d7xelh7wdkpxmyebq",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3tb2jrhb52o"
+                    },
+                    "root": {
+                        "cid": "bafyreigml3l4t3dfskpqfapoyfwhbmxatoj7x7knalqf2h73psk2ufr3am",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3tb26eiey2b"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T20:31:14.855Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3qblltwua2u",
+            "cid": "bafyreicgdaadgtpalqciwbo3mdeh73nksoqupmgfpuowsu7sjmwju2rbna",
+            "author": {
+                "did": "did:plc:bwamd6nk7ka242v6ek7vcgcv",
+                "handle": "cedae.com.br",
+                "displayName": "Cedae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwamd6nk7ka242v6ek7vcgcv/bafkreiggd2amq4ce3rprljcburc2atox2ywxlmvwwyzqayzxlfxrm2xova@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T15:07:47.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T16:02:42.930Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicgp7dl76lgv5qskfya67cjulfi7rcb5dquuikrdxpsdesqnjzqzu",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3qblf6ubt2p"
+                    },
+                    "root": {
+                        "cid": "bafyreicdp6cczymtkzpgefbhifxrzftemixaldpolvo2pmkarm3ujoczgq",
+                        "uri": "at://did:plc:bwamd6nk7ka242v6ek7vcgcv/app.bsky.feed.post/3l3qbkkrydo2z"
+                    }
+                },
+                "text": "🏠 Imóveis com caixas d’água e/ou cisterna não devem sofrer desabastecimento. Pedimos aos clientes que adiem tarefas não essenciais com grande consumo de água. Caminhões-pipa podem ser solicitados pelo ☎️ 0800-282-1195."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T16:02:42.930Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l3ghxga27k2s",
+            "cid": "bafyreihrb4dsca5jms5gmsbxrkvotr2edmngnmolsft356b3qah52b4oau",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T18:30:03.489553Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pouso Alegre registrou falta d'água; Varginha está com mananciais reduzidos; Passos não descarta a possibilidade de rodízio de água; e Poços de Caldas registra níveis de reservatórios em queda.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidmqogblp7f6rxqn5azedl2mbb6splqsjbyjkohdbxf7unp4gd3zm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 144802
+                        },
+                        "title": "Sul de Minas sofre risco de desabastecimento de água devido ao período de estiagem; entenda impactos",
+                        "uri": "https://g1.globo.com/mg/sul-de-minas/noticia/2024/09/05/sul-de-minas-sofre-risco-de-desabastecimento-de-agua-devido-ao-periodo-de-estiagem-entenda-impactos.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sul de Minas sofre risco de desabastecimento de água devido ao período de estiagem; entenda impactos"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mg/sul-de-minas/noticia/2024/09/05/sul-de-minas-sofre-risco-de-desabastecimento-de-agua-devido-ao-periodo-de-estiagem-entenda-impactos.ghtml",
+                    "title": "Sul de Minas sofre risco de desabastecimento de água devido ao período de estiagem; entenda impactos",
+                    "description": "Pouso Alegre registrou falta d'água; Varginha está com mananciais reduzidos; Passos não descarta a possibilidade de rodízio de água; e Poços de Caldas registra níveis de reservatórios em queda.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidmqogblp7f6rxqn5azedl2mbb6splqsjbyjkohdbxf7unp4gd3zm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T18:30:03.489Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l3dglyaz5l2l",
+            "cid": "bafyreidzmbwocbj5hbctsbab2l7zrnarwfpu27l636nuy7t22kh4sthkne",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T13:27:48.467Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Natália Resende, secretária de Meio Ambiente do governo de SP, diz que ações de 'curtíssimo prazo' foram tomadas diante da seca",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieswz527gcn6sxause7gnmzt7aqbwmjrcb35v2hjqhrtdg7wdbcka"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 681335
+                        },
+                        "title": "Crise do clima acelera ações contra desabastecimento em SP - 04/09/2024 - Cotidiano - Folha",
+                        "uri": "https://mla.bs/8983dc21"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Crise climática faz gestão Tarcísio acelerar ações contra desabastecimento de água"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mla.bs/8983dc21",
+                    "title": "Crise do clima acelera ações contra desabastecimento em SP - 04/09/2024 - Cotidiano - Folha",
+                    "description": "Natália Resende, secretária de Meio Ambiente do governo de SP, diz que ações de 'curtíssimo prazo' foram tomadas diante da seca",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreieswz527gcn6sxause7gnmzt7aqbwmjrcb35v2hjqhrtdg7wdbcka@jpeg"
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 2,
+            "likeCount": 18,
+            "quoteCount": 3,
+            "indexedAt": "2024-09-04T13:27:48.467Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d6jg2c6qhcqs7lzauo2bwiwy/app.bsky.feed.post/3l2x65hrxmu2l",
+            "cid": "bafyreicyqtlnha2v6ctas2bqgillm2st5feer4ngvvumefgcigcchifxqq",
+            "author": {
+                "did": "did:plc:d6jg2c6qhcqs7lzauo2bwiwy",
+                "handle": "tincorporea.bsky.social",
+                "displayName": "an@",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreiazjmfokvkk4t3wnrjdhq73pqm6uor7dnjjmoq6whtjdwk62uzrg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-09T16:07:43.345Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-30T16:24:34.674Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreierrlhhhsmzqodlh5iafwouzdbzkckcay2f4i4np7ay2odta3nqdy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 565684
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihyvwbhaoye7dddqtlo62exy4k53xsipt7tsye2dlh5uzxxh7dgie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 501346
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibjei73nj3izlm7ib7ov7bupvi5lvfd2ghmyqrshrivjnv3negxwy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 607137
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif7vtuwb2imjw3wkqm22t5da65y46bel5j3pyqbqocgu735clwfiy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 504510
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "HQ sobre as catástrofe climática, águas e povos indígenas que fiz durante as enchentes do RS. \nMesmo com o desabastecimento de água, uma retomada Kaingang compartilha com as comunidades do entorno, água vinda de nascente que atravessa o território. \nPovos indígenas protegem a floresta e as águas\n1/2"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreierrlhhhsmzqodlh5iafwouzdbzkckcay2f4i4np7ay2odta3nqdy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreierrlhhhsmzqodlh5iafwouzdbzkckcay2f4i4np7ay2odta3nqdy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreihyvwbhaoye7dddqtlo62exy4k53xsipt7tsye2dlh5uzxxh7dgie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreihyvwbhaoye7dddqtlo62exy4k53xsipt7tsye2dlh5uzxxh7dgie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreibjei73nj3izlm7ib7ov7bupvi5lvfd2ghmyqrshrivjnv3negxwy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreibjei73nj3izlm7ib7ov7bupvi5lvfd2ghmyqrshrivjnv3negxwy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreif7vtuwb2imjw3wkqm22t5da65y46bel5j3pyqbqocgu735clwfiy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d6jg2c6qhcqs7lzauo2bwiwy/bafkreif7vtuwb2imjw3wkqm22t5da65y46bel5j3pyqbqocgu735clwfiy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-30T16:24:34.674Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kwwetnsdgg2o",
+            "cid": "bafyreibbmrziu6bnnmahepfwobbqh5lmvrduophnbtaruz2vzoa5psu3ea",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-10T11:10:53.663120Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pelo menos cinco localidades devem enfrentar desabastecimento até a tarde, de acordo com a Companhia de Saneamento de Sergipe (Deso).",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiexdutjqqpnntu3az4233wflzi4i2lfv3gfow2m3xi7mqynjilcnu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 296158
+                        },
+                        "title": "Rompimento de rede de água causa cratera e desabastecimento na Zona Norte de Aracaju; veja locais afetados",
+                        "uri": "https://g1.globo.com/se/sergipe/noticia/2024/07/10/falta-de-agua-na-zona-norte-de-aracaju.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rompimento de rede de água causa cratera e desabastecimento na Zona Norte de Aracaju; veja locais afetados"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/se/sergipe/noticia/2024/07/10/falta-de-agua-na-zona-norte-de-aracaju.ghtml",
+                    "title": "Rompimento de rede de água causa cratera e desabastecimento na Zona Norte de Aracaju; veja locais afetados",
+                    "description": "Pelo menos cinco localidades devem enfrentar desabastecimento até a tarde, de acordo com a Companhia de Saneamento de Sergipe (Deso).",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiexdutjqqpnntu3az4233wflzi4i2lfv3gfow2m3xi7mqynjilcnu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-10T11:10:53.663Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kwfhuy7hmv2v",
+            "cid": "bafyreiedkktiywqdfqefxiklmn7uisxezerazj5pujwwtpif2cgcxbb3he",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-03T17:50:03.451162Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "g1 lista serviços feitos pela Equatorial Energia e também pela Companhia de Saneamento do Pará (Cosanpa) em diferentes locais e horários.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigow3tyajzl6fkbap3egn2fhewuaw57rjxhziv2d2gtkhmvtsijka"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 220829
+                        },
+                        "title": "Luz e água: veja onde terá mutirões de serviços e desabastecimento em Julho no Pará",
+                        "uri": "https://g1.globo.com/pa/para/noticia/2024/07/03/luz-e-agua-veja-onde-tera-mutiroes-de-servicos-e-desabastecimento-em-julho-no-para.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Luz e água: veja onde terá mutirões de serviços e desabastecimento em Julho no Pará"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pa/para/noticia/2024/07/03/luz-e-agua-veja-onde-tera-mutiroes-de-servicos-e-desabastecimento-em-julho-no-para.ghtml",
+                    "title": "Luz e água: veja onde terá mutirões de serviços e desabastecimento em Julho no Pará",
+                    "description": "g1 lista serviços feitos pela Equatorial Energia e também pela Companhia de Saneamento do Pará (Cosanpa) em diferentes locais e horários.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigow3tyajzl6fkbap3egn2fhewuaw57rjxhziv2d2gtkhmvtsijka@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-03T17:50:03.451Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ktxu2l7tex2a",
+            "cid": "bafyreifjvflkow7ab5ugpihieyae6nv3nx4yyih7h7ykvf4bn4vx75fvse",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-02T21:00:16.960770Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Animal foi encontrado dentro da cabine de captação. Abastecimento deverá ser retomado na noite deste domingo (2), diz Daae. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifh4faaasn7q6kgjl2o4hsjdvhj6c7wesoitwdwfprlf2vtr5yy4q"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 123177
+                        },
+                        "title": "Cobra pode ter causado curto-circuito em estação de água e provocado desabastecimento de 40% dos bairros de Rio Claro ",
+                        "uri": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/06/02/cobra-pode-ter-causado-curto-circuito-em-estacao-de-agua-e-provocado-desabastecimento-de-40percent-dos-bairros-de-rio-claro.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cobra pode ter causado curto-circuito em estação de água e provocado desabastecimento de 40% dos bairros de Rio Claro"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2024/06/02/cobra-pode-ter-causado-curto-circuito-em-estacao-de-agua-e-provocado-desabastecimento-de-40percent-dos-bairros-de-rio-claro.ghtml",
+                    "title": "Cobra pode ter causado curto-circuito em estação de água e provocado desabastecimento de 40% dos bairros de Rio Claro ",
+                    "description": "Animal foi encontrado dentro da cabine de captação. Abastecimento deverá ser retomado na noite deste domingo (2), diz Daae. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifh4faaasn7q6kgjl2o4hsjdvhj6c7wesoitwdwfprlf2vtr5yy4q@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-02T21:00:16.960Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ayqfmlyr4pqvrgh5q4exauu/app.bsky.feed.post/3ksf6rgxayc2q",
+            "cid": "bafyreihlhysjvpd4bkdpgqiqspse7pdqgshh3b6kg4n5vjp7wc24c2rmxy",
+            "author": {
+                "did": "did:plc:4ayqfmlyr4pqvrgh5q4exauu",
+                "handle": "contagemcorona1.bsky.social",
+                "displayName": "Coletivo em Defesa da Vida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ayqfmlyr4pqvrgh5q4exauu/bafkreibrmcfftyupym6wpkh4h62g5norszhf27zephu5yvz2rt5ujlurti@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-03-17T14:38:26.110Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-13T17:26:14.549Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "⚫️Rio grande do Sul tem 202 mil casas sem água.\n\nNeste momento, o desabastecimento atinge 21 cidades.\n\nInformações do G1"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-13T17:26:14.549Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3kry2xo25532i",
+            "cid": "bafyreidouav6gdize4w5etr2wbotiui4nqjv5zozj2idaj4m472nuri64i",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-08T12:13:33.788Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Fotografia colorida mostra momento em que voluntários recebem botes que ajudam no resgate de pessoas que vivem em áreas com risco de alagamentos na região de São João, em Porto Alegre. Sobre a imagem há o texto: \"Com 80% do estado afetado pelas chuvas, RS tem fuga em massa de Porto Alegre em busca de água\"",
+                            "aspectRatio": {
+                                "height": 1620,
+                                "width": 1620
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibfkrfcugptrzvzrvb4dvq74n3qk32jqwasopktyz6tyv767375sy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 897303
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mla.bs/3db19907"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 279
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em meio ao caos que tomou conta de Porto Alegre, moradores tem fugido às pressas em direção ao litoral em busca de água. O desabastecimento já atinge parte da capital gaúcha, que também sofre com a falta de energia e de suprimentos, além da ameaça de saques. 📲 Leia: mla.bs/3db19907"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreibfkrfcugptrzvzrvb4dvq74n3qk32jqwasopktyz6tyv767375sy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreibfkrfcugptrzvzrvb4dvq74n3qk32jqwasopktyz6tyv767375sy@jpeg",
+                        "alt": "Fotografia colorida mostra momento em que voluntários recebem botes que ajudam no resgate de pessoas que vivem em áreas com risco de alagamentos na região de São João, em Porto Alegre. Sobre a imagem há o texto: \"Com 80% do estado afetado pelas chuvas, RS tem fuga em massa de Porto Alegre em busca de água\"",
+                        "aspectRatio": {
+                            "height": 1620,
+                            "width": 1620
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-08T12:13:33.788Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3krw7kkr2e32z",
+            "cid": "bafyreiglmn7hwjc2w7bkktelgqmryw2llmuxceeqgithwm4jubneohrnye",
+            "author": {
+                "did": "did:plc:rlnjc4a6ioervuuwjcpr4y4e",
+                "handle": "lucianosresende.bsky.social",
+                "displayName": "lucianosresende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlnjc4a6ioervuuwjcpr4y4e/bafkreiavwxmpsv2kfrdbmpnihyubhrssgrqgbyhxzljdpoafwwp4ajuv2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-07T00:25:28.043Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T18:30:23.316Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Moradores de Porto Alegre e municípios vizinhos enfrentam escassez de produtos nas prateleiras dos supermercados vazias e de gasolina nos postos de combustíveis com as bombas fechadas, além de desabastecimento de água e energia elétrica, devido à chuva histórica que inundou o Rio Grande do Sul."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T18:30:23.316Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i4v7hjiccw6wpqhnfhnltbbb/app.bsky.feed.post/3krvlumqjpw2y",
+            "cid": "bafyreifpdugbpgfds2qvfqpfcnuu7rppn44vmmkvignpc44ctv53jtesvm",
+            "author": {
+                "did": "did:plc:i4v7hjiccw6wpqhnfhnltbbb",
+                "handle": "afonsojrf.bsky.social",
+                "displayName": "Afonso Jr",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreib7vgu6rxoboow5v5pumxrspbbzrw3guhqyr422cofk4ufi5p43dm@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-11T15:30:24.928Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T12:37:39.361Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 461,
+                                "width": 460
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid7ryjwzqs6vyalyi35srwmtblvrsfq7lzskmcrrewttytsperggq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 103407
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihiddmfrqyyrjnfsyozhunyztiyk6cw5v3kpnaetyvrzuw3kaeayi",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3krvkzwulgw22"
+                    },
+                    "root": {
+                        "cid": "bafyreihiddmfrqyyrjnfsyozhunyztiyk6cw5v3kpnaetyvrzuw3kaeayi",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3krvkzwulgw22"
+                    }
+                },
+                "text": "Via @deborahfinocchiaro \n- RS precisa de caminhões-pipa - Porto Alegre já está sem água em diversos pontos da cidade. O risco de desabastecimento é cada vez maior... só 12 caminhões-pipa disponíveis (Jornal do Comércio - 05 de Maio de 2024)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreid7ryjwzqs6vyalyi35srwmtblvrsfq7lzskmcrrewttytsperggq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreid7ryjwzqs6vyalyi35srwmtblvrsfq7lzskmcrrewttytsperggq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 461,
+                            "width": 460
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T12:37:39.361Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i4v7hjiccw6wpqhnfhnltbbb/app.bsky.feed.post/3kruqreo5mb2j",
+            "cid": "bafyreic2qa3unxnfbeep2uycuenzlgqj4uuijfwxpcbxacxoppcnizlqke",
+            "author": {
+                "did": "did:plc:i4v7hjiccw6wpqhnfhnltbbb",
+                "handle": "afonsojrf.bsky.social",
+                "displayName": "Afonso Jr",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreib7vgu6rxoboow5v5pumxrspbbzrw3guhqyr422cofk4ufi5p43dm@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-11T15:30:24.928Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T04:32:39.506Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O jornal de economia e negócios do Rio Grande do Sul",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibdukjtstom43pwmkdyezfsqozkgsamvghskt43e4ompdp574mmra"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 391630
+                        },
+                        "title": "Porto Alegre tem apenas 12 caminhões-pipa disponíveis, diz Melo",
+                        "uri": "https://www.jornaldocomercio.com/geral/2024/05/1153264-porto-alegre-tem-apenas-12-caminhoes-pipa-disponiveis-diz-melo.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:22u3xlfdxqxyzva2fsljotcy"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jornaldocomercio.com/geral/2024/05/1153264-porto-alegre-tem-apenas-12-caminhoes-pipa-disponiveis-diz-melo.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 281,
+                            "byteStart": 241
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "@revistaforum.bsky.social \nRS precisa de caminhões-pipa - Porto Alegre já está sem água... O risco de desabastecimento é cada vez maior, apenas 12 caminhões-pipa estão disponíveis na Capital - 4,4 milhões de habitantes na reg metr. www.jornaldocomercio.com/geral/2024/0..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.jornaldocomercio.com/geral/2024/05/1153264-porto-alegre-tem-apenas-12-caminhoes-pipa-disponiveis-diz-melo.html",
+                    "title": "Porto Alegre tem apenas 12 caminhões-pipa disponíveis, diz Melo",
+                    "description": "O jornal de economia e negócios do Rio Grande do Sul",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreibdukjtstom43pwmkdyezfsqozkgsamvghskt43e4ompdp574mmra@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T04:32:39.506Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3krrnzjlgtt2y",
+            "cid": "bafyreicwvonezwiosqvlodvutzfwviup4doousnwnmmfi35xoi2geumpui",
+            "author": {
+                "did": "did:plc:rlnjc4a6ioervuuwjcpr4y4e",
+                "handle": "lucianosresende.bsky.social",
+                "displayName": "lucianosresende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlnjc4a6ioervuuwjcpr4y4e/bafkreiavwxmpsv2kfrdbmpnihyubhrssgrqgbyhxzljdpoafwwp4ajuv2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-07T00:25:28.043Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T23:05:58.314Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Prefeito de Porto Alegre, Sebastião Melo, fez um apelo aos moradores da capital gaúcha, solicitando que aqueles que possuem residências no litoral deixem a cidade temporariamente, numa tentativa de mitigar os efeitos do desabastecimento de água que assola cerca de 70% da população."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T23:05:58.314Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3krmf6forrg2s",
+            "cid": "bafyreiani3hok6yc44z3zsu3anyui7tunv5lg2hl3x5gg77igb2r2jm64q",
+            "author": {
+                "did": "did:plc:22u3xlfdxqxyzva2fsljotcy",
+                "handle": "revistaforum.com.br",
+                "displayName": "Revista Fórum",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreical2bujjrg6eepu62cgihuzbwqmfxogaxrss7gzphp5igibhavsm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:05:59.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-03T20:44:20.286Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Situação da capital gaúcha é de calamidade; Confira as regiões que serão afetadas pelo desabastecimento de água e eletricidade",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidmczidtj2wmvjyoofqrxvpwxxz7nu7pa5e776i2zavneg3zrlbsm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 769841
+                        },
+                        "title": "Colapso de Porto Alegre: Centro ficará sem luz e 21 bairros terão a água cortada",
+                        "uri": "https://revistaforum.com.br/brasil/2024/5/3/colapso-de-porto-alegre-centro-ficara-sem-luz-21-bairros-tero-agua-cortada-158294.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CRISE CLIMÁTICA\n\nColapso de Porto Alegre: Centro ficará sem luz e 21 bairros terão a água cortada\n\nSituação da capital gaúcha é de calamidade; Confira as regiões que serão afetadas pelo desabastecimento de água e eletricidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/brasil/2024/5/3/colapso-de-porto-alegre-centro-ficara-sem-luz-21-bairros-tero-agua-cortada-158294.html",
+                    "title": "Colapso de Porto Alegre: Centro ficará sem luz e 21 bairros terão a água cortada",
+                    "description": "Situação da capital gaúcha é de calamidade; Confira as regiões que serão afetadas pelo desabastecimento de água e eletricidade",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreidmczidtj2wmvjyoofqrxvpwxxz7nu7pa5e776i2zavneg3zrlbsm@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 13,
+            "likeCount": 50,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-03T20:44:20.286Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kp5idezz452e",
+            "cid": "bafyreifbeesukgeu4ebfrilg5hvgjqawumhefjkxuqptmuqml5ihk6ioyq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-02T11:40:27.991079Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Empresa de internet causou o dano durante instalação de cabos, de acordo com a Companhia Riograndense de Saneamento (Corsan). Jato de água alcançou a altura de prédios.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia7okivt6ntrq77n7vlkxkqgbo5z6v3bivztnlnebwusxj3ra52pq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 58699
+                        },
+                        "title": "VÍDEO: água cobre casas após rompimento de tubulação e causa desabastecimento para 5 mil imóveis em Parobé",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/04/02/video-agua-cobre-casas-apos-rompimento-de-tubulacao-e-causa-desabastecimento-para-5-mil-imoveis-em-parobe.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VÍDEO: água cobre casas após rompimento de tubulação e causa desabastecimento para 5 mil imóveis em Parobé"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/04/02/video-agua-cobre-casas-apos-rompimento-de-tubulacao-e-causa-desabastecimento-para-5-mil-imoveis-em-parobe.ghtml",
+                    "title": "VÍDEO: água cobre casas após rompimento de tubulação e causa desabastecimento para 5 mil imóveis em Parobé",
+                    "description": "Empresa de internet causou o dano durante instalação de cabos, de acordo com a Companhia Riograndense de Saneamento (Corsan). Jato de água alcançou a altura de prédios.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreia7okivt6ntrq77n7vlkxkqgbo5z6v3bivztnlnebwusxj3ra52pq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-02T11:40:27.991Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kk77fpyuax2s",
+            "cid": "bafyreigice4ty7aatdal4vc7zke3r77q6pw5atsvseml6bkilgt75bs474",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-30T13:00:02.965695Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Fechada logo após o incidente, a estação de tratamento da cidade foi reativada nesta terça-feira. Previsão é de que o serviço seja retomado durante a manhã. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiguuantrfaiq6q7klab65mes5at7f5jecigm65534rjkowdhdfmh4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 165677
+                        },
+                        "title": "Procon fiscaliza preços abusivos após desabastecimento de água por vazamento de ácido em Joinville ",
+                        "uri": "https://g1.globo.com/sc/santa-catarina/noticia/2024/01/30/procon-precos-abusivos-desabastecimento-agua-vazamento-rio-joinville-acido.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Procon fiscaliza preços abusivos após desabastecimento de água por vazamento de ácido em Joinville"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sc/santa-catarina/noticia/2024/01/30/procon-precos-abusivos-desabastecimento-agua-vazamento-rio-joinville-acido.ghtml",
+                    "title": "Procon fiscaliza preços abusivos após desabastecimento de água por vazamento de ácido em Joinville ",
+                    "description": "Fechada logo após o incidente, a estação de tratamento da cidade foi reativada nesta terça-feira. Previsão é de que o serviço seja retomado durante a manhã. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiguuantrfaiq6q7klab65mes5at7f5jecigm65534rjkowdhdfmh4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-30T13:00:02.965Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kipis2kgz42k",
+            "cid": "bafyreibw5kmfamuzdao3xhe4uzcznwc7ncnfxdu5eviakm2sela6ael43e",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-11T13:40:12.776764Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A recomendação se baseou em um procedimento administrativo instaurado a partir de denúncias encaminhadas à promotoria de justiça de Araripina. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiddvm5tbn74y7ddbh7z74xnh2zllddb6yw4lumsnlgfbsmxgog7ke"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 234887
+                        },
+                        "title": "MPPE recomenda à Compesa envio de carros-pipa para bairros de Araripina afetados com desabastecimento de água ",
+                        "uri": "https://g1.globo.com/pe/petrolina-regiao/noticia/2024/01/11/mppe-recomenda-a-compesa-envio-de-carros-pipa-para-bairros-de-araripina-afetados-com-desabastecimento-de-agua.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "MPPE recomenda à Compesa envio de carros-pipa para bairros de Araripina afetados com desabastecimento de água"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pe/petrolina-regiao/noticia/2024/01/11/mppe-recomenda-a-compesa-envio-de-carros-pipa-para-bairros-de-araripina-afetados-com-desabastecimento-de-agua.ghtml",
+                    "title": "MPPE recomenda à Compesa envio de carros-pipa para bairros de Araripina afetados com desabastecimento de água ",
+                    "description": "A recomendação se baseou em um procedimento administrativo instaurado a partir de denúncias encaminhadas à promotoria de justiça de Araripina. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiddvm5tbn74y7ddbh7z74xnh2zllddb6yw4lumsnlgfbsmxgog7ke@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-11T13:40:12.776Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ke7fmj4vt22m",
+            "cid": "bafyreifinxqgm6jx7g7hrho6nhne4nvbfpqo4q5tavbxcsu4biptdzvlyq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-15T06:20:03.345812Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta foi divulgado após demanda pelo serviço crescer média de 20% nos últimos dias, devido às altas temperaturas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidzbbu4knjonyuoqc33q7dnayqjca4n7uhyfui4hjhuidsgghtaqm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 141849
+                        },
+                        "title": "Onda de calor: aumento de consumo de água pode causar desabastecimento, diz Copasa ",
+                        "uri": "https://g1.globo.com/mg/minas-gerais/noticia/2023/11/15/onda-de-calor-aumento-de-consumo-de-agua-pode-causar-desabastecimento-diz-copasa.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Onda de calor: aumento de consumo de água pode causar desabastecimento, diz Copasa"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/mg/minas-gerais/noticia/2023/11/15/onda-de-calor-aumento-de-consumo-de-agua-pode-causar-desabastecimento-diz-copasa.ghtml",
+                    "title": "Onda de calor: aumento de consumo de água pode causar desabastecimento, diz Copasa ",
+                    "description": "Alerta foi divulgado após demanda pelo serviço crescer média de 20% nos últimos dias, devido às altas temperaturas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidzbbu4knjonyuoqc33q7dnayqjca4n7uhyfui4hjhuidsgghtaqm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-15T06:20:03.345Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kcogcnbqf22h",
+            "cid": "bafyreiez5j6xnz7w4hy4sdatxu5eynbixw342il6oht2uhraibxtrmq5zq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-26T18:51:59.172307Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "De acordo com a Sanepar, a normalização está prevista após às 19h. Companhia orienta para não desperdiçar água neste período.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigblppcjhjiva2w2mmxu6lxesrezb6ocsk7e7cjrsosvqdxa7mqje"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 89417
+                        },
+                        "title": "Rompimento de tubulação de água causa desabastecimento em bairros de Paranavaí nesta quinta-feira (26)",
+                        "uri": "https://g1.globo.com/pr/norte-noroeste/noticia/2023/10/26/rompimento-de-tubulacao-de-agua-causa-desabastecimento-em-bairros-de-paranavai-nesta-quinta-feira-26.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rompimento de tubulação de água causa desabastecimento em bairros de Paranavaí nesta quinta-feira (26)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pr/norte-noroeste/noticia/2023/10/26/rompimento-de-tubulacao-de-agua-causa-desabastecimento-em-bairros-de-paranavai-nesta-quinta-feira-26.ghtml",
+                    "title": "Rompimento de tubulação de água causa desabastecimento em bairros de Paranavaí nesta quinta-feira (26)",
+                    "description": "De acordo com a Sanepar, a normalização está prevista após às 19h. Companhia orienta para não desperdiçar água neste período.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigblppcjhjiva2w2mmxu6lxesrezb6ocsk7e7cjrsosvqdxa7mqje@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-26T18:51:59.172Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kbdnb2sckx2c",
+            "cid": "bafyreib6gotgloweygrwdbcohgilzq2w3qyx5c2pwn3wes5flggtwj2hlq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-09T18:31:53.699420Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Serviço Autônomo de Água e Esgotos (Saae) informa que houve falta de energia elétrica tanto na captação de água bruta quanto na estação de tratamento, mas ainda não há prazo para resolver problemas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidlpcjfbwthuw4ou2csvop4rkwp2t6kdbyogvm3wt6eh7chff4ikm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 93555
+                        },
+                        "title": "Indaiatuba alerta para risco de desabastecimento de água por impactos das chuvas",
+                        "uri": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/10/09/indaiatuba-alerta-para-risco-de-desabastecimento-de-agua-por-impactos-das-chuvas.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Indaiatuba alerta para risco de desabastecimento de água por impactos das chuvas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/10/09/indaiatuba-alerta-para-risco-de-desabastecimento-de-agua-por-impactos-das-chuvas.ghtml",
+                    "title": "Indaiatuba alerta para risco de desabastecimento de água por impactos das chuvas",
+                    "description": "Serviço Autônomo de Água e Esgotos (Saae) informa que houve falta de energia elétrica tanto na captação de água bruta quanto na estação de tratamento, mas ainda não há prazo para resolver problemas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidlpcjfbwthuw4ou2csvop4rkwp2t6kdbyogvm3wt6eh7chff4ikm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-09T18:31:53.699Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kahzznruix2e",
+            "cid": "bafyreih4cecsavsmesypwzwwnv6a23iyfwlzzgkewlelshrwlsbo2fnc3q",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-28T19:05:50.760971Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Defesa Civil Municipal precisou aumentar prazo da Operação Estiagem em 2023, e já esgotou capacidade operacional em mais de 4 mil comunidades. Com decreto de situação de emergência, operação vai poder ampliar medidas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidsof3simigbxnxonw2mkvp6vpykoct6so557a3uexgnjvgw3dcsi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 380021
+                        },
+                        "title": "Com intensa estiagem, pelo menos 17 mil pessoas já foram afetadas por desabastecimento de água em Rio Branco",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2023/09/28/com-intensa-estiagem-pelo-menos-17-mil-pessoas-ja-foram-afetadas-por-desabastecimento-de-agua-em-rio-branco.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com intensa estiagem, pelo menos 17 mil pessoas já foram afetadas por desabastecimento de água em Rio Branco"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2023/09/28/com-intensa-estiagem-pelo-menos-17-mil-pessoas-ja-foram-afetadas-por-desabastecimento-de-agua-em-rio-branco.ghtml",
+                    "title": "Com intensa estiagem, pelo menos 17 mil pessoas já foram afetadas por desabastecimento de água em Rio Branco",
+                    "description": "Defesa Civil Municipal precisou aumentar prazo da Operação Estiagem em 2023, e já esgotou capacidade operacional em mais de 4 mil comunidades. Com decreto de situação de emergência, operação vai poder ampliar medidas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidsof3simigbxnxonw2mkvp6vpykoct6so557a3uexgnjvgw3dcsi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-28T19:05:50.760Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3k6qm4drvqm22",
+            "cid": "bafyreifvarn2mxobdpcipjvqwlefa7g2etcvlj2m2zxxekdd6sscht6uu4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-06T18:00:22.782285Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": " Além de Luiza, outros vários moradores do bairro reclamam da falta de água. Caerd diz que furto de equipamentos causou desabastecimento.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidncwplznrrr4b4v5ovxbnaqqwtlo3cd2p7txzgbrt2dhfwl5btr4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 178455
+                        },
+                        "title": "Moradora sofre há um ano com desabastecimento e usa piscina para armazenar água em Porto Velho",
+                        "uri": "https://g1.globo.com/ro/rondonia/noticia/2023/09/06/moradora-sofre-ha-um-ano-com-desabastecimento-e-usa-piscina-para-armazenar-agua-em-porto-velho.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Moradora sofre há um ano com desabastecimento e usa piscina para armazenar água em Porto Velho"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ro/rondonia/noticia/2023/09/06/moradora-sofre-ha-um-ano-com-desabastecimento-e-usa-piscina-para-armazenar-agua-em-porto-velho.ghtml",
+                    "title": "Moradora sofre há um ano com desabastecimento e usa piscina para armazenar água em Porto Velho",
+                    "description": " Além de Luiza, outros vários moradores do bairro reclamam da falta de água. Caerd diz que furto de equipamentos causou desabastecimento.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidncwplznrrr4b4v5ovxbnaqqwtlo3cd2p7txzgbrt2dhfwl5btr4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-06T18:00:22.782Z",
+            "labels": []
+        }
+    ]
+}

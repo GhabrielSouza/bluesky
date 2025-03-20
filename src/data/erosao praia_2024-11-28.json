@@ -1,0 +1,692 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:bo3y2n2q5u7cbukw3hlstduo/app.bsky.feed.post/3la36wa3blod2",
+            "cid": "bafyreigjnazqzo5wgbna7lzfmmtxrkmscj2laepcom7dpxbdvncn5cjy4e",
+            "author": {
+                "did": "did:plc:bo3y2n2q5u7cbukw3hlstduo",
+                "handle": "marcelolm.mastodon.social.ap.brid.gy",
+                "displayName": "marcelo 🇵🇸🇮🇱🕊️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bo3y2n2q5u7cbukw3hlstduo/bafkreiaziosxrbufslnklmbosdqty74yqw4hrxda2opcqcu5ew3rm6kfui@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:bo3y2n2q5u7cbukw3hlstduo",
+                        "uri": "at://did:plc:bo3y2n2q5u7cbukw3hlstduo/app.bsky.actor.profile/self",
+                        "cid": "bafyreice4m2k3upuk2yad5vrevzbqpi76ook7scd7jtxoqle5xqdsq2n7a",
+                        "val": "bridged-from-bridgy-fed-activitypub",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2024-07-13T05:39:45.674Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "bridgyOriginalText": "<p><a href=\"https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">noticias.uol.com.br/colunas/ca</span><span class=\"invisible\">rlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm</span></a></p>",
+                "bridgyOriginalUrl": "https://mastodon.social/@marcelolm/113421247952299271",
+                "createdAt": "2024-11-03T21:54:57.000Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-03T21:55:05.686Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zwxl6dnun52q3ywiao2ad3if/app.bsky.feed.post/3l7xrhy7q7tq2",
+            "cid": "bafyreiaexpa6uyb7bxjdkndusb2k6kftbtj2bwmgrblyemvdmh2dbw7qni",
+            "author": {
+                "did": "did:plc:zwxl6dnun52q3ywiao2ad3if",
+                "handle": "FlipboardBR.flipboard.com.ap.brid.gy",
+                "labels": [],
+                "createdAt": "0001-01-01T00:00:00.000Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "bridgyOriginalText": "<p>Ap&oacute;s obras, rio avan&ccedil;a 13 m ao ano e pode 'engolir' praia paradis&iacute;aca em SE<br /><a href=\"https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&amp;utm_medium=activitypub\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">noticias.uol.com.br/colunas/ca</span><span class=\"invisible\">rlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Posted into Ci&ecirc;ncia <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz\" class=\"u-url mention\">@<span>ci-ncia-FlipboardBR</span></a></span></p>",
+                "bridgyOriginalUrl": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0",
+                "createdAt": "2024-11-02T13:15:48.000Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "$type": "app.bsky.embed.external#external",
+                        "description": "",
+                        "title": "Original post on flipboard.com",
+                        "uri": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&utm_medium=activitypub"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 79
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Após obras, rio avança 13 m ao ano e pode 'engolir' praia paradisíaca em SE\nhttps://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&utm_medium=activitypub \n\nPosted into Ciência […]"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0",
+                    "title": "Original post on flipboard.com",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T13:16:27.682Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tledqi35vmiik4pywehxkt7x/app.bsky.feed.post/3l6bbhpssgp2q",
+            "cid": "bafyreihlv3refwfr2c3msp7vhokizhrv5nuupjfpvmjwwreoeycyfsfvqu",
+            "author": {
+                "did": "did:plc:tledqi35vmiik4pywehxkt7x",
+                "handle": "lindabrasilse.bsky.social",
+                "displayName": "Linda Brasil 🪭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tledqi35vmiik4pywehxkt7x/bafkreiai7a2spuvlqizl3ecixwu653mlrnw7mjoeopg3yvb7k5novd3s4y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:42:03.881Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T21:06:14.000Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Pesquisadores do Laboratório de Progeologia da UFS monitoram litoral sergipano\n\nA erosão costeira na Praia do Saco, no município de Estância, no litoral sul de Sergipe, fez as águas do Rio Piauí avanç...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibiwkxeoi2c4jum5rnvgaszblry43khjl7yohizcm6uoipugsnblq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 651549
+                        },
+                        "title": "Erosão faz rio avançar 130m em 10 anos e ameaça Praia do Saco, diz pesquisa da UFS - Cinform Online",
+                        "uri": "https://cinformonline.com.br/erosao-faz-rio-avancar-130m-em-10-anos-e-ameaca-praia-do-saco-diz-pesquisa-da-ufs/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Como denunciamos no ano passado, a Praia do Viral, aqui em Sergipe, corre o risco de desaparecer! \n\nAlém da questão da erosão costeira, a negligência do Governo de Sergipe e da Prefeitura de Aracaju com as mudanças climáticas, bem como o desrespeito à natureza, contribuíram para acelerar o processo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://cinformonline.com.br/erosao-faz-rio-avancar-130m-em-10-anos-e-ameaca-praia-do-saco-diz-pesquisa-da-ufs/",
+                    "title": "Erosão faz rio avançar 130m em 10 anos e ameaça Praia do Saco, diz pesquisa da UFS - Cinform Online",
+                    "description": "Pesquisadores do Laboratório de Progeologia da UFS monitoram litoral sergipano\n\nA erosão costeira na Praia do Saco, no município de Estância, no litoral sul de Sergipe, fez as águas do Rio Piauí avanç...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tledqi35vmiik4pywehxkt7x/bafkreibiwkxeoi2c4jum5rnvgaszblry43khjl7yohizcm6uoipugsnblq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 28,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T21:06:13.209Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l66xeh7rzy2x",
+            "cid": "bafyreictbb74vg2ckl3a4orx3nsyslrjxh3k5icbpn7oq77vw44ao6cywe",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T23:00:03.191538Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Residências e bares afetados com o avanço do mar foram desocupados nos últimos meses na Praia do saco.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib3up6vekt3aq4o4ht3hy65wf5dbz3mtpo2ovxf26t3rbzaeixotm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 186156
+                        },
+                        "title": "Pesquisadores da UFS identificam aumento da erosão costeira na região da Praia do Saco em Estância",
+                        "uri": "https://g1.globo.com/se/sergipe/noticia/2024/10/10/pesquisadores-da-ufs-identificam-aumento-da-erosao-costeira-na-regiao-da-praia-do-saco-em-estancia.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pesquisadores da UFS identificam aumento da erosão costeira na região da Praia do Saco em Estância"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/se/sergipe/noticia/2024/10/10/pesquisadores-da-ufs-identificam-aumento-da-erosao-costeira-na-regiao-da-praia-do-saco-em-estancia.ghtml",
+                    "title": "Pesquisadores da UFS identificam aumento da erosão costeira na região da Praia do Saco em Estância",
+                    "description": "Residências e bares afetados com o avanço do mar foram desocupados nos últimos meses na Praia do saco.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreib3up6vekt3aq4o4ht3hy65wf5dbz3mtpo2ovxf26t3rbzaeixotm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T23:00:03.191Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fnkt6x2xo5syovyx7sekrqd4/app.bsky.feed.post/3l5pjo72s4r2u",
+            "cid": "bafyreihg7ocnroxlqm5u57icaks336lde623aq2265qrr2sw44gxsuzjiu",
+            "author": {
+                "did": "did:plc:fnkt6x2xo5syovyx7sekrqd4",
+                "handle": "98fmnatal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fnkt6x2xo5syovyx7sekrqd4/bafkreigk7px6qa3p7lauko45mvf45yr7ozbwebsnzwatrrmkykqujkffae@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-05T15:07:56.941Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T19:45:04.082Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Prefeitura de Natal decidiu incluir a área da Praia da Redinha no âmbito da situação de emergência decretada no último dia 20 de setembro de 2024, para adoção de medidas preventivas e emergenciais d...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifjxtjvxszicw63fmw6n5so5gsk6oztrtjh7nm2nqkw2jpps757ge"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 840068
+                        },
+                        "title": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha - Portal 98 FM Natal",
+                        "uri": "https://98fmnatal.com.br/ultimas/prefeitura-inclui-a-praia-da-redinha-em-decreto-de-emergencia-por-erosao-marinha/261750/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://98fmnatal.com.br/ultimas/prefeitura-inclui-a-praia-da-redinha-em-decreto-de-emergencia-por-erosao-marinha/261750/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 83
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha\n98fmnatal.com.br/ultimas/pref..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://98fmnatal.com.br/ultimas/prefeitura-inclui-a-praia-da-redinha-em-decreto-de-emergencia-por-erosao-marinha/261750/",
+                    "title": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha - Portal 98 FM Natal",
+                    "description": "A Prefeitura de Natal decidiu incluir a área da Praia da Redinha no âmbito da situação de emergência decretada no último dia 20 de setembro de 2024, para adoção de medidas preventivas e emergenciais d...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fnkt6x2xo5syovyx7sekrqd4/bafkreifjxtjvxszicw63fmw6n5so5gsk6oztrtjh7nm2nqkw2jpps757ge@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T19:45:04.082Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l5p6rrm7h62l",
+            "cid": "bafyreicitjggbqj4qpnjmbsu2apzohcnki23xekvofucbn2ub2cp5mn7aa",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T16:30:11.074842Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo a gestão de Natal, secretarias avaliam que medidas serão tomadas na área afetada.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicvo3r6qkqgowyqhqcfy2vy5srpc6vs6r4v7hhjiui65uwmfdzbte"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 295840
+                        },
+                        "title": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha",
+                        "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/10/04/prefeitura-inclui-a-praia-da-redinha-em-decreto-de-emergencia-por-erosao-marinha.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/10/04/prefeitura-inclui-a-praia-da-redinha-em-decreto-de-emergencia-por-erosao-marinha.ghtml",
+                    "title": "Prefeitura inclui a Praia da Redinha em decreto de emergência por erosão marinha",
+                    "description": "Segundo a gestão de Natal, secretarias avaliam que medidas serão tomadas na área afetada.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicvo3r6qkqgowyqhqcfy2vy5srpc6vs6r4v7hhjiui65uwmfdzbte@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T16:30:11.074Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he4fgjzm2a",
+            "cid": "bafyreigeklel6xb52bnhuzwv5pryl2sgvqi5ygkkxy3pzhka3u62emhmza",
+            "author": {
+                "did": "did:plc:3v7xhunqm5r7bi2nzb74aa3s",
+                "handle": "lfragasantanna.bsky.social",
+                "displayName": "LFraga Sant'Anna-Represente legal d Lou Andreas-Salomé🐶 no 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3v7xhunqm5r7bi2nzb74aa3s/bafkreigglv27ppyfq63nc5lhjmytu467ivb5v2hkhvakoddk4wtuv3z2se@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:05:09.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T13:44:19.287Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibhkmijyd5nsvn4ybyjohttcvzj34o5u2scpjltcnrktnhhkic7ha",
+                        "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he3zrlwy2m"
+                    },
+                    "root": {
+                        "cid": "bafyreibhkmijyd5nsvn4ybyjohttcvzj34o5u2scpjltcnrktnhhkic7ha",
+                        "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he3zrlwy2m"
+                    }
+                },
+                "text": "O aquecimento global, somado ao assoreamento do Rio Paraíba, contribuiu para a erosão do litoral de Atafona e causou a destruição de 500 casas, incluindo o desabamento de um prédio de quatro andares na praia"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T13:44:19.287Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3lmb5w6mt24",
+            "cid": "bafyreidk7ijoxphf7cw3wseun3yt5zdlin22qymsxqzhnovhzbx3m2qwgm",
+            "author": {
+                "did": "did:plc:d6tisg6kfsulkb3ce7yvnmkl",
+                "handle": "kemonostudio.bsky.social",
+                "displayName": "Sura VTuber ✦ VGen ✦ COMM OPEN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6tisg6kfsulkb3ce7yvnmkl/bafkreid3yqh4e5elkltjf6f6ebxkyndndyc5k2ks7wah47aghmna27iqdy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-20T00:11:50.407Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T19:30:24.975Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaqokwpstgxfsdf23ewbcszvxwzvhw2azkx3un3cvyj4sliyavdh4",
+                        "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3hbwmmysx2u"
+                    },
+                    "root": {
+                        "cid": "bafyreiaqokwpstgxfsdf23ewbcszvxwzvhw2azkx3un3cvyj4sliyavdh4",
+                        "uri": "at://did:plc:d6tisg6kfsulkb3ce7yvnmkl/app.bsky.feed.post/3l3hbwmmysx2u"
+                    }
+                },
+                "text": "59. Adorava fazer trilha de bike com o pessoal da igreja! Em uma dessas eu levei um tombo por causa de erosão do solo e praticamente \"peguei jacaré\" na estrada!\nMe recusei a continuar no carro de apoio, fui pedalando com a galera até a praia em Arraial, comemos uma farofinha goxtooosa e voltamos! 🤣"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T19:30:24.975Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qjtkxjw7tjqemqopueguweuz/app.bsky.feed.post/3l3iu64sf6q2c",
+            "cid": "bafyreignp3j4kecns6fof4zvmzwkqlpzriynes36rbdrtyi4qvh6qrgq7e",
+            "author": {
+                "did": "did:plc:qjtkxjw7tjqemqopueguweuz",
+                "handle": "lynneee.bsky.social",
+                "displayName": "Oceanógrafa terrestre e continental ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qjtkxjw7tjqemqopueguweuz/bafkreiadoxih6ska2wn6vt2ygl4rbem5zbq6h53tic3gqu6eiet2p422cu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:35:46.185Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T17:13:54.237Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifwlfzzqjucbdiup5m4zny5wqhqgbne5uvgjpq4dzirxnd63r6v5e",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l3itiiglak2m"
+                    },
+                    "root": {
+                        "cid": "bafyreifwlfzzqjucbdiup5m4zny5wqhqgbne5uvgjpq4dzirxnd63r6v5e",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l3itiiglak2m"
+                    }
+                },
+                "text": "Oi! A causa provável na verdade é a erosão da faixa de areia pela remobilização de sedimentos. Conversem com um oceanógrafo ou geomorfologo de praia a respeito :)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T17:13:54.237Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3ks6df3kmke22",
+            "cid": "bafyreic7jrnvpqtrhtuaun7c6r7ncnqvdp3cb5keixc2oteghg63qusi5a",
+            "author": {
+                "did": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                "handle": "agricultorurbano07.bsky.social",
+                "displayName": "Agroflorestor urbano 🌴🌳🍍🍒",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreiecgvuwadkolwab3lkqtsbizeahmhy75cpmjo6ufwrt763dnsbsdm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.actor.profile/self",
+                        "cid": "bafyreierwxfaj77qpxpf7v2sfpg5tygvfyhclxmefodd6xad4hgsgqdoga",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-12-22T22:55:23.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-11T00:00:41.370Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: Disappointed Face Palm GIF",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib7y4qbmccuuqakxrrlzijsqzgdvbvkvzvs2yt4xfa5nhddaxaqyu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 731460
+                        },
+                        "title": "Disappointed Face Palm GIF",
+                        "uri": "https://media.tenor.com/D8U9CyNuL5wAAAAC/disappointed-face-palm.gif?hh=275&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifap3knycqadmb2g26ht3d3pnutialqzodrfuwpxwzbmhsli65fke",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3ks6chx3hys2z"
+                    },
+                    "root": {
+                        "cid": "bafyreiczmj6b5lhdkrx5mm2pp5eqdiwrzhloul2u3gynbrdp6m5rm4v2my",
+                        "uri": "at://did:plc:eydnveb4lcklixjslg2l5ft4/app.bsky.feed.post/3ks2kxi52p72t"
+                    }
+                },
+                "text": "O exemplo mais extremo de impacto é o Palm Jumeirah em Dubai: ele desvia a corrente marítima paralela à costa, que depois volta com força na orla, gerando erosão da praia. Aí, eles têm que ficar permanentemente repondo areia da praia pra não afetar as construções à beira-mar."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/D8U9CyNuL5wAAAAC/disappointed-face-palm.gif?hh=275&ww=498",
+                    "title": "Disappointed Face Palm GIF",
+                    "description": "ALT: Disappointed Face Palm GIF",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreib7y4qbmccuuqakxrrlzijsqzgdvbvkvzvs2yt4xfa5nhddaxaqyu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-11T00:00:13.557Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3krxkku42y22d",
+            "cid": "bafyreid4qf27nogll422i3ie4bysghhsxzlhhbon6uwblf6vdbcduhldpu",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-08T07:20:02.265009Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Município de Balneário Piçarras lançou edital para os trabalhos, que prevê custos de R$ 24,2 milhões. Local já passou três engordamentos de faixa entre 1998 e 2012. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifoniiwrgmqsyqs6coay6ge2unjwyt7qmux72kaptwwcgqmrgv5i4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 151472
+                        },
+                        "title": "Praia alargada em SC passará por 4° engordamento de faixa de areia em 25 anos para conter erosão",
+                        "uri": "https://g1.globo.com/sc/santa-catarina/noticia/2024/05/08/praia-balneario-picarras-quarto-alagamento-25-anos.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Praia alargada em SC passará por 4° engordamento de faixa de areia em 25 anos para conter erosão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sc/santa-catarina/noticia/2024/05/08/praia-balneario-picarras-quarto-alagamento-25-anos.ghtml",
+                    "title": "Praia alargada em SC passará por 4° engordamento de faixa de areia em 25 anos para conter erosão",
+                    "description": "Município de Balneário Piçarras lançou edital para os trabalhos, que prevê custos de R$ 24,2 milhões. Local já passou três engordamentos de faixa entre 1998 e 2012. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifoniiwrgmqsyqs6coay6ge2unjwyt7qmux72kaptwwcgqmrgv5i4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-08T07:20:02.265Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kdafb7xv4v24",
+            "cid": "bafyreicrn26zqosfpm7w2svwbgnsxps4rcws3swwxzige33b4pay6l726y",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-02T22:21:13.231346Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Objetivo é capacitar o município para a utilização do Sistema de Aviso de Ressacas e Inundações Costeiras para o litoral de São Paulo (Saric).",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifowuv57fyjhght4s4ewvjyssmjshcyy6zb7epdiu3kenmf4r5bjm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 205367
+                        },
+                        "title": "Autoridades realizam visita técnica para tratar erosão na praia de Guaratuba, SP",
+                        "uri": "https://g1.globo.com/sp/santos-regiao/noticia/2023/11/02/autoridades-realizam-visita-tecnica-para-tratar-erosao-na-praia-de-guaratuba-sp.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Autoridades realizam visita técnica para tratar erosão na praia de Guaratuba, SP"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/santos-regiao/noticia/2023/11/02/autoridades-realizam-visita-tecnica-para-tratar-erosao-na-praia-de-guaratuba-sp.ghtml",
+                    "title": "Autoridades realizam visita técnica para tratar erosão na praia de Guaratuba, SP",
+                    "description": "Objetivo é capacitar o município para a utilização do Sistema de Aviso de Ressacas e Inundações Costeiras para o litoral de São Paulo (Saric).",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifowuv57fyjhght4s4ewvjyssmjshcyy6zb7epdiu3kenmf4r5bjm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-02T22:21:13.231Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,976 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l5zc736lbi22",
+            "cid": "bafyreidogbpdyjkphedx42okdyelclihs73ze27ow4fv6dgchrhmjlyjoi",
+            "author": {
+                "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                "handle": "daniambiental.bsky.social",
+                "displayName": "daniambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-24T15:56:30.913Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T16:57:58.131Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Bonito (MS), tem sido alvo de crescentes desafios ambientais decorrentes da expansão agrícola, é o que aponta uma análise técnica.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie7a4wfmlaymrlacl6e7khhvgvizicmak3ycvpmcg65cmao5u3ysa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 942604
+                        },
+                        "title": "Análise técnica apresentada por instituições revela ameaças ao município de Bonito",
+                        "uri": "https://observatorio3setor.org.br/analise-tecnica-apresentada-por-instituicoes-revela-ameacas-ao-municipio-de-bonito/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://observatorio3setor.org.br/analise-tecnica-apresentada-por-instituicoes-revela-ameacas-ao-municipio-de-bonito/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 233
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Análise técnica apresentada por instituições revela ameaças ao município de Bonito MS \nA expansão da utilização do solo para a monocultura da soja revela um dos dados mais impactantes no estudo elaborado pelo SOS Pantanal.  observatorio3setor.org.br/analise-tecn..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://observatorio3setor.org.br/analise-tecnica-apresentada-por-instituicoes-revela-ameacas-ao-municipio-de-bonito/",
+                    "title": "Análise técnica apresentada por instituições revela ameaças ao município de Bonito",
+                    "description": "Bonito (MS), tem sido alvo de crescentes desafios ambientais decorrentes da expansão agrícola, é o que aponta uma análise técnica.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreie7a4wfmlaymrlacl6e7khhvgvizicmak3ycvpmcg65cmao5u3ysa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T16:57:58.131Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3omubhiy7kgqdl3brq6cfxy5/app.bsky.feed.post/3l4mgb47b2o2z",
+            "cid": "bafyreieudlgmhxunism37sf4g5zzt2gpiozlqbbc7fygfn5wxv7ltwqekq",
+            "author": {
+                "did": "did:plc:3omubhiy7kgqdl3brq6cfxy5",
+                "handle": "mianmianwuxian.bsky.social",
+                "displayName": "MianmianWuxian",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3omubhiy7kgqdl3brq6cfxy5/bafkreigpd3lde434qhez7nob6xxsu4c4jw5a4u3ve5aizpqkuxfpfk55zq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T14:53:11.096Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T20:40:52.505Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:grldyvgqlohx7ngay554snne"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 33,
+                            "byteStart": 5
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:kuot5znw7c6hktg3b3g3rzod"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 58,
+                            "byteStart": 35
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:zmfyrcmiwga5l7zawowq7qon"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 80,
+                            "byteStart": 60
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 106,
+                            "byteStart": 82
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:yhbellcxbt23qw6giv4cycgi"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 131,
+                            "byteStart": 108
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SOS"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 137,
+                            "byteStart": 133
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiehgx6ya4i2toas2uluwq63ool53vfj5uo4esfxlqdwpjxhdkobte",
+                        "uri": "at://did:plc:7gqzvve2gkp2mdxtauy5m4oh/app.bsky.feed.post/3l4m2mpppld2a"
+                    },
+                    "root": {
+                        "cid": "bafyreiehgx6ya4i2toas2uluwq63ool53vfj5uo4esfxlqdwpjxhdkobte",
+                        "uri": "at://did:plc:7gqzvve2gkp2mdxtauy5m4oh/app.bsky.feed.post/3l4m2mpppld2a"
+                    }
+                },
+                "text": "Alou @meioambientegov.bsky.social \n@mdhcbrasil.bsky.social \n@mjspgov.bsky.social \n@marinasilva.bsky.social \n@carlosminc.bsky.social \n#SOS para APP Pantanal"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T20:40:52.505Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmkjof7vnb5sa6iojwckm4au/app.bsky.feed.post/3l4fdfvoixb2h",
+            "cid": "bafyreieemi4xpw3kkze3jdxuxiz7smdwj34nzmepsvceb2hbkpo24w3fri",
+            "author": {
+                "did": "did:plc:bmkjof7vnb5sa6iojwckm4au",
+                "handle": "dayse1950.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmkjof7vnb5sa6iojwckm4au/bafkreickhcbede2amde3tynydxuy6t6vpxbpq3eayyoqsar4vbcpgvgyyy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-22T15:05:09.983Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T01:01:14.859Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by SOS Pantanal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibnkgicvfw77p2mwegigfeqdbcz5o4ktanvoe3pdod4heks46q7qe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 254571
+                        },
+                        "title": "Oh, Pantanal",
+                        "uri": "https://www.youtube.com/watch?v=laqmP8JJzfE"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.youtube.com/watch?v=laqmP8JJzfE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 31,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifuilo63yjuilqii4oye5zlr2725tcrceuouwu57plg6epy3ijaqm",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l4f6ur5dv52x"
+                    },
+                    "root": {
+                        "cid": "bafyreifuilo63yjuilqii4oye5zlr2725tcrceuouwu57plg6epy3ijaqm",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l4f6ur5dv52x"
+                    }
+                },
+                "text": "www.youtube.com/watch?v=laqm...\nSOS Pantanal\nLetra: Carlos Rennó"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.youtube.com/watch?v=laqmP8JJzfE",
+                    "title": "Oh, Pantanal",
+                    "description": "YouTube video by SOS Pantanal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmkjof7vnb5sa6iojwckm4au/bafkreibnkgicvfw77p2mwegigfeqdbcz5o4ktanvoe3pdod4heks46q7qe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T01:01:14.614Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7n6cwrutffi5vjmkqfibu3np/app.bsky.feed.post/3l4e7fj5lkx2h",
+            "cid": "bafyreie5b4mc3vcz3zy7byhwfumqbuw4o76d66ondjpxtkrkohhb5mo6ke",
+            "author": {
+                "did": "did:plc:7n6cwrutffi5vjmkqfibu3np",
+                "handle": "arthurfisch.bsky.social",
+                "displayName": "Arthur Fisch",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7n6cwrutffi5vjmkqfibu3np/bafkreifgw4mye6o3sjh3qaudbtw524fpvsvoqaj3m6j7of7hwbg3tqfnfy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T01:18:43.818Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T14:16:48.931Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Existem diferentes maneiras de ajudar na construção de um mundo mais verde, justo e pacífico. Apoie com doações, participando de um abaixo-assinado, se voluntariando ou se mobilizando de diversas form...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid5tzjkcz6og725f2ayvg2w7ffotqj6lcqsojvvnfgw26at4wujri"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 850203
+                        },
+                        "title": "Como ajudar - Greenpeace Brasil",
+                        "uri": "https://www.greenpeace.org/brasil/participe"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.greenpeace.org/brasil/participe"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 122
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.sospantanal.org.br"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 272
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig5vzhlloxpuqzw47slby4fdhbjilg4qgdzgpcwii346wt6qtushm",
+                        "uri": "at://did:plc:7n6cwrutffi5vjmkqfibu3np/app.bsky.feed.post/3l4e74s4dcf2c"
+                    },
+                    "root": {
+                        "cid": "bafyreia7frz24ikyvjefxj7chblezycyogju27bvfy7dlfaqrfxpp2ip5u",
+                        "uri": "at://did:plc:7n6cwrutffi5vjmkqfibu3np/app.bsky.feed.post/3l4e6up2nf62x"
+                    }
+                },
+                "text": "*Greenpeace Brasil*\nAceitam voluntários para campanhas de conscientização sobre queimadas e desmatamento.\n🌐 Acesse: www.greenpeace.org/brasil/participe\n\n*SOS Pantanal*\nAtua na proteção do Pantanal e conta com voluntários em ações contra queimadas.\n🌐 Acesse: www.sospantanal.org.br"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.greenpeace.org/brasil/participe",
+                    "title": "Como ajudar - Greenpeace Brasil",
+                    "description": "Existem diferentes maneiras de ajudar na construção de um mundo mais verde, justo e pacífico. Apoie com doações, participando de um abaixo-assinado, se voluntariando ou se mobilizando de diversas form...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7n6cwrutffi5vjmkqfibu3np/bafkreid5tzjkcz6og725f2ayvg2w7ffotqj6lcqsojvvnfgw26at4wujri@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T14:16:47.516Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmkjof7vnb5sa6iojwckm4au/app.bsky.feed.post/3l45ur5hvq42u",
+            "cid": "bafyreifffskmc2yvwl5dbw2jtreappf6fl4lv2tjsrvdo56fuojvn2p264",
+            "author": {
+                "did": "did:plc:bmkjof7vnb5sa6iojwckm4au",
+                "handle": "dayse1950.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmkjof7vnb5sa6iojwckm4au/bafkreickhcbede2amde3tynydxuy6t6vpxbpq3eayyoqsar4vbcpgvgyyy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-22T15:05:09.983Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T01:50:28.384Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by SOS Pantanal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibnkgicvfw77p2mwegigfeqdbcz5o4ktanvoe3pdod4heks46q7qe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 254571
+                        },
+                        "title": "Oh, Pantanal",
+                        "uri": "https://youtu.be/laqmP8JJzfE"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/laqmP8JJzfE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "youtu.be/laqmP8JJzfE\n\nLiberada na íntegraa canção . com letra de Carlos Rennó\n'SOS Pantanal'"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/laqmP8JJzfE",
+                    "title": "Oh, Pantanal",
+                    "description": "YouTube video by SOS Pantanal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmkjof7vnb5sa6iojwckm4au/bafkreibnkgicvfw77p2mwegigfeqdbcz5o4ktanvoe3pdod4heks46q7qe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T01:50:27.518Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l455bhayif2a",
+            "cid": "bafyreicy4aqihbcyqcbfe2nh3jtznaixuqnave7tbs6snkc63yghwkj7au",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T18:50:03.150661Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "“Oh Pantanal” conta com a participação de Maria Gadú, Letícia Sabatella, Tetê Espíndola e outros artistas. Terra da Gente fez o lançamento com exclusividade.  ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig23kogarbndtgwltvnxasmaocqrsh2kzvylbreztaqqju3gnhlom"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 121541
+                        },
+                        "title": "SOS Pantanal lança clipe em defesa do Pantanal",
+                        "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/09/14/sos-pantanal-lanca-clipe-em-defesa-da-pantanal.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "SOS Pantanal lança clipe em defesa da Pantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/09/14/sos-pantanal-lanca-clipe-em-defesa-da-pantanal.ghtml",
+                    "title": "SOS Pantanal lança clipe em defesa do Pantanal",
+                    "description": "“Oh Pantanal” conta com a participação de Maria Gadú, Letícia Sabatella, Tetê Espíndola e outros artistas. Terra da Gente fez o lançamento com exclusividade.  ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreig23kogarbndtgwltvnxasmaocqrsh2kzvylbreztaqqju3gnhlom@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T18:50:03.150Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4scf5sn27r23bxqxq773fiog/app.bsky.feed.post/3l424thjzhm2g",
+            "cid": "bafyreidwlli346xqarihc7ijrnbmfyrbfacompbnuwmhflrzfns33twc2q",
+            "author": {
+                "did": "did:plc:4scf5sn27r23bxqxq773fiog",
+                "handle": "tomuqn.bsky.social",
+                "displayName": "tomuqn",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4scf5sn27r23bxqxq773fiog/bafkreigm3hlikcgp6yopkzjs4iq6aw7soqfgeris5zmklzfearvssvatuq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-05T23:22:04.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T14:04:15.419Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Apoie - SOS Pantanal",
+                        "uri": "https://www.sospantanal.org.br/apoie/#doacoes"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.sospantanal.org.br/apoie/#doacoes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 37,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicudvsoo4qvmpi4wdlo2s2a6dc6ldpesrj4snykdj3itjndb5iyoa",
+                        "uri": "at://did:plc:ns3xqq7ozceeo6xmk6bqeylo/app.bsky.feed.post/3l3ytn6hmda2c"
+                    },
+                    "root": {
+                        "cid": "bafyreicudvsoo4qvmpi4wdlo2s2a6dc6ldpesrj4snykdj3itjndb5iyoa",
+                        "uri": "at://did:plc:ns3xqq7ozceeo6xmk6bqeylo/app.bsky.feed.post/3l3ytn6hmda2c"
+                    }
+                },
+                "text": "www.sospantanal.org.br/apoie/#doacoes\n\nThere is a PayPal donation option on the website\n\nSOS Pantanal has programs to encourage brigades and replanting, also, to implementing public policies. There are other ONGs as well, but given the current situation, I believe this is the best option."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.sospantanal.org.br/apoie/#doacoes",
+                    "title": "Apoie - SOS Pantanal",
+                    "description": ""
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T14:04:15.419Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jnsgwuk6ugptsawplgv5ocuc/app.bsky.feed.post/3l3v44gqt5p2f",
+            "cid": "bafyreifshicqyi6clqzkra5ebk4epav5k7gnojt2khrxppyjzim2i4dpyi",
+            "author": {
+                "did": "did:plc:jnsgwuk6ugptsawplgv5ocuc",
+                "handle": "eridimeia.bsky.social",
+                "displayName": "Eridimeia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jnsgwuk6ugptsawplgv5ocuc/bafkreihxrwqccemgpuedafjuyu4gbqtfrzfl3zmnuex3nk7ybizidycwc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jnsgwuk6ugptsawplgv5ocuc",
+                        "uri": "at://did:plc:jnsgwuk6ugptsawplgv5ocuc/app.bsky.actor.profile/self",
+                        "cid": "bafyreidjpswdnsmqmgj2jom5s3hqbmcpzv5cycrttljrhpwjsuqg7qlfie",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-01T15:53:52.283Z"
+                    }
+                ],
+                "createdAt": "2024-09-01T15:53:11.503Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T14:08:02.922Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Apoie o GRAD - GRAD",
+                        "uri": "https://gradbrasil.org.br/apoie-o-grad/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://gradbrasil.org.br/apoie-o-grad/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 24
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "SOS ANIMAIS DO PANTANAL gradbrasil.org.br/apoie-o-grad/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://gradbrasil.org.br/apoie-o-grad/",
+                    "title": "Apoie o GRAD - GRAD",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T14:08:02.922Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r73eggb6i2fdmalxc6eyzfsc/app.bsky.feed.post/3l3ft55vncc2s",
+            "cid": "bafyreihtg5fz2gwk5xlg2qdw52u7rqeiipdts7koqocnwyk2y4p4zbyn2u",
+            "author": {
+                "did": "did:plc:r73eggb6i2fdmalxc6eyzfsc",
+                "handle": "msconecta.bsky.social",
+                "displayName": "MS Conecta • Você em todos os lugares! 🌎",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreicavcstgouhmq6nqxn66zkmvm47e3joxafcoorzstb5wtq6yq7lbq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T23:28:40.942Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T12:17:29.216Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiamqupzd34knfygudfaco3zuucvuk5i4ecdkku5pitl2agiz2x5ay"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 862664
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Diante das queimadas que assolam o Pantanal, artistas brasileiros uniram suas vozes para criar a música \"Oh, Pantanal\", uma iniciativa da Organização Não Governamental (ONG) SOS Pantanal. A canção, cujo teaser na última terça-feira (3), busca chamar a atenção da população para a grave situação."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreiamqupzd34knfygudfaco3zuucvuk5i4ecdkku5pitl2agiz2x5ay@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreiamqupzd34knfygudfaco3zuucvuk5i4ecdkku5pitl2agiz2x5ay@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T12:17:29.216Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kwidhgyhdr2n",
+            "cid": "bafyreifo5j3tbng6pllp5znh7ctlrum5syejpn4citv37ief4g3sezzfs4",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-04T21:08:55.029Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Chegamos ao vigésimo episódio do podcast Entrando no Clima. Aqui você se informa com as últimas notícias sobre as negociações climáticas e impactos da atual ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihjb3y7npwfmr2lpuscss34aonbahrrojsf6vagzrbdkhbemterhm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 904356
+                        },
+                        "title": "Entrando no Clima #20: Tudo menos clima na COP 29 + Pantanal em chamas (novamente)",
+                        "uri": "https://youtu.be/Gx7tJME_Q2M?feature=shared"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/Gx7tJME_Q2M?feature=shared"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 253
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "📢 Entrando no Clima | EP20\n\nCristiane Prizibisczki traz as últimas movimentações para a COP29 no Azerbaijão. Também contamos com a fala de Gustavo Figueiroa, da SOS Pantanal, sobre as queimadas do Pantanal e mudanças climáticas. Confira: 🎧\nyoutu.be/Gx7tJME_Q2M?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/Gx7tJME_Q2M?feature=shared",
+                    "title": "Entrando no Clima #20: Tudo menos clima na COP 29 + Pantanal em chamas (novamente)",
+                    "description": "Chegamos ao vigésimo episódio do podcast Entrando no Clima. Aqui você se informa com as últimas notícias sobre as negociações climáticas e impactos da atual ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreihjb3y7npwfmr2lpuscss34aonbahrrojsf6vagzrbdkhbemterhm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-04T21:08:55.029Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ds2vin5fngzf266d62ws2exc/app.bsky.feed.post/3krlslp6obq2v",
+            "cid": "bafyreihn3hpqwjxrr2rlyda3bcjthbtqp3zecyllzkadduynqbkz2od67y",
+            "author": {
+                "did": "did:plc:ds2vin5fngzf266d62ws2exc",
+                "handle": "zeloliva.bsky.social",
+                "displayName": "🦋Zel Oliva ♊️ 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ds2vin5fngzf266d62ws2exc/bafkreifac4dgwpahvqzvpdxtbnovb7ppsmfq624ibtkvifmsjhmyaae73u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T11:56:38.900Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-03T15:11:45.311Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Toda vegetação “não florestal” do país, de todos os biomas, está em perigo. Mais de 50% do Pantanal está ameaçado",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid5mo4c5k46ujviy4okn2z3ey5otz7bzejssrxrxkfppwygk6ndti"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 493414
+                        },
+                        "title": "Câmara aprova projeto que permite devastar área de campos nativos do tamanho de RS e PR",
+                        "uri": "https://www.socioambiental.org/noticias-socioambientais/camara-aprova-projeto-que-permite-devastar-area-de-campos-nativos-do"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.socioambiental.org/noticias-socioambientais/camara-aprova-projeto-que-permite-devastar-area-de-campos-nativos-do"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 280,
+                            "byteStart": 242
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Se o PL 364/2019 for aprovado, na prática, poderiam ser riscados do mapa mais de 50% do Pantanal, 32% dos Pampas e 7% do Cerrado. Além disso, 15 milhões de hectares na Amazônia também estão ameaçados.” \nDados SOS Mata Atlântica.\nwww.socioambiental.org/noticias-soc..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.socioambiental.org/noticias-socioambientais/camara-aprova-projeto-que-permite-devastar-area-de-campos-nativos-do",
+                    "title": "Câmara aprova projeto que permite devastar área de campos nativos do tamanho de RS e PR",
+                    "description": "Toda vegetação “não florestal” do país, de todos os biomas, está em perigo. Mais de 50% do Pantanal está ameaçado",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ds2vin5fngzf266d62ws2exc/bafkreid5mo4c5k46ujviy4okn2z3ey5otz7bzejssrxrxkfppwygk6ndti@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-03T15:11:45.311Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2t3si2y4wj73tc67zatse5qu/app.bsky.feed.post/3kq6fls47pr25",
+            "cid": "bafyreiawams3umusnq3yixb73wf6imdlqbrqon6bw6rpjjy4hsyw4dzgyu",
+            "author": {
+                "did": "did:plc:2t3si2y4wj73tc67zatse5qu",
+                "handle": "annpenha.bsky.social",
+                "displayName": "Anne ☕️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreifxr3lbknj6cj7hu6e6ehlsqrbxy2o543pzdj2dt7czvwiqktnjjm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-02T03:20:04.376Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T13:49:21.627Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O fazendeiro usou 25 agrotóxicos diferentes, um deles tem a substância 2,4-D - a mesma presente na composição do chamado agente laranja. Trata-se de um desfolhante químico altamente tóxico usado pelos...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiftdhpcojzlglthygtfiipa5g4pbyhchsz46m77ocemloytchq4tq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 379845
+                        },
+                        "title": "Agente laranja: pecuarista desmata o Pantanal com substância altamente tóxica",
+                        "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 42,
+                            "byteStart": 14
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "SOS Pantanal \ng1.globo.com/fantastico/n..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml",
+                    "title": "Agente laranja: pecuarista desmata o Pantanal com substância altamente tóxica",
+                    "description": "O fazendeiro usou 25 agrotóxicos diferentes, um deles tem a substância 2,4-D - a mesma presente na composição do chamado agente laranja. Trata-se de um desfolhante químico altamente tóxico usado pelos...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2t3si2y4wj73tc67zatse5qu/bafkreiftdhpcojzlglthygtfiipa5g4pbyhchsz46m77ocemloytchq4tq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T13:49:21.627Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kfuut4tvr32a",
+            "cid": "bafyreicjdhr53lnb35sutx3wphfl3s5mualtcjydil6n7yxgmmqihafvyu",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-06T12:43:19.858Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "",
+                        "uri": "https://oeco.org.br/salada-verde/campanha-de-doacoes-para-as-brigadas-pantaneiras-e-lancada-pela-sos-pantanal/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/salada-verde/campanha-de-doacoes-para-as-brigadas-pantaneiras-e-lancada-pela-sos-pantanal/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 209
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Campanha de doações para as Brigadas Pantaneiras é lançada pela SOS Pantanal ⬇️\n\nApós intenso período de queimadas na região em novembro, instituto busca ampliar a rede de brigadas e desenvolvê-la\noeco.org.br/salada-verde..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/salada-verde/campanha-de-doacoes-para-as-brigadas-pantaneiras-e-lancada-pela-sos-pantanal/",
+                    "title": "",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-06T12:43:19.858Z",
+            "labels": []
+        }
+    ]
+}

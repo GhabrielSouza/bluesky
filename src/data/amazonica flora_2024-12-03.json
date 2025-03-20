@@ -1,0 +1,916 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:r3wqw6tc6lib4yowgvqhqskr/app.bsky.feed.post/3lbic64ri7k2e",
+            "cid": "bafyreihggpefgjpego45vqar3tccbab3xo4cnyerwpsqettoqvmmsvkdh4",
+            "author": {
+                "did": "did:plc:r3wqw6tc6lib4yowgvqhqskr",
+                "handle": "arvoresdobrasil.bsky.social",
+                "displayName": "Árvores do Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihmizcpdbmzygsjtscht4emoeehrgxmktffttqqpzvoz2bmrybi7i@jpeg",
+                "labels": [],
+                "createdAt": "2024-10-25T11:19:15.408Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-21T20:22:57.048Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "uma pequena árvore arbustiva carregada de seus característicos frutos vermelhos pontiagudos. A árvore está em um ambiente natural, possivelmente um jardim, com uma vegetação verdejante ao seu redor. Os frutas vermelhos vibrantes contrastam com as folhas verdes\n\n 📷 projeto_colecionandofrutas",
+                            "aspectRatio": {
+                                "height": 606,
+                                "width": 606
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 506875
+                            }
+                        },
+                        {
+                            "alt": "close de uma única flor rosa claro, de cinco pétalas, com numerosos estames agrupados no centro. Ao redor da flor há alguns botões fechados e frutos em vários estágios de desenvolvimento, todos presos a hastes marrom-avermelhadas. Ao fundo, uma folhagem verde escura desfocada\n\n 📷 Arlete M.",
+                            "aspectRatio": {
+                                "height": 586,
+                                "width": 820
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 583153
+                            }
+                        },
+                        {
+                            "alt": "close de um cacho de frutos de urucum ainda presos à planta. Os frutos são de um vermelho vibrante e profundo e cobertos por pêlos macios e espetados. Gotículas de água são visíveis em alguns frutos, sugerindo chuva recente ou umidade. O fundo mostra as folhas verdes escuras da planta.\n\n 📷 projeto_colecionandofrutas",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 640
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 343887
+                            }
+                        },
+                        {
+                            "alt": "uma colagem que mostra o urucum em várias formas. Apresenta, em macro, as vagens da planta, as próprias sementes, a forma em pó das sementes e o óleo de urucum. Destaca as diversas aplicações deste produto natural, para fins culinários ou cosméticos.\n\n 📷 Leonardo Ré-Jorge\n 📷 casadabotanica.com.br\n 📷 idntimes.com\n 📷 alsothecrumbsplease.com",
+                            "aspectRatio": {
+                                "height": 580,
+                                "width": 820
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 687564
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Urucuzeiro ou urucueiro\nFruto: urucum ou urucu\nNome científico: Bixa orellana\n\nÉ originário da América Tropical, de origem pré-colombiana,  e pertence à flora amazônica. É mundialmente empregado como corante na indústria alimentícia, em cosméticos e tintas. Usado tb como condimento e na fitoterapia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreianybynxmjrcuwmas6fdvufmahgazlq6ly66xatrueeknmf3feeqm@jpeg",
+                        "alt": "uma pequena árvore arbustiva carregada de seus característicos frutos vermelhos pontiagudos. A árvore está em um ambiente natural, possivelmente um jardim, com uma vegetação verdejante ao seu redor. Os frutas vermelhos vibrantes contrastam com as folhas verdes\n\n 📷 projeto_colecionandofrutas",
+                        "aspectRatio": {
+                            "height": 606,
+                            "width": 606
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreig3vlzo6m3aw6bdqeryyeelxuf3q2ztg4yx2eml5vf64hiafg2n2q@jpeg",
+                        "alt": "close de uma única flor rosa claro, de cinco pétalas, com numerosos estames agrupados no centro. Ao redor da flor há alguns botões fechados e frutos em vários estágios de desenvolvimento, todos presos a hastes marrom-avermelhadas. Ao fundo, uma folhagem verde escura desfocada\n\n 📷 Arlete M.",
+                        "aspectRatio": {
+                            "height": 586,
+                            "width": 820
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreiadkf7wcxrdngjl4bajmwkf3kplzcxl4u4lnpjs6n3ts6frp2rgvm@jpeg",
+                        "alt": "close de um cacho de frutos de urucum ainda presos à planta. Os frutos são de um vermelho vibrante e profundo e cobertos por pêlos macios e espetados. Gotículas de água são visíveis em alguns frutos, sugerindo chuva recente ou umidade. O fundo mostra as folhas verdes escuras da planta.\n\n 📷 projeto_colecionandofrutas",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 640
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r3wqw6tc6lib4yowgvqhqskr/bafkreihdwod3fgmbeowpzizo5c2fzmflmwog32jxdmvlpya5fxy2koxdt4@jpeg",
+                        "alt": "uma colagem que mostra o urucum em várias formas. Apresenta, em macro, as vagens da planta, as próprias sementes, a forma em pó das sementes e o óleo de urucum. Destaca as diversas aplicações deste produto natural, para fins culinários ou cosméticos.\n\n 📷 Leonardo Ré-Jorge\n 📷 casadabotanica.com.br\n 📷 idntimes.com\n 📷 alsothecrumbsplease.com",
+                        "aspectRatio": {
+                            "height": 580,
+                            "width": 820
+                        }
+                    }
+                ]
+            },
+            "replyCount": 5,
+            "repostCount": 26,
+            "likeCount": 157,
+            "quoteCount": 19,
+            "indexedAt": "2024-11-21T20:23:02.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aubdtjnudu2vzqfmri6q64bo/app.bsky.feed.post/3laeqack2ja2w",
+            "cid": "bafyreigkbreudrfqxhipvkl3icow2s63psgwascswcuymsp3yvkuy6vw3y",
+            "author": {
+                "did": "did:plc:aubdtjnudu2vzqfmri6q64bo",
+                "handle": "jardimbotanicorj.bsky.social",
+                "displayName": "Jardim Botânico do RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreihkijccud2k6nggzscaunyis4mxnvzbe4lbjparkd5hknho6m6vma@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:58:05.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T16:58:51.243Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pesquisadores do Jardim Botânico do Rio de Janeiro e do Jardim Botânico de Nova York descobriram uma nova espécie de melancieiro. A leguminosa, encontrada no munícipio de Marabá (PA), foi denominada de Alexa duckeana, em homenagem ao botânico e estudioso da flora amazônica Adolpho Ducke."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T16:58:52.182Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nkcmghhvoqh567tybpe5z3ft/app.bsky.feed.post/3l76mnvhclu22",
+            "cid": "bafyreig6brakcdlcziq6jjlewxapigisrhnqbdikm7bdty6yorogftbdzm",
+            "author": {
+                "did": "did:plc:nkcmghhvoqh567tybpe5z3ft",
+                "handle": "lifelinhasrubro.bsky.social",
+                "displayName": "Life",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nkcmghhvoqh567tybpe5z3ft/bafkreidcpu4shdwer45ioitsne435npnokon4edwzi27b4pnlf7qg254oy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:23:30.198Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-23T13:13:41.479Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Boitatá do Outro Lado\nENERGIA COM SANGUE E MEDO. O mais simples e popular conto de terror é o suficiente para criar criaturas bizarras feitas do Outro Lado. O paranormal precisa muitas das vezes reformular os conceitos de terror dado pelos próprios escritores da Realidade, e por tanto, a \"versão original\" de uma criatura pode ser bastante diferente da interpretação do Outro Lado. Isso se aplica também ao folclore da Realidade. O Boitatá está em muitos catálogos de criaturas do folclore brasileiro, sendo uma peça fundamental para a cultura de guardiões da floresta Amazônica. Mas sua natureza não benevolente para com humanos indignos é facilmente distorcida pelo Lúdico Violento. O primeiro desse espécime nasceu um pouco depois de sua lenda ser contada, quando um nativo revoltado resolveu dar um gosto àqueles que lhe faziam mal. Mas no local havia um Marcado que, com más intenções, usou de rituais agressivos de Caos para matar dezenas de cobras que “estavam em seu caminho”. Do pó insólito dos répteis surgiu um amálgama de uma cobra enorme que fervia, fervia e fazia toda a flora ao redor esquentar e soltar químicos venenosos como parte de uma reação paranormal bizarra. Seu corpo parecia o de uma serpente azulada, mas sua boca se projetava metros para fora com uma gengiva vermelha-sangue. Não só isso mas todo o seu corpo possuía elementos que eram clones da mesma anatomia interna da boca que se projetavam para todas as direções.",
+                                "aspectRatio": {
+                                    "height": 1281,
+                                    "width": 694
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreifxrppditxh3ubnihyyixsu74jf3qrnaqg6vqe233xzlnpjcbt2zq"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 447230
+                                }
+                            },
+                            {
+                                "alt": "ENIGMA DE MEDO: O Boitatá atrai todos aqueles que possuem rituais de Energia em seu âmago para os lançarem contra ele. Mas se algum personagem resistir três vezes, a pele da criatura se rompe em mais bocas vermelhas até não ter mais um semblante de cobra. Neste estado, o edm é resolvido e qualquer dano causa o dobro.\n",
+                                "aspectRatio": {
+                                    "height": 327,
+                                    "width": 688
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreidzxdnpviwfxba4lgnvxm3bkqz3o7jlpjq5qlmngwrdgn7fclqsja"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 102063
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreihd3vyfmsu74a6oijzqzkd35x752yyytzjrfw4cbsyi5o3izuykoa",
+                            "uri": "at://did:plc:444gnkj5iflcnbvp3dwby54e/app.bsky.feed.post/3l4rdbpfeok2w"
+                        }
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "inktordem"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 10,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#inktordem\n\nFloresta\n\nUma criaturinha que terminei para o tema."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcmghhvoqh567tybpe5z3ft/bafkreifxrppditxh3ubnihyyixsu74jf3qrnaqg6vqe233xzlnpjcbt2zq@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nkcmghhvoqh567tybpe5z3ft/bafkreifxrppditxh3ubnihyyixsu74jf3qrnaqg6vqe233xzlnpjcbt2zq@jpeg",
+                            "alt": "Boitatá do Outro Lado\nENERGIA COM SANGUE E MEDO. O mais simples e popular conto de terror é o suficiente para criar criaturas bizarras feitas do Outro Lado. O paranormal precisa muitas das vezes reformular os conceitos de terror dado pelos próprios escritores da Realidade, e por tanto, a \"versão original\" de uma criatura pode ser bastante diferente da interpretação do Outro Lado. Isso se aplica também ao folclore da Realidade. O Boitatá está em muitos catálogos de criaturas do folclore brasileiro, sendo uma peça fundamental para a cultura de guardiões da floresta Amazônica. Mas sua natureza não benevolente para com humanos indignos é facilmente distorcida pelo Lúdico Violento. O primeiro desse espécime nasceu um pouco depois de sua lenda ser contada, quando um nativo revoltado resolveu dar um gosto àqueles que lhe faziam mal. Mas no local havia um Marcado que, com más intenções, usou de rituais agressivos de Caos para matar dezenas de cobras que “estavam em seu caminho”. Do pó insólito dos répteis surgiu um amálgama de uma cobra enorme que fervia, fervia e fazia toda a flora ao redor esquentar e soltar químicos venenosos como parte de uma reação paranormal bizarra. Seu corpo parecia o de uma serpente azulada, mas sua boca se projetava metros para fora com uma gengiva vermelha-sangue. Não só isso mas todo o seu corpo possuía elementos que eram clones da mesma anatomia interna da boca que se projetavam para todas as direções.",
+                            "aspectRatio": {
+                                "height": 1281,
+                                "width": 694
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcmghhvoqh567tybpe5z3ft/bafkreidzxdnpviwfxba4lgnvxm3bkqz3o7jlpjq5qlmngwrdgn7fclqsja@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nkcmghhvoqh567tybpe5z3ft/bafkreidzxdnpviwfxba4lgnvxm3bkqz3o7jlpjq5qlmngwrdgn7fclqsja@jpeg",
+                            "alt": "ENIGMA DE MEDO: O Boitatá atrai todos aqueles que possuem rituais de Energia em seu âmago para os lançarem contra ele. Mas se algum personagem resistir três vezes, a pele da criatura se rompe em mais bocas vermelhas até não ter mais um semblante de cobra. Neste estado, o edm é resolvido e qualquer dano causa o dobro.\n",
+                            "aspectRatio": {
+                                "height": 327,
+                                "width": 688
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:444gnkj5iflcnbvp3dwby54e/app.bsky.feed.post/3l4rdbpfeok2w",
+                        "cid": "bafyreihd3vyfmsu74a6oijzqzkd35x752yyytzjrfw4cbsyi5o3izuykoa",
+                        "author": {
+                            "did": "did:plc:444gnkj5iflcnbvp3dwby54e",
+                            "handle": "ticusthefan.bsky.social",
+                            "displayName": "Ticus 🌘Equipe obscurité🌒",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreicp5x4hhrkgpiu5p4rzppjcuosix6rpv34jvvvh3dpdm3uj6apqpq@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2024-08-30T20:56:33.542Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-22T19:30:50.359Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.recordWithMedia",
+                                "media": {
+                                    "$type": "app.bsky.embed.images",
+                                    "images": [
+                                        {
+                                            "alt": "INKTORDEM PARANORMAL\n\n1 sangue\n2 sacrificio\n3 orphanato\n4 reliquias\n5 pinturas\n6 Alienigenas\n7 Neve",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreiggurleovkrlapqgmldm446les3g5eo3vhiumlds5jqrfz3lmzqwq"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 270220
+                                            }
+                                        },
+                                        {
+                                            "alt": "INKTORDEM PARANORMAL\n\n8 Biblioteca\n9 Morte\n10 Ritual\n11 Ordo calamitas\n12 pharol\n13 fazenda\n14 Cientistas",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreib2t4q567tljqxitypeycvkzmml4zma4rd3hd3rn264cly2miqyga"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 241514
+                                            }
+                                        },
+                                        {
+                                            "alt": "INKTORDEM PARANORMAL\n\n15 Cena do crime\n16 Esperança\n17 Conhecimento\n18 Aliados\n19 Mensao\n21 Caçar",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreiay24fnuvlb7vf2tsdc5w6mhmlviknllxlmvs5auqsdqvjuyyrgem"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 360153
+                                            }
+                                        },
+                                        {
+                                            "alt": "INKTORDEM PARANORMAL\n\n22 Escola\n23 Floresta\n24 Kian\n25 Energia\n27 Sinal\n28 Calor",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreibgaksq4sczpiqqdxlgnbhrz2zooolzbsdzausacpv6rzjunzv66y"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 257189
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "$type": "app.bsky.embed.record",
+                                    "record": {
+                                        "cid": "bafyreicb2weq6gva3nxkgfk2rvvqq2cx2aqdxtxlk7ra4lxzc57cvicpa4",
+                                        "uri": "at://did:plc:hxbnzegqaa7a747vdnqu3wkr/app.bsky.feed.post/3l4qqfwmvks24"
+                                    }
+                                }
+                            },
+                            "facets": [
+                                {
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#tag",
+                                            "tag": "Inktordem"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 28,
+                                        "byteStart": 18
+                                    }
+                                }
+                            ],
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Ok... apresento o #Inktordem, inspirado em Ordem Paranormal.\n\nUm tema por dia, qualquer tipo de arte permitido, os 3 últimos são curingas que podem substituir qualquer tema caso não te inspire.\n\nObviamente, você também pode fazer isso em dias alternados, ou em qualquer outro ritmo que lhe agrade"
+                        },
+                        "labels": [],
+                        "likeCount": 452,
+                        "replyCount": 37,
+                        "repostCount": 144,
+                        "quoteCount": 141,
+                        "indexedAt": "2024-09-22T19:30:50.359Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.recordWithMedia#view",
+                                "media": {
+                                    "$type": "app.bsky.embed.images#view",
+                                    "images": [
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreiggurleovkrlapqgmldm446les3g5eo3vhiumlds5jqrfz3lmzqwq@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreiggurleovkrlapqgmldm446les3g5eo3vhiumlds5jqrfz3lmzqwq@jpeg",
+                                            "alt": "INKTORDEM PARANORMAL\n\n1 sangue\n2 sacrificio\n3 orphanato\n4 reliquias\n5 pinturas\n6 Alienigenas\n7 Neve",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreib2t4q567tljqxitypeycvkzmml4zma4rd3hd3rn264cly2miqyga@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreib2t4q567tljqxitypeycvkzmml4zma4rd3hd3rn264cly2miqyga@jpeg",
+                                            "alt": "INKTORDEM PARANORMAL\n\n8 Biblioteca\n9 Morte\n10 Ritual\n11 Ordo calamitas\n12 pharol\n13 fazenda\n14 Cientistas",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreiay24fnuvlb7vf2tsdc5w6mhmlviknllxlmvs5auqsdqvjuyyrgem@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreiay24fnuvlb7vf2tsdc5w6mhmlviknllxlmvs5auqsdqvjuyyrgem@jpeg",
+                                            "alt": "INKTORDEM PARANORMAL\n\n15 Cena do crime\n16 Esperança\n17 Conhecimento\n18 Aliados\n19 Mensao\n21 Caçar",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreibgaksq4sczpiqqdxlgnbhrz2zooolzbsdzausacpv6rzjunzv66y@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:444gnkj5iflcnbvp3dwby54e/bafkreibgaksq4sczpiqqdxlgnbhrz2zooolzbsdzausacpv6rzjunzv66y@jpeg",
+                                            "alt": "INKTORDEM PARANORMAL\n\n22 Escola\n23 Floresta\n24 Kian\n25 Energia\n27 Sinal\n28 Calor",
+                                            "aspectRatio": {
+                                                "height": 1076,
+                                                "width": 800
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "record": {
+                                        "$type": "app.bsky.embed.record#viewRecord",
+                                        "uri": "at://did:plc:hxbnzegqaa7a747vdnqu3wkr/app.bsky.feed.post/3l4qqfwmvks24",
+                                        "cid": "bafyreicb2weq6gva3nxkgfk2rvvqq2cx2aqdxtxlk7ra4lxzc57cvicpa4",
+                                        "author": {
+                                            "did": "did:plc:hxbnzegqaa7a747vdnqu3wkr",
+                                            "handle": "corujaink.bsky.social",
+                                            "displayName": "Koru 4/10",
+                                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hxbnzegqaa7a747vdnqu3wkr/bafkreighpiwyhglddoukpievn2zgnw6mex6qk7piqir4krp2ga2tjcidfe@jpeg",
+                                            "associated": {
+                                                "chat": {
+                                                    "allowIncoming": "all"
+                                                }
+                                            },
+                                            "labels": [
+                                                {
+                                                    "src": "did:plc:hxbnzegqaa7a747vdnqu3wkr",
+                                                    "uri": "at://did:plc:hxbnzegqaa7a747vdnqu3wkr/app.bsky.actor.profile/self",
+                                                    "cid": "bafyreif5agk62j7dzxamyzmbniandcopuolr6zrhlr56nby4a6q6t6l244",
+                                                    "val": "!no-unauthenticated",
+                                                    "cts": "1970-01-01T00:00:00.000Z"
+                                                }
+                                            ],
+                                            "createdAt": "2023-10-18T22:07:08.390Z"
+                                        },
+                                        "value": {
+                                            "$type": "app.bsky.feed.post",
+                                            "createdAt": "2024-09-22T13:53:10.140Z",
+                                            "langs": [
+                                                "en",
+                                                "pt"
+                                            ],
+                                            "text": "alguém ja fez alguma lista de inktoober de ordem paranormal?"
+                                        },
+                                        "labels": [],
+                                        "likeCount": 19,
+                                        "replyCount": 5,
+                                        "repostCount": 1,
+                                        "quoteCount": 1,
+                                        "indexedAt": "2024-09-22T13:53:10.140Z"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-23T13:13:41.479Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xygiqegtsl2b2angbxn6kcr6/app.bsky.feed.post/3l5ypcgvuue26",
+            "cid": "bafyreihvfpg2puuu5lvcbmazvqqxbud5drwhddap7roarbwmwlas7oum34",
+            "author": {
+                "did": "did:plc:xygiqegtsl2b2angbxn6kcr6",
+                "handle": "rosmarinnus.bsky.social",
+                "displayName": "Juriti pupu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xygiqegtsl2b2angbxn6kcr6/bafkreicgub5lxaviohjklyrshygtzv5aju7ldw6yli4oqdjcjquah34rlu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-18T23:40:14.435Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T11:19:49.558Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibd5xdkmxa4pa2vovqrg6xfiujop2nqcnqmfzichci6unnuvsotci",
+                        "uri": "at://did:plc:zwbihdxrivm5phdlku75thtb/app.bsky.feed.post/3l5yp3as4j423"
+                    },
+                    "root": {
+                        "cid": "bafyreiflgykbkj7v2wyicirqrjfxzbiuvl4yfxzujohumpv27tvq5fmlqi",
+                        "uri": "at://did:plc:xygiqegtsl2b2angbxn6kcr6/app.bsky.feed.post/3l5yoxzdigs2i"
+                    }
+                },
+                "text": "Cesaaar, com ctz devo dar um pulo no Emílio goeldi, mas tem mais alguma dica de lugar imperdível de visitar pra saber mais sobre a fauna e flora amazonica???"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T11:19:49.558Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a6p7sgjvntu2tq67lhvkk55n/app.bsky.feed.post/3l5k54d6hc22x",
+            "cid": "bafyreibuc7kgj6ismyzkufai2j4m3ghl2x4uen3ljy7zzatywsm5qeuebq",
+            "author": {
+                "did": "did:plc:a6p7sgjvntu2tq67lhvkk55n",
+                "handle": "anamariamendonca.bsky.social",
+                "displayName": "Ana Maria Mendonça",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a6p7sgjvntu2tq67lhvkk55n/bafkreialvtvlcngi5pnby7z7gjbx7tsfxrn4wufu6iazmg27hcznr5vbxq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T01:47:59.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T16:19:28.258Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihpd2bij4kltmamhjb7sy4fcw5zofnxij3qrcvio7oxvxe72gtoq4",
+                        "uri": "at://did:plc:vutlhxrkebesdnazgrrdyura/app.bsky.feed.post/3l5irwy2nkv2e"
+                    },
+                    "root": {
+                        "cid": "bafyreibx5pejzz73b64djr2yppy7gl2kfm3knl37k3cxt4d24dsrdtma2m",
+                        "uri": "at://did:plc:vutlhxrkebesdnazgrrdyura/app.bsky.feed.post/3l5irqw7a6d2h"
+                    }
+                },
+                "text": "Se zak é planta, Raquel, Camila e Flora são as proprias floresta amazonica"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T16:17:01.209Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:amdevbuzceinodilqgyofchk/app.bsky.feed.post/3l5ddi357rn2m",
+            "cid": "bafyreicsr6itwu46xao4sw6aq5nyj3staphlmko4hhr3rhz642unssnfou",
+            "author": {
+                "did": "did:plc:amdevbuzceinodilqgyofchk",
+                "handle": "eaivcsabia.bsky.social",
+                "displayName": "Eai, vc sabia ?",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreibtjc6j5shlbyy4o6ib7xuzhi7rewzoaufxbhggza4cmydghizgki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:26:18.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T23:22:19.618Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 681,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 581747
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 449,
+                                "width": 697
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 381866
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Floresta Amazônica: É o maior bioma tropical do mundo e abriga uma incrível diversidade de fauna e flora."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreiacli2xgrsdvis5b3jytde7lpyhrxjn3clapuq2tesbeibi2qfwpu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 681,
+                            "width": 1024
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:amdevbuzceinodilqgyofchk/bafkreifco766glcuwzq2fbe4pi6vfm334eet23aoasoufwymvhw3lunozm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 449,
+                            "width": 697
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T23:22:19.618Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:phd4fgtj66xmfpk6kvyjdam2/app.bsky.feed.post/3l4lizoawps2x",
+            "cid": "bafyreibubqo2go5d2tjrh7mqlp5ypyplqpodcp5py3e2h3nrpevhpccyr4",
+            "author": {
+                "did": "did:plc:phd4fgtj66xmfpk6kvyjdam2",
+                "handle": "dancyxereca.bsky.social",
+                "displayName": "ben cancro mole. ★",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:phd4fgtj66xmfpk6kvyjdam2/bafkreierdi3ydsrgtayv26necngmd3uwmy2tku4jz3v5l2nfddgsz3qxwu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T03:32:37.821Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T11:57:45.967Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigmtz7sgc5nhqrbvvewohnokwmnw26fvqcopztx74mlvevh5a4qkm",
+                        "uri": "at://did:plc:xxpt5yuuwqq2cwmq7agwzy7k/app.bsky.feed.post/3l4lixhnxmc2r"
+                    },
+                    "root": {
+                        "cid": "bafyreiffs22lva54rgslg56bpgy6kkwqc63ftbxmpvev77iwzef6urqhxm",
+                        "uri": "at://did:plc:phd4fgtj66xmfpk6kvyjdam2/app.bsky.feed.post/3l4lgvc5uek2t"
+                    }
+                },
+                "text": "a gente vai falar da flora amazônica"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T11:57:45.116Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:q7k5zfjbntixpkx2twcb25s6/app.bsky.feed.post/3l4adh6iird2x",
+            "cid": "bafyreide3tuwzvaph744unf3snulbrfpws63ynpyyapjsp2o5b4eeslb5i",
+            "author": {
+                "did": "did:plc:q7k5zfjbntixpkx2twcb25s6",
+                "handle": "ssyvies.bsky.social",
+                "displayName": "b. 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q7k5zfjbntixpkx2twcb25s6/bafkreie4j6rr6rb3vux445e6phhiveikkzrnah66xzukr75gceyvsp4rea@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:05:17.889Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T01:18:38.522Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidci3adoib4qzhqj6mo4rllkmaxvz25jvt32bqsl3seoan5hw6mry",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l4a2jhgtb62f"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "fauna e flora afirma serem a favor do desmatamento da floresta amazônica e aumento do aquecimento global"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l4a2jhgtb62f",
+                    "cid": "bafyreidci3adoib4qzhqj6mo4rllkmaxvz25jvt32bqsl3seoan5hw6mry",
+                    "author": {
+                        "did": "did:plc:ss7zmsfvuw5wwxefvz5flgbb",
+                        "handle": "poptime.space",
+                        "displayName": "POPTime",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ss7zmsfvuw5wwxefvz5flgbb/bafkreigdcdipxcn64672xeisfxavd7qifvsawwps2zp7knh7aq22umwpgu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "none"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-29T02:12:15.519Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-15T22:38:50.890Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 584
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 4451236
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "🚨 ALGUÉM SURPRESO? Jojo Todynho afirma ser mulher preta de direita."
+                    },
+                    "labels": [],
+                    "likeCount": 10537,
+                    "replyCount": 2084,
+                    "repostCount": 417,
+                    "quoteCount": 2813,
+                    "indexedAt": "2024-09-15T22:38:50.890Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ass7zmsfvuw5wwxefvz5flgbb/bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ass7zmsfvuw5wwxefvz5flgbb/bafkreierfwpekufpd6gilukffjmeawefj4drgx5vpwx23py56ecv6jptpq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 584
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T01:18:38.522Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dq4bsbkhxwgj7x4gc54tdstw/app.bsky.feed.post/3l44dszau6c2m",
+            "cid": "bafyreiad253jkqfklibvjjrkfospkxup4ph3crdhdb4kecqfrqvcjgbsaq",
+            "author": {
+                "did": "did:plc:dq4bsbkhxwgj7x4gc54tdstw",
+                "handle": "rjasper.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dq4bsbkhxwgj7x4gc54tdstw/bafkreihbuiyjuitjklgzetddgj5vdkskohrjxh7ahzbrwupyhj22xikt3y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:dq4bsbkhxwgj7x4gc54tdstw",
+                        "uri": "at://did:plc:dq4bsbkhxwgj7x4gc54tdstw/app.bsky.actor.profile/self",
+                        "cid": "bafyreihqvfusrftc35jkindrctbczmkgxtyityeymaht3v7x42evtd7blq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T10:24:55.529Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T10:24:55.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T11:14:35.099Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TERRORISTASINCENDIÁRIOS"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 58,
+                            "byteStart": 33
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PENASMAIORES"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 74,
+                            "byteStart": 61
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CLIMA EXTREMO X CRIMES EXTREMOS\n\n#TERRORISTASINCENDIÁRIOS \n\n#PENASMAIORES\n\n LEGISLAÇÃO NÃO AVANÇOU TANTO QUANTO  OS CRIMINOSOS \nDESOLAÇÃO, DESTRUIÇÃO FLORESTAS, PARQUES.\n\nPREJUÍZO 10.000 CAMPOS DE FUTEBOL😡\n\nA REGIÃO AMAZONICA MAIS SOFREU. \n\nFLORA E FAUNA MAIOR MORTANDADE DOS BIOMAS,  AINDA QUEIMAM!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T11:14:35.099Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3vdmzxfj42w",
+            "cid": "bafyreiaqtwvaradxrozfy45woxyz3ze7sumfdo5ujpgp6uboc2bc3buso4",
+            "author": {
+                "did": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                "handle": "yrs-pa.bsky.social",
+                "displayName": "Yago Santos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:huc54kfiozknlko7qxnj7jgz/bafkreicr2z32amzdb6b6ginoxstihjehpgfggwc56b7h3ceqjvhi6qa6ya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:huc54kfiozknlko7qxnj7jgz",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.actor.profile/self",
+                        "cid": "bafyreiefcbk5qmbnqo74zmglkv24kchmu2e74fxaepigzf5xxecz7vyeai",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T16:45:05.845Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T16:45:08.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:22:37.909Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibwmvcdd7425asq6kf7mghnte5gwxrx3rh4pj4vg4ky2l4tne3qtu",
+                        "uri": "at://did:plc:25uxxehnah6bcs4loe7cguml/app.bsky.feed.post/3l3vdelxxor2a"
+                    },
+                    "root": {
+                        "cid": "bafyreic4przubyg52bvcknyjgupaqmi7d3s3b3eras7pkbjb72fjbspujy",
+                        "uri": "at://did:plc:huc54kfiozknlko7qxnj7jgz/app.bsky.feed.post/3l3uom3s7wd2o"
+                    }
+                },
+                "text": "Uma pena pois em ambas você verá, povos amazônidas, música amazônica, culinária amazônica, história amazônica, arquitetura amazônica, fauna e flora amazônica…."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:22:37.909Z",
+            "labels": []
+        }
+    ]
+}

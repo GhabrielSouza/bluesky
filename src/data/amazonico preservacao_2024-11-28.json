@@ -1,0 +1,423 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:jnj4w357xtpv4u2glnk4kn5x/app.bsky.feed.post/3l4vviqo3q522",
+            "cid": "bafyreihkv33jkqyvugjqoev242myfihypm2rnrrrq57xp6bcjnj3j7dy6m",
+            "author": {
+                "did": "did:plc:jnj4w357xtpv4u2glnk4kn5x",
+                "handle": "lucasapaulino.bsky.social",
+                "displayName": "Lucas Paulino",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jnj4w357xtpv4u2glnk4kn5x/bafkreig4ywh4sbitfxg7nhmcjndltyhvj4ifk7ogpfd5pnrr475m2ead54@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-03T20:28:25.057Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T15:07:32.284Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifp5cl32ttrecfdf4rqpcsgqwo7s343dscknl4ibo2sogejxjixni",
+                        "uri": "at://did:plc:soxyfatqpz5qoxcsxzf7khx4/app.bsky.feed.post/3l4vv35uozj2p"
+                    },
+                    "root": {
+                        "cid": "bafyreigggf7jchnseizb4pwd4lrsyrj2h2vlm5tsmzxczg57om27svifoe",
+                        "uri": "at://did:plc:soxyfatqpz5qoxcsxzf7khx4/app.bsky.feed.post/3l4vu3a34bp2s"
+                    }
+                },
+                "text": "você sabe que é muito mais díficil controlar desmatamento fora do bioma amazônico pelos próprios limites de preservação impostos pelo Código Florestal.\n\n\"ah mas o Aldo Rebelo\" sim, Aldo Rebelo tem culpa assim como a maioria da bancada do agro que sustenta esse e outros retrocessos."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T15:07:32.284Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gmeskfvck4m33rmipdlvihfp/app.bsky.feed.post/3l4uka53jra22",
+            "cid": "bafyreic5w3kaa3atk6vnelh4q22lmroulwqm4msz3aepxt2mziutytmkpe",
+            "author": {
+                "did": "did:plc:gmeskfvck4m33rmipdlvihfp",
+                "handle": "digor77.bsky.social",
+                "displayName": "Digor 🏹🧉🧭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmeskfvck4m33rmipdlvihfp/bafkreihlupqorsb6pixu24y6f3m6ixyxfeznzih75vhuhg6pmg5cl74rhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:11:27.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T02:13:12.455Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreihdjdl7kvt6zmplbckqp6olclv7evdzaeclbfm4nzxkujayoer45u"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 9581823
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "📱Semana do Clima em NY 🇺🇲 (2024) - Painel sobre \"O Mercado Criativo Amazônico\" \n\nIsabelle dando seu depoimento do que significou p/ ela participar desse momento de Valorização e Conscientização sobre a Importância do Mercado Amazônico como Desenvolvimento Sustentável e Preservação da Vida.\n\n💙💚🌎🏹🇺🇲🇧🇷"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreihdjdl7kvt6zmplbckqp6olclv7evdzaeclbfm4nzxkujayoer45u",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreihdjdl7kvt6zmplbckqp6olclv7evdzaeclbfm4nzxkujayoer45u/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreihdjdl7kvt6zmplbckqp6olclv7evdzaeclbfm4nzxkujayoer45u/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T02:13:12.455Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6jarik64y2bfdhklksaxuod7/app.bsky.feed.post/3l4rqfsm6et25",
+            "cid": "bafyreihz3qucdpvwqpoboev3bsfypexb4rtptj3s7mllgq7lxfg5cxu5ku",
+            "author": {
+                "did": "did:plc:6jarik64y2bfdhklksaxuod7",
+                "handle": "victtorbrilhante.bsky.social",
+                "displayName": "Ativista de Varanda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6jarik64y2bfdhklksaxuod7/bafkreicapxhqabc2iqanu4iouwdioxbse6ec74xkqn7jlfgnjpv3yrang4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T01:58:47.220Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T23:25:46.658Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 3840,
+                        "width": 2160
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2358628
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:a5o5pa6imrd52s627zq63zgz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 272,
+                            "byteStart": 260
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os incêndios do Ecossistema Amazônico precisam ser CRIMINALIZADOS INTERNACIONALMENTE, precisamos que os outros países ajudem e pressionem os representantes locais, precisamos falar sobre AMAZÔNIA LEGAL! \n\nA preservação  precisa ser conjunta e urgente! \n\n@lula.com.br @marinasilva.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A6jarik64y2bfdhklksaxuod7/bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A6jarik64y2bfdhklksaxuod7/bafkreihdludtuysknq5kwwjojhibtnhevnjcxuyv26e54rin3stu7kctpi/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 3840,
+                    "width": 2160
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T23:25:46.658Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lxlfxcnggolewmla5ynuiwhz/app.bsky.feed.post/3l3rfagktoo24",
+            "cid": "bafyreieqma3pqvib5c7ykbcxcablkgto3du45mxuhznh4tdbo6mmvlzsnq",
+            "author": {
+                "did": "did:plc:lxlfxcnggolewmla5ynuiwhz",
+                "handle": "drletras.bsky.social",
+                "displayName": "Bodão ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lxlfxcnggolewmla5ynuiwhz/bafkreifl5zjidcadehsiif5kzxlfbtukgnrk4ds352oqzlrlr3u4ofyd5y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T22:23:36.830Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T02:40:43.431Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicojckxrbigz5pz62dvdr2k66solgxnylru3zj4qbd3rlz2p25u2m",
+                        "uri": "at://did:plc:qkil5lf6gbc6tp4xgyxf6psh/app.bsky.feed.post/3l3reugisfp2i"
+                    },
+                    "root": {
+                        "cid": "bafyreiasmwthqepr5gp3pvklblm5xam7bemw5kfxi3u6wifuxnnhn5ifsy",
+                        "uri": "at://did:plc:lxlfxcnggolewmla5ynuiwhz/app.bsky.feed.post/3l3r26v3kmy2f"
+                    }
+                },
+                "text": "Acredite, estamos vendo esta tempestade solar, riscos altos de enchentes de grandes temporais, negócio de satélites que vigiam minerais amazônico na indústria privatizada, contrato de hidrogênio, transição energética sem garantia e ainda falam em preservação ambiental, resultado dos fundos é fogo?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T02:40:43.431Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gguwddxt3xecnk7yomgw26xv/app.bsky.feed.post/3l3in2rujw32n",
+            "cid": "bafyreidxvvjsv3mko5rzxjjhotnnhpzwck46chtl5pfxqcxehtve7ihpne",
+            "author": {
+                "did": "did:plc:gguwddxt3xecnk7yomgw26xv",
+                "handle": "brunoassuncao.bsky.social",
+                "displayName": "Bruno exilado do Twitter Assunção",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gguwddxt3xecnk7yomgw26xv/bafkreibcpelcnvxtdvhvizh2g5x2g7xg4ar6laucdxjgpf2xbh2n46lcl4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-18T22:52:13.034Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T15:06:46.796Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "",
+                        "uri": "https://www1.folha.uol.com.br/colunas/braulio-borges/2024/09/menos-chuva-se-traduz-em-menos-pib-e-mais-inflacao.shtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www1.folha.uol.com.br/colunas/braulio-borges/2024/09/menos-chuva-se-traduz-em-menos-pib-e-mais-inflacao.shtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 310,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Artigo importante de Braulio Borges, na Folha. \nA preservação ambiental, não é \"apenas\" uma pauta ecológica. A destruição do ambiente, especialmente o amazônico, já tem gerado perdas econômicas significativas ao Brasil\nSe nada for feito, o quadro vai só piorar.\nwww1.folha.uol.com.br/colunas/brau..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www1.folha.uol.com.br/colunas/braulio-borges/2024/09/menos-chuva-se-traduz-em-menos-pib-e-mais-inflacao.shtml",
+                    "title": "",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T15:06:46.527Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fqk72gi45hl4blar3hu7i4aw/app.bsky.feed.post/3kryp72mrno27",
+            "cid": "bafyreihyi5h7tah5wdvom3rjso6ac7uyzzsk5rph545ginyj23suufaanu",
+            "author": {
+                "did": "did:plc:fqk72gi45hl4blar3hu7i4aw",
+                "handle": "ricardosog.bsky.social",
+                "displayName": "ricardosog",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fqk72gi45hl4blar3hu7i4aw/bafkreietzzdik7zschbk4cruefee7nbpq6ccp4bcz5ld3yqbyjqcimckiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T19:02:45.568Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-08T18:15:36.680Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1529,
+                                "width": 1072
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidzym7ebdimh6qxc5uke4n7qbt2xdpt3zklr5xqwloaouzdsyyadq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 475348
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O bioma amazônico exige a preservação de 80% da propriedade com a mata nativa! É isso que garante a sua preservação e existência! ✊✊✊🌳🌳🌳🇧🇷🇧🇷🇧🇷"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fqk72gi45hl4blar3hu7i4aw/bafkreidzym7ebdimh6qxc5uke4n7qbt2xdpt3zklr5xqwloaouzdsyyadq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fqk72gi45hl4blar3hu7i4aw/bafkreidzym7ebdimh6qxc5uke4n7qbt2xdpt3zklr5xqwloaouzdsyyadq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1529,
+                            "width": 1072
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 48,
+            "likeCount": 101,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-08T18:15:36.680Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k4jhdok6lz2s",
+            "cid": "bafyreia5sonxsakkxabo6m6qykrahcwknp77oulkfor22pf3hky7zpl3uu",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-09T10:56:01.872Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Primeiro dia da cúpula terminou com falas contundentes e ausência de metas concretas para preservação da Amazônia. Reunião segue na quarta-feira",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibthnosnjbuaqwirgm3en6kptdr6ne6sbnpendewouicevohbzema"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 756676
+                        },
+                        "title": "Lula cita “novo sonho amazônico” em encontro com presidentes na Cúpula de Belém - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/lula-cita-novo-sonho-amazonico-em-encontro-com-presidentes-na-cupula-de-belem/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/lula-cita-novo-sonho-amazonico-em-encontro-com-presidentes-na-cupula-de-belem/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 201
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "Lula cita “novo sonho amazônico” em encontro com presidentes na Cúpula de Belém ⬇️\n\nPrimeiro dia da cúpula terminou com falas contundentes e ausência de metas concretas para preservação\nhttps://oeco.org.br/noticias/lula-cita-novo-sonho-amazonico-em-encontro-com-presidentes-na-cupula-de-belem/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/lula-cita-novo-sonho-amazonico-em-encontro-com-presidentes-na-cupula-de-belem/",
+                    "title": "Lula cita “novo sonho amazônico” em encontro com presidentes na Cúpula de Belém - ((o))eco",
+                    "description": "Primeiro dia da cúpula terminou com falas contundentes e ausência de metas concretas para preservação da Amazônia. Reunião segue na quarta-feira",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibthnosnjbuaqwirgm3en6kptdr6ne6sbnpendewouicevohbzema@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-09T10:56:01.872Z",
+            "labels": []
+        }
+    ]
+}

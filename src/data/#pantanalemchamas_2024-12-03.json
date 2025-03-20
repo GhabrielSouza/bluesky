@@ -1,0 +1,427 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:c6aauyhjsz7nbhwzx4rmjzrt/app.bsky.feed.post/3l4k557ty7h2d",
+            "cid": "bafyreibdovdwj35tunzddlauvtqdd7b5qcsdq7eon7a6mkeuin2dfotmp4",
+            "author": {
+                "did": "did:plc:c6aauyhjsz7nbhwzx4rmjzrt",
+                "handle": "gabrielmathias.bsky.social",
+                "displayName": "Gabriel Marthias jornalista ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c6aauyhjsz7nbhwzx4rmjzrt/bafkreibqgrdyvwdgvovmigd27llhjzrjn6fukhcefv6krh3f2tfqi754fi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:04:11.238Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T22:52:19.806Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by  Blog Fatos e Noticia ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih26yyn3nrazwnre5lbye2bunp476hpglrw6rgmcinkqb4gw5eizu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 693360
+                        },
+                        "title": "Incêndios no Brasil: Impactos Ambientais, Sociais e Políticos do Maior Desastre Ambiental do País",
+                        "uri": "https://youtu.be/wtDpudDy2pg"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/wtDpudDy2pg"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "IncêndiosNoBrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 174,
+                            "byteStart": 155
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DesastreAmbiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 175
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Queimadas2024"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 208,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CriseClimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 225,
+                            "byteStart": 209
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 239,
+                            "byteStart": 226
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MudançasClimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 261,
+                            "byteStart": 240
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PantanalEmChamas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 262
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EmergênciaClimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "youtu.be/wtDpudDy2pg\nNa nossa primeira reportagem exclusiva veja os impactos sociais e ambientais das Queimadas no Brasil uma produção fatos de notícia\n#IncêndiosNoBrasil\n#DesastreAmbiental\n#Queimadas2024\n#CriseClimática\n#MeioAmbiente\n#MudançasClimáticas\n#PantanalEmChamas\n#EmergênciaClimática"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/wtDpudDy2pg",
+                    "title": "Incêndios no Brasil: Impactos Ambientais, Sociais e Políticos do Maior Desastre Ambiental do País",
+                    "description": "YouTube video by  Blog Fatos e Noticia ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c6aauyhjsz7nbhwzx4rmjzrt/bafkreih26yyn3nrazwnre5lbye2bunp476hpglrw6rgmcinkqb4gw5eizu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T22:52:19.806Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pna7jpi7ivl5rqv5eqz45t7r/app.bsky.feed.post/3l3dphgthq32s",
+            "cid": "bafyreig5so37ku7ide6hmbx7nhas5osbdcml25ucpjt6lkk4sg6kg2nb3a",
+            "author": {
+                "did": "did:plc:pna7jpi7ivl5rqv5eqz45t7r",
+                "handle": "jacklulu.bsky.social",
+                "displayName": "Jack Lucas🫧",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pna7jpi7ivl5rqv5eqz45t7r/bafkreig4e7wcd5ykaooinaxqszzlidcupq6tdtc36spqruvm2dmo2njkuq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T22:52:47.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:06:19.654Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1503,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiekynpfvxoqkslz57srrkh2porxg2sc5bib4wdmw3kuyzjkzo2hle"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 785702
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pantanalemchamas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 121,
+                            "byteStart": 104
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A fumaça tá tão forte q parece q estamos com o filtro q os EUA usam nos filmes qnd vão p México mn #pantanalemchamas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pna7jpi7ivl5rqv5eqz45t7r/bafkreiekynpfvxoqkslz57srrkh2porxg2sc5bib4wdmw3kuyzjkzo2hle@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pna7jpi7ivl5rqv5eqz45t7r/bafkreiekynpfvxoqkslz57srrkh2porxg2sc5bib4wdmw3kuyzjkzo2hle@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1503,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:06:19.654Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nao7dx45ussub3pg4q23u6le/app.bsky.feed.post/3kycvogvbjr2g",
+            "cid": "bafyreidlfimjxtku6q5v6x3svoc22tifngyduesgjdiayidyiur6upilwe",
+            "author": {
+                "did": "did:plc:nao7dx45ussub3pg4q23u6le",
+                "handle": "faconti.bsky.social",
+                "displayName": "Fa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nao7dx45ussub3pg4q23u6le/bafkreid5qgb5j2md35atyddkdf7nbxqlxp5cnik2trqwpl2azcrk6636i4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:11:45.281Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-28T04:09:22.422Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "284 likes, 17 comments - clima.info on July 27, 2024: \"Realidades brasileiras: de um lado, #PantanalEmChamas, do outro #BrasilEmChamas 🔥\n\nCom o clima mais seco, as chamas tendem a se alastrar. Onde as...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih6oggcvvwh2w427cjvut3l4ljlm2lmsgndlii2qdqbgy3l64po7m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 648089
+                        },
+                        "title": "ClimaInfo on Instagram: \"Realidades brasileiras: de um lado, #PantanalEmChamas, do outro #BrasilEmChamas 🔥\n\nCom o clima mais seco, as chamas tendem a se alastrar. Onde as autoridades estão atuando e f...",
+                        "uri": "https://www.instagram.com/p/C97jI3uutUU/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 30,
+                            "byteStart": 23
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PantanalEmChamas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 50,
+                            "byteStart": 33
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BrasilEmChamas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 68,
+                            "byteStart": 53
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Fogo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 172,
+                            "byteStart": 167
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bioma"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 213,
+                            "byteStart": 207
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.instagram.com/p/C97jI3uutUU/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 232
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://clima.info"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 282,
+                            "byteStart": 272
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 290,
+                            "byteStart": 285
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazônia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 291
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 311,
+                            "byteStart": 302
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Realidades do 🇧🇷 #Brasil - #PantanalEmChamas e #BrasilEmChamas \nCom o clima mais seco, as chamas tendem a se alastrar. Cadê as autoridades?...\nE a temporada de #Fogo 🔥 ainda nem começou, não há #bioma que dê conta - \n\nwww.instagram.com/p/C97jI3uutUU/ - \nVia clima.info - #Seca #Amazônia #Pantanal -"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.instagram.com/p/C97jI3uutUU/",
+                    "title": "ClimaInfo on Instagram: \"Realidades brasileiras: de um lado, #PantanalEmChamas, do outro #BrasilEmChamas 🔥\n\nCom o clima mais seco, as chamas tendem a se alastrar. Onde as autoridades estão atuando e f...",
+                    "description": "284 likes, 17 comments - clima.info on July 27, 2024: \"Realidades brasileiras: de um lado, #PantanalEmChamas, do outro #BrasilEmChamas 🔥\n\nCom o clima mais seco, as chamas tendem a se alastrar. Onde as...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nao7dx45ussub3pg4q23u6le/bafkreih6oggcvvwh2w427cjvut3l4ljlm2lmsgndlii2qdqbgy3l64po7m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-28T04:09:22.422Z",
+            "labels": []
+        }
+    ]
+}

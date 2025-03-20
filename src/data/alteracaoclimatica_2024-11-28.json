@@ -1,0 +1,273 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:tjspxllkgrhignjcwlgofx5l/app.bsky.feed.post/3l3vevbtzdh2r",
+            "cid": "bafyreig5xuixeucnmay3env7hwj4hpg6h56koi64kzfyymcgo2eaxs7krm",
+            "author": {
+                "did": "did:plc:tjspxllkgrhignjcwlgofx5l",
+                "handle": "yanara.bsky.social",
+                "displayName": "Yanara C. Nobre",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tjspxllkgrhignjcwlgofx5l/bafkreiexs4efvbez35aw5xof6l4k5wifnxcr7k3l2x4pdder76hgic54eu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T21:57:21.391Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:45:08.496Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 545,
+                                "width": 983
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif227kau72kbxlvjdchksyaasvqcw2pyhhaglmp2fbcxsgqdqxvoq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 99657
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alteraçãoclimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 83,
+                            "byteStart": 61
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 94,
+                            "byteStart": 84
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazônia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 105,
+                            "byteStart": 95
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rio Madeira hoje em Porto Velho. \nOlhem pelo povo do Norte.\n\n#alteraçãoclimática #queimadas #Amazônia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjspxllkgrhignjcwlgofx5l/bafkreif227kau72kbxlvjdchksyaasvqcw2pyhhaglmp2fbcxsgqdqxvoq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tjspxllkgrhignjcwlgofx5l/bafkreif227kau72kbxlvjdchksyaasvqcw2pyhhaglmp2fbcxsgqdqxvoq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 545,
+                            "width": 983
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:45:08.496Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3omubhiy7kgqdl3brq6cfxy5/app.bsky.feed.post/3l335dkzal22v",
+            "cid": "bafyreidtzb4uczu4kuacbzvqseftm2hxkt3vkf2mrtcdbv4levrn324ldy",
+            "author": {
+                "did": "did:plc:3omubhiy7kgqdl3brq6cfxy5",
+                "handle": "mianmianwuxian.bsky.social",
+                "displayName": "MianmianWuxian",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3omubhiy7kgqdl3brq6cfxy5/bafkreigpd3lde434qhez7nob6xxsu4c4jw5a4u3ve5aizpqkuxfpfk55zq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T14:53:11.096Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T06:20:44.069Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Isso acontece porque o grão, que é muito cultivado no país, libera água subterrânea de volta para a atmosfera",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifsmodprihdzkj4agtkagkcwvmxyzv4qrvmyyjhihlra6x4purij4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 586587
+                        },
+                        "title": "Nos EUA, “suor” do milho está tornando o verão ainda mais quente e úmido",
+                        "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/08/28/nos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml#amp_tf=De%20%251%24s&aoh=17251708460547&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fumsoplaneta.globo.com%2Fclima%2Fnoticia%2F2024%2F08%2F28%2Fnos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alteracaoclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 19,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ecologia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 29,
+                            "byteStart": 20
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desastreambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 48,
+                            "byteStart": 30
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "planeta"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 57,
+                            "byteStart": 49
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 63,
+                            "byteStart": 58
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Terra"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 64
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 77,
+                            "byteStart": 71
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "calorextremo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 91,
+                            "byteStart": 78
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/08/28/nos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml#amp_tf=De%20%251%24s&aoh=17251708460547&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fumsoplaneta.globo.com%2Fclima%2Fnoticia%2F2024%2F08%2F28%2Fnos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 93
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#alteracaoclimatica #ecologia #desastreambiental #planeta\n#agro #Terra #clima #calorextremo \numsoplaneta.globo.com/clima/notici..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/08/28/nos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml#amp_tf=De%20%251%24s&aoh=17251708460547&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fumsoplaneta.globo.com%2Fclima%2Fnoticia%2F2024%2F08%2F28%2Fnos-eua-suor-do-milho-esta-tornando-o-verao-ainda-mais-quente-e-umido.ghtml",
+                    "title": "Nos EUA, “suor” do milho está tornando o verão ainda mais quente e úmido",
+                    "description": "Isso acontece porque o grão, que é muito cultivado no país, libera água subterrânea de volta para a atmosfera",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omubhiy7kgqdl3brq6cfxy5/bafkreifsmodprihdzkj4agtkagkcwvmxyzv4qrvmyyjhihlra6x4purij4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T06:20:44.069Z",
+            "labels": []
+        }
+    ]
+}

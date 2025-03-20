@@ -1,0 +1,382 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:2qvawci5gq3s6w33eea3bni3/app.bsky.feed.post/3lc4fbl32o22f",
+            "cid": "bafyreibj7w4cm2hs6vnwtjsz6ktamf4h3bglzhuo4hdwyjeortyws3lliq",
+            "author": {
+                "did": "did:plc:2qvawci5gq3s6w33eea3bni3",
+                "handle": "fcmabelle24.bsky.social",
+                "displayName": "Fã Clube Mabelle 🧭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvawci5gq3s6w33eea3bni3/bafkreihujd2yhauczbht5a4rl3drby3nyl55chfq55eluyu5l6ofhdy2ra@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T11:32:45.333Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T20:11:48.751Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiebqjgalqvugg5i5k5afbmjxlpbu2swowjoxflbuxy4ouudb44zfu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 374612
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje dia 29 de novembro é comemorado dia internacional dia da onça pintada 🐆\n\nCuriosidades sobre a onça-pintada:\n\nÉ o maior felino das Américas.\nÉ o maior carnívoro da América do Sul\nAlimenta-se de mais de 85 espécies diferentes.\nNão está presente no Pampa."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvawci5gq3s6w33eea3bni3/bafkreiebqjgalqvugg5i5k5afbmjxlpbu2swowjoxflbuxy4ouudb44zfu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvawci5gq3s6w33eea3bni3/bafkreiebqjgalqvugg5i5k5afbmjxlpbu2swowjoxflbuxy4ouudb44zfu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T20:11:53.054Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:j4dg2ptwox75hbbm3a3hdptr/app.bsky.feed.post/3lb636vosd22h",
+            "cid": "bafyreienko75vxczjcmy55jeuhd4yhlp5ibagm4elmbhab6zpfa6cum7re",
+            "author": {
+                "did": "did:plc:j4dg2ptwox75hbbm3a3hdptr",
+                "handle": "amosmoura.bsky.social",
+                "displayName": "Amós Moura ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j4dg2ptwox75hbbm3a3hdptr/bafkreia43nrepvdq2fmwbg3a33kuwhdjbdjyyw4rowiuxeszhklm6iaayq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-30T14:02:05.755Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-17T18:51:29.650Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigl3yudu6xb7dg744p7bmzgeptg6fc3jgfipvowlkz6zwxo4hywlu",
+                        "uri": "at://did:plc:xplfowvb5fkrduzpw4s6fsrv/app.bsky.feed.post/3lb62dcpryk2r"
+                    },
+                    "root": {
+                        "cid": "bafyreihoztd2bjqdixvta6437v4jajm3zkkpgh6m7xgofaahhht3myivge",
+                        "uri": "at://did:plc:xplfowvb5fkrduzpw4s6fsrv/app.bsky.feed.post/3lb62dbfcwx2c"
+                    }
+                },
+                "text": "O que significa o pontinho no pampa que algumas espécies tem?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-17T18:51:57.137Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4otj3jmzs2x",
+            "cid": "bafyreib7xojpprvlcwabmqr2njgmlxsju7nhb6iy6xklopndosa2q63ikm",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T19:43:17.581Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia33i4plsa24r5gjrw3p6erxwumw5dikzby4gjvkuhdhl7qwgkt3i",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4ot6lfdwx25"
+                    },
+                    "root": {
+                        "cid": "bafyreia33i4plsa24r5gjrw3p6erxwumw5dikzby4gjvkuhdhl7qwgkt3i",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4ot6lfdwx25"
+                    }
+                },
+                "text": "1 - o bioma Pampa é o bioma brasileiro com mais espécies de felinos, um total de 7 espécies"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T19:43:17.581Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ac3tjz327zytbz74bfaqygtw/app.bsky.feed.post/3l4mhwwu2co2q",
+            "cid": "bafyreigtagttw6dciis4ldxz322jwri3bbnebdptog55ib7pyj365cb6sa",
+            "author": {
+                "did": "did:plc:ac3tjz327zytbz74bfaqygtw",
+                "handle": "efeitoborboleta.bsky.social",
+                "displayName": "Efeito Borboleta 🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ac3tjz327zytbz74bfaqygtw/bafkreiegwkstdsy33rz6w5fzqpoc7yzhauy2omwo35i6j25elfextzvheu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T03:57:19.764Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T21:10:58.005Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiahxwmno52sza5eiu4ewbcvcgnmzfk63xbucab3ltozsufyzbmjhe",
+                        "uri": "at://did:plc:ac3tjz327zytbz74bfaqygtw/app.bsky.feed.post/3l4mfz4hi6o2j"
+                    },
+                    "root": {
+                        "cid": "bafyreiahxwmno52sza5eiu4ewbcvcgnmzfk63xbucab3ltozsufyzbmjhe",
+                        "uri": "at://did:plc:ac3tjz327zytbz74bfaqygtw/app.bsky.feed.post/3l4mfz4hi6o2j"
+                    }
+                },
+                "text": "6 - No Brasil a gente encontra mais de 3 mil espécies. 2.100 Ocorrem na Mata Atlântica. Mais de 900 ocorrem só no estado do Rio Grande do Sul (Mata Atlântica e Pampa), isso é mais do que ocorre em todo o continente europeu..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T21:10:58.005Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:awc3hlz6wjjqjp7yw23cqofg/app.bsky.feed.post/3l3ysknw3js2m",
+            "cid": "bafyreias4m5yaots6xd7lkdwgg4yvbtkwcf3khw4osiqrtfrgvt44quqlm",
+            "author": {
+                "did": "did:plc:awc3hlz6wjjqjp7yw23cqofg",
+                "handle": "anitacafer.bsky.social",
+                "displayName": "Anita Cafer ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:awc3hlz6wjjqjp7yw23cqofg/bafkreiash6ylhtsl7zb6et72wkalcyktbafhsjyb4whpgpyiwf5f7uu3tq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-19T17:05:34.885Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T01:27:43.424Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicfqncgwevciagmxewjrcx3s5iguvnnbinyjh2x6d4zsk4kv7eht4",
+                        "uri": "at://did:plc:jho6cllj66gmysmc35wzbmx4/app.bsky.feed.post/3l3yrbmhr3i2y"
+                    },
+                    "root": {
+                        "cid": "bafyreic2ixznl5konaqqjnj2v6d7k4jsliyklvb67veutbog6436zgwmny",
+                        "uri": "at://did:plc:jho6cllj66gmysmc35wzbmx4/app.bsky.feed.post/3l3xrd3275c2y"
+                    }
+                },
+                "text": "Infelizmente acabamos responsáveis por disseminar espécies exóticas 😕\nVocê sabe de alguma publicação que fale das aranhas nativas do pampa?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T01:27:43.424Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7mm24ewiyslbugnqewaljxvx/app.bsky.feed.post/3l357646sla2c",
+            "cid": "bafyreiepfvgtxizn6vsajprsoj65vutkxaw5nbhr3myzopylj5ixp3r364",
+            "author": {
+                "did": "did:plc:7mm24ewiyslbugnqewaljxvx",
+                "handle": "portaldecamaqua.bsky.social",
+                "displayName": "Site Portal de Camaquã",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreihhdyr4jl27ewzprl4gbh5bv6n5xasxqzj73semqyrpgc3qxsavqi@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-01T03:13:35.798Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T01:58:47.579Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 500,
+                                "width": 797
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 515395
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.portaldecamaqua.com.br/noticias/84555/rodovias-da-ecosul-ao-longo-das-br-392-e-br-116-sao-cruciais-na-preservacao-do-bioma-pampa.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 198
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rodovias da Ecosul, ao longo das BR-392 e BR-116, são cruciais na preservação do Bioma Pampa \n\nEm 2023, as câmeras capturaram 1.265 registros de fauna, de pelo menos 26 espécies diferentes \n\n( www.portaldecamaqua.com.br/noticias/845... )"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7mm24ewiyslbugnqewaljxvx/bafkreig3hzaanj2hvazvz3ywuohvao6fccdmg7hqhs7l6juxih5slxqmyi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 500,
+                            "width": 797
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-02T01:58:47.579Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzhrzfcx2t",
+            "cid": "bafyreigvi4o67soxktm5afc5r6hux5nz6powyl6kvnnwaocqqhmzhgevsi",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-13T20:01:42.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 357061
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiadbhvbtkrzi22pkybspenv6zbi4mnm4ug32xmzqgtcpnbjcr3kxa",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzeqdyfa2b"
+                    },
+                    "root": {
+                        "cid": "bafyreiblszpp6475xp5fpnntbjswlwxlbumhrmctnkcbjupsqrmcbkubhq",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzytkrked2m"
+                    }
+                },
+                "text": "Isso coloca o Pampa na frente da Amazônia, Caatinga e Pantanal na lista de biomas brasileiros com mais espécies ameaçadas ou extintas. O Pampa é um bioma pequeno mas muito rico em biodiversidade, que precisa de nossa proteção e não deve ser esquecido."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-13T20:01:42.966Z",
+            "labels": []
+        }
+    ]
+}

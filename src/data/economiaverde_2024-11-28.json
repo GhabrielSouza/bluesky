@@ -1,0 +1,780 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:hrnf4tugkk4fp4zaly5sgw2h/app.bsky.feed.post/3latu2actrk2k",
+            "cid": "bafyreib27m2egtdsi6clwoiz4q773swuissmq3zojkwzm6ohvjb2izrbve",
+            "author": {
+                "did": "did:plc:hrnf4tugkk4fp4zaly5sgw2h",
+                "handle": "mempoficial.bsky.social",
+                "displayName": "Ministério do Empreendedorismo, da ME e da EPP",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hrnf4tugkk4fp4zaly5sgw2h/bafkreiavses5bkahfvxjpvrdsmypnmlstesngeokxojnisndmhusi2ieyi@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-05T17:24:56.134Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T17:16:59.443Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieaz6qnfik2zmweunpkn4epmuovzb4f5pwpjqcetvnfzxwbjgtnam"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 592928
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MEMPnaCOP29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EmpreendedorismoClimático"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 40,
+                            "byteStart": 13
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DesenvolvimentoSustentável"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 69,
+                            "byteStart": 41
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 70
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EconomiaVerde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 91,
+                            "byteStart": 77
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Bioeconomia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 104,
+                            "byteStart": 92
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreighgub25xt34notqfq2kyo4x3mglrdd377lps5ge6cuxicxyiayou",
+                        "uri": "at://did:plc:hrnf4tugkk4fp4zaly5sgw2h/app.bsky.feed.post/3lattzt7vjk2k"
+                    },
+                    "root": {
+                        "cid": "bafyreieqhzn4vetltmoulder55hs2sdfaqyz2pn66sskpmkfmnkanefgvu",
+                        "uri": "at://did:plc:hrnf4tugkk4fp4zaly5sgw2h/app.bsky.feed.post/3lattuthopc2k"
+                    }
+                },
+                "text": "#MEMPnaCOP29 #EmpreendedorismoClimático #DesenvolvimentoSustentável #COP29 #EconomiaVerde #Bioeconomia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hrnf4tugkk4fp4zaly5sgw2h/bafkreieaz6qnfik2zmweunpkn4epmuovzb4f5pwpjqcetvnfzxwbjgtnam@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hrnf4tugkk4fp4zaly5sgw2h/bafkreieaz6qnfik2zmweunpkn4epmuovzb4f5pwpjqcetvnfzxwbjgtnam@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T17:19:43.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cfrvbr2ps5kthi2hln3tyvz5/app.bsky.feed.post/3l5n4jyxtut2j",
+            "cid": "bafyreig656z6nhg7udtbqmupmdog5x2zsszbi5mx63mxo5xhrrvv7k5wtm",
+            "author": {
+                "did": "did:plc:cfrvbr2ps5kthi2hln3tyvz5",
+                "handle": "pnudbrasil.bsky.social",
+                "displayName": "PNUD Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfrvbr2ps5kthi2hln3tyvz5/bafkreiag7pzzjjiutro4snkroc4ndcbfjshir6n4kwpixya6b6eyea5e3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:26:05.597Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T20:44:45.000Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "AmericaLatina"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 14,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "economiaverde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 29,
+                            "byteStart": 15
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 43,
+                            "byteStart": 30
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih76kcnstwfyq4sgspmco4jrkf7k4nm24fk6p4rk6l6iqyu4g4zhq",
+                        "uri": "at://did:plc:cfrvbr2ps5kthi2hln3tyvz5/app.bsky.feed.post/3l5n4ju3j5q2p"
+                    },
+                    "root": {
+                        "cid": "bafyreiee73nlt2v4ojqhnjut6azwbmxgfd5rbcjqsyhl4j4e2bxmsvhzhy",
+                        "uri": "at://did:plc:cfrvbr2ps5kthi2hln3tyvz5/app.bsky.feed.post/3l5n4ji5hio2v"
+                    }
+                },
+                "text": "#AmericaLatina #economiaverde #meioambiente"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T20:44:45.000Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:u2z256kg6wpiahug27ccjezr/app.bsky.feed.post/3l5m7qhnatw2p",
+            "cid": "bafyreiascyy6h4mxrrnzlbhav7bwgjp5fzd7ucm4tpppjsetlxkg6omre4",
+            "author": {
+                "did": "did:plc:u2z256kg6wpiahug27ccjezr",
+                "handle": "marusseru.bsky.social",
+                "displayName": "Tell",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u2z256kg6wpiahug27ccjezr/bafkreigcvmt6rfmo4es2nfzkst3rf7nszr72kvmnegn7ujhdxgcq6latha@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:u2z256kg6wpiahug27ccjezr",
+                        "uri": "at://did:plc:u2z256kg6wpiahug27ccjezr/app.bsky.actor.profile/self",
+                        "cid": "bafyreia2vglx4bswp4khnzghguybzjle4hgwserwzd5qenfqcq4qvpftge",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-17T01:02:47.469Z"
+                    }
+                ],
+                "createdAt": "2024-04-17T01:02:46.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T12:09:23.353Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ações para mitigar emissões e potencial com nova indústria de soluções climáticas devem tornar o país um polo de investimentos, diz estudo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicql3pp2zp56r2m2gpqtlmnth32wgl6offhjn7c66b5nwjy5bw5v4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 406070
+                        },
+                        "title": "Projetos verdes no Brasil podem atrair US$ 3 tri em investimentos",
+                        "uri": "https://www.poder360.com.br/poder-sustentavel/projetos-verdes-no-brasil-podem-atrair-us-3-tri-em-investimentos/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TransiçãoVerde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EconomiaVerde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 273,
+                            "byteStart": 259
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.poder360.com.br/poder-sustentavel/projetos-verdes-no-brasil-podem-atrair-us-3-tri-em-investimentos/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 274
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ações para mitigar emissões e potencial com\nnova indústria de soluções climáticas devem\ntornar o pafs um polo de desenvolvimento\nsustentável, indica estudo e \"projetos verdes\"\nno Brasil podem atrair US$ 3 trilhões em\ninvestimentos.\n#TransiçãoVerde\n#EconomiaVerde\nwww.poder360.com.br/poder-susten..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.poder360.com.br/poder-sustentavel/projetos-verdes-no-brasil-podem-atrair-us-3-tri-em-investimentos/",
+                    "title": "Projetos verdes no Brasil podem atrair US$ 3 tri em investimentos",
+                    "description": "Ações para mitigar emissões e potencial com nova indústria de soluções climáticas devem tornar o país um polo de investimentos, diz estudo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u2z256kg6wpiahug27ccjezr/bafkreicql3pp2zp56r2m2gpqtlmnth32wgl6offhjn7c66b5nwjy5bw5v4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T12:09:23.353Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmfdeyaj5siyfu47nud56yw3/app.bsky.feed.post/3l4ei63vu6d26",
+            "cid": "bafyreifcipigf7ikwr3eiw5zokkoyefyqkkdlxzptllelol2vbydzxce6m",
+            "author": {
+                "did": "did:plc:zmfdeyaj5siyfu47nud56yw3",
+                "handle": "agenciaeconordeste.com.br",
+                "displayName": "Eco Nordeste",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreidjve7lwuhj6otmqrmi6vfkedixhf7zdsvqugep42rzg5d3atdveu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T18:02:01.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T16:53:41.260Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Card sobre foto de mulher negra com vestido floral decotado de costas no canto inferior direito. Ela olha para o fundo da imagem desfocado onde há uma casa coberta por painéis solares com vegetação ao redor. Com bordas brancas, abaixo à esquerda, em tarja laranja e letras brancas, NEGROS E INDÍGENAS. Mais abaixo, em tarja verde e letras brancas, 'Pesquisadores serão apoiados na transição energética no NE. Abaixo a logo ECO nordeste",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihhv462xuyw4qhqpvla7lypojjcyqtk34gedkszbc3hsgj24yqide"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 917165
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/4d4aFlX"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 172
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ciencia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 195,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "economiaverde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 210,
+                            "byteStart": 196
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pesquisa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 220,
+                            "byteStart": 211
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "povosindigenas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 221
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "povostradicionais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 255,
+                            "byteStart": 237
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "transicaoenergetica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 276,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Programa do Instituto Mancala, apoiado pelo Serrapilheira, visa capacitar pesquisadores a desenvolver soluções para suas comunidades | Foto: Freepik (gerada com IA)\nLeia bit.ly/4d4aFlX\n#ciencia #economiaverde #pesquisa #povosindigenas #povostradicionais #transicaoenergetica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreihhv462xuyw4qhqpvla7lypojjcyqtk34gedkszbc3hsgj24yqide@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreihhv462xuyw4qhqpvla7lypojjcyqtk34gedkszbc3hsgj24yqide@jpeg",
+                        "alt": "Card sobre foto de mulher negra com vestido floral decotado de costas no canto inferior direito. Ela olha para o fundo da imagem desfocado onde há uma casa coberta por painéis solares com vegetação ao redor. Com bordas brancas, abaixo à esquerda, em tarja laranja e letras brancas, NEGROS E INDÍGENAS. Mais abaixo, em tarja verde e letras brancas, 'Pesquisadores serão apoiados na transição energética no NE. Abaixo a logo ECO nordeste",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T16:53:41.260Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7majwmunhotpczgpigrb3kpt/app.bsky.feed.post/3l3j7ng7smw2n",
+            "cid": "bafyreidltiz75xg7hhborwzizrui5dmy4o2cfkmpjxtltr6vbqvr363gby",
+            "author": {
+                "did": "did:plc:7majwmunhotpczgpigrb3kpt",
+                "handle": "minfazenda.bsky.social",
+                "displayName": "Ministério da Fazenda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreib5tmwcomkcikk7wdmemeqctezhg4dctkdbf7i6suef5327l4dzey@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T14:45:48.704Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T20:39:18.150Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig6hinq2b2mtnchdjaddhc7lxyaw7qpwgr3lnmen33gex5kk7iyce"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 554171
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihz3jpbeugnfwv2bsivwhzz2yhe3nziiupjv6memyl3ryj5p6oxr4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 652416
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifiuqjv6tburv45b5wib7r576cheuafij6e5crozer4do3wroc6li"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 771160
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig5en4wejsoeeoszujo3kix6dryassfvnwcyi2bsflhviul462yye"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 806599
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ECONOMIAVERDE"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 14,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3XwX95E"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 255,
+                            "byteStart": 241
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#ECONOMIAVERDE | O Senado aprovou o PL 3.027/2024 que estabelece regras para o Programa de Desenvolvimento do Hidrogênio de Baixa Emissão de Carbono (PHBC). O texto segue para sanção presidencial. Saiba mais detalhes na Agência Senado: bit.ly/3XwX95E"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreig6hinq2b2mtnchdjaddhc7lxyaw7qpwgr3lnmen33gex5kk7iyce@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreig6hinq2b2mtnchdjaddhc7lxyaw7qpwgr3lnmen33gex5kk7iyce@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreihz3jpbeugnfwv2bsivwhzz2yhe3nziiupjv6memyl3ryj5p6oxr4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreihz3jpbeugnfwv2bsivwhzz2yhe3nziiupjv6memyl3ryj5p6oxr4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreifiuqjv6tburv45b5wib7r576cheuafij6e5crozer4do3wroc6li@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreifiuqjv6tburv45b5wib7r576cheuafij6e5crozer4do3wroc6li@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreig5en4wejsoeeoszujo3kix6dryassfvnwcyi2bsflhviul462yye@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreig5en4wejsoeeoszujo3kix6dryassfvnwcyi2bsflhviul462yye@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 9,
+            "likeCount": 24,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T20:39:18.150Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:im7max5dtdmsohys2mig6erg/app.bsky.feed.post/3krul53hmfb2l",
+            "cid": "bafyreia6t346sokdhq7vx4foaxp3wg4kmuwgybkpkelkhck3q3sieltw24",
+            "author": {
+                "did": "did:plc:im7max5dtdmsohys2mig6erg",
+                "handle": "cesarfabr.bsky.social",
+                "displayName": "César Fabrício⚫⚪🔴",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:im7max5dtdmsohys2mig6erg/bafkreicgyxexj6xjuabqqsidktrx67t353u2ynikov73bqobmxjrkirtpq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-30T10:53:17.856Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-07T02:52:16.345Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Duas florestas brasileiras serão concedidas à iniciativa privada para restauração e geração de crédito de carbono.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie5pd6cgvabxyv3ulizgr75hkiaijapojqmhrmu7l3efc4hgpfggq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 591278
+                        },
+                        "title": "Florestas públicas serão concedidas para restauração e geração de crédito de carbono",
+                        "uri": "https://almapreta.com.br/sessao/cotidiano/florestas-publicas-serao-concedidas-para-restauracao-e-geracao-de-credito-de-carbono/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "RestauraçãoFlorestal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 202,
+                            "byteStart": 179
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CréditoDeCarbono"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 203
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BNDES"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SFB"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "FlorestasBrasileiras"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 255,
+                            "byteStart": 234
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Sustentabilidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 273,
+                            "byteStart": 256
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EconomiaVerde"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 288,
+                            "byteStart": 274
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌳🌱 Grandes notícias para o nosso planeta! \n\n🌐 Essa ação promete criar 25 mil empregos e gerar R$ 60 milhões ao ano em renda para os municípios envolvidos. 🙌📈\n\n#RestauraçãoFlorestal #CréditoDeCarbono #BNDES #SFB #FlorestasBrasileiras #Sustentabilidade #EconomiaVerde"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://almapreta.com.br/sessao/cotidiano/florestas-publicas-serao-concedidas-para-restauracao-e-geracao-de-credito-de-carbono/",
+                    "title": "Florestas públicas serão concedidas para restauração e geração de crédito de carbono",
+                    "description": "Duas florestas brasileiras serão concedidas à iniciativa privada para restauração e geração de crédito de carbono.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:im7max5dtdmsohys2mig6erg/bafkreie5pd6cgvabxyv3ulizgr75hkiaijapojqmhrmu7l3efc4hgpfggq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-07T02:52:16.345Z",
+            "labels": []
+        }
+    ]
+}

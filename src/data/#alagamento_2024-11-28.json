@@ -1,0 +1,4428 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbuormuebk2b",
+            "cid": "bafyreic3vp7gs6sbpwhsbqoc244j6kcx7geovm5sv3usa7o4vil2rae6di",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-26T18:40:33.269Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas intensas e ventos de até 60 km/h em partes do Rio Grande do Sul e Santa Catarina",
+                        "title": "Alerta amarelo para chuvas intensas e ventos de até 60 km/h em partes do Rio Grande do Sul e Santa Catarina   - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-e-ventos-de-ate-60-km-h-em-partes-do-rio-grande-do-sul-e-santa-catarina-26-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-e-ventos-de-ate-60-km-h-em-partes-do-rio-grande-do-sul-e-santa-catarina-26-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 182,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertaamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 183
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 211,
+                            "byteStart": 198
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 212
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 234
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "santacatarina"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 250
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas intensas e ventos de até 60 km/h em partes do Rio Grande do Sul e Santa Catarina. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertaamarelo #chuvaintensa #ventania #alagamento #riograndedosul #santacatarina"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-e-ventos-de-ate-60-km-h-em-partes-do-rio-grande-do-sul-e-santa-catarina-26-11-24",
+                    "title": "Alerta amarelo para chuvas intensas e ventos de até 60 km/h em partes do Rio Grande do Sul e Santa Catarina   - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas intensas e ventos de até 60 km/h em partes do Rio Grande do Sul e Santa Catarina"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-26T18:40:34.855Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbuatqdfo226",
+            "cid": "bafyreiguqlax5rernl5xrwz3bumvqea3rrseirqtjylfdbvavglxxykhja",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-26T14:31:11.632Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas intensas, ventania, raios e risco de alagamentos em partes do estado do AM, PA, TO e MT",
+                        "title": "Alerta laranja para chuvas intensas, ventania, raios e risco de alagamentos em partes do estado do AM, PA, TO e MT - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-raios-e-risco-de-alagamentos-em-partes-do-estado-do-am-pa-to-e-mt-26-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-raios-e-risco-de-alagamentos-em-partes-do-estado-do-am-pa-to-e-mt-26-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 174,
+                            "byteStart": 136
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 177
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 190
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 205
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 215
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 236
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 248
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 266,
+                            "byteStart": 255
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas intensas, ventania, raios e risco de alagamentos em partes do estado do AM, PA, TO e MT. Confira a notícia: www.climaaovivo.com.br/noticias/ale... \n\n#climaaovivo #alertalaranja #ventania #chuvaintensa #raios #alagamento #norte #centroeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-raios-e-risco-de-alagamentos-em-partes-do-estado-do-am-pa-to-e-mt-26-11-24",
+                    "title": "Alerta laranja para chuvas intensas, ventania, raios e risco de alagamentos em partes do estado do AM, PA, TO e MT - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas intensas, ventania, raios e risco de alagamentos em partes do estado do AM, PA, TO e MT"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-26T14:31:12.854Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbs6okuz5c2r",
+            "cid": "bafyreihc2ca7a4etpz4fi4v3flvjkcvxyvnhd7tqp7vznnstmnaez6lefi",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-25T18:47:11.185Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas e ventos intensos de até 60 km/h em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste",
+                        "title": "Alerta amarelo para chuvas e ventos intensos de até 60 km/h em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-de-ate-60-km-h-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-25-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-de-ate-60-km-h-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-25-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 145
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 185
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 211,
+                            "byteStart": 198
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 212
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 248
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 258
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 270
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas e ventos intensos de até 60 km/h em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste. Confira a notícia: \nwww.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #chuvaintensa #ventania #raios #alagamento #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-de-ate-60-km-h-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-25-11-24",
+                    "title": "Alerta amarelo para chuvas e ventos intensos de até 60 km/h em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas e ventos intensos de até 60 km/h em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-25T18:47:12.657Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbmlaqsfak25",
+            "cid": "bafyreidyo4osjz57yq5vlaqevtprxdjxa42vorjilfew2xftyd5zkrlbea",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-23T13:16:07.841Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas e ventos intensos em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste do país",
+                        "title": "Alerta amarelo para chuvas e ventos intensos em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste do país  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-do-pais-23-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-do-pais-23-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 175,
+                            "byteStart": 137
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 177
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertaamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 190
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 218,
+                            "byteStart": 205
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 219
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 248
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 258
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 270
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas e ventos intensos em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste do país. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertaamarelo #chuvaintensa #ventania #alagamento #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-em-parte-das-regioes-norte-nordeste-centro-oeste-e-sudeste-do-pais-23-11-24",
+                    "title": "Alerta amarelo para chuvas e ventos intensos em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste do país  - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas e ventos intensos em parte das regiões Norte, Nordeste, Centro-Oeste e Sudeste do país"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-23T13:16:09.656Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbmejmrzpc27",
+            "cid": "bafyreidjgzxh2lih4k7ka446x6q3boegjj3dgsie6goyu72zjpkzuozzq4",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-23T11:15:49.430Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas e ventos intensos, com risco de alagamento em partes das regiões Norte, Nordeste, Centro-Oeste e Sudeste",
+                        "title": "Alerta laranja para chuvas e ventos intensos, com risco de alagamento em partes das regiões Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-com-risco-de-alagamento-em-partes-das-regioes-norte-nordeste-centro-oeste-e-sudeste-23-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-com-risco-de-alagamento-em-partes-das-regioes-norte-nordeste-centro-oeste-e-sudeste-23-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 192,
+                            "byteStart": 154
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 206,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 207
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 236
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 246
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 258
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 265
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 287
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas e ventos intensos, com risco de alagamento em partes das regiões Norte, Nordeste, Centro-Oeste e Sudeste. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertalaranja #chuvaintensa #ventania #alagamento #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-com-risco-de-alagamento-em-partes-das-regioes-norte-nordeste-centro-oeste-e-sudeste-23-11-24",
+                    "title": "Alerta laranja para chuvas e ventos intensos, com risco de alagamento em partes das regiões Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas e ventos intensos, com risco de alagamento em partes das regiões Norte, Nordeste, Centro-Oeste e Sudeste"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-23T11:15:51.258Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbkevfnwgs2m",
+            "cid": "bafyreihhr4j76wvnrqg3ey2bkza64szvnxhphniz7gdzyvneri3jl4dzra",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-22T16:17:05.135Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas e ventos intensos, risco de alagamentos em partes das regiões Norte, Nordeste e Centro-Oeste",
+                        "title": "Alerta amarelo para chuvas e ventos intensos, risco de alagamentos em partes das regiões Norte, Nordeste e Centro-Oeste - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-risco-de-alagamentos-em-partes-das-regioes-norte-nordeste-e-centro-oeste-22-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-risco-de-alagamentos-em-partes-das-regioes-norte-nordeste-e-centro-oeste-22-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 181,
+                            "byteStart": 143
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 195,
+                            "byteStart": 183
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertaamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 210,
+                            "byteStart": 196
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 224,
+                            "byteStart": 211
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 225
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 246,
+                            "byteStart": 235
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 253,
+                            "byteStart": 247
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "transtornos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 266,
+                            "byteStart": 254
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 273,
+                            "byteStart": 267
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 274
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 284
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas e ventos intensos, risco de alagamentos em partes das regiões Norte, Nordeste e Centro-Oeste. Confira a notícia: \nwww.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertaamarelo #chuvaintensa #ventania #alagamento #raios #transtornos #norte #nordeste #centroeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-risco-de-alagamentos-em-partes-das-regioes-norte-nordeste-e-centro-oeste-22-11-24",
+                    "title": "Alerta amarelo para chuvas e ventos intensos, risco de alagamentos em partes das regiões Norte, Nordeste e Centro-Oeste - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas e ventos intensos, risco de alagamentos em partes das regiões Norte, Nordeste e Centro-Oeste"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-22T16:17:06.467Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbk4umoots26",
+            "cid": "bafyreig6btxno47qxtlvbrpoo52einw7p3pd46fleve5s5magxpfs2nndu",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-22T13:53:29.012Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas intensas, ventania, risco de alagamento em parte do país",
+                        "title": "Alerta laranja para chuvas intensas, ventania, risco de alagamento em parte do país - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-risco-de-alagamento-em-parte-do-pais-22-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-risco-de-alagamento-em-parte-do-pais-22-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 144,
+                            "byteStart": 106
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 158,
+                            "byteStart": 146
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 187,
+                            "byteStart": 174
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 188
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 209,
+                            "byteStart": 198
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 216,
+                            "byteStart": 210
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 223,
+                            "byteStart": 217
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 224
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 234
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 246
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas intensas, ventania, risco de alagamento em parte do país. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertalaranja #chuvaintensa #ventania #alagamento #raios #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-ventania-risco-de-alagamento-em-parte-do-pais-22-11-24",
+                    "title": "Alerta laranja para chuvas intensas, ventania, risco de alagamento em parte do país - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas intensas, ventania, risco de alagamento em parte do país"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-22T13:53:30.069Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbhxh25um22l",
+            "cid": "bafyreiczgukblee5ck6dnt72mkhamam2f4wgbm2puu6r5rlciwgmpzdu2y",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-21T17:11:05.193Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas e ventos intensos, com risco de alagamentos, raios e queda de árvores em grande parte do Brasil",
+                        "title": "Alerta amarelo para chuvas e ventos intensos, com risco de alagamentos, raios e queda de árvores em grande parte do Brasil  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-com-risco-de-alagamentos-raios-e-queda-de-arvores-em-grande-parte-do-brasil-21-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-com-risco-de-alagamentos-raios-e-queda-de-arvores-em-grande-parte-do-brasil-21-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 145
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 198,
+                            "byteStart": 186
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertaamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 213,
+                            "byteStart": 199
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 227,
+                            "byteStart": 214
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 237,
+                            "byteStart": 228
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 244,
+                            "byteStart": 238
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 245
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 257
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas e ventos intensos, com risco de alagamentos, raios e queda de árvores em grande parte do Brasil. Confira a notícia: www.climaaovivo.com.br/noticias/ale... \n\n#climaaovivo #alertaamarelo #chuvaintensa #ventania #raios #alagamento #brasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-e-ventos-intensos-com-risco-de-alagamentos-raios-e-queda-de-arvores-em-grande-parte-do-brasil-21-11-24",
+                    "title": "Alerta amarelo para chuvas e ventos intensos, com risco de alagamentos, raios e queda de árvores em grande parte do Brasil  - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas e ventos intensos, com risco de alagamentos, raios e queda de árvores em grande parte do Brasil"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-21T17:11:05.696Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbd5nkbvls2m",
+            "cid": "bafyreiel5cb4mixow3xix5km45hzeeezsubile52htzbuzlqtkce52csse",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T19:18:47.187Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuva intensa e ventania em parte do Rio Grande do Sul",
+                        "title": "Alerta amarelo para chuva intensa e ventania em parte do Rio Grande do Sul  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuva-intensa-e-ventania-em-parte-do-rio-grande-do-sul-19-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuva-intensa-e-ventania-em-parte-do-rio-grande-do-sul-19-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 134,
+                            "byteStart": 96
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 136
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertaamerelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 163,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 177,
+                            "byteStart": 164
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 187,
+                            "byteStart": 178
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 199,
+                            "byteStart": 188
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 206,
+                            "byteStart": 200
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 222,
+                            "byteStart": 207
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuva intensa e ventania em parte do Rio Grande do Sul. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertaamerelo #chuvaintensa #ventania #alagamento #raios #riograndedosul"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuva-intensa-e-ventania-em-parte-do-rio-grande-do-sul-19-11-24",
+                    "title": "Alerta amarelo para chuva intensa e ventania em parte do Rio Grande do Sul  - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuva intensa e ventania em parte do Rio Grande do Sul"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T19:28:59.899Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbd3euaz2k25",
+            "cid": "bafyreidq6ym3rm6b2l7cqqvv2ijr3vfodomhh6a3g6i5rzpps2eqbnl4r4",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T18:38:08.170Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas e ventos intensos nas regiões Norte e Centro-Oeste",
+                        "title": "Alerta laranja para chuvas e ventos intensos nas regiões Norte e Centro-Oeste  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-nas-regioes-norte-e-centro-oeste-19-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-nas-regioes-norte-e-centro-oeste-19-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 138,
+                            "byteStart": 100
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 152,
+                            "byteStart": 140
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 167,
+                            "byteStart": 153
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 181,
+                            "byteStart": 168
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "tempestade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 182
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 215,
+                            "byteStart": 204
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 222,
+                            "byteStart": 216
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 223
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 241,
+                            "byteStart": 230
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas e ventos intensos nas regiões Norte e Centro-Oeste. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertalaranja #chuvaintensa #tempestade #ventania #alagamento #raios #norte #centroeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-nas-regioes-norte-e-centro-oeste-19-11-24",
+                    "title": "Alerta laranja para chuvas e ventos intensos nas regiões Norte e Centro-Oeste  - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas e ventos intensos nas regiões Norte e Centro-Oeste"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T19:00:43.791Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3lbaec56kqc2o",
+            "cid": "bafyreidj7tplw2npxne7iqeas6tqhjpbmqoyj4tyltskiuiqhjg2pgeuju",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T16:39:41.325Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas intensas em grande parte do Brasil",
+                        "title": "Alerta amarelo para chuvas intensas em grande parte do Brasil  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-grande-parte-do-brasil-18-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-grande-parte-do-brasil-18-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 121,
+                            "byteStart": 83
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 135,
+                            "byteStart": 123
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 149,
+                            "byteStart": 136
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 163,
+                            "byteStart": 150
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 164
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "tempestade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 185,
+                            "byteStart": 174
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 186
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 198
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas intensas em grande parte do Brasil. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertamarelo #chuvaintensa #ventania #tempestade #alagamento #raios"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-grande-parte-do-brasil-18-11-24",
+                    "title": "Alerta amarelo para chuvas intensas em grande parte do Brasil  - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas intensas em grande parte do Brasil"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T16:39:41.857Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3latlfrgcy22x",
+            "cid": "bafyreibxus2missjq42rguuou3tsawcaexr3cu3tq47qymljxuuxddrtce",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T14:42:22.808Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas e ventos intensos em partes do Norte, Nordeste, Centro-Oeste e Sudeste",
+                        "title": "Alerta laranja para chuvas e ventos intensos em partes do Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-em-partes-do-norte-nordeste-centro-oeste-e-sudeste-13-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-em-partes-do-norte-nordeste-centro-oeste-e-sudeste-13-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 119
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 171,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 172
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 200,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 210,
+                            "byteStart": 201
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 217,
+                            "byteStart": 211
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 218
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 230
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 246,
+                            "byteStart": 237
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 247
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 267,
+                            "byteStart": 259
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas e ventos intensos em partes do Norte, Nordeste, Centro-Oeste e Sudeste. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertalaranja #chuvaintensa #ventania #raios #alagamento #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-e-ventos-intensos-em-partes-do-norte-nordeste-centro-oeste-e-sudeste-13-11-24",
+                    "title": "Alerta laranja para chuvas e ventos intensos em partes do Norte, Nordeste, Centro-Oeste e Sudeste  - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas e ventos intensos em partes do Norte, Nordeste, Centro-Oeste e Sudeste"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T14:42:35.598Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3laqynqzftc2q",
+            "cid": "bafyreiahvamwakpq4s7h4d6pzmukdfl2mtugghe4wirmzlwmdoggmc23qe",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T14:01:30.250Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta laranja para chuvas intensas e ventania em partes de São Paulo e Paraná",
+                        "title": "Alerta laranja para chuvas intensas e ventania em partes de São Paulo e Paraná  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-e-ventania-em-partes-de-sao-paulo-e-parana-12-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-e-ventania-em-partes-de-sao-paulo-e-parana-12-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 102
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 154,
+                            "byteStart": 142
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertalaranja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 155
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 184
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 205,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "raios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 206
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "saopaulo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 222,
+                            "byteStart": 213
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "parana"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 230,
+                            "byteStart": 223
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta laranja para chuvas intensas e ventania em partes de São Paulo e Paraná. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertalaranja #chuvaintensa #ventania #alagamento #raios #saopaulo #parana"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-laranja-para-chuvas-intensas-e-ventania-em-partes-de-sao-paulo-e-parana-12-11-24",
+                    "title": "Alerta laranja para chuvas intensas e ventania em partes de São Paulo e Paraná  - Clima ao Vivo",
+                    "description": "Alerta laranja para chuvas intensas e ventania em partes de São Paulo e Paraná"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T14:01:30.806Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5rvtruvbl52vgiejcq6guckz/app.bsky.feed.post/3lacm77iw6w2e",
+            "cid": "bafyreigub45cmjr3xkl2744mbt5q6whhaaeskjtujf3y6dh5pkpefupqai",
+            "author": {
+                "did": "did:plc:5rvtruvbl52vgiejcq6guckz",
+                "handle": "dinheirama.bsky.social",
+                "displayName": "Dinheirama",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5rvtruvbl52vgiejcq6guckz/bafkreigyzeoted2yjs3hx5vbsdmkohp3solgso5rauhgeepo6vy6ytsesq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T01:49:41.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T20:43:58.267Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Defesa Civil emitiu um alerta para ventos fortes e raios",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibuexsul2pzjtgwb6rwirecm4lizwfcprrvpxbprmjfzyljquptlm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 996955
+                        },
+                        "title": "SP entra em atenção para alagamentos devido à chuva",
+                        "uri": "https://dinheirama.com/sp-entra-em-atencao-para-alagamentos-devido-a-chuva/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://dinheirama.com/sp-entra-em-atencao-para-alagamentos-devido-a-chuva/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 85,
+                            "byteStart": 55
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 93,
+                            "byteStart": 86
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 97,
+                            "byteStart": 94
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 109,
+                            "byteStart": 98
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "previsaodotempo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 126,
+                            "byteStart": 110
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 127
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "SP entra em atenção para alagamentos devido à chuva\ndinheirama.com/sp-entra-em-...\n#chuvas #sp #alagamento #previsaodotempo #clima"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://dinheirama.com/sp-entra-em-atencao-para-alagamentos-devido-a-chuva/",
+                    "title": "SP entra em atenção para alagamentos devido à chuva",
+                    "description": "A Defesa Civil emitiu um alerta para ventos fortes e raios",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rvtruvbl52vgiejcq6guckz/bafkreibuexsul2pzjtgwb6rwirecm4lizwfcprrvpxbprmjfzyljquptlm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-06T20:41:21.083Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3l7vdqedkrq2v",
+            "cid": "bafyreiazd7ycnyrzkzm4pfxovmnmukiuhatuu4faxbh4w5rdg4kxftxt24",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T14:05:15.784Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para chuvas intensas em partes da região Norte, Nordeste, Centro-Oeste, Sudeste e Sul",
+                        "title": "Alerta amarelo para chuvas intensas em partes da região Norte, Nordeste, Centro-Oeste, Sudeste e Sul - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-partes-da-regiao-norte-nordeste-centro-oeste-sudeste-e-sul-01-11-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-partes-da-regiao-norte-nordeste-centro-oeste-sudeste-e-sul-01-11-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 123
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 175,
+                            "byteStart": 163
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 176
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvaintensa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 190
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventointenso"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 217,
+                            "byteStart": 204
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 218
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "norte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 230
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 246,
+                            "byteStart": 237
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "centroeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 247
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sudeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 267,
+                            "byteStart": 259
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para chuvas intensas em partes da região Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #alertamarelo #chuvaintensa #ventointenso #alagamento #norte #nordeste #centroeste #sudeste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-chuvas-intensas-em-partes-da-regiao-norte-nordeste-centro-oeste-sudeste-e-sul-01-11-24",
+                    "title": "Alerta amarelo para chuvas intensas em partes da região Norte, Nordeste, Centro-Oeste, Sudeste e Sul - Clima ao Vivo",
+                    "description": "Alerta amarelo para chuvas intensas em partes da região Norte, Nordeste, Centro-Oeste, Sudeste e Sul"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T14:05:16.290Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2cm2q6wk3uk34s54icmd3m3/app.bsky.feed.post/3l7svaxezp424",
+            "cid": "bafyreibezhcejyv6csags4bwpapplrxnfyjwl77l36p726gzeazg3zqyjq",
+            "author": {
+                "did": "did:plc:b2cm2q6wk3uk34s54icmd3m3",
+                "handle": "climaaovivo.bsky.social",
+                "displayName": "Clima ao Vivo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2cm2q6wk3uk34s54icmd3m3/bafkreift32tvtbt7jyewk32dcz7vlsburyezj4ynpcqm4sv2r6nnc4zl3u@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-10T14:41:41.623Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-31T14:40:47.940Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Alerta amarelo para tempestade em partes de Mato Grosso e Mato Grosso do Sul",
+                        "title": "Alerta amarelo para tempestade em partes de Mato Grosso e Mato Grosso do Sul  - Clima ao Vivo",
+                        "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-tempestade-em-partes-de-mato-grosso-e-mato-grosso-do-sul-31-10-24"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-tempestade-em-partes-de-mato-grosso-e-mato-grosso-do-sul-31-10-24"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 136,
+                            "byteStart": 98
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "climaaovivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 150,
+                            "byteStart": 138
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "tempestade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 162,
+                            "byteStart": 151
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "granizo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 171,
+                            "byteStart": 163
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 172
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ventania"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 184
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "transtornos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 206,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "matogrosso"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 218,
+                            "byteStart": 207
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "matogrossodosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 219
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alertamarelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 236
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alerta amarelo para tempestade em partes de Mato Grosso e Mato Grosso do Sul. Confira a notícia: www.climaaovivo.com.br/noticias/ale...\n\n#climaaovivo #tempestade #granizo #alagamento #ventania #transtornos #matogrosso #matogrossodosul #alertamarelo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.climaaovivo.com.br/noticias/alerta-amarelo-para-tempestade-em-partes-de-mato-grosso-e-mato-grosso-do-sul-31-10-24",
+                    "title": "Alerta amarelo para tempestade em partes de Mato Grosso e Mato Grosso do Sul  - Clima ao Vivo",
+                    "description": "Alerta amarelo para tempestade em partes de Mato Grosso e Mato Grosso do Sul"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-31T14:40:47.434Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:26ka3nxo2ubts4jzmqhavhfw/app.bsky.feed.post/3l6ie532pof2b",
+            "cid": "bafyreicjkhkni2ogh4ohr7izibjckeywxcebexg2k7dskflvccsofspyte",
+            "author": {
+                "did": "did:plc:26ka3nxo2ubts4jzmqhavhfw",
+                "handle": "riosdenoticias.bsky.social",
+                "displayName": "Portal Rios de Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreidjg3eapb6u3rtfuzzr7ydt7ajlv7k6jp65cmkqaga4zme5sergzm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:35:52.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T16:42:35.406Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Registros feitos por pacientes mostraram o alagamento da UBS Alfredo Campos e ar-condicionado em chamas na UBS Avelino Pereira.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigs4hwjxu2qg5tjnyrlbwnxxgji5yrfguuzbki7ddo7llxchmifjy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 242033
+                        },
+                        "title": "População registra UBS alagada na zona Leste de Manaus",
+                        "uri": "https://www.riosdenoticias.com.br/populacao-registra-unidade-de-saude-alagada-na-zona-leste-de-manaus/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 11,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#alagamento |🏥 Moradores da zona Leste de Manaus registraram um alagamento dentro da UBS Alfredo Campos, no bairro Zumbi 2, zona Leste de Manaus.\n\nNas imagens, registradas na última sexta-feira, 11/10, é possível ver a população aguardando a consulta com o chão coberto por água da chuva."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.riosdenoticias.com.br/populacao-registra-unidade-de-saude-alagada-na-zona-leste-de-manaus/",
+                    "title": "População registra UBS alagada na zona Leste de Manaus",
+                    "description": "Registros feitos por pacientes mostraram o alagamento da UBS Alfredo Campos e ar-condicionado em chamas na UBS Avelino Pereira.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreigs4hwjxu2qg5tjnyrlbwnxxgji5yrfguuzbki7ddo7llxchmifjy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T16:42:35.209Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.feed.post/3l5kbjyxoam2j",
+            "cid": "bafyreihxvxdx4hanr4iirapz3ddfpsw36r43xc22nfkgkyofpi4gsid2ke",
+            "author": {
+                "did": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                "handle": "marcelomarcriv.bsky.social",
+                "displayName": "Marcelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreib4w534nek6wsfrvdlhf62gho7beypsthta6gabogtk3hhbupfqmq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                        "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.actor.profile/self",
+                        "cid": "bafyreihkacrw2xfbvfipg5n4i2pmazv5i5xj43nvsaxyxrxeqo2ddc5awa",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-05T15:17:11.386Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T17:36:14.878Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 806,
+                                "width": 811
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihwc6n6nef43sz6rk2aj3woi67nlzkogxjotl3rwmehzogaa25sqe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 520336
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BolsonaroEFamiliciaPresos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 86,
+                            "byteStart": 60
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "LulaOMelhorPresidenteDoBrasil#PutzGrilah"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 128,
+                            "byteStart": 87
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aquecimentoglobal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 129
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudançasclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cataclismaambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 190,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 191
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 218,
+                            "byteStart": 205
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 219
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "monocultura"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 242,
+                            "byteStart": 230
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 248,
+                            "byteStart": 243
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "poluição"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 260,
+                            "byteStart": 249
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 266,
+                            "byteStart": 261
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 267
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 296,
+                            "byteStart": 287
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ondadecalor"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 297
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Aqui em SP, uma delícia para trabalhar, 35ºC 🥵😎😅 #BolsonaroEFamiliciaPresos #LulaOMelhorPresidenteDoBrasil#PutzGrilah #aquecimentoglobal #mudançasclimáticas #cataclismaambiental #meioambiente #desmatamento\n#queimadas #monocultura #agro #poluição #seca #chuvas #alagamento #enchente #ondadecalor"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreihwc6n6nef43sz6rk2aj3woi67nlzkogxjotl3rwmehzogaa25sqe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreihwc6n6nef43sz6rk2aj3woi67nlzkogxjotl3rwmehzogaa25sqe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 806,
+                            "width": 811
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 4,
+            "likeCount": 18,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T17:36:14.878Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rbhqhv2dmnpluqwvxbo6fxqv/app.bsky.feed.post/3l532skwaqr2t",
+            "cid": "bafyreiay7slp4aqz5hoshez6y3vkb3gmeodt5vzjor3icgpxlxwpns6pe4",
+            "author": {
+                "did": "did:plc:rbhqhv2dmnpluqwvxbo6fxqv",
+                "handle": "pelotaspopular.bsky.social",
+                "displayName": "Pelotas Popular ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rbhqhv2dmnpluqwvxbo6fxqv/bafkreicorbvud3qw6zvgp25xczxydsjgnycj3ocn53sw7p25ysqi4ntmd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T00:47:47.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T16:25:49.545Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1066
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreia4lsutdcqsotgeqfr5nbkkhmy6wcd6ilwt2ymayeev5kw5gz6i5e"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 3963345
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 34,
+                            "byteStart": 26
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotasrs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 45,
+                            "byteStart": 35
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 53,
+                            "byteStart": 46
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cidades"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 62,
+                            "byteStart": 54
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 72,
+                            "byteStart": 63
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 84,
+                            "byteStart": 73
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchentes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 95,
+                            "byteStart": 85
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "AV Adolfo Fetter ⚠️ \n\n#pelotas #pelotasrs #cidade #cidades #enchente #alagamento #enchentes"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreia4lsutdcqsotgeqfr5nbkkhmy6wcd6ilwt2ymayeev5kw5gz6i5e",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreia4lsutdcqsotgeqfr5nbkkhmy6wcd6ilwt2ymayeev5kw5gz6i5e/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreia4lsutdcqsotgeqfr5nbkkhmy6wcd6ilwt2ymayeev5kw5gz6i5e/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1066
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T16:25:49.545Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rbhqhv2dmnpluqwvxbo6fxqv/app.bsky.feed.post/3l532pxndbv27",
+            "cid": "bafyreiadosyio3d7hjbracipb66bob3wwclrinrklok7kvxclq6vfw6n2u",
+            "author": {
+                "did": "did:plc:rbhqhv2dmnpluqwvxbo6fxqv",
+                "handle": "pelotaspopular.bsky.social",
+                "displayName": "Pelotas Popular ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rbhqhv2dmnpluqwvxbo6fxqv/bafkreicorbvud3qw6zvgp25xczxydsjgnycj3ocn53sw7p25ysqi4ntmd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T00:47:47.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T16:24:21.372Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1066
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreig7kgrs6tbzb2mwtfnhpqw2h5epq7zoa4lnqu5a4i43o2padabuyi"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 5833388
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchentes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 80,
+                            "byteStart": 70
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 90,
+                            "byteStart": 81
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamentos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 103,
+                            "byteStart": 91
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 104
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 131,
+                            "byteStart": 116
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "eosguri"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 132
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gauchos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 149,
+                            "byteStart": 141
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gaucho"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 150
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotasrs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 158
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Arroio Pelotas transborda e alaga pontos da AV Adolfo Fetter ⚠️ \n\n#enchentes #enchente #alagamentos #alagamento #riograndedosul #eosguri #gauchos #gaucho #pelotasrs"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreig7kgrs6tbzb2mwtfnhpqw2h5epq7zoa4lnqu5a4i43o2padabuyi",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreig7kgrs6tbzb2mwtfnhpqw2h5epq7zoa4lnqu5a4i43o2padabuyi/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreig7kgrs6tbzb2mwtfnhpqw2h5epq7zoa4lnqu5a4i43o2padabuyi/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1066
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T16:24:21.372Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rbhqhv2dmnpluqwvxbo6fxqv/app.bsky.feed.post/3l4yu533dp52g",
+            "cid": "bafyreicsp2wwaf5fiogjtmecwg6ycw5lujkflzmwfpagkgspd5fe36m5ke",
+            "author": {
+                "did": "did:plc:rbhqhv2dmnpluqwvxbo6fxqv",
+                "handle": "pelotaspopular.bsky.social",
+                "displayName": "Pelotas Popular ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rbhqhv2dmnpluqwvxbo6fxqv/bafkreicorbvud3qw6zvgp25xczxydsjgnycj3ocn53sw7p25ysqi4ntmd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T00:47:47.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:21:06.615Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreid6phgw5mly4omt4p66zubkjcnh4gjti3mml66ttpisj6bcz4rghm"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 4613157
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 35,
+                            "byteStart": 27
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotasrs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 36
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 56,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchentes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 67,
+                            "byteStart": 57
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 79,
+                            "byteStart": 68
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamentos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 92,
+                            "byteStart": 80
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gauchos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 101,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gaucho"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 109,
+                            "byteStart": 102
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 114,
+                            "byteStart": 110
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 115
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Quarta-feira 25/9 ⚠️ \n\n#pelotas #pelotasrs #enchente #enchentes #alagamento #alagamentos #gauchos #gaucho #sul #riograndedosul"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreid6phgw5mly4omt4p66zubkjcnh4gjti3mml66ttpisj6bcz4rghm",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreid6phgw5mly4omt4p66zubkjcnh4gjti3mml66ttpisj6bcz4rghm/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreid6phgw5mly4omt4p66zubkjcnh4gjti3mml66ttpisj6bcz4rghm/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:21:06.615Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rbhqhv2dmnpluqwvxbo6fxqv/app.bsky.feed.post/3l4ytzcbjjd2o",
+            "cid": "bafyreifoh3t7pkttwam4thvqao2u2tw5r2wgh4m65fmt276ry67i7ir2aa",
+            "author": {
+                "did": "did:plc:rbhqhv2dmnpluqwvxbo6fxqv",
+                "handle": "pelotaspopular.bsky.social",
+                "displayName": "Pelotas Popular ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rbhqhv2dmnpluqwvxbo6fxqv/bafkreicorbvud3qw6zvgp25xczxydsjgnycj3ocn53sw7p25ysqi4ntmd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T00:47:47.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:18:59.934Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreic4clsnf2wxpgerdl6hen4fbdy5ep3onii5gkqesn7piymkeaikdm"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 4622813
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 46
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotasrs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 65,
+                            "byteStart": 55
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 75,
+                            "byteStart": 66
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchentes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 86,
+                            "byteStart": 76
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 98,
+                            "byteStart": 87
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamentos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 111,
+                            "byteStart": 99
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 127,
+                            "byteStart": 112
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vila Farroupilha ⚠️  Quarta-feira (25/9)\n\n#pelotas #pelotasrs #enchente #enchentes #alagamento #alagamentos #riograndedosul"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreic4clsnf2wxpgerdl6hen4fbdy5ep3onii5gkqesn7piymkeaikdm",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreic4clsnf2wxpgerdl6hen4fbdy5ep3onii5gkqesn7piymkeaikdm/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreic4clsnf2wxpgerdl6hen4fbdy5ep3onii5gkqesn7piymkeaikdm/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:18:59.934Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rbhqhv2dmnpluqwvxbo6fxqv/app.bsky.feed.post/3l4ytsqgitm2q",
+            "cid": "bafyreibaahxbiw2rjqlcudwsa57rdog7f7zp4ymnmxc4jkgoebvsyinz5e",
+            "author": {
+                "did": "did:plc:rbhqhv2dmnpluqwvxbo6fxqv",
+                "handle": "pelotaspopular.bsky.social",
+                "displayName": "Pelotas Popular ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rbhqhv2dmnpluqwvxbo6fxqv/bafkreicorbvud3qw6zvgp25xczxydsjgnycj3ocn53sw7p25ysqi4ntmd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T00:47:47.395Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:15:19.903Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreic5zvunjgw6hawghw2mr2edcnstwauounlznsbifogmza22vx5eca"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 9406754
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 28,
+                            "byteStart": 20
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pelotasrs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 39,
+                            "byteStart": 29
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "riograndedosul"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 40
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 65,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchentes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 66
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 88,
+                            "byteStart": 77
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Terça-feira 24/9 \n\n#pelotas #pelotasrs #riograndedosul #enchente #enchentes #alagamento"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreic5zvunjgw6hawghw2mr2edcnstwauounlznsbifogmza22vx5eca",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreic5zvunjgw6hawghw2mr2edcnstwauounlznsbifogmza22vx5eca/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Arbhqhv2dmnpluqwvxbo6fxqv/bafkreic5zvunjgw6hawghw2mr2edcnstwauounlznsbifogmza22vx5eca/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:15:19.903Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m3twsjyngntk4rvdqknpzy6g/app.bsky.feed.post/3kt6gmlf4bk2o",
+            "cid": "bafyreiaynv3wa2dt25chv342t52ebtse47qypdhvicd72mjb3qgqgq57iq",
+            "author": {
+                "did": "did:plc:m3twsjyngntk4rvdqknpzy6g",
+                "handle": "atualidadeemfoco.bsky.social",
+                "displayName": "Canal Atualidade em Foco",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m3twsjyngntk4rvdqknpzy6g/bafkreifkh5ellhawtobvnfo5ntjs5xqtrfvhpxtnfrxti7f6nhnkziflmy@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-17T01:32:52.271Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-23T18:23:15.568Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 129,
+                            "byteStart": 120
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 141,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cidades"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 150,
+                            "byteStart": 142
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em nome da modernidade e do progresso capitalista, as cidades se transformaram em enormes pias com os ralos entupidos.\n\n#enchente #alagamento #cidades"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-23T18:23:15.568Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aweroimdetdrcuonmrodbftw/app.bsky.feed.post/3ksrsh5dtes22",
+            "cid": "bafyreihy3lqhazap65xri5roc54y2lewdgewtoqo3whrzx2x4tdir5huzi",
+            "author": {
+                "did": "did:plc:aweroimdetdrcuonmrodbftw",
+                "handle": "economiaefacil.bsky.social",
+                "displayName": "Economia É Fácil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aweroimdetdrcuonmrodbftw/bafkreidp32mdlfh64xthh2aps2tne5f67yfuhejpszje2fl5pmregh3rka@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T04:44:39.868Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-18T17:50:22.588Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PortoAlegre"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 222,
+                            "byteStart": 210
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 234,
+                            "byteStart": 223
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bombas de alagamento em Porto Alegre sem manutenção! Prefeito bolsominion contratou fiscal da prefeitura (propina) e deixou apenas 9 das 24 bombas operacionais. Globo tenta abafar, mas a verdade vem à tona. #PortoAlegre #Alagamento"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-18T17:50:22.588Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.feed.post/3ksr4u32ed32l",
+            "cid": "bafyreifpawbrnlzcrxqes5gytxk7cha7d4eiy7alp5qcp4vdvdg4oizhiy",
+            "author": {
+                "did": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                "handle": "marcelomarcriv.bsky.social",
+                "displayName": "Marcelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreib4w534nek6wsfrvdlhf62gho7beypsthta6gabogtk3hhbupfqmq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                        "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.actor.profile/self",
+                        "cid": "bafyreihkacrw2xfbvfipg5n4i2pmazv5i5xj43nvsaxyxrxeqo2ddc5awa",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-05T15:17:11.386Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-18T11:23:54.135Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 749,
+                                "width": 828
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifpk6osfsajytv54pfb7bswjxhey2o6itwrfw6cf3gp6ghxui4ode"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 367384
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PutzGrilah"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 11,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ajudariogrande"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 27,
+                            "byteStart": 12
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aquecimentoglobal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 28
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fake"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 52,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fakenews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 62,
+                            "byteStart": 53
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudançasclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 84,
+                            "byteStart": 63
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cataclismaambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 105,
+                            "byteStart": 85
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 119,
+                            "byteStart": 106
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 120
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 144,
+                            "byteStart": 134
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mentiras"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 154,
+                            "byteStart": 145
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "monocultura"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 167,
+                            "byteStart": 155
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 168
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "poluição"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 185,
+                            "byteStart": 174
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 191,
+                            "byteStart": 186
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 199,
+                            "byteStart": 192
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "gado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 205,
+                            "byteStart": 200
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 217,
+                            "byteStart": 206
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 227,
+                            "byteStart": 218
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ondadecalor"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 228
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "lixo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 246,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "patriotários"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 261,
+                            "byteStart": 247
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "negacionismo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 275,
+                            "byteStart": 262
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "terraplanismo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 290,
+                            "byteStart": 276
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#PutzGrilah #ajudariogrande #aquecimentoglobal #fake #fakenews\n#mudançasclimáticas #cataclismaambiental\n#meioambiente #desmatamento #queimadas #mentiras #monocultura #agro #poluição #seca #chuvas #gado #alagamento #enchente #ondadecalor #lixo #patriotários\n#negacionismo #terraplanismo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreifpk6osfsajytv54pfb7bswjxhey2o6itwrfw6cf3gp6ghxui4ode@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreifpk6osfsajytv54pfb7bswjxhey2o6itwrfw6cf3gp6ghxui4ode@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 749,
+                            "width": 828
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-18T11:23:54.135Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.feed.post/3krrdlnbkdr2i",
+            "cid": "bafyreifzwldptwgwf625sro47cipwd2a3bpg4hki27vrogjyxkcwptxj7u",
+            "author": {
+                "did": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                "handle": "marcelomarcriv.bsky.social",
+                "displayName": "Marcelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreib4w534nek6wsfrvdlhf62gho7beypsthta6gabogtk3hhbupfqmq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wm2ajbohktlwnmt6vymds6g2",
+                        "uri": "at://did:plc:wm2ajbohktlwnmt6vymds6g2/app.bsky.actor.profile/self",
+                        "cid": "bafyreihkacrw2xfbvfipg5n4i2pmazv5i5xj43nvsaxyxrxeqo2ddc5awa",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-05T15:17:11.386Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T19:59:15.668Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 744,
+                                "width": 616
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidmr7vj4pwgsv6axodosrigezmmqkitn7mvuuh7dnu5v7vb6jo2o4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 522653
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PutzGrilah"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 11,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ajudariogrande"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 27,
+                            "byteStart": 12
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aquecimentoglobal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 28
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mudançasclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 68,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cataclismaambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 89,
+                            "byteStart": 69
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 103,
+                            "byteStart": 90
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 117,
+                            "byteStart": 104
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 128,
+                            "byteStart": 118
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "monocultura"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 141,
+                            "byteStart": 129
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 142
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "poluição"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 159,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "seca"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 165,
+                            "byteStart": 160
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 166
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alagamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 185,
+                            "byteStart": 174
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enchente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 195,
+                            "byteStart": 186
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ondadecalor"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 208,
+                            "byteStart": 196
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "lixo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 209
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "negacionismo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 215
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "terraplanismo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "putzclima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 244
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "charge"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 262,
+                            "byteStart": 255
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cartoon"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 263
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#PutzGrilah #ajudariogrande #aquecimentoglobal #mudançasclimáticas #cataclismaambiental\n#meioambiente #desmatamento #queimadas\n#monocultura #agro #poluição #seca #chuvas #alagamento #enchente #ondadecalor #lixo\n#negacionismo #terraplanismo #putzclima #charge\n#cartoon"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreidmr7vj4pwgsv6axodosrigezmmqkitn7mvuuh7dnu5v7vb6jo2o4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wm2ajbohktlwnmt6vymds6g2/bafkreidmr7vj4pwgsv6axodosrigezmmqkitn7mvuuh7dnu5v7vb6jo2o4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 744,
+                            "width": 616
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T19:59:15.668Z",
+            "labels": []
+        }
+    ]
+}

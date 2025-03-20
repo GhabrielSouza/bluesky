@@ -1,0 +1,2566 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:ekq4hir5wjdwqta6p3mfkcy6/app.bsky.feed.post/3l7t3xvosgm2g",
+            "cid": "bafyreiaixhbrp2g6o3twjfhqgarl7grq34o27xql622eebdswzam3gilem",
+            "author": {
+                "did": "did:plc:ekq4hir5wjdwqta6p3mfkcy6",
+                "handle": "forum21br.bsky.social",
+                "displayName": "Fórum21",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ekq4hir5wjdwqta6p3mfkcy6/bafkreiccbv453v6bajfryii2uh2354osdv4xofktumtbe2fhlzyh4m2ehm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T22:22:19.931Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-31T16:41:01.531Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Organização Meteorológica Mundial alerta para o aumento acelerado de gases de efeito estufa, destacando a urgência de ações concretas para enfrentar a crise climática e proteger o planeta durante a ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig5wbqlovwp64454dyc4glr4fjsagxngrd3g5efsep6agred5hd5e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 354768
+                        },
+                        "title": "Gases de efeito estufa alcançam novos recordes - Forum 21",
+                        "uri": "https://tinyurl.com/y948kvfz"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://tinyurl.com/y948kvfz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Gases de efeito estufa alcançam novos recordes | A Organização Meteorológica Mundial alerta para o aumento acelerado de gases de efeito estufa, destacando a urgência de ações concretas para enfrentar a crise climática e proteger o planeta durante a COP29 | tinyurl.com/y948kvfz"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://tinyurl.com/y948kvfz",
+                    "title": "Gases de efeito estufa alcançam novos recordes - Forum 21",
+                    "description": "A Organização Meteorológica Mundial alerta para o aumento acelerado de gases de efeito estufa, destacando a urgência de ações concretas para enfrentar a crise climática e proteger o planeta durante a ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ekq4hir5wjdwqta6p3mfkcy6/bafkreig5wbqlovwp64454dyc4glr4fjsagxngrd3g5efsep6agred5hd5e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-31T16:41:01.130Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qzslzir7toizd75j3wpa6j3c/app.bsky.feed.post/3l7oaxu2i5b2q",
+            "cid": "bafyreifom6kpghhya3wqshomuotroaxtmcwnr2roner7vrjr2bjklnrzge",
+            "author": {
+                "did": "did:plc:qzslzir7toizd75j3wpa6j3c",
+                "handle": "colabora.bsky.social",
+                "displayName": "Colabora - Jornalismo Sustentável",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreihcxrw67mjnbm5glysh3t3crrsdfehpouqmwqrdimxt2qu2madwyu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:34:44.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T18:27:07.551Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Agência da ONU aponta que mundo está fora da rota para atingir a meta do Acordo de Paris de limitar o aquecimento global a bem abaixo de 2°C",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif2rqmyxel2xfhlgimkttb62lhez7uzknhlwhki2dqqub3h6g7a5u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 566369
+                        },
+                        "title": "Concentração de gases com efeito de estufa bate recorde. De novo - #Colabora",
+                        "uri": "https://projetocolabora.com.br/ods13/concentracao-de-gases-com-efeito-de-estufa-bate-novo-recorde/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Colabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 285
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌫️ As concentrações de gases de efeito de estufa na atmosfera atingiram novos recordes em 2023. Os dados foram divulgados nesta segunda (28/10) pela Organização Meteorológica Mundial. Os níveis de CO2 estão se acumulando mais rapidamente do que nunca na atmosfera. Leia no #Colabora:"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://projetocolabora.com.br/ods13/concentracao-de-gases-com-efeito-de-estufa-bate-novo-recorde/",
+                    "title": "Concentração de gases com efeito de estufa bate recorde. De novo - #Colabora",
+                    "description": "Agência da ONU aponta que mundo está fora da rota para atingir a meta do Acordo de Paris de limitar o aquecimento global a bem abaixo de 2°C",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreif2rqmyxel2xfhlgimkttb62lhez7uzknhlwhki2dqqub3h6g7a5u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T18:27:07.551Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fojae4njrex5exi2tolrheiw/app.bsky.feed.post/3l7o3znmorx27",
+            "cid": "bafyreigexcjtgxbrs32bvmfooqfgk5akmhswgwycbj35y55gdaeazalogm",
+            "author": {
+                "did": "did:plc:fojae4njrex5exi2tolrheiw",
+                "handle": "alves21.bsky.social",
+                "displayName": "Alves",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreidmfefmrckwinsnzgnmwmxw6ui2hcrs3eayvrro5heb5k34c5waue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T00:40:02.998Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T16:58:39.523Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibqc2pt77end4oj4vjfqfaihmavibxd4zzzrhda7kyunacrmscphy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 110840
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌡🌏 OMM alerta que temperaturas globais continuarão a subir ano após ano\n\nAs temperaturas na Terra seguirão aumentando a cada ano devido aos gases de efeito estufa, declarou a Organização Meteorológica Mundial (OMM), patrocinada pela Organização das Nações Unidas (ONU)."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreibqc2pt77end4oj4vjfqfaihmavibxd4zzzrhda7kyunacrmscphy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreibqc2pt77end4oj4vjfqfaihmavibxd4zzzrhda7kyunacrmscphy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T16:58:39.523Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4eeodq3dihoy7a74qwz6grxk/app.bsky.feed.post/3l7nqzc2vaq2y",
+            "cid": "bafyreib7gkoz2ghcl3xfk5dqyt6raqlfbdjgukzekvhc37pupxcy37ygg4",
+            "author": {
+                "did": "did:plc:4eeodq3dihoy7a74qwz6grxk",
+                "handle": "ihu.unisinos.br",
+                "displayName": "IHU",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreialrtn5rvu2q6oyh2nva77v4bavuvzbxhztzuwsvnlc3naqpchqsa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T16:58:13.602Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T13:41:36.302Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 788,
+                                "width": 940
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieomh7dc3vq3yrdo5hfp3nkp5e3372l6akg4icxtgknmolqbqnv3q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 825312
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ihu.unisinos.br/645349-o-nivel-disparado-de-co2-na-atmosfera-condena-a-muitos-anos-de-aumento-de-temperaturas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 194
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A concentração de gases de efeito estufa marcou um novo recorde em 2023: a acumulação nunca havia sido tão rápida na história da humanidade, avisa a Organização Meteorológica Mundial.\nwww.ihu.unisinos.br/645349-o-niv..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreieomh7dc3vq3yrdo5hfp3nkp5e3372l6akg4icxtgknmolqbqnv3q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreieomh7dc3vq3yrdo5hfp3nkp5e3372l6akg4icxtgknmolqbqnv3q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 788,
+                            "width": 940
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T13:41:36.302Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:v2hjqyoauxc4x22ek5k5o674/app.bsky.feed.post/3l7nqmt7bl62t",
+            "cid": "bafyreiglei2d2g4l2ug2pyw3p3qszizt7zqpkb2knkbronfkvft5zku27q",
+            "author": {
+                "did": "did:plc:v2hjqyoauxc4x22ek5k5o674",
+                "handle": "cenarium.bsky.social",
+                "displayName": "Cenarium ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiectiuog7b4v5vozxfvkefmi2mvuirmmj6l53j253bkrdxcqxvjqu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:31:23.125Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T13:34:37.452Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreievrwkx5kqluxo2wtokoyohd4vkkqp4rgrstm36zgbuoai6vihzh4"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 2816972
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "💨 A quantidade de gases de efeito estufa na atmosfera bateu um novo recorde em 2023, segundo relatório da Organização Meteorológica Mundial. As hipóteses para esse aumento são os grandes incêndios florestais em conjunto com a queima de combustíveis fósseis pela indústria."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreievrwkx5kqluxo2wtokoyohd4vkkqp4rgrstm36zgbuoai6vihzh4",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Av2hjqyoauxc4x22ek5k5o674/bafkreievrwkx5kqluxo2wtokoyohd4vkkqp4rgrstm36zgbuoai6vihzh4/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Av2hjqyoauxc4x22ek5k5o674/bafkreievrwkx5kqluxo2wtokoyohd4vkkqp4rgrstm36zgbuoai6vihzh4/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T13:34:37.452Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ut56ijevus2ct7iajvoqytha/app.bsky.feed.post/3l7mji6pbm32s",
+            "cid": "bafyreibc3cbv5blcqrac2thp5ofcu646vlotnikeks2rq76r25lcxe64ba",
+            "author": {
+                "did": "did:plc:ut56ijevus2ct7iajvoqytha",
+                "handle": "jnoficial.bsky.social",
+                "displayName": "Jornal Nacional",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ut56ijevus2ct7iajvoqytha/bafkreig3a7qxohcalttibyeaqccqwjt3buduzpd3dmi6fw2qkosk6iqf2y@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T23:00:43.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T01:54:05.580Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Segundo a Organização Meteorológica Mundial, a velocidade do acúmulo de dióxido de carbono na atmosfera é a maior da história da humanidade.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreichw3ppf52gvyso5vwvt7n4ha7mbnfkx6pvyiu3g5vnmatwuxtbhq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 841328
+                        },
+                        "title": "Emissão de gases de efeito estufa atingiu novo recorde em 2023, diz ONU",
+                        "uri": "http://glo.bo/3C3XlkJ"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "http://glo.bo/3C3XlkJ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 146,
+                            "byteStart": 132
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "JN"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 150,
+                            "byteStart": 147
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Segundo a Organização Meteorológica Mundial, a velocidade do acúmulo de CO2 na atmosfera é a maior da história da humanidade. glo.bo/3C3XlkJ #JN"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "http://glo.bo/3C3XlkJ",
+                    "title": "Emissão de gases de efeito estufa atingiu novo recorde em 2023, diz ONU",
+                    "description": "Segundo a Organização Meteorológica Mundial, a velocidade do acúmulo de dióxido de carbono na atmosfera é a maior da história da humanidade.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ut56ijevus2ct7iajvoqytha/bafkreichw3ppf52gvyso5vwvt7n4ha7mbnfkx6pvyiu3g5vnmatwuxtbhq@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 14,
+            "likeCount": 91,
+            "quoteCount": 3,
+            "indexedAt": "2024-10-29T01:54:05.580Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3l7ldcd2z6f2f",
+            "cid": "bafyreiepzzwtgol5uuyidmubzkxumizv76fg6ztjlshfbwxapncjgqf57e",
+            "author": {
+                "did": "did:plc:22u3xlfdxqxyzva2fsljotcy",
+                "handle": "revistaforum.com.br",
+                "displayName": "Revista Fórum",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreical2bujjrg6eepu62cgihuzbwqmfxogaxrss7gzphp5igibhavsm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:05:59.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-28T14:30:47.767Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A concentração de dióxido de carbono aumentou mais de 10% em apenas duas décadas, aponta Organização Meteorológica Mundial",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihwer7tzzloi2pk34ody4ohhlvm67q47y726zujdd677akkcxv7wm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 409148
+                        },
+                        "title": "Concentração de gases de efeito estufa atingiu recorde histórico em 2023, alerta ONU",
+                        "uri": "https://revistaforum.com.br/meioambiente/2024/10/28/concentrao-de-gases-de-efeito-estufa-atingiu-recorde-historico-em-2023-alerta-onu-168260.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:om4n4dmz2ruhenm53nfdclzh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 135
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A concentração de dióxido de carbono aumentou mais de 10% em apenas duas décadas, aponta Organização Meteorológica Mundial\n\nPor @raonysalvador.bsky.social"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/meioambiente/2024/10/28/concentrao-de-gases-de-efeito-estufa-atingiu-recorde-historico-em-2023-alerta-onu-168260.html",
+                    "title": "Concentração de gases de efeito estufa atingiu recorde histórico em 2023, alerta ONU",
+                    "description": "A concentração de dióxido de carbono aumentou mais de 10% em apenas duas décadas, aponta Organização Meteorológica Mundial",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreihwer7tzzloi2pk34ody4ohhlvm67q47y726zujdd677akkcxv7wm@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 5,
+            "likeCount": 40,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-28T14:30:47.767Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ykpocgaksng7qfdzi7glj5pr/app.bsky.feed.post/3l66aw7qwnn2a",
+            "cid": "bafyreiajhnlgrvuyjacorb4kabswsz7c3cbjmb2622hnmupxehvzck33li",
+            "author": {
+                "did": "did:plc:ykpocgaksng7qfdzi7glj5pr",
+                "handle": "oficialricardoc.bsky.social",
+                "displayName": "Ricardo é CAMPEÃO DA LIBERTADORES 2024 ★彡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ykpocgaksng7qfdzi7glj5pr/bafkreifnc6u6mb6exmgvec4vao5pk6fb2pkmzeij5lergvdxdhpqdtr5yy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-07T22:40:33.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T16:18:25.653Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibslcdeu43ku6gef6gnba7jdlnao26h7o6zlrxakdk6x3ql3wuffq",
+                        "uri": "at://did:plc:ej22qptsowxr57ic3ym6dzfj/app.bsky.feed.post/3l66al2j6av2s"
+                    },
+                    "root": {
+                        "cid": "bafyreibslcdeu43ku6gef6gnba7jdlnao26h7o6zlrxakdk6x3ql3wuffq",
+                        "uri": "at://did:plc:ej22qptsowxr57ic3ym6dzfj/app.bsky.feed.post/3l66al2j6av2s"
+                    }
+                },
+                "text": "Segue um a um de uma lista de 126 nomes, pela Organização Meteorológica Mundial (OMM). Nomes comuns de pessoas em inglês, espanhol e francês, pois essas são as línguas faladas nos países mais atingidos. Tb são divididos igualmente entre masculinos e femininos, em ordem alternada."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T16:18:25.653Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4rfakizf4e2rwjx2lf4mu6l5/app.bsky.feed.post/3l65t5hz4zx27",
+            "cid": "bafyreih5qzuo7ej3azgylwcgp5ysahbwes6ejmuzmeixvuzy2yaj2v7os4",
+            "author": {
+                "did": "did:plc:4rfakizf4e2rwjx2lf4mu6l5",
+                "handle": "satanoj.uk",
+                "displayName": "chapeiro de hamburgueria ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4rfakizf4e2rwjx2lf4mu6l5/bafkreidikxxt76ymjkpljvv6nxgmonemzghz4xfxyatvcuk4t3fa5fyhaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T09:43:18.175Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T12:11:57.242Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Saiba como são escolhidos os nomes dos furacões e tufões, tipos de ciclones tropicais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihg3v7ryf34yo2kzxagsyiuycpajg2t3m2i4rsoytxf62hcdruzo4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 726839
+                        },
+                        "title": "Como são escolhidos os nomes dos furacões e tufões? - Brasil Escola",
+                        "uri": "https://brasilescola.uol.com.br/curiosidades/como-sao-escolhidos-os-nomes-dos-furacoes-tufoes.htm"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://brasilescola.uol.com.br/curiosidades/como-sao-escolhidos-os-nomes-dos-furacoes-tufoes.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih635buanipmbzgv7rtyrgvgcqf7hitjmjhmmqpxwb7omfijdpceu",
+                        "uri": "at://did:plc:hy2defvmqyzxt5vpwnjfgkvm/app.bsky.feed.post/3l65stqnhbh23"
+                    },
+                    "root": {
+                        "cid": "bafyreih635buanipmbzgv7rtyrgvgcqf7hitjmjhmmqpxwb7omfijdpceu",
+                        "uri": "at://did:plc:hy2defvmqyzxt5vpwnjfgkvm/app.bsky.feed.post/3l65stqnhbh23"
+                    }
+                },
+                "text": "\"Atualmente, existe uma lista com 126 nomes de furacão que são repetidos em um ciclo de seis anos. Esses nomes são escolhidos pela Organização Meteorológica Mundial (OMM)\"\n\nVeja mais sobre \"Como são escolhidos os nomes dos furacões e tufões?\" em: brasilescola.uol.com.br/curiosidades..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://brasilescola.uol.com.br/curiosidades/como-sao-escolhidos-os-nomes-dos-furacoes-tufoes.htm",
+                    "title": "Como são escolhidos os nomes dos furacões e tufões? - Brasil Escola",
+                    "description": "Saiba como são escolhidos os nomes dos furacões e tufões, tipos de ciclones tropicais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4rfakizf4e2rwjx2lf4mu6l5/bafkreihg3v7ryf34yo2kzxagsyiuycpajg2t3m2i4rsoytxf62hcdruzo4@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 4,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-10T12:11:57.242Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6ctlzvix23w3grod257miojq/app.bsky.feed.post/3l653iffccg2s",
+            "cid": "bafyreifdpmkcuwv6cu5d2dlwnxisosh7xevtv3xj5y24uur6rhct45qz2y",
+            "author": {
+                "did": "did:plc:6ctlzvix23w3grod257miojq",
+                "handle": "jrjte.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ctlzvix23w3grod257miojq/bafkreiam3rlmolg635sifjatczr22566c75l7prr7aur5rssdac2sy4mcm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-01T20:25:00.146Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T05:08:33.403Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Há uma lista com 146 nomes em inglês, espanhol e francês, estabelecida pela Organização Meteorológica Mundial",
+                        "title": "Como são escolhidos os nomes dos furacões?",
+                        "uri": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/10/amp/6961300-como-sao-escolhidos-os-nomes-dos-furacoes.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/10/amp/6961300-como-sao-escolhidos-os-nomes-dos-furacoes.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 136,
+                            "byteStart": 91
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih4uko6wnbkqkf4w35jint53pwisb6s2ne23tt4y5svjhjm77yvry",
+                        "uri": "at://did:plc:lwywu5nqheyw2oticnutljuc/app.bsky.feed.post/3l652cevs7c2o"
+                    },
+                    "root": {
+                        "cid": "bafyreih4uko6wnbkqkf4w35jint53pwisb6s2ne23tt4y5svjhjm77yvry",
+                        "uri": "at://did:plc:lwywu5nqheyw2oticnutljuc/app.bsky.feed.post/3l652cevs7c2o"
+                    }
+                },
+                "text": "Os nomes são predefinidos numa lista elaborada pela organização meteorológica mundial\n\nwww.correiobraziliense.com.br/ciencia-e-sa..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/10/amp/6961300-como-sao-escolhidos-os-nomes-dos-furacoes.html",
+                    "title": "Como são escolhidos os nomes dos furacões?",
+                    "description": "Há uma lista com 146 nomes em inglês, espanhol e francês, estabelecida pela Organização Meteorológica Mundial"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 7,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-10T05:08:33.403Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4i4argrgryyi4uvzwaglj37f/app.bsky.feed.post/3l64lwnhdtb23",
+            "cid": "bafyreieuymwltz3mcokyhnd6kd6lheiapeubgfkzphs5psl4ca3ppn7tqe",
+            "author": {
+                "did": "did:plc:4i4argrgryyi4uvzwaglj37f",
+                "handle": "alguemviumeusoculos.com",
+                "displayName": "Manu Mayrink",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4i4argrgryyi4uvzwaglj37f/bafkreieq355s5t2gjuuuzlaxjtfsxwixowwxduxbrbbmwfzpnyogd5hlw4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-12T12:21:37.793Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T00:30:11.648Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid4hugis43xkt34ptjqgkmc2boqq3qvq25pki36ni4a2k7w34mlgm",
+                        "uri": "at://did:plc:4i4argrgryyi4uvzwaglj37f/app.bsky.feed.post/3l64lvuel222u"
+                    },
+                    "root": {
+                        "cid": "bafyreid4hugis43xkt34ptjqgkmc2boqq3qvq25pki36ni4a2k7w34mlgm",
+                        "uri": "at://did:plc:4i4argrgryyi4uvzwaglj37f/app.bsky.feed.post/3l64lvuel222u"
+                    }
+                },
+                "text": "A Organização Mundial Meteorológica faz uma lista com esses nomes, metade masculinos, metade femininos, em ordem alternada. Para cada ano, são escolhidos 21 nomes que seguem a ordem alfabética: a lista total tem 126 nomes, que se repetem de seis em seis anos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T00:30:11.648Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:drcwqxslpsad64iklvcelzgw/app.bsky.feed.post/3l63d5smslb2i",
+            "cid": "bafyreicy65oudndqfzzkyer6ahm6oqtw7uecmihtvu5cvbf5zqvau2afpi",
+            "author": {
+                "did": "did:plc:drcwqxslpsad64iklvcelzgw",
+                "handle": "radioproletario.bsky.social",
+                "displayName": "Rádio O Proletário ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:drcwqxslpsad64iklvcelzgw/bafkreigm7da7ygs63bgvownpgzbdnsfcqeibu65mf2l2qgqiuax2tbpimm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-05T12:16:15.471Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T12:20:28.606Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Imagem de satélite, furacão milton",
+                            "aspectRatio": {
+                                "height": 530,
+                                "width": 1171
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihk5chwnnxrxy5kp6nlsepskbijqef3b7ehrhmpvxam4c63pr5khe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 428808
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Furacão Milton evolui em velocidade explosiva rumo à Flórida\n\nOrganização Meteorológica Mundial fala de ventos máximos seguindo em velocidade até 250 km/h com fortes rajadas; agência da ONU destaca influência do calor do oceano no rápido progresso da tempestade que deve abalar a Flórida nesta quarta"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drcwqxslpsad64iklvcelzgw/bafkreihk5chwnnxrxy5kp6nlsepskbijqef3b7ehrhmpvxam4c63pr5khe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:drcwqxslpsad64iklvcelzgw/bafkreihk5chwnnxrxy5kp6nlsepskbijqef3b7ehrhmpvxam4c63pr5khe@jpeg",
+                        "alt": "Imagem de satélite, furacão milton",
+                        "aspectRatio": {
+                            "height": 530,
+                            "width": 1171
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T12:20:28.606Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l5zdvol7ue2o",
+            "cid": "bafyreihjwoimn4kotwwrpiijzggfiknuuzowjfyzpeyzyjxu2poojxkxh4",
+            "author": {
+                "did": "did:plc:2p2novu3sdyqpxuasbxavbzp",
+                "handle": "obsclima.bsky.social",
+                "displayName": "Observatório do Clima",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2p2novu3sdyqpxuasbxavbzp/bafkreig3ttnu4se7vzdv22i6cxrb4g6yrhaqc6t4wzcqb2g5frn2vg2354@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-08T15:03:14.361Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T17:31:06.700Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "\n        WMO Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes (1970–2019)    ",
+                        "uri": "https://library.wmo.int/records/item/57564-wmo-atlas-of-mortality-and-economic-losses-from-weather-climate-and-water-extremes-1970-2019#.YS4KedP7TX0"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://library.wmo.int/records/item/57564-wmo-atlas-of-mortality-and-economic-losses-from-weather-climate-and-water-extremes-1970-2019#.YS4KedP7TX0"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 205
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreic3hkrg5s2lkox5tfmlrw4out5ay3ulspjcxyovtkm7bzmmxdqq4y",
+                        "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l5zdsapynk25"
+                    },
+                    "root": {
+                        "cid": "bafyreidpwspkheiug42ww6ynmvxknqtailf4ckcwg6hg45f2cf5doii3si",
+                        "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l5zdh475im22"
+                    }
+                },
+                "text": "Em 2014, a crise hídrica devastou o Sudeste, gerando perdas superiores a US$ 5 bilhões, segundo a Organização Meteorológica Mundial. Hoje, a seca atinge o Brasil de forma ainda mais intensa e severa. library.wmo.int/records/item..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://library.wmo.int/records/item/57564-wmo-atlas-of-mortality-and-economic-losses-from-weather-climate-and-water-extremes-1970-2019#.YS4KedP7TX0",
+                    "title": "\n        WMO Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes (1970–2019)    ",
+                    "description": ""
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T17:28:30.410Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l5ypyho7nt2b",
+            "cid": "bafyreicvyqxhbtgizrxxao5tbgmnwtklfigetnywyqyt5rbbrsjmnbafvu",
+            "author": {
+                "did": "did:plc:eijtg7fkchas6niyv3uo44xb",
+                "handle": "bibianamaia.bsky.social",
+                "displayName": "Bibiana Maia da Silva 🌻",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eijtg7fkchas6niyv3uo44xb/bafkreiaiuqlfiv6nht5mpj2fsjkuwugupcgbpt2gywyn5vkty2qkjwyjju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:29:32.380Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T11:32:06.629Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Geleiras perderam mais de 600 bilhões de toneladas de água, o pior resultado em 50 anos de observações",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiereacoucflmot2gffhd7jpmiolwzx6bbeajlr3pofohjzhzpo4zu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 410905
+                        },
+                        "title": "Ano de 2023 foi o mais seco para rios do planeta em mais de 30 anos, aponta OMM",
+                        "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/10/07/ano-de-2023-foi-o-mais-seco-para-rios-do-planeta-em-mais-de-30-anos-aponta-omm.ghtml?utm_source=Whatsapp&utm_medium=Social&utm_campaign=compartilhar"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/10/07/ano-de-2023-foi-o-mais-seco-para-rios-do-planeta-em-mais-de-30-anos-aponta-omm.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 272
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifvhy5f3snmja35kxnuemtkfukyqtzosuepebiwtgbzdil6pvsmre",
+                        "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l5ypudlcza2m"
+                    },
+                    "root": {
+                        "cid": "bafyreifvhy5f3snmja35kxnuemtkfukyqtzosuepebiwtgbzdil6pvsmre",
+                        "uri": "at://did:plc:eijtg7fkchas6niyv3uo44xb/app.bsky.feed.post/3l5ypudlcza2m"
+                    }
+                },
+                "text": "A seca que está acontecendo este ano na Amazônia não começou agora, vem se intensificando desde o ano passado. Dados da Organização Meteorológica Mundial mostraram que 2023 foi o mais seco para os rios em mais de três décadas. Qual será o resultado ano que vem? umsoplaneta.globo.com/clima/notici..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://umsoplaneta.globo.com/clima/noticia/2024/10/07/ano-de-2023-foi-o-mais-seco-para-rios-do-planeta-em-mais-de-30-anos-aponta-omm.ghtml?utm_source=Whatsapp&utm_medium=Social&utm_campaign=compartilhar",
+                    "title": "Ano de 2023 foi o mais seco para rios do planeta em mais de 30 anos, aponta OMM",
+                    "description": "Geleiras perderam mais de 600 bilhões de toneladas de água, o pior resultado em 50 anos de observações",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eijtg7fkchas6niyv3uo44xb/bafkreiereacoucflmot2gffhd7jpmiolwzx6bbeajlr3pofohjzhzpo4zu@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T11:32:06.629Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yajkioqcaw4r2i5x364swehx/app.bsky.feed.post/3l5xllxtx2c2l",
+            "cid": "bafyreidaph2nov3jt6qr3s4zbelw2vcojtagf6lo7o6o2rqrin7yfvciia",
+            "author": {
+                "did": "did:plc:yajkioqcaw4r2i5x364swehx",
+                "handle": "vikmlk.bsky.social",
+                "displayName": "Estrangulador da pastelaria 👺🇪🇪",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yajkioqcaw4r2i5x364swehx/bafkreihnp3kxp2qq4heaqey2jljawijcymu4trh4xqnfbcylcxmqlsfroq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-24T18:59:39.921Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T00:40:54.427Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 604,
+                                "width": 539
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiecn7pe3qr4rh4koqqrjnhb4a3jc2nbbapxiso4thonrvdxoesmmm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 168624
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig43nmgdnhzsolqw3mbc6cq3pcqq2biynx46hken5jbw53x4fbbkq",
+                        "uri": "at://did:plc:xi42lstfbmirhtwrjojjzsyt/app.bsky.feed.post/3l5xhu4hfpt2m"
+                    },
+                    "root": {
+                        "cid": "bafyreig43nmgdnhzsolqw3mbc6cq3pcqq2biynx46hken5jbw53x4fbbkq",
+                        "uri": "at://did:plc:xi42lstfbmirhtwrjojjzsyt/app.bsky.feed.post/3l5xhu4hfpt2m"
+                    }
+                },
+                "text": "Os nomes dados a um furacão vem de uma lista cedida pela organização meteorológica Mundial, então acredite dava pra ser pior, tipo termos um furacão nomeado Sérgio"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yajkioqcaw4r2i5x364swehx/bafkreiecn7pe3qr4rh4koqqrjnhb4a3jc2nbbapxiso4thonrvdxoesmmm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yajkioqcaw4r2i5x364swehx/bafkreiecn7pe3qr4rh4koqqrjnhb4a3jc2nbbapxiso4thonrvdxoesmmm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 604,
+                            "width": 539
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T00:40:54.427Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l5w6crqcby2f",
+            "cid": "bafyreignmhcjubkh6hj7xrrxfl4crjpbrthhdweemv4mabzn3ob6iseidq",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T11:11:02.865Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Relatório da Organização Meteorológica Mundial revela que as geleiras sofreram a maior perda de massa em mais de 50 anos",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreick5osktneawcrmemamxwjlseigd6qfy6433d6qi4lwfn5by77bw4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 609755
+                        },
+                        "title": "2023 foi o ano mais seco para os rios do planeta em três décadas",
+                        "uri": "https://mla.bs/0d5d53b3"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mla.bs/0d5d53b3"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 208,
+                            "byteStart": 193
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "2023 foi o ano mais seco para os rios do planeta em três décadas. Relatório da Organização Meteorológica Mundial revela que as geleiras sofreram a maior perda de massa em mais de 50 anos mla.bs/0d5d53b3"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mla.bs/0d5d53b3",
+                    "title": "2023 foi o ano mais seco para os rios do planeta em três décadas",
+                    "description": "Relatório da Organização Meteorológica Mundial revela que as geleiras sofreram a maior perda de massa em mais de 50 anos",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreick5osktneawcrmemamxwjlseigd6qfy6433d6qi4lwfn5by77bw4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 10,
+            "likeCount": 21,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T11:10:28.913Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zhkbi6wfmithkqndzu3vam5r/app.bsky.feed.post/3l4reh3loru2m",
+            "cid": "bafyreicudlapdkfg3ksb35qdigue4vvlksaelgujk6ojbzy6b2a7g25xym",
+            "author": {
+                "did": "did:plc:zhkbi6wfmithkqndzu3vam5r",
+                "handle": "marcioastrini.bsky.social",
+                "displayName": "Marcio Astrini ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zhkbi6wfmithkqndzu3vam5r/bafkreigxgce7cv7cdp66s4ssxzoo5gfgynlgx3supqslisjm47ksighcay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T09:57:12.021Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T19:51:44.635Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihtukozkcrqrmlhu5kgifkbckqyayfeyixahheer6kr27xsfemdba"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 409637
+                        },
+                        "title": "United in Science 2024",
+                        "uri": "https://wmo.int/publication-series/united-science-2024"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://wmo.int/publication-series/united-science-2024"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 272
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A organização meteorológica mundial publicou relatório dizendo que sob as atuais políticas, temos 2/3 de chances de aquecermos o planeta em 3 graus até o final so século. A má notícia é que muitas vezes esses relatórios são conservadores em suas previsões. \n\nwmo.int/publication-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://wmo.int/publication-series/united-science-2024",
+                    "title": "United in Science 2024",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zhkbi6wfmithkqndzu3vam5r/bafkreihtukozkcrqrmlhu5kgifkbckqyayfeyixahheer6kr27xsfemdba@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T19:51:44.635Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l4qm6xbord2i",
+            "cid": "bafyreicro65lha7ldkzflkghcq6azotbxzp6kboig5uvdmbgrnauujuhwq",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T12:37:41.776Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Organização Meteorológica Mundial (OMM), órgão da ONU, divulgou um novo relatório esta semana prevendo uma probabilidade de 60% de que o fenômeno La Niña ocorra entre outubro de 2024 e fevereiro de ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreian2atowpwcm4vfvx6qjjwwqxayd56bauyz7c7dlot2iieafwctei"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 732452
+                        },
+                        "title": "La Niña pode atrasar; aquecimento global mantém temperaturas elevadas | Florestal Brasil",
+                        "uri": "https://florestalbrasil.com/la-nina-pode-atrasar-aquecimento-global-mantem-temperaturas-elevadas/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Organização Meteorológica Mundial (OMM) prevê 60% de chance de ocorrência do fenômeno La Niña entre outubro de 2024 e fevereiro de 2025, indicando uma queda em relação às previsões anteriores de 70% para agosto a novembro de 2024."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://florestalbrasil.com/la-nina-pode-atrasar-aquecimento-global-mantem-temperaturas-elevadas/",
+                    "title": "La Niña pode atrasar; aquecimento global mantém temperaturas elevadas | Florestal Brasil",
+                    "description": "A Organização Meteorológica Mundial (OMM), órgão da ONU, divulgou um novo relatório esta semana prevendo uma probabilidade de 60% de que o fenômeno La Niña ocorra entre outubro de 2024 e fevereiro de ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreian2atowpwcm4vfvx6qjjwwqxayd56bauyz7c7dlot2iieafwctei@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T12:37:41.776Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7vqgcuzof5itcpfc73njbstf/app.bsky.feed.post/3l4hsdkmj4i2x",
+            "cid": "bafyreieczml4zruq7vjxlcyubwebl23bxemo5zxfk3law7bn7oayawm2aq",
+            "author": {
+                "did": "did:plc:7vqgcuzof5itcpfc73njbstf",
+                "handle": "g1portal.bsky.social",
+                "displayName": "g1 - O portal de notícias da Globo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreiabremzk7p3dc7ern4urfl3wnxkv2npfhvzpy2w7jtmtuy6z6bwse@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:35:54.898Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T00:33:50.466Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigoqd52c54ibzukt5udcgrdq7oxev2ed7ub6zredeubfwg7ynxdxm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 301199
+                        },
+                        "title": "ONU alerta para risco de a temperatura subir 3°C até o fim do século, o dobro do aceito no Acordo do Clima | Jornal Nacional | G1",
+                        "uri": "http://glo.bo/3TCrbTk"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "http://glo.bo/3TCrbTk"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 175
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Organização Meteorológica Mundial nas Nações Unidas fez mais um grave alerta: os governos estão longe de cumprir metas essenciais de combate às mudanças climáticas glo.bo/3TCrbTk"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "http://glo.bo/3TCrbTk",
+                    "title": "ONU alerta para risco de a temperatura subir 3°C até o fim do século, o dobro do aceito no Acordo do Clima | Jornal Nacional | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreigoqd52c54ibzukt5udcgrdq7oxev2ed7ub6zredeubfwg7ynxdxm@jpeg"
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 19,
+            "likeCount": 193,
+            "quoteCount": 10,
+            "indexedAt": "2024-09-19T00:33:42.319Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ut56ijevus2ct7iajvoqytha/app.bsky.feed.post/3l4hpgt3d4t2p",
+            "cid": "bafyreie6xppaal5wcuabumc555ibdaknl5m5dgkcmgfsdlsndtd2gw4ym4",
+            "author": {
+                "did": "did:plc:ut56ijevus2ct7iajvoqytha",
+                "handle": "jnoficial.bsky.social",
+                "displayName": "Jornal Nacional",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ut56ijevus2ct7iajvoqytha/bafkreig3a7qxohcalttibyeaqccqwjt3buduzpd3dmi6fw2qkosk6iqf2y@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T23:00:43.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T23:41:44.840Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib4n4akri6ny3cd6u5lgg4nqgguoin6sqxfcbtaj3x64v5v23dbzq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 301191
+                        },
+                        "title": "ONU alerta para risco de a temperatura subir 3°C até o fim do século, o dobro do aceito no Acordo do Clima | Jornal Nacional | G1",
+                        "uri": "http://glo.bo/3B9cgtn"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "http://glo.bo/3B9cgtn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 190,
+                            "byteStart": 176
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "JN"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 194,
+                            "byteStart": 191
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Organização Meteorológica Mundial nas Nações Unidas fez mais um grave alerta: os governos estão longe de cumprir metas essenciais de combate às mudanças climáticas: glo.bo/3B9cgtn #JN"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "http://glo.bo/3B9cgtn",
+                    "title": "ONU alerta para risco de a temperatura subir 3°C até o fim do século, o dobro do aceito no Acordo do Clima | Jornal Nacional | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ut56ijevus2ct7iajvoqytha/bafkreib4n4akri6ny3cd6u5lgg4nqgguoin6sqxfcbtaj3x64v5v23dbzq@jpeg"
+                }
+            },
+            "replyCount": 7,
+            "repostCount": 34,
+            "likeCount": 272,
+            "quoteCount": 6,
+            "indexedAt": "2024-09-18T23:41:44.840Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ut56ijevus2ct7iajvoqytha/app.bsky.feed.post/3l4hjlk54642a",
+            "cid": "bafyreiggnyudc6sudg3htqrpjmoe2v26hxy2grpy3mbucfyhpsziszwqpi",
+            "author": {
+                "did": "did:plc:ut56ijevus2ct7iajvoqytha",
+                "handle": "jnoficial.bsky.social",
+                "displayName": "Jornal Nacional",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ut56ijevus2ct7iajvoqytha/bafkreig3a7qxohcalttibyeaqccqwjt3buduzpd3dmi6fw2qkosk6iqf2y@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T23:00:43.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T21:57:00.135Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1080,
+                        "width": 1920
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreifxurtyhzmfudkj7tcdxc2qhifxfjoi3tgpqu243qk26ydjliptnu"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 17400871
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "JN"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 16,
+                            "byteStart": 13
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "📺 Veja no #JN, às 20h: a queda na taxa de juros dos Estados Unidos pela primeira vez em quatro anos enquanto há expectativa de alta no Brasil; e o alerta grave da Organização Meteorológica Mundial sobre o combate ao aquecimento global."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreifxurtyhzmfudkj7tcdxc2qhifxfjoi3tgpqu243qk26ydjliptnu",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aut56ijevus2ct7iajvoqytha/bafkreifxurtyhzmfudkj7tcdxc2qhifxfjoi3tgpqu243qk26ydjliptnu/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aut56ijevus2ct7iajvoqytha/bafkreifxurtyhzmfudkj7tcdxc2qhifxfjoi3tgpqu243qk26ydjliptnu/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1080,
+                    "width": 1920
+                }
+            },
+            "replyCount": 9,
+            "repostCount": 20,
+            "likeCount": 453,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-18T21:57:00.135Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hl5qwbghniwqup3j6r7xwekz/app.bsky.feed.post/3l4egvyevma24",
+            "cid": "bafyreigrbtvbz63y6k7gaykzh3bdihggamuoqoymwo6hcvsksoqy7h2efm",
+            "author": {
+                "did": "did:plc:hl5qwbghniwqup3j6r7xwekz",
+                "handle": "correiocb.bsky.social",
+                "displayName": "Correio Braziliense",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreibrp3xsyrthgsgjfgrrttsuylupwj2seb5j6a67b7vcdbyb6gpcye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:44:39.604Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T16:31:15.931Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Boletim da Organização Meteorológica Mundial (OMM) indica fortes evidências de que a camada de ozônio está no caminho certo para uma recuperação a longo prazo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifzsd4gny2a2oqnziqi5u2gobl57uv2a6qe4hc7zw3av4ggst6yra"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 777188
+                        },
+                        "title": "Buraco na camada de ozônio pode ser recuperado até 2066, diz ONU",
+                        "uri": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/09/6944104-buraco-na-camada-de-ozonio-pode-ser-recuperado-ate-2066-diz-onu.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Boletim da Organização Meteorológica Mundial (OMM) indica fortes evidências de que a camada de ozônio está no caminho certo para uma recuperação a longo prazo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/09/6944104-buraco-na-camada-de-ozonio-pode-ser-recuperado-ate-2066-diz-onu.html",
+                    "title": "Buraco na camada de ozônio pode ser recuperado até 2066, diz ONU",
+                    "description": "Boletim da Organização Meteorológica Mundial (OMM) indica fortes evidências de que a camada de ozônio está no caminho certo para uma recuperação a longo prazo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreifzsd4gny2a2oqnziqi5u2gobl57uv2a6qe4hc7zw3av4ggst6yra@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 10,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-17T16:31:15.931Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ianc4eahvrezq45oqbde2zqo/app.bsky.feed.post/3l47pbbmaum2w",
+            "cid": "bafyreidlyvkhonludavuqxriqgrs5ggtxixgxipx3nvbdmkmrgd3wmy2iy",
+            "author": {
+                "did": "did:plc:ianc4eahvrezq45oqbde2zqo",
+                "handle": "jopoubell.bsky.social",
+                "displayName": "ღJô Poubellღ 1️⃣3️⃣🚩🖤♥️🖤🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ianc4eahvrezq45oqbde2zqo/bafkreibcw2lzdeucs2pzhaczldzgsxrmh2db3mocph3r2cfxxk45fbsy6a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:01:19.529Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T19:17:23.819Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a close up of a burning sun on a black background",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreignlriii4bozmmdwjaduej7zm6dkqq62nmcp3j25lytv3yxlt4rma"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 348731
+                        },
+                        "title": "a close up of a burning sun on a black background",
+                        "uri": "https://media.tenor.com/RbbpM1-breAAAAAC/solstice.gif?hh=498&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Planeta pode ultrapassar 1,5°C nos próximos cinco anos, diz relatório da Organização Meteorológica Mundial.\nAceleração da crise climática pressiona OMS por decretação de emergência global. O ano mais quente já registrado eleva alerta sobre os impactos presentes e futuros nos sistemas de saúde."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/RbbpM1-breAAAAAC/solstice.gif?hh=498&ww=498",
+                    "title": "a close up of a burning sun on a black background",
+                    "description": "ALT: a close up of a burning sun on a black background",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ianc4eahvrezq45oqbde2zqo/bafkreignlriii4bozmmdwjaduej7zm6dkqq62nmcp3j25lytv3yxlt4rma@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T19:17:23.819Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:c5umdztfcohwssyu6gycynk5/app.bsky.feed.post/3l43akr3ywi2y",
+            "cid": "bafyreie3jiu54dxqo7i7lqkztfhw4hnfu4bdsf4vfbjizoyddinyykjzfy",
+            "author": {
+                "did": "did:plc:c5umdztfcohwssyu6gycynk5",
+                "handle": "zcastro.bsky.social",
+                "displayName": "Zeze de Castro ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c5umdztfcohwssyu6gycynk5/bafkreibh5jh5wsrrnrczvm6xpfc2d76nuyxo4mvkjp3hvggiharjqw6a6q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T05:14:13.136Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T00:43:39.189Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1511,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiailras42w2n6hvqwzra3ebfn4way2mf23aad6pdbhbchr3ustzna"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 856384
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1126,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihovdt74xul5n2wzqtmgnj2lzjzw2b6eufrbwzlvnjwtytye52s2y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 586345
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://wmo.int/media/update/global-seasonal-climate-update-september-october-november-2024"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 292,
+                            "byteStart": 269
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "OMM (Organização Meteorológica Mundial) - \nProbabilidade de setembro a outubro \n\nTemperaturas acima da média em quase todas as áreas terrestres\n\nTodas as bacias oceânicas acima do normal\n\nAmérica do Sul:  aumento de temperatura e diminuição de precipitação\n\nwmo.int/media/update..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5umdztfcohwssyu6gycynk5/bafkreiailras42w2n6hvqwzra3ebfn4way2mf23aad6pdbhbchr3ustzna@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:c5umdztfcohwssyu6gycynk5/bafkreiailras42w2n6hvqwzra3ebfn4way2mf23aad6pdbhbchr3ustzna@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1511,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5umdztfcohwssyu6gycynk5/bafkreihovdt74xul5n2wzqtmgnj2lzjzw2b6eufrbwzlvnjwtytye52s2y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:c5umdztfcohwssyu6gycynk5/bafkreihovdt74xul5n2wzqtmgnj2lzjzw2b6eufrbwzlvnjwtytye52s2y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1126,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T00:43:39.189Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5i5nrscns7yyhztp6yo4kuqm/app.bsky.feed.post/3l3y4bkqrjr2y",
+            "cid": "bafyreigxbzhnlw4d2v7da3ozll33xckjxjbeoacygv5ziiej4i7yr4vdju",
+            "author": {
+                "did": "did:plc:5i5nrscns7yyhztp6yo4kuqm",
+                "handle": "diariodenoticiasbr.bsky.social",
+                "displayName": "Diário de Notícias SP",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5i5nrscns7yyhztp6yo4kuqm/bafkreiar7aqn6ghabdpv7v4o632xbcmisn2vusqtrqqg6f3dmydnitk3si@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:22:08.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T18:48:55.407Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiceu53j7nmaxo2zujhfrq2qdjkafktw5p2mfwhxzkqoscrhcnu5za"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 882781
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://shre.ink/gO2v"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 272
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A probabilidade de que as condições neutras atuais (ou seja, sem os fenômenos climáticos El Niño e La Niña) deem lugar a um episódio de La Niña é agora de 55% para o período de setembro a novembro de 2024, informou a Organização Meteorológica Mundial (OMM).\n\nshre.ink/gO2v\n\nFoto: Divulgação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5i5nrscns7yyhztp6yo4kuqm/bafkreiceu53j7nmaxo2zujhfrq2qdjkafktw5p2mfwhxzkqoscrhcnu5za@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5i5nrscns7yyhztp6yo4kuqm/bafkreiceu53j7nmaxo2zujhfrq2qdjkafktw5p2mfwhxzkqoscrhcnu5za@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T18:48:55.407Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oaphhbuutljmbuly356fyz6j/app.bsky.feed.post/3l3w23ckatg2w",
+            "cid": "bafyreibn3bpwptvd6l4ky2yih63i2e3x4226xlzlnkskkkozaleox52lum",
+            "author": {
+                "did": "did:plc:oaphhbuutljmbuly356fyz6j",
+                "handle": "nexojornal.bsky.social",
+                "displayName": "Nexo Jornal",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oaphhbuutljmbuly356fyz6j/bafkreicyxxhs2wjuyaw3qg5bogdgo6tsw57ey6xpf6z6pkyb6szestctha@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-02T21:14:01.875Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T23:04:18.778Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Organização Meteorológica Mundial revisou nesta quarta-feira (11) suas previsões para o fenômeno La Niña: há uma probabilidade de 60% de que ele aconteça de outubro de 2024 a fevereiro de 2025. A es...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaynzs2q5ofd5y73pgje54svdqqqeuew3mogpst4lndafaysuf74u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 737038
+                        },
+                        "title": "Agência da ONU revisa chances de La Niña surgir até fim de 2024 - Nexo Jornal",
+                        "uri": "https://www.nexojornal.com.br/extra/2024/09/11/agencia-da-onu-la-nina-em-2024?utm_medium=Social&utm_campaign=RedesNexo&utm_source=Bluesky"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "AcessoLivre"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.nexojornal.com.br/extra/2024/09/11/agencia-da-onu-la-nina-em-2024?utm_medium=Social&utm_campaign=RedesNexo&utm_source=Bluesky"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#AcessoLivre  | Agência da ONU revisa chances de La Niña surgir até fim de 2024. Fenômeno se caracteriza pelo resfriamento anormal do oceano Pacífico equatorial. Organização Meteorológica Mundial diz que há 60% de chances de que ele comece até fevereiro. www.nexojornal.com.br/extra/2024/0..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.nexojornal.com.br/extra/2024/09/11/agencia-da-onu-la-nina-em-2024?utm_medium=Social&utm_campaign=RedesNexo&utm_source=Bluesky",
+                    "title": "Agência da ONU revisa chances de La Niña surgir até fim de 2024 - Nexo Jornal",
+                    "description": "A Organização Meteorológica Mundial revisou nesta quarta-feira (11) suas previsões para o fenômeno La Niña: há uma probabilidade de 60% de que ele aconteça de outubro de 2024 a fevereiro de 2025. A es...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oaphhbuutljmbuly356fyz6j/bafkreiaynzs2q5ofd5y73pgje54svdqqqeuew3mogpst4lndafaysuf74u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T23:04:18.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yivlqmbwl2vn372quxzgvfeo/app.bsky.feed.post/3l3nyo3i7q32e",
+            "cid": "bafyreifobnhxqz6ghzgd4mqtudo3l4tcb6yxf76kv4lnre6zryfibmvuqq",
+            "author": {
+                "did": "did:plc:yivlqmbwl2vn372quxzgvfeo",
+                "handle": "kenylane.bsky.social",
+                "displayName": "Alexa, cadê minha mega sena?",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yivlqmbwl2vn372quxzgvfeo/bafkreihn5qgdvocyj3jy5pnlx7db3nszhcaucid6haaasmar6ujl3fiv5u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:yivlqmbwl2vn372quxzgvfeo",
+                        "uri": "at://did:plc:yivlqmbwl2vn372quxzgvfeo/app.bsky.actor.profile/self",
+                        "cid": "bafyreiajtj4zl4mf3ubtzisyna3nojqpqgomnfi2erwniba55sz2evfv5e",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-05-04T14:30:01.235Z"
+                    }
+                ],
+                "createdAt": "2024-05-04T14:30:18.435Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T18:17:43.196Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Fumaça de queimadas que ingressa no Rio Grande do Sul deteriora a qualidade do ar com índices ruins e muito ruins.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigxqdjn36wcslnxv7axcai4vmvt6hetj74sphrhixdlkdfnn5yayq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 925015
+                        },
+                        "title": "Alerta de qualidade do ar ruim a muito ruim no Rio Grande do Sul",
+                        "uri": "https://metsul.com/alerta-de-qualidade-do-ar-ruim-a-muito-ruim-no-rio-grande-do-sul/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://metsul.com/alerta-de-qualidade-do-ar-ruim-a-muito-ruim-no-rio-grande-do-sul/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hell Grande do Sul\nA gente não tem um turno de paz nesse estado.\n\"Em Porto Alegre, no final da tarde, a estimativa de concentração de MP 2.5 (material particulado) era de 37,7µg/m³. O valor era 7,5 vezes acima do que é recomendado pela Organização Meteorológica Mundial\"\n\nmetsul.com/alerta-de-qu..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://metsul.com/alerta-de-qualidade-do-ar-ruim-a-muito-ruim-no-rio-grande-do-sul/",
+                    "title": "Alerta de qualidade do ar ruim a muito ruim no Rio Grande do Sul",
+                    "description": "Fumaça de queimadas que ingressa no Rio Grande do Sul deteriora a qualidade do ar com índices ruins e muito ruins.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yivlqmbwl2vn372quxzgvfeo/bafkreigxqdjn36wcslnxv7axcai4vmvt6hetj74sphrhixdlkdfnn5yayq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T18:17:43.196Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kreyw6pq7sc2ckgdds2nnrlr/app.bsky.feed.post/3l37o6kw5zj2m",
+            "cid": "bafyreicih4v4wa65nf6vnpuqxhenus4lsk5i2hljacn24gc7vbbdymvbcm",
+            "author": {
+                "did": "did:plc:kreyw6pq7sc2ckgdds2nnrlr",
+                "handle": "eugeniodemarco.bsky.social",
+                "displayName": "Eugenio ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kreyw6pq7sc2ckgdds2nnrlr/bafkreihmukhdri2aywgrzfsnsyzkfbta23nozvpu6i5tor35jyegxpohdu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T01:01:29.104Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T01:32:48.623Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:ubofngg45om3xkocrgbljroh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 31,
+                            "byteStart": 11
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiho7r3altl73hnxc5e3ulajoetxudeh7bu7jobl4pxnjvvvuv7bdq",
+                        "uri": "at://did:plc:ubofngg45om3xkocrgbljroh/app.bsky.feed.post/3l37bw6ctvj2o"
+                    },
+                    "root": {
+                        "cid": "bafyreiat5egwja5d5wrrlmvqr2epdw7bjtgjtyzteyziqerebuu6hhyfry",
+                        "uri": "at://did:plc:ubofngg45om3xkocrgbljroh/app.bsky.feed.post/3l37aywq3jf2c"
+                    }
+                },
+                "text": "Boa noite, @lcrvini.bsky.social !\nÉ extremamente triste e alarmante tudo isso que está acontecendo: um claro sinal de emergência climática.\nO que a Organização Meteorológica Mundial e o Copernicus projetavam entre 2028-2030 (1,5°C por 1 ano inteiro) já ocorreu em 2023-2024. 😭"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T01:32:48.623Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sb4e4qrndqrgzcfaj7sly2zh/app.bsky.feed.post/3kz5fnzwlv223",
+            "cid": "bafyreic4e5nxzrcwopijunwdfefrtpmulyribobge42yw3yvcbqf6cbkgi",
+            "author": {
+                "did": "did:plc:sb4e4qrndqrgzcfaj7sly2zh",
+                "handle": "rtpnoticias-rss.bsky.social",
+                "displayName": "RTP Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreih6juqq3xlxryhinlyv4vl44essbhre2emav3ev4shvahn543ci4m@jpeg",
+                "labels": [],
+                "createdAt": "2024-03-23T22:39:21.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-07T17:04:41.679Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/e5/e50a9e9d422e43f0a04d6613eb4125cb?w=350&amp;q=50&amp;rect=0,0,1461,801&amp;auto=format\"/>\n      É um alerta da Organização Meteorológica Mundial (OMM), o calor extremo de julho causou &quot;impactos devastadores&quot;.\r\n ",
+                        "title": "Organização Meteorológica Mundial avisa. Calor extremo de julho provocou \"impactos devastadores\"",
+                        "uri": "https://www.rtp.pt/noticias/pais/organizacao-meteorologica-mundial-avisa-calor-extremo-de-julho-provocou-impactos-devastadores_a1591573"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Organização Meteorológica Mundial avisa. Calor extremo de julho provocou \"impactos devastadores\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.rtp.pt/noticias/pais/organizacao-meteorologica-mundial-avisa-calor-extremo-de-julho-provocou-impactos-devastadores_a1591573",
+                    "title": "Organização Meteorológica Mundial avisa. Calor extremo de julho provocou \"impactos devastadores\"",
+                    "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/e5/e50a9e9d422e43f0a04d6613eb4125cb?w=350&amp;q=50&amp;rect=0,0,1461,801&amp;auto=format\"/>\n      É um alerta da Organização Meteorológica Mundial (OMM), o calor extremo de julho causou &quot;impactos devastadores&quot;.\r\n "
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-07T17:04:41.679Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sb4e4qrndqrgzcfaj7sly2zh/app.bsky.feed.post/3kz5ebej3ek2e",
+            "cid": "bafyreiel65zgk4ftdupu4fmg66zntxdt5oryowenobc4u67hee35pbwihq",
+            "author": {
+                "did": "did:plc:sb4e4qrndqrgzcfaj7sly2zh",
+                "handle": "rtpnoticias-rss.bsky.social",
+                "displayName": "RTP Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreih6juqq3xlxryhinlyv4vl44essbhre2emav3ev4shvahn543ci4m@jpeg",
+                "labels": [],
+                "createdAt": "2024-03-23T22:39:21.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-07T16:39:43.132Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O calor extremo de julho provocou \"impactos devastadores\" em centenas de milhões de pessoas, tendo-se registado o dia mais quente no mundo desde que há registos, destacou hoje a Organização Meteorológica Mundial (OMM).\n",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif6hyu4z624s5vgeuafodro36xr7mdbpstxnu6vhdslj56waalkwm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 62738
+                        },
+                        "title": "Calor extremo de julho provocou \"impactos devastadores\", avisa Organização Meteorológica Mundial",
+                        "uri": "https://www.rtp.pt/noticias/mundo/calor-extremo-de-julho-provocou-impactos-devastadores-avisa-organizacao-meteorologica-mundial_n1591561"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calor extremo de julho provocou \"impactos devastadores\", avisa Organização Meteorológica Mundial"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.rtp.pt/noticias/mundo/calor-extremo-de-julho-provocou-impactos-devastadores-avisa-organizacao-meteorologica-mundial_n1591561",
+                    "title": "Calor extremo de julho provocou \"impactos devastadores\", avisa Organização Meteorológica Mundial",
+                    "description": "O calor extremo de julho provocou \"impactos devastadores\" em centenas de milhões de pessoas, tendo-se registado o dia mais quente no mundo desde que há registos, destacou hoje a Organização Meteorológica Mundial (OMM).\n",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreif6hyu4z624s5vgeuafodro36xr7mdbpstxnu6vhdslj56waalkwm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-07T16:39:43.132Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ku7sdasfbk2p",
+            "cid": "bafyreih7yd4rypavx3dnwexanzp34b3palkd3maicyv2get3shn3mw2n4a",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-06T00:50:37.975954Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Um resumo com as principais notícias do Jornal Nacional desta quarta-feira (05). ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihzgf7jptbfxf2jld2qfdxkwnlmxblcood5avn5b7cbdh323whslu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 120379
+                        },
+                        "title": "Resumão diário do JN: Senado aprova imposto sobre compras internacionais de até US$50 e Organização Meteorológica Mundial alerta para o aquecimento do planeta",
+                        "uri": "https://g1.globo.com/podcast/resumao-diario/noticia/2024/06/05/resumao-diario-do-jn-senado-aprova-imposto-sobre-compras-internacionais-de-ate-us50-e-organizacao-meteorologica-mundial-alerta-para-o-aquecimento-do-planeta.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Resumão diário do JN: Senado aprova imposto sobre compras internacionais de até US$50 e Organização Meteorológica Mundial alerta para o aquecimento do planeta"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/podcast/resumao-diario/noticia/2024/06/05/resumao-diario-do-jn-senado-aprova-imposto-sobre-compras-internacionais-de-ate-us50-e-organizacao-meteorologica-mundial-alerta-para-o-aquecimento-do-planeta.ghtml",
+                    "title": "Resumão diário do JN: Senado aprova imposto sobre compras internacionais de até US$50 e Organização Meteorológica Mundial alerta para o aquecimento do planeta",
+                    "description": "Um resumo com as principais notícias do Jornal Nacional desta quarta-feira (05). ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihzgf7jptbfxf2jld2qfdxkwnlmxblcood5avn5b7cbdh323whslu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-06T00:50:37.975Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sb4e4qrndqrgzcfaj7sly2zh/app.bsky.feed.post/3ktz2qfwkkk2k",
+            "cid": "bafyreids23fqit3as33fmuj2skijmtdedglmh7x7xstvla5o3yzlghn3je",
+            "author": {
+                "did": "did:plc:sb4e4qrndqrgzcfaj7sly2zh",
+                "handle": "rtpnoticias-rss.bsky.social",
+                "displayName": "RTP Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreih6juqq3xlxryhinlyv4vl44essbhre2emav3ev4shvahn543ci4m@jpeg",
+                "labels": [],
+                "createdAt": "2024-03-23T22:39:21.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-03T08:32:33.434Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O fenómeno `El Niño` de 2023/24, que impulsionou o aumento das temperaturas globais e das condições meteorológicas extremas no mundo, está a dar sinais de acabar, avançou hoje a Organização Meteorológica Mundial (OMM).\n",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif6hyu4z624s5vgeuafodro36xr7mdbpstxnu6vhdslj56waalkwm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 62738
+                        },
+                        "title": "Organização Meteorológica Mundial. Fenómeno \"El Niño\" 2023/24 dá sinais de acabar",
+                        "uri": "https://www.rtp.pt/noticias/mundo/organizacao-meteorologica-mundial-fenomeno-el-nino-202324-da-sinais-de-acabar_n1576397"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Organização Meteorológica Mundial. Fenómeno \"El Niño\" 2023/24 dá sinais de acabar"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.rtp.pt/noticias/mundo/organizacao-meteorologica-mundial-fenomeno-el-nino-202324-da-sinais-de-acabar_n1576397",
+                    "title": "Organização Meteorológica Mundial. Fenómeno \"El Niño\" 2023/24 dá sinais de acabar",
+                    "description": "O fenómeno `El Niño` de 2023/24, que impulsionou o aumento das temperaturas globais e das condições meteorológicas extremas no mundo, está a dar sinais de acabar, avançou hoje a Organização Meteorológica Mundial (OMM).\n",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreif6hyu4z624s5vgeuafodro36xr7mdbpstxnu6vhdslj56waalkwm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-03T08:32:33.434Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d7eald56kpk5nnnvbpe6djbb/app.bsky.feed.post/3ktuwakmkzk24",
+            "cid": "bafyreif4pkebtgwax5p6t43m4ehyrq5ad4qu36l3lj23duz22so7c6l5zi",
+            "author": {
+                "did": "did:plc:d7eald56kpk5nnnvbpe6djbb",
+                "handle": "mariajo.bsky.social",
+                "displayName": "MariaJo.bsky.com.br",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreih52tgwt56m462owntgijs4jj3mg6bgijq36yggw3z7fttig6dzzy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T14:56:25.518Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-01T17:04:56.568Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib7pkmrxeyow5ghnqhb6vpodzlz73cotukozrpnamoe2ap2ggvzie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 239719
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic7thiq5c3o4kol3mkqg6qw43ti57sxshwcf5z6un2gtrqxh54qi4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 166473
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaoh64rydfeacu7qyt4dqjttizqnrxf33ylvqt6tspsg3dp5gomoq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 139056
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiesxbsqm7vvhqbmonxglg3cnup7okzhecuu2aq75l6n7a5vpdderu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 141544
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Repost"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 7,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#Repost @tixanews\n...\nBoa parte dos eventos extremos ou incomuns foi listada pela Organização Meteorológica Mundial, que fez um levantamento com o clima em 2023. Acrescentamos os ventos em São Paulo e as enchentes deste ano no Rio Grande do Sul.\n\n(Segue)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreib7pkmrxeyow5ghnqhb6vpodzlz73cotukozrpnamoe2ap2ggvzie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreib7pkmrxeyow5ghnqhb6vpodzlz73cotukozrpnamoe2ap2ggvzie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreic7thiq5c3o4kol3mkqg6qw43ti57sxshwcf5z6un2gtrqxh54qi4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreic7thiq5c3o4kol3mkqg6qw43ti57sxshwcf5z6un2gtrqxh54qi4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreiaoh64rydfeacu7qyt4dqjttizqnrxf33ylvqt6tspsg3dp5gomoq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreiaoh64rydfeacu7qyt4dqjttizqnrxf33ylvqt6tspsg3dp5gomoq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreiesxbsqm7vvhqbmonxglg3cnup7okzhecuu2aq75l6n7a5vpdderu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:d7eald56kpk5nnnvbpe6djbb/bafkreiesxbsqm7vvhqbmonxglg3cnup7okzhecuu2aq75l6n7a5vpdderu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-01T17:01:28.803Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kqovpunfjf2q",
+            "cid": "bafyreifjnl3flvx7t66wcs62igqrkpf3wt2zfmrxfokb4w5rl3turndyg4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-22T03:20:32.606454Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Derretimento foi consequência das altas temperaturas registradas durante do verão e da menor quantidade de dias com neve, o que contribuiu para o baixo acúmulo de gelo.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiasg4xfjqhkcz44ogxyx4zu3h5xxvvh6pympwqaw53ugqmh6a7kke"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 182861
+                        },
+                        "title": "Europa perdeu até 10% do gelo nas montanhas dos Alpes em 2023, diz Organização Meteorológica Mundial",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/04/22/europa-perdeu-ate-10percent-do-gelo-nas-montanhas-dos-alpes-em-2023-diz-organizacao-meteorologica-mundial.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Europa perdeu até 10% do gelo nas montanhas dos Alpes em 2023, diz Organização Meteorológica Mundial"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/04/22/europa-perdeu-ate-10percent-do-gelo-nas-montanhas-dos-alpes-em-2023-diz-organizacao-meteorologica-mundial.ghtml",
+                    "title": "Europa perdeu até 10% do gelo nas montanhas dos Alpes em 2023, diz Organização Meteorológica Mundial",
+                    "description": "Derretimento foi consequência das altas temperaturas registradas durante do verão e da menor quantidade de dias com neve, o que contribuiu para o baixo acúmulo de gelo.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiasg4xfjqhkcz44ogxyx4zu3h5xxvvh6pympwqaw53ugqmh6a7kke@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-22T03:20:32.606Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cxdk5ecfsr7jopdtxfti42qf/app.bsky.feed.post/3ko3zuo55ka22",
+            "cid": "bafyreiehubmjikyplpldlji62linfn35noycrwvcflbehtrlq2gko7fj4i",
+            "author": {
+                "did": "did:plc:cxdk5ecfsr7jopdtxfti42qf",
+                "handle": "marcelodes8.bsky.social",
+                "displayName": "Marcelo de Souza ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cxdk5ecfsr7jopdtxfti42qf/bafkreiayzsp3ryahbkgfll2i6bs44yyumn7uzug2b6gs5x257u5egifz54@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-18T13:47:18.146Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-20T04:23:53.623Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/03/19/2023-demoliu-recordes-climaticos-no-mundo-diz-relatorio-da-organizacao-meteorologica-mundial.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 141
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "E ficamos por isso mesmo. \n\n🌡〔2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológica Mundial.〕\n\ng1.globo.com/meio-ambient..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-20T04:23:52.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ko2gsx5xmn2f",
+            "cid": "bafyreihiyyz7n5vp35q4irdhljkonxcxhhwywjn7c7pa52kxr6hsu3tcdq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-19T13:10:11.719539Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Novo estudo da Organização Meteorológica Mundial afirma que eventos climáticos extremos do último ano tiveram grandes impactos socioeconômicos em todos os continentes, afetando especialmente as populações mais vulneráveis.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidwnt2t2zhufe6rrk4qcqhtdvp5yplirdwzi3auvp53uq2k2bd734"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 171447
+                        },
+                        "title": "\n2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológica Mundial",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/03/19/2023-demoliu-recordes-climaticos-no-mundo-diz-relatorio-da-organizacao-meteorologica-mundial.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológica Mundial"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/03/19/2023-demoliu-recordes-climaticos-no-mundo-diz-relatorio-da-organizacao-meteorologica-mundial.ghtml",
+                    "title": "\n2023 'demoliu' recordes climáticos no mundo, diz relatório da Organização Meteorológica Mundial",
+                    "description": "Novo estudo da Organização Meteorológica Mundial afirma que eventos climáticos extremos do último ano tiveram grandes impactos socioeconômicos em todos os continentes, afetando especialmente as populações mais vulneráveis.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidwnt2t2zhufe6rrk4qcqhtdvp5yplirdwzi3auvp53uq2k2bd734@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-19T13:10:11.719Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kdo3wuda6r2e",
+            "cid": "bafyreidkbff7czevkczykjay743tzkpikgad3ca27tugspctqgwtdgy2va",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-08T09:11:38.163551Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Novo relatório de agência da ONU afirma que 2024 será um ano ainda mais quente que o atual, que já é considerado o mais que teve meses de recorde.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicbgofoyvs76i7r5lcdqotkeyqhsnqcdac36vpeife455makrwihy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 101029
+                        },
+                        "title": "El Niño deve durar ao menos até abril de 2024, aponta Organização Meteorológica Mundial",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2023/11/08/el-nino-deve-durar-ao-menos-ate-abril-de-2024-aponta-organizacao-meteorologica-mundial.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "El Niño deve durar ao menos até abril de 2024, aponta Organização Meteorológica Mundial"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2023/11/08/el-nino-deve-durar-ao-menos-ate-abril-de-2024-aponta-organizacao-meteorologica-mundial.ghtml",
+                    "title": "El Niño deve durar ao menos até abril de 2024, aponta Organização Meteorológica Mundial",
+                    "description": "Novo relatório de agência da ONU afirma que 2024 será um ano ainda mais quente que o atual, que já é considerado o mais que teve meses de recorde.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicbgofoyvs76i7r5lcdqotkeyqhsnqcdac36vpeife455makrwihy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-08T09:11:38.163Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sene4pxjyn5hvdgiad75psoc/app.bsky.feed.post/3k7e4thsg3w26",
+            "cid": "bafyreidn2yjllhn2u2vio6z57wdlgbkyoehuskjyg2ppxryoszqfmvccrm",
+            "author": {
+                "did": "did:plc:sene4pxjyn5hvdgiad75psoc",
+                "handle": "handle.invalid",
+                "displayName": "diffsniff",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreia2fcwl4mn5hxdx5xvox224ubn7z3edm4xqyltacbaxkgxlk5ud7i@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-25T22:49:25.360Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-14T12:20:16.509Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A maioria dos milhares de mortos nas inundações no leste da Líbia \"poderia ter sido evitada\" se houvesse organização das entidades de alerta e emergência do país, disse hoje o líder da Organização Meteorológica Mundial",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieknorebjrcsdcdko5v6y5avweb2pz3gasiysd6hndhibk6lfqq24"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 106872
+                        },
+                        "title": "Maioria dos mortos podia ter sido evitada na Líbia, afirma líder da Organização Meteorológica Mundial",
+                        "uri": "https://visao.pt/atualidade/mundo/2023-09-14-maioria-dos-mortos-podia-ter-sido-evitada-na-libia/"
+                    }
+                },
+                "langs": [
+                    "pt-PT"
+                ],
+                "text": "Maioria dos mortos podia ter sido evitada na Líbia, afirma líder da Organização Meteorológica Mundial"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://visao.pt/atualidade/mundo/2023-09-14-maioria-dos-mortos-podia-ter-sido-evitada-na-libia/",
+                    "title": "Maioria dos mortos podia ter sido evitada na Líbia, afirma líder da Organização Meteorológica Mundial",
+                    "description": "A maioria dos milhares de mortos nas inundações no leste da Líbia \"poderia ter sido evitada\" se houvesse organização das entidades de alerta e emergência do país, disse hoje o líder da Organização Meteorológica Mundial",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreieknorebjrcsdcdko5v6y5avweb2pz3gasiysd6hndhibk6lfqq24@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-14T12:20:16.509Z",
+            "labels": []
+        }
+    ]
+}

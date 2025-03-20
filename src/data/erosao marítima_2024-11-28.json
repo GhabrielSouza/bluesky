@@ -1,0 +1,78 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3ks6df3kmke22",
+            "cid": "bafyreic7jrnvpqtrhtuaun7c6r7ncnqvdp3cb5keixc2oteghg63qusi5a",
+            "author": {
+                "did": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                "handle": "agricultorurbano07.bsky.social",
+                "displayName": "Agroflorestor urbano 🌴🌳🍍🍒",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreiecgvuwadkolwab3lkqtsbizeahmhy75cpmjo6ufwrt763dnsbsdm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.actor.profile/self",
+                        "cid": "bafyreierwxfaj77qpxpf7v2sfpg5tygvfyhclxmefodd6xad4hgsgqdoga",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-12-22T22:55:23.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-11T00:00:41.370Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: Disappointed Face Palm GIF",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib7y4qbmccuuqakxrrlzijsqzgdvbvkvzvs2yt4xfa5nhddaxaqyu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 731460
+                        },
+                        "title": "Disappointed Face Palm GIF",
+                        "uri": "https://media.tenor.com/D8U9CyNuL5wAAAAC/disappointed-face-palm.gif?hh=275&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifap3knycqadmb2g26ht3d3pnutialqzodrfuwpxwzbmhsli65fke",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3ks6chx3hys2z"
+                    },
+                    "root": {
+                        "cid": "bafyreiczmj6b5lhdkrx5mm2pp5eqdiwrzhloul2u3gynbrdp6m5rm4v2my",
+                        "uri": "at://did:plc:eydnveb4lcklixjslg2l5ft4/app.bsky.feed.post/3ks2kxi52p72t"
+                    }
+                },
+                "text": "O exemplo mais extremo de impacto é o Palm Jumeirah em Dubai: ele desvia a corrente marítima paralela à costa, que depois volta com força na orla, gerando erosão da praia. Aí, eles têm que ficar permanentemente repondo areia da praia pra não afetar as construções à beira-mar."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/D8U9CyNuL5wAAAAC/disappointed-face-palm.gif?hh=275&ww=498",
+                    "title": "Disappointed Face Palm GIF",
+                    "description": "ALT: Disappointed Face Palm GIF",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreib7y4qbmccuuqakxrrlzijsqzgdvbvkvzvs2yt4xfa5nhddaxaqyu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-11T00:00:13.557Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lbsnxdozt42n",
+            "cid": "bafyreibguwkz52cllvnsy2gz4g2vsyljc5mmrsbf2dkenaeqkqnourkvmq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-25T23:20:29.898105Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid6twcfbt4p45f26pqil42q63dccj3t6xax2ddi42u42t67plluoq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 237193
+                        },
+                        "title": "Consema amplia áreas de preservação florestal de Assis em mais de 300 hectares | Bauru e Marília | G1",
+                        "uri": "https://g1.globo.com/sp/bauru-marilia/noticia/2024/11/25/consema-amplia-areas-de-preservacao-florestal-de-assis-em-mais-de-300-hectares.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Consema amplia áreas de preservação florestal de Assis em mais de 300 hectares"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/bauru-marilia/noticia/2024/11/25/consema-amplia-areas-de-preservacao-florestal-de-assis-em-mais-de-300-hectares.ghtml",
+                    "title": "Consema amplia áreas de preservação florestal de Assis em mais de 300 hectares | Bauru e Marília | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreid6twcfbt4p45f26pqil42q63dccj3t6xax2ddi42u42t67plluoq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-25T23:20:32.469Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l47zjdlidr22",
+            "cid": "bafyreigo5gekez6zgt64f66nxr23oxphuehfsupxkgvqidkhtsjdf7tsym",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T22:20:52.879Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicjjj5a63473xuk5oyh6blvjqn5o3iuriocfsoh5dpmoz4xcpodya",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l47zimm2e72p"
+                    },
+                    "root": {
+                        "cid": "bafyreibfelb3kxiim3xonboa4ib5srficupbkvyqhsbu7ewumenco4f6we",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l47tb73eyn26"
+                    }
+                },
+                "text": "A autora do pedido, Fabrina Ely Gouvea, advoga para a Maturati ao mesmo tempo em que é representante da Ordem dos Advogados do Brasil (OAB) no Conselho Estadual de Meio Ambiente (Consema),"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T22:20:52.879Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wrrpyltgbr2cmeqnzz2qnadv/app.bsky.feed.post/3l3i6dgj56k2u",
+            "cid": "bafyreihoimih2qsdqenlbxtypzsclgb32carfhwxysfshcs2cuppvbluxa",
+            "author": {
+                "did": "did:plc:wrrpyltgbr2cmeqnzz2qnadv",
+                "handle": "aldembc.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wrrpyltgbr2cmeqnzz2qnadv/bafkreibnm27e2h3evk5vwptelxy4iar3xsi4traslos7pifli4oyumzgwm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-05T17:59:28.534Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T10:39:55.695Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Indicação feita pelo Conselho Estadual do Meio Ambiente desagrada ao segmento; secretaria ressalta que composição foi aprovada pela Assembleia Legislativa",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic2ivcb2d37kt2titjlegywk2l7t7ot7cgnavlxg2ci5rwrc3q6me"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 348315
+                        },
+                        "title": "Ambientalistas reivindicam vaga em conselho que fiscaliza fundo da reconstrução do RS | GZH",
+                        "uri": "https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2024/09/ambientalistas-reivindicam-vaga-em-conselho-que-fiscaliza-fundo-da-reconstrucao-do-rs-cm0ps06o7007d01fs5kl8xp7j.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2024/09/ambientalistas-reivindicam-vaga-em-conselho-que-fiscaliza-fundo-da-reconstrucao-do-rs-cm0ps06o7007d01fs5kl8xp7j.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 158
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Conselho Estadual do Meio Ambiente (Consema) indicou \nmembro da Sociedade de Engenharia para vaga em grupo que fiscalizará o $$$ da reconstrução do RS...\n\ngauchazh.clicrbs.com.br/colunistas/r..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2024/09/ambientalistas-reivindicam-vaga-em-conselho-que-fiscaliza-fundo-da-reconstrucao-do-rs-cm0ps06o7007d01fs5kl8xp7j.html",
+                    "title": "Ambientalistas reivindicam vaga em conselho que fiscaliza fundo da reconstrução do RS | GZH",
+                    "description": "Indicação feita pelo Conselho Estadual do Meio Ambiente desagrada ao segmento; secretaria ressalta que composição foi aprovada pela Assembleia Legislativa",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wrrpyltgbr2cmeqnzz2qnadv/bafkreic2ivcb2d37kt2titjlegywk2l7t7ot7cgnavlxg2ci5rwrc3q6me@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T10:39:55.695Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i4v7hjiccw6wpqhnfhnltbbb/app.bsky.feed.post/3krzadxpnxq2j",
+            "cid": "bafyreihz3x6sk77gscsnswcxozs2zf63zaalrqhhudiz3mh3xyw3bzyipa",
+            "author": {
+                "did": "did:plc:i4v7hjiccw6wpqhnfhnltbbb",
+                "handle": "afonsojrf.bsky.social",
+                "displayName": "Afonso Jr",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreib7vgu6rxoboow5v5pumxrspbbzrw3guhqyr422cofk4ufi5p43dm@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-11T15:30:24.928Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-08T23:22:06.812Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Há 10 anos integrante do órgão, presidente do Instituto Mira-Serra critica modo como autolicenciamento foi aprovado no RS",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib3cdiapoj363j5734grxx67h6z3rbcmrmytsgkj4g4hrgwuliz3u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 429844
+                        },
+                        "title": "Autolicenciamento ambiental no RS: bióloga critica 'tratoraço' no Conselho Estadual do Meio Ambiente",
+                        "uri": "https://sul21.com.br/noticias/meio-ambiente/2021/11/autolicenciamento-ambiental-no-rs-biologa-critica-tratoraco-no-conselho-estadual-do-meio-ambiente/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://sul21.com.br/noticias/meio-ambiente/2021/11/autolicenciamento-ambiental-no-rs-biologa-critica-tratoraco-no-conselho-estadual-do-meio-ambiente/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 279
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "2021 - Eduardo Leite - Na visão da coordenadora do Instituto Mira-Serra, tem havido um “tratoraço” no Conselho Estadual do Meio Ambiente (Consema). “Estou há mais de 10 anos no Consema e nunca tinha presenciado uma postura como a que agora está sendo vista”, afirma. sul21.com.br/noticias/mei..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://sul21.com.br/noticias/meio-ambiente/2021/11/autolicenciamento-ambiental-no-rs-biologa-critica-tratoraco-no-conselho-estadual-do-meio-ambiente/",
+                    "title": "Autolicenciamento ambiental no RS: bióloga critica 'tratoraço' no Conselho Estadual do Meio Ambiente",
+                    "description": "Há 10 anos integrante do órgão, presidente do Instituto Mira-Serra critica modo como autolicenciamento foi aprovado no RS",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i4v7hjiccw6wpqhnfhnltbbb/bafkreib3cdiapoj363j5734grxx67h6z3rbcmrmytsgkj4g4hrgwuliz3u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-08T23:22:06.812Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn7e2wpr2g",
+            "cid": "bafyreih46zvulyzvi4b6rsgtgkmh5vyihqdz6yqyimaubhhkpmkoujjo6q",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:51:20.702Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieouxgpfmy5exa4frghgnx34vb72usfntwjdxkuetzcm7xrhogevm",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrn6s7w6j2z"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "como de boiadas através da legislação infraconstitucional, entre elas as resoluções do Conselho Estadual do Meio Ambiente (Consema), que é ocupado hegemonicamente por setores do governo e dos representantes da burguesia gaúcha do atraso como Farsul, Fiergs, Fecomércio,"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:51:20.702Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kmgamawknu2e",
+            "cid": "bafyreieqdbja32fj7tpeihn2atu3nhmfvg6ipovoq4xqgxtso7vfkfs7ta",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-27T19:00:37.163Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Artigo do vice-presidente da ANAMMA desconsidera fragilidades na norma aprovada pelo Consema e não responde nossos questionamentos sobre os rumos do licenciamento ambiental paulista",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihg2jbawtj2iqmjnycqpyijl7jenmntp4zpgfl5bucjb3nlxe5i4m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 733976
+                        },
+                        "title": "A falta de resposta para a “cupinização” do licenciamento ambiental paulista - ((o))eco",
+                        "uri": "https://oeco.org.br/colunas/a-falta-de-resposta-para-a-cupinizacao-do-licenciamento-ambiental-paulista/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/colunas/a-falta-de-resposta-para-a-cupinizacao-do-licenciamento-ambiental-paulista/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 310,
+                            "byteStart": 283
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "[COLUNA] A falta de resposta para a “cupinização” do licenciamento ambiental paulista ⬇️\n\nArtigo do vice-presidente da ANAMMA desconsidera fragilidades na norma aprovada pelo Consema e não responde nossos questionamentos sobre os rumos do licenciamento ambiental paulista\noeco.org.br/colunas/a-fa..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/colunas/a-falta-de-resposta-para-a-cupinizacao-do-licenciamento-ambiental-paulista/",
+                    "title": "A falta de resposta para a “cupinização” do licenciamento ambiental paulista - ((o))eco",
+                    "description": "Artigo do vice-presidente da ANAMMA desconsidera fragilidades na norma aprovada pelo Consema e não responde nossos questionamentos sobre os rumos do licenciamento ambiental paulista",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreihg2jbawtj2iqmjnycqpyijl7jenmntp4zpgfl5bucjb3nlxe5i4m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-27T19:00:37.163Z",
+            "labels": []
+        }
+    ]
+}

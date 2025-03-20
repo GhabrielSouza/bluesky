@@ -1,0 +1,464 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:ontutg7fjutxizpwcbtgl7mp/app.bsky.feed.post/3l7vhecqeto2c",
+            "cid": "bafyreigiifmxj4pe32iki6ebso6tlkmwh34drkdtwijneiurveowiahmjm",
+            "author": {
+                "did": "did:plc:ontutg7fjutxizpwcbtgl7mp",
+                "handle": "santaportal.bsky.social",
+                "displayName": "Santa Portal",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ontutg7fjutxizpwcbtgl7mp/bafkreigxa2ldxlgdwlpanxhdo6ynbt5tv7qzz4tnvaktocm4dtsjc2fsl4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-10T22:38:43.030Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T15:08:34.675Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A previsão do tempo para São Paulo no mês de novembro aponta que o estado deve ter temporais e quatro frentes frias. O prognóstico é da Climatempo. De...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih5fjcmmgfm6wspv4m7imhi3xkck3qs7ituwqyo3ybrlcxsw5h4fu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 282945
+                        },
+                        "title": "Estado de São Paulo deve ter temporais e quatro frentes frias em novembro | Santa Portal",
+                        "uri": "https://bityl.co/SbAE"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VEJA A PREVISÃO ☔ O volume de chuva deve ficar dentro da média climatológica para o mês em regiões como a Grande São Paulo e o litoral."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bityl.co/SbAE",
+                    "title": "Estado de São Paulo deve ter temporais e quatro frentes frias em novembro | Santa Portal",
+                    "description": "A previsão do tempo para São Paulo no mês de novembro aponta que o estado deve ter temporais e quatro frentes frias. O prognóstico é da Climatempo. De...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ontutg7fjutxizpwcbtgl7mp/bafkreih5fjcmmgfm6wspv4m7imhi3xkck3qs7ituwqyo3ybrlcxsw5h4fu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T15:10:07.482Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l6frc7khrw24",
+            "cid": "bafyreihk6ios6jchz4fz6jznlevzkifhkywwtr7gp4pkad67wlmhaznmla",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T16:00:03.979140Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Primavera marca aumento da insolação e redução das chuvas na região do Seridó potiguar, explica professora da UFRN.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifxjyi3oierok77n5gx67lrdgprfiuah2djdtxqmhwghpddlcujje"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 116479
+                        },
+                        "title": "Calor: Estação climatológica registra temperatura de 40,1º C em Caicó",
+                        "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/10/13/calor-estacao-climatologica-registra-temperatura-de-401o-c-em-caico.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calor: Estação climatológica registra temperatura de 40,1º C em Caicó"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/10/13/calor-estacao-climatologica-registra-temperatura-de-401o-c-em-caico.ghtml",
+                    "title": "Calor: Estação climatológica registra temperatura de 40,1º C em Caicó",
+                    "description": "Primavera marca aumento da insolação e redução das chuvas na região do Seridó potiguar, explica professora da UFRN.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifxjyi3oierok77n5gx67lrdgprfiuah2djdtxqmhwghpddlcujje@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T16:00:03.979Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ug62ycdpumvau7cvjynoes5a/app.bsky.feed.post/3l66asegedz2b",
+            "cid": "bafyreifryinsxx6vqzaietonyncqdhza7axfexjay3ypyfr6hd3guuegsm",
+            "author": {
+                "did": "did:plc:ug62ycdpumvau7cvjynoes5a",
+                "handle": "absurdaestrada.bsky.social",
+                "displayName": "v a g a",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ug62ycdpumvau7cvjynoes5a/bafkreiejzapnemybfn2er7q62rk5qlhictkxfem6orzi67qz65vsbrprwm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T21:02:14.897Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T16:16:16.198Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicstqwztv4q7leolsvxdqcrneeah6b3724bwf3sxq6nsdtbbhlwz4",
+                        "uri": "at://did:plc:dzyvqslle6o6insk65wwtjjx/app.bsky.feed.post/3l662hfa4u42x"
+                    },
+                    "root": {
+                        "cid": "bafyreih2q27zbwuig5n7cdlry4zbg242u5g75iiicprpxauxp3ibi5tsqm",
+                        "uri": "at://did:plc:dzyvqslle6o6insk65wwtjjx/app.bsky.feed.post/3l65yxv7dpn2q"
+                    }
+                },
+                "text": "Ah sim! É q eu tava achando q a referência era a polêmica climatológica de ontem"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T16:16:16.198Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rzfntfne7kdtms4yrtcdm66h/app.bsky.feed.post/3l5wnow72xm2m",
+            "cid": "bafyreiazkfe2r6tuk5ujfxzx7venhufvgq5y7vsmrtcgsmiyhanrnf7mfi",
+            "author": {
+                "did": "did:plc:rzfntfne7kdtms4yrtcdm66h",
+                "handle": "fabeoebaf.bsky.social",
+                "displayName": "Fábio Nunes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzfntfne7kdtms4yrtcdm66h/bafkreidntia6ee3qczqkwpb22jxj4r4achjlm5mehaouele5j32scb3dcu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:16:11.679Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T15:45:41.433Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Monitoramento – Prognóstico climático – LABCLIM –   Laboratório de Modelagem do Sistema Climático Terrestre",
+                        "uri": "http://labclim.uea.edu.br/?page_id=1861"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "http://labclim.uea.edu.br/?page_id=1861"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 266,
+                            "byteStart": 234
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "$type": "com.atproto.repo.strongRef",
+                        "cid": "bafyreiffxa4xsmzy2n3mkmcbcclqcqvn7sl7rplnwsqkyilvhrc7lgozme",
+                        "uri": "at://did:plc:rzfntfne7kdtms4yrtcdm66h/app.bsky.feed.post/3l5wnkvj4sq2p"
+                    },
+                    "root": {
+                        "$type": "com.atproto.repo.strongRef",
+                        "cid": "bafyreiflx3ehmm36itq3iciksunmudjqsrjwkuozymcb2khqxprr54bnau",
+                        "uri": "at://did:plc:rzfntfne7kdtms4yrtcdm66h/app.bsky.feed.post/3l5wn5y7pl42g"
+                    }
+                },
+                "tags": [],
+                "text": "O prognóstico para os próximos meses do LABCLIM/UEA é que teremos um mês de outubro com chuvas abaixo média climatológica, mas com padrões de chuva próximo da normalidade para os meses de novembro, dezembro e janeiro.\n\n+info: labclim.uea.edu.br/?page_id=1861"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "http://labclim.uea.edu.br/?page_id=1861",
+                    "title": "Monitoramento – Prognóstico climático – LABCLIM –   Laboratório de Modelagem do Sistema Climático Terrestre",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T15:45:41.433Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nzjddlpikik3txyun3itja3m/app.bsky.feed.post/3l4qz62dw2q2p",
+            "cid": "bafyreidgfpn227ldpmmf4nga3yjqwzt7ouuae5suhjolc35xmo72u4ivae",
+            "author": {
+                "did": "did:plc:nzjddlpikik3txyun3itja3m",
+                "handle": "ceumadruga.bsky.social",
+                "displayName": "Céu Madruga",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nzjddlpikik3txyun3itja3m/bafkreigcth46bpzgfa3y4asz5fgbpaptab5776lcf6nunv26oismzd7xny@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:11:00.229Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T16:29:49.813Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidtbxqut4mjkwcop5oqkxu435hrnkreu3wr2cytutnilezax5ikra",
+                        "uri": "at://did:plc:rmqimuoudholannqcqtqnt35/app.bsky.feed.post/3l4qys32l7s2t"
+                    },
+                    "root": {
+                        "cid": "bafyreibthzolmihnaht452a3lcocgapgxc7wbh5picbxxdqhj4dcjhwqqu",
+                        "uri": "at://did:plc:nzjddlpikik3txyun3itja3m/app.bsky.feed.post/3l4qscxa6zz2p"
+                    }
+                },
+                "text": "Eu fiiiz, minha rinite climatologica gritou pq ficou mais quente hj"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T16:29:49.813Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2tigxlqc6h5mpswalmzke5fv/app.bsky.feed.post/3l44m6wxhog26",
+            "cid": "bafyreihrtiny2fenrnntwm2wo2zuxp4lx4jam643pdljhjofmri3nonwz4",
+            "author": {
+                "did": "did:plc:2tigxlqc6h5mpswalmzke5fv",
+                "handle": "tranquilita.bsky.social",
+                "displayName": "Leandro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2tigxlqc6h5mpswalmzke5fv/bafkreia6gw2ejh2mngrzwa2e53quvh7utnvbsikdqzlswn66pzxvcgjgb4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:31:41.781Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T13:44:26.903Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Condição climatológica ajustada para dar play no bedtime stories"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T13:44:26.903Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7ahqjozop7wfst4vsiugmps2/app.bsky.feed.post/3l3vs4lirsk2c",
+            "cid": "bafyreigzhuhf5vfbufxrzvnj4oknve2g4tu25c5b4sujbxh3tyupttttmy",
+            "author": {
+                "did": "did:plc:7ahqjozop7wfst4vsiugmps2",
+                "handle": "tutufl.bsky.social",
+                "displayName": "Tutu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ahqjozop7wfst4vsiugmps2/bafkreifm4roxlackxcdusud5vavgpwnxducfpyqnn3qdibpwenubpirfc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T21:22:45.823Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T20:41:51.929Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "meio de setembro e ta 30 graus em floripa, que atrocidade climatologica é essa?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T20:41:51.929Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fkjgkdfzwdjvtln5ywevoify/app.bsky.feed.post/3l3g34rfa7o2w",
+            "cid": "bafyreidtkerbsnb427qua4mkywpt5qx6prto3xpbvuwsd6hb2zxizjei5e",
+            "author": {
+                "did": "did:plc:fkjgkdfzwdjvtln5ywevoify",
+                "handle": "dannlelis.bsky.social",
+                "displayName": "Daniel Lélis ⚡️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fkjgkdfzwdjvtln5ywevoify/bafkreigzrcwk4l5asctqcd7emghxjavl6kq22zsgvb6j6mhchdux24wvoq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:59:12.487Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T14:40:38.562Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 654,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiakb2srbcwfy3vg2ehogm7abo5ocgvjrj2mhcg6ewzlsawqakl5wq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 434813
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🥵 A notícia que eu vou dar, agora, para vocês não é nada boa. Seguinte: setembro é quente no Tocantins, né? Pois este ano será ainda mais. Provavelmente um dos MAIS QUENTES da história. As temperaturas devem ficar pelo menos 4 a 6 graus acima da média climatológica anteriormente prevista para o mês."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fkjgkdfzwdjvtln5ywevoify/bafkreiakb2srbcwfy3vg2ehogm7abo5ocgvjrj2mhcg6ewzlsawqakl5wq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fkjgkdfzwdjvtln5ywevoify/bafkreiakb2srbcwfy3vg2ehogm7abo5ocgvjrj2mhcg6ewzlsawqakl5wq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 654,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 10,
+            "repostCount": 5,
+            "likeCount": 47,
+            "quoteCount": 6,
+            "indexedAt": "2024-09-05T14:40:28.148Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ydtby5ehm2cijikgrmljnl7/app.bsky.feed.post/3kt7fljuels2y",
+            "cid": "bafyreicx2nvfze25avcl66r4cprsqe2b43cesbnwdzsmlyjpeyf675zf7y",
+            "author": {
+                "did": "did:plc:4ydtby5ehm2cijikgrmljnl7",
+                "handle": "joga51.bsky.social",
+                "displayName": "Alessandro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreiabpw3rauvjzxhuefqcvnmebwsm5h7a5sz3w7ww3lk7gkl2prox6e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-22T18:47:06.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-24T03:37:24.074Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Estação do Inmet no Jardim Botânico registrou 112,6 milímetros de chuva nesta quinta-feira (23); a média climatológica mensal é 112,8 milímetros.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifk4ph2a73isi6jzks42o6cf5hy5qvumbho3bxh6bycp2xnw2zrgu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 860085
+                        },
+                        "title": "Em 12 horas, chove o esperado para todo o mês em Porto Alegre; maio já é o mais chuvoso desde 1916 | GZH",
+                        "uri": "https://gauchazh.clicrbs.com.br/ambiente/noticia/2024/05/em-12-horas-chove-o-esperado-para-todo-o-mes-em-porto-alegre-maio-ja-e-o-mais-chuvoso-desde-1916-clwjngxrw001p014x2thnsaob.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Estação do Inmet no Jardim Botânico registrou 112,6 milímetros de chuva nesta quinta-feira (23); a média climatológica mensal é 112,8 milímetros.\"\n\nHoje a coisa foi tão feia bairros que ainda não tinham sido afetados alagaram hoje.\nInclusive bairros vizinhos ao que eu moro."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://gauchazh.clicrbs.com.br/ambiente/noticia/2024/05/em-12-horas-chove-o-esperado-para-todo-o-mes-em-porto-alegre-maio-ja-e-o-mais-chuvoso-desde-1916-clwjngxrw001p014x2thnsaob.html",
+                    "title": "Em 12 horas, chove o esperado para todo o mês em Porto Alegre; maio já é o mais chuvoso desde 1916 | GZH",
+                    "description": "Estação do Inmet no Jardim Botânico registrou 112,6 milímetros de chuva nesta quinta-feira (23); a média climatológica mensal é 112,8 milímetros.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreifk4ph2a73isi6jzks42o6cf5hy5qvumbho3bxh6bycp2xnw2zrgu@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-24T03:37:24.074Z",
+            "labels": []
+        }
+    ]
+}

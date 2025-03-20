@@ -1,0 +1,736 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mb5r6wkebpzay2nqpctlvkff/app.bsky.feed.post/3lb2nrvh2p22o",
+            "cid": "bafyreig5covjmlyrbtw26ck35apqlzm4ws26j5m6xwtpc6obcr2ry2avty",
+            "author": {
+                "did": "did:plc:mb5r6wkebpzay2nqpctlvkff",
+                "handle": "esmeralda13l.bsky.social",
+                "displayName": "Esmeralda13L 💚 ⭐ 🇧🇷 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb5r6wkebpzay2nqpctlvkff/bafkreif73lqn77qxyf2qjkjbof7yfv7sr4lyhsfovdp4sep2mzox7t6tly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:mb5r6wkebpzay2nqpctlvkff",
+                        "uri": "at://did:plc:mb5r6wkebpzay2nqpctlvkff/app.bsky.actor.profile/self",
+                        "cid": "bafyreib2eukntuidwnmhy7jqhy7qeezkzx3ledvv5lksf4ii3jizbyagbe",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-01T11:41:50.960Z"
+                    }
+                ],
+                "createdAt": "2024-09-01T11:41:52.704Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-16T10:13:35.332Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibzjcnmx3gcpil4fbdimbyrzmkrty6jmngywpy52trqxymgwynmeu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 248392
+                        },
+                        "title": "Em nova decisão, Justiça mantém suspensão de obra do túnel na Sena Madureira e impõe multa de R$ 100 mil; Nunes diz que vai recorrer | São Paulo | G1",
+                        "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/14/em-nova-decisao-justica-mantem-suspensao-de-obra-do-tunel-na-sena-madureira-e-impoe-multa-de-r-100-mil-nunes-diz-que-vai-recorrer.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/14/em-nova-decisao-justica-mantem-suspensao-de-obra-do-tunel-na-sena-madureira-e-impoe-multa-de-r-100-mil-nunes-diz-que-vai-recorrer.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 291,
+                            "byteStart": 263
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\n🚩\n\n👏👏👏👏\n\nEssa área é considerada como:\n\nÁREA DE PROTEÇÃO AMBIENTAL PERMANENTE \n\nStatus esse reconhecido pela própria PMSP, e não importa se foi em outra gestão, tem que cumprir...\n\nMas a gestão criminosa de Nunes atropela a Lei...\n\n👇\n\ng1.globo.com/sp/sao-paulo..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/sao-paulo/noticia/2024/11/14/em-nova-decisao-justica-mantem-suspensao-de-obra-do-tunel-na-sena-madureira-e-impoe-multa-de-r-100-mil-nunes-diz-que-vai-recorrer.ghtml",
+                    "title": "Em nova decisão, Justiça mantém suspensão de obra do túnel na Sena Madureira e impõe multa de R$ 100 mil; Nunes diz que vai recorrer | São Paulo | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mb5r6wkebpzay2nqpctlvkff/bafkreibzjcnmx3gcpil4fbdimbyrzmkrty6jmngywpy52trqxymgwynmeu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-16T10:13:40.177Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6lpldjmq2rja6rts6hovjzi2/app.bsky.feed.post/3l4ryeee3eb2b",
+            "cid": "bafyreidtuxdnaptbdg4r6pwxeihjn3ndsrrts2e6qadthqm6bz2oisceva",
+            "author": {
+                "did": "did:plc:6lpldjmq2rja6rts6hovjzi2",
+                "handle": "malcomecks.bsky.social",
+                "displayName": "Malcolm Ecks    🍉  🚩 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6lpldjmq2rja6rts6hovjzi2/bafkreiflmmkh744rgos6abn45jjx727luhzmtosdub7vpbq4kwfocmrium@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T16:45:21.636Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T01:48:07.803Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicw37xzrr3opwgbuboipzzdfbsb3dxgtwzsltbqm2dcnulfrxh7wq",
+                        "uri": "at://did:plc:em57cgm663tmkmfgek7tcgfj/app.bsky.feed.post/3l4rgwzkmcz2v"
+                    },
+                    "root": {
+                        "cid": "bafyreicw37xzrr3opwgbuboipzzdfbsb3dxgtwzsltbqm2dcnulfrxh7wq",
+                        "uri": "at://did:plc:em57cgm663tmkmfgek7tcgfj/app.bsky.feed.post/3l4rgwzkmcz2v"
+                    }
+                },
+                "text": "Área de proteção permanente não pode ficar sob jurisdição de legisladores estaduais."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T01:48:07.803Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:smjg23dfwwu3ulwo3ap7et3r/app.bsky.feed.post/3l4rprdyjdd2h",
+            "cid": "bafyreiamofcpayfxzufpidlscmc3wa5brokx3owi6lzg6qu425c2vfxspy",
+            "author": {
+                "did": "did:plc:smjg23dfwwu3ulwo3ap7et3r",
+                "handle": "zezalulaestrela.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:smjg23dfwwu3ulwo3ap7et3r/bafkreiannqmms6bfidgp3336d6hnxnvr5ms6lxrlbnarsb5dz5owatcum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:54:55.711Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T23:14:19.832Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Presidenta do PT condena governo de Mato Grosso por permitir pecuária na bacia do Alto Paraguai em meio à crise climática",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibfj5m6yyvak6tkrctl7a2chgf2gktupzmdb426pypvug5zmxiype"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 265580
+                        },
+                        "title": "Gleisi critica liberação de pecuária no Mato Grosso em área de proteção permanente: \"é muita ganância e irresponsabilidade\"",
+                        "uri": "https://www.brasil247.com/brasil/gleisi-critica-liberacao-de-pecuaria-no-mato-grosso-em-area-de-protecao-permanente-e-muita-ganancia-e-irresponsabilidade"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/brasil/gleisi-critica-liberacao-de-pecuaria-no-mato-grosso-em-area-de-protecao-permanente-e-muita-ganancia-e-irresponsabilidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 290,
+                            "byteStart": 257
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiano3xzvwy6jbqc5eg3eyo2r543fzi74fh6eu4m4sikb4aifjm2nu",
+                        "uri": "at://did:plc:smjg23dfwwu3ulwo3ap7et3r/app.bsky.feed.post/3l4rmktobhm2a"
+                    },
+                    "root": {
+                        "cid": "bafyreia62plfm7oavzna3ef4cvtij3lwhkvkunu4fqp4pa2it6qqbuomrm",
+                        "uri": "at://did:plc:smjg23dfwwu3ulwo3ap7et3r/app.bsky.feed.post/3l4rm2vu3h72y"
+                    }
+                },
+                "text": "Gleisi critica liberação de pecuária no Mato Grosso em área de proteção permanente: \"é muita ganância e irresponsabilidade\"\nPresidenta do PT condena governo de Mato Grosso por permitir pecuária na bacia do Alto Paraguai em meio à crise climática\nwww.brasil247.com/brasil/gleis..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/brasil/gleisi-critica-liberacao-de-pecuaria-no-mato-grosso-em-area-de-protecao-permanente-e-muita-ganancia-e-irresponsabilidade",
+                    "title": "Gleisi critica liberação de pecuária no Mato Grosso em área de proteção permanente: \"é muita ganância e irresponsabilidade\"",
+                    "description": "Presidenta do PT condena governo de Mato Grosso por permitir pecuária na bacia do Alto Paraguai em meio à crise climática",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:smjg23dfwwu3ulwo3ap7et3r/bafkreibfj5m6yyvak6tkrctl7a2chgf2gktupzmdb426pypvug5zmxiype@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T23:14:19.832Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tug5yaaq3ljyjvfuenrahsmr/app.bsky.feed.post/3l4mnb7q6lb2y",
+            "cid": "bafyreicoktovek2irx752ezctkpwlilvnwq7fi6gao24hurtb4xfz25kdq",
+            "author": {
+                "did": "did:plc:tug5yaaq3ljyjvfuenrahsmr",
+                "handle": "leandrobarbosa.bsky.social",
+                "displayName": "Leandro Barbosa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tug5yaaq3ljyjvfuenrahsmr/bafkreiefgfsr7qi3pynahyiic2lr5pttdcyfttj45zfcz6bhytb26mygvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:52:41.570Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T22:46:12.770Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Lei estadual sancionada pelo governo estadual permite a pecuária na Bacia do Alto Paraguai, área protegida para conservação do pantanal.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif3oe2nobxr2uprsjpgipah3tb23crhxtr6rfdx3hwibdspywejze"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 549481
+                        },
+                        "title": "Governador de MT autoriza pecuária em área protegida do pantanal",
+                        "uri": "https://congressoemfoco.uol.com.br/area/pais/governador-de-mt-autoriza-pecuaria-em-area-protegida-do-pantanal/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://congressoemfoco.uol.com.br/area/pais/governador-de-mt-autoriza-pecuaria-em-area-protegida-do-pantanal/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 303,
+                            "byteStart": 261
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O governador de Mato Grosso, Mauro Mendes, sancionou uma lei que permite o uso de áreas de proteção permanente (APPs) no Pantanal para pastagem extensiva.\n\nSegundo ele, é para prevenir novos incêndios. 🤡\n\nEssa gente nos trata como um bando de imbecis. \ncongressoemfoco.uol.com.br/area/pais/go..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://congressoemfoco.uol.com.br/area/pais/governador-de-mt-autoriza-pecuaria-em-area-protegida-do-pantanal/",
+                    "title": "Governador de MT autoriza pecuária em área protegida do pantanal",
+                    "description": "Lei estadual sancionada pelo governo estadual permite a pecuária na Bacia do Alto Paraguai, área protegida para conservação do pantanal.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tug5yaaq3ljyjvfuenrahsmr/bafkreif3oe2nobxr2uprsjpgipah3tb23crhxtr6rfdx3hwibdspywejze@jpeg"
+                }
+            },
+            "replyCount": 6,
+            "repostCount": 63,
+            "likeCount": 171,
+            "quoteCount": 8,
+            "indexedAt": "2024-09-20T22:46:12.770Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2jvw3kp6fpok3ht54utu7xyz/app.bsky.feed.post/3l4elkef6y52y",
+            "cid": "bafyreifgvqvb46p3oopkg3mh4imigtjxt4qhmklkzcfcd7nwsdesj2vgrm",
+            "author": {
+                "did": "did:plc:2jvw3kp6fpok3ht54utu7xyz",
+                "handle": "cajuzinnn.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2jvw3kp6fpok3ht54utu7xyz/bafkreifhfv2yuiwrnxzuqzz3mg2dxwnk42ux67twh54i6tpcz6ax52x7za@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:47:17.223Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T17:56:03.210Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaeh5xgfoawf3gkqeztbr54epgrpun2oyumuq2xv23ojmbjwskah4",
+                        "uri": "at://did:plc:76u6t6gvvk2pmq3lpa67udpw/app.bsky.feed.post/3l4el7xof5y2n"
+                    },
+                    "root": {
+                        "cid": "bafyreickbnjmduad4ezarvd23et5yg2qvyq72ycc4jhsf23hedk6hbjima",
+                        "uri": "at://did:plc:2jvw3kp6fpok3ht54utu7xyz/app.bsky.feed.post/3l4ektkvfbj2c"
+                    }
+                },
+                "text": "é uma fake news que foi inventada por um politico paraibano ksksksks João Pessoa tem uma grade área de proteção permanente em região urbana, mas não é considerada a mais verde do brasil"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T17:54:14.415Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ndjmoijjujktoeqystf2fuhc/app.bsky.feed.post/3l3y3rzy3ic2q",
+            "cid": "bafyreifavrp74gejs5zzvcj7q5cszaqe4yatn54sdhrcq5vx4r7otxslhu",
+            "author": {
+                "did": "did:plc:ndjmoijjujktoeqystf2fuhc",
+                "handle": "zamyrton.bsky.social",
+                "displayName": "Zamyrton Júnior ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ndjmoijjujktoeqystf2fuhc/bafkreigfa32za6hesbkqmje5narlls765mjqegble2p6bb2lj35phquhbm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:01:02.998Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T18:40:15.208Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigemtn3dfq6zzksceuguphcg3hgfk64gl3tygwpreaxstyujzvr2e",
+                        "uri": "at://did:plc:ndqm4sqxiroxdx5aik2dk2ig/app.bsky.feed.post/3l3xtvtnhv52v"
+                    },
+                    "root": {
+                        "cid": "bafyreigemtn3dfq6zzksceuguphcg3hgfk64gl3tygwpreaxstyujzvr2e",
+                        "uri": "at://did:plc:ndqm4sqxiroxdx5aik2dk2ig/app.bsky.feed.post/3l3xtvtnhv52v"
+                    }
+                },
+                "text": "A Amazônia inteira deveria virar uma unidade de conservação ou área de proteção permanente. As atividades econômicas deveriam ser aquelas com o mínimo grau de impacto. Manter as atividades que já existem hoje é o suficiente. O Brasil precisa colaborar com a vida humana na Terra."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T18:40:15.208Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rscduhczvi5bsyqgqtqlsa2a/app.bsky.feed.post/3ktsjdwtgyc2m",
+            "cid": "bafyreicfblhq6gdv7qcvissi27ukyg2qm3p4pdqhy7qj3m5q3jl3m736dq",
+            "author": {
+                "did": "did:plc:rscduhczvi5bsyqgqtqlsa2a",
+                "handle": "simpsonlisa.bsky.social",
+                "displayName": "Lisa Simpson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rscduhczvi5bsyqgqtqlsa2a/bafkreihpbxmbxw6j6xqtcsf6pt6uthwjyrelzewei3rixgr43bzvfjw36m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T23:03:28.925Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-31T18:05:21.758Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1560,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreich2wtwkipjxp4igjit6y6ujxv5w2jhx637qwmyok2tkrq3mfgkmu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 157982
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihioddwdnpbpml62p3mcz2aqucbn3sb6fwysg2q6uewkjfmzp4oku",
+                        "uri": "at://did:plc:dr4samo3an7zx3ds6utf7ots/app.bsky.feed.post/3ktsfgt7h322u"
+                    },
+                    "root": {
+                        "cid": "bafyreihioddwdnpbpml62p3mcz2aqucbn3sb6fwysg2q6uewkjfmzp4oku",
+                        "uri": "at://did:plc:dr4samo3an7zx3ds6utf7ots/app.bsky.feed.post/3ktsfgt7h322u"
+                    }
+                },
+                "text": "Que está construindo seu império à beira mar...e com a ajuda de Flavio Bolsonaro e aliados do PL, estão tentando a privatização de100 k de praia para seus futuros marajás morarem. Estão querendo destruir área de proteção permanente. \nÉ ISSO QUE O BOLSONARISMO FAZ:  DESTRÓI E MATA TUDO NA NATUREZA."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rscduhczvi5bsyqgqtqlsa2a/bafkreich2wtwkipjxp4igjit6y6ujxv5w2jhx637qwmyok2tkrq3mfgkmu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rscduhczvi5bsyqgqtqlsa2a/bafkreich2wtwkipjxp4igjit6y6ujxv5w2jhx637qwmyok2tkrq3mfgkmu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1560,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-31T18:05:21.758Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:auhkaiep3g6krparfjzdvtpz/app.bsky.feed.post/3kshrdzz73d2z",
+            "cid": "bafyreielzl2lu5mcya6dj22ke76i5qdfd6vfpabj4lyrzj5kir5tk42igm",
+            "author": {
+                "did": "did:plc:auhkaiep3g6krparfjzdvtpz",
+                "handle": "johnnyc.bsky.social",
+                "displayName": "Johnny Ciocca 🚂☭🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:auhkaiep3g6krparfjzdvtpz/bafkreibfddhilq4d2ztkyatm6tjtjswqs3ecs7j2qw4y36brd42bbd6maq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-05T14:52:01.198Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T18:04:07.283Z",
+                "facets": [],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiggglgrbcjrixtiiwyc56vrrnbdcl55ftrje7g6iygopo7mpazwee",
+                        "uri": "at://did:plc:45ux6fz4otmo265tmn2xnaqu/app.bsky.feed.post/3kshrbdinfc22"
+                    },
+                    "root": {
+                        "cid": "bafyreifyrkk4qjyx3grvosgxotf6xro2qlggae5tchz52syjkpo7eddhaa",
+                        "uri": "at://did:plc:auhkaiep3g6krparfjzdvtpz/app.bsky.feed.post/3kshqkpb35s2i"
+                    }
+                },
+                "text": "HAHAHAHHAHAHAH AMEEEEEEEEI vou muito começar a perguntar pra galera \"mas de qual área de proteção permanente vocês estão falando? não entendi onde isso se encaixa no assunto\"",
+                "via": "TOKIMEKI"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T18:04:07.283Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:45ux6fz4otmo265tmn2xnaqu/app.bsky.feed.post/3kshrbdinfc22",
+            "cid": "bafyreiggglgrbcjrixtiiwyc56vrrnbdcl55ftrje7g6iygopo7mpazwee",
+            "author": {
+                "did": "did:plc:45ux6fz4otmo265tmn2xnaqu",
+                "handle": "zinhademerda.bsky.social",
+                "displayName": "lestat's petite chienne",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:45ux6fz4otmo265tmn2xnaqu/bafkreiamlqcxarh3uulzvfm46g7o4dizftw3oezyoyecs5d7dsbk7lnoge@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:45ux6fz4otmo265tmn2xnaqu",
+                        "uri": "at://did:plc:45ux6fz4otmo265tmn2xnaqu/app.bsky.actor.profile/self",
+                        "cid": "bafyreietcemzcmfoh7tpbtv3scgfkqayrcr5f75xnr62ghvjkye3a2rtnq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-24T22:20:38.907Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T18:02:36.960Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicxlarhvqzcajyw7jmzmuqvhdokaavzufuxmnlxgebq5gz2llq6va",
+                        "uri": "at://did:plc:vyftd7vjsufihcvdpbgqcuey/app.bsky.feed.post/3kshqszlkwc2e"
+                    },
+                    "root": {
+                        "cid": "bafyreifyrkk4qjyx3grvosgxotf6xro2qlggae5tchz52syjkpo7eddhaa",
+                        "uri": "at://did:plc:auhkaiep3g6krparfjzdvtpz/app.bsky.feed.post/3kshqkpb35s2i"
+                    }
+                },
+                "text": "achei que era área de proteção permanente e fiquei ué como estão chamando agora? horrorizada"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T18:02:36.960Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3krjtwkbbcj2d",
+            "cid": "bafyreiex5sagj3zdijhbs4e666gzgdacszkoqe5lov4amjqcgu4vs6d5sm",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T20:30:21.859851Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Conforme os bombeiros, não há registros de vítimas e as causas do incêndio serão investigadas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigxmcp3v5tjvi7szy4r2763bdokjzsiwenyf4rbxrjoge5xiazzky"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 121970
+                        },
+                        "title": "Incêndio atinge área de proteção permanente com mais de 6 mil metros quadrados em Itapetininga; vídeo ",
+                        "uri": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2024/05/02/incendio-atinge-area-de-protecao-permanente-com-mais-de-6-mil-metros-quadrados-em-itapetininga-video.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Incêndio atinge área de proteção permanente com mais de 6 mil metros quadrados em Itapetininga; vídeo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2024/05/02/incendio-atinge-area-de-protecao-permanente-com-mais-de-6-mil-metros-quadrados-em-itapetininga-video.ghtml",
+                    "title": "Incêndio atinge área de proteção permanente com mais de 6 mil metros quadrados em Itapetininga; vídeo ",
+                    "description": "Conforme os bombeiros, não há registros de vítimas e as causas do incêndio serão investigadas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigxmcp3v5tjvi7szy4r2763bdokjzsiwenyf4rbxrjoge5xiazzky@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T20:30:21.859Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3kpbpe7wa4d27",
+            "cid": "bafyreic3sbfjcci4k3lppsuwhckpr2eogicjp2svt4tprccv2fu3lxw2n4",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-04T03:50:32.034Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Área de proteção permanente repleta de manguezais na Baixada Fluminense teve loteamento ilegal realizado pelo município, que chegou até a cobrar impostos",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreianiez4lcr2vux6eozem6clag7z44iwk2pydbtaym3prpvsaacera"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 420664
+                        },
+                        "title": "Ibama, ICMBio e PF acabam com mais um loteamento clandestino no Rio de Janeiro",
+                        "uri": "https://revistaforum.com.br/meio-ambiente/2024/4/3/ibama-icmbio-pf-acabam-com-mais-um-loteamento-clandestino-no-rio-de-janeiro-156702.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Resistencia2191Dias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 238
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ibama, ICMBio e PF acabam com mais um loteamento clandestino no Rio de Janeiro\nÁrea de proteção permanente repleta de manguezais na Baixada Fluminense teve loteamento ilegal realizado pelo município, que chegou até a cobrar impostos\n#Resistencia2191Dias\nSiga nosso Twitter / Instagram @DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/meio-ambiente/2024/4/3/ibama-icmbio-pf-acabam-com-mais-um-loteamento-clandestino-no-rio-de-janeiro-156702.html",
+                    "title": "Ibama, ICMBio e PF acabam com mais um loteamento clandestino no Rio de Janeiro",
+                    "description": "Área de proteção permanente repleta de manguezais na Baixada Fluminense teve loteamento ilegal realizado pelo município, que chegou até a cobrar impostos",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreianiez4lcr2vux6eozem6clag7z44iwk2pydbtaym3prpvsaacera@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-04T03:50:32.034Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zb56ientfcslld6bc4ba7e2q/app.bsky.feed.post/3kfv7b4rcid2k",
+            "cid": "bafyreigoioxegdwixyd6kwd2urdfhlbfbwvvmf2rmcytx5ek2fdvldvyjq",
+            "author": {
+                "did": "did:plc:zb56ientfcslld6bc4ba7e2q",
+                "handle": "degiuli.bsky.social",
+                "displayName": "Rodrigo De Giuli ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zb56ientfcslld6bc4ba7e2q/bafkreic4akra42guycanlbtzre7ny2d2d65tnamjmk5ickmhyhipykjgae@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:zb56ientfcslld6bc4ba7e2q",
+                        "uri": "at://did:plc:zb56ientfcslld6bc4ba7e2q/app.bsky.actor.profile/self",
+                        "cid": "bafyreib3ewddnwyrgzp2rjqrszeaq5ayomu6kdmpl5t4k6fcutjzfnmmta",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-08T14:57:48.137Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-06T15:50:06.964Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "O MPF-AL investiga a Braskem desde fevereiro por crime ambiental. Para preencher as minas de sal-gema em Maceió, a empresa estaria usando areia retirada de área de proteção permanente [APP] há quatro anos. A informação passou batido da imprensa à época."
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-06T15:50:06.964Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5kz6y55svxbz7ho7rqr6o2js/app.bsky.feed.post/3k3szbljiek26",
+            "cid": "bafyreiav4plurakj62zgnhjqnsiyi6npx2t5dqz6shjdpqegxchjiaqqqm",
+            "author": {
+                "did": "did:plc:5kz6y55svxbz7ho7rqr6o2js",
+                "handle": "alexhctp.bsky.social",
+                "displayName": "Alex",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5kz6y55svxbz7ho7rqr6o2js/bafkreidygbuwf5wktxo7nqxe5f67levb6yf5b4dvbthfklwp7cnq5xpvve@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T13:10:35.985Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-31T12:45:45.463Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicnvetejgx7vr23kyqxqtgihgg4jgtgusd4g4lpgs2dacbs4x7reu",
+                        "uri": "at://did:plc:uftuo27mnuqlqch73gcszolg/app.bsky.feed.post/3k2ppvzcedm2s"
+                    },
+                    "root": {
+                        "cid": "bafyreicnvetejgx7vr23kyqxqtgihgg4jgtgusd4g4lpgs2dacbs4x7reu",
+                        "uri": "at://did:plc:uftuo27mnuqlqch73gcszolg/app.bsky.feed.post/3k2ppvzcedm2s"
+                    }
+                },
+                "text": "Fala isso pro órgão de proteção ambiental da sua cidade 🤣🤣🤣🤣\n\nAPP tudo maiúsculo é sigla pra Área de Proteção Permanente 😁🤓"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-31T12:45:45.463Z",
+            "labels": []
+        }
+    ]
+}

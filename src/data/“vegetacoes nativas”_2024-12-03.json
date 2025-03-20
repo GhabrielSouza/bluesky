@@ -1,0 +1,1354 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:aodbpgvgvhb5hct6ghhjc27m/app.bsky.feed.post/3lakbwhlf2k2p",
+            "cid": "bafyreibhzgcrnpn3ib5gisusfeog2sepl4at577ih5w2kjc54hvr3gynxe",
+            "author": {
+                "did": "did:plc:aodbpgvgvhb5hct6ghhjc27m",
+                "handle": "mistobrasil.bsky.social",
+                "displayName": "Misto Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aodbpgvgvhb5hct6ghhjc27m/bafkreiaaynbsh2la6ah3dsazghami44nvk2r6nuoey4gljpejrc2gek32m@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T00:45:23.898Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T21:58:47.828Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Podem ser encontrados jogos sobre biodiversidade, preservação de vegetações nativas, e o enfrentamento da desinformação",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieoxf3pms55bxfxsyaire4mpuwwam6tniqswputlchqdtvhszyowi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 899977
+                        },
+                        "title": "Semana Nacional de Ciência e Tecnologia termina neste domingo",
+                        "uri": "https://mistobrasil.com/2024/11/09/semana-nacional-de-ciencia-e-tecnologia-termina-neste-domingo/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Podem ser encontrados jogos sobre biodiversidade, preservação de vegetações nativas, e o enfrentamento da desinformação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mistobrasil.com/2024/11/09/semana-nacional-de-ciencia-e-tecnologia-termina-neste-domingo/",
+                    "title": "Semana Nacional de Ciência e Tecnologia termina neste domingo",
+                    "description": "Podem ser encontrados jogos sobre biodiversidade, preservação de vegetações nativas, e o enfrentamento da desinformação",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aodbpgvgvhb5hct6ghhjc27m/bafkreieoxf3pms55bxfxsyaire4mpuwwam6tniqswputlchqdtvhszyowi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T21:58:55.582Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g2smi2imh4qv3bccryzll5ur/app.bsky.feed.post/3l66gccos742g",
+            "cid": "bafyreidgn4efecravxxab5nqpzcplzdi4cscsy2ntdbphqduxauqtdzfbm",
+            "author": {
+                "did": "did:plc:g2smi2imh4qv3bccryzll5ur",
+                "handle": "ptnacamara.bsky.social",
+                "displayName": "PT na Câmara",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreicp2hv3yr3hxgdwzfuam4ify44w3aij4z326i67glk73po44mm4di@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T15:41:28.161Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T17:54:39.906Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 725,
+                                "width": 580
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiarra44uadegl3zm4tzqfe3pvwj46hyy4drp5r46rirg6nvijl5oq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 565606
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:hnqu4w5ipdq4nq277biinmhf"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 108,
+                            "byteStart": 85
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "INCENDIÁRIOS TERÃO QUE PAGAR!\n\nCom Lula focado em combater os crimes ambientais, a @aguoficial.bsky.social ajuizou cinco Ações, somando R$ 89 milhões em indenizações, contra infratores que destruíram vegetações nativas, principalmente por meio de queimadas, nos estados do Amazonas, Rondônia e Pará."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreiarra44uadegl3zm4tzqfe3pvwj46hyy4drp5r46rirg6nvijl5oq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreiarra44uadegl3zm4tzqfe3pvwj46hyy4drp5r46rirg6nvijl5oq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 725,
+                            "width": 580
+                        }
+                    }
+                ]
+            },
+            "replyCount": 4,
+            "repostCount": 44,
+            "likeCount": 193,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-10T17:54:39.906Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3l667a2b44y2t",
+            "cid": "bafyreiaww7ifcuzhrshedh5dyv25z2r6zynn7fdtznrnmjfg5gncjgzwqe",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T15:48:07.654Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A atuação dos infratores ambientais foi nos municípios de Boca do Acre (AM), Lábrea (AM), Altamira (PA), São Felix do Xingu (PA).",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiapw3tnrgqrdvmnj4kgjeiwssrwdw7igntkp2zw2lpxeslvq2amiy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 354423
+                        },
+                        "title": "AGU cobra R$ 89 milhões de acusados de causar queimadas na Amazônia",
+                        "uri": "https://trk.ebc.com.br/GIiFb"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/GIiFb"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 219,
+                            "byteStart": 199
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅ A Advocacia-Geral da União ajuizou cinco ações na Justiça para cobrar R$ 89 milhões de pessoas físicas e jurídicas acusadas de destruir vegetações nativas com queimadas na Amazônia…\n\ntrk.ebc.com.br/GIiFb"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://trk.ebc.com.br/GIiFb",
+                    "title": "AGU cobra R$ 89 milhões de acusados de causar queimadas na Amazônia",
+                    "description": "A atuação dos infratores ambientais foi nos municípios de Boca do Acre (AM), Lábrea (AM), Altamira (PA), São Felix do Xingu (PA).",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiapw3tnrgqrdvmnj4kgjeiwssrwdw7igntkp2zw2lpxeslvq2amiy@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 12,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T15:48:07.654Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ztlva54tddon2j3sckzalppf/app.bsky.feed.post/3l663tmem3a26",
+            "cid": "bafyreif5gmrscjvrkav3lgqc4hbbudcmuwkr6ekyokpe3fvk7tchkbuf54",
+            "author": {
+                "did": "did:plc:ztlva54tddon2j3sckzalppf",
+                "handle": "agenciabrasil.ebc.com.br",
+                "displayName": "Agência Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ztlva54tddon2j3sckzalppf/bafkreif6gpzsbjpjgjutpcxy5is4izstzve2ytlnzvi3w3po5wyuhz2fjm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-19T20:48:24.208Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T14:47:29.569Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieg4scrojujvaabynb7qgqzgp4lrhhcxt4ydv4gbo46zjcure5oqq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 760537
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/GIiFb"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 232
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A AGU ajuizou 5 ações para cobrar R$ 89 milhões de pessoas físicas e jurídicas acusadas de destruir vegetações nativas com queimadas na Amazônia, em Boca do Acre (AM), Lábrea (AM), Altamira (PA), São Felix do Xingu (PA).\n\ntrk.ebc.com.br/GIiFb\n\n📸 Reuters/Bruno Kelly/Direitos Reservados"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ztlva54tddon2j3sckzalppf/bafkreieg4scrojujvaabynb7qgqzgp4lrhhcxt4ydv4gbo46zjcure5oqq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ztlva54tddon2j3sckzalppf/bafkreieg4scrojujvaabynb7qgqzgp4lrhhcxt4ydv4gbo46zjcure5oqq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 9,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-10T14:47:29.569Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:seem7lvhp7r4n5prbkns27jv/app.bsky.feed.post/3l64l3r4dfe2b",
+            "cid": "bafyreibd7qg2vm2owj2s4yydpvdrn4v25qemzwnsjlvaivsm3fl42yw3qq",
+            "author": {
+                "did": "did:plc:seem7lvhp7r4n5prbkns27jv",
+                "handle": "paoladcs.bsky.social",
+                "displayName": "Paola Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:seem7lvhp7r4n5prbkns27jv/bafkreih6yh7k667xg3a4u3bg7ar7d5ofwumfisnmdgnxlrq3xxezc6dtuq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T21:16:28.313Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T00:15:05.845Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajokl5gisjlmhmxjlhhqkstu3xwbcchqnwufjc6gdavdezmmawei",
+                        "uri": "at://did:plc:seem7lvhp7r4n5prbkns27jv/app.bsky.feed.post/3l64kyhyoil27"
+                    },
+                    "root": {
+                        "cid": "bafyreifnbmcq6dyxxlfc6mqmfm7vozlwhtujgsqbcpucvbsqviz5pio6lm",
+                        "uri": "at://did:plc:seem7lvhp7r4n5prbkns27jv/app.bsky.feed.post/3l64kuu5ken2w"
+                    }
+                },
+                "text": "- Leonardo indenizou trabalhadores resgatados em R$ 255 mil e pagou multa de R$ 94 mil, segundo advogado. Ministério Público do Trabalho confirma arquivamento do caso. \n\n- AGU ajuizou 5 ações cobrando R$ 89 milhões de pessoas físicas e jurídicas acusadas de destruir vegetações nativas na Amazônia."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T00:15:05.845Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:t6dlzroxib3evji4y4gbxc5k/app.bsky.feed.post/3l564gz67xu2o",
+            "cid": "bafyreig3zrkkffaekq2hqpkccpfkfrdm3jxypgzshkr27sk5a7ylojpxja",
+            "author": {
+                "did": "did:plc:t6dlzroxib3evji4y4gbxc5k",
+                "handle": "zekarabelo.bsky.social",
+                "displayName": "Zeka Rabelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t6dlzroxib3evji4y4gbxc5k/bafkreigsojxrbfxzfhwoijfexgmr4xeuyr35etmehvzi4hhzzdfuizi7bq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:34:35.328Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T21:33:09.580Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibflqwm7mtxmjagbufk4iejswgqif77k7oufm2qtp3rto2ztn63t4",
+                        "uri": "at://did:plc:n7re5p365cmmdnwhedde5is3/app.bsky.feed.post/3l55yh4fmwm2f"
+                    },
+                    "root": {
+                        "cid": "bafyreibflqwm7mtxmjagbufk4iejswgqif77k7oufm2qtp3rto2ztn63t4",
+                        "uri": "at://did:plc:n7re5p365cmmdnwhedde5is3/app.bsky.feed.post/3l55yh4fmwm2f"
+                    }
+                },
+                "text": "O Decreto nº 12.189, publicado no DIO dia 20/09, institui novas multas por infrações envolvendo incêndios. O início de queimadas em florestas ou outras vegetações nativas terá penalidade de R$ 10 mil por hectare ou fração. Alguém me ajuda na conta? O valor da multa não bate."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T21:33:09.113Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3svawl2tk23pqk55fu6q4ltl/app.bsky.feed.post/3l52uegjyhd24",
+            "cid": "bafyreif4acj7yry3ucwyrsyu74xwsdz75vtvmv2lyp7wbjqiwprea2orlm",
+            "author": {
+                "did": "did:plc:3svawl2tk23pqk55fu6q4ltl",
+                "handle": "azulos.bsky.social",
+                "displayName": "Azul",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3svawl2tk23pqk55fu6q4ltl/bafkreieupk2zulj3exyfvjxw35oxvak5md347rxjtklaxn6hjuttgu2zsq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T14:35:05.774Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T14:30:33.046Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiann5lqhugw537pvwh4xlfhq3hvawcdqdhymvn4ubmpcyh7sj64ie",
+                        "uri": "at://did:plc:iqd52i4fznr2ykgp32vezmxf/app.bsky.feed.post/3l52t5qg4sx2w"
+                    },
+                    "root": {
+                        "cid": "bafyreiann5lqhugw537pvwh4xlfhq3hvawcdqdhymvn4ubmpcyh7sj64ie",
+                        "uri": "at://did:plc:iqd52i4fznr2ykgp32vezmxf/app.bsky.feed.post/3l52t5qg4sx2w"
+                    }
+                },
+                "text": "Que interessante! Tem algum método de retornar o rio ao que era antes? Em rios poluídos conheço pelas plantações de vegetações nativas daquela área, com estudos bem interessantes até desse efeito no litoral"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T14:30:33.046Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7ybze7ny5ibborn2x4sagdou/app.bsky.feed.post/3l4w5ehsojc2l",
+            "cid": "bafyreib3ucwgwiz77mz3wbpn344w2egicummhjatkpyxslzv3jkf36a7ke",
+            "author": {
+                "did": "did:plc:7ybze7ny5ibborn2x4sagdou",
+                "handle": "marciazoe.bsky.social",
+                "displayName": "Marcia Zoé ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7ybze7ny5ibborn2x4sagdou/bafkreierkgi2bfspxaizrxvore74y2woqfstvkqgsaxsar2uhl5mjzftqe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-16T12:10:37.081Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T17:28:18.425Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Desde janeiro de 2024, a área queimada no Brasil totaliza 11,39 milhões de hectares, crescimento de 116% na comparação com igual período do ano passado. Desse total, 70% correspondem a vegetações nativas. ( MapBiomas)"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-24T17:28:18.425Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3l4ts4xd33w2a",
+            "cid": "bafyreicrsjjerlfirhqzkq4dawdwowibj4qy22mj5ttohk247uctqs5vq4",
+            "author": {
+                "did": "did:plc:3zb6cejpu3xtpvgk4q5vsvzh",
+                "handle": "pt.org.br",
+                "displayName": "PT Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreidrrrxcghme4abcodjbrtnqq5dp5lnzq74bqiheozrav3655jcndu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T15:18:25.076Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T19:01:56.720Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiadafst4vet675du2tq577tyswkrorgsjkghxq7jobhlpzxwrb57m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 844791
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Foi publicada, em edição extra do Diário Oficial da União nesta sexta-feira (20), o Decreto 12.189, assinado pelo presidente Lula, que institui maior rigor e endurece sanções para quem provocar incêndios ilegais.\n\n➡️ Queimadas em florestas ou outras vegetações nativas agora estão sujeitas\n+"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreiadafst4vet675du2tq577tyswkrorgsjkghxq7jobhlpzxwrb57m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreiadafst4vet675du2tq577tyswkrorgsjkghxq7jobhlpzxwrb57m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 7,
+            "repostCount": 136,
+            "likeCount": 413,
+            "quoteCount": 7,
+            "indexedAt": "2024-09-23T19:01:56.720Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sdqlkoqe3tiniywftmhe233k/app.bsky.feed.post/3l4tqlokrko2w",
+            "cid": "bafyreia7pz7zeo7qcfdtpkcko3vubv4its6j6uwqppb7ou62wmt2fysoku",
+            "author": {
+                "did": "did:plc:sdqlkoqe3tiniywftmhe233k",
+                "handle": "canalgov.ebc.com.br",
+                "displayName": "Canal Gov",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sdqlkoqe3tiniywftmhe233k/bafkreidjm5kwmq7mxhnwl2o424odfsumz4lptkdzawv7ekt3zq4sejh7se@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-19T20:43:21.909Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T18:34:23.237Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreicp34texr62qve6uu4l66c3ntfvlgwnaj4d7w3qlk2o4qlzutzzny"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 8199023
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:a5o5pa6imrd52s627zq63zgz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 285
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "MULTAS CONTRA INCÊNDIOS | O governo federal aumentou e instituiu novas multas para quem provocar incêndios florestais. O início de queimadas em florestas ou outras vegetações nativas, por exemplo, terá penalidade de R$ 10 mil por hectare, define decreto assinado pelo presidente @lula.com.br."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreicp34texr62qve6uu4l66c3ntfvlgwnaj4d7w3qlk2o4qlzutzzny",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Asdqlkoqe3tiniywftmhe233k/bafkreicp34texr62qve6uu4l66c3ntfvlgwnaj4d7w3qlk2o4qlzutzzny/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Asdqlkoqe3tiniywftmhe233k/bafkreicp34texr62qve6uu4l66c3ntfvlgwnaj4d7w3qlk2o4qlzutzzny/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T18:34:23.237Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.feed.post/3l4ovjhjpds2w",
+            "cid": "bafyreick34arwvsamaojcrjdaij3e25ij6kucdmmkynvm5d2o273xlr5ea",
+            "author": {
+                "did": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                "handle": "gabiaraujoo.bsky.social",
+                "displayName": "Gabriela Araujo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreicidspjj2fppsxlfbvzne553bcwg5gyhl36ybprncgbyotvldwsvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:uvoqzykwi6sgajgstohn2hzu",
+                        "uri": "at://did:plc:uvoqzykwi6sgajgstohn2hzu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibgl5vqxmnkznqysw6bglzzh63vmuywtsxjcevex7ab2whir2trne",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T21:05:32.243Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T21:05:31.291Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:19:18.495Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 395,
+                                "width": 352
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihocrwmlzgeac3oalwxhnnfsyqxfqkiajonpig32qootmun54rmua"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 160170
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "presidente Luiz Inácio Lula da Silva assinou decreto que endurece as sanções a quem provoca incêndio legal no pais, por meio da instituição de multas que não existiam. E o caso, por exemplo, do Inicio de queimadas em florestas ou outras vegetações nativas, que terá penalidade de R$ 10 mil por hectar"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreihocrwmlzgeac3oalwxhnnfsyqxfqkiajonpig32qootmun54rmua@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uvoqzykwi6sgajgstohn2hzu/bafkreihocrwmlzgeac3oalwxhnnfsyqxfqkiajonpig32qootmun54rmua@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 395,
+                            "width": 352
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:19:18.495Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l4op2duxjx2u",
+            "cid": "bafyreigkpdeovlv3m7dd3s757shdkqvya6h5r4iwezvhfv4lf7kar2n5hy",
+            "author": {
+                "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                "handle": "uol.com.br",
+                "displayName": "UOL - Universo Online",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:19:32.498Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T18:23:28.040Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 506,
+                                "width": 900
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigqrv7zkmsjd7kdq46e7oezib3mamxlsxa5tzcucehxhrve3s6z3q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 281395
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/09/21/governo-lula-amplia-multas-para-incendios-ilegais-em-meio-a-seca-historica.htm?utm_source=bluesky&utm_medium=social-media&utm_campaign=uol&utm_content=geral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 244
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo Lula amplia multas para incêndios ilegais em meio a seca histórica\n\n➡️A medida institui uma multa de R$ 10 mil por hectare queimado em florestas e vegetações nativas. No caso de florestas cultivadas, a penalidade é de R$ 5 mil noticias.uol.com.br/ultimas-noti..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreigqrv7zkmsjd7kdq46e7oezib3mamxlsxa5tzcucehxhrve3s6z3q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreigqrv7zkmsjd7kdq46e7oezib3mamxlsxa5tzcucehxhrve3s6z3q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 506,
+                            "width": 900
+                        }
+                    }
+                ]
+            },
+            "replyCount": 6,
+            "repostCount": 12,
+            "likeCount": 93,
+            "quoteCount": 5,
+            "indexedAt": "2024-09-21T18:23:28.040Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.feed.post/3l4oifs2xx72a",
+            "cid": "bafyreigq2jnybm3le7sabkwbgu2exahsqemqxybzgb2kxmsnviegh4qws4",
+            "author": {
+                "did": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                "handle": "mendesonca.bsky.social",
+                "displayName": "@Mendes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreieyqd7txe6ql4oadzi57y7z6qcispfcd2nktxhfzvh2bdhmv4lx4u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                        "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.actor.profile/self",
+                        "cid": "bafyreigfqgczbrb4kdxfksrf65bue75pat4vp3arqzvwxmfhg2dizctd64",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T22:39:36.049Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T22:39:34.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T16:24:36.695Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Decreto estabelece, entre outras sanções, o pagamento de multa de R$ 10 mil por hectare ou fração no caso de início de queimadas em florestas ou outras vegetações nativas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiahodty2xlqjpwovybdw66iwvqkbzfv44lrrvnn7smfezajj2xxve"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 435338
+                        },
+                        "title": "Lula assina decreto endurecendo punições a quem provoca incêndios nas matas - Vermelho",
+                        "uri": "https://vermelho.org.br/2024/09/21/lula-assina-decreto-endurecendo-punicoes-a-quem-provoca-incendios-nas-matas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://vermelho.org.br/2024/09/21/lula-assina-decreto-endurecendo-punicoes-a-quem-provoca-incendios-nas-matas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 258
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Lula assina decreto endurecendo punições a quem provoca incêndios nas matas\nDecreto estabelece, entre outras sanções, o pagamento de multa de R$ 10 mil por hectare ou fração no caso de início de queimadas em florestas ou outras vegetações nativas\n\nvermelho.org.br/2024/09/21/l..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://vermelho.org.br/2024/09/21/lula-assina-decreto-endurecendo-punicoes-a-quem-provoca-incendios-nas-matas/",
+                    "title": "Lula assina decreto endurecendo punições a quem provoca incêndios nas matas - Vermelho",
+                    "description": "Decreto estabelece, entre outras sanções, o pagamento de multa de R$ 10 mil por hectare ou fração no caso de início de queimadas em florestas ou outras vegetações nativas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreiahodty2xlqjpwovybdw66iwvqkbzfv44lrrvnn7smfezajj2xxve@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T16:24:36.695Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6iwfq5klg5sc2hywfaimfk3r/app.bsky.feed.post/3l4o54ub3sj2s",
+            "cid": "bafyreibvwnswohoqqfvbxom3vyzsdj7uhcvxcxb6f3ewk4mggkz5vwm7wq",
+            "author": {
+                "did": "did:plc:6iwfq5klg5sc2hywfaimfk3r",
+                "handle": "deolhonoagro.bsky.social",
+                "displayName": "De Olho nos Ruralistas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6iwfq5klg5sc2hywfaimfk3r/bafkreigqrla35psc65y7fpathsb6ivgsx2pfjnkqkxusgr7kjmewj6q5wu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:20:02.581Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T13:02:44.440Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreif46ezqgfyxy6cz3aap2ffadssk23mg7nkw6psg6t7piyhyos6wp4",
+                        "uri": "at://did:plc:5flbgzjflbjp4pii5x2eryaf/app.bsky.feed.post/3l4o4sustgj2d"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"O início de queimadas em florestas ou outras vegetações nativas terá penalidade de R$ 10 mil por hectare ou fração; enquanto em florestas cultivadas a multa será de R$ 5 mil.\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:5flbgzjflbjp4pii5x2eryaf/app.bsky.feed.post/3l4o4sustgj2d",
+                    "cid": "bafyreif46ezqgfyxy6cz3aap2ffadssk23mg7nkw6psg6t7piyhyos6wp4",
+                    "author": {
+                        "did": "did:plc:5flbgzjflbjp4pii5x2eryaf",
+                        "handle": "congressoemfoco.com.br",
+                        "displayName": "Congresso em Foco",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5flbgzjflbjp4pii5x2eryaf/bafkreietqse7uim2irlt4nodsptbnhtozy73soe2zipje3feahrot7zi7q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-18T20:48:03.706Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-21T12:57:10.885Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Presidente Lula editou ainda uma medida provisória com repasse financeiro excepcional a estados em situação de calamidade ou emergência reconhecida pelo governo federal",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreifovsi6ycquclzmlfqkxuw5kef5rewg5oldogt64n7gttqglkuaxa"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 508321
+                                },
+                                "title": "Governo aumenta e cria multas para coibir incêndios florestais em decreto - Congresso em Foco",
+                                "uri": "https://congressoemfoco.uol.com.br/area/governo/governo-aumenta-e-cria-multas-para-coibir-incendios-florestais-em-decreto/"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://congressoemfoco.uol.com.br/area/governo/governo-aumenta-e-cria-multas-para-coibir-incendios-florestais-em-decreto/"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 247,
+                                    "byteStart": 205
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "🔥O decreto cria, ainda, penalidades por infrações ambientais, como não reparar, compensar ou indenizar danos ambientais com uma multa que pode chegar a R$ 50 milhões. Clique e confira os detalhes.\n\ncongressoemfoco.uol.com.br/area/governo..."
+                    },
+                    "labels": [],
+                    "likeCount": 10,
+                    "replyCount": 0,
+                    "repostCount": 1,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-21T12:57:10.885Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://congressoemfoco.uol.com.br/area/governo/governo-aumenta-e-cria-multas-para-coibir-incendios-florestais-em-decreto/",
+                                "title": "Governo aumenta e cria multas para coibir incêndios florestais em decreto - Congresso em Foco",
+                                "description": "Presidente Lula editou ainda uma medida provisória com repasse financeiro excepcional a estados em situação de calamidade ou emergência reconhecida pelo governo federal",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5flbgzjflbjp4pii5x2eryaf/bafkreifovsi6ycquclzmlfqkxuw5kef5rewg5oldogt64n7gttqglkuaxa@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 9,
+            "likeCount": 26,
+            "quoteCount": 4,
+            "indexedAt": "2024-09-21T13:02:44.440Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cfvur3u3ppps3afpa4bdx3jb/app.bsky.feed.post/3l4n6hh5lyw2x",
+            "cid": "bafyreicshxxwcvqfbmcdxp2f7arccrzdc4h5dmozyfomuqpzmd2ou67534",
+            "author": {
+                "did": "did:plc:cfvur3u3ppps3afpa4bdx3jb",
+                "handle": "wesley-poj.bsky.social",
+                "displayName": "Wesley janoski",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cfvur3u3ppps3afpa4bdx3jb/bafkreiciovq4cfoyu4enmashj4lh724lnnqu34bxlc5gbdrbbcgqvjqdri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:cfvur3u3ppps3afpa4bdx3jb",
+                        "uri": "at://did:plc:cfvur3u3ppps3afpa4bdx3jb/app.bsky.actor.profile/self",
+                        "cid": "bafyreidikn5g75atjdcccfkoljafxhoh4kenzbqfdnsxvkzfpunpqyqad4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-03T00:14:54.891Z"
+                    }
+                ],
+                "createdAt": "2024-09-03T00:14:56.605Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T03:53:54.544Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif7kuljg2yzgpjxp547twb3omfvhvx3scgngks5khsb2afcbrqyti",
+                        "uri": "at://did:plc:cfvur3u3ppps3afpa4bdx3jb/app.bsky.feed.post/3l4n6h4ucr226"
+                    },
+                    "root": {
+                        "cid": "bafyreienen273anbu6gkwytt65bpjpwfcyh5tbpyxkbvth37ui5rh627tm",
+                        "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l4mto3nuay27"
+                    }
+                },
+                "text": "O descumprimento de embargo ambiental a áreas ou obras, que atualmente podia render multa de até R$ 1 milhão, passa a ter teto de R$ 10 milhões.\nJá quem iniciar um incêndio em vegetações nativas poderá ter que pagar R$ 10 mil por hectare e, para florestas de cultivo, R$ 5 mil."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T03:53:54.544Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ztcolfkjunrocgrrp4qxcid3/app.bsky.feed.post/3l4mynuhpsi2p",
+            "cid": "bafyreig5i4m5fgzhlijxkuhgatywatfwz2frhkxxtrsxqmbcqz4icuynwm",
+            "author": {
+                "did": "did:plc:ztcolfkjunrocgrrp4qxcid3",
+                "handle": "lgmatabh.bsky.social",
+                "displayName": "lgmatabh",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ztcolfkjunrocgrrp4qxcid3/bafkreibshmekygoocmdm65bdzjjc2fofte3gpba3pw3qpxzwrmusuk3jhm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ztcolfkjunrocgrrp4qxcid3",
+                        "uri": "at://did:plc:ztcolfkjunrocgrrp4qxcid3/app.bsky.actor.profile/self",
+                        "cid": "bafyreidxiesj4oykeulxsdxaycge2baiymbpniimsknckjqej4hm4qnyea",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T19:38:03.562Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T19:38:02.284Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T02:10:08.064Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Serão aplicadas multas de R$ 10 mil por hectare para queimadas em florestas ou vegetações nativas, e R$ 5 mil em florestas cultivadas. Sanções não existiam",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiclvx2dv3hdnhq3upwimb5s6rehxco2b5vqbuk5bl6uu5jag5wwi4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 445765
+                        },
+                        "title": "Governo endurece punição e cria medidas financeiras excepcionais para queimadas no país",
+                        "uri": "https://www.brasil247.com/meioambiente/governo-endurece-punicao-e-cria-medidas-financeiras-excepcionais-para-queimadas-no-pais"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://encurtador.com.br/NVRLp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Contra a bandidagem, multas pesadas!\n\n\"O decreto institui novas multas por incêndios: 10 mil reais por hectare no caso de queimadas em florestas ou vegetações nativas, e 5 mil...\"\n\n\"...  danos ambientais -- a multa pode chegar a 50 milhões de reais.\"\n\nencurtador.com.br/NVRLp"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/meioambiente/governo-endurece-punicao-e-cria-medidas-financeiras-excepcionais-para-queimadas-no-pais",
+                    "title": "Governo endurece punição e cria medidas financeiras excepcionais para queimadas no país",
+                    "description": "Serão aplicadas multas de R$ 10 mil por hectare para queimadas em florestas ou vegetações nativas, e R$ 5 mil em florestas cultivadas. Sanções não existiam",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ztcolfkjunrocgrrp4qxcid3/bafkreiclvx2dv3hdnhq3upwimb5s6rehxco2b5vqbuk5bl6uu5jag5wwi4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T02:10:08.064Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4mopu2cqhjjfqr7xle5knuh5/app.bsky.feed.post/3l44qvonstg2q",
+            "cid": "bafyreif6m3mi4bzkndnbqwh2s4q5qokjmphey6guvhmemhz6chh7xkqvc4",
+            "author": {
+                "did": "did:plc:4mopu2cqhjjfqr7xle5knuh5",
+                "handle": "lucasfr87.bsky.social",
+                "displayName": "Lucas Rios",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4mopu2cqhjjfqr7xle5knuh5/bafkreieuenbzcrezqozpe3yjc7mie63ocsgvjfec2w2ibciuwqoosngp3q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T20:04:46.002Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T15:08:44.764Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibiz4snec7wmegnljhw4yfj6m3uhje6ivtte2u3ysknag2evyfhci",
+                        "uri": "at://did:plc:zgeg2yrcoycwnhut27p74ppw/app.bsky.feed.post/3l44pemx5dk2g"
+                    },
+                    "root": {
+                        "cid": "bafyreibiz4snec7wmegnljhw4yfj6m3uhje6ivtte2u3ysknag2evyfhci",
+                        "uri": "at://did:plc:zgeg2yrcoycwnhut27p74ppw/app.bsky.feed.post/3l44pemx5dk2g"
+                    }
+                },
+                "text": "Precisamos falar sobre o excesso de loteamentos em cidades de pequeno e médio porte. Muitas matas e vegetações nativas está desaparecendo pelo excesso de investimento imobiliário."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T15:08:44.764Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hq4rqsbe4yifhzzxyko3mlwj/app.bsky.feed.post/3l3tccatoal2o",
+            "cid": "bafyreibbej6iiug7fvoe66cglkr5mxlzkditxa5apma6ba6ep2ord3nd64",
+            "author": {
+                "did": "did:plc:hq4rqsbe4yifhzzxyko3mlwj",
+                "handle": "maluluiza.bsky.social",
+                "displayName": "Malu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hq4rqsbe4yifhzzxyko3mlwj/bafkreibvcqlmzlw2b4eik4cqu7dl4bpmo2cxcor7vntkrlv2eehbsm2tle@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:hq4rqsbe4yifhzzxyko3mlwj",
+                        "uri": "at://did:plc:hq4rqsbe4yifhzzxyko3mlwj/app.bsky.actor.profile/self",
+                        "cid": "bafyreidlzgz45v7leiaisraezqqoc6ybtrxyv7e3kckmie3hky5fcts4x4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T17:59:11.082Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T17:59:10.840Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T20:53:22.448Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a close up of a burning fire with a black background",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihnmg656pqi5bzx35x5eh7s5sjaqgjzkl3qmgmpzjmvsp7awuffu4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 733706
+                        },
+                        "title": "a close up of a burning fire with a black background",
+                        "uri": "https://media.tenor.com/I1uKTqRLFyEAAAAC/%CF%86%CF%89%CF%84%CE%B9%CE%AC-%CE%BC.gif?hh=319&ww=220"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Seis projetos estão tramitando em comissões permanentes da Casa e um que já pode seguir  para o Senado atacam a fiscalização ambiental. ampliar o desmatamento.\n(CCJ), hoje presidida pela deputada de oposição Carol de Toni (PL-SC) permite desmatar vegetações nativas não florestais em todos os biomas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/I1uKTqRLFyEAAAAC/%CF%86%CF%89%CF%84%CE%B9%CE%AC-%CE%BC.gif?hh=319&ww=220",
+                    "title": "a close up of a burning fire with a black background",
+                    "description": "ALT: a close up of a burning fire with a black background",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hq4rqsbe4yifhzzxyko3mlwj/bafkreihnmg656pqi5bzx35x5eh7s5sjaqgjzkl3qmgmpzjmvsp7awuffu4@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 21,
+            "likeCount": 47,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-10T20:53:22.448Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dpdr7vcngcjn3qlqpmeon27v/app.bsky.feed.post/3l3sjrgfdaj2y",
+            "cid": "bafyreidbk2zli5g4wag3rmevk6i7jncexfdhr4g22qiujdp7jra7vof36e",
+            "author": {
+                "did": "did:plc:dpdr7vcngcjn3qlqpmeon27v",
+                "handle": "mariolago.bsky.social",
+                "displayName": "Mario Lago Filho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dpdr7vcngcjn3qlqpmeon27v/bafkreidx5nefhunr4j7yfoebymvirzwcv6et27kj3miaajh5zcbgwrniz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:15:31.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T13:34:28.037Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Produções de café próximas a canaviais e vegetações nativas estão sob risco diante de estiagem histórica. Pés atingidos pelo fogo não podem ser recuperados e precisam ser replantados, segundo especial...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihctizlukwltdej42myeibmmfyxz4oetyftlrzehibke5mkepffva"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 582285
+                        },
+                        "title": "Incêndios em SP causam danos irreversíveis a cafezais: 'Colheita só em 2027', diz produtor",
+                        "uri": "https://g1.globo.com/sp/ribeirao-preto-franca/estacao-agro/noticia/2024/09/10/incendios-em-sp-causam-danos-irreversiveis-a-cafezais-colheita-so-em-2027-diz-produtor.ghtml?fbclid=IwY2xjawFNKe5leHRuA2FlbQIxMQABHZDdPL3FBBFnwiuZA5CzXAOcTbcLK5MyI5W2aIVoaV-iiDqzaRQf74-WmQ_aem_EX3E-oVFQnDxc_j7a3t9aA"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/sp/ribeirao-preto-franca/estacao-agro/noticia/2024/09/10/incendios-em-sp-causam-danos-irreversiveis-a-cafezais-colheita-so-em-2027-diz-produtor.ghtml?fbclid=IwY2xjawFNKe5leHRuA2FlbQIxMQABHZDdPL3FBBFnwiuZA5CzXAOcTbcLK5MyI5W2aIVoaV-iiDqzaRQf74-WmQ_aem_EX3E-oVFQnDxc_j7a3t9aA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Produções de café próximas a canaviais e vegetações nativas estão sob risco diante de estiagem histórica. Pés atingidos pelo fogo não podem ser recuperados e precisam ser replantados, segundo especialistas.\ng1.globo.com/sp/ribeirao-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/ribeirao-preto-franca/estacao-agro/noticia/2024/09/10/incendios-em-sp-causam-danos-irreversiveis-a-cafezais-colheita-so-em-2027-diz-produtor.ghtml?fbclid=IwY2xjawFNKe5leHRuA2FlbQIxMQABHZDdPL3FBBFnwiuZA5CzXAOcTbcLK5MyI5W2aIVoaV-iiDqzaRQf74-WmQ_aem_EX3E-oVFQnDxc_j7a3t9aA",
+                    "title": "Incêndios em SP causam danos irreversíveis a cafezais: 'Colheita só em 2027', diz produtor",
+                    "description": "Produções de café próximas a canaviais e vegetações nativas estão sob risco diante de estiagem histórica. Pés atingidos pelo fogo não podem ser recuperados e precisam ser replantados, segundo especial...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dpdr7vcngcjn3qlqpmeon27v/bafkreihctizlukwltdej42myeibmmfyxz4oetyftlrzehibke5mkepffva@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 8,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T13:34:28.037Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3ko6fe5pglm2g",
+            "cid": "bafyreigj5cvtvuo7lmbzwrqbvhubknaqv3ztjr45l4g2xyet25p7pxjvvi",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-21T02:48:33.703Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "PL na Câmara dos Deputados altera Código Florestal e permite que vegetações nativas não florestais sejam transformadas em áreas rurais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidnwbelro4rq76kzb3qmhnttomhaagklrtla5bszpyqca3zv7alwi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 584451
+                        },
+                        "title": "CCJ aprova projeto que amplia desmatamento em todos os biomas brasileiros",
+                        "uri": "https://revistaforum.com.br/meio-ambiente/2024/3/20/ccj-aprova-projeto-que-amplia-desmatamento-em-todos-os-biomas-brasileiros-155996.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Resistencia2176Dias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 215
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CCJ aprova projeto que amplia desmatamento em todos os biomas brasileiros\nPL na Câmara dos Deputados altera Código Florestal e permite que vegetações nativas não florestais sejam transformadas em áreas rurais\n#Resistencia2176Dias\nSiga nosso Twitter / Instagram @DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/meio-ambiente/2024/3/20/ccj-aprova-projeto-que-amplia-desmatamento-em-todos-os-biomas-brasileiros-155996.html",
+                    "title": "CCJ aprova projeto que amplia desmatamento em todos os biomas brasileiros",
+                    "description": "PL na Câmara dos Deputados altera Código Florestal e permite que vegetações nativas não florestais sejam transformadas em áreas rurais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreidnwbelro4rq76kzb3qmhnttomhaagklrtla5bszpyqca3zv7alwi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-21T02:48:33.703Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ko6anmfrlv2v",
+            "cid": "bafyreihn6onuxamrih4zmxj4jsurqbfpd4hzapxoo2wvsaytqnj36bnttq",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-21T01:30:29.270768Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O texto permite que áreas de campos nativos passem a ser consideradas áreas rurais consolidadas e serem exploradas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibzgmxawulcwu6ktihung6zyloygnc7tnvgzemfz2q7sndozakyla"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 111643
+                        },
+                        "title": "CCJ da Câmara aprova projeto que permite desmatar vegetações nativas em todos os biomas brasileiros",
+                        "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/03/20/ccj-da-camara-aprova-projeto-que-permite-desmatar-vegetacoes-nativas-em-todos-os-biomas-brasileiros.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CCJ da Câmara aprova projeto que permite desmatar vegetações nativas em todos os biomas brasileiros"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/03/20/ccj-da-camara-aprova-projeto-que-permite-desmatar-vegetacoes-nativas-em-todos-os-biomas-brasileiros.ghtml",
+                    "title": "CCJ da Câmara aprova projeto que permite desmatar vegetações nativas em todos os biomas brasileiros",
+                    "description": "O texto permite que áreas de campos nativos passem a ser consideradas áreas rurais consolidadas e serem exploradas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibzgmxawulcwu6ktihung6zyloygnc7tnvgzemfz2q7sndozakyla@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-21T01:30:29.270Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,1523 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:26ka3nxo2ubts4jzmqhavhfw/app.bsky.feed.post/3lahsktfozd2i",
+            "cid": "bafyreigm6yqoobo6uho7x4rqxxht3ben46f7znz6rc4bfukkqlzulwv27u",
+            "author": {
+                "did": "did:plc:26ka3nxo2ubts4jzmqhavhfw",
+                "handle": "riosdenoticias.bsky.social",
+                "displayName": "Portal Rios de Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreie7m35jy7ec3sdseqoqtof42wg5ba5o66tdmtnlstsbmwujrqarjy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:35:52.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T22:18:31.923Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1926,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreifz46hqtzwvv2qygrfe3zya33ishkqjnviutgqrxj5272bhzskike"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 9024854
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CIDADES"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.riosdenoticias.com.br/estacas-da-ponte-rio-negro-tem-grande-profundidade-apesar-de-erosao-diz-especialista/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#CIDADES | 🌉 Uma erosão próxima dos pilares da Ponte Rio Negro, tem causado preocupação entre internautas. Apesar das imagens mostrarem um dos pilares completamente exposto, especialistas ressaltam a profundidade das estacas que sustentam a obra.\nLeia mais: www.riosdenoticias.com.br/estacas-da-p..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreifz46hqtzwvv2qygrfe3zya33ishkqjnviutgqrxj5272bhzskike",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A26ka3nxo2ubts4jzmqhavhfw/bafkreifz46hqtzwvv2qygrfe3zya33ishkqjnviutgqrxj5272bhzskike/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A26ka3nxo2ubts4jzmqhavhfw/bafkreifz46hqtzwvv2qygrfe3zya33ishkqjnviutgqrxj5272bhzskike/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1926,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T22:18:32.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lahrkdwaxr2j",
+            "cid": "bafyreihc55fpvtgpn6l3uvepd4r54mmfgmpvpjzlz2bys6i6hcps7xlwpe",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T22:00:20.308650Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiawggmpzxwixsjfqt4y5af2toaju6k5wvevn4fymtambhfw5vsqoy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 181174
+                        },
+                        "title": "Erosão sob a Ponte Rio Negro gera preocupação, mas Sedurb garante que 'não há risco de desabamento' | Amazonas | G1",
+                        "uri": "https://g1.globo.com/am/amazonas/noticia/2024/11/08/erosao-sob-a-ponte-rio-negro-gera-preocupacao-mas-sedurb-garante-que-nao-ha-risco-de-desabamento.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Erosão sob a Ponte Rio Negro gera preocupação, mas Sedurb garante que 'não há risco de desabamento'"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/am/amazonas/noticia/2024/11/08/erosao-sob-a-ponte-rio-negro-gera-preocupacao-mas-sedurb-garante-que-nao-ha-risco-de-desabamento.ghtml",
+                    "title": "Erosão sob a Ponte Rio Negro gera preocupação, mas Sedurb garante que 'não há risco de desabamento' | Amazonas | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiawggmpzxwixsjfqt4y5af2toaju6k5wvevn4fymtambhfw5vsqoy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T22:00:22.485Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lahlg5sbd623",
+            "cid": "bafyreigpyivfu3thkhfb3bpey5njarzhfq4nlpzqldyjohxkwgts4pmvdi",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T20:10:36.753589Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihgvccxfyl3hzxvlaxf7nnjh6dk4dceqayxtkkbt2p2hpga4rom4m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 823265
+                        },
+                        "title": "Chuva provoca erosão, abertura de cratera em Severínia e afeta escolas infantis de Rio Preto | São José do Rio Preto e Araçatuba | G1",
+                        "uri": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2024/11/08/chuva-provoca-erosao-abertura-de-cratera-em-severinia-e-afeta-escolas-infantis-de-rio-preto.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chuva provoca erosão, abertura de cratera em Severínia e afeta escolas infantis de Rio Preto"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2024/11/08/chuva-provoca-erosao-abertura-de-cratera-em-severinia-e-afeta-escolas-infantis-de-rio-preto.ghtml",
+                    "title": "Chuva provoca erosão, abertura de cratera em Severínia e afeta escolas infantis de Rio Preto | São José do Rio Preto e Araçatuba | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihgvccxfyl3hzxvlaxf7nnjh6dk4dceqayxtkkbt2p2hpga4rom4m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T20:10:39.481Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bo3y2n2q5u7cbukw3hlstduo/app.bsky.feed.post/3la36wa3blod2",
+            "cid": "bafyreigjnazqzo5wgbna7lzfmmtxrkmscj2laepcom7dpxbdvncn5cjy4e",
+            "author": {
+                "did": "did:plc:bo3y2n2q5u7cbukw3hlstduo",
+                "handle": "marcelolm.mastodon.social.ap.brid.gy",
+                "displayName": "marcelo 🇵🇸🇮🇱🕊️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bo3y2n2q5u7cbukw3hlstduo/bafkreiaziosxrbufslnklmbosdqty74yqw4hrxda2opcqcu5ew3rm6kfui@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:bo3y2n2q5u7cbukw3hlstduo",
+                        "uri": "at://did:plc:bo3y2n2q5u7cbukw3hlstduo/app.bsky.actor.profile/self",
+                        "cid": "bafyreice4m2k3upuk2yad5vrevzbqpi76ook7scd7jtxoqle5xqdsq2n7a",
+                        "val": "bridged-from-bridgy-fed-activitypub",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2024-07-13T05:39:45.674Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "bridgyOriginalText": "<p><a href=\"https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">noticias.uol.com.br/colunas/ca</span><span class=\"invisible\">rlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm</span></a></p>",
+                "bridgyOriginalUrl": "https://mastodon.social/@marcelolm/113421247952299271",
+                "createdAt": "2024-11-03T21:54:57.000Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-03T21:55:05.686Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zwxl6dnun52q3ywiao2ad3if/app.bsky.feed.post/3l7xrhy7q7tq2",
+            "cid": "bafyreiaexpa6uyb7bxjdkndusb2k6kftbtj2bwmgrblyemvdmh2dbw7qni",
+            "author": {
+                "did": "did:plc:zwxl6dnun52q3ywiao2ad3if",
+                "handle": "FlipboardBR.flipboard.com.ap.brid.gy",
+                "labels": [],
+                "createdAt": "0001-01-01T00:00:00.000Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "bridgyOriginalText": "<p>Ap&oacute;s obras, rio avan&ccedil;a 13 m ao ano e pode 'engolir' praia paradis&iacute;aca em SE<br /><a href=\"https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&amp;utm_medium=activitypub\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">noticias.uol.com.br/colunas/ca</span><span class=\"invisible\">rlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Posted into Ci&ecirc;ncia <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz\" class=\"u-url mention\">@<span>ci-ncia-FlipboardBR</span></a></span></p>",
+                "bridgyOriginalUrl": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0",
+                "createdAt": "2024-11-02T13:15:48.000Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "$type": "app.bsky.embed.external#external",
+                        "description": "",
+                        "title": "Original post on flipboard.com",
+                        "uri": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&utm_medium=activitypub"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 79
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Após obras, rio avança 13 m ao ano e pode 'engolir' praia paradisíaca em SE\nhttps://noticias.uol.com.br/colunas/carlos-madeiro/2024/11/02/se-erosao-e-obras-fazem-rio-avancar-13-m-ao-ano-e-sentenciam-praia-a-sumir.htm?utm_source=flipboard&utm_medium=activitypub \n\nPosted into Ciência […]"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://flipboard.com/@flipboardbr/ci%C3%AAncia-54kar8tdz/-/a-XgSvj6VcTtCpMFYXAgSqtA%3Aa%3A39599696-%2F0",
+                    "title": "Original post on flipboard.com",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T13:16:27.682Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5u2xyarm3shrje4u3zmtkhaj/app.bsky.feed.post/3l63sbw7mt62q",
+            "cid": "bafyreihu5h573ngny7zbwdtiu7xvaqmv6z57fsicb2pbve42zcerjljaci",
+            "author": {
+                "did": "did:plc:5u2xyarm3shrje4u3zmtkhaj",
+                "handle": "haitianlwa.bsky.social",
+                "displayName": "Leyogàn ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreibn2e5pdm6o2retar4koednmjf5downk6reyyft75fnpyzporm5zi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-25T04:37:46.874Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T17:22:51.652Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 668757
+                        },
+                        "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 237
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia7feyjpvpydfvnnfvewcnclfbbtilmug7itqmkaziempq7sgl3am",
+                        "uri": "at://did:plc:53hx2knpmjwdns42tneonnab/app.bsky.feed.post/3l62kyfk6qg27"
+                    },
+                    "root": {
+                        "cid": "bafyreidjlpuehvamubad2cf3qxhk5fpboq75xmw2rwzjkh2geih4ehb6mu",
+                        "uri": "at://did:plc:vwftfl3bfcibbhi2g5cptsin/app.bsky.feed.post/3l5zupe3xfr2h"
+                    }
+                },
+                "text": "O custo da recuperação de terras tornadas inférteis pelas enchentes em Porto Alegre é de 16 bilhões de reais. 👇🏿👇🏿👇🏿\n\n2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater\ng1.globo.com/rs/rio-grand..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml",
+                    "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                    "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T16:51:12.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5u2xyarm3shrje4u3zmtkhaj/app.bsky.feed.post/3l63rzpggps2o",
+            "cid": "bafyreiacqdju5qyazajeuju2cjjfod3idlola6lutwj2s35iramor3iaf4",
+            "author": {
+                "did": "did:plc:5u2xyarm3shrje4u3zmtkhaj",
+                "handle": "haitianlwa.bsky.social",
+                "displayName": "Leyogàn ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreibn2e5pdm6o2retar4koednmjf5downk6reyyft75fnpyzporm5zi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-07-25T04:37:46.874Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T17:18:16.112Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 668757
+                        },
+                        "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                        "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 237
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieb6udwy6alt3famgxeovpzljrt4veuu5tiatqj2lbpzjq5uvhnmu",
+                        "uri": "at://did:plc:kztlimisbmqyj4c66yuonyjx/app.bsky.feed.post/3l5zueuvhcl2c"
+                    },
+                    "root": {
+                        "cid": "bafyreicur2jswcmwgj7ne6th76wbofm5vynemwdg3ez3ewz3e3b7hvxnke",
+                        "uri": "at://did:plc:xjs2mnc5ev6lspzqostvnrrl/app.bsky.feed.post/3l5ztwfeaqp2x"
+                    }
+                },
+                "text": "O custo da recuperação de terras tornadas inférteis pelas enchentes em Porto Alegre é de 16 bilhões de reais. 👇🏿👇🏿👇🏿\n\n2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater\ng1.globo.com/rs/rio-grand..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/06/06/27-milhoes-de-hectares-de-terra-perderam-fertilidade-com-erosao-do-solo-no-rs-estima-emater.ghtml",
+                    "title": "2,7 milhões de hectares de terra perderam fertilidade com erosão do solo no RS, estima Emater",
+                    "description": "Água da chuva e das enchentes inviabilizam que terras retinham umidade. Produtores de 405 dos 497 municípios do RS registraram perdas na produção.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u2xyarm3shrje4u3zmtkhaj/bafkreigsoysngjra2jqdlf7oailtgfqfnpcbzhvx7sotfqoqnlusp5e3fi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T16:46:38.109Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:euceh47olrgwb4s2ohex5fxs/app.bsky.feed.post/3l5zk5lje4u2i",
+            "cid": "bafyreicejjtbet6y3pvvjgf5pqik5hyzcfs46oxezfccemtib76xg4mds4",
+            "author": {
+                "did": "did:plc:euceh47olrgwb4s2ohex5fxs",
+                "handle": "infoamazonia.org",
+                "displayName": "InfoAmazonia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:euceh47olrgwb4s2ohex5fxs/bafkreihv7tulhzu74s4rtvet5ec2o2uz6zytq2gqj3qpzi6f4ziycwtb4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-27T04:22:07.311Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T19:20:18.544Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifxcunj3retcmtt7qkufbh3f2somge7ayk2rcr6v723o5slgrc5ye",
+                        "uri": "at://did:plc:euceh47olrgwb4s2ohex5fxs/app.bsky.feed.post/3l5zk57v4xu2e"
+                    },
+                    "root": {
+                        "cid": "bafyreidtcg3okoazhbs62cmtfuo3mftz5oiyqj74evk2mdzqpco2y3zcfa",
+                        "uri": "at://did:plc:euceh47olrgwb4s2ohex5fxs/app.bsky.feed.post/3l5zk43zdzg2b"
+                    }
+                },
+                "text": "Em Macapá, Dr. Furlan (MDB) investiu 0,29% de sua receita em meio ambiente, um valor de R$ 17,4 milhões. Enquanto isso, a região do Bailique sofre com a redução da vazão do rio Araguari e com a erosão."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T19:20:18.112Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cf7o5qfzj4xpj2d6xpufbvcq/app.bsky.feed.post/3l5jxuy64x52u",
+            "cid": "bafyreigrhz2cx5kk75qv3tdkol6afg2zxsoeq6fxiyypcbulqoq4riiaqu",
+            "author": {
+                "did": "did:plc:cf7o5qfzj4xpj2d6xpufbvcq",
+                "handle": "flem-ambiental83.bsky.social",
+                "displayName": "Fernando Ambiental 👷🏻‍♂️👔💚💧🌳♻️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cf7o5qfzj4xpj2d6xpufbvcq/bafkreigtvyg7qvkyog7v3q5em637sdpjo372oshhpd5xi2lkm5x5anuemu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T10:58:44.006Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T14:43:25.242Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibctwoqpvpjevjf7rpcgigkax6ruuyljhk3yggujsge6sob2ppe5i",
+                        "uri": "at://did:plc:sgsx37f5ccxwxhasqb7tt6we/app.bsky.feed.post/3l5jvglsncl27"
+                    },
+                    "root": {
+                        "cid": "bafyreibctwoqpvpjevjf7rpcgigkax6ruuyljhk3yggujsge6sob2ppe5i",
+                        "uri": "at://did:plc:sgsx37f5ccxwxhasqb7tt6we/app.bsky.feed.post/3l5jvglsncl27"
+                    }
+                },
+                "text": "Curiosidade da engenharia: conhece o ouro ou diamante de aluvião? Região sedimentar à margem de um rio navegável formada pela erosão fluvial causada ação lenta da água ou vento. Avulsão: depósito sedimentar à margem do rio causado de forma violenta por, p.ex., tráfego fluvial de lanchas/embarcações."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T14:43:25.242Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he4fgjzm2a",
+            "cid": "bafyreigeklel6xb52bnhuzwv5pryl2sgvqi5ygkkxy3pzhka3u62emhmza",
+            "author": {
+                "did": "did:plc:3v7xhunqm5r7bi2nzb74aa3s",
+                "handle": "lfragasantanna.bsky.social",
+                "displayName": "LFraga Sant'Anna-Represente legal d Lou Andreas-Salomé🐶 no 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3v7xhunqm5r7bi2nzb74aa3s/bafkreigglv27ppyfq63nc5lhjmytu467ivb5v2hkhvakoddk4wtuv3z2se@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:05:09.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T13:44:19.287Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibhkmijyd5nsvn4ybyjohttcvzj34o5u2scpjltcnrktnhhkic7ha",
+                        "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he3zrlwy2m"
+                    },
+                    "root": {
+                        "cid": "bafyreibhkmijyd5nsvn4ybyjohttcvzj34o5u2scpjltcnrktnhhkic7ha",
+                        "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l5he3zrlwy2m"
+                    }
+                },
+                "text": "O aquecimento global, somado ao assoreamento do Rio Paraíba, contribuiu para a erosão do litoral de Atafona e causou a destruição de 500 casas, incluindo o desabamento de um prédio de quatro andares na praia"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T13:44:19.287Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6idsw2b7zq46yp3jpllqz2ox/app.bsky.feed.post/3l3ehrpsz5a2f",
+            "cid": "bafyreibekhuikjqvlchwxxhltvgghe4356nvel6ercvor6veelllfobvye",
+            "author": {
+                "did": "did:plc:6idsw2b7zq46yp3jpllqz2ox",
+                "handle": "cintiami.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6idsw2b7zq46yp3jpllqz2ox/bafkreibwldtdfhfobqxicyo5posgsegxneysxgpfeqo7mdlqfzlxv7mk7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T19:32:22.797Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T23:21:33.039Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 400,
+                                "width": 844
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie6jzgnyrwkz2f63fy6mgmcc5p2ddyinuhzseamp6b4dtbd657toq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 288950
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Um verdadeiro oásis natural dentro da metrópole do Rio, a Floresta da Tijuca é considerada a maior floresta urbana replantada do mundo. Sua existência é um testemunho do poder de regeneração da natureza, pois foi replantada no século XIX para combater a erosão e a escassez de água causadas pelo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6idsw2b7zq46yp3jpllqz2ox/bafkreie6jzgnyrwkz2f63fy6mgmcc5p2ddyinuhzseamp6b4dtbd657toq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6idsw2b7zq46yp3jpllqz2ox/bafkreie6jzgnyrwkz2f63fy6mgmcc5p2ddyinuhzseamp6b4dtbd657toq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 400,
+                            "width": 844
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T23:21:33.039Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3bzn2io3dwq5l2l6nsewnsen/app.bsky.feed.post/3l3ayx3mwir2k",
+            "cid": "bafyreiawv3mtfbutjr3f5qnjbvir5aryrzsa2wubt47w4ae3ko5zzy2lzq",
+            "author": {
+                "did": "did:plc:3bzn2io3dwq5l2l6nsewnsen",
+                "handle": "matheusrickson.bsky.social",
+                "displayName": ".",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3bzn2io3dwq5l2l6nsewnsen/bafkreib5fi7my2r3u23dor24y3qapykl7wtypmvpsnfgsx3oqmeevod63i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:38:03.535Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T14:18:09.285Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid7prpwdwiuy2u2yls4fpot3b7ohycnhzkucfsswhc4tsq3d7khia",
+                        "uri": "at://did:plc:3bzn2io3dwq5l2l6nsewnsen/app.bsky.feed.post/3l3aywr4gnx2g"
+                    },
+                    "root": {
+                        "cid": "bafyreigbyfif64y4xp7qzhnew45skg5ca7726jghaeqzmi75ibxzpbhjoq",
+                        "uri": "at://did:plc:3bzn2io3dwq5l2l6nsewnsen/app.bsky.feed.post/3l3aytq4b6y23"
+                    }
+                },
+                "text": "🧵 6/8 Em algumas regiões, o leito do rio está se deslocando devido ao aumento da sedimentação e erosão das margens, modificando a geografia local e prejudicando a agricultura e a infraestrutura."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T14:18:09.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7sc5b2oranlmyfdpuljdpa2x/app.bsky.feed.post/3l34hmfhi5526",
+            "cid": "bafyreif726xnfde7jii4ntk3jopyemdnlhxk3hjymbenzhxnztrhx2qqru",
+            "author": {
+                "did": "did:plc:7sc5b2oranlmyfdpuljdpa2x",
+                "handle": "r2marinho.bsky.social",
+                "displayName": "Rogerio R. Marinho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7sc5b2oranlmyfdpuljdpa2x/bafkreielrafblrau2azyexpkzzgoxfy55o7g4a72gtl3e5a53baijuy23m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:27:55.764Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T18:57:17.754Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Em verde áreas onde teve erosão em vermelho erosão desde 1985. Fonte: Global Surface Water",
+                            "aspectRatio": {
+                                "height": 1490,
+                                "width": 1170
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidlqe5v5yhvrlp5kk2a3eomdjvs3hf6wltuxhhr6pavsd6zgfoxba"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 650993
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifs7icizvywzltkxviscy5ozhf6dqawtkp7lptrvk6eycd37za2hm",
+                        "uri": "at://did:plc:ank2y7v6clvpq5zbaoxazqic/app.bsky.feed.post/3l33y2rq3yi2z"
+                    },
+                    "root": {
+                        "cid": "bafyreie35kh4bptj6zwcrphdwsuwbxpnjirnlwyuwsnydqibduxmos3sye",
+                        "uri": "at://did:plc:clkhx23ysn5hzyts4pqwp6eo/app.bsky.feed.post/3l33xkbebtl2g"
+                    }
+                },
+                "text": "Na realidade deveria ser um local que foi erodido pelo rio. O Rio Solimões-Amazonas muda muito suas margens, podemos ver em poucas décadas em imagens de satélites, imagina em dois séculos"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7sc5b2oranlmyfdpuljdpa2x/bafkreidlqe5v5yhvrlp5kk2a3eomdjvs3hf6wltuxhhr6pavsd6zgfoxba@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7sc5b2oranlmyfdpuljdpa2x/bafkreidlqe5v5yhvrlp5kk2a3eomdjvs3hf6wltuxhhr6pavsd6zgfoxba@jpeg",
+                        "alt": "Em verde áreas onde teve erosão em vermelho erosão desde 1985. Fonte: Global Surface Water",
+                        "aspectRatio": {
+                            "height": 1490,
+                            "width": 1170
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T18:57:17.754Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kyyy3znyhc26",
+            "cid": "bafyreigztg4mr2xb575efymrkdtkqnynr5qdrgjfnjmi5gl3pn44gt2gbu",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-05T22:51:17.960283Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Espaço no Novo Mercado Velho apresenta grandes rachaduras e compromete estabelecimentos, que registram baixa nas vendas. Na última semana, decreto de emergência por conta das erosões foi publicado.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibfagmuymnd74qhveab4fsf2degkbcqesbge6ayvgd2mlo2cd42da"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 751786
+                        },
+                        "title": "Erosão em calçadão no Centro de Rio Branco se intensifica e preocupa população: 'Medo de desabar'",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2024/08/05/erosao-em-calcadao-no-centro-de-rio-branco-se-intensifica-e-preocupa-populacao-medo-de-desabar.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Erosão em calçadão no Centro de Rio Branco se intensifica e preocupa população: 'Medo de desabar'"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2024/08/05/erosao-em-calcadao-no-centro-de-rio-branco-se-intensifica-e-preocupa-populacao-medo-de-desabar.ghtml",
+                    "title": "Erosão em calçadão no Centro de Rio Branco se intensifica e preocupa população: 'Medo de desabar'",
+                    "description": "Espaço no Novo Mercado Velho apresenta grandes rachaduras e compromete estabelecimentos, que registram baixa nas vendas. Na última semana, decreto de emergência por conta das erosões foi publicado.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibfagmuymnd74qhveab4fsf2degkbcqesbge6ayvgd2mlo2cd42da@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-05T22:51:17.960Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i3yoikiqs2vg3xfqy4jni275/app.bsky.feed.post/3kxxhk44bpe2s",
+            "cid": "bafyreifth5wtglhydsu2nos75mat2mmnodnqrzic4xbpzbalcso6om7qoq",
+            "author": {
+                "did": "did:plc:i3yoikiqs2vg3xfqy4jni275",
+                "handle": "ecycle.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreihu4qpzq7keaploezjvnxhe6mk26j2c7nv6zzugxyaxgb7szvcsoa@jpeg",
+                "labels": [],
+                "createdAt": "2024-07-18T19:15:05.373Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-23T14:57:09.207Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O rio Coca está localizado na região Nordeste do Equador e passa por processo de erosão, que causa danos econômicos e socioambientais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib3mosw7pcuz2fbzqui2riz2jxcpvqsy4pigkc35eqoqbcagmojqa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 534975
+                        },
+                        "title": "Rio Coca: geração de energia e impactos socioambientais",
+                        "uri": "https://www.ecycle.com.br/rio-coca/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecycle.com.br/rio-coca/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 142,
+                            "byteStart": 115
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Importante rio equatoriano passa por processo de erosão, que causa danos econômicos e socioambientais no Equador www.ecycle.com.br/rio-coca/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ecycle.com.br/rio-coca/",
+                    "title": "Rio Coca: geração de energia e impactos socioambientais",
+                    "description": "O rio Coca está localizado na região Nordeste do Equador e passa por processo de erosão, que causa danos econômicos e socioambientais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreib3mosw7pcuz2fbzqui2riz2jxcpvqsy4pigkc35eqoqbcagmojqa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-23T14:57:08.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ks3hsgl6zi2f",
+            "cid": "bafyreib56pt767z6bo4zq55ipbsxbu5m64myajkjq4nwtqhmppqpghk3iu",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-09T20:41:14.269723Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Estação de tratamento de água foi ameaçada por erosões após cheia do Rio Acre em março. Situação é estável, mais ainda há movimentação do solo, segundo diretor do Saerb.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaxbwquf2bv2i2fs7y572hq4yibccoo4cyiabginzimqnrrttpoku"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 177960
+                        },
+                        "title": "Governo federal reconhece situação de emergência em área de erosão na ETA II em Rio Branco",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2024/05/09/governo-federal-reconhece-situacao-de-emergencia-em-area-de-erosao-na-eta-ii-em-rio-branco.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo federal reconhece situação de emergência em área de erosão na ETA II em Rio Branco"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2024/05/09/governo-federal-reconhece-situacao-de-emergencia-em-area-de-erosao-na-eta-ii-em-rio-branco.ghtml",
+                    "title": "Governo federal reconhece situação de emergência em área de erosão na ETA II em Rio Branco",
+                    "description": "Estação de tratamento de água foi ameaçada por erosões após cheia do Rio Acre em março. Situação é estável, mais ainda há movimentação do solo, segundo diretor do Saerb.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiaxbwquf2bv2i2fs7y572hq4yibccoo4cyiabginzimqnrrttpoku@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-09T20:41:14.269Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2nafglfamjh6hllaxkeobglx/app.bsky.feed.post/3krrhzl4txa22",
+            "cid": "bafyreibbgl6iplp252ozallya7e3rcfdc3b3khvdacu4a6jivsfbxtsjtm",
+            "author": {
+                "did": "did:plc:2nafglfamjh6hllaxkeobglx",
+                "handle": "hellize.bsky.social",
+                "displayName": "Salsa Brezinski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nafglfamjh6hllaxkeobglx/bafkreifc5yyvddz7bzj5la5kpws4ha6povxxyhtzkejvzdmrrik3os5nmy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:34:56.446Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T21:18:37.691Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiedeb4443ozrv3bf3qusonglw5xgic3in3ehqmnmebrxatiogdizq",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3krrd7n33j32q"
+                    },
+                    "root": {
+                        "cid": "bafyreiedeb4443ozrv3bf3qusonglw5xgic3in3ehqmnmebrxatiogdizq",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3krrd7n33j32q"
+                    }
+                },
+                "text": "Costumava ir de trem de vitória a BH (anos 70 e 80). A paisagem à beira do rio doce era só capim. Raras árvores. A erosão já havia impedido a navegação no passado e cresceram as enchentes. A discussão sobre matas ciliares data desse período. Nunca foi aceita pelos fazendeiros. A fatura chega - alta."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T21:18:37.691Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6kcnxerpmon7xf7buorm7mxv/app.bsky.feed.post/3kromktdard2e",
+            "cid": "bafyreiavzesjclblbhbl2gffrwqcunwkhpljufdh6c4voiod2otziur7si",
+            "author": {
+                "did": "did:plc:6kcnxerpmon7xf7buorm7mxv",
+                "handle": "teatrocomedia.bsky.social",
+                "displayName": "Loui Sousa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6kcnxerpmon7xf7buorm7mxv/bafkreiczampw2ctmvwynkr7tjb7p2exewzp2zakaatd26endrerbzyx2aq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T16:20:34.800Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-04T18:01:52.734Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 187,
+                                "width": 269
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreih4ve2kr7jfxa63af3ykiersm3skotcnbbxz62myf4wovb4egapny"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 46317
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Rio Grande do Sul precisa de amparo e  empatia.\nAs enchentes são sim coisas dos homens; da destruição das matas ciliares que margeiam os rios, da erosão galopante provocada pelo garimpo, pelo superaquecimento oriundo das queimadas.\nO papel da sociedade diante de tal clareza é não se calar"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6kcnxerpmon7xf7buorm7mxv/bafkreih4ve2kr7jfxa63af3ykiersm3skotcnbbxz62myf4wovb4egapny@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6kcnxerpmon7xf7buorm7mxv/bafkreih4ve2kr7jfxa63af3ykiersm3skotcnbbxz62myf4wovb4egapny@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 187,
+                            "width": 269
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-04T18:01:52.734Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3krhqc5ahbs24",
+            "cid": "bafyreiaxmx2to4enudoin3fbnbrnojpkyzmnttf22krak6e7y7v56opgeq",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T00:19:59.925Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Essa barreira protege o solo contra erosão e inundações",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibchq5maxxdznjiv7b2xlvniuucpajk7awmn6mngkcd6rtdb5slhy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 433696
+                        },
+                        "title": "Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo  | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 153,
+                            "byteStart": 137
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 166,
+                            "byteStart": 154
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 206,
+                            "byteStart": 168
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo\nEssa barreira protege o solo contra erosão e inundações\n\n#UltimasNoticias #CapitalNews\n\nwww.capitalnews.com.br/cotidiano/me..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/cotidiano/meio-ambiente/suzano-cria-barreira-verde-em-torno-da-fabrica-em-ribas-do-rio-pardo/402500",
+                    "title": "Suzano cria barreira verde em torno da fábrica em Ribas do Rio Pardo  | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Essa barreira protege o solo contra erosão e inundações",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreibchq5maxxdznjiv7b2xlvniuucpajk7awmn6mngkcd6rtdb5slhy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T00:19:59.210Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kpnowbkdt72x",
+            "cid": "bafyreieuklfk74pbeu2fztq2xsniaicshaon5bz4vtk5xiq7ewx4k3hifa",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-08T22:20:59.865299Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Decreto foi assinado nesta segunda-feira (8). Diretor do Saerb diz que estação deve ser transferida para outro local.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigenthbp7g5lz4rmnzqmhuzylg6k6rsbxm5zkz6ku2udyl4lgzm5e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 213736
+                        },
+                        "title": "Prefeito de Rio Branco decreta emergência após erosão em estação de água ameaçar abastecimento ",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2024/04/08/prefeito-de-rio-branco-decreta-emergencia-apos-erosao-em-estacao-de-agua-ameacar-abastecimento.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Prefeito de Rio Branco decreta emergência após erosão em estação de água ameaçar abastecimento"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2024/04/08/prefeito-de-rio-branco-decreta-emergencia-apos-erosao-em-estacao-de-agua-ameacar-abastecimento.ghtml",
+                    "title": "Prefeito de Rio Branco decreta emergência após erosão em estação de água ameaçar abastecimento ",
+                    "description": "Decreto foi assinado nesta segunda-feira (8). Diretor do Saerb diz que estação deve ser transferida para outro local.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigenthbp7g5lz4rmnzqmhuzylg6k6rsbxm5zkz6ku2udyl4lgzm5e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-08T22:20:59.865Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3klkscknqle2s",
+            "cid": "bafyreiculj7o6vsujoxym7kqzunqhngro2uug3j7xuamuycbeyaniprlua",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-16T21:02:46.969766Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Projeto lançado para o complexo do Aturiá conta com espaços turísticos de convívio, lazer e contemplação do rio, em Macapá. Trabalhos serão executados pelo governo do Estado com recursos de emenda parlamentar.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifnev2r6shnhwh57eir2wncr2e6h7a6raaq2zry4fowll6s2v4bmi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 197301
+                        },
+                        "title": "Área afetada por erosão na orla do Rio Amazonas vai receber obra de R$ 29 milhões para urbanização",
+                        "uri": "https://g1.globo.com/ap/amapa/noticia/2024/02/16/area-afetada-por-erosao-na-orla-do-rio-amazonas-vai-receber-obra-de-r-29-milhoes-para-urbanizacao.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Área afetada por erosão na orla do Rio Amazonas vai receber obra de R$ 29 milhões para urbanização"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ap/amapa/noticia/2024/02/16/area-afetada-por-erosao-na-orla-do-rio-amazonas-vai-receber-obra-de-r-29-milhoes-para-urbanizacao.ghtml",
+                    "title": "Área afetada por erosão na orla do Rio Amazonas vai receber obra de R$ 29 milhões para urbanização",
+                    "description": "Projeto lançado para o complexo do Aturiá conta com espaços turísticos de convívio, lazer e contemplação do rio, em Macapá. Trabalhos serão executados pelo governo do Estado com recursos de emenda parlamentar.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifnev2r6shnhwh57eir2wncr2e6h7a6raaq2zry4fowll6s2v4bmi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-16T21:02:46.969Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3kldyz4lunc25",
+            "cid": "bafyreic4yj3yvdvmuj2xaviegwnaak6x2qk2a22m2epovagcp3zzy2hvmm",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-14T04:08:35.868Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Capital sofre com alta das marés do Rio Amazonas e fortes chuvas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidporu6n2set3hfn3jzfjnktfe3cj4boqwllsgg53b4rvwoact2um"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 329076
+                        },
+                        "title": "Macapá entra em estado de emergência devido à erosão e queda de casas",
+                        "uri": "https://www.brasil247.com/brasil/macapa-entra-em-estado-de-emergencia-devido-a-erosao-e-queda-de-casas"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasil247.com/brasil/macapa-entra-em-estado-de-emergencia-devido-a-erosao-e-queda-de-casas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 140
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Resistencia2141Dias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 194,
+                            "byteStart": 174
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Macapá entra em estado de emergência devido à erosão e queda de casas\nCapital sofre com alta das marés do Rio Amazonas e fortes chuvas www.brasil247.com/brasil/macap...\n#Resistencia2141Dias\nSiga nosso Twitter / Instagram @DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasil247.com/brasil/macapa-entra-em-estado-de-emergencia-devido-a-erosao-e-queda-de-casas",
+                    "title": "Macapá entra em estado de emergência devido à erosão e queda de casas",
+                    "description": "Capital sofre com alta das marés do Rio Amazonas e fortes chuvas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreidporu6n2set3hfn3jzfjnktfe3cj4boqwllsgg53b4rvwoact2um@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-14T04:08:35.868Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3klcet5er2p2a",
+            "cid": "bafyreigjk5rnctjhi4dmt5ergc5ty5t2wiu37v7dtfqacij53t5y35jrta",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-13T12:40:12.946016Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Documento foi assinado na noite desta segunda-feira (12). Desde o sábado (10), 16 famílias já foram afetadas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaytnonjg3sqgnzt5ickoy2ojpaomyc5e56gexpiiakmvgzhs2ube"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 286097
+                        },
+                        "title": "Governo decreta emergência no Complexo do Aturiá em razão da erosão do Rio Amazonas  ",
+                        "uri": "https://g1.globo.com/ap/amapa/noticia/2024/02/13/governo-decreta-emergencia-no-complexo-do-aturia-em-razao-da-erosao-do-rio-amazonas.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo decreta emergência no Complexo do Aturiá em razão da erosão do Rio Amazonas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ap/amapa/noticia/2024/02/13/governo-decreta-emergencia-no-complexo-do-aturia-em-razao-da-erosao-do-rio-amazonas.ghtml",
+                    "title": "Governo decreta emergência no Complexo do Aturiá em razão da erosão do Rio Amazonas  ",
+                    "description": "Documento foi assinado na noite desta segunda-feira (12). Desde o sábado (10), 16 famílias já foram afetadas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiaytnonjg3sqgnzt5ickoy2ojpaomyc5e56gexpiiakmvgzhs2ube@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-13T12:40:12.946Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ki6vf6grpv2y",
+            "cid": "bafyreiftiienrrxjyu3ixvobvuplc6em2yeyvjgldcauvczpjduye3kxwa",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-04T23:10:23.774056Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Equipes da Defesa Civil Municipal estão no bairro Airton Sena, na região da Baixada da Sobral, fazendo análise da situação. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidp5itbi7gnqsvfarvfekfgkl4bpbx6wkchlkziykjsfwikg24it4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 164134
+                        },
+                        "title": "Erosão avança em bairro de Rio Branco após chuva acima do esperado ",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2024/01/04/erosao-avanca-em-bairro-de-rio-branco-apos-chuva-acima-do-esperado.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Erosão avança em bairro de Rio Branco após chuva acima do esperado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2024/01/04/erosao-avanca-em-bairro-de-rio-branco-apos-chuva-acima-do-esperado.ghtml",
+                    "title": "Erosão avança em bairro de Rio Branco após chuva acima do esperado ",
+                    "description": "Equipes da Defesa Civil Municipal estão no bairro Airton Sena, na região da Baixada da Sobral, fazendo análise da situação. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreidp5itbi7gnqsvfarvfekfgkl4bpbx6wkchlkziykjsfwikg24it4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-04T23:10:23.774Z",
+            "labels": []
+        }
+    ]
+}

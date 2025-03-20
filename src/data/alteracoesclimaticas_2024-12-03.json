@@ -1,0 +1,81 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:5z4n375hwr2zqsyydcckwmft/app.bsky.feed.post/3kmnh7hkeds2t",
+            "cid": "bafyreiea5yvrq2qpdejqcowzwk625zcdqpfm72u7mc3x4geylhtamqhdn4",
+            "author": {
+                "did": "did:plc:5z4n375hwr2zqsyydcckwmft",
+                "handle": "healthnewspt.bsky.social",
+                "displayName": "HealthNews.pt",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5z4n375hwr2zqsyydcckwmft/bafkreigv4hjd7kmpzdnprmthf6ow2knt62tcmipbd7bvhzescmmfyo3kjm@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-05T08:22:34.259Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-01T15:47:22.914Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O secretário-geral do PS acusou esta sexta-feira a Aliança Democrática (AD) de ter entre os seus responsáveis negacionistas das alterações climáticas e de representar um projeto de regresso ao passado...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif2ntd4n2sp7cbawsdhzikjjp4c24fv43ytejjmznlgnxjjwnbkky"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 833689
+                        },
+                        "title": "Pedro Nuno Santos acusa AD de ter negacionistas climáticos e de representar divisão",
+                        "uri": "https://healthnews.pt/2024/03/01/pedro-nuno-santos-acusa-ad-de-ter-negacionistas-climaticos-e-de-representar-divisao/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "healthnews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 255,
+                            "byteStart": 244
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "alteraçõesclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 256
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O secretário-geral do PS acusou esta sexta-feira a Aliança Democrática (AD) de ter entre os seus responsáveis negacionistas das alterações climáticas e de representar um projeto de regresso ao passado e de divisão entre os portugueses.\n#healthnews #alteraçõesclimáticas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://healthnews.pt/2024/03/01/pedro-nuno-santos-acusa-ad-de-ter-negacionistas-climaticos-e-de-representar-divisao/",
+                    "title": "Pedro Nuno Santos acusa AD de ter negacionistas climáticos e de representar divisão",
+                    "description": "O secretário-geral do PS acusou esta sexta-feira a Aliança Democrática (AD) de ter entre os seus responsáveis negacionistas das alterações climáticas e de representar um projeto de regresso ao passado...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5z4n375hwr2zqsyydcckwmft/bafkreif2ntd4n2sp7cbawsdhzikjjp4c24fv43ytejjmznlgnxjjwnbkky@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-01T15:47:22.914Z",
+            "labels": []
+        }
+    ]
+}

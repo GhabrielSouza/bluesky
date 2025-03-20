@@ -1,0 +1,159 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:z6iekcrechcjx6q26s5uahgn/app.bsky.feed.post/3kq62ivl4hy2e",
+            "cid": "bafyreidldqnnsko44j77jyxy2jhba73tumjv24lpju5xg23krk7ksi6izu",
+            "author": {
+                "did": "did:plc:z6iekcrechcjx6q26s5uahgn",
+                "handle": "helorib.bsky.social",
+                "displayName": "Heloisa Ribeiro ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z6iekcrechcjx6q26s5uahgn/bafkreidso2u46yjfodhvfoaqrdndkwtjx3twr24y6z55pzwhgej5u7vekq@jpeg",
+                "labels": [
+                    {
+                        "src": "did:plc:z6iekcrechcjx6q26s5uahgn",
+                        "uri": "at://did:plc:z6iekcrechcjx6q26s5uahgn/app.bsky.actor.profile/self",
+                        "cid": "bafyreid6wa2j4e5ktbwd6ubvxnd6gftepq7rs7nsj4hngkrckmjskwyzmy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T21:57:43.987Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T21:57:43.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T10:30:53.028Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiasmoqcqbqakjl5vujvf7wlo44xkz6ju5xvsq5ub5twqjoqlhnbe4",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3kq5xsnrcwy2y"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "IBAMA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 6
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ministériomeioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 37,
+                            "byteStart": 13
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "presidenteLula"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 53,
+                            "byteStart": 38
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bora, #IBAMA #ministériomeioambiente #presidenteLula cuidar disso"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3kq5xsnrcwy2y",
+                    "cid": "bafyreiasmoqcqbqakjl5vujvf7wlo44xkz6ju5xvsq5ub5twqjoqlhnbe4",
+                    "author": {
+                        "did": "did:plc:iqcv4a6wqbxv3fl5uuwupkpd",
+                        "handle": "fiscaldoibama.bsky.social",
+                        "displayName": "O FISCAL do IBAMA 🌎",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreia7ilqqp4xju6p5shcqhqdecui2i7gigldcja43kqbty7zvbewbsm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-20T01:09:15.984Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-04-15T09:42:39.057Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "O fazendeiro usou 25 agrotóxicos diferentes, um deles tem a substância 2,4-D - a mesma presente na composição do chamado agente laranja. Trata-se de um desfolhante químico altamente tóxico usado pelos...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiftdhpcojzlglthygtfiipa5g4pbyhchsz46m77ocemloytchq4tq"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 379845
+                                },
+                                "title": "Agente laranja: pecuarista desmata o Pantanal com substância altamente tóxica",
+                                "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 226,
+                                    "byteStart": 198
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "O AGRO é isso aqui:\n\nUm LATIFUNDIÁRIO usando produto altamente tóxico, usado na GUERRA DO VIETNÃ, pra destruir o pantanal e colocar gado no lugar.\n\nEles estão em guerra contra o meio ambiente.\ng1.globo.com/fantastico/n..."
+                    },
+                    "labels": [],
+                    "likeCount": 1534,
+                    "replyCount": 81,
+                    "repostCount": 577,
+                    "quoteCount": 56,
+                    "indexedAt": "2024-04-15T09:42:39.057Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://g1.globo.com/fantastico/noticia/2024/04/14/agente-laranja-pecuarista-desmata-o-pantanal-com-substancia-altamente-toxica.ghtml",
+                                "title": "Agente laranja: pecuarista desmata o Pantanal com substância altamente tóxica",
+                                "description": "O fazendeiro usou 25 agrotóxicos diferentes, um deles tem a substância 2,4-D - a mesma presente na composição do chamado agente laranja. Trata-se de um desfolhante químico altamente tóxico usado pelos...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreiftdhpcojzlglthygtfiipa5g4pbyhchsz46m77ocemloytchq4tq@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T10:30:53.028Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,2232 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:7s3a35d57ziiidzjgl2kc57a/app.bsky.feed.post/3lcg3v346wk2y",
+            "cid": "bafyreidw4makjacyrdrsu6ququty2gxrhvuvfdohgdjmqxj325fwevtyda",
+            "author": {
+                "did": "did:plc:7s3a35d57ziiidzjgl2kc57a",
+                "handle": "tjap-oficial.bsky.social",
+                "displayName": "Tribunal de Justiça do Amapá",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7s3a35d57ziiidzjgl2kc57a/bafkreiecdavzh4ojaaldhcacmapkqra2isoqkewsnzjcvea6a7f5eencuq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T18:14:16.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T16:50:23.062Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1920
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihr2lqotmie7rjcgsjtkmqj5mpvg4sjgzpvqgb2yevv6i476kfd5a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 405289
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1920
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihdsiuiumcsxdblmtygkrz7fhe665p265r6f2s7ii24zdgj4bryvm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 967769
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.tjap.jus.br/portal/noticias/arte-identidade-e-preservacao-cultural-fotografo-serginho-silva-fala-sobre-a-exposicao-fotografica-essencia-amazonica.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 183
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "📻📷Arte, identidade e preservação cultural: fotógrafo Serginho Silva fala sobre a Exposição Fotográfica “Essência Amazônica”\n\n📲Saiba mais em nosso Portal, acesse: www.tjap.jus.br/portal/notic..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7s3a35d57ziiidzjgl2kc57a/bafkreihr2lqotmie7rjcgsjtkmqj5mpvg4sjgzpvqgb2yevv6i476kfd5a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7s3a35d57ziiidzjgl2kc57a/bafkreihr2lqotmie7rjcgsjtkmqj5mpvg4sjgzpvqgb2yevv6i476kfd5a@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1920
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7s3a35d57ziiidzjgl2kc57a/bafkreihdsiuiumcsxdblmtygkrz7fhe665p265r6f2s7ii24zdgj4bryvm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7s3a35d57ziiidzjgl2kc57a/bafkreihdsiuiumcsxdblmtygkrz7fhe665p265r6f2s7ii24zdgj4bryvm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1920
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T16:47:49.863Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ptscozlp7cwxr5y2ljdapdhi/app.bsky.feed.post/3lcb73lggms2m",
+            "cid": "bafyreie3wzlxpm2qu2n24chpgnyvebjj2slsga67nxcesehbkrhaf5lqhi",
+            "author": {
+                "did": "did:plc:ptscozlp7cwxr5y2ljdapdhi",
+                "handle": "othiagodahora.bsky.social",
+                "displayName": "Thiago da Hora",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ptscozlp7cwxr5y2ljdapdhi/bafkreicvjjf7od4jgszdfyhy3gjlsuzvva5sz462kqtvsbj6ksyhigwl5e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T00:49:42.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T18:04:24.039Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Carbonext foi aberta bem antes de existir um mercado para ela. Pioneira, a startup já captou 200 milhões de reais",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreica7xqqanl4k64pejvigpb5atwdfwq2u2tjbhjftejyepdjel4gwm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 419787
+                        },
+                        "title": "Conheça a Carbonext, startup que visa assessorar empresas na prática de frear emissões de carbono | Exame",
+                        "uri": "https://exame.com/revista-exame/e-o-carbono-apareceu/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://exame.com/revista-exame/e-o-carbono-apareceu/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 303,
+                            "byteStart": 278
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Neutralizar sua pegada de carbono é muito mais fácil do que você imagina.\n\nA Carbonext transformou-se em referência na preservação ambiental e venda de créditos de carbono no Brasil, contando atualmente com quase 2 milhões de hectares protegidos na floresta amazônica. exame.com/revista-exam..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://exame.com/revista-exame/e-o-carbono-apareceu/",
+                    "title": "Conheça a Carbonext, startup que visa assessorar empresas na prática de frear emissões de carbono | Exame",
+                    "description": "A Carbonext foi aberta bem antes de existir um mercado para ela. Pioneira, a startup já captou 200 milhões de reais",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ptscozlp7cwxr5y2ljdapdhi/bafkreica7xqqanl4k64pejvigpb5atwdfwq2u2tjbhjftejyepdjel4gwm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T18:04:26.158Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wn2x6p6cmsyozq33enyu7dep/app.bsky.feed.post/3lb7wn5u7vc2c",
+            "cid": "bafyreid7qzhpixw3eghznm73agrhlu5kw6ftiihm52u2hzqfd62ioxn4ci",
+            "author": {
+                "did": "did:plc:wn2x6p6cmsyozq33enyu7dep",
+                "handle": "infoglobalbr.bsky.social",
+                "displayName": "InfoGlobalBR ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wn2x6p6cmsyozq33enyu7dep/bafkreia7riebyeaa7qy6oxoh4fakkszi4bit6pwly5rfgdhe4yok44et4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T09:26:27.736Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T12:35:18.732Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1200,
+                                "width": 800
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidrbbfygssln7zku4tu2gpwxyqhkqkhujygm2juymslbabewwi32y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 345434
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌳🇺🇸 Joe Biden se tornou o primeiro presidente dos EUA em exercício a visitar a floresta amazônica. \n\n❝Tenho orgulho de renovar o compromisso de proteger as florestas tropicais❞, destacou, enfatizando a luta contra as mudanças climáticas e a preservação ambiental."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wn2x6p6cmsyozq33enyu7dep/bafkreidrbbfygssln7zku4tu2gpwxyqhkqkhujygm2juymslbabewwi32y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wn2x6p6cmsyozq33enyu7dep/bafkreidrbbfygssln7zku4tu2gpwxyqhkqkhujygm2juymslbabewwi32y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1200,
+                            "width": 800
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T12:35:23.876Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i3yoikiqs2vg3xfqy4jni275/app.bsky.feed.post/3laomrjsow22q",
+            "cid": "bafyreibt7tuhnrv4xmqzd27lti7gt2uhn7qicf7omwei5skhlkyo2pvm2q",
+            "author": {
+                "did": "did:plc:i3yoikiqs2vg3xfqy4jni275",
+                "handle": "ecycle.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreihu4qpzq7keaploezjvnxhe6mk26j2c7nv6zzugxyaxgb7szvcsoa@jpeg",
+                "labels": [],
+                "createdAt": "2024-07-18T19:15:05.373Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-11T15:23:32.529Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Apesar dos avanços, o país ainda enfrenta desafios significativos para cumprir suas metas climáticas e reduzir a dependência da preservação da floresta amazônica.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibx2or2ov5gfof4k42iw62ropqyursjmx4gmcvpiwfk7m6i62piae"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 654201
+                        },
+                        "title": "Redução no desmatamento da Amazônia impulsiona queda de 12% nas emissões de gases de efeito estufa no Brasil - eCycle",
+                        "uri": "https://www.ecycle.com.br/reducao-no-desmatamento-da-amazonia-impulsiona-queda-de-12-nas-emissoes-de-gases-de-efeito-estufa-no-brasil/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Apesar dos avanços, o país ainda enfrenta desafios significativos para cumprir suas metas climáticas e reduzir a dependência da preservação da floresta amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ecycle.com.br/reducao-no-desmatamento-da-amazonia-impulsiona-queda-de-12-nas-emissoes-de-gases-de-efeito-estufa-no-brasil/",
+                    "title": "Redução no desmatamento da Amazônia impulsiona queda de 12% nas emissões de gases de efeito estufa no Brasil - eCycle",
+                    "description": "Apesar dos avanços, o país ainda enfrenta desafios significativos para cumprir suas metas climáticas e reduzir a dependência da preservação da floresta amazônica.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreibx2or2ov5gfof4k42iw62ropqyursjmx4gmcvpiwfk7m6i62piae@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-11T15:22:32.492Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jm565etav7qdy2pss4hfatne/app.bsky.feed.post/3lalsc2ivpk2v",
+            "cid": "bafyreicndhwupihufcmshni4i5fss6b7ddifmz7u5bdc23eze5g6ti7zle",
+            "author": {
+                "did": "did:plc:jm565etav7qdy2pss4hfatne",
+                "handle": "secom.gov.br",
+                "displayName": "SecomVc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreic3o5ikszgjckcgntyxpnkh7hxnwqbnw442sfu6zqmlxoltgd4uz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:29:53.922Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-10T12:24:16.372Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Imagem 1: O título “Governo e ONU lançam pacote de R$ 700 milhões para ações de preservação ambiental na Amazônia” está em destaque no topo do card. Abaixo, há uma imagem da Floresta Amazônica. No rodapé, a logomarca do Governo Federal.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 352093
+                            }
+                        },
+                        {
+                            "alt": "Imagem 2: Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Projeto Floresta+ Amazônia”, seguido de dois tópicos: (1) Recuperação de áreas degradadas; (2) Pagamento por Serviços Ambientais (PSA) - recompensa a proprietários de imóveis rurais que mantenham áreas com vegetação nativa. No rodapé, a logomarca do Governo Federal.\n",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 269977
+                            }
+                        },
+                        {
+                            "alt": "Imagem 3:  Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Fundo Amazônia”, seguido de três tópicos: (1) Ações de regularização ambiental, fundiária e assessoria técnica; (2) 70 municípios prioritários para o controle do desmatamento; (3) 30 mil famílias beneficiadas. No rodapé, a logomarca do Governo Federal.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 261881
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo Federal e Programa das Nações Unidas para o Desenvolvimento (PNUD) de mãos dadas pelo meio ambiente. A iniciativa vai fortalecer e estruturar o combate ao desmatamento e aos incêndios florestais, além de recuperar áreas degradadas em municípios da Amazônia."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifwhfgxqadqsui637pudlpakbfhfhfrahycg4q6emoovjjf6njtau@jpeg",
+                        "alt": "Imagem 1: O título “Governo e ONU lançam pacote de R$ 700 milhões para ações de preservação ambiental na Amazônia” está em destaque no topo do card. Abaixo, há uma imagem da Floresta Amazônica. No rodapé, a logomarca do Governo Federal.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifeexpkps6iueseyvzuiracfkwoe4xce3n2fpp4lcdkpbl6hpt4xu@jpeg",
+                        "alt": "Imagem 2: Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Projeto Floresta+ Amazônia”, seguido de dois tópicos: (1) Recuperação de áreas degradadas; (2) Pagamento por Serviços Ambientais (PSA) - recompensa a proprietários de imóveis rurais que mantenham áreas com vegetação nativa. No rodapé, a logomarca do Governo Federal.\n",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm565etav7qdy2pss4hfatne/bafkreifybpi3jytnkvifsviy4yngfsr7ieempvtuckdcknrvo4faxsn2ge@jpeg",
+                        "alt": "Imagem 3:  Ao fundo, a Floresta Amazônica. No centro, em um quadro branco, o título, “Fundo Amazônia”, seguido de três tópicos: (1) Ações de regularização ambiental, fundiária e assessoria técnica; (2) 70 municípios prioritários para o controle do desmatamento; (3) 30 mil famílias beneficiadas. No rodapé, a logomarca do Governo Federal.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 7,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-10T12:24:22.286Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3lahi6pdr3x2u",
+            "cid": "bafyreieiuh7scfjzm36i3p5h35a2tqndxromcy7i6evjjuheqgzukova2y",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T19:12:47.559Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 553238
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/6Q3Cg"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 310,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅O presidente dos EUA, Joe Biden, terá uma agenda em Manaus, no Amazonas, no dia 17 deste mês, onde deverá visitar a Floresta Amazônica e se reunir com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema.\n\n(Pica ele Haemagogus e Sabethes)\n\ntrk.ebc.com.br/6Q3Cg"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreiaw2tlrmp2clrv2uxdiu7zebp3w42ra2t7ro7nntffnmkyp4ygnke@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T19:12:48.483Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:26ka3nxo2ubts4jzmqhavhfw/app.bsky.feed.post/3lahdxs3b5j2z",
+            "cid": "bafyreiecqg767sasp6uzwwdcpbu5wlmnyy4omjwvrikik6h7oomuspsy5q",
+            "author": {
+                "did": "did:plc:26ka3nxo2ubts4jzmqhavhfw",
+                "handle": "riosdenoticias.bsky.social",
+                "displayName": "Portal Rios de Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreie7m35jy7ec3sdseqoqtof42wg5ba5o66tdmtnlstsbmwujrqarjy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:35:52.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T17:57:21.187Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, onde visitará a Floresta Amazônica e se reunirá com líderes locais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicy4g22xknlwy35le6hpi25xi7r3awxixip5wzdm5z3n4q5t4m3s4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 325709
+                        },
+                        "title": "Biden vai se reunir com indígenas e lideranças em visita a Manaus",
+                        "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cidades"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 322,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#cidades | 🇺🇸🤝🏼🌳 O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, no próximo dia 17/11, onde visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema. \n\nwww.riosdenoticias.com.br/biden-vai-se..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.riosdenoticias.com.br/biden-vai-se-reunir-com-indigenas-e-liderancas-em-visita-a-manaus/",
+                    "title": "Biden vai se reunir com indígenas e lideranças em visita a Manaus",
+                    "description": "O presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, onde visitará a Floresta Amazônica e se reunirá com líderes locais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:26ka3nxo2ubts4jzmqhavhfw/bafkreicy4g22xknlwy35le6hpi25xi7r3awxixip5wzdm5z3n4q5t4m3s4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T17:57:25.988Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dqmumfqvltsjwm6glhplk3bh/app.bsky.feed.post/3lah77jr6en2j",
+            "cid": "bafyreie4hie6lubhvlnrzmddx2lyqcu2isu2eyrie3nmvypevsc6idamoy",
+            "author": {
+                "did": "did:plc:dqmumfqvltsjwm6glhplk3bh",
+                "handle": "laranjeirasnews.bsky.social",
+                "displayName": "Laranjeiras.News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreiawqkt4j6gvnnjj2xspspv6qrib5cs5lltfyrlkxrbaxugxwjtvje@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T15:17:48.201Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T16:32:11.294Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 831880
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "VISITA NA VIZINHANÇA \n\n🇺🇸 O presidente dos Estados Unidos, Joe Biden, terá agenda em Manaus no dia 17/11\n\n🌱 Ele visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dqmumfqvltsjwm6glhplk3bh/bafkreidm7isysqlman4xuhia6ls56eqwsk3gnoo4wdshhikzktfwcvcmie@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T16:32:12.189Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:v2hjqyoauxc4x22ek5k5o674/app.bsky.feed.post/3lagulcvec62l",
+            "cid": "bafyreiggija4q4353dkqps2fthf2vv7thyzfh7ufa52l7s5v2ni265hp5y",
+            "author": {
+                "did": "did:plc:v2hjqyoauxc4x22ek5k5o674",
+                "handle": "cenarium.bsky.social",
+                "displayName": "Cenarium ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiectiuog7b4v5vozxfvkefmi2mvuirmmj6l53j253bkrdxcqxvjqu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:31:23.125Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T13:18:41.988Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 609,
+                                "width": 1536
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 331146
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3NY4YLZ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 316,
+                            "byteStart": 302
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🇺🇸 Presidente dos Estados Unidos, Joe Biden, terá uma agenda em Manaus, no dia 17 deste mês, onde visitará a Floresta Amazônica e se reunirá com líderes locais, indígenas e outros que trabalham na preservação e proteção do ecossistema. A informação foi divulgada pela Casa Branca. | bit.ly/3NY4YLZ"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:v2hjqyoauxc4x22ek5k5o674/bafkreiglpbnkrjkgkvv47b6tlnvoyoqxhx2fkfovenlidosy4xpziz6tvu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 609,
+                            "width": 1536
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T13:21:57.281Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sdkcqnch3m4d67e6exb5or6w/app.bsky.feed.post/3l7wfm653r22g",
+            "cid": "bafyreiaw4becfknodyyqye62oibywrs545arpnbl4vt4jtfj4kdgrdjaju",
+            "author": {
+                "did": "did:plc:sdkcqnch3m4d67e6exb5or6w",
+                "handle": "mayaracfrade.bsky.social",
+                "displayName": "Mayara C. Frade",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sdkcqnch3m4d67e6exb5or6w/bafkreiehjjlz7gl2pu5zpsup3jbxqjvog56npxywhclea33b65kibj6574@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:24:04.137Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-02T00:11:22.437Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifgkns64voryclwncvzodg44cqvvutt575ofscuwvbqcdq2s3f3x4",
+                        "uri": "at://did:plc:2adlwcq4ks4lfoxltmvf5eyw/app.bsky.feed.post/3l7w6jzs77h2f"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Qual foi o tema do seu TCC? \n\nA eficácia da proteção e preservação das águas da Amazônia sob a ótica do Tratado de Proteção Amazônica (TCC) \n\nAnálise sobre o Princípio do Não Confisco (pós-graduação)."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2adlwcq4ks4lfoxltmvf5eyw/app.bsky.feed.post/3l7w6jzs77h2f",
+                    "cid": "bafyreifgkns64voryclwncvzodg44cqvvutt575ofscuwvbqcdq2s3f3x4",
+                    "author": {
+                        "did": "did:plc:2adlwcq4ks4lfoxltmvf5eyw",
+                        "handle": "milenagomes.bsky.social",
+                        "displayName": "Milena do tjzin  🪐",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2adlwcq4ks4lfoxltmvf5eyw/bafkreiay3lrpzkudvaeo3sdnjromdwsxdzvzevhtdbvn3sbqsevoqqluqy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [
+                            {
+                                "src": "did:plc:2adlwcq4ks4lfoxltmvf5eyw",
+                                "uri": "at://did:plc:2adlwcq4ks4lfoxltmvf5eyw/app.bsky.actor.profile/self",
+                                "cid": "bafyreig2vrhm3iczxlg5d6jinrd5tidnnc7jqzx2n3rbnntx4emsnv3wfq",
+                                "val": "!no-unauthenticated",
+                                "cts": "2024-04-08T01:15:15.091Z"
+                            }
+                        ],
+                        "createdAt": "2024-04-08T01:15:12.805Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-01T22:04:54.644Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.record",
+                            "record": {
+                                "cid": "bafyreihag2ljdwifcrvjjyvnlayi3yp6hugfhga4dk56m3bvvoe5wmg7ia",
+                                "uri": "at://did:plc:etugbetr2o2sshldwbkso4ll/app.bsky.feed.post/3l7w42dp2xt2l"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Qual foi o tema do seu TCC?\n\nSalvo engano, “Liberdade de informação jornalística versus presunção de inocência: uma análise desse conflito principiológico nos veredictos do Tribunal do Júri”."
+                    },
+                    "labels": [],
+                    "likeCount": 20,
+                    "replyCount": 3,
+                    "repostCount": 0,
+                    "quoteCount": 6,
+                    "indexedAt": "2024-11-01T22:04:54.886Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.record#view",
+                            "record": {
+                                "$type": "app.bsky.embed.record#viewRecord",
+                                "uri": "at://did:plc:etugbetr2o2sshldwbkso4ll/app.bsky.feed.post/3l7w42dp2xt2l",
+                                "cid": "bafyreihag2ljdwifcrvjjyvnlayi3yp6hugfhga4dk56m3bvvoe5wmg7ia",
+                                "author": {
+                                    "did": "did:plc:etugbetr2o2sshldwbkso4ll",
+                                    "handle": "jeny.bsky.social",
+                                    "displayName": "arlequina by lady gaga",
+                                    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:etugbetr2o2sshldwbkso4ll/bafkreibyofozbyzpp4d7p64zmdeqqoaabulihdgxqyj6ap3epdglfdr6ze@jpeg",
+                                    "associated": {
+                                        "chat": {
+                                            "allowIncoming": "all"
+                                        }
+                                    },
+                                    "labels": [
+                                        {
+                                            "src": "did:plc:etugbetr2o2sshldwbkso4ll",
+                                            "uri": "at://did:plc:etugbetr2o2sshldwbkso4ll/app.bsky.actor.profile/self",
+                                            "cid": "bafyreicnrsjuho22wh3722qlcfdhcy37eusndn2xfq3ajs5jspndwmfhyu",
+                                            "val": "!no-unauthenticated",
+                                            "cts": "1970-01-01T00:00:00.000Z"
+                                        }
+                                    ],
+                                    "createdAt": "2023-05-24T00:02:35.325Z"
+                                },
+                                "value": {
+                                    "$type": "app.bsky.feed.post",
+                                    "createdAt": "2024-11-01T21:20:19.899Z",
+                                    "langs": [
+                                        "pt"
+                                    ],
+                                    "text": "Post de interação.\n\nQual foi o tema do seu TCC?\n\nO meu: descriminalização do aborto."
+                                },
+                                "labels": [],
+                                "likeCount": 37,
+                                "replyCount": 21,
+                                "repostCount": 1,
+                                "quoteCount": 17,
+                                "indexedAt": "2024-11-01T21:20:20.884Z"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 14,
+            "quoteCount": 1,
+            "indexedAt": "2024-11-02T00:11:22.684Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fscg7sppmwaflfwy6rnuczhd/app.bsky.feed.post/3l7olojr5ve23",
+            "cid": "bafyreibrszfat2obs6unvxcojpryk4u2ottpfnmvxqgg2fvsfhecj4wg2q",
+            "author": {
+                "did": "did:plc:fscg7sppmwaflfwy6rnuczhd",
+                "handle": "btmais.bsky.social",
+                "displayName": "Btmaisoficial",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fscg7sppmwaflfwy6rnuczhd/bafkreieymlhj4s5bkqu2hrx3gim7ug6la22d43az6bxnduy5kgp223fmty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:35:19.067Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-29T21:38:44.271Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 482,
+                                "width": 768
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreida563n5uyj6nb32emswjljfclg3ivhebpl5fbrxyqrwtzv243v5q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 217242
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "INCENTIVO REGIONAL\n\nOs festivais Rock in Rio e The Town abriram nesta quinta-feira, 31, inscrições para o edital “Amazônia Para Sempre”, que destinará R$ 2 milhões para projetos de preservação e valorização da Floresta Amazônica e das comunidades da região metropolitana de Belém, no Pará."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fscg7sppmwaflfwy6rnuczhd/bafkreida563n5uyj6nb32emswjljfclg3ivhebpl5fbrxyqrwtzv243v5q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fscg7sppmwaflfwy6rnuczhd/bafkreida563n5uyj6nb32emswjljfclg3ivhebpl5fbrxyqrwtzv243v5q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 482,
+                            "width": 768
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-29T21:38:44.271Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l725vgmvgc2s",
+            "cid": "bafyreiglghm4siv6a24mee3l577wao46ao3x6poiaoapeb353ownogzau4",
+            "author": {
+                "did": "did:plc:m2z2svsvien232llzw55xlwd",
+                "handle": "handle.invalid",
+                "displayName": "Plataforma CIPÓ ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m2z2svsvien232llzw55xlwd/bafkreid73xx6il35dtudbgal4jadeif2wfp3ct3kzdqzoj2fmyuwupsl4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T02:56:12.101Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T18:38:50.825Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "COP16"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 265
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 287,
+                            "byteStart": 272
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DeclaraçãoDeBelém"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 288
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "OTCA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 315,
+                            "byteStart": 310
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie5de5d3mnkzp7z7kqchkmspte6t5m4vzw6527p3xgqrlyplwtkti",
+                        "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l725tsupns2m"
+                    },
+                    "root": {
+                        "cid": "bafyreidkaeghka2sb7ew6t2cbwx3spaimynnpegbpzcapkxb7gwod7rbte",
+                        "uri": "at://did:plc:m2z2svsvien232llzw55xlwd/app.bsky.feed.post/3l725mebonf2y"
+                    }
+                },
+                "text": "A CIPÓ está acompanhando de perto a agenda de cooperação pan-amazônica e as discussões sobre a Organização do Tratado de Cooperação Amazônica (OTCA), bem como o papel da preservação da biodiversidade na implementação da Declaração de Belém 🌳.\n\n#COP16 #Biodiversidade #DeclaraçãoDeBelém #OTCA"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-21T18:38:50.825Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rzfntfne7kdtms4yrtcdm66h/app.bsky.feed.post/3l6ubxclkjx23",
+            "cid": "bafyreia3q2u42cazadkposkuce7bmce54frlel7w3rglysfuchoseuej5q",
+            "author": {
+                "did": "did:plc:rzfntfne7kdtms4yrtcdm66h",
+                "handle": "fabeoebaf.bsky.social",
+                "displayName": "Fábio Nunes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rzfntfne7kdtms4yrtcdm66h/bafkreidntia6ee3qczqkwpb22jxj4r4achjlm5mehaouele5j32scb3dcu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:16:11.679Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-19T10:35:29.278Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Não adianta nada a rede amazônica querer promover a preservação da floresta amazônica e fazer lobby a favor da BR 319"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-19T10:35:29.278Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b6vxfaivzmsegknrwkwddzve/app.bsky.feed.post/3l4zeghnjlb2w",
+            "cid": "bafyreidpuz3ugsxm7xqlr6evqlglqdckji6pg6lik5pxal4q4lk5ot6kuu",
+            "author": {
+                "did": "did:plc:b6vxfaivzmsegknrwkwddzve",
+                "handle": "mauriciojns.bsky.social",
+                "displayName": "Mauricio.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6vxfaivzmsegknrwkwddzve/bafkreias3wcixpoubrdy6h4qkkaoiz2lcwpuqnaqh6lweg27yaq7bllg5y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T21:05:22.550Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T00:12:41.689Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifbpknkd6cborpiiqbpj2jazkexd4swbeok4yh7d3e55hkvo5vwxi",
+                        "uri": "at://did:plc:b6vxfaivzmsegknrwkwddzve/app.bsky.feed.post/3l4zeg56zku2w"
+                    },
+                    "root": {
+                        "cid": "bafyreifbpknkd6cborpiiqbpj2jazkexd4swbeok4yh7d3e55hkvo5vwxi",
+                        "uri": "at://did:plc:b6vxfaivzmsegknrwkwddzve/app.bsky.feed.post/3l4zeg56zku2w"
+                    }
+                },
+                "text": "O acordo de US$ 180 milhões (R$ 982 milhões) deve levar investimentos a partir de 2025 para preservação da floresta amazônica e comunidades locais, como povos indígenas e quilombolas. O contrato é referente à venda de 12 milhões de créditos de carbono"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T00:12:41.689Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gmeskfvck4m33rmipdlvihfp/app.bsky.feed.post/3l4u2vstwkc2e",
+            "cid": "bafyreidzumgugef2m55l2zev4bicwflmwuxlcphed5imp5cxxzyh73dlhe",
+            "author": {
+                "did": "did:plc:gmeskfvck4m33rmipdlvihfp",
+                "handle": "digor77.bsky.social",
+                "displayName": "Digor 🏹🧉🧭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmeskfvck4m33rmipdlvihfp/bafkreihlupqorsb6pixu24y6f3m6ixyxfeznzih75vhuhg6pmg5cl74rhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:11:27.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T21:38:50.159Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreifx532za7fxxtfl6c6jh4kd7nl2a7dbarzely7c4jjyienxah3ycm"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 8090304
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "📱Semana do Clima em NY (2024)\n\nIsabelle Nogueira usa como exemplo a confecção d bio jóias, artesanatos e indumentárias (e vestes) p/ gerar emprego, renda, inclusão social e resistência da identidade amazônica.\n\nSUSTENTABILIDADE + CONSCIÊNCIA  & PRESERVAÇÃO AMBIENTAL + CIDADANIA + RESISTÊNCIA\n\n💙💚🌎🏹🇺🇲🇧🇷"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreifx532za7fxxtfl6c6jh4kd7nl2a7dbarzely7c4jjyienxah3ycm",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreifx532za7fxxtfl6c6jh4kd7nl2a7dbarzely7c4jjyienxah3ycm/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Agmeskfvck4m33rmipdlvihfp/bafkreifx532za7fxxtfl6c6jh4kd7nl2a7dbarzely7c4jjyienxah3ycm/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 7,
+            "likeCount": 40,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-23T21:38:50.159Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cno2p6ertsdktprzxrinlevp/app.bsky.feed.post/3l4pdrgq64h22",
+            "cid": "bafyreiexdv2ikrwprsq2e3wgoanvvjqb25e674lrv7zt4zikgmcbhxca6y",
+            "author": {
+                "did": "did:plc:cno2p6ertsdktprzxrinlevp",
+                "handle": "arumelowb.bsky.social",
+                "displayName": "Aru | WELCOME BACK HOBI☀️🧡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cno2p6ertsdktprzxrinlevp/bafkreifzefpqdqhvvtijsenlt2lqav5rhhv4ydgdwwthslvo77lopoydvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-20T16:22:18.213Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T00:34:08.620Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicciwjkwxjisinufcyw7jy4m7hz6fdh7v26tv7ozr5pchkppejmsq",
+                        "uri": "at://did:plc:mbxqdhpdgmejaocwrzrwcmw3/app.bsky.feed.post/3l4ormqigbz2v"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O cerrado ta morto já 🕊 (o meme n invalida a necessidade e a urgência da preservação da floresta amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:mbxqdhpdgmejaocwrzrwcmw3/app.bsky.feed.post/3l4ormqigbz2v",
+                    "cid": "bafyreicciwjkwxjisinufcyw7jy4m7hz6fdh7v26tv7ozr5pchkppejmsq",
+                    "author": {
+                        "did": "did:plc:mbxqdhpdgmejaocwrzrwcmw3",
+                        "handle": "bmmirrorball.bsky.social",
+                        "displayName": "Mari⁵⁵",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbxqdhpdgmejaocwrzrwcmw3/bafkreidxji7gayqihzzsnmfvyir267ksompks6cv37wuczjev7rbnvadze@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-29T21:21:38.418Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-21T19:09:33.921Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1291,
+                                        "width": 1079
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicf2nqbpwhms6axcnrfv7xcg3eaiume7h4woeae2larqnhcpqs4km"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 509444
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": ""
+                    },
+                    "labels": [],
+                    "likeCount": 1,
+                    "replyCount": 1,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-21T19:09:33.921Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbxqdhpdgmejaocwrzrwcmw3/bafkreicf2nqbpwhms6axcnrfv7xcg3eaiume7h4woeae2larqnhcpqs4km@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mbxqdhpdgmejaocwrzrwcmw3/bafkreicf2nqbpwhms6axcnrfv7xcg3eaiume7h4woeae2larqnhcpqs4km@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1291,
+                                        "width": 1079
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T00:34:08.620Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7j3udk24pn7kq6vukdysbq4i/app.bsky.feed.post/3l4m3kgs7wx2v",
+            "cid": "bafyreidzdn4yzsczizuv7dveoqazbjaqpctar3lxphfjxymfjut6jrntti",
+            "author": {
+                "did": "did:plc:7j3udk24pn7kq6vukdysbq4i",
+                "handle": "w-l-c.bsky.social",
+                "displayName": "Um Wellington qualquer",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7j3udk24pn7kq6vukdysbq4i/bafkreiaomxk6oerxp7hknsknxkuxa2gaunjqjwbqevdqz3lvutle4oerke@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T23:38:21.500Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T17:29:14.498Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihpxyls3mwjhjjv2iwlmymjtxvkkcn476whuoqlrmgxy7qprkea74",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l4kamqqcds2a"
+                    },
+                    "root": {
+                        "cid": "bafyreihpxyls3mwjhjjv2iwlmymjtxvkkcn476whuoqlrmgxy7qprkea74",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l4kamqqcds2a"
+                    }
+                },
+                "text": "Dar protagonismo politico ao clã bolsonaro e seus apoiadores é o mesmo que desejar a destruição da floresta amazônica e outras áreas de preservação.\nPenso que a transição para uma economia mais sustentável também dependerá da retirada desses assassinos de floresta da política."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T17:29:14.498Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ukfeorse7kryegei3eugfepo/app.bsky.feed.post/3l45nlrbtgf2t",
+            "cid": "bafyreicwqgkse4fa2xnssx7myc4vkgeybrrwjfrifhzplkdisucz5bmj5u",
+            "author": {
+                "did": "did:plc:ukfeorse7kryegei3eugfepo",
+                "handle": "kmendoncafilho.bsky.social",
+                "displayName": "Kleber Mendonça Filho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ukfeorse7kryegei3eugfepo/bafkreiagax3uocxu44w3udstxwbx2buecxj5zt35u3aabeubyipztnlbce@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-09T15:06:25.021Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T23:42:10.031Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "IRACEMA 50 ANOS - A 1a sessão da restauração de IRACEMA UMA TRANSA AMAZÔNICA (1974), filme de Jorge Bodanzky e Orlando Senna, irá acontecer na próxima quinta 19 de Setembro no Cinema do IMS, São Paulo. \n\nAos poucos, o acervo de cinema no país passa por restauração e ganha preservação."
+            },
+            "replyCount": 2,
+            "repostCount": 3,
+            "likeCount": 72,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-14T23:42:10.031Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s7ubxkeewul73ro6g7blzw7e/app.bsky.feed.post/3l42yrjvmi32c",
+            "cid": "bafyreigzi6m35xspsrpc5f7nhdegyeg7beg4ynvnbpjfgw55gyk5yy5nym",
+            "author": {
+                "did": "did:plc:s7ubxkeewul73ro6g7blzw7e",
+                "handle": "uaixandy.bsky.social",
+                "displayName": "Xandy ✅",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s7ubxkeewul73ro6g7blzw7e/bafkreieyg2enb6epj7pnzdhhtzfwxufgxfnojdskoqqj4hinl2ahy7ydzi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:s7ubxkeewul73ro6g7blzw7e",
+                        "uri": "at://did:plc:s7ubxkeewul73ro6g7blzw7e/app.bsky.actor.profile/self",
+                        "cid": "bafyreicym5npuusro63bgke2l23faupm6spknoqshnhrz4v3n3vb7zvaeq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T01:53:45.975Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T01:53:46.800Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T22:24:15.705Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com o tema “Uma Noite Amazônica” Joelma grava DVD em Lisboa/Portugal. O palco de orçamento duvidoso simboliza o pouco investimento do governo para preservação da Amazônia. Rainha concientizadora faz assim!"
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T22:24:15.705Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:itufnq2afbyofkqngdmnb6h5/app.bsky.feed.post/3l3xjrapvja2l",
+            "cid": "bafyreica2foybkugovsnbdrkq6i5xru352xzfc6cxmklayrmvarfpeso2y",
+            "author": {
+                "did": "did:plc:itufnq2afbyofkqngdmnb6h5",
+                "handle": "dubrownwillian.bsky.social",
+                "displayName": "WILLIAN 🅦",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:itufnq2afbyofkqngdmnb6h5/bafkreiec7x27gqq2dpj7nsavg4ivx3clp2okngcuyj4ik7tthdb7mxmyfu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T11:29:28.418Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T13:17:41.563Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SaveTheAmazon"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 270,
+                            "byteStart": 256
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PreserveNature"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 271
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": " A Floresta Amazônica é o coração verde do nosso planeta! 🌍 Sua biodiversidade e beleza são incomparáveis, e sua preservação é essencial para o equilíbrio ecológico global. Vamos proteger esse tesouro natural para as futuras gerações! 💚 #SaveTheAmazon #PreserveNature"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T13:17:41.411Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3xjozwalj22",
+            "cid": "bafyreig4rsm3wvpfrdwzszctbedbsxht24rckzocyoy4kt7n6mi5ez4ada",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T13:16:26.883Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigcyociszccbh4z4fsuubpqkbywzevzg24pcxbg4au4zcnaatsgbe",
+                        "uri": "at://did:plc:ipssbdicud4b6w24ake6qxcy/app.bsky.feed.post/3l3wduohab727"
+                    },
+                    "root": {
+                        "cid": "bafyreie5zufnmexm2hxj4rks5h54bgenefdcjshs2ppqpcc3gehbqvg4ny",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3tcvd2owk2w"
+                    }
+                },
+                "text": "Oi army! Explicamos brevemente no site da Benfeitoria e também no nosso banner de metas. O Instituto Mamirauá possui diversas ações de prevenção das queimadas, preservação da biodiversidade da floresta amazônica e suporte à população. Logo trataremos mais banner informativos sobre o trabalho deles💜"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T13:16:26.883Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eftvymvclga5nayirzrxzut4/app.bsky.feed.post/3l3vd2faqjd2d",
+            "cid": "bafyreihhvbsyxfpzzxx3aj4wlydl7yu2l7nu35dfxod5tfq64j2awcgbhu",
+            "author": {
+                "did": "did:plc:eftvymvclga5nayirzrxzut4",
+                "handle": "arilma.bsky.social",
+                "displayName": "Arilma 🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eftvymvclga5nayirzrxzut4/bafkreibi6qpbsxh2frjgyslwzk2ameunnerc7q43xgpqjl23kintb2tvv4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T23:28:18.001Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:12:12.177Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibd3hfa4dr7nm3ajyecxoiqjscsh2hci4m6wwaekueionqrsw7l5i",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3uy5oqavo2e"
+                    },
+                    "root": {
+                        "cid": "bafyreibd3hfa4dr7nm3ajyecxoiqjscsh2hci4m6wwaekueionqrsw7l5i",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3uy5oqavo2e"
+                    }
+                },
+                "text": "Inclusive, não dá pra pregar preservação ambiental e abrir uma rodovia no meio da Floresta Amazônica. Sejamos mais coerente, por favor!!!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:12:12.177Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3oissdrxi67r4y52kndg5mv2/app.bsky.feed.post/3l3qgpa6jwf2p",
+            "cid": "bafyreihatn44cokgmn56rzjvohdr4lxpxkghz5bf2gr5kps63tyfikypji",
+            "author": {
+                "did": "did:plc:3oissdrxi67r4y52kndg5mv2",
+                "handle": "engenharia360.bsky.social",
+                "displayName": "Engenharia 360",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3oissdrxi67r4y52kndg5mv2/bafkreidz7p4kia4ed4pnjfalrbnqcpdg4hfm6pzrqxr353eqw635u4eilm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T16:14:21.337Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T17:34:13.043Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Entenda qual a relação das queimadas florestais com as mudanças climáticas e o impacto disso na saúde humana.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibpa2ywys4dy5itpwrgbgi7y2ej5xed7ro5ubeclphhyyzfzo74aa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 933616
+                        },
+                        "title": "Como as queimadas florestais impactam a natureza e a saúde humana?",
+                        "uri": "https://engenharia360.com/nuvem-queimadas-florestais-causas-consequencias/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://engenharia360.com/nuvem-queimadas-florestais-causas-consequencias/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 253
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazônia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 287
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid6ksujflhqm2srzvjlvafj4i4dn2dsoje6idqpbfjti4i5x3qqrm",
+                        "uri": "at://did:plc:3oissdrxi67r4y52kndg5mv2/app.bsky.feed.post/3l3qglodyb42w"
+                    },
+                    "root": {
+                        "cid": "bafyreid6ksujflhqm2srzvjlvafj4i4dn2dsoje6idqpbfjti4i5x3qqrm",
+                        "uri": "at://did:plc:3oissdrxi67r4y52kndg5mv2/app.bsky.feed.post/3l3qglodyb42w"
+                    }
+                },
+                "text": "A floresta amazônica, por exemplo, é vital para o equilíbrio climático e a biodiversidade da Terra. Sua preservação é essencial! 👨‍👩‍👧‍👦 Além dos danos ambientais, os incêndios afetam diretamente a saúde humana. Pense nisto! engenharia360.com/nuvem-queima... #Amazônia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://engenharia360.com/nuvem-queimadas-florestais-causas-consequencias/",
+                    "title": "Como as queimadas florestais impactam a natureza e a saúde humana?",
+                    "description": "Entenda qual a relação das queimadas florestais com as mudanças climáticas e o impacto disso na saúde humana.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3oissdrxi67r4y52kndg5mv2/bafkreibpa2ywys4dy5itpwrgbgi7y2ej5xed7ro5ubeclphhyyzfzo74aa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T17:34:13.043Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ggzploiepn3yulrdqkk3w4qp/app.bsky.feed.post/3l3nwzm3qha22",
+            "cid": "bafyreifzaawiqy2e7pcdf7dkivpxprqeozcfmnhfbftwjpgpjdazqgimay",
+            "author": {
+                "did": "did:plc:ggzploiepn3yulrdqkk3w4qp",
+                "handle": "kellencris.bsky.social",
+                "displayName": "Kellen. Cristine Manaura ⭐️🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ggzploiepn3yulrdqkk3w4qp/bafkreifp7eokxxvaidol5wyeytvzrbiyzh4lcstp3zvlioyvw4fmacw4g4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T22:44:01.909Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T17:48:22.735Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1624,
+                                "width": 1283
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic7utqlfsb4m3hecwliauaoyr4wbapdbhnpl5roayshvhomzp46uy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 757257
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Amazônia de Pé !\n🆘 Floresta Amazônica \nA preservação é obrigação de todos Nós. \n\nNão mate a mata seu moço\nDeus Tupã disse que não\nDefenderemos o verde\nCom arcos e flechas\nTacapes na mãos 🎵🎵\nBoi Garantido"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ggzploiepn3yulrdqkk3w4qp/bafkreic7utqlfsb4m3hecwliauaoyr4wbapdbhnpl5roayshvhomzp46uy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ggzploiepn3yulrdqkk3w4qp/bafkreic7utqlfsb4m3hecwliauaoyr4wbapdbhnpl5roayshvhomzp46uy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1624,
+                            "width": 1283
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 27,
+            "likeCount": 76,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-08T17:48:22.735Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3jbye6uuw2t",
+            "cid": "bafyreibzgn6e3t3y6ih7psydro4boh7hgq7jpzrpfp35cc7y25x23gq2ei",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T21:21:13.367Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1081,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibtceieeq7eolf5i2a3gm4qdgv4jwspcebhtqqweu5xk7g6esdj7a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 516937
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1498,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigdqkc3ps6kks6ywwq3dajkezcuzxqtbzyw3q64rqb7cf6mhryx7e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 645256
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArmyPelaAmazônia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 23
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://benfeitoria.com/armypelaamazonia2"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 314,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Está no ar a campanha #ArmyPelaAmazônia, uma parceria do AHTP com o @institutomamiraua por uma causa urgente.\nA floresta amazônica está em chamas e precisa do seu socorro. Ajude nas ações de prevenção das queimadas e preservação da biodiversidade da Amazônia.\nDoe: 🔗 benfeitoria.com/armypelaamazonia2"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreibtceieeq7eolf5i2a3gm4qdgv4jwspcebhtqqweu5xk7g6esdj7a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreibtceieeq7eolf5i2a3gm4qdgv4jwspcebhtqqweu5xk7g6esdj7a@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1081,
+                            "width": 1081
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreigdqkc3ps6kks6ywwq3dajkezcuzxqtbzyw3q64rqb7cf6mhryx7e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreigdqkc3ps6kks6ywwq3dajkezcuzxqtbzyw3q64rqb7cf6mhryx7e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1498,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 21,
+            "repostCount": 390,
+            "likeCount": 490,
+            "quoteCount": 19,
+            "indexedAt": "2024-09-06T21:21:13.367Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cpjj5vs5wc43v55ary7v72a7/app.bsky.feed.post/3l3h2gjm5tj2o",
+            "cid": "bafyreiae3crpftjnlzekkv5jqeh3jaxoer2xc43lg45zkmbcdrjwd3wxcm",
+            "author": {
+                "did": "did:plc:cpjj5vs5wc43v55ary7v72a7",
+                "handle": "prexedes.bsky.social",
+                "displayName": "adriano",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreigcphtsybgqfrq7dtcxpn6jjx74c3uhjil4ujiump4qe5yt4jq6dm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-26T00:09:32.345Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T00:00:39.005Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 480,
+                                "width": 640
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibe74ul7r232f7hdjttg3gehzaon7j275wtpbng5wvz4rjqwofcbe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 40989
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 360,
+                                "width": 480
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiclsanhynmxlf2fwyo554s5eyxaer2iqjvzmjatxfxhhc3afknypu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 36051
+                            }
+                        }
+                    ]
+                },
+                "facets": [],
+                "langs": [
+                    "pt",
+                    "es",
+                    "ro"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifcbkolwnkq2ysvil2bwlek4m2xqb54hamhrbtxsgm33ewuseqktu",
+                        "commit": {
+                            "cid": "bafyreidc7fu3rvriuunaxvxgxdsawsx3m4ciwdllqnssozrplsgmubbajy",
+                            "rev": "3l3h2gh6bst23"
+                        },
+                        "uri": "at://did:plc:cpjj5vs5wc43v55ary7v72a7/app.bsky.feed.post/3l3h2gh64wl23",
+                        "validationStatus": "valid"
+                    },
+                    "root": {
+                        "cid": "bafyreieypudikvk3o6vkbvsnd4fri2a5ea2kx4dlpnhddv5623p4imhvee",
+                        "commit": {
+                            "cid": "bafyreia6meeaawpru3jcuxe7so5rlci7xsjvy47c4c2ugct4vbt4ozrxyu",
+                            "rev": "3l3h2g4i5ju2a"
+                        },
+                        "uri": "at://did:plc:cpjj5vs5wc43v55ary7v72a7/app.bsky.feed.post/3l3h2g4hvpu2a",
+                        "validationStatus": "valid"
+                    }
+                },
+                "text": "Tradição 1998: a escola de Campinho retornava ao Especial e trazia um enredo sobre a Floresta Amazônica. A mensagem era de preservação e a agremiação destacou os males que afetam a vida na região, como o desmatamento. Cultura e história também foram abordados.",
+                "via": "TOKIMEKI"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreibe74ul7r232f7hdjttg3gehzaon7j275wtpbng5wvz4rjqwofcbe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreibe74ul7r232f7hdjttg3gehzaon7j275wtpbng5wvz4rjqwofcbe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 480,
+                            "width": 640
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreiclsanhynmxlf2fwyo554s5eyxaer2iqjvzmjatxfxhhc3afknypu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cpjj5vs5wc43v55ary7v72a7/bafkreiclsanhynmxlf2fwyo554s5eyxaer2iqjvzmjatxfxhhc3afknypu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 360,
+                            "width": 480
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T00:00:39.005Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3pymxws3prihg3pukq4jicwj/app.bsky.feed.post/3l3g4z5rbfy24",
+            "cid": "bafyreidxmf3fafzmblg2cx2gdlrxgtzzf3d5x4c6eys5mqktbqduxp3er4",
+            "author": {
+                "did": "did:plc:3pymxws3prihg3pukq4jicwj",
+                "handle": "sintrafesc.bsky.social",
+                "displayName": "SINTRAFESC - Sindicato dos Trabalhadores no Serv Púb Federal/SC",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pymxws3prihg3pukq4jicwj/bafkreiaqromrndeqwjiw45c6mamw6cildun3ojxolxaklllcgrqygq7nni@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T14:31:55.504Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T15:31:40.541Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aproveite as séries, programas e documentários do History Channel em português. Descubra as últimas notícias, fique por dentro das efemérides e vídeos históricos mais impressionantes. Bem-vindos a um ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidl72k6njozmwdxj3hfxunc3jjjpig3dj3jj6dbywucwqrtxdqaza"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 757827
+                        },
+                        "title": "05/09 Dia da Amazônia: quando Amazonas foi elevado à categoria de Província-Estado | History Channel Brasil",
+                        "uri": "https://www.canalhistory.com.br/hoje-na-historia/0509-dia-da-amazonia-quando-amazonas-foi-elevado-categoria-de-provincia-estado"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.canalhistory.com.br/hoje-na-historia/0509-dia-da-amazonia-quando-amazonas-foi-elevado-categoria-de-provincia-estado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em 5/9/1850, o Amazonas foi elevado à categoria de Província por um decreto de D. Pedro II, desmembrando-se do Grão-Pará. O estado do Amazonas abriga grande parte da Floresta Amazônica e é fundamental para a preservação ambiental. \nwww.canalhistory.com.br/hoje-na-hist..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.canalhistory.com.br/hoje-na-historia/0509-dia-da-amazonia-quando-amazonas-foi-elevado-categoria-de-provincia-estado",
+                    "title": "05/09 Dia da Amazônia: quando Amazonas foi elevado à categoria de Província-Estado | History Channel Brasil",
+                    "description": "Aproveite as séries, programas e documentários do History Channel em português. Descubra as últimas notícias, fique por dentro das efemérides e vídeos históricos mais impressionantes. Bem-vindos a um ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3pymxws3prihg3pukq4jicwj/bafkreidl72k6njozmwdxj3hfxunc3jjjpig3dj3jj6dbywucwqrtxdqaza@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T15:14:13.146Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gmeskfvck4m33rmipdlvihfp/app.bsky.feed.post/3l3g3liymdb2x",
+            "cid": "bafyreiex77exherbz5l4vqlmbh5pi3nf6e3b543tnhtetdegckt54fkzay",
+            "author": {
+                "did": "did:plc:gmeskfvck4m33rmipdlvihfp",
+                "handle": "digor77.bsky.social",
+                "displayName": "Digor 🏹🧉🧭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmeskfvck4m33rmipdlvihfp/bafkreihlupqorsb6pixu24y6f3m6ixyxfeznzih75vhuhg6pmg5cl74rhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:11:27.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T14:48:38.605Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "🟩🟦 Dia da Amazônia\n\nRespeitar e garantir à cidadania dos Povos Indígenas, os guardiões e protetores da Florestas Amazônica,  incluindo-os socialmente, sem anular sua cultura e tradições ancestrais, e demarcar suas terras e reservas legalmente fazem parte do processo de PRESERVAÇÃO AMAZÔNICA.\n\n💚🌱🌳🦜🏹"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T14:48:38.605Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qxz2cfmcaubyfuos3lle6heh/app.bsky.feed.post/3l22lzyqkck26",
+            "cid": "bafyreihqahpo5tpf7fwgeygox53pvfetom75vcz6t7b7jxvppoivawft7u",
+            "author": {
+                "did": "did:plc:qxz2cfmcaubyfuos3lle6heh",
+                "handle": "abdi-digital.bsky.social",
+                "displayName": "Agência Brasileira de Desenvolvimento Industrial",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qxz2cfmcaubyfuos3lle6heh/bafkreigxjwurvd4whbw6tc7mmkcfirzozxkqg4zgveutk73kbtww6ane7a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-17T15:47:29.460Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-19T07:45:58.181Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaye2rxd4xpq2vapozrsdoziyv4xpus5oyeajt2zmaaiotsjs26n4",
+                        "uri": "at://did:plc:qxz2cfmcaubyfuos3lle6heh/app.bsky.feed.post/3l22lzozwu22t"
+                    },
+                    "root": {
+                        "cid": "bafyreifdvjb2ij2nxzojratat442x2lfbhiy3kmowaau7dluafocmerde4",
+                        "uri": "at://did:plc:qxz2cfmcaubyfuos3lle6heh/app.bsky.feed.post/3l22lywrbdk26"
+                    }
+                },
+                "text": "🌱 Ao promover a industrialização na região Amazônica, a ZFM integra práticas sustentáveis, apoiando iniciativas de preservação ambiental.\n💰 Com seus benefícios fiscais, a ZFM é um imã para investidores, impulsionando o crescimento econômico."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-19T07:45:58.181Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3kxvhx2jfrt2d",
+            "cid": "bafyreig5iodtjjnuthltu3hblzyqcqshcrylvj6sqlzfbu7rnaxluc7qau",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-22T19:59:02.580Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Iniciativa contabiliza R$ 3,9 bilhões para a preservação da floresta amazônica",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreignycszhgnioyqgwz6jaoyyvjhthospsi6fuxyw3di3jalqogi3na"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 803707
+                        },
+                        "title": "UE doa R$ 120 milhões para o Fundo Amazônia - 22/07/2024 - Mercado - Folha",
+                        "uri": "https://mla.bs/27977ea2"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "União Europeia doa R$ 120 milhões para o Fundo Amazônia\n\nIniciativa contabiliza R$ 3,9 bilhões para a preservação da floresta amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mla.bs/27977ea2",
+                    "title": "UE doa R$ 120 milhões para o Fundo Amazônia - 22/07/2024 - Mercado - Folha",
+                    "description": "Iniciativa contabiliza R$ 3,9 bilhões para a preservação da floresta amazônica",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreignycszhgnioyqgwz6jaoyyvjhthospsi6fuxyw3di3jalqogi3na@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-22T19:59:02.580Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3krjnkzjeog2z",
+            "cid": "bafyreigiux4rofcwtidc2dbbnjnfftijyp5fj3jmskou7unz5rg6yzt2em",
+            "author": {
+                "did": "did:plc:76e26g3uofeckavyyzyolqi7",
+                "handle": "sandra10.bsky.social",
+                "displayName": "Sandra10🇵🇸🌎🌳🐬🐢🐳🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76e26g3uofeckavyyzyolqi7/bafkreicpqqwobakfcqq56o7v2ihvh3425js6rvaeqtsr65665tfw7fibz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:76e26g3uofeckavyyzyolqi7",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.actor.profile/self",
+                        "cid": "bafyreiejxtajvojhl6pwi65bdr3gsdob47ksdedapxie5khkgnugrcxiwi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:03:23.042Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:04:02.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T18:35:42.392Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifmiu5zyaakxogdzhg5qodsf6olsj3bf5pxx3ygtjmbaq2wxn4mba",
+                        "uri": "at://did:plc:oyywe3vslgzj4z4nf2ldqokb/app.bsky.feed.post/3krjjtgkyu62h"
+                    },
+                    "root": {
+                        "cid": "bafyreife7slfsolz63jvnt6ygpbzwgo4ufgh4duovp32mtzpm2jgzv47km",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3krjb7pna3v2x"
+                    }
+                },
+                "text": "As população precisa entender a esse respeito, o que no BR é difícil pelo baixo nível educacional. Dessa forma,  isso só acontecerá ao ver as consequências gravíssimas. E a preservação da nossa floresta Amazônica, será mto mais difícil sem essa consciência da nossas culpas, penso eu."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T18:35:42.392Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3k6xmqmmuzi2f",
+            "cid": "bafyreiaiuaz6g5x7fpgqpmskyq4d4nmljaxidyikjgh23y7kvdpl3cfr3u",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-09T13:00:21.824492Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Petrobras comprou créditos equivalentes a 175 mil toneladas de gases de efeito estufa. Área é referente a 800 Maracanãs. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigh76f6zt5d2ozvhjohifyvoamoyjn5qpimsmafg2vdohysxob3dy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 112822
+                        },
+                        "title": "Projeto de preservação no AC vende créditos de carbono para preservação de 570 hectares da Floresta Amazônica",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2023/09/09/projeto-de-preservacao-no-ac-vende-creditos-de-carbono-para-preservacao-de-570-hectares-da-floresta-amazonica.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Projeto de preservação no AC vende créditos de carbono para preservação de 570 hectares da Floresta Amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2023/09/09/projeto-de-preservacao-no-ac-vende-creditos-de-carbono-para-preservacao-de-570-hectares-da-floresta-amazonica.ghtml",
+                    "title": "Projeto de preservação no AC vende créditos de carbono para preservação de 570 hectares da Floresta Amazônica",
+                    "description": "Petrobras comprou créditos equivalentes a 175 mil toneladas de gases de efeito estufa. Área é referente a 800 Maracanãs. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigh76f6zt5d2ozvhjohifyvoamoyjn5qpimsmafg2vdohysxob3dy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-09T13:00:21.824Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3k6qwpixzoy26",
+            "cid": "bafyreie7j7ipq2anyeqqsovfa5sypyflfulasy6fofdzxdignqmovq3ghm",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-06T21:10:03.429579Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Amazônia maranhense já teve mais de 70% de desmatamento nas últimas décadas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicbe36jliucdhoimk6p7ajydyolry7kttni5bsgukxevrq6bb5bci"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 153998
+                        },
+                        "title": "Maranhão enfrenta desafios para a preservação de floresta amazônica",
+                        "uri": "https://g1.globo.com/ma/maranhao/noticia/2023/09/06/maranhao-enfrenta-desafios-para-a-preservacao-de-floresta-amazonica.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Maranhão enfrenta desafios para a preservação de floresta amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ma/maranhao/noticia/2023/09/06/maranhao-enfrenta-desafios-para-a-preservacao-de-floresta-amazonica.ghtml",
+                    "title": "Maranhão enfrenta desafios para a preservação de floresta amazônica",
+                    "description": "Amazônia maranhense já teve mais de 70% de desmatamento nas últimas décadas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicbe36jliucdhoimk6p7ajydyolry7kttni5bsgukxevrq6bb5bci@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-06T21:10:03.429Z",
+            "labels": []
+        }
+    ]
+}

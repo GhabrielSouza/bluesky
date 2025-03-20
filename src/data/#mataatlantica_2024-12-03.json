@@ -1,0 +1,3252 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:jh5vjb2gkvhnuczsqc35kxu2/app.bsky.feed.post/3lcasz5i36k2z",
+            "cid": "bafyreies2wxly2hb2f53lxfhc7kcizbvapydotcbm2ynzu6trgh3cgaf3m",
+            "author": {
+                "did": "did:plc:jh5vjb2gkvhnuczsqc35kxu2",
+                "handle": "celsohonorato.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreihs7pae43on2splhrxku6hnrbie7zsls2pumknhvfppwnokeqwnoq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-18T00:10:08.909Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T14:28:17.402Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidxo2rfkfp6awgnl466nj5gtvm6hkxv7ee2sdrtbu7qqswwilxflm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 720482
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaimxodasciq66d2re5lqvyxvkos2jl6dhoy6jws3k3j3cm2ga2xe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 723449
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 40,
+                            "byteStart": 26
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 41
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 55
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ubatuba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 79,
+                            "byteStart": 71
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "flora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 86,
+                            "byteStart": 80
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cores da Mata Atlântica. #mataatlantica #meioambiente #biodiversidade #ubatuba #flora"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreidxo2rfkfp6awgnl466nj5gtvm6hkxv7ee2sdrtbu7qqswwilxflm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreidxo2rfkfp6awgnl466nj5gtvm6hkxv7ee2sdrtbu7qqswwilxflm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreiaimxodasciq66d2re5lqvyxvkos2jl6dhoy6jws3k3j3cm2ga2xe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreiaimxodasciq66d2re5lqvyxvkos2jl6dhoy6jws3k3j3cm2ga2xe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T14:28:21.234Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jh5vjb2gkvhnuczsqc35kxu2/app.bsky.feed.post/3lcasugppcc2z",
+            "cid": "bafyreigq7qe2yp6yx4kjhhxe6w3xhabeal6zrzhsh2hkp3bsfqtsdb6khi",
+            "author": {
+                "did": "did:plc:jh5vjb2gkvhnuczsqc35kxu2",
+                "handle": "celsohonorato.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreihs7pae43on2splhrxku6hnrbie7zsls2pumknhvfppwnokeqwnoq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-18T00:10:08.909Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T14:25:39.312Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibje54z5jtdgqzsyatpjvotbaesvws4abplus4osiwa6mvtbwicvq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 843842
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 40,
+                            "byteStart": 26
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 41
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "flora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 61,
+                            "byteStart": 55
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ubatuba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 62
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cores da Mata Atlântica. #mataatlantica #meioambiente #flora #ubatuba"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreibje54z5jtdgqzsyatpjvotbaesvws4abplus4osiwa6mvtbwicvq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jh5vjb2gkvhnuczsqc35kxu2/bafkreibje54z5jtdgqzsyatpjvotbaesvws4abplus4osiwa6mvtbwicvq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T14:25:43.467Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jqgt6bh6zq2cdtq4yys5sfzg/app.bsky.feed.post/3lbwsuivbkc2c",
+            "cid": "bafyreicppqg5l23pbmfar5xxd5wut75uhugyeh2tnikvq72vf2sg3nnqam",
+            "author": {
+                "did": "did:plc:jqgt6bh6zq2cdtq4yys5sfzg",
+                "handle": "jaquenichi.bsky.social",
+                "displayName": "Jaqueline Nichi",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jqgt6bh6zq2cdtq4yys5sfzg/bafkreiennnq4rev2gutlswuat27kalvglmi3ghncnzykjeb6gb5ajxj6hu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-13T19:48:43.906Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T14:59:04.198Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 534,
+                                "width": 1100
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigc424cwepakbqgudf4qnonv3qkqybd4td4a76332sihndedczu2m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 611919
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 261,
+                            "byteStart": 247
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biomabrasileiro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 262
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "políticaambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 279
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 299
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Mata Atlântica perdeu 3,7 milhões de hectares entre 1985 e 2023, uma redução de 10% da área, enquanto a agricultura cresceu 90%, duplicando sua extensão. A expansão agrícola e urbana sem considerar o bioma reflete falhas das políticas. #mataatlantica #biomabrasileiro #políticaambiental #brasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jqgt6bh6zq2cdtq4yys5sfzg/bafkreigc424cwepakbqgudf4qnonv3qkqybd4td4a76332sihndedczu2m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jqgt6bh6zq2cdtq4yys5sfzg/bafkreigc424cwepakbqgudf4qnonv3qkqybd4td4a76332sihndedczu2m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 534,
+                            "width": 1100
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T14:59:09.061Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2yyp6uzx4ahmhtxkmz2yp2w2/app.bsky.feed.post/3lak2y737y22h",
+            "cid": "bafyreidemjicuyaea3tnis3a72lxisywtz4abaaax7u5tlwqjzqfgx6opq",
+            "author": {
+                "did": "did:plc:2yyp6uzx4ahmhtxkmz2yp2w2",
+                "handle": "paulosezio.bsky.social",
+                "displayName": "Paulo Sézio ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2yyp6uzx4ahmhtxkmz2yp2w2/bafkreib5a4fofwdqr4pe3lz37kwx5uuhfk6k6ntnfoll6kboksdakmksx4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2yyp6uzx4ahmhtxkmz2yp2w2",
+                        "uri": "at://did:plc:2yyp6uzx4ahmhtxkmz2yp2w2/app.bsky.actor.profile/self",
+                        "cid": "bafyreihyibim5hkklfckwh4e4vigknzaw4vy2umui6th74ghlpz6ez5nsy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-08T00:14:32.385Z"
+                    }
+                ],
+                "createdAt": "2024-04-08T00:14:32.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T19:54:29.843Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 667
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigtu7jw72zk74qoustyvft2qyjbf7qxzhahosdd3pmzx3mvl33c6e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 766990
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:2yyp6uzx4ahmhtxkmz2yp2w2"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 40,
+                            "byteStart": 17
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "paulosezio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 53,
+                            "byteStart": 42
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "infinitudes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 66,
+                            "byteStart": 54
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 81,
+                            "byteStart": 67
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ubatuba, SP. BR.\n@paulosezio.bsky.social \n#paulosezio #infinitudes #mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2yyp6uzx4ahmhtxkmz2yp2w2/bafkreigtu7jw72zk74qoustyvft2qyjbf7qxzhahosdd3pmzx3mvl33c6e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2yyp6uzx4ahmhtxkmz2yp2w2/bafkreigtu7jw72zk74qoustyvft2qyjbf7qxzhahosdd3pmzx3mvl33c6e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 667
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T19:54:54.884Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ktraqfzoxm7uzkxkegkndbi4/app.bsky.feed.post/3l7267kqxf72a",
+            "cid": "bafyreifjrys4uhuylytfjxolze2zx7kmhl5mr6hlcqowrp6fu2mslofmmm",
+            "author": {
+                "did": "did:plc:ktraqfzoxm7uzkxkegkndbi4",
+                "handle": "maybimxk.bsky.social",
+                "displayName": "Maybí Machacalis",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ktraqfzoxm7uzkxkegkndbi4/bafkreie5wqqupzmyfkbdx6wzrzcww73tibq3hvamqemc4z5qe6tlz5j56q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-27T00:53:51.446Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T18:44:29.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 590,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreic6y25wqwarbav7bgwbgo2mpkuiyhhizrr7ebhso7dvbbq4ybwsye"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 13154449
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SOSMaxakali"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 29
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 52,
+                            "byteStart": 42
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 67,
+                            "byteStart": 53
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 68
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Assim está a aldeia agora. \n#SOSMaxakali #queimadas #mataatlantica #cerrado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreic6y25wqwarbav7bgwbgo2mpkuiyhhizrr7ebhso7dvbbq4ybwsye",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aktraqfzoxm7uzkxkegkndbi4/bafkreic6y25wqwarbav7bgwbgo2mpkuiyhhizrr7ebhso7dvbbq4ybwsye/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aktraqfzoxm7uzkxkegkndbi4/bafkreic6y25wqwarbav7bgwbgo2mpkuiyhhizrr7ebhso7dvbbq4ybwsye/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 590,
+                    "width": 1080
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 11,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-21T18:44:29.966Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:awgzkq5udufhbguie7ht6jxa/app.bsky.feed.post/3l6kv6anpce27",
+            "cid": "bafyreiebn2wrepycqhkvvyba73kcknpiqfnzdptlgtpxyogyggw4dypl5y",
+            "author": {
+                "did": "did:plc:awgzkq5udufhbguie7ht6jxa",
+                "handle": "luiza16.bsky.social",
+                "displayName": "Luiza Junqueira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:awgzkq5udufhbguie7ht6jxa/bafkreibbeqyoo64aarbninzasfmm7jw3z6fiegp76xlpzajfoo3zjcxpbq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T07:47:10.884Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T16:52:44.735Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O drone ajuda a monitorar o crescimento das plantas. As imagens aéreas georreferenciadas permitem que os indígenas acompanhem, em tempo real, cada cantinho da área.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiemlrgobmc426z2zl26wfv65lmi43i7cqwidxzsrdcwumnic4wknu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 704559
+                        },
+                        "title": "No Paraná, reflorestamento da Mata Atlântica ganha reforço humano e tecnológico",
+                        "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/10/14/no-parana-reflorestamento-da-mata-atlantica-ganha-reforco-humano-e-tecnologico.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/10/14/no-parana-reflorestamento-da-mata-atlantica-ganha-reforco-humano-e-tecnologico.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 113,
+                            "byteStart": 85
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Drone"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 122,
+                            "byteStart": 116
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Reflorestamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 139,
+                            "byteStart": 123
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 154,
+                            "byteStart": 140
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "paraná"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 163,
+                            "byteStart": 155
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "No Paraná, reflorestamento da Mata Atlântica ganha reforço humano e tecnológico  g1.globo.com/jornal-nacio...   #Drone #Reflorestamento #mataatlantica #paraná"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/jornal-nacional/noticia/2024/10/14/no-parana-reflorestamento-da-mata-atlantica-ganha-reforco-humano-e-tecnologico.ghtml",
+                    "title": "No Paraná, reflorestamento da Mata Atlântica ganha reforço humano e tecnológico",
+                    "description": "O drone ajuda a monitorar o crescimento das plantas. As imagens aéreas georreferenciadas permitem que os indígenas acompanhem, em tempo real, cada cantinho da área.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:awgzkq5udufhbguie7ht6jxa/bafkreiemlrgobmc426z2zl26wfv65lmi43i7cqwidxzsrdcwumnic4wknu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T16:52:44.735Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wjf2yqxcl4wcawaklfmitggu/app.bsky.feed.post/3l6fyz443sq2j",
+            "cid": "bafyreiezkrpqadcylakxjy4oonj6wjdtwi4chizzxseb6llr4axapsjuay",
+            "author": {
+                "did": "did:plc:wjf2yqxcl4wcawaklfmitggu",
+                "handle": "daieny.bsky.social",
+                "displayName": "Daieny Schuttz - CCXP Mesa C25",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wjf2yqxcl4wcawaklfmitggu/bafkreiae34dczv5td6f6ssdzh5daejh25sz25o7dqliyzh7czigzlf3jdu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-26T22:35:07.187Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T18:18:11.484Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 1000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiahjb6pmxz7qji3kckwzscpmi6ucctqt5dzbmqclip5sx47gk56ce"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 756663
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://daieny.com/livro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 217
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "avesdobrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 253,
+                            "byteStart": 240
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "avesbrasileiras"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 270,
+                            "byteStart": 254
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 271
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "faunabrasileira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 286
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pessoal no Instagram está fazendo o Avetuber e achei legal divulgar meu livrinho Colibris, Papagaios e Outras Ave com diversas aves da Mata Atlântica!\n\nVocê consegue comprar no site a versão física ou a digital:\ndaieny.com/livro\n🦜\n\n#avesdobrasil #avesbrasileiras #mataatlantica #faunabrasileira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wjf2yqxcl4wcawaklfmitggu/bafkreiahjb6pmxz7qji3kckwzscpmi6ucctqt5dzbmqclip5sx47gk56ce@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wjf2yqxcl4wcawaklfmitggu/bafkreiahjb6pmxz7qji3kckwzscpmi6ucctqt5dzbmqclip5sx47gk56ce@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 1000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T18:18:11.211Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rcwopuwz2c7nirpylivghsbb/app.bsky.feed.post/3l6a52d5ux222",
+            "cid": "bafyreiex7nmfrduikqnyjsndts7rif2c6dr2twb6scdaaszmykqm2nzbly",
+            "author": {
+                "did": "did:plc:rcwopuwz2c7nirpylivghsbb",
+                "handle": "brigidaduarte.bsky.social",
+                "displayName": "",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T11:18:04.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T10:14:26.469Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 576
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieukwrrf4c6sbaxq5yqsg25ol2whxphozypft7rntslsbgxew32cm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 335687
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArrudeiaESA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 37,
+                            "byteStart": 25
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DesmatamentoZero"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 38
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MataAtlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.leiaja.com/noticias/2024/10/10/ativista-protesta-contra-a-construcao-da-escola-de-sargentos/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 101,
+                            "byteStart": 71
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Heróis não usam capa! \n#ArrudeiaESA #DesmatamentoZero #MataAtlantica\nwww.leiaja.com/noticias/202..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rcwopuwz2c7nirpylivghsbb/bafkreieukwrrf4c6sbaxq5yqsg25ol2whxphozypft7rntslsbgxew32cm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rcwopuwz2c7nirpylivghsbb/bafkreieukwrrf4c6sbaxq5yqsg25ol2whxphozypft7rntslsbgxew32cm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 576
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T10:14:26.469Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uoxsaothbg36gnsuavqxxnqo/app.bsky.feed.post/3l5hh6bvc7g2u",
+            "cid": "bafyreid2qwrddokjlgjrrxmcagakfls2phve7xhoo5jtllatl6gd2t7eoa",
+            "author": {
+                "did": "did:plc:uoxsaothbg36gnsuavqxxnqo",
+                "handle": "sosma.bsky.social",
+                "displayName": "SOS Mata Atlântica",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uoxsaothbg36gnsuavqxxnqo/bafkreibtu72ekfntld3izqlpqxr5euca33otwgjofbaycl45l7l3dzzmxa@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-28T11:40:29.605Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T14:39:04.828Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 895,
+                                "width": 1197
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifdveyxc3xnjkjchzad5nplta3iodilsrfhywe4te3zn555yxe464"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 621352
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 895,
+                                "width": 1197
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifgcp2oncgghi2hj7ijmu3x7w2fdvrlwou44kp4zx2mvbbpm7n7lm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 730643
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "florestabiO2"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 261
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "regeneracaoambiental"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 296,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 311,
+                            "byteStart": 297
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "De 2020 a 2024, nossa missão de sustentabilidade nos levou à regeneração ambiental! 🌳\n\nEm parceria com @sosmataatlantica e empresas como @mitsubishimotorsbr e @canamoffroadbrasil, plantamos mais de 80 mil árvores nativas, recuperando 50 hectares! 💚\n\n#florestabiO2 #regeneracaoambiental #mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uoxsaothbg36gnsuavqxxnqo/bafkreifdveyxc3xnjkjchzad5nplta3iodilsrfhywe4te3zn555yxe464@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uoxsaothbg36gnsuavqxxnqo/bafkreifdveyxc3xnjkjchzad5nplta3iodilsrfhywe4te3zn555yxe464@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 895,
+                            "width": 1197
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uoxsaothbg36gnsuavqxxnqo/bafkreifgcp2oncgghi2hj7ijmu3x7w2fdvrlwou44kp4zx2mvbbpm7n7lm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uoxsaothbg36gnsuavqxxnqo/bafkreifgcp2oncgghi2hj7ijmu3x7w2fdvrlwou44kp4zx2mvbbpm7n7lm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 895,
+                            "width": 1197
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T14:39:04.828Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:avty3aleqzf66jptfctr7kk2/app.bsky.feed.post/3l52vitjplw22",
+            "cid": "bafyreigit5lef3dqdng3ugwvcv5eafpzilk3qhc5pxiblkgsrdbbnj6zme",
+            "author": {
+                "did": "did:plc:avty3aleqzf66jptfctr7kk2",
+                "handle": "labbor.bsky.social",
+                "displayName": "LABBOR",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:avty3aleqzf66jptfctr7kk2/bafkreifarp5777uxzmyogy4rzqzrekzixlo2p5ugaezqmgruhkdccyfpne@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T16:47:58.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T14:50:54.260Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1134,
+                                "width": 1134
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic7dxypjvkutj4hpdtnwd7wynlsq3u4dusoxqdqp2kmabkk4wbzke"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 262486
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Monitoramento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 31,
+                            "byteStart": 17
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Borboletas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 35
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 202,
+                            "byteStart": 188
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 218,
+                            "byteStart": 203
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "conservação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 219
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "monitoring"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 234
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "butterfly"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 246
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "lepidoptera"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 257
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "atlanticforest"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 270
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversity"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 299,
+                            "byteStart": 286
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "conservation"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 313,
+                            "byteStart": 300
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Feliz 13 anos de #Monitoramento de #Borboletas! 🥳\n\nSegue o fio 🧶 para ver 13 fotos de borboletas que já registramos no monitoramento para celebrar esse momento tão especial! 🦋\n\n#mataatlantica #biodiversidade #conservação #monitoring #butterfly #lepidoptera #atlanticforest #biodiversity #conservation"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:avty3aleqzf66jptfctr7kk2/bafkreic7dxypjvkutj4hpdtnwd7wynlsq3u4dusoxqdqp2kmabkk4wbzke@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:avty3aleqzf66jptfctr7kk2/bafkreic7dxypjvkutj4hpdtnwd7wynlsq3u4dusoxqdqp2kmabkk4wbzke@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1134,
+                            "width": 1134
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T14:50:54.260Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3l4dql7sagt2m",
+            "cid": "bafyreig3fcww4znkreh7qby4fu6f2gkyqiqc2fseo6u4lrcelbe3ghkvda",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T09:51:32.239Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 1333
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibvlbjvn54raauewfcsvt2ciotsb5i35nefcako3ctjy3lq6drhtu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 244970
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 32
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "circuitodasaguas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 64,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mantiqueira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 77,
+                            "byteStart": 65
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "suldeminas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 89,
+                            "byteStart": 78
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sanhaço do Coqueiro, ou Verde, #mataatlantica #circuitodasaguas #mantiqueira #suldeminas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibvlbjvn54raauewfcsvt2ciotsb5i35nefcako3ctjy3lq6drhtu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibvlbjvn54raauewfcsvt2ciotsb5i35nefcako3ctjy3lq6drhtu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 1333
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T09:51:32.239Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3l3xmbaso4z25",
+            "cid": "bafyreiepekas5k4thqyzl3yknjwxsafryc7zkihoqqy4wtude3o7ibs7x4",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T14:02:25.327Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 1333
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib4csybgqrbdtqofwy4uj4gyvukglp7kpnmygajybec3mzntldgsy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 214034
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 11
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ubatuba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 34,
+                            "byteStart": 26
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Saí Verde #mataatlantica #ubatuba"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreib4csybgqrbdtqofwy4uj4gyvukglp7kpnmygajybec3mzntldgsy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreib4csybgqrbdtqofwy4uj4gyvukglp7kpnmygajybec3mzntldgsy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 1333
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T14:02:25.327Z",
+            "labels": [],
+            "threadgate": {
+                "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.threadgate/3l3xmbaso4z25",
+                "cid": "bafyreib4u7fl4q5cevst72kjpt4b6r7nyj6kcibet7uoaiyofas34i4mba",
+                "record": {
+                    "$type": "app.bsky.feed.threadgate",
+                    "createdAt": "2024-09-12T14:37:36.766Z",
+                    "hiddenReplies": [],
+                    "post": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3l3xmbaso4z25"
+                },
+                "lists": []
+            }
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3l3xm3odicr2s",
+            "cid": "bafyreifwsinft6mktes7wneyn4nlbb7mmlcy5nu7i4uv7j5l5ilc3wufza",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T13:59:18.223Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 499,
+                                "width": 499
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie2y5m43xdunyadyaj5ebrn5xch4dalfzvnlddbqauq7hawld7zwy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 212795
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Trancoso"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 11
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Bahia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 27,
+                            "byteStart": 21
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 42,
+                            "byteStart": 28
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Xoró-Boi, #Trancoso #Bahia #mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreie2y5m43xdunyadyaj5ebrn5xch4dalfzvnlddbqauq7hawld7zwy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreie2y5m43xdunyadyaj5ebrn5xch4dalfzvnlddbqauq7hawld7zwy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 499,
+                            "width": 499
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T13:59:18.223Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2nea545erj7p7v3gzglrraby/app.bsky.feed.post/3l3t6cjsv2c2m",
+            "cid": "bafyreie5ifrh56p7vb5zptvg4bat5lmlb72i46gwh7cfpncmlf6yebgwiy",
+            "author": {
+                "did": "did:plc:2nea545erj7p7v3gzglrraby",
+                "handle": "realdreamimoveis.bsky.social",
+                "displayName": "Real Dream Imobiliária ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreid3otypvu4ae3xpwxtyaobvblfjc2td5fo27casyjvvxmbriase44@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-10T19:02:27.519Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T19:41:55.473Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 900
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihn2yq6mcifyydp4bnjsdkfjxlzfkzgdz75qq272mpdblqdgoilj4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 521066
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1197
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiepug3lp3kkftbxm32vd7tgfwmxijhkcgmvwgedkzxwavve4ohu7m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 543782
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1197
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicuga6fjfimohozot3qh4zxc2ujnjsplqdoafzmd4idyzwtyboawa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 871809
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 300,
+                                "width": 300
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihbzzkywzyggovxdrcwqg2wxz533efpborje2ny7lm2kfkm2cf22m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 23662
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "imobiliaria"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "imoveis"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 170,
+                            "byteStart": 162
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sitio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 177,
+                            "byteStart": 171
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chacara"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 178
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 201,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Itoupavacentral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 219,
+                            "byteStart": 203
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "blumenausc"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 231,
+                            "byteStart": 220
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "castelo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 232
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "imovelavenda"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 241
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "realdreamimobiliaria"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 276,
+                            "byteStart": 255
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "imobiliariaemblumenau"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 299,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Imagine-se morando em uma casa estilo castelo ou empreender neste espaço encantador na Itoupava Central, em Blumenau, SC.\n\nLigue: (47) 99982-0808 \n\n#imobiliaria #imoveis #sitio #chacara #mataatlantica  #Itoupavacentral #blumenausc #castelo #imovelavenda #realdreamimobiliaria #imobiliariaemblumenau"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreihn2yq6mcifyydp4bnjsdkfjxlzfkzgdz75qq272mpdblqdgoilj4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreihn2yq6mcifyydp4bnjsdkfjxlzfkzgdz75qq272mpdblqdgoilj4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 900
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreiepug3lp3kkftbxm32vd7tgfwmxijhkcgmvwgedkzxwavve4ohu7m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreiepug3lp3kkftbxm32vd7tgfwmxijhkcgmvwgedkzxwavve4ohu7m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1197
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreicuga6fjfimohozot3qh4zxc2ujnjsplqdoafzmd4idyzwtyboawa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreicuga6fjfimohozot3qh4zxc2ujnjsplqdoafzmd4idyzwtyboawa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1197
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreihbzzkywzyggovxdrcwqg2wxz533efpborje2ny7lm2kfkm2cf22m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2nea545erj7p7v3gzglrraby/bafkreihbzzkywzyggovxdrcwqg2wxz533efpborje2ny7lm2kfkm2cf22m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 300,
+                            "width": 300
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T19:41:55.473Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3l3qy3a6je22n",
+            "cid": "bafyreifor5zsazg7p2jmrnw4cv3heeo2oxj6vw3zvwxnnkt774cvsgo5au",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T22:45:09.815Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibohya47cr4drcqrdeayzulczobm7vlcrptvdgwoldbxpfvpbdgcq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 693148
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "serradoCurral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 32,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 36,
+                            "byteStart": 33
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 51,
+                            "byteStart": 37
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rolinha Diamante, #serradoCurral #bh #mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibohya47cr4drcqrdeayzulczobm7vlcrptvdgwoldbxpfvpbdgcq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibohya47cr4drcqrdeayzulczobm7vlcrptvdgwoldbxpfvpbdgcq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T22:45:09.815Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s52r7osnjkxqcgkl2hnbtw4s/app.bsky.feed.post/3l3ldcigmfv2v",
+            "cid": "bafyreiaedpgy6a64agnldrxl65tbovd5iny3kyuujjmlsycckw724omqz4",
+            "author": {
+                "did": "did:plc:s52r7osnjkxqcgkl2hnbtw4s",
+                "handle": "dogestelarnwd.bsky.social",
+                "displayName": "estela the possum 🎂🏳️‍⚧️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s52r7osnjkxqcgkl2hnbtw4s/bafkreibtxfbymqkmzrxorlo6gqqdl5d5mn4ytem4vlexqlxdodvtd3xjle@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-28T03:34:38.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T16:50:06.644Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "desenho da mata atrantica, uma floresta predominantemente verde com um rio no meio e uma cachoeira no fundo, um tamanduá no canto direito a baixo dele escrito \"mata atântica\" (sim tá errado 😭) no canto superior esquerdo tem um tucano repousando em um galho.\nacho que é isso não sei fazer descrição de imagem desculpa 😞",
+                            "aspectRatio": {
+                                "height": 584,
+                                "width": 1040
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidv6wrosmen33k7bnhebagox5bfm2eka4nclapdicyww6nl6jnsry"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 283219
+                            }
+                        },
+                        {
+                            "alt": "mesma coisa da imagem anterior, só que com as cores mais mortas, não sei pq, coisa da câmera que tirei a foto. e também tem um papel no canto direito escrito \"dog estelar nwd\" que é a minha assinatura e a ponta de uma caneta nanquim mais no canto direito",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihw3vp3vav6q2kn6vzsagomrdo5xnv3rhnfdtywvscpw4qgslg2ky"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 463125
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BRart"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 251
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "oldArt"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 258
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brazil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 273,
+                            "byteStart": 266
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataAtlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 288,
+                            "byteStart": 274
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "desenho de novembro de 2019, esse era o meu trabalho de recuperação de geografia (se não me engano) do último ano do ensino médio\no trabalho era desenhar algum bioma brasileiro, escolhi a mata atlântica \n\neu ainda gosto muito do resultado dele\n\n#BRart #oldArt #brazil #mataAtlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s52r7osnjkxqcgkl2hnbtw4s/bafkreidv6wrosmen33k7bnhebagox5bfm2eka4nclapdicyww6nl6jnsry@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:s52r7osnjkxqcgkl2hnbtw4s/bafkreidv6wrosmen33k7bnhebagox5bfm2eka4nclapdicyww6nl6jnsry@jpeg",
+                        "alt": "desenho da mata atrantica, uma floresta predominantemente verde com um rio no meio e uma cachoeira no fundo, um tamanduá no canto direito a baixo dele escrito \"mata atântica\" (sim tá errado 😭) no canto superior esquerdo tem um tucano repousando em um galho.\nacho que é isso não sei fazer descrição de imagem desculpa 😞",
+                        "aspectRatio": {
+                            "height": 584,
+                            "width": 1040
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s52r7osnjkxqcgkl2hnbtw4s/bafkreihw3vp3vav6q2kn6vzsagomrdo5xnv3rhnfdtywvscpw4qgslg2ky@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:s52r7osnjkxqcgkl2hnbtw4s/bafkreihw3vp3vav6q2kn6vzsagomrdo5xnv3rhnfdtywvscpw4qgslg2ky@jpeg",
+                        "alt": "mesma coisa da imagem anterior, só que com as cores mais mortas, não sei pq, coisa da câmera que tirei a foto. e também tem um papel no canto direito escrito \"dog estelar nwd\" que é a minha assinatura e a ponta de uma caneta nanquim mais no canto direito",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T16:50:06.644Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rg3qvghcj22xzhclezybdlvt/app.bsky.feed.post/3kthvucpgid2d",
+            "cid": "bafyreihcz2zc26abpjdrukrmklafssrvtxyqjxsuwkw3i7gghblbc757v4",
+            "author": {
+                "did": "did:plc:rg3qvghcj22xzhclezybdlvt",
+                "handle": "fernandoguida.bsky.social",
+                "displayName": "Fernando Guida ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rg3qvghcj22xzhclezybdlvt/bafkreicwzvfplgbzxn4npge5wthfpmldwuarlxywbhicmvhdhhfbkxbdty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T13:13:33.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-27T12:49:58.201Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig5xspz2pjbouoy7outgetyiagxvhlizqbpznhiyyscqso2mndbae"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 936999
+                        },
+                        "title": "FERNANDO GUIDA",
+                        "uri": "https://blogdoguida.wordpress.com"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 52,
+                            "byteStart": 38
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://blogdoguida.wordpress.com"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 81,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 257
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://blogdoguida.wordpress.com/2020/12/02/a-importancia-da-mata-atlantica-entenda-o-porque-de-proteger-este-bioma/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Este e vários outros posts tratam de #mataatlantica no blogdoguida.wordpress.com.\nBasta inserir palavras-chave no espaço p/pesquisa e vc terá mais conteúdo ainda p/melhorar seus argumentos.\nPara receber avisos de novos posts é só inscrever seu email.\n#clima\n\nblogdoguida.wordpress.com/2020/12/02/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://blogdoguida.wordpress.com",
+                    "title": "FERNANDO GUIDA",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rg3qvghcj22xzhclezybdlvt/bafkreig5xspz2pjbouoy7outgetyiagxvhlizqbpznhiyyscqso2mndbae@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-27T12:49:58.201Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3krbjhyhu2l2j",
+            "cid": "bafyreifaqbytieqdjtsalro7k6kg7lzrtoq7bjiixjv55dtl2jrloxge6m",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-29T13:02:00.405Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Sabiá do Banhado #mataatlantica",
+                            "aspectRatio": {
+                                "height": 1182,
+                                "width": 1575
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihssl4ziwo7orddicglezvoqppzgb3xbelfzuvw23dddifzfqnp4q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 196044
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 32,
+                            "byteStart": 18
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sabiá do Banhado #mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreihssl4ziwo7orddicglezvoqppzgb3xbelfzuvw23dddifzfqnp4q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreihssl4ziwo7orddicglezvoqppzgb3xbelfzuvw23dddifzfqnp4q@jpeg",
+                        "alt": "Sabiá do Banhado #mataatlantica",
+                        "aspectRatio": {
+                            "height": 1182,
+                            "width": 1575
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-29T13:02:00.405Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kr23duzvbg2r",
+            "cid": "bafyreiaqs2pkdmh53kxphzzepu6obfqyph2jbv4tu6yowyu5yplbu6v7qu",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-26T14:00:31.238Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidcv3oohynvgz5khhhvlpeswazjwkfzdjyglsmtyrdcg6fnkxaqny"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 396817
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 33,
+                            "byteStart": 19
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "avesdeminas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 34
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "natureza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 56,
+                            "byteStart": 47
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "circuitodasaguas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 74,
+                            "byteStart": 57
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Babiá do Banhado, #mataatlantica #avesdeminas #natureza #circuitodasaguas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreidcv3oohynvgz5khhhvlpeswazjwkfzdjyglsmtyrdcg6fnkxaqny@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreidcv3oohynvgz5khhhvlpeswazjwkfzdjyglsmtyrdcg6fnkxaqny@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-26T14:00:31.238Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kqxmwd3xwf2p",
+            "cid": "bafyreifadhsze2wmswgxyyy6k2ma4jkeg4cktjd3k2ljghfy3ghhigy74i",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-25T14:37:04.251Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaidia2qaz5qb65in65bjf5jwcamd4qckrild3ksd2mqjqrhtsh3y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 414168
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 33,
+                            "byteStart": 19
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "suldeminas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 45,
+                            "byteStart": 34
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "circuitodasaguas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 63,
+                            "byteStart": 46
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sabiá do Banhado, #mataatlantica #suldeminas #circuitodasaguas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiaidia2qaz5qb65in65bjf5jwcamd4qckrild3ksd2mqjqrhtsh3y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiaidia2qaz5qb65in65bjf5jwcamd4qckrild3ksd2mqjqrhtsh3y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-25T14:37:04.251Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kquuwwqhpr2k",
+            "cid": "bafyreifuwemtqddu74vtjipy5mtytje4tj3225apeqzs6mp7n5ugak6ko4",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-24T12:22:35.754Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicrcbjmuyrmqmqbuemix5ho4xoutoiirjc2dajtgwgue4mxcftb4i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 661116
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 51,
+                            "byteStart": 37
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "avesdoBrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 65,
+                            "byteStart": 52
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Araponga,  Belo Horizonte, Pampulha. #mataatlantica #avesdoBrasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreicrcbjmuyrmqmqbuemix5ho4xoutoiirjc2dajtgwgue4mxcftb4i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreicrcbjmuyrmqmqbuemix5ho4xoutoiirjc2dajtgwgue4mxcftb4i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-24T12:22:35.754Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kqodtrcrjp2m",
+            "cid": "bafyreihzyi47qow27l3qcmc4gzkcwfbdv6dzuqtiojcbqsugtmdo344q2u",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T22:00:38.975Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigcr7qsuyp3bxfqvf4cx7iasjs473ge72vpgaquakqkx2qf6o7bei"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 547542
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cambuquira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 26,
+                            "byteStart": 15
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 27
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aguasdeminas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 42
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "circuitodasaguas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 73,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "sairas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 81,
+                            "byteStart": 74
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Saíra-dourada #cambuquira #mataatlantica #aguasdeminas #circuitodasaguas #sairas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreigcr7qsuyp3bxfqvf4cx7iasjs473ge72vpgaquakqkx2qf6o7bei@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreigcr7qsuyp3bxfqvf4cx7iasjs473ge72vpgaquakqkx2qf6o7bei@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T22:00:38.812Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kqodox5nab2b",
+            "cid": "bafyreibqu3qoviblw6vwc65ueroj4gamu2y7axt63f63cgmm5vdi25fhki",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T21:57:57.277Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiemfudvwlyxm5mrcabupq5lq75r7daq4mybknrysvhcfii7tm4gey"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 486228
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SãoThomédasLetras"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 18
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 53,
+                            "byteStart": 39
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "saira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 60,
+                            "byteStart": 54
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Saíra Azul Macho #SãoThomédasLetras #mataatlantica #saira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiemfudvwlyxm5mrcabupq5lq75r7daq4mybknrysvhcfii7tm4gey@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiemfudvwlyxm5mrcabupq5lq75r7daq4mybknrysvhcfii7tm4gey@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T21:57:57.277Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kqodjwqub624",
+            "cid": "bafyreici6llaubbsoj2wxa66pdpbujb3kriotsk2ib2gzyle6rjbp5sbfi",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T21:55:09.148Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiebmnatgcmlo7xtfeinah6c22cnmdor3yhm2nuyxesm2tso5qg4vi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 338022
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SãoThomedasLetras"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 39,
+                            "byteStart": 20
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 54,
+                            "byteStart": 40
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "saira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 61,
+                            "byteStart": 55
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Saíra-Azul Fêmea, #SãoThomedasLetras #mataatlantica #saira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiebmnatgcmlo7xtfeinah6c22cnmdor3yhm2nuyxesm2tso5qg4vi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreiebmnatgcmlo7xtfeinah6c22cnmdor3yhm2nuyxesm2tso5qg4vi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T21:55:08.911Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.feed.post/3kqod5jxzfp2c",
+            "cid": "bafyreidwqa74pp6lco4uprf2rzvnbyo57aoe262ufwrcpmzb4stvvferji",
+            "author": {
+                "did": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                "handle": "sergiogogo.bsky.social",
+                "displayName": "Natureza, Aves e Pássaros ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibboaqczo2ggtz6zjcx4p7f7a67xlil2hbibv5q56regkuhvafum4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xct7vjdkbc4zzaw6nvag4hy3",
+                        "uri": "at://did:plc:xct7vjdkbc4zzaw6nvag4hy3/app.bsky.actor.profile/self",
+                        "cid": "bafyreigriyddafwnjsjvoajxcfql5iunn7x3bqbp3id4cbhzper77jtuiu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-12T13:54:28.294Z"
+                    }
+                ],
+                "createdAt": "2024-04-12T13:54:25.808Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-21T21:48:13.079Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1333,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibnevargjxyczjhoi3nk3gjnqx5hkysvfws4trumgsxfkfxtiqh7e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 361634
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ubatuba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 16
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "serradomar"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 36,
+                            "byteStart": 25
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 51,
+                            "byteStart": 37
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "saira"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 58,
+                            "byteStart": 52
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Saíra Militar, #ubatuba #serradomar #mataatlantica #saira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibnevargjxyczjhoi3nk3gjnqx5hkysvfws4trumgsxfkfxtiqh7e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xct7vjdkbc4zzaw6nvag4hy3/bafkreibnevargjxyczjhoi3nk3gjnqx5hkysvfws4trumgsxfkfxtiqh7e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1333,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-21T21:48:12.417Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gixkrfink7axa7njiqinelow/app.bsky.feed.post/3kpsdx4b2yn2x",
+            "cid": "bafyreihegxcc7dpajrdlpnzbabqljqqfde35fi4n7lb3ti7gy2yot4ka44",
+            "author": {
+                "did": "did:plc:gixkrfink7axa7njiqinelow",
+                "handle": "renatomatera.bsky.social",
+                "displayName": "Renato Matera SPFC🚩🇵🇸🇾🇪",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gixkrfink7axa7njiqinelow/bafkreigc4cz2qf5ebnm7wwp44vd4tuibeaaraxd6dklfbisbeuhtsrrwp4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T20:46:50.990Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-10T18:47:57.109Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 1000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifas7b4qxwqchl7yhbz46avgytznwvoomalkpe23gju6dg3i64clu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 758062
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://renatomatera.naturallife.photo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 259
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mataatlantica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 305,
+                            "byteStart": 291
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Resolvi mostrar um pouquinho do meu trabalho. Faço esse trabalho com duas intenções principais, conscientizar as pessoas da importância da preservação ambiental e, vender este trabalho. Minhas imagens podem virar quadros. \nPara conhecer mais, Instagram renatomatera.naturallife.photo \n#mataatlantica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gixkrfink7axa7njiqinelow/bafkreifas7b4qxwqchl7yhbz46avgytznwvoomalkpe23gju6dg3i64clu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gixkrfink7axa7njiqinelow/bafkreifas7b4qxwqchl7yhbz46avgytznwvoomalkpe23gju6dg3i64clu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 1000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-10T18:47:57.109Z",
+            "labels": []
+        }
+    ]
+}

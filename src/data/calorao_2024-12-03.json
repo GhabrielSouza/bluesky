@@ -1,0 +1,4288 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:plncmrj2eko3qxxlsipbjvdv/app.bsky.feed.post/3lch3ijssqk23",
+            "cid": "bafyreia7qvbe76f3ohuggaky3nay4sy6ikw5snl3ioqm253zybpl2nzira",
+            "author": {
+                "did": "did:plc:plncmrj2eko3qxxlsipbjvdv",
+                "handle": "kdraminna.bsky.social",
+                "displayName": "inna 🦊 | jurídico #WindDirection",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:plncmrj2eko3qxxlsipbjvdv/bafkreianpuoaq2txvb2kgmmf26you2abvu34hr2nn3kfoetn47s4lwhtpe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-05T22:51:50.245Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-04T02:16:02.018Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicubj3ii6hocgd23wwaviskronmlv272bdae4fgrwbfvrzboy2blu",
+                        "uri": "at://did:plc:ew6e3xxrwdmiqjlchgagnxnu/app.bsky.feed.post/3lch3e5p3as2f"
+                    },
+                    "root": {
+                        "cid": "bafyreide3ekod7dwpdk7lmy3oelgqxbdxgub4x4mupprcwt4kd7dkqnply",
+                        "uri": "at://did:plc:ew6e3xxrwdmiqjlchgagnxnu/app.bsky.feed.post/3lcgumgcb7s2f"
+                    }
+                },
+                "text": "hmmmm sorvete realmente é uma delícia, ainda mais nesse calorão que tá ultimamente!! amo de flocos tbm, e já que você gosta do trufadinho qualquer dia vou comprar pra experimentar"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-04T02:16:02.951Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qsswrohsd6uam4hm3bubvq2w/app.bsky.feed.post/3lcgygdcjzs24",
+            "cid": "bafyreiaq6h2fqkiaygxttpviysofle5pocprz636cqv7r5k2sb7tjbofoi",
+            "author": {
+                "did": "did:plc:qsswrohsd6uam4hm3bubvq2w",
+                "handle": "susimichels.bsky.social",
+                "displayName": "Susana Michels 🚩🍉",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qsswrohsd6uam4hm3bubvq2w/bafkreih4kxnbo4rh7bfmas7hhezhrl7dgwdifmexs3ioz5fblmiq7f5r34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T03:25:51.603Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-04T01:21:06.860Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiabz7ghn5qyrcy4bvm6x2oqthkob22wdpkwoej3xesqbiq3tl5y2m",
+                        "uri": "at://did:plc:n7re5p365cmmdnwhedde5is3/app.bsky.feed.post/3lcgkd24bu22a"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uma das poucas alegrias do brasileiro no calorão. Pra quem vive no litoral, é um dos poucos lugares acessíveis para nossas crianças brincarem no verão. É muito mau-caratismo quererem nos tirar até isso!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:n7re5p365cmmdnwhedde5is3/app.bsky.feed.post/3lcgkd24bu22a",
+                    "cid": "bafyreiabz7ghn5qyrcy4bvm6x2oqthkob22wdpkwoej3xesqbiq3tl5y2m",
+                    "author": {
+                        "did": "did:plc:n7re5p365cmmdnwhedde5is3",
+                        "handle": "senadorhumberto.bsky.social",
+                        "displayName": "Humberto Costa ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n7re5p365cmmdnwhedde5is3/bafkreigrbcw4xcgoacytuyj2puwd4dfhvduowpgsafvm2pxnw67quolmja@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-12T18:04:00.677Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-12-03T21:08:44.167Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 854,
+                                "width": 480
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifqanht36utobuvboaopx7oe6oor6tlcsibf2el35a7sncoqeslyu"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 5187425
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "A PEC das Praias é uma medida escandalosa, que avança sobre os terrenos de marinha, protegidos pela Constituição, e privatiza as praias do Brasil. Os bolsonaristas querem votá-la, nesta quarta-feira (4), na CCJ do Senado. Vamos pra cima. Temos que derrotar mais essa obra da extrema direita."
+                    },
+                    "labels": [],
+                    "likeCount": 94,
+                    "replyCount": 4,
+                    "repostCount": 28,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-12-03T21:08:46.263Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreifqanht36utobuvboaopx7oe6oor6tlcsibf2el35a7sncoqeslyu",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3An7re5p365cmmdnwhedde5is3/bafkreifqanht36utobuvboaopx7oe6oor6tlcsibf2el35a7sncoqeslyu/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3An7re5p365cmmdnwhedde5is3/bafkreifqanht36utobuvboaopx7oe6oor6tlcsibf2el35a7sncoqeslyu/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 854,
+                                "width": 480
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 13,
+            "quoteCount": 2,
+            "indexedAt": "2024-12-04T01:21:07.157Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:54a7hnqw4wjcjkonacujqbpo/app.bsky.feed.post/3lcgycr2jts2a",
+            "cid": "bafyreidfyhlqh6durqoxpff7gu5vo2okqfytb4ndu7enkjw2pmx7alome4",
+            "author": {
+                "did": "did:plc:54a7hnqw4wjcjkonacujqbpo",
+                "handle": "iamyourh0pe.bsky.social",
+                "displayName": "Joh⁷ no jiminutivo🎄",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:54a7hnqw4wjcjkonacujqbpo/bafkreifjxabyvk3i3cpvwaqv5h5fcsa2dvo37x2zj6f7l6lcw5m6zhkuy4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T01:27:27.122Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-04T01:19:07.060Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibfkg2wvrcouyjov4spgu4ddgryv2fxfztgf7p4vpzi4nsabaabyi",
+                        "uri": "at://did:plc:dre4jk4oddebkkm2avucnl5r/app.bsky.feed.post/3lcgyb64ol22b"
+                    },
+                    "root": {
+                        "cid": "bafyreielkojkpalzrutiesmrwqpz6zjaqdvvtdbltznvsbyy62w6uq3np4",
+                        "uri": "at://did:plc:54a7hnqw4wjcjkonacujqbpo/app.bsky.feed.post/3lcgti5vbec2r"
+                    }
+                },
+                "text": "simm, ainda mais nesse calorão"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-04T01:19:08.463Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bxc5setizjayzpd5qhmcj7rx/app.bsky.feed.post/3lcgw4rgqpc2a",
+            "cid": "bafyreicgu5e473qmo3patgafim6dg7aowipsg33cu7vt5wdlkhz2essnm4",
+            "author": {
+                "did": "did:plc:bxc5setizjayzpd5qhmcj7rx",
+                "handle": "draccole.bsky.social",
+                "displayName": "Draccole",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxc5setizjayzpd5qhmcj7rx/bafkreihqqmlyh7rqpgztflsa25ixckfkjqkablwpjk2vprdrqv3zntivii@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T00:49:38.824Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-04T00:39:58.649Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Comprei uma Melissinha cozy stripes pra usar nesse calorão, não tenho absolutamente nada parecido"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-04T00:39:59.061Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:67ymzoeku6qyixoyotw3gbwf/app.bsky.feed.post/3lcgpudhxak2y",
+            "cid": "bafyreihkqfdookk3rjr5tqj5rbe2xsjtxsmhi325oqyrex33jxqdzhqinu",
+            "author": {
+                "did": "did:plc:67ymzoeku6qyixoyotw3gbwf",
+                "handle": "x4nd.bsky.social",
+                "displayName": "{:-[~€==",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:67ymzoeku6qyixoyotw3gbwf/bafkreiehvdxi4h4fqvw7yfxg6anip4t45mskqhnmyssyxlcbhz5w6em27m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T14:54:18.315Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T22:47:53.123Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "e então né\nesse frio d onde veio?\nquem autorizou ele cruzar a fronteira?\ncá tô eu em pleno dezembrão d blusão\nfiasco puro\né a falência climatológica q nunca teve lógica ou coisa parecida nesses pagos impagáveis daki\nmenos mal q dá pra passar calorão no inverno"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T22:50:09.361Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:waozmcbbpszjiz4roseq4miv/app.bsky.feed.post/3lcfyvjm72c2y",
+            "cid": "bafyreidqwyysa6zfy6dvf2ccopqpr75y6wtplm4zbllsn3aaaoyzwiqdfi",
+            "author": {
+                "did": "did:plc:waozmcbbpszjiz4roseq4miv",
+                "handle": "ksuetomoreira.bsky.social",
+                "displayName": "Karol Sueto Moreira 🚂",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:waozmcbbpszjiz4roseq4miv/bafkreicw2turo7njxqaatmywbdi4r53dxcvezhkcq5wytb6iqrcki4lrby@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:waozmcbbpszjiz4roseq4miv",
+                        "uri": "at://did:plc:waozmcbbpszjiz4roseq4miv/app.bsky.actor.profile/self",
+                        "cid": "bafyreib47vrvjbxp3bztujnnbsdlzh77y7yd4wwzaocjod7pjyyjjh54t4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-04T17:55:00.992Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T15:56:57.046Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nesse calorão, minha fonte de cafeína fora de casa tem sido chá gelado (em casa, café gelado). Será que se eu misturar rum e um limãozinho pra tomar durante a aula dá ruim?"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T15:56:57.664Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iimuquzcnulxbdxxbbzxtty5/app.bsky.feed.post/3lcfx3leops2c",
+            "cid": "bafyreihoofvrttjlgszpjqbjnbq4d245j4v3ws2r7vnd4z6e7fag4psle4",
+            "author": {
+                "did": "did:plc:iimuquzcnulxbdxxbbzxtty5",
+                "handle": "otaviomotoca.bsky.social",
+                "displayName": "butechno do gusttavo lima ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iimuquzcnulxbdxxbbzxtty5/bafkreianv5psebzmcitp4elurznyqzni5tljb7s6bhmnuj4w5q6msl4lny@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T14:28:03.103Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T15:24:32.740Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "esse calorão só penso num front na beira da praia 🥵"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T15:24:36.864Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kdlf53qshlwf3knisz6prvn3/app.bsky.feed.post/3lcfrahne5k2w",
+            "cid": "bafyreiefsr5v7pm4p24nnhly53nkqmnx3g2j5xworxb5kqmjig2trry7km",
+            "author": {
+                "did": "did:plc:kdlf53qshlwf3knisz6prvn3",
+                "handle": "nandavelloso.bsky.social",
+                "displayName": "nanda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kdlf53qshlwf3knisz6prvn3/bafkreifae6rfoh5xfr425wckkuranckhljqbdilg2xtsdz4z4a7rymqlg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-01T15:02:50.391Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T13:39:54.151Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sorte do mês: quebrar o ventilador nesse calorão 🥲"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T13:39:57.760Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:45rx3uysax4pua2azjvzzhsf/app.bsky.feed.post/3lcfoflusgs2j",
+            "cid": "bafyreib4xtagrckspzprocy3nlyb4rtnzefwmtbqfxnpeyxvvc547uyc2u",
+            "author": {
+                "did": "did:plc:45rx3uysax4pua2azjvzzhsf",
+                "handle": "renao.bsky.social",
+                "displayName": "renão",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:45rx3uysax4pua2azjvzzhsf/bafkreihi52ojtldgnd7taqbezts72pupxlesr7u3557dtxjrgaxfcc3xc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:45rx3uysax4pua2azjvzzhsf",
+                        "uri": "at://did:plc:45rx3uysax4pua2azjvzzhsf/app.bsky.actor.profile/self",
+                        "cid": "bafyreieq7hgyjos65d7dkoxxwbtaicx3pg5addyztambgdnl7yi57eui6e",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-03-06T18:26:31.748Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T12:49:05.134Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1422,
+                                "width": 1140
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib4pizns4zgva6lvxwbfzlsursosyif4gfycvwx36cicpkkwdyxwi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 294844
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os funcionários sobrecarregados da padaria com o melhor pãozinho perto da minha casa estão sendo obrigados a usar gorro de Natal neste calorão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:45rx3uysax4pua2azjvzzhsf/bafkreib4pizns4zgva6lvxwbfzlsursosyif4gfycvwx36cicpkkwdyxwi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:45rx3uysax4pua2azjvzzhsf/bafkreib4pizns4zgva6lvxwbfzlsursosyif4gfycvwx36cicpkkwdyxwi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1422,
+                            "width": 1140
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T12:49:09.853Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5dawgcpxpe5dbfttcglpwb4a/app.bsky.feed.post/3lceq26ismc24",
+            "cid": "bafyreihatvbc7gpo2if7hmujpw4vyo7gxx4zb4vgvr6h7dn4yfym4wrbxy",
+            "author": {
+                "did": "did:plc:5dawgcpxpe5dbfttcglpwb4a",
+                "handle": "vvvbesxz.bsky.social",
+                "displayName": "᥉ᥲꪔꪄꫀᥣ ✧",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dawgcpxpe5dbfttcglpwb4a/bafkreibhin2d2eyitotsgdcwmwr6zkp2bvek3rea6t2tcdu4yfw5uuax4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T15:22:00.724Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T03:45:49.757Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Chga ate me deu um calorao aqui ai\nQuero dizer, ja tava, ficou mais so de eu falar do eichi"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T03:45:51.157Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4rrsoqgapx46ti7qmfhpy7w2/app.bsky.feed.post/3lcehqwng5s2f",
+            "cid": "bafyreiedtpbqmrgxnwnomy5yj7lelxl3jqrskl7vnnwrkjkmklhgylacoe",
+            "author": {
+                "did": "did:plc:4rrsoqgapx46ti7qmfhpy7w2",
+                "handle": "douladudaoliveira.bsky.social",
+                "displayName": "Duda Oliveira | Doula | Salto (SP)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4rrsoqgapx46ti7qmfhpy7w2/bafkreici2tnn35yajgrz6tr5pmmgykttwg7zuiodj6hc5raaakz45wfr3q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-29T23:31:37.701Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-03T01:17:29.596Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tá todo mundo sentindo esse calorão, né? INCLUSIVE O SEU BEBÊ! TIRA ESSA COBERTA DA CRIANÇA NESSE CALOR DE QUASE 40 GRAUS!!!!!!!!!\n\nQuase 2025 e as pessoas ainda acham que bebê sente frio o tempo todo e não pode pegar “friagem”. Sabe o que vai adoecer seu filho? Desidratação e queimadura."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-03T01:17:29.959Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ddfor66kwka2mvmuxlxwunoy/app.bsky.feed.post/3lcedbdtxts2n",
+            "cid": "bafyreihzro72g2d7nek7p3y3nqoutsghl5bo7fruofo7qgd7gyyhxuxrj4",
+            "author": {
+                "did": "did:plc:ddfor66kwka2mvmuxlxwunoy",
+                "handle": "guileerm.bsky.social",
+                "displayName": "guilherme",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ddfor66kwka2mvmuxlxwunoy/bafkreiensv6ndg3crzgstns7k72domg3oyscymsftdoetcgkba4f3mn72i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-27T15:36:39.260Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T23:57:11.603Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "que calorão"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T23:57:11.851Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4wm2mwyspg3qa4gpr42xp5cq/app.bsky.feed.post/3lcdtevkmkc2a",
+            "cid": "bafyreide7k5seyuaozidgun6cpfydnpz5hu56ikptxwnzmfg4br3rj6cvi",
+            "author": {
+                "did": "did:plc:4wm2mwyspg3qa4gpr42xp5cq",
+                "handle": "rosipontes25.bsky.social",
+                "displayName": "🚩O Chapéu Pensador disse:",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4wm2mwyspg3qa4gpr42xp5cq/bafkreiej6sqao62sh74up2ety6g5g3frbuqzqqduzjzct376s7pfvdi3e4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T22:34:34.712Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T19:12:50.965Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiehwza5bofdav73hkr5netxfz4lusexuvcsnapuc545ny6rlbtk2m",
+                        "uri": "at://did:plc:mrlbemtqpy4b73xhx4sjojci/app.bsky.feed.post/3lcdt3t4dkk25"
+                    },
+                    "root": {
+                        "cid": "bafyreiehwza5bofdav73hkr5netxfz4lusexuvcsnapuc545ny6rlbtk2m",
+                        "uri": "at://did:plc:mrlbemtqpy4b73xhx4sjojci/app.bsky.feed.post/3lcdt3t4dkk25"
+                    }
+                },
+                "text": "Eu também.\nAqui choveu hoje. Mas o calorão continua...afe..😒"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T19:12:51.663Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:x57a4urk54pqrrap7z6keos4/app.bsky.feed.post/3lcdp7mmsj22u",
+            "cid": "bafyreictcj3sggerld5g6e4ntkqebyhbos3oa4kdyt6wkj4xb5j2nqlwuu",
+            "author": {
+                "did": "did:plc:x57a4urk54pqrrap7z6keos4",
+                "handle": "malumartins.bsky.social",
+                "displayName": "Malu Martins",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x57a4urk54pqrrap7z6keos4/bafkreictsjaonqzc6a6d56w5w34otvij47t5yzmwqbvbjl4qmofv7zadki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T19:22:37.509Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T17:58:18.860Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigdrtuus3hq3v7d3cp24qwgbej5jkfanzpzruqmwjwlw33rro4aja",
+                        "uri": "at://did:plc:mkgwsq5vxtc565uczvy3ul43/app.bsky.feed.post/3lcdotx6u322n"
+                    },
+                    "root": {
+                        "cid": "bafyreiglri42xw4wlt4z6kovkvnksppvitfammjph4qjllbbpg4alts2km",
+                        "uri": "at://did:plc:mkgwsq5vxtc565uczvy3ul43/app.bsky.feed.post/3lcdmypfd722n"
+                    }
+                },
+                "text": "Eu tive dois períodos de 12 dias sem água. Minha cisterna tava nas últimas e com 6 cachorros em casa e o calorão do Rildy bateu desespero. Agora já tô em 2 dias de novo."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T17:58:19.653Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5dawgcpxpe5dbfttcglpwb4a/app.bsky.feed.post/3lcdmhl4goc2x",
+            "cid": "bafyreido22fefhtbssw6vgu2bncv5a44hk3n4skciqaiqu3rol74cdc2fy",
+            "author": {
+                "did": "did:plc:5dawgcpxpe5dbfttcglpwb4a",
+                "handle": "vvvbesxz.bsky.social",
+                "displayName": "᥉ᥲꪔꪄꫀᥣ ✧",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5dawgcpxpe5dbfttcglpwb4a/bafkreibhin2d2eyitotsgdcwmwr6zkp2bvek3rea6t2tcdu4yfw5uuax4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T15:22:00.724Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T17:09:04.486Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Gente do ceu, voces nao têm NOÇÃO da CHUVARADA que deu aqui\nAmigos, juro por deus, estourou uns 3 gerador aqui perto, caiu um poste do lado do bar da esquina, nao parava de dar clarao, um calorao dos inferno ainda e pqp"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T17:09:05.650Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.feed.post/3lcdmbpcvyc2f",
+            "cid": "bafyreigjxl6zmxm4hfk5omlwmg6jhs7det5qjyndcoi26r3dmophfyrwma",
+            "author": {
+                "did": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                "handle": "arioldo.bsky.social",
+                "displayName": "Arioldo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsleyugse3xa5y2cgqi75j5r/bafkreiftmbsradvzr6l46vsj3m62xtbuvmfpeds45yvqmmbvob7ygm3shm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                        "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.actor.profile/self",
+                        "cid": "bafyreigq7nypk3jpoub52ykammlekew5gepaz7qf4thdiuvuzzmm37yt74",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-05T15:34:58.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T17:05:47.566Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicl2cbiy7o4i3kpvq7l7x7vcboezu2dsnupwa66mxoehjnbnbzhpy",
+                        "uri": "at://did:plc:3jb5fx3zd5xntipfuq227oev/app.bsky.feed.post/3lcdmatizgc2h"
+                    },
+                    "root": {
+                        "cid": "bafyreidzdcuytywbuozsyq4rrgsmm4v3suyp4p4mg5r655z45finxbkq2m",
+                        "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.feed.post/3lcdkbzhgfs2q"
+                    }
+                },
+                "text": "Aqui deu uma chuva mais forte, mas pouco tempo, voltou o calorão."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T17:05:49.554Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:trufestmhbr2eqv4gudh3coy/app.bsky.feed.post/3lcdkvddv5s2p",
+            "cid": "bafyreihvh6g7hzribyppeqm46a67p6mnzxkp3cnvmtrgzdijkmbxsnlvbm",
+            "author": {
+                "did": "did:plc:trufestmhbr2eqv4gudh3coy",
+                "handle": "seraphimfer.bsky.social",
+                "displayName": "nanda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:trufestmhbr2eqv4gudh3coy/bafkreiaefzbw52hryrd3cssrtot6hqhdkqkc6ayqxxdoj5cjyxslei2bbm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T14:44:26.102Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T16:40:58.620Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "ninguém merece esse calorão"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T16:40:59.256Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gzyyjwj2wmm523uix23ej4o2/app.bsky.feed.post/3lcdhererac2n",
+            "cid": "bafyreiedyurhnlk6f2xofqoyvwtjzf2bdtz6nuges5fvymw24y2nro4qoi",
+            "author": {
+                "did": "did:plc:gzyyjwj2wmm523uix23ej4o2",
+                "handle": "andersonmouras.bsky.social",
+                "displayName": "Anderson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzyyjwj2wmm523uix23ej4o2/bafkreiayv632fkc3b7vcijmauqznpl4uy2f3a74auze7bgsg7n4c5etxay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:22:06.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T15:38:01.678Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie2chtvl2s4buh6a3jdvqueym6cpcvkqyxx3tzfieakyrilg422nm",
+                        "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lcdgcsxf2c2r"
+                    },
+                    "root": {
+                        "cid": "bafyreie2chtvl2s4buh6a3jdvqueym6cpcvkqyxx3tzfieakyrilg422nm",
+                        "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lcdgcsxf2c2r"
+                    }
+                },
+                "text": "Um sorvetinho nesse calorão vai bem hein Denizin 😋"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T15:38:03.651Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eyyh2x2nznimxvd4adcidczx/app.bsky.feed.post/3lcdghkhshk26",
+            "cid": "bafyreiftlhzupwqzg4eoz4hhi4voiiuq4s6spu4sxbauz6crixnhs7pf4m",
+            "author": {
+                "did": "did:plc:eyyh2x2nznimxvd4adcidczx",
+                "handle": "tatiguido.bsky.social",
+                "displayName": "Tati Guido ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eyyh2x2nznimxvd4adcidczx/bafkreianrs4i4lgnonotbsewloz3ooznd3hnjfyrue5et77ggjgtv556bm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T17:20:18.100Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T15:21:41.358Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Esse calorão me dá um sono, uma preguiça."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T15:21:42.959Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bcxfglgl4p6tiyloxixq5vsw/app.bsky.feed.post/3lcdb5p2ux22x",
+            "cid": "bafyreiabqoh3z5tg36mhcipaukk7kqnek6nvyml3xliqnwoixnllmgphfa",
+            "author": {
+                "did": "did:plc:bcxfglgl4p6tiyloxixq5vsw",
+                "handle": "regularoutsider.bsky.social",
+                "displayName": "fifo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bcxfglgl4p6tiyloxixq5vsw/bafkreidasqjwq3vihtqicmc3dustshwkurkum6jagxyf6prm2xow7jncce@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-16T14:42:09.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T13:46:41.925Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreih2z3ritsl5ojpxrg4n4pc54k7v3j5qv2zzqneqklhlnfuc23gq7u",
+                        "uri": "at://did:plc:eppkbcwy7lccrcble72cvqfr/app.bsky.feed.post/3lcd6kfaitn2w"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "foda que nem consigo ficar assim pois calorão da pirra"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:eppkbcwy7lccrcble72cvqfr/app.bsky.feed.post/3lcd6kfaitn2w",
+                    "cid": "bafyreih2z3ritsl5ojpxrg4n4pc54k7v3j5qv2zzqneqklhlnfuc23gq7u",
+                    "author": {
+                        "did": "did:plc:eppkbcwy7lccrcble72cvqfr",
+                        "handle": "raccoonhourly.bsky.social",
+                        "displayName": "Raccoons Hourly",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eppkbcwy7lccrcble72cvqfr/bafkreidcepgvsvif6nyjzswibbnvcsej66geagpg6zjnxd42ybsfjwekb4@jpeg",
+                        "labels": [],
+                        "createdAt": "2023-05-01T19:08:05.403Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-12-02T13:00:06.504266+00:00",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "$type": "app.bsky.embed.images#image",
+                                    "alt": "An adorable raccoon.",
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicukuofsamhlixn5nfqke23tvxkamc6u3pgxrq242tilxcaauunt4"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 143284
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "en"
+                        ],
+                        "text": ""
+                    },
+                    "labels": [],
+                    "likeCount": 104,
+                    "replyCount": 1,
+                    "repostCount": 18,
+                    "quoteCount": 5,
+                    "indexedAt": "2024-12-02T13:00:06.655Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eppkbcwy7lccrcble72cvqfr/bafkreicukuofsamhlixn5nfqke23tvxkamc6u3pgxrq242tilxcaauunt4@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eppkbcwy7lccrcble72cvqfr/bafkreicukuofsamhlixn5nfqke23tvxkamc6u3pgxrq242tilxcaauunt4@jpeg",
+                                    "alt": "An adorable raccoon."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T13:46:42.357Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bya37lyyrsh4ntwrwuhgqilh/app.bsky.feed.post/3lccydukczs22",
+            "cid": "bafyreiedgeo43ktnc3doatqpfuk3g4jvgl7yqlyojjg7bxzxgyqbumczau",
+            "author": {
+                "did": "did:plc:bya37lyyrsh4ntwrwuhgqilh",
+                "handle": "giilmaar.bsky.social",
+                "displayName": "Gilmar 👽",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bya37lyyrsh4ntwrwuhgqilh/bafkreidtj54smjx7d4qu4elst6u4eayjt3crgyuz7eun6cattr5zqrwibm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T21:50:56.529Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T11:09:05.324Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão já cedo 🔥 🔥"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T11:09:06.852Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3u2yx7gjzps34w3urwscs4uf/app.bsky.feed.post/3lcccfublyk2p",
+            "cid": "bafyreib3npa5yjiudls7yer247j3toenv2lel3ilyp42j72v7b3apskdoi",
+            "author": {
+                "did": "did:plc:3u2yx7gjzps34w3urwscs4uf",
+                "handle": "sarah-melo.bsky.social",
+                "displayName": "Sarah",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3u2yx7gjzps34w3urwscs4uf/bafkreiafn2zkrsy64umq3ukbxhuaxmfmjnhqotyikhxwtl52rwkopsdpnm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-10-01T22:25:16.610Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T04:36:29.827Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Que merda o ventilador tinha que queimar, nesse calorão pqp"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T04:36:29.952Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a2uvjbnf53w3qvcmra5b6s7f/app.bsky.feed.post/3lcc3khzzdk2m",
+            "cid": "bafyreidv3mcddwpxqjop74bacyrxr5zrvkq66lg2ab6knerr3nxj5csja4",
+            "author": {
+                "did": "did:plc:a2uvjbnf53w3qvcmra5b6s7f",
+                "handle": "fers1.bsky.social",
+                "displayName": "Fers ✨",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a2uvjbnf53w3qvcmra5b6s7f/bafkreihldw2amhvnrly3mh6cgrpmbsz2lkny5ukqcgmpizhkbdi5nijpiq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:22:19.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T02:33:48.571Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "como fazer pra dormir nesse calorao sem ar condicionado ou ventilador? abri a janela do quarto pra ver se vinha algum vento.... NADA"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T02:33:51.953Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sbhhcrasqz24ew27htbfoi3o/app.bsky.feed.post/3lcc2q2iuac2g",
+            "cid": "bafyreicybc6rkekjdww3rd5dybze4vbxrjum53yd6l53peunrgr7gknirm",
+            "author": {
+                "did": "did:plc:sbhhcrasqz24ew27htbfoi3o",
+                "handle": "natulleza.bsky.social",
+                "displayName": "zeca pagodinha",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sbhhcrasqz24ew27htbfoi3o/bafkreibyrmsdbzqb42essd4hdbnju57lrkezli3sxxkbz7qbc2s6fgdpde@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T00:11:40.379Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T02:19:01.966Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiff4f6wm2hjy45nml4wlftvb5nyrgr6bmwqzawovjwzdxxgywkpee",
+                        "uri": "at://did:plc:mcpehkcy3oeifwbxmguwcxr2/app.bsky.feed.post/3lcavipoplk2w"
+                    },
+                    "root": {
+                        "cid": "bafyreiff4f6wm2hjy45nml4wlftvb5nyrgr6bmwqzawovjwzdxxgywkpee",
+                        "uri": "at://did:plc:mcpehkcy3oeifwbxmguwcxr2/app.bsky.feed.post/3lcavipoplk2w"
+                    }
+                },
+                "text": "não tem o que faça parar o suador, como não tem o que faça parar o calorão que vem da alma. e o pior é saber que só tá começando. inferno essa vida de dependente hormonal!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T02:19:03.361Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:k2je3tks66zzox3x4yamjvsy/app.bsky.feed.post/3lcbyjr4j5c2b",
+            "cid": "bafyreigxfddmbrw6vkk52wc7z5sxyftoyaxtzhfabhuv4kzworj2wbuhli",
+            "author": {
+                "did": "did:plc:k2je3tks66zzox3x4yamjvsy",
+                "handle": "mzrilo.bsky.social",
+                "displayName": "murilø",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k2je3tks66zzox3x4yamjvsy/bafkreif7nkbz43w4ur5vzqnj2j6scvjqel5e2txec5nshxdm7hmurafkve@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T10:59:41.300Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T01:39:43.314Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "mó calorão e pra melhorar falta luz isso eh pra matar mesmo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T01:39:45.755Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zer3hzngdhrg5lbnvyhklczg/app.bsky.feed.post/3lcbxirtyek2d",
+            "cid": "bafyreicxz7eyxvbib22vsw6saqirmlgd4bkby7uuxz47zzr572j2s5d52a",
+            "author": {
+                "did": "did:plc:zer3hzngdhrg5lbnvyhklczg",
+                "handle": "catrina.bsky.social",
+                "displayName": "ᑕᗩ丅ᖇᎥᑎᗩ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zer3hzngdhrg5lbnvyhklczg/bafkreia4hg3bmvg4julvpt4tppyikhuksacmncugyyuv23jth6dox5xcca@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-08T18:27:03.683Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T01:21:16.786Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tempestade chegando. Era certo depois desse calorão dos inferno"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T01:21:17.148Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hdgxfllva7eiqnyoxhkpsmb2/app.bsky.feed.post/3lcbvt5ykbs2i",
+            "cid": "bafyreiejjmsrjlmgpjecu2ndfqcrnig4ag3kb3kemcmzqj3kzipvkk37gu",
+            "author": {
+                "did": "did:plc:hdgxfllva7eiqnyoxhkpsmb2",
+                "handle": "arielbipolar.bsky.social",
+                "displayName": "Ariel →yes or no",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hdgxfllva7eiqnyoxhkpsmb2/bafkreifrab2pfqczuu3yjjurqyzrguchtsj2z2apyadax5on3hsgarx5ja@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T23:33:49.831Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T00:51:17.580Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a cat with very big eyes is looking at the camera .",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiggjc4y4zrx4q3syx34h7yskfp6s4sje47tka7lgusbtgbw7ypdpu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 126009
+                        },
+                        "title": "a cat with very big eyes is looking at the camera .",
+                        "uri": "https://media.tenor.com/D0XEW92WiW0AAAAC/scared-cat.gif?hh=498&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibkn4nxsvkms4gr7slnzj3bvd7kqlld7s6gv466omkmvspa7jusva",
+                        "uri": "at://did:plc:igpthlytjoc5qiqo4fhucpst/app.bsky.feed.post/3lcbvf2ouik2z"
+                    },
+                    "root": {
+                        "cid": "bafyreiglebs3ecn2uzbaalexqgx7o6wnw56vrajxg4xiy4gz62l62kr4qa",
+                        "uri": "at://did:plc:hdgxfllva7eiqnyoxhkpsmb2/app.bsky.feed.post/3lcbujtpoks2i"
+                    }
+                },
+                "text": "Com o calorão insuportável de hoje era esperado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/D0XEW92WiW0AAAAC/scared-cat.gif?hh=498&ww=498",
+                    "title": "a cat with very big eyes is looking at the camera .",
+                    "description": "ALT: a cat with very big eyes is looking at the camera .",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hdgxfllva7eiqnyoxhkpsmb2/bafkreiggjc4y4zrx4q3syx34h7yskfp6s4sje47tka7lgusbtgbw7ypdpu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T00:51:19.766Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m2m64hw4p2kua3sjvgcr75rv/app.bsky.feed.post/3lcbvcxsp5c26",
+            "cid": "bafyreihj65luvyfqbpfum4i4hxjodkztcsroe75lte6dkv677xnmrtelqm",
+            "author": {
+                "did": "did:plc:m2m64hw4p2kua3sjvgcr75rv",
+                "handle": "rafabardo.bsky.social",
+                "displayName": "Zé Rafael (RafaBardo) 🏳️‍🌈🎮📺",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m2m64hw4p2kua3sjvgcr75rv/bafkreifth5f7uy7kg4lwj66netirwy3ou25g6cqm4w4kmjzy4quqehw5ly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:17:33.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T00:42:14.226Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifha3qzaoqc4etwbfjrklve3kr5jdyuzps7mjeqkcn2yu5j4njosi",
+                        "uri": "at://did:plc:krtkohiuu5q5mtl7nxo6vfjk/app.bsky.feed.post/3lcbuhpztwc2k"
+                    },
+                    "root": {
+                        "cid": "bafyreifha3qzaoqc4etwbfjrklve3kr5jdyuzps7mjeqkcn2yu5j4njosi",
+                        "uri": "at://did:plc:krtkohiuu5q5mtl7nxo6vfjk/app.bsky.feed.post/3lcbuhpztwc2k"
+                    }
+                },
+                "text": "Esse calorão não ajuda tbm né"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T00:42:21.552Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhdq6qm4ubmc6wx3ukhetsb5/app.bsky.feed.post/3lcbumbynqk2f",
+            "cid": "bafyreif3gdi66pngyiigy6osqg2fmg6rfh6orx5wbxmwzp6r3ug6fia734",
+            "author": {
+                "did": "did:plc:yhdq6qm4ubmc6wx3ukhetsb5",
+                "handle": "lazoo.bsky.social",
+                "displayName": "Lázaro®",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhdq6qm4ubmc6wx3ukhetsb5/bafkreibgbxforb5jyy6hgj6mmgzw7lpnnnzlxyn26s45wntsmyqlfihjc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T15:02:36.086Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T00:29:33.154Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibrv7lte7xzat3bxlqddpkchsag2kslm7366xyl6d5qtjwtu2tcqy",
+                        "uri": "at://did:plc:aolp5jr4afjjvjncpn2gtvm4/app.bsky.feed.post/3lcbdrk6iis2j"
+                    },
+                    "root": {
+                        "cid": "bafyreibrv7lte7xzat3bxlqddpkchsag2kslm7366xyl6d5qtjwtu2tcqy",
+                        "uri": "at://did:plc:aolp5jr4afjjvjncpn2gtvm4/app.bsky.feed.post/3lcbdrk6iis2j"
+                    }
+                },
+                "text": "nesse calorão vale a pena nas  🍒"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T00:29:35.696Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5ip2i7jra5isepbtbc77g4lt/app.bsky.feed.post/3lcbobwdcqc2p",
+            "cid": "bafyreicktfi5x3fpoyvgu7pal7jctmfzwrxlluhu4zkarwetweyhrdlfi4",
+            "author": {
+                "did": "did:plc:5ip2i7jra5isepbtbc77g4lt",
+                "handle": "gracielli92.bsky.social",
+                "displayName": "Gracielli92 ⏱️🧉😍🏹",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ip2i7jra5isepbtbc77g4lt/bafkreifcb4qkhlfkff4lrjgscush4536bi643jssisjlhjjzohecrsmz5a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T02:24:33.533Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T22:36:22.925Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 2160,
+                        "width": 3840
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreifh5iygmsrcsgjsivjuaf4v32lji2nttgtzgomt4czlvdrlzf374u"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 1539752
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temporal no ALEGRETE\ndeppis do calorão que fez hoje 😬"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreifh5iygmsrcsgjsivjuaf4v32lji2nttgtzgomt4czlvdrlzf374u",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A5ip2i7jra5isepbtbc77g4lt/bafkreifh5iygmsrcsgjsivjuaf4v32lji2nttgtzgomt4czlvdrlzf374u/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A5ip2i7jra5isepbtbc77g4lt/bafkreifh5iygmsrcsgjsivjuaf4v32lji2nttgtzgomt4czlvdrlzf374u/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 2160,
+                    "width": 3840
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T22:33:14.261Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2sci5krxcdisvdstwoolxwdj/app.bsky.feed.post/3lcbg4xncak2f",
+            "cid": "bafyreigy7csflihlyolxbx473of7ak4stiipik3owamqg56mt5cbrmc3jq",
+            "author": {
+                "did": "did:plc:2sci5krxcdisvdstwoolxwdj",
+                "handle": "willianckto.bsky.social",
+                "displayName": "Fã do mike tomlin 🏈",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2sci5krxcdisvdstwoolxwdj/bafkreiborbb54h2c2ikqm7uv67wtnj56pqs4zbj42uckoyilzh5hd43klm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-19T12:50:36.488Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T20:10:26.595Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão da porra"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T20:10:26.959Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w4vt6amp3bzr32xmssyzxk4e/app.bsky.feed.post/3lcbfwx5sq22m",
+            "cid": "bafyreiblgrbmnybjalgcgjrxji5ehjind243uvmh3w6azfh4tf75vcz7a4",
+            "author": {
+                "did": "did:plc:w4vt6amp3bzr32xmssyzxk4e",
+                "handle": "tales-costa.bsky.social",
+                "displayName": "Bacon-Habanero",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w4vt6amp3bzr32xmssyzxk4e/bafkreicp6r3gjhfhzawov75yeeffsft2dkisab7lv4ampcvulmdjyqhewy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T13:50:48.723Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T20:07:04.761Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão 🔥🔥"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T20:07:05.049Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g2uz6gloq4ab3p7x6qmaj2ec/app.bsky.feed.post/3lcbcln4avs2t",
+            "cid": "bafyreiamdgvbn3yvt2lqktw3jod6fotwdrpccsuj7yuktweanmwwurn6s4",
+            "author": {
+                "did": "did:plc:g2uz6gloq4ab3p7x6qmaj2ec",
+                "handle": "caipirogotica.bsky.social",
+                "displayName": "Panda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2uz6gloq4ab3p7x6qmaj2ec/bafkreigoamsi6rbhxvqendzkhcu2oii2n4d5jav6wk2zulmcyiufl4zmtu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:g2uz6gloq4ab3p7x6qmaj2ec",
+                        "uri": "at://did:plc:g2uz6gloq4ab3p7x6qmaj2ec/app.bsky.actor.profile/self",
+                        "cid": "bafyreibgqy5xcgzxbe7jl4z77enveyx3rtzi2p43k5pa52ospq3slo53cq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-17T15:58:43.431Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T19:07:03.899Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "calorão do caralho derrotou feio o pozinho antiolesidade da etude house \n\n(ou, talvez, tenh tirado demais por medo de esquecer de tirar o excesso e parecer que tô chegando cheirada pra trabalhar)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T19:07:05.052Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wnvlhorpboienet6ziwvi3rm/app.bsky.feed.post/3lcbbsevtas2w",
+            "cid": "bafyreicsrmlhurcr5nhgvy72w4eow5yv7bavrhj2trjspe7ls7rxllikiy",
+            "author": {
+                "did": "did:plc:wnvlhorpboienet6ziwvi3rm",
+                "handle": "gabifranco.bsky.social",
+                "displayName": "GabiFranco",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wnvlhorpboienet6ziwvi3rm/bafkreibjsqqveas5vu73znjyjtl4qrf2augivwdywiwabgqmydpizkxr2e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-13T00:03:29.560Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T18:52:56.432Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 723,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicexaz56bawc2ebcces24rba7goetjlcq3df6gqzqiol7vyerlxdi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 161305
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom pra refrescar nesse calorão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wnvlhorpboienet6ziwvi3rm/bafkreicexaz56bawc2ebcces24rba7goetjlcq3df6gqzqiol7vyerlxdi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:wnvlhorpboienet6ziwvi3rm/bafkreicexaz56bawc2ebcces24rba7goetjlcq3df6gqzqiol7vyerlxdi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 723,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 9,
+            "repostCount": 173,
+            "likeCount": 675,
+            "quoteCount": 56,
+            "indexedAt": "2024-12-01T18:56:30.265Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2inzyoti7qnp3f4omjllrhgl/app.bsky.feed.post/3lcb7z3gitc2t",
+            "cid": "bafyreicdlnt6rk4c6lt7tlp3mqvwnd3jp7tdx4ghvqr72ud2w3jnimvf6m",
+            "author": {
+                "did": "did:plc:2inzyoti7qnp3f4omjllrhgl",
+                "handle": "jonathas73.bsky.social",
+                "displayName": "Cartógrafo da Vida 🌎 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2inzyoti7qnp3f4omjllrhgl/bafkreiekuoiutnnc4choqesolntcn6bpghel5veshbpt75jdth5gggwafi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:41:11.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T18:20:53.897Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T18:20:54.556Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mnoia245e7tam7rfrwblvhbi/app.bsky.feed.post/3lcb3jtl2pk2k",
+            "cid": "bafyreiae6fne2crcahsbr5ia6bvpgm25mv2vxxvgulellvgoy3daahsasq",
+            "author": {
+                "did": "did:plc:mnoia245e7tam7rfrwblvhbi",
+                "handle": "souamorte.bsky.social",
+                "displayName": "A Morte",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnoia245e7tam7rfrwblvhbi/bafkreif5v3hdenqpeus6qqqakmefwqaowzbifqkgupeptuxz3de43svf4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:mnoia245e7tam7rfrwblvhbi",
+                        "uri": "at://did:plc:mnoia245e7tam7rfrwblvhbi/app.bsky.actor.profile/self",
+                        "cid": "bafyreidbytnszf4x6qsdh4rotok5l4244tv5fla4zxh5z5pw4ajaaooshi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-11-25T16:38:31.039Z"
+                    }
+                ],
+                "createdAt": "2024-11-25T16:38:31.446Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T17:00:47.374Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Meu Deus, por que eu fui inventar de sair de calça e camisa preta num calorão desses?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T17:00:49.048Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:srpjgx6h377vzch67niippv7/app.bsky.feed.post/3lcawf7ppj22n",
+            "cid": "bafyreibightu3lxw4vorhfrqeynlspkbimcamone3spyad6cgfx5h56gf4",
+            "author": {
+                "did": "did:plc:srpjgx6h377vzch67niippv7",
+                "handle": "pipboing.the-gay.cat",
+                "displayName": "Pip💙🩵🤍💛🧡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:srpjgx6h377vzch67niippv7/bafkreiej64d3iiv2l5caixbdrxhgedyhwvpi42movcsvhp6nspxfckd5em@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T16:43:56.331Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T15:28:43.628Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib73aegz3u46lf7xnggjsp33tok54vyyx34ptltkracnhwvhsxxyy",
+                        "uri": "at://did:plc:zlvyj6ngcsdt3ulgqtleno6a/app.bsky.feed.post/3lc7a7bkx422w"
+                    },
+                    "root": {
+                        "cid": "bafyreib73aegz3u46lf7xnggjsp33tok54vyyx34ptltkracnhwvhsxxyy",
+                        "uri": "at://did:plc:zlvyj6ngcsdt3ulgqtleno6a/app.bsky.feed.post/3lc7a7bkx422w"
+                    }
+                },
+                "text": "Eu queria ir atrás desse muito além mas pra começar as roupas são caríssimas e esse calorão do meu brasil não ajuda😭"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T15:28:44.564Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:depz43l3lkrtgkkie5quekda/app.bsky.feed.post/3lcawdwoznk2k",
+            "cid": "bafyreihpm46cvcoxn5wirt6levfoiuygrcbb6xuwmppt3teerxzrcvsrqi",
+            "author": {
+                "did": "did:plc:depz43l3lkrtgkkie5quekda",
+                "handle": "lookinghobi.bsky.social",
+                "displayName": "marie 🍜 📖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:depz43l3lkrtgkkie5quekda/bafkreidomc5ryiyyra6bn4qusbxwpltr3gkawerwvyzfibhmkad7hu2vja@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T02:40:20.221Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T15:28:00.615Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiczw2fpkbjrhyqeikrjk5vagbbrihixi5fguih2i7kxyobvqrdx7q",
+                        "uri": "at://did:plc:depz43l3lkrtgkkie5quekda/app.bsky.feed.post/3lcaw7acxd22k"
+                    },
+                    "root": {
+                        "cid": "bafyreiczw2fpkbjrhyqeikrjk5vagbbrihixi5fguih2i7kxyobvqrdx7q",
+                        "uri": "at://did:plc:depz43l3lkrtgkkie5quekda/app.bsky.feed.post/3lcaw7acxd22k"
+                    }
+                },
+                "text": "eu acompanho algumas vloggers no YouTube e amo que conforme o tempo vai passando, consigo vê-las em momentos super propícios com o passar das estações..\na neve no inverno, as folhas secas do outono no chão de parques, os dias floridos e frescos da primavera e até o calorão do verão.. queria isso 🤧"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T15:28:03.551Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mnoia245e7tam7rfrwblvhbi/app.bsky.feed.post/3lcato4do322x",
+            "cid": "bafyreidtdlbkezkg6oimq5hi42vno4l4l224l5gy6kgwpbytskdq55jpx4",
+            "author": {
+                "did": "did:plc:mnoia245e7tam7rfrwblvhbi",
+                "handle": "souamorte.bsky.social",
+                "displayName": "A Morte",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mnoia245e7tam7rfrwblvhbi/bafkreif5v3hdenqpeus6qqqakmefwqaowzbifqkgupeptuxz3de43svf4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:mnoia245e7tam7rfrwblvhbi",
+                        "uri": "at://did:plc:mnoia245e7tam7rfrwblvhbi/app.bsky.actor.profile/self",
+                        "cid": "bafyreidbytnszf4x6qsdh4rotok5l4244tv5fla4zxh5z5pw4ajaaooshi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-11-25T16:38:31.039Z"
+                    }
+                ],
+                "createdAt": "2024-11-25T16:38:31.446Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T14:40:00.852Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Está um calorão desgraçado e eu resolvi sair de calça e camisetão. Bom dia! 🙂"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T14:40:01.365Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:h336pxfl227y74nckvht3uz6/app.bsky.feed.post/3lcaq7awtyc24",
+            "cid": "bafyreicyzhfnvxmnxefttsxzbvc5qrezdbqaqxfe2ggnuf7vtdz3zhvt2i",
+            "author": {
+                "did": "did:plc:h336pxfl227y74nckvht3uz6",
+                "handle": "silvioso02.bsky.social",
+                "displayName": "Maluco, beleza.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h336pxfl227y74nckvht3uz6/bafkreidaj53dyn2a6jffahfzssxodtcjv3dbm2o6mvax3exlcaybvdf4cy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:59:59.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T13:38:01.133Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Domingo para ficar à toa.\nSe recuperar do calorão que passei e depois da chuva que tomei🤧🤧. \nFaz parte. Passa🙂"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T13:38:02.352Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xnfcz7uu7lpqelfwq77vtjfx/app.bsky.feed.post/3lca26bslas2g",
+            "cid": "bafyreig7ejrq6gzxt6myzvw7zdew5e3zq3qijcthdjnkjonpdvr2ukcmhy",
+            "author": {
+                "did": "did:plc:xnfcz7uu7lpqelfwq77vtjfx",
+                "handle": "pereirinha.ff14.lol",
+                "displayName": "lesão confirmada",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xnfcz7uu7lpqelfwq77vtjfx/bafkreih7kobymxhamcldjeycoy3hdwnhnwlhpyhujekm3gspoz3dgqau7a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xnfcz7uu7lpqelfwq77vtjfx",
+                        "uri": "at://did:plc:xnfcz7uu7lpqelfwq77vtjfx/app.bsky.actor.profile/self",
+                        "cid": "bafyreif36seyrzgjxcoudlgqyjdi6l34hyrazxfj5ulnyda2ulk7obdcc4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T23:14:18.067Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-01T07:03:46.168Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "caralho mlk meu quarto tá um forno, fui sair ali na cozinha e quando voltei parecia q tinha um bafo aqui dentro mané\n\nmeu pc deve tar toradaço pra conseguir dar esse calorão todo no quarto pprt"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-01T07:03:50.948Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nio3p52iqksr6xq6g4t4tssx/app.bsky.feed.post/3lc6ztp7tp22k",
+            "cid": "bafyreie2mksl7tzzws33u67zmnh5bcbsu3bzgf6avetf5bs2avx3d3ij5i",
+            "author": {
+                "did": "did:plc:nio3p52iqksr6xq6g4t4tssx",
+                "handle": "lucas-santtos.bsky.social",
+                "displayName": "Lucas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nio3p52iqksr6xq6g4t4tssx/bafkreiaxzvrbcnz5jlp7xswmmi62wrufvtwnnw2u3qys3od3g3szzjphne@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:nio3p52iqksr6xq6g4t4tssx",
+                        "uri": "at://did:plc:nio3p52iqksr6xq6g4t4tssx/app.bsky.actor.profile/self",
+                        "cid": "bafyreibq5zhd2qijwc564gqrjh3xtnegka5ylnkoxl2gvruv2nc426bwvq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-20T00:48:49.834Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T21:25:11.397Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão da bexiga por aqui e eu só queria estar sentado num boteco tomando várias cervejas bem geladas."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T21:25:12.059Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tmuxovi5sjy42b7pbt3yeidw/app.bsky.feed.post/3lc6wgjhs522y",
+            "cid": "bafyreihwwubidroyaviv7rqbr7iugjqytqwukigzhi4hjwg4kebxo5dnhi",
+            "author": {
+                "did": "did:plc:tmuxovi5sjy42b7pbt3yeidw",
+                "handle": "rakato.bsky.social",
+                "displayName": "Rafael",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tmuxovi5sjy42b7pbt3yeidw/bafkreifkwlgdoxnf5z7ax4b7w5wfydcpqd5hyd5wsxueizyjeybdz7ycui@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:tmuxovi5sjy42b7pbt3yeidw",
+                        "uri": "at://did:plc:tmuxovi5sjy42b7pbt3yeidw/app.bsky.actor.profile/self",
+                        "cid": "bafyreicpmr2ysn4zbjidmu2iqhllqzlke26f6k4fdpwqemhfcz7nplh7ly",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-26T18:37:07.729Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T20:24:07.932Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigxrb4aq74rrysdlbwyzz3gfcrobueioyyf2335x6w4qiyvwwer2y",
+                        "uri": "at://did:plc:wxgwahmny7abyfk55gwxxvns/app.bsky.feed.post/3lc6waaftg22z"
+                    },
+                    "root": {
+                        "cid": "bafyreigxrb4aq74rrysdlbwyzz3gfcrobueioyyf2335x6w4qiyvwwer2y",
+                        "uri": "at://did:plc:wxgwahmny7abyfk55gwxxvns/app.bsky.feed.post/3lc6waaftg22z"
+                    }
+                },
+                "text": "Eu li que ta um calorao em Buenos Aires\nOrdem deve ser fazer os caras do botafogo correrem pra cansar"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T20:24:08.463Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ag2k6c3zsmkqdv2cijdjd7ui/app.bsky.feed.post/3lc6lnyskbk2e",
+            "cid": "bafyreia3gtijari7hzm2w4hp2tnvcdo2a7a5bzzijczxolhzisboqu7nta",
+            "author": {
+                "did": "did:plc:ag2k6c3zsmkqdv2cijdjd7ui",
+                "handle": "sylcrazycatlady.bsky.social",
+                "displayName": "Syl The Crazy Cat Lady",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ag2k6c3zsmkqdv2cijdjd7ui/bafkreib2qckdlrj2g6ty6rpizocmgnxd5mhxxp5puthzwgk76kpoguetkq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-19T18:43:47.017Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T17:11:27.734Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihojik7dxsesfjreox2rldpm7dk4cqvlt5nm23vuzeglh7ikyqiv4",
+                        "uri": "at://did:plc:nmdntf3qytx2bzwhgcq5sje3/app.bsky.feed.post/3lc6kvimflc2v"
+                    },
+                    "root": {
+                        "cid": "bafyreico2j7ein5h6egtvlxyn4kfzrpwo55l2xb7wmy6lelsqnbof5462a",
+                        "uri": "at://did:plc:ag2k6c3zsmkqdv2cijdjd7ui/app.bsky.feed.post/3lc6aqkubrk2e"
+                    }
+                },
+                "text": "Minha mãe teve menopausa por 15 anos, sem brincadeira\nEla tirou o utero qndo tinha 45, fico até os 60 com os calorão"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T17:11:27.761Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:f2kowoe52n65zo3isxrq7lhk/app.bsky.feed.post/3lc574gyzbk23",
+            "cid": "bafyreiaq63bxvvqea75ra6xvg6zqbhmt3ftfudmtaspeaxsr7357il5fsi",
+            "author": {
+                "did": "did:plc:f2kowoe52n65zo3isxrq7lhk",
+                "handle": "grodc.bsky.social",
+                "displayName": "Sonha Alice",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f2kowoe52n65zo3isxrq7lhk/bafkreig2scglcczbe336zdererdmzvghpnxek6m2hlidigmmacsqavtcbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T10:55:00.899Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T03:54:14.007Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihczsuxfrdi2woxegjgvwkdfssqka3wsg6y5fdfm6o4jw7bwyzrne",
+                        "uri": "at://did:plc:efryxzvet4zf5m32kiz45kvm/app.bsky.feed.post/3lc56x3te4k2u"
+                    },
+                    "root": {
+                        "cid": "bafyreicwxae7ndbdqlritpinj7g5xeerkoneo2wvuam2sg6qp6xt3ap4qu",
+                        "uri": "at://did:plc:efryxzvet4zf5m32kiz45kvm/app.bsky.feed.post/3lc55h25ytc2y"
+                    }
+                },
+                "text": "Um combo perfeito para enfrentar o calorão. Tá curtindo aí ou tá precisando de mais um gelo na bebida? 🙃"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T03:54:15.663Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:shxw25i6tlrily5kceggpj4k/app.bsky.feed.post/3lc55zlu4bs2p",
+            "cid": "bafyreihihcey72cxoe4khhzclzxpzifw4gjvhq74j3jygu7okrglzjn4ou",
+            "author": {
+                "did": "did:plc:shxw25i6tlrily5kceggpj4k",
+                "handle": "nicelyalice.bsky.social",
+                "displayName": "GegeMoke",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:shxw25i6tlrily5kceggpj4k/bafkreig7ooibcfz5unmvnbgi7zxtcgazkhqrkd7g7labugitfnfihicg2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-01-14T05:10:30.188Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T03:34:44.683Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihub6mzhvp3wiiuesyxz6a4jkfnjlltxd72dhz7k2lt73prtb7vda",
+                        "uri": "at://did:plc:o52xs7nb2kyduoeenpyhc3i5/app.bsky.feed.post/3lc2uhcfoi22c"
+                    },
+                    "root": {
+                        "cid": "bafyreid2gxtaq4lb6txxeyilmzhm4cj5kwrwymgty5afbvtdc5oxd574ze",
+                        "uri": "at://did:plc:o52xs7nb2kyduoeenpyhc3i5/app.bsky.feed.post/3lbx2vsakoc2d"
+                    }
+                },
+                "text": "Será que um ar condicionado ajudaria? Quanto que é um? Se rolasse uma vaquinha, eu ajudava com oq dava, uns 100, 150. Boa sorte nesse calorão"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T03:34:48.663Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:busynfcj7t4lk7sxz365uhyf/app.bsky.feed.post/3lc55lxcspc2m",
+            "cid": "bafyreid272jzkcfmq4em6qsjjfahvmlw56ev767uqdmyrxrie7bofpjkxy",
+            "author": {
+                "did": "did:plc:busynfcj7t4lk7sxz365uhyf",
+                "handle": "robguimaraes.bsky.social",
+                "displayName": "Rob Guimarães ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:busynfcj7t4lk7sxz365uhyf/bafkreidg26hql4sl6sibhq2p3lk375fjclvmh7bivzcdvykkonho6knqf4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T22:28:41.828Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-30T03:27:06.937Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pqp q calorão"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-30T03:24:17.557Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:562s4bsk432iylbqoayhiro6/app.bsky.feed.post/3lc4evfdhts2t",
+            "cid": "bafyreifsgad7eg7rdru5fu5pniulocyae6ruod3lz4pnxkpieojhjdkgk4",
+            "author": {
+                "did": "did:plc:562s4bsk432iylbqoayhiro6",
+                "handle": "lelesofs.bsky.social",
+                "displayName": "lelet ᶜᵃᵐ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:562s4bsk432iylbqoayhiro6/bafkreig34msez2e7f7q53uzcfmvr55y4fmcj3oecmafkzotnsqv33gp7qu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:09:49.038Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T20:05:00.084Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "calorão de 34° mas o café tá passadinho quase derretendo a xícara pq uma coisa não anula a outra"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T20:05:00.549Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lc4ek3fygc22",
+            "cid": "bafyreifcetc5vqvjwmfvhbzsj35bov5uitzuk27cfxscaoqf3ulqud3y4i",
+            "author": {
+                "did": "did:plc:iq3zeqscin2x35zw2cuzu3fd",
+                "handle": "deorodrigay.bsky.social",
+                "displayName": "denis ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreie3n7nqvlhwdetef7wylwy36274ltwpsg3nf4pf522p3l4qeim6t4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:21:08.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T19:58:40.582Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif6trmdsvwsjviunuja4nuqj6wakfgjtwry6mp4htbte25l6cqw2m",
+                        "uri": "at://did:plc:sylzgan4falfkt4z3exvrgz7/app.bsky.feed.post/3lc46tstjtc2q"
+                    },
+                    "root": {
+                        "cid": "bafyreif6trmdsvwsjviunuja4nuqj6wakfgjtwry6mp4htbte25l6cqw2m",
+                        "uri": "at://did:plc:sylzgan4falfkt4z3exvrgz7/app.bsky.feed.post/3lc46tstjtc2q"
+                    }
+                },
+                "text": "ta um calorão mas eu não saio do teu ladinho não, rael 🥵"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T19:58:41.863Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3lc44v474xc2m",
+            "cid": "bafyreib2sxojbrkf7bke3toccvn2xaes5fiadgusbyqnng4vxdkoyekzji",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T17:41:40.569Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Gata Amor Amora deitada de barriga pra cima no calorão. Ela tem pelos brancos, com rabão peludo do marrom ao cinza, partes das patas e da cara assim com essa combinação marrom, cinza, bege.",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifnexmbylowrgjfdric52tliuwj4ofm7xnadusbgk76ua3fu3kjdq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 702164
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibyyqy4wgomelqc4ewr3qu6hugi24wsedqdeocnatfluvo2g2pqhu",
+                        "uri": "at://did:plc:ppbcxgotxy2ucbm2n5jywkaq/app.bsky.feed.post/3lc44mhtvkk25"
+                    },
+                    "root": {
+                        "cid": "bafyreibyyqy4wgomelqc4ewr3qu6hugi24wsedqdeocnatfluvo2g2pqhu",
+                        "uri": "at://did:plc:ppbcxgotxy2ucbm2n5jywkaq/app.bsky.feed.post/3lc44mhtvkk25"
+                    }
+                },
+                "text": "Tarde, Sansinha 💚\nAss: Amor Amora"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreifnexmbylowrgjfdric52tliuwj4ofm7xnadusbgk76ua3fu3kjdq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreifnexmbylowrgjfdric52tliuwj4ofm7xnadusbgk76ua3fu3kjdq@jpeg",
+                        "alt": "Gata Amor Amora deitada de barriga pra cima no calorão. Ela tem pelos brancos, com rabão peludo do marrom ao cinza, partes das patas e da cara assim com essa combinação marrom, cinza, bege.",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T17:41:45.266Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7d7jg6645cg76kcnybo6mnd2/app.bsky.feed.post/3lc3wtjljqs22",
+            "cid": "bafyreiahmnfsvwn5ntvb3aqs7nggus4vfjkrawssm4e5pvpx4gdsnad5jq",
+            "author": {
+                "did": "did:plc:7d7jg6645cg76kcnybo6mnd2",
+                "handle": "tuitabia.bsky.social",
+                "displayName": "Bia ⛅️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7d7jg6645cg76kcnybo6mnd2/bafkreidb5rxyks4rnjuzijqkimabia5hax2wgzv5ihnni5mjgmys7w5eqi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T16:16:37.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T15:53:25.047Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "que calorão. desumano"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T15:53:26.664Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lc3wr65wfk22",
+            "cid": "bafyreiddzn5pheo2cpk3c4xcjmklmzokg4eoaskzyeztxwj5xgbwer2yne",
+            "author": {
+                "did": "did:plc:iq3zeqscin2x35zw2cuzu3fd",
+                "handle": "deorodrigay.bsky.social",
+                "displayName": "denis ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreie3n7nqvlhwdetef7wylwy36274ltwpsg3nf4pf522p3l4qeim6t4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:21:08.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T15:52:05.958Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 1000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicywngmxq5ehiirgd6wiifk6qcsef2hj5erhpgrnqeb3bfvl5pk44"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 858651
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "uma lambida nas bolas de cada um pra refrescar desse calorão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreicywngmxq5ehiirgd6wiifk6qcsef2hj5erhpgrnqeb3bfvl5pk44@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreicywngmxq5ehiirgd6wiifk6qcsef2hj5erhpgrnqeb3bfvl5pk44@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 1000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 8,
+            "repostCount": 0,
+            "likeCount": 20,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T15:52:12.356Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:554fd44xdu6ceipnmq433f2l/app.bsky.feed.post/3lc3o5qgct22q",
+            "cid": "bafyreif5sxkf2f6tbvvayzz5led4il5ll2ltza5y3n6ap3xnhlslriss3q",
+            "author": {
+                "did": "did:plc:554fd44xdu6ceipnmq433f2l",
+                "handle": "jornalhojeemdia.bsky.social",
+                "displayName": "Jornal Hoje em Dia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:554fd44xdu6ceipnmq433f2l/bafkreifnqxyhcyha4cv7tmhsdfzvqhodjr3zblmummbzpd6u7tzujaznhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T10:45:03.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T13:18:04.084Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Temperatura máxima chega a 32ºC",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigyzjdopv7jxmoemrbutzge7mfzjdwjqwk7ahwayokodnhzjhedam"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 277866
+                        },
+                        "title": "Sexta-feira em BH será de calorão de 32ºC e chuva a partir da tarde",
+                        "uri": "https://hoje.vc/3iu5x"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://hoje.vc/3iu5x"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 48,
+                            "byteStart": 35
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "minas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 56,
+                            "byteStart": 50
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "previsãodotempobh"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 57
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "calorão"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 86,
+                            "byteStart": 77
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuva"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 93,
+                            "byteStart": 87
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "defesacivil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 106,
+                            "byteStart": 94
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "jornalhojeemdia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 123,
+                            "byteStart": 107
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temperatura máxima chega a 32ºC\n\nhoje.vc/3iu5x\n\n#minas #previsãodotempobh #calorão #chuva #defesacivil #jornalhojeemdia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://hoje.vc/3iu5x",
+                    "title": "Sexta-feira em BH será de calorão de 32ºC e chuva a partir da tarde",
+                    "description": "Temperatura máxima chega a 32ºC",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:554fd44xdu6ceipnmq433f2l/bafkreigyzjdopv7jxmoemrbutzge7mfzjdwjqwk7ahwayokodnhzjhedam@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T13:18:08.153Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ytlp5gre4elmaohdnrfidapm/app.bsky.feed.post/3lc3mwx3spc22",
+            "cid": "bafyreiaoxq64mxripdofzuun5tflb2qdesfqujpr6ilctr62egn2uc45hm",
+            "author": {
+                "did": "did:plc:ytlp5gre4elmaohdnrfidapm",
+                "handle": "sheilaandressa.bsky.social",
+                "displayName": "Sheila Andressa ⚧☭",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ytlp5gre4elmaohdnrfidapm/bafkreicq37vzebt4cqjaq5ntpg4t3ulndje34y4s4354vbwgjqe2lyy4aa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ytlp5gre4elmaohdnrfidapm",
+                        "uri": "at://did:plc:ytlp5gre4elmaohdnrfidapm/app.bsky.actor.profile/self",
+                        "cid": "bafyreidm3l23z37xavqynwhg3e4khm5k3padarsfrkatpqoht2up3pmn5u",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-05T15:47:22.755Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T12:56:22.457Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com data certa pra largar o osso e ser trocada por outra concessionária merda a CCR resolveu abandonar o sistema de ar condicionado da estação Arariboia, em Niterói, num calorão danado.\n\nE o verão nem começou ainda."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T12:56:24.853Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iekys3xbjbsnoqiuo5rxgbc7/app.bsky.feed.post/3lc3kbyujuc2g",
+            "cid": "bafyreih6b73lmjnwg5plsgjwsflsrtlumfoejggoxvhuwiaobsgpblq5v4",
+            "author": {
+                "did": "did:plc:iekys3xbjbsnoqiuo5rxgbc7",
+                "handle": "mechamodeh.bsky.social",
+                "displayName": "deh 🫶🏻",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iekys3xbjbsnoqiuo5rxgbc7/bafkreifzozmpbccducn6n6w4alnsvwtcf2ynkbuj5wp77s5vnnztmyaaii@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:iekys3xbjbsnoqiuo5rxgbc7",
+                        "uri": "at://did:plc:iekys3xbjbsnoqiuo5rxgbc7/app.bsky.actor.profile/self",
+                        "cid": "bafyreif5fzj4a3vqawv5nx4mu25o77qcehwuda2onsrwh7tyc75bzeene4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-01T00:18:10.825Z"
+                    }
+                ],
+                "createdAt": "2024-09-01T00:18:14.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T12:08:52.189Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiezxfmi3iepysnpgww572d2l7racnlzdqsk7apryzamvlqh4rejmi",
+                        "uri": "at://did:plc:vljd6wxqvcmhm2ot4milwxr2/app.bsky.feed.post/3lc3jugyons2t"
+                    },
+                    "root": {
+                        "cid": "bafyreieejlnkotjj6p3uczgeblkgc7hekktecqy7rkwby6xdq4p32z57cm",
+                        "uri": "at://did:plc:iekys3xbjbsnoqiuo5rxgbc7/app.bsky.feed.post/3lbzmvm5vm22v"
+                    }
+                },
+                "text": "Tá insuportável. É isso, chegou dezembro. Nosso Natal é nesse calorão. Papai Noel passa mal no Brasil com aquela roupa kkk"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T12:08:52.955Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ewj4zvumozrl5te52puoxqtb/app.bsky.feed.post/3lc3jw6hkkk2k",
+            "cid": "bafyreid5irixk337xu4wsn3detwjirg4yssntap55u6tf22d5sb4yx734m",
+            "author": {
+                "did": "did:plc:ewj4zvumozrl5te52puoxqtb",
+                "handle": "betolutz.bsky.social",
+                "displayName": "Alberto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ewj4zvumozrl5te52puoxqtb/bafkreiegvmbpftrrt7tx2x3blie5n3eqvkezwukc36wp4g3fi4vfz7wj2a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:34:09.505Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T12:02:15.390Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 807,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifzzliawkld6v65aaoo3cyvadj7sssijixjzmgyfhj2svpue2oyhi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 199017
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sextou com 13° na conta e sem o calorão de ontem.  Trabalhador também tem seus - raros - momentos de felicidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ewj4zvumozrl5te52puoxqtb/bafkreifzzliawkld6v65aaoo3cyvadj7sssijixjzmgyfhj2svpue2oyhi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ewj4zvumozrl5te52puoxqtb/bafkreifzzliawkld6v65aaoo3cyvadj7sssijixjzmgyfhj2svpue2oyhi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 807,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T12:02:21.650Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ch3gx33mswptoz7ufzpg6lgi/app.bsky.feed.post/3lc3dgzz5e22d",
+            "cid": "bafyreidnx564kslxwtq3nv5lut6dibmi2t7zfazkudfea7ljkod27kqgdy",
+            "author": {
+                "did": "did:plc:ch3gx33mswptoz7ufzpg6lgi",
+                "handle": "anselmoans.bsky.social",
+                "displayName": "Anselmo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ch3gx33mswptoz7ufzpg6lgi/bafkreif3c5dskckqiyvhzafwn5vfndu3cajs7f6yaiuqwsdi4jil64cfry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ch3gx33mswptoz7ufzpg6lgi",
+                        "uri": "at://did:plc:ch3gx33mswptoz7ufzpg6lgi/app.bsky.actor.profile/self",
+                        "cid": "bafyreibkhuq6pavw555hs5jw5baivblbobctfejpg34pr3q2v427pnzdyy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-08T18:29:35.578Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T10:06:24.968Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "cadê o calorão pra baixar o preço do uber?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T10:06:25.157Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rebmaiwvvsk4xl6fxc6jbeka/app.bsky.feed.post/3lc33xt6ki22q",
+            "cid": "bafyreifgvgiktg2xhxf3wzyrrfbbyvpnhajl5jnfuia4pccljmbbmr6pqm",
+            "author": {
+                "did": "did:plc:rebmaiwvvsk4xl6fxc6jbeka",
+                "handle": "lucasbp.bsky.social",
+                "displayName": "Lucas gatinho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rebmaiwvvsk4xl6fxc6jbeka/bafkreibtcgnwqssmhon7i5ni6vqqo37z2k5nmdg37qmknpncoaqgnzqkde@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rebmaiwvvsk4xl6fxc6jbeka",
+                        "uri": "at://did:plc:rebmaiwvvsk4xl6fxc6jbeka/app.bsky.actor.profile/self",
+                        "cid": "bafyreiazkkcxq4qxse6nijfdjjhti4vn5m5a22dgaxuce5e7l6mlonutoy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T03:06:40.212Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T03:06:57.037Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T07:52:38.296Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifkprg6kgss2s75irdifiusowbobt3g5sesqgodwttygrk2com3ee",
+                        "uri": "at://did:plc:apliyj5ifapwdwpyhi4dfypu/app.bsky.feed.post/3lc33v5lowc2m"
+                    },
+                    "root": {
+                        "cid": "bafyreifkprg6kgss2s75irdifiusowbobt3g5sesqgodwttygrk2com3ee",
+                        "uri": "at://did:plc:apliyj5ifapwdwpyhi4dfypu/app.bsky.feed.post/3lc33v5lowc2m"
+                    }
+                },
+                "text": "e aqui fazendo um calorão"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T07:52:45.359Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ucpythv2fsxxcsvqpzvbgzse/app.bsky.feed.post/3lc2pdfqhd22n",
+            "cid": "bafyreigqnnmpcsrrsaim2kf2vcsop2uspefwvuyzgmutskuut7z53pesxq",
+            "author": {
+                "did": "did:plc:ucpythv2fsxxcsvqpzvbgzse",
+                "handle": "achadinhosmos.bsky.social",
+                "displayName": "Promoções e Cupons 📢 por achadinhosmos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ucpythv2fsxxcsvqpzvbgzse/bafkreicknnlvqrc3ooxvhedbaqyaskyiemie6z2qzljxtpaivfbsngee74@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T23:37:20.325Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T04:06:28.212Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 513,
+                                "width": 668
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigpmsnzbubeoezdgnclfjzprcgyqke4dr3kws5aqc37wiicrgunda"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 29449
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mercadolivre.com/sec/28snFWM"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 208,
+                            "byteStart": 180
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "OBRIGATÓRIO NESSE CALORÃO!\n\nVentilador Prime Air 160w Grade De 48cm\n\n🔥 Por R$ 156,31 em 5x \n🎟 Use o cupom: LIBERA8\n\n✅ Loja Oficial Britânia no ML\n\n🛒 Link de compra: \nmercadolivre.com/sec/28snFWM"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ucpythv2fsxxcsvqpzvbgzse/bafkreigpmsnzbubeoezdgnclfjzprcgyqke4dr3kws5aqc37wiicrgunda@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ucpythv2fsxxcsvqpzvbgzse/bafkreigpmsnzbubeoezdgnclfjzprcgyqke4dr3kws5aqc37wiicrgunda@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 513,
+                            "width": 668
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T04:06:31.057Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b6i3pq6d7nty2pst3ewnjrgh/app.bsky.feed.post/3lc2mzbhhis2x",
+            "cid": "bafyreiflg7xihoaoz6o2epw6ifa5kgty7c5yxelgdayirwdzv34mqpdacy",
+            "author": {
+                "did": "did:plc:b6i3pq6d7nty2pst3ewnjrgh",
+                "handle": "shimadacoelho.bsky.social",
+                "displayName": "🚩🚩☭ 島田 - Shimada Coelho☭🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6i3pq6d7nty2pst3ewnjrgh/bafkreibvx4wfiusfede3htljlgactbvozqllng4c6jrlil2ylaxaxsnahy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T18:36:48.175Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T03:25:00.696Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eu detesto a formalidade dos trajes para trabalhar, principalmente nesse calorão todo: a gente fica suando, fica tudo abafado, é desconfortável!"
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T03:25:10.963Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wbf7owddw2czovdy5sxtd4mj/app.bsky.feed.post/3lc2lkqkoos2n",
+            "cid": "bafyreie7pohew4yqixxh3g5ote5tfnd2e6lpk3upvyu6ewshorovbm424y",
+            "author": {
+                "did": "did:plc:wbf7owddw2czovdy5sxtd4mj",
+                "handle": "liviakir.bsky.social",
+                "displayName": "Liv 🚂 Caçadora de Vampiros 📷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wbf7owddw2czovdy5sxtd4mj/bafkreid44i2hfmcfwo2wmsg3q7vfodzrs2odjc64vi6fayaqryyavr42jm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wbf7owddw2czovdy5sxtd4mj",
+                        "uri": "at://did:plc:wbf7owddw2czovdy5sxtd4mj/app.bsky.actor.profile/self",
+                        "cid": "bafyreigzdvletkai7ckxkwzltov53g57zj26427fahqjexsgqtowz47q7a",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-04T00:38:25.217Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T02:58:59.472Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "E depois desse calorão desumano, acabou a água. \nE pelo andar da carruagem amanhã vamos ter segundo terceiro quiçá um quarto sol"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T02:59:00.659Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vpjgwc5krbbaqks2sx4so5fq/app.bsky.feed.post/3lc2c5xi7lk26",
+            "cid": "bafyreibbeo5xxepvn3i6zaubxqufouwql7pcgq2g7h2ahpi5rb37hgsbtq",
+            "author": {
+                "did": "did:plc:vpjgwc5krbbaqks2sx4so5fq",
+                "handle": "ludmila.bsky.social",
+                "displayName": "Ludmila Azevedo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vpjgwc5krbbaqks2sx4so5fq/bafkreicd25is4v5ssr5nprktymvyqu66jidgcf5iqctq4e6dk5ds5jr2ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-08T12:49:12.709Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T00:10:46.847Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Aberta a temporada da instituição vizinho pelado/ naked guy por motivos de calorão."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 25,
+            "quoteCount": 2,
+            "indexedAt": "2024-11-29T00:10:47.560Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:izqrkk4lem2e4kje3rlj24pl/app.bsky.feed.post/3lc2c225cxc2q",
+            "cid": "bafyreifmhrgsk4wjbndwrxhdr3h5ni2batxfjm7ouagywupyef4rasm22e",
+            "author": {
+                "did": "did:plc:izqrkk4lem2e4kje3rlj24pl",
+                "handle": "spydocdaughter.bsky.social",
+                "displayName": "cupcake jurídico spymaster",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:izqrkk4lem2e4kje3rlj24pl/bafkreibjil5jrhzof5qq5qt3tf5t66sovnxqjcy6s4ivaspxjlzyi7jicy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:35:56.339Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-29T00:08:35.417Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "aguas do rio e a light resolver foder com a minha vida essa semana pq NAO EH POSSIVEL \n\ndetalhe: so da merda no calorao"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-29T00:08:35.065Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tdf5mtvvxavtxomaobodnx4n/app.bsky.feed.post/3lc2ar2w7kc27",
+            "cid": "bafyreicljdiqzhz5554mxm4qbgli57zgb5373swjrf3a4226zklchorviy",
+            "author": {
+                "did": "did:plc:tdf5mtvvxavtxomaobodnx4n",
+                "handle": "rodrigoluiz23.bsky.social",
+                "displayName": "Rodrigo L.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tdf5mtvvxavtxomaobodnx4n/bafkreiglmwku2n6ynnhcxdepfzuhwzvllmmbnlqmp34qnnyviw4dn7eiea@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T00:05:11.429Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T23:45:40.501Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Um sol de rachar e 35ºC a semana inteira\n\nQuando dá o horário que eu acabo de trabalhar e começo a minha folga acontece o quê?\n\nChove. \nE nem esfria, só chove com o mesmo calorão.\n\nÉ dose."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T23:45:40.762Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qm6qx7wn3uekdovqz2z72ioq/app.bsky.feed.post/3lc2anx6dvk2l",
+            "cid": "bafyreiceajmuusb2qtxakzzk5227elzxenzh3odnczom5xw33ufun4rxni",
+            "author": {
+                "did": "did:plc:qm6qx7wn3uekdovqz2z72ioq",
+                "handle": "bellamoscovitz.bsky.social",
+                "displayName": "moo deng cafeinada",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qm6qx7wn3uekdovqz2z72ioq/bafkreihib6ai6kp74g33cnbua74smvnbhhe7gf64gydbdlqfgok7xj233i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:qm6qx7wn3uekdovqz2z72ioq",
+                        "uri": "at://did:plc:qm6qx7wn3uekdovqz2z72ioq/app.bsky.actor.profile/self",
+                        "cid": "bafyreie274ilp5svmuvkrzfdfijz3pcp7ykv2illkyiimltjy7ijrmrhuq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-11T21:13:00.204Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T23:43:55.911Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidmmdatrptbozmwzkcd7wlvahhca2khsh44htcotph6fzweungjpy",
+                        "uri": "at://did:plc:n4pun7zmebfstpen3layb64a/app.bsky.feed.post/3lc2a4xxykc27"
+                    },
+                    "root": {
+                        "cid": "bafyreid7oce434rrwaqv3uartfsuzyjhr7ozsmpya4lvrhndyjsr37btqu",
+                        "uri": "at://did:plc:qm6qx7wn3uekdovqz2z72ioq/app.bsky.feed.post/3lbzxk2wdv22l"
+                    }
+                },
+                "text": "nossa, hj tava um calorão, foi ótimo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T23:43:57.250Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ujjjocdcyg6onq5a3vxgoh2b/app.bsky.feed.post/3lc27hhof7v2a",
+            "cid": "bafyreickykhg3v5zg2nutz42odqox3qip65oxkzgubqeyvyhkqs2i7keky",
+            "author": {
+                "did": "did:plc:ujjjocdcyg6onq5a3vxgoh2b",
+                "handle": "dilemmayuzuru.bsky.social",
+                "displayName": "Miyabi",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ujjjocdcyg6onq5a3vxgoh2b/bafkreia6uebwds77lh3t2tlnem3elao2mii6vpb56omr63yhimdzsk75gu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T18:50:57.118Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T23:26:56.512Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nem a chuva pra afastar o calorão saí da situação de air fryer pra entrar em situação de vaporeira"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T23:22:24.653Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sdvdwc6xletpystst45fecoa/app.bsky.feed.post/3lc25t2uu722e",
+            "cid": "bafyreihqbjw6ginjahvaxgr7td3iouidmwji5bdgxmmt5q3ozmxnd5sqia",
+            "author": {
+                "did": "did:plc:sdvdwc6xletpystst45fecoa",
+                "handle": "keylacomenta.bsky.social",
+                "displayName": "keyla 🦊",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sdvdwc6xletpystst45fecoa/bafkreic7urmxv3xtnpldpbaqolajkunrklwafz2uzc45nvn3ewdjjtqwki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:48:29.225Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T22:53:06.341Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"e a experiência de maquiar uma moça? como foi?\" \n\nele disse que tanto ele quanto ela pediram pra reeditar o vídeo [...] ele não sabia que o pincel era um pincel maleável, que as mãos tremem muito no normal e eu ELE TAVA NERVOSO e começou a tremer mais, ficando com um calorão e disse que é muito+"
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 32,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T22:53:06.660Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:35gqaqzjc6knkqdznsuhp4xq/app.bsky.feed.post/3lc254mslj22l",
+            "cid": "bafyreidsez5s6fbqgxi42drlfe5sbhqoxjmlqnp64pomlq6ajbt7j5wabm",
+            "author": {
+                "did": "did:plc:35gqaqzjc6knkqdznsuhp4xq",
+                "handle": "elimrocha.bsky.social",
+                "displayName": "Eli 🐈‍⬛🐈‍⬛",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35gqaqzjc6knkqdznsuhp4xq/bafkreiccd5i2oy2y5soex6oqsb64r3jw7afjwanhif67izgywrxxb6l24i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:35gqaqzjc6knkqdznsuhp4xq",
+                        "uri": "at://did:plc:35gqaqzjc6knkqdznsuhp4xq/app.bsky.actor.profile/self",
+                        "cid": "bafyreiemvxcbmrkugn65zuyvr5lruhaamsd66kcsoli5gbluxwliv6fd7a",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-21T03:03:17.102Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T22:40:33.388Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifsnxcyy7du7rvcvh36syqx5cumshobq73s33b2uh2wizxsufjkei",
+                        "uri": "at://did:plc:ibtnxhvqpe27mhs6xszezlg5/app.bsky.feed.post/3lc252fr7hk2q"
+                    },
+                    "root": {
+                        "cid": "bafyreidhsvh373pjqscru2p35srt4biz7p4mtxl4o4l3xj4qoczpcarvby",
+                        "uri": "at://did:plc:ibtnxhvqpe27mhs6xszezlg5/app.bsky.feed.post/3lbzyn2yrvc2q"
+                    }
+                },
+                "text": "Pelo menos já pegou o calorão pra descongelar rs"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T22:40:35.257Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rjracesiqy5oqpeea26d3k4o/app.bsky.feed.post/3lc24btc2tc25",
+            "cid": "bafyreignskcok53wgzr2d7z4earfqw7ugtgsp4k2herzw4bgukq2gdmaeu",
+            "author": {
+                "did": "did:plc:rjracesiqy5oqpeea26d3k4o",
+                "handle": "explicitzayn.bsky.social",
+                "displayName": "gigi⁴⁴🌙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rjracesiqy5oqpeea26d3k4o/bafkreid4tfb6kbnk6ux3cc4oadmbmhgt2clguxj7gep53xny7jcage74am@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rjracesiqy5oqpeea26d3k4o",
+                        "uri": "at://did:plc:rjracesiqy5oqpeea26d3k4o/app.bsky.actor.profile/self",
+                        "cid": "bafyreifrid5lah2ztos5odcrqt3byljziqamwrm5mlmslwv4srcmrgnj4i",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:54:06.332Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:54:05.658Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T22:25:34.216Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "achei que só minha cidade tava nesse calorão kkkk"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T22:25:34.962Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4crh3i5g32n7z2htplknjsxd/app.bsky.feed.post/3lc23p57n5c2a",
+            "cid": "bafyreidmghp6adn2ps6rih65bxebodl2tukg5n4aujigw3ze4a2tgtvpvu",
+            "author": {
+                "did": "did:plc:4crh3i5g32n7z2htplknjsxd",
+                "handle": "euronolabai.bsky.social",
+                "displayName": "machado🩸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4crh3i5g32n7z2htplknjsxd/bafkreidexbc2nxcvr24m42pfr2oo7edjrvfj2qyahcvsvic7lraca4zhre@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:4crh3i5g32n7z2htplknjsxd",
+                        "uri": "at://did:plc:4crh3i5g32n7z2htplknjsxd/app.bsky.actor.profile/self",
+                        "cid": "bafyreifdy7yhlfsj7z2hvgjwbagfl6ekvifjz64bi2ikm476l3l55j2cfy",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T14:10:53.399Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T14:10:54.596Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T22:15:07.090Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "esse calorão tá pedindo um açaí com banana pra refrescar (caipirinha tbm serve)"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T22:15:08.049Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2u6pwgqgicuuw2agwbif46xz/app.bsky.feed.post/3lbzyxqbwhc26",
+            "cid": "bafyreibetbvvjtyslmukayhyxlrieultlz4mxv4gk35auzzgm4r4f5o5zi",
+            "author": {
+                "did": "did:plc:2u6pwgqgicuuw2agwbif46xz",
+                "handle": "tiilh.bsky.social",
+                "displayName": "Tii🩵",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2u6pwgqgicuuw2agwbif46xz/bafkreicbrnn7egxxe3a2x4zdsnfqpiafsivdc7fudrdpdl2xyr6cs6fyfq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:51:06.077Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T21:26:14.297Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigywh6ksmbckumwomoqbuvmnkfprihafwaak4qjiyyqdpdlmvcntm",
+                        "uri": "at://did:plc:7iw3bgyahryfip5wd5jnon5b/app.bsky.feed.post/3lbzvy5savk2n"
+                    },
+                    "root": {
+                        "cid": "bafyreibhfk7adr264w2u42urk6ne36pc3yoozf3oqi4s7wvamxj4jfrc7m",
+                        "uri": "at://did:plc:7iw3bgyahryfip5wd5jnon5b/app.bsky.feed.post/3lbzle4wj3k2i"
+                    }
+                },
+                "text": "Nossa, na praia calorão é uma delícia né!!!! Christmas city é linda né amg? Umas amigas minhas já foram e voltaram apaixonadas. Quero muito conhecer um dia!!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T21:26:17.258Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:z7loujj6askshigcwckjuae3/app.bsky.feed.post/3lbzxukkt722v",
+            "cid": "bafyreifvs2mamwnpufbsti5kknx26wscyfnhctcmarpy2r5kqu6fycr7ti",
+            "author": {
+                "did": "did:plc:z7loujj6askshigcwckjuae3",
+                "handle": "mucergo.bsky.social",
+                "displayName": "domino 🦇",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z7loujj6askshigcwckjuae3/bafkreickt3bwbbejshqeamx2ncitkouosu7gqoubsg6lvltso7z5s4hys4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-12T22:21:03.510Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T21:06:33.893Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "e depois de um dia de calorão de 42 grau, começa a ventar pacaraio e tá ameaçando cair o mundo\n\nfodase a meteorologia do rj"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T21:00:07.958Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ohs6snxtm7jqjutwe3qxc5ap/app.bsky.feed.post/3lbzrfg3hps2z",
+            "cid": "bafyreifrtox6uzscrlb5bh547kic3ubpx7elgvby6gxztur675kg2f7mou",
+            "author": {
+                "did": "did:plc:ohs6snxtm7jqjutwe3qxc5ap",
+                "handle": "aya.wtf",
+                "displayName": "Aya ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ohs6snxtm7jqjutwe3qxc5ap/bafkreicmbyhw5sba5a7ubzict6p23xttpaugfrcuzfdsyhgnz5fzavmqju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T16:47:18.244Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T19:10:43.428Z",
+                "langs": [
+                    "en",
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiadkndukcwmjlcejsd6rmpmttlooza3xfly7vzae6fvz5wq64scwa",
+                        "uri": "at://did:plc:gfwuskhrxno67kn6lrksjhuj/app.bsky.feed.post/3lbzr5bissk2v"
+                    },
+                    "root": {
+                        "cid": "bafyreiadkndukcwmjlcejsd6rmpmttlooza3xfly7vzae6fvz5wq64scwa",
+                        "uri": "at://did:plc:gfwuskhrxno67kn6lrksjhuj/app.bsky.feed.post/3lbzr5bissk2v"
+                    }
+                },
+                "text": "esse tweet me fez perceber o quão distorcida tá a minha percepção de temperatura depois que me mudei.\neu li isso e minha mente imediatamente “mas isso é um calorão 🤨”"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T19:10:44.161Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7d7jg6645cg76kcnybo6mnd2/app.bsky.feed.post/3lbzranrc3k23",
+            "cid": "bafyreiecnrj5g6a4i3ewzjwxvhsbfnvdid6ybghno72qainlpwehfuhkge",
+            "author": {
+                "did": "did:plc:7d7jg6645cg76kcnybo6mnd2",
+                "handle": "tuitabia.bsky.social",
+                "displayName": "Bia ⛅️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7d7jg6645cg76kcnybo6mnd2/bafkreidb5rxyks4rnjuzijqkimabia5hax2wgzv5ihnni5mjgmys7w5eqi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T16:16:37.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T19:08:03.710Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "ainda bem que não tá calorão na minha cidade pq se tivesse eu teria desmaiado"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T19:08:04.448Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qr7j63nvwo7oj4ua3aaa5zjb/app.bsky.feed.post/3lbzqr32an22f",
+            "cid": "bafyreicm57a5mbc2thcptdkijavsesz64xku6ivm5ptmmnvc3vy6nxt6qy",
+            "author": {
+                "did": "did:plc:qr7j63nvwo7oj4ua3aaa5zjb",
+                "handle": "rakalinda.bsky.social",
+                "displayName": "Raquel  Linda 🌻",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qr7j63nvwo7oj4ua3aaa5zjb/bafkreidm5xkqg3twdk4jwz27u2ubeuea6knvm44gopw5zqgegopqth6eru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-27T17:18:42.886Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T18:59:20.765Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihz3ex5fif4fy3us4mxrz24jetfz3jwd5n4vd3xifipakl2xx7shu",
+                        "uri": "at://did:plc:iqekwvetwwath4wmwyac6j32/app.bsky.feed.post/3lbznmi64sc22"
+                    },
+                    "root": {
+                        "cid": "bafyreiezzunodippwa3qnldtrddv3ocausrvagoztfvfi7rbvkqoxbc6li",
+                        "uri": "at://did:plc:qr7j63nvwo7oj4ua3aaa5zjb/app.bsky.feed.post/3lbzncyoo722f"
+                    }
+                },
+                "text": "Aqui voltou o calorão!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T18:59:22.255Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2pflm7g6j5qo6mvzia4i3og3/app.bsky.feed.post/3lbzn5xlp7k2u",
+            "cid": "bafyreidco7j63yx6jxn3niujjqtcli5yevteblrr54u63kk5e3smcxocea",
+            "author": {
+                "did": "did:plc:2pflm7g6j5qo6mvzia4i3og3",
+                "handle": "nintakun.bsky.social",
+                "displayName": "Nintakun",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pflm7g6j5qo6mvzia4i3og3/bafkreigtilfegfvqpyfmjm3nloizvrghi3roaibjvgqysfr7747dnem3mu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2pflm7g6j5qo6mvzia4i3og3",
+                        "uri": "at://did:plc:2pflm7g6j5qo6mvzia4i3og3/app.bsky.actor.profile/self",
+                        "cid": "bafyreiauggyfpi5p2norzbjimbmyzdjudqegnk75lassaxxoggjkzousnm",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-03T12:58:44.442Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T17:54:58.382Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Existem uma miríade de coisas que não estão na bíblia e esse calorão de abafar banana que está fazendo hoje definitivamente seria uma delas"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T17:55:00.149Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lbzknoevvd2x",
+            "cid": "bafyreiet6mt7e52dggxsrkhetwa3aadluuf3hwqxwqy7gmspeymvttkwou",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T17:10:02.629420Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreif3pushxw6urawduzwqf75d7lmatpjitxmq3npc7f6d5olvttl4xa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 152233
+                        },
+                        "title": "Calorão e chuvas: região de Piracicaba tem alerta amarelo para risco de ventos de 60 km/h | Piracicaba e Região | G1",
+                        "uri": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2024/11/28/calorao-e-chuvas-regiao-de-piracicaba-tem-alerta-amarelo-para-risco-de-ventos-de-60-kmh.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Calorão e chuvas: região de Piracicaba tem alerta amarelo para risco de ventos de 60 km/h"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2024/11/28/calorao-e-chuvas-regiao-de-piracicaba-tem-alerta-amarelo-para-risco-de-ventos-de-60-kmh.ghtml",
+                    "title": "Calorão e chuvas: região de Piracicaba tem alerta amarelo para risco de ventos de 60 km/h | Piracicaba e Região | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreif3pushxw6urawduzwqf75d7lmatpjitxmq3npc7f6d5olvttl4xa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T17:10:04.953Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ypvcmd52ulfgcyyvq5dvsxbj/app.bsky.feed.post/3lbzkar7fcc2g",
+            "cid": "bafyreicsygpx2g7wnphfymgndtmu4bc3k62g3vlxnr6t3si7pnauvxsiai",
+            "author": {
+                "did": "did:plc:ypvcmd52ulfgcyyvq5dvsxbj",
+                "handle": "willgames.bsky.social",
+                "displayName": "Will🎅⛄🎁🎮",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ypvcmd52ulfgcyyvq5dvsxbj/bafkreif7izryyhrhpml65liemt3urhozu3mupnjftyuqzh2zvkxt6lut7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-18T00:28:31.534Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T17:02:51.126Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibi7bbt473xv5rc7cogm4vue2o347e7nfjhkxasggvo7o53o33b5u",
+                        "uri": "at://did:plc:6imwqkfengrjqfmwjyisr6ns/app.bsky.feed.post/3lbzgugwscs2a"
+                    },
+                    "root": {
+                        "cid": "bafyreidsqb7t7fhbpl4jkquztqc5zkojjzkhwbjv4ym3baiuejolvhnqpy",
+                        "uri": "at://did:plc:ypvcmd52ulfgcyyvq5dvsxbj/app.bsky.feed.post/3lby4dzibi22i"
+                    }
+                },
+                "text": "Esses são os piores. No último calorão que teve perdi todos os alimentos do armário, porque alguns deles conseguiram invadir e iniciaram uma colônia lá dentro"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T17:02:56.660Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:v6tyovkbvspwoclrshrc5bgj/app.bsky.feed.post/3lbziywkubm2k",
+            "cid": "bafyreiex2nm4zrxye3gu76sf67hkvg2cewkn6dtyb6amyfpomgaiifzqee",
+            "author": {
+                "did": "did:plc:v6tyovkbvspwoclrshrc5bgj",
+                "handle": "deukaevigne.bsky.social",
+                "displayName": "bibble viu as deukae",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v6tyovkbvspwoclrshrc5bgj/bafkreig2fc3kqa6b32ybffr3vj454mu7beij6jxvob6vvkwkooyuqdydru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T21:55:12.387Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T16:40:33.527Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "tô irritada, não bastasse o último acontecimento agora tá um calorão insuportável e minha alergia atacou provavelmente por causa do ventilador, não me toquem, totalmente de mau humor"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T16:40:34.753Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cypceh5ld2v4wh6yfewumll5/app.bsky.feed.post/3lbzgokabvc2x",
+            "cid": "bafyreicq4dgpjscae5hlk3lgbh5hxja6yoicxr5hagjj6s5fplxfytphvi",
+            "author": {
+                "did": "did:plc:cypceh5ld2v4wh6yfewumll5",
+                "handle": "diavolochild.bsky.social",
+                "displayName": "Annie ⚢ 📖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cypceh5ld2v4wh6yfewumll5/bafkreifqvu2r2a4s4qi2ikplfwdrnzgb46ktbdyaqk2ywr24jfccmncrpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T18:08:05.481Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:58:58.609Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie4f3drmdt4ntmjrvmtr3yz3isarjmvnyvprr6fuxwj6tznaesozq",
+                        "uri": "at://did:plc:kpgq3la7ruy3n4bct2mbcumi/app.bsky.feed.post/3lbzh26rr722k"
+                    },
+                    "root": {
+                        "cid": "bafyreiftr37y2dfadjhovefoqjcxnk6xdf23rq7rsckdvmsj4a2i2ey2re",
+                        "uri": "at://did:plc:kpgq3la7ruy3n4bct2mbcumi/app.bsky.feed.post/3lbzgkmqmw22k"
+                    }
+                },
+                "text": "To passando sim e bebendo muita aguinha como sempre, tenho pressão baixa normalmente, sempre piora nesse calorão. Se cuida vc tb!! ❤️"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:59:00.860Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.feed.post/3lbzgaxmh4c2c",
+            "cid": "bafyreihmtkesf53d66d3nxp76sj7pg5i6ec7vqji5fmek2q66c4tupsure",
+            "author": {
+                "did": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                "handle": "arioldo.bsky.social",
+                "displayName": "Arioldo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsleyugse3xa5y2cgqi75j5r/bafkreiftmbsradvzr6l46vsj3m62xtbuvmfpeds45yvqmmbvob7ygm3shm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                        "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.actor.profile/self",
+                        "cid": "bafyreigq7nypk3jpoub52ykammlekew5gepaz7qf4thdiuvuzzmm37yt74",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-05T15:34:58.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:51:22.876Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Onde tá calorão perigoso, bom cuidar dos próximos aí pra evitar desidratação, muito sol na mulêra e coisas do tipo.\nEsse tempo mata, principalmente gente com mais idade."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:51:22.458Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.feed.post/3lbzg6gzduc2c",
+            "cid": "bafyreibsu7bqggt6as2pfrzqlkhdchfrtv5v2k3haydgqfad5cf3hv3ulu",
+            "author": {
+                "did": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                "handle": "arioldo.bsky.social",
+                "displayName": "Arioldo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gsleyugse3xa5y2cgqi75j5r/bafkreiftmbsradvzr6l46vsj3m62xtbuvmfpeds45yvqmmbvob7ygm3shm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gsleyugse3xa5y2cgqi75j5r",
+                        "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.actor.profile/self",
+                        "cid": "bafyreigq7nypk3jpoub52ykammlekew5gepaz7qf4thdiuvuzzmm37yt74",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-05T15:34:58.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:49:58.365Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif4irb4qvq576i33rzoxinqojc4xnm7yoacjk5oof7hoj4msptmdi",
+                        "uri": "at://did:plc:zwat7qqjnfpjx3muw3i3ronc/app.bsky.feed.post/3lbzg4ozqsk22"
+                    },
+                    "root": {
+                        "cid": "bafyreigha7fi2pwwohwbg2bnlcxmyyuz7n425twgkx3bkty5dz2sriwoja",
+                        "uri": "at://did:plc:gsleyugse3xa5y2cgqi75j5r/app.bsky.feed.post/3lbzfhuj3a22c"
+                    }
+                },
+                "text": "Tá calorão mesmo."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:49:57.952Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cni2cvqj6jwo5sxmxhkoqti4/app.bsky.feed.post/3lbzfz6fgw226",
+            "cid": "bafyreih4qn4gpsu6hr6eywydw4m2cskip446zczg55ifqmeiyu7j3elwk4",
+            "author": {
+                "did": "did:plc:cni2cvqj6jwo5sxmxhkoqti4",
+                "handle": "heithor.bsky.social",
+                "displayName": "Heitor",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cni2cvqj6jwo5sxmxhkoqti4/bafkreihalmbm3xiyva23lrhceipmlxvfepopgxjyfmhzu3ct23bdl4hyvm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-24T15:56:33.860Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:47:01.552Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "calorão de hoje ta me deixando com pressão baixa"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:47:02.056Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6scx3rgsgfzksnopgiznmqiq/app.bsky.feed.post/3lbze2rkn722p",
+            "cid": "bafyreigj6nzqdqvn22b4icq76avtzyffzml63cz4r6yiluwytubjvvdmta",
+            "author": {
+                "did": "did:plc:6scx3rgsgfzksnopgiznmqiq",
+                "handle": "skyhopeyume.bsky.social",
+                "displayName": "Letícia vai ver o SKZ 🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6scx3rgsgfzksnopgiznmqiq/bafkreigm72sbcpol2xnsjloopb6gg5i56syplqjsaqsfdyr7kuzzpsaoem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T00:36:00.521Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:12:07.717Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicfyjxg6zzseoqjmxqx3jdydexnsidejylegbg6czdutsaslcypwu",
+                        "uri": "at://did:plc:7hfj6nvtojbpaqec632mcv4u/app.bsky.feed.post/3lbzbh2j2jc2e"
+                    },
+                    "root": {
+                        "cid": "bafyreihlyj2lwzj6tdvpgbgaimof77ian5pjjqebyccjf5badeeaqzpr6y",
+                        "uri": "at://did:plc:7hfj6nvtojbpaqec632mcv4u/app.bsky.feed.post/3lbzaezlumk2e"
+                    }
+                },
+                "text": "aqui qnd da esses calorão n demora muito já chove"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:12:08.961Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:k4fan3ixwziezo3hvu3wj5jj/app.bsky.feed.post/3lbzdn4ck4s27",
+            "cid": "bafyreibv6ynfmm4jsfaeek2jif3ed56kv464qnlp5j2lhzmbkfrnw5ugsm",
+            "author": {
+                "did": "did:plc:k4fan3ixwziezo3hvu3wj5jj",
+                "handle": "wardoctor.bsky.social",
+                "displayName": "𓂅🍉 MσG !",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k4fan3ixwziezo3hvu3wj5jj/bafkreigz2ohrog4ls3uhlvshvrcwnjfr4gd4surtqhca2rvx743dl5e2ca@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T02:58:15.620Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:04:29.224Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "mó calorão e eu tomando café"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:04:30.163Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bra33ybtxd75xd55dwbllapp/app.bsky.feed.post/3lbzdimblsc2y",
+            "cid": "bafyreicq6kaazkes4i3ck2v3lfywdvuksvnqzbn3ipknlleemf4k67qeny",
+            "author": {
+                "did": "did:plc:bra33ybtxd75xd55dwbllapp",
+                "handle": "tojimaki.bsky.social",
+                "displayName": "pomba frita do clã zenin",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bra33ybtxd75xd55dwbllapp/bafkreidm6a47uoqmk72q4ntyu5g73aobfyn3uhvltv4tgmhtppixdce7pu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T14:57:11.073Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T15:01:58.196Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiai37jdgx4xd32ofmjpcstttga4cb7u7fzxdhlm32soarzt5gv4ei",
+                        "uri": "at://did:plc:pdpiakn55nenw2ovclf7eqln/app.bsky.feed.post/3lbzbs2wan22i"
+                    },
+                    "root": {
+                        "cid": "bafyreiai37jdgx4xd32ofmjpcstttga4cb7u7fzxdhlm32soarzt5gv4ei",
+                        "uri": "at://did:plc:pdpiakn55nenw2ovclf7eqln/app.bsky.feed.post/3lbzbs2wan22i"
+                    }
+                },
+                "text": "luz caindo em pleno calorão dos infernos que terrorrrr"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T15:01:59.549Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6scx3rgsgfzksnopgiznmqiq/app.bsky.feed.post/3lbzaivmwf225",
+            "cid": "bafyreia5bkvpbtaypqvvf3wj4b7m3mkutwavqpwz76ll5rfbckj72yv4pe",
+            "author": {
+                "did": "did:plc:6scx3rgsgfzksnopgiznmqiq",
+                "handle": "skyhopeyume.bsky.social",
+                "displayName": "Letícia vai ver o SKZ 🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6scx3rgsgfzksnopgiznmqiq/bafkreigm72sbcpol2xnsjloopb6gg5i56syplqjsaqsfdyr7kuzzpsaoem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T00:36:00.521Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T14:08:26.781Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihlyj2lwzj6tdvpgbgaimof77ian5pjjqebyccjf5badeeaqzpr6y",
+                        "uri": "at://did:plc:7hfj6nvtojbpaqec632mcv4u/app.bsky.feed.post/3lbzaezlumk2e"
+                    },
+                    "root": {
+                        "cid": "bafyreihlyj2lwzj6tdvpgbgaimof77ian5pjjqebyccjf5badeeaqzpr6y",
+                        "uri": "at://did:plc:7hfj6nvtojbpaqec632mcv4u/app.bsky.feed.post/3lbzaezlumk2e"
+                    }
+                },
+                "text": "é nesses casos de calorão msm que chove amg kkkkk"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T14:08:27.962Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3lbz6wcsuek2y",
+            "cid": "bafyreicag3uz2wyjnsvplvjceowfekuqjnviurdv7qsfpnvgdhvmb5lbp4",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T13:40:09.331Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "o calorão afeta o corpo e a mente da gente e também os dispositivos tá"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T13:40:10.553Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gzyyjwj2wmm523uix23ej4o2/app.bsky.feed.post/3lbz3wv6pes27",
+            "cid": "bafyreig3pojhhl3ltp336n4e2ckiigdpse7nhy6xme763pfw7f3krj6cg4",
+            "author": {
+                "did": "did:plc:gzyyjwj2wmm523uix23ej4o2",
+                "handle": "andersonmouras.bsky.social",
+                "displayName": "Anderson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzyyjwj2wmm523uix23ej4o2/bafkreiayv632fkc3b7vcijmauqznpl4uy2f3a74auze7bgsg7n4c5etxay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:22:06.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T12:46:47.362Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1075,
+                                "width": 1075
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidgvynl33uadpmly4c7xmo7j75zi5ryuaj3laoxrnvagbr2kscxum"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 114639
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiegsi75gofa3ja2tdfigb3jox7icy65k6x6cw4zl5k5wngmo5asje",
+                        "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lbz3kbxb7s2u"
+                    },
+                    "root": {
+                        "cid": "bafyreiegsi75gofa3ja2tdfigb3jox7icy65k6x6cw4zl5k5wngmo5asje",
+                        "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lbz3kbxb7s2u"
+                    }
+                },
+                "text": "Me lembrando de ficar bem hidratado nesse calorão. Obrigado Denizin"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gzyyjwj2wmm523uix23ej4o2/bafkreidgvynl33uadpmly4c7xmo7j75zi5ryuaj3laoxrnvagbr2kscxum@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gzyyjwj2wmm523uix23ej4o2/bafkreidgvynl33uadpmly4c7xmo7j75zi5ryuaj3laoxrnvagbr2kscxum@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1075,
+                            "width": 1075
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T12:46:51.855Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iq3zeqscin2x35zw2cuzu3fd/app.bsky.feed.post/3lbz3kbxb7s2u",
+            "cid": "bafyreiegsi75gofa3ja2tdfigb3jox7icy65k6x6cw4zl5k5wngmo5asje",
+            "author": {
+                "did": "did:plc:iq3zeqscin2x35zw2cuzu3fd",
+                "handle": "deorodrigay.bsky.social",
+                "displayName": "denis ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreie3n7nqvlhwdetef7wylwy36274ltwpsg3nf4pf522p3l4qeim6t4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T13:21:08.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T12:39:44.547Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a close up of a person 's neck with white spots on it",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreies2m44gom62fimj6tuuldv3guycwauud6yapgzf74aiuvz76l6ve"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 143345
+                        },
+                        "title": "a close up of a person 's neck with white spots on it",
+                        "uri": "https://media.tenor.com/WuHqfZfOTxwAAAAC/adam-apple-swallow.gif?hh=498&ww=280"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "que delícia é sentir a 💦 descendo pela garganta logo cedo preenchendo cada espacinho dela hidratando lubrificando escorrendo pela faringe matando a nossa vontade e a gente ainda assim querendo mais\n\nmta água hoje pra aguentar esse calorão hein, mutuals. encham suas garrafinhas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/WuHqfZfOTxwAAAAC/adam-apple-swallow.gif?hh=498&ww=280",
+                    "title": "a close up of a person 's neck with white spots on it",
+                    "description": "ALT: a close up of a person 's neck with white spots on it",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iq3zeqscin2x35zw2cuzu3fd/bafkreies2m44gom62fimj6tuuldv3guycwauud6yapgzf74aiuvz76l6ve@jpeg"
+                }
+            },
+            "replyCount": 5,
+            "repostCount": 0,
+            "likeCount": 32,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T12:39:47.452Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xgyds25birj5mui544tp5g4y/app.bsky.feed.post/3lbyzwjuce22b",
+            "cid": "bafyreibt4wapowfvz7v7qfy63qpzqifghc4d2ypiphfyevyg3hkwnwsz6a",
+            "author": {
+                "did": "did:plc:xgyds25birj5mui544tp5g4y",
+                "handle": "ssucram.bsky.social",
+                "displayName": "Marcus Vi 🫰🏻★彡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xgyds25birj5mui544tp5g4y/bafkreif5lz3qkvqtgwjbeamsh2g3d4qzzi7bclomx4nl4p6yqnrjoigvmy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xgyds25birj5mui544tp5g4y",
+                        "uri": "at://did:plc:xgyds25birj5mui544tp5g4y/app.bsky.actor.profile/self",
+                        "cid": "bafyreibd37ffmft22ksaqpkuulel2vxqbu5lvuccqxursypsi6hbctuvty",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-08T17:03:14.979Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T12:10:48.008Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cara, esse calorão todo vocês reclamando. Mora todo mundo no mesmo lugar? \nAqui em Brasília milagre hoje o dia amanheceu lindo e ensolarado, mas geralmente anda chovendo bastante e o clima tá mais ameno. Graças a Deus."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T12:10:48.653Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xgyds25birj5mui544tp5g4y/app.bsky.feed.post/3lbyzueliu22b",
+            "cid": "bafyreidjdipisjej2r536oqsmujqh4icvrhnjj2sy6ygopae6yjsvbkccu",
+            "author": {
+                "did": "did:plc:xgyds25birj5mui544tp5g4y",
+                "handle": "ssucram.bsky.social",
+                "displayName": "Marcus Vi 🫰🏻★彡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xgyds25birj5mui544tp5g4y/bafkreif5lz3qkvqtgwjbeamsh2g3d4qzzi7bclomx4nl4p6yqnrjoigvmy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xgyds25birj5mui544tp5g4y",
+                        "uri": "at://did:plc:xgyds25birj5mui544tp5g4y/app.bsky.actor.profile/self",
+                        "cid": "bafyreibd37ffmft22ksaqpkuulel2vxqbu5lvuccqxursypsi6hbctuvty",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-08T17:03:14.979Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T12:09:35.368Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidxw2fotkcwlm3mkb6i2ligta4m7asude76ygrqwdutyjqbyvdxbe",
+                        "uri": "at://did:plc:xtit2xuj7jmsgs5uzqxkvai3/app.bsky.feed.post/3lbyzsqnzuc2a"
+                    },
+                    "root": {
+                        "cid": "bafyreidxw2fotkcwlm3mkb6i2ligta4m7asude76ygrqwdutyjqbyvdxbe",
+                        "uri": "at://did:plc:xtit2xuj7jmsgs5uzqxkvai3/app.bsky.feed.post/3lbyzsqnzuc2a"
+                    }
+                },
+                "text": "Não vejo a hora de chegar minhas férias pra pegar esse calorão parecido lá no nordeste kkkkkk"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T12:09:36.650Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gzyyjwj2wmm523uix23ej4o2/app.bsky.feed.post/3lbyzbtgo5227",
+            "cid": "bafyreibqacq747pmsdb5wjq3ggqc5zck2jjdgsh3er3e32o2dj6lhea55e",
+            "author": {
+                "did": "did:plc:gzyyjwj2wmm523uix23ej4o2",
+                "handle": "andersonmouras.bsky.social",
+                "displayName": "Anderson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gzyyjwj2wmm523uix23ej4o2/bafkreiayv632fkc3b7vcijmauqznpl4uy2f3a74auze7bgsg7n4c5etxay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:22:06.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T11:59:13.405Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibshzszdon233kgifirgoi77bboskwaydasjcqktt2ce25frtmr64",
+                        "uri": "at://did:plc:wjapmbqw4ogwjitnhmoimow4/app.bsky.feed.post/3lbyyv26c5k2o"
+                    },
+                    "root": {
+                        "cid": "bafyreifl3ijoqp4a5cgqopa746tfvegsnrjwrdhiwvumv7drkxhdx4lfvi",
+                        "uri": "at://did:plc:gzyyjwj2wmm523uix23ej4o2/app.bsky.feed.post/3lbyylifa3c27"
+                    }
+                },
+                "text": "Nossa q calorão tá fazendo por aí hein 🥵"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T11:59:15.752Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cga6fkriadpra7ojwuwsnac2/app.bsky.feed.post/3lbyymjvgms2x",
+            "cid": "bafyreidim4w2o6oeobe4o3fozzjxuo4ox4e22xsnadttwmczhubdjzkkuy",
+            "author": {
+                "did": "did:plc:cga6fkriadpra7ojwuwsnac2",
+                "handle": "rafakonzenpaz.bsky.social",
+                "displayName": "Rafa Antifa HC",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cga6fkriadpra7ojwuwsnac2/bafkreia5xwkcctgu45x5l5x72pwt2baoqde5u5osezc2qgptz26a7ikr4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-16T21:53:06.910Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T11:47:18.759Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Se existisse Deus não estaria esse calorão logo cedo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T11:35:18.355Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7b5eozut2y7axvebnxkdvt7p/app.bsky.feed.post/3lbyxftdpdc2h",
+            "cid": "bafyreiblddah6hkuvbvqceybkqjqos5xognceikdofartsjy6tpmkrioia",
+            "author": {
+                "did": "did:plc:7b5eozut2y7axvebnxkdvt7p",
+                "handle": "gupdm.bsky.social",
+                "displayName": "gustavo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7b5eozut2y7axvebnxkdvt7p/bafkreiaxudhvvrajnkmhwoj576fzqgm4qq4squ4vhbnckhc7qmrvu74qxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-20T13:43:22.126Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T11:25:40.041Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "precisei de uns minutinhos a mais hoje pra recuperar do treino. que calorão, pqp 😮‍💨"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T11:25:40.847Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7jpbbw3zllc5hf2oj7y54afp/app.bsky.feed.post/3lbywaesypm2f",
+            "cid": "bafyreifwjxdhxy3bwlzzdytmuoldtyhqqvaxcsgywmvcwamrdbjrfvivju",
+            "author": {
+                "did": "did:plc:7jpbbw3zllc5hf2oj7y54afp",
+                "handle": "walterws-samuel.bsky.social",
+                "displayName": "Walter Samuel",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7jpbbw3zllc5hf2oj7y54afp/bafkreifufwwfy7cu7i6cuxor2frs534vzhpva5qizzbvcdjzpwcvmberxe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cid": "bafyreidpk5graxc2kcdri66pju32sh4bwnwh5sypmufke4tlnu3ucxbtie",
+                        "cts": "2024-09-11T23:30:28.965Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "at://did:plc:7jpbbw3zllc5hf2oj7y54afp/app.bsky.actor.profile/self",
+                        "val": "nudity",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2024-09-11T23:24:06.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T11:04:42.985Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig34opq7nffz6sl3rfcmxl5hb5l4max2epy6zbkv3h32tqjl3wuom"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 414132
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia! Putos! Loko por uma tora me arrebentando as pregas!\nCalorão danado, excelente pra ter o toba estuprado.\nAlguéns?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7jpbbw3zllc5hf2oj7y54afp/bafkreig34opq7nffz6sl3rfcmxl5hb5l4max2epy6zbkv3h32tqjl3wuom@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7jpbbw3zllc5hf2oj7y54afp/bafkreig34opq7nffz6sl3rfcmxl5hb5l4max2epy6zbkv3h32tqjl3wuom@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T11:04:44.751Z",
+            "labels": [
+                {
+                    "cid": "bafyreifwjxdhxy3bwlzzdytmuoldtyhqqvaxcsgywmvcwamrdbjrfvivju",
+                    "cts": "2024-11-28T11:04:46.677Z",
+                    "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                    "uri": "at://did:plc:7jpbbw3zllc5hf2oj7y54afp/app.bsky.feed.post/3lbywaesypm2f",
+                    "val": "porn",
+                    "ver": 1
+                }
+            ]
+        },
+        {
+            "uri": "at://did:plc:a2uvjbnf53w3qvcmra5b6s7f/app.bsky.feed.post/3lbyvns3als2l",
+            "cid": "bafyreiha5d35rghqfuqttw4qfgbo3dybodqc5klnjwukaawtdk5nllmicq",
+            "author": {
+                "did": "did:plc:a2uvjbnf53w3qvcmra5b6s7f",
+                "handle": "fers1.bsky.social",
+                "displayName": "Fers ✨",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a2uvjbnf53w3qvcmra5b6s7f/bafkreihldw2amhvnrly3mh6cgrpmbsz2lkny5ukqcgmpizhkbdi5nijpiq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:22:19.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T10:54:19.668Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "bah esse calorão tá acabando comigo, cada dia mais cansada e muito soninho"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T10:54:20.757Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:z5gonzux4tvd5qkjn2xb7m3e/app.bsky.feed.post/3lbyubhsstk2o",
+            "cid": "bafyreicjoh754ywdnkibs7uqvtpmkn7b67ddsxv2n7jvtsllpxxxt45ehy",
+            "author": {
+                "did": "did:plc:z5gonzux4tvd5qkjn2xb7m3e",
+                "handle": "bodia.bsky.social",
+                "displayName": "Bodia™ 💦 ø ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z5gonzux4tvd5qkjn2xb7m3e/bafkreib7eltzjucdycte5au7czsc4cobdttxhawovwm2aqz3s3rxwuh6jq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-27T15:55:23.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T10:29:32.511Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "rapaz dormi mó mal hoje, do tipo, parece que eu nem dormi.\nmas também a agraciada aqui foi usar cobertor pra dormir num calorão desses, difícil demais de defender."
+            },
+            "replyCount": 4,
+            "repostCount": 0,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T10:29:33.850Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pbbxq7j6prus6rn4jfv2qvoy/app.bsky.feed.post/3lbyu3xqlw22r",
+            "cid": "bafyreicc6al275jwqfiubyusqv75slvlm44pxfrgp3jkoxdtnzi5464ksm",
+            "author": {
+                "did": "did:plc:pbbxq7j6prus6rn4jfv2qvoy",
+                "handle": "alexguapito.tripazeada.club",
+                "displayName": "Alexito • GUAPODUO ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pbbxq7j6prus6rn4jfv2qvoy/bafkreig62oatowvpvllvzqu5ysyrb3j2jpzzfxvqgune7gupbclpra72my@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T16:20:45.023Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T10:26:27.889Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Perdi o escolar vey corri nesse calorão pra nada🤡"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T10:26:28.148Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vjscfwaft4z2myfkydneuzwe/app.bsky.feed.post/3lbypfarees2q",
+            "cid": "bafyreictwbzne7o4vb5xgyw4gddxbqr3ls6hm2zer3mb2ruoaxykp676hu",
+            "author": {
+                "did": "did:plc:vjscfwaft4z2myfkydneuzwe",
+                "handle": "stetsantos.bsky.social",
+                "displayName": "Ste Tozzo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjscfwaft4z2myfkydneuzwe/bafkreibnbbr4ydk6df2jsxjoe4vctjmer722temxh6mieoixzx4niylfwm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T22:37:17.825Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T09:02:10.630Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caraca muleke... começando a quinta já com 23 °C na cidade de SP. Já tem sol aparecendo aqui na capital, hoje, calorão de novo e ó: possibilidade de pancada de chuva! Máxima, pode chegar aos 35 °C - teremos mais ventos ao longo do dia e tem a chuva retornando mais pro fim da tarde/noite por aqui"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T09:02:11.550Z",
+            "labels": []
+        }
+    ],
+    "cursor": "100"
+}

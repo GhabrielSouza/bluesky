@@ -1,0 +1,2031 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:6re3rtedslzgmhang4b5pxtn/app.bsky.feed.post/3lbi2lom7uc2q",
+            "cid": "bafyreifstvhu7ga63eqdg2pvhlymzyz3awol5ddgtsitoicxnf34z3eyni",
+            "author": {
+                "did": "did:plc:6re3rtedslzgmhang4b5pxtn",
+                "handle": "miaurango.bsky.social",
+                "displayName": "juna ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6re3rtedslzgmhang4b5pxtn/bafkreie7yqyro4jm4ie2qbw7vy6b7iumggi4zv2z5tqn4khrvhav3znhhe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T18:05:40.819Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-21T18:07:22.077Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "a verdade eh que se o xwitter tivesse continuado banido e o bsky assumisse o lugar dele, o apocalipse seria impedido, o fim do mundo adiado e o derretimento das calotas polares revertido"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-21T18:07:23.288Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hdivvnogl4u5thidpqd4qavm/app.bsky.feed.post/3lattqhhelk2q",
+            "cid": "bafyreidrahdglhadhyte5j6sssmuyzw56wdga5fh33uxtf2xvnh4zg5yqe",
+            "author": {
+                "did": "did:plc:hdivvnogl4u5thidpqd4qavm",
+                "handle": "manusapo.bsky.social",
+                "displayName": "manu sapo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hdivvnogl4u5thidpqd4qavm/bafkreiad2scfxufiurx5tscnypqn4zpw6w3kqx6526ww54xp6yfgjmcuoe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:53:11.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T17:11:31.391Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreich4xv7pscycevhmzwq2zhfja4bh3635dw333w4so5p3dwbvaukca",
+                        "uri": "at://did:plc:qfz5hzuegd3guszlx54nd6qm/app.bsky.feed.post/3latl623kjc2i"
+                    },
+                    "root": {
+                        "cid": "bafyreich4xv7pscycevhmzwq2zhfja4bh3635dw333w4so5p3dwbvaukca",
+                        "uri": "at://did:plc:qfz5hzuegd3guszlx54nd6qm/app.bsky.feed.post/3latl623kjc2i"
+                    }
+                },
+                "text": "melhor derretimento (calotas polares winner)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T17:11:32.583Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zbrbupgw3hwts4v4acdzmzko/app.bsky.feed.post/3l6ec4cc2oi2x",
+            "cid": "bafyreiedwuzj3g7tkbv4t2saqvnytctz5m27bt2ahjl7gpmfa2d3jf45sy",
+            "author": {
+                "did": "did:plc:zbrbupgw3hwts4v4acdzmzko",
+                "handle": "arthurgolgolucas.bsky.social",
+                "displayName": "Arthur Golgo Lucas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zbrbupgw3hwts4v4acdzmzko/bafkreiaetnzgjdmzl7atnjct27d77wwte7dvi3yz3znaebt5jdtedzxrl4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-10T03:57:56.430Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T01:55:43.103Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid46n3y65lu4yohvvporbh5d254nsjjkblzwsdcxr4le6rruwdwgy",
+                        "uri": "at://did:plc:zbrbupgw3hwts4v4acdzmzko/app.bsky.feed.post/3l6ec2umxwe2m"
+                    },
+                    "root": {
+                        "cid": "bafyreicfw7rbgf5c4ztpekwzcvwn4cv7qtoiktuxo75vak4ettcw4jvmfu",
+                        "uri": "at://did:plc:zbrbupgw3hwts4v4acdzmzko/app.bsky.feed.post/3l6ebziqiyz2b"
+                    }
+                },
+                "text": "3/10\nO aumento da temperatura média global provoca derretimento de geleiras e calotas polares, elevando o nível do mar e colocando cidades costeiras em risco. Eventos climáticos extremos estão se tornando cada vez mais frequentes e cada vez mais intensos."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T01:55:42.111Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hh6vxypcvtuvfwgsj6tihye2/app.bsky.feed.post/3l66vecsq5f2g",
+            "cid": "bafyreigxdkbatrr2azfcdt4vddg32gb7az5sdbiwqgalr3tuz57vrwvak4",
+            "author": {
+                "did": "did:plc:hh6vxypcvtuvfwgsj6tihye2",
+                "handle": "2024cbs.bsky.social",
+                "displayName": "Celina S.  Busato ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hh6vxypcvtuvfwgsj6tihye2/bafkreifpjyrnbsrnvnmyfvvni4wxvoayuzl6bgfkwlqv5xcq2nmv3bb46a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T20:21:47.774Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T22:24:13.452Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreihs2mvcpijaok7lrrrugbgsfgmd5k6ooj43ceznhkmjggfcye7swm",
+                        "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3l66tpnzjcv2p"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Derretimento das calotas polares não tem volta e o clima será impactado!! Isso é o que acontece quando o dinheiro decide tudo e não a ciência!!!!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3l66tpnzjcv2p",
+                    "cid": "bafyreihs2mvcpijaok7lrrrugbgsfgmd5k6ooj43ceznhkmjggfcye7swm",
+                    "author": {
+                        "did": "did:plc:22u3xlfdxqxyzva2fsljotcy",
+                        "handle": "revistaforum.com.br",
+                        "displayName": "Revista Fórum",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreical2bujjrg6eepu62cgihuzbwqmfxogaxrss7gzphp5igibhavsm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-10T14:05:59.716Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-10T21:54:46.558Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Artigo da revista Nature avisa que remoção de dióxido de carbono da atmosfera não é suficiente para evitar as catastróficas consequências das mudanças do clima",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiel4xkgbmn46zte43s7mft5nqn2x46rjs3s3wmeuhhebpzll5fqvu"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 777249
+                                },
+                                "title": "Não adianta mais reduzir a pegada de carbono para aliviar a crise climática, alertam cientistas",
+                                "uri": "https://revistaforum.com.br/meioambiente/2024/10/10/no-adianta-mais-reduzir-pegada-de-carbono-para-aliviar-crise-climatica-alertam-cientistas-167229.html"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "$type": "app.bsky.richtext.facet",
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#mention",
+                                        "did": "did:plc:m33m2d7tkjo7tijbglszfmp5"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 125,
+                                    "byteStart": 103
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Não adianta mais reduzir a pegada de carbono para aliviar a crise climática, alertam cientistas\n\nPor @iaravidal.bsky.social"
+                    },
+                    "labels": [],
+                    "likeCount": 63,
+                    "replyCount": 4,
+                    "repostCount": 18,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-10-10T21:54:46.558Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://revistaforum.com.br/meioambiente/2024/10/10/no-adianta-mais-reduzir-pegada-de-carbono-para-aliviar-crise-climatica-alertam-cientistas-167229.html",
+                                "title": "Não adianta mais reduzir a pegada de carbono para aliviar a crise climática, alertam cientistas",
+                                "description": "Artigo da revista Nature avisa que remoção de dióxido de carbono da atmosfera não é suficiente para evitar as catastróficas consequências das mudanças do clima",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreiel4xkgbmn46zte43s7mft5nqn2x46rjs3s3wmeuhhebpzll5fqvu@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T22:24:13.452Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3l634j3zdox2i",
+            "cid": "bafyreidkbwzulf72yoxr6bwnpiwb3vda2wborl4j4kg2e7vq63l7c6zwgm",
+            "author": {
+                "did": "did:plc:mhebmnvi5li7s6hmw3s6c3mp",
+                "handle": "liliumazules.bsky.social",
+                "displayName": "Porã (Humanista)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiama644tvjophsoh6tg5vvdtydfdutdslmv6a5pt7d3spu56vugma@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T04:08:34.630Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T10:21:31.334Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 201,
+                                "width": 314
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 78665
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌿Nas profundezas dos oceanos polares, existe um fenômeno incomum e letal, conhecido como \"dedo da morte\", que congela animais marinhos instantaneamente.\n• Cientistas já têm data para o derretimento de todo gelo da Antártida\n• Colapso de geleira da Antártida pode ser irreversível, dizem os cientistas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 201,
+                            "width": 314
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T10:21:31.334Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dsva7vpwdiacliuc5jrqicge/app.bsky.feed.post/3l5f3l2f6vw2u",
+            "cid": "bafyreiedz3wwrxtevcbd37xom4xcjpsjailhluhiwqgzmwlc7ba2xyxitq",
+            "author": {
+                "did": "did:plc:dsva7vpwdiacliuc5jrqicge",
+                "handle": "elianicarvalho.bsky.social",
+                "displayName": "🦂Eliani Carvalho 🦂",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dsva7vpwdiacliuc5jrqicge/bafkreigbs3o3iage6praddqulge6gbxkfjl33gribhd7765wduw7j35774@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T12:14:43.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T16:06:07.770Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1280,
+                        "width": 720
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreihqyx6o4gay5747cgwzuowdsgpn5xdyoyje2npdxsx4wcj66bc4vq"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 6562822
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O aumento das temperaturas globais está causando o derretimento acelerado das geleiras e das calotas polares, o que contribui para a elevação do nível do mar. Além disso, o calor intensifica a evaporação da água dos oceanos, lagos e rios, alterando os padrões climáticos. Ninguém sobrevive sem água."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreihqyx6o4gay5747cgwzuowdsgpn5xdyoyje2npdxsx4wcj66bc4vq",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Adsva7vpwdiacliuc5jrqicge/bafkreihqyx6o4gay5747cgwzuowdsgpn5xdyoyje2npdxsx4wcj66bc4vq/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Adsva7vpwdiacliuc5jrqicge/bafkreihqyx6o4gay5747cgwzuowdsgpn5xdyoyje2npdxsx4wcj66bc4vq/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1280,
+                    "width": 720
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T16:06:07.770Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r77d4ynfwsbeunq4yqhdzpq6/app.bsky.feed.post/3l5eux3iv7a25",
+            "cid": "bafyreignbhmbkfb6borqce7wgo26zmybd772xhvchtiyturdwra5afr3c4",
+            "author": {
+                "did": "did:plc:r77d4ynfwsbeunq4yqhdzpq6",
+                "handle": "malvinaspindola.bsky.social",
+                "displayName": "malvina",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r77d4ynfwsbeunq4yqhdzpq6/bafkreihf6ddb7juwubz3vn3tplxbk6vevq4ncvw4eclgb7nlu3miev22xm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:59:03.895Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T14:07:36.636Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicucqgrinwzm64rc4g23q2toopomfzivoxpqe2fnpylhyt4fhctdm",
+                        "uri": "at://did:plc:kinpsbkqd2vfnttvkxdwlrt2/app.bsky.feed.post/3l53adu6jsh24"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "o futuro pós derretimento dos ursos polares rs"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:kinpsbkqd2vfnttvkxdwlrt2/app.bsky.feed.post/3l53adu6jsh24",
+                    "cid": "bafyreicucqgrinwzm64rc4g23q2toopomfzivoxpqe2fnpylhyt4fhctdm",
+                    "author": {
+                        "did": "did:plc:kinpsbkqd2vfnttvkxdwlrt2",
+                        "handle": "rinaldocosta.bsky.social",
+                        "displayName": "rinaldo costa",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kinpsbkqd2vfnttvkxdwlrt2/bafkreia4s43eiy2ahxfuuz4h5fwb6nvxkwgex32zsnii3qwjsircjmm6qi@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-16T02:36:19.553Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-26T18:04:57.804Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 750,
+                                        "width": 1023
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreidxay67ledhzzi3dadbhkeoexl32bys5cavbjm2aqrtf26mde6gwq"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 305132
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": ""
+                    },
+                    "labels": [],
+                    "likeCount": 252,
+                    "replyCount": 17,
+                    "repostCount": 57,
+                    "quoteCount": 88,
+                    "indexedAt": "2024-09-26T18:04:57.804Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kinpsbkqd2vfnttvkxdwlrt2/bafkreidxay67ledhzzi3dadbhkeoexl32bys5cavbjm2aqrtf26mde6gwq@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kinpsbkqd2vfnttvkxdwlrt2/bafkreidxay67ledhzzi3dadbhkeoexl32bys5cavbjm2aqrtf26mde6gwq@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 750,
+                                        "width": 1023
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T14:07:36.636Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mctdf2ofrtd6nbhwenaadyqj/app.bsky.feed.post/3l53h65wxhl2w",
+            "cid": "bafyreidsgyvwowarhh5nzplbqisxp5tpqwmrjm6qmc4zifqg3h7rxdtnrm",
+            "author": {
+                "did": "did:plc:mctdf2ofrtd6nbhwenaadyqj",
+                "handle": "danstrangetaste.bsky.social",
+                "displayName": "Dan Quixote",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mctdf2ofrtd6nbhwenaadyqj/bafkreie7tx6djfialhwcan45nn4evrzkus27yrntcqlx566tzitohlvysa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-22T11:56:41.377Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T20:07:04.421Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiedhteykldzzaypp55duohf7sxdqrapodo5kqsv4wmwh57encwoua",
+                        "uri": "at://did:plc:xvd2egqg4dsgtsg2aq2l2s3c/app.bsky.feed.post/3l53h2t22bj2w"
+                    },
+                    "root": {
+                        "cid": "bafyreicucqgrinwzm64rc4g23q2toopomfzivoxpqe2fnpylhyt4fhctdm",
+                        "uri": "at://did:plc:kinpsbkqd2vfnttvkxdwlrt2/app.bsky.feed.post/3l53adu6jsh24"
+                    }
+                },
+                "text": "é o efeito do derretimento das calotas polares =("
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T20:07:04.015Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n4ptmyw6pcuheihj6fld54p4/app.bsky.feed.post/3l4gtzyxhyf2m",
+            "cid": "bafyreibfl52nnk5klaetqwwqgsqkg2qgtk5htfacms76dbape4hobipoci",
+            "author": {
+                "did": "did:plc:n4ptmyw6pcuheihj6fld54p4",
+                "handle": "lingnau.bsky.social",
+                "displayName": "analista de ideias mirabolantes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4ptmyw6pcuheihj6fld54p4/bafkreicd2gyh6lu2wqv7hv54ufh6mkkdogkvd5ce25nyqbtxlmn2hq3mza@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-17T21:45:32.686Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T15:31:29.759Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "É evidente o derretimento das calotas polares, tanto que isso é ponto de discussão entre as principais potenciais globais. O problema, todavia, é que essa discussão é sobre como cada um desses países tenta estabelecer sua influência sobre as possíveis novas rotas comerciais abertas no polo norte."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T15:31:28.715Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:z7dnkq7jn6icaxmskue6ryek/app.bsky.feed.post/3l4c3fqywcf2y",
+            "cid": "bafyreihra3d7etbtlvi4fyczfwriehbnaudujt3y5mjvzke3enb2ynhx24",
+            "author": {
+                "did": "did:plc:z7dnkq7jn6icaxmskue6ryek",
+                "handle": "luizfrodrigues.bsky.social",
+                "displayName": "Lufla 🚩🚩🚩🖖🖖🖖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z7dnkq7jn6icaxmskue6ryek/bafkreiav3xd54xl5ev6ekaolfcmafbtby5vdkhuktyktbzlfndroohps5m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:55:33.005Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T18:00:01.696Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Autoridades chinesas fecharam estradas, cancelaram voos e evacuaram as áreas costeiras densamente povoadas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibhk7hopyqgudl2w43fhe4ypqemuuxwor4yc6a2cai6loehxvuasu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 617590
+                        },
+                        "title": "Tufão mais poderoso em 75 anos atinge Xangai, na China",
+                        "uri": "https://www.terra.com.br/planeta/tufao-mais-poderoso-em-75-anos-atinge-xangai-na-china,bdeabd6dbde36b96d412a16025f352fdspy0kzbn.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.terra.com.br/planeta/tufao-mais-poderoso-em-75-anos-atinge-xangai-na-china,bdeabd6dbde36b96d412a16025f352fdspy0kzbn.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 270
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "E assim acontece em todo o planeta. Secas, inundações, tufões (furacões) devastadores, tornados, fogo, derretimento do permafrost, descongelamento das calotas polares, etc. SIM, é para ter medo! SIM, temos de fazer algo! Conscientize-se pelo amor ao seu planeta. \n\nwww.terra.com.br/planeta/tufa..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.terra.com.br/planeta/tufao-mais-poderoso-em-75-anos-atinge-xangai-na-china,bdeabd6dbde36b96d412a16025f352fdspy0kzbn.html",
+                    "title": "Tufão mais poderoso em 75 anos atinge Xangai, na China",
+                    "description": "Autoridades chinesas fecharam estradas, cancelaram voos e evacuaram as áreas costeiras densamente povoadas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z7dnkq7jn6icaxmskue6ryek/bafkreibhk7hopyqgudl2w43fhe4ypqemuuxwor4yc6a2cai6loehxvuasu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T18:00:01.218Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fqfajmf3sehcj67uq2eefblg/app.bsky.feed.post/3l42tfm4rtc27",
+            "cid": "bafyreibw74udfofcymz2r43vk2resh4j7oacey654e63lz6us65w4hopdq",
+            "author": {
+                "did": "did:plc:fqfajmf3sehcj67uq2eefblg",
+                "handle": "truesavre.bsky.social",
+                "displayName": "bia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fqfajmf3sehcj67uq2eefblg/bafkreidgg4bdswscsin56zj2fbpumnbjyx7hupwvlox3joxo7cbbhk4iai@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-31T03:46:36.002Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T20:48:06.961Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihdgf5ro3qo65pqc5eykxswu37yurtbubljvhwg52rpuyep5c4w3u",
+                        "uri": "at://did:plc:zzanvlx7nux6umucwbuma3vc/app.bsky.feed.post/3l42svi2n5d22"
+                    },
+                    "root": {
+                        "cid": "bafyreihdgf5ro3qo65pqc5eykxswu37yurtbubljvhwg52rpuyep5c4w3u",
+                        "uri": "at://did:plc:zzanvlx7nux6umucwbuma3vc/app.bsky.feed.post/3l42svi2n5d22"
+                    }
+                },
+                "text": "quando eu tava no ensino médio a minha professora de biologia me jurou que morreríamos de frio com o derretimento das calotas polares, fui altamente enganada"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T20:48:06.961Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ebulkamluhkcshdpzofb4iw3/app.bsky.feed.post/3l3zwmbfzbf2y",
+            "cid": "bafyreibuimsobbmi26smlcppdhzrhslt5wdlrwldioaz3z3wqi3uuaskrm",
+            "author": {
+                "did": "did:plc:ebulkamluhkcshdpzofb4iw3",
+                "handle": "hotaz3r.bsky.social",
+                "displayName": "hotaz3r",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebulkamluhkcshdpzofb4iw3/bafkreie4qmwbgve2t33jgh2cdvyxsaotchl7q5drfjmaivzsvvfs2gshwi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:45:34.000Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T12:12:52.459Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifua6fbymtzncfwuxl3ulgmct6efevzcoaaohvqgg6o6asjzonihu",
+                        "uri": "at://did:plc:ebulkamluhkcshdpzofb4iw3/app.bsky.feed.post/3l3zwkgswu22m"
+                    },
+                    "root": {
+                        "cid": "bafyreidgyvkijiciqjmls5d5isefoypursezuscduotjmbqbnhrt5gwfma",
+                        "uri": "at://did:plc:4mazzvqdrzuh55h37svndjwd/app.bsky.feed.post/3l3y6nss4j32c"
+                    }
+                },
+                "text": "impossibilita uma visão limpa do reais problemas que afetam o vidro do aquário, sendo esse os problemas globais, como: aquecimento global, derretimento das calotas polares, desmatamento e etc."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T12:12:52.417Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2hnnan4bfmotri5cqpjvy22f/app.bsky.feed.post/3l3yijnhzk42x",
+            "cid": "bafyreieam6olretsklsrdigknjtiuwsmaqkla5rkcj37sqtxgnkdxhoevu",
+            "author": {
+                "did": "did:plc:2hnnan4bfmotri5cqpjvy22f",
+                "handle": "cristinainoue.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2hnnan4bfmotri5cqpjvy22f/bafkreiez2emdx3egsabkcextshfqwu44e6fqsi4cu5m44tkkzcd7cl3h6e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T10:56:15.610Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T22:28:11.851Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibuo7k2qxpnrw3tlsxrjujwdrgfufupp4qaez2ntizmklxvgksdji",
+                        "uri": "at://did:plc:w5qp4ipsoergee2evxnc5zrg/app.bsky.feed.post/3l3yi5gykg225"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em 1992, eu tinha 10 anos, e já se falava do efeito estufa, derretimento das calotas polares. \n\nPassaram + de 30 anos e tudo só piorou. \n\nSomos a última geração q pode tentar reverter alguma coisa desse terrível panorama. As outras gerações infelizmente sofrerão pelo o gde colapso do planeta."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:w5qp4ipsoergee2evxnc5zrg/app.bsky.feed.post/3l3yi5gykg225",
+                    "cid": "bafyreibuo7k2qxpnrw3tlsxrjujwdrgfufupp4qaez2ntizmklxvgksdji",
+                    "author": {
+                        "did": "did:plc:w5qp4ipsoergee2evxnc5zrg",
+                        "handle": "realbuq.bsky.social",
+                        "displayName": "🦋Renata de Albuquerque",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w5qp4ipsoergee2evxnc5zrg/bafkreiepgqvkd5y7jn2em3t4zlenn6gmkrcfesftiwzmuzqg52hmjizwom@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-09T01:00:17.076Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-12T22:21:20.794Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Eu queria não saber (pra não sofrer) que o 1º aviso sobre este apocalipse climático foi dado em 1992 e quase nada foi feito desde então. \nDiante disso, é triste ter que tomar a ironia de Machado pelo valor de face: \"não tive filhos. Não transmiti a nenhum ser humano o legado de nossa miséria\"."
+                    },
+                    "labels": [],
+                    "likeCount": 5,
+                    "replyCount": 1,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-12T22:21:20.794Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T22:28:11.851Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vcedx43ahnkodqaran43mdr5/app.bsky.feed.post/3l3w75x4rgh2k",
+            "cid": "bafyreidtwsidlahv2fo6hjrscrdpbb7foqqutrao45znuiznrbekm4kbyu",
+            "author": {
+                "did": "did:plc:vcedx43ahnkodqaran43mdr5",
+                "handle": "cavetownoffline.bsky.social",
+                "displayName": "Mili 🐋🐧",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcedx43ahnkodqaran43mdr5/bafkreifll7qexfu6rfx3szzagrcihnntsjx7wahcpp6lkqan56ptxe7pp4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:54:54.334Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T00:35:15.750Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefyfryv4tlvs5xjeqnrl44kuxaut2aq536iebjcrbigi2pz2yetm",
+                        "uri": "at://did:plc:kfgezepgy7gwufcggus3bsed/app.bsky.feed.post/3l3vemanvri2c"
+                    },
+                    "root": {
+                        "cid": "bafyreiefyfryv4tlvs5xjeqnrl44kuxaut2aq536iebjcrbigi2pz2yetm",
+                        "uri": "at://did:plc:kfgezepgy7gwufcggus3bsed/app.bsky.feed.post/3l3vemanvri2c"
+                    }
+                },
+                "text": "ideia de date: vamos na praia e eu te explico como o aquecimento global é real e falo sobre a acidificação dos oceanos e do derretimento das calotas polares e fico 1h falando sobre o comportamento dos meus animais marinhos preferidos e você tenta não morrer de tédio"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T00:35:15.750Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nybvcgodde4yhp3v7qbixzfx/app.bsky.feed.post/3l3vfovatzf2v",
+            "cid": "bafyreigi5dl2o7cjxmoh2lgknznrwl7dbyehfxae6dqek3syxwawvbaj4y",
+            "author": {
+                "did": "did:plc:nybvcgodde4yhp3v7qbixzfx",
+                "handle": "tharu.bsky.social",
+                "displayName": "Tharu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nybvcgodde4yhp3v7qbixzfx/bafkreidi6nemimsqvqzgmucjs2vmcu53ygs3xu6nca7e23sxgyxzzf5yrm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-19T17:48:08.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:59:27.594Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 540,
+                                    "width": 568
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreicn5rz3jwrivulm7ygkuodl2oxp7ci3oai3xewtavmu5slrfkfvwa"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 218205
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreihnpdo6e2adp6bfswzih53fp6huqpohlmnp3h5isods5xz4p4aeqm",
+                            "uri": "at://did:plc:jm37as77rwq7djwedltbtrzp/app.bsky.feed.post/3l3vfkbfjgk24"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Aguardemos o derretimento das calotas polares"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nybvcgodde4yhp3v7qbixzfx/bafkreicn5rz3jwrivulm7ygkuodl2oxp7ci3oai3xewtavmu5slrfkfvwa@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nybvcgodde4yhp3v7qbixzfx/bafkreicn5rz3jwrivulm7ygkuodl2oxp7ci3oai3xewtavmu5slrfkfvwa@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 540,
+                                "width": 568
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:jm37as77rwq7djwedltbtrzp/app.bsky.feed.post/3l3vfkbfjgk24",
+                        "cid": "bafyreihnpdo6e2adp6bfswzih53fp6huqpohlmnp3h5isods5xz4p4aeqm",
+                        "author": {
+                            "did": "did:plc:jm37as77rwq7djwedltbtrzp",
+                            "handle": "geannlima.bsky.social",
+                            "displayName": "the joker is geann 🃏🛟🖤",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jm37as77rwq7djwedltbtrzp/bafkreievccfbkuyiiopqttd653wmgtq6fq5tnjtn5c66k4gchkngwc7x4q@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2024-09-06T10:40:25.317Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-11T16:56:50.131Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1980,
+                                            "width": 2000
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreiaepfyqahjad37fmk3h6rjp3oel5v66hoov5nuldfd4pm4t7yx7zy"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 623761
+                                        }
+                                    }
+                                ]
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "O resto do país se acabando em fumaça e com um sol foderoso, e o meu Recife chovendo como se nada estive acontecendo."
+                        },
+                        "labels": [],
+                        "likeCount": 24,
+                        "replyCount": 3,
+                        "repostCount": 2,
+                        "quoteCount": 2,
+                        "indexedAt": "2024-09-11T16:56:50.131Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jm37as77rwq7djwedltbtrzp/bafkreiaepfyqahjad37fmk3h6rjp3oel5v66hoov5nuldfd4pm4t7yx7zy@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jm37as77rwq7djwedltbtrzp/bafkreiaepfyqahjad37fmk3h6rjp3oel5v66hoov5nuldfd4pm4t7yx7zy@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1980,
+                                            "width": 2000
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:59:27.594Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3vdef34az2b",
+            "cid": "bafyreidjnslsyh7ayg5h6mdzchodmqseryym3ndcsch5zzgtlafeafs7ky",
+            "author": {
+                "did": "did:plc:te4wuwnhed472xclgmbqdtva",
+                "handle": "alephione.bsky.social",
+                "displayName": "@Sweet Child",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiakolkiwxlbkn2z4dr6l6vyfr3o4hakeve3ztt3hfmlaxsl3a7jme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:54:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:17:47.003Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "",
+                        "uri": "https://bsky.app/profile/myme.."
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bsky.app/profile/myme.."
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 255
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigw7cmianexzl6de47vnxhrjqmgxw5yt3tbkcxfpwq55sxfxxqsiu",
+                        "uri": "at://did:plc:ihe64ayhpqmvncf4xdh37uef/app.bsky.feed.post/3l3r73rhjul2x"
+                    },
+                    "root": {
+                        "cid": "bafyreigw7cmianexzl6de47vnxhrjqmgxw5yt3tbkcxfpwq55sxfxxqsiu",
+                        "uri": "at://did:plc:ihe64ayhpqmvncf4xdh37uef/app.bsky.feed.post/3l3r73rhjul2x"
+                    }
+                },
+                "text": "Se aumenta a temperatura da atmosfera o planeta se torna a penela de pressão. \n\nFísicos entendem \n\nO Mito de Teseu e o labirinto espelhado do ego do minotauro.\n\nO efeito estufa e o derretimento das camadas polares através das queimadas por grilagem. \n\nbsky.app/profile/myme..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bsky.app/profile/myme..",
+                    "title": "",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:17:47.003Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3vdcvzfqe2a",
+            "cid": "bafyreigljpdpwujqionhouqnoeokpjaahcqrcwc33ouh4iulm5hfrskk5a",
+            "author": {
+                "did": "did:plc:te4wuwnhed472xclgmbqdtva",
+                "handle": "alephione.bsky.social",
+                "displayName": "@Sweet Child",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiakolkiwxlbkn2z4dr6l6vyfr3o4hakeve3ztt3hfmlaxsl3a7jme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:54:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:16:57.579Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "",
+                        "uri": "https://bsky.app/profile/myme.."
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bsky.app/profile/myme.."
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 255
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiff7weozlb3kok4qygkudncdmr2gcds3tkg2i4hoyicl2bmlwmuni",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3vcr6lplk22"
+                    },
+                    "root": {
+                        "cid": "bafyreibk4z245bu3ogtqqdcheu3a5fx46j5454qrnh7fgsxv7u6g5w66bm",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v5m2zndi2t"
+                    }
+                },
+                "text": "Se aumenta a temperatura da atmosfera o planeta se torna a penela de pressão. \n\nFísicos entendem \n\nO Mito de Teseu e o labirinto espelhado do ego do minotauro.\n\nO efeito estufa e o derretimento das camadas polares através das queimadas por grilagem. \n\nbsky.app/profile/myme..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bsky.app/profile/myme..",
+                    "title": "",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:16:57.579Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3vcr6lplk22",
+            "cid": "bafyreiff7weozlb3kok4qygkudncdmr2gcds3tkg2i4hoyicl2bmlwmuni",
+            "author": {
+                "did": "did:plc:te4wuwnhed472xclgmbqdtva",
+                "handle": "alephione.bsky.social",
+                "displayName": "@Sweet Child",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiakolkiwxlbkn2z4dr6l6vyfr3o4hakeve3ztt3hfmlaxsl3a7jme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:54:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:07:02.542Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreigf3t7sfh3xnwkrewrjylauznls4as7zjyotauqomjz3r74wjusxi",
+                        "uri": "at://did:plc:rhaparj7gjsnrpbvmjsv46ns/app.bsky.feed.post/3l3uueyqbba2j"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bsky.app/profile/mymelosite.bsky.social/post/3l3uueyqbba2j"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 279,
+                            "byteStart": 255
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigkqqrf5eq7gwshoph3jhoqjze4kfvx2rjrg7lvdgfk63gtiz4p6m",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v7ge5dk627"
+                    },
+                    "root": {
+                        "cid": "bafyreibk4z245bu3ogtqqdcheu3a5fx46j5454qrnh7fgsxv7u6g5w66bm",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v5m2zndi2t"
+                    }
+                },
+                "text": "Se aumenta a temperatura da atmosfera o planeta se torna a penela de pressão. \n\nFísicos entendem \n\nO Mito de Teseu e o labirinto espelhado do ego do minotauro.\n\nO efeito estufa e o derretimento das camadas polares através das queimadas por grilagem. \n\nbsky.app/profile/myme..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:rhaparj7gjsnrpbvmjsv46ns/app.bsky.feed.post/3l3uueyqbba2j",
+                    "cid": "bafyreigf3t7sfh3xnwkrewrjylauznls4as7zjyotauqomjz3r74wjusxi",
+                    "author": {
+                        "did": "did:plc:rhaparj7gjsnrpbvmjsv46ns",
+                        "handle": "lovemyevan.shy.cat",
+                        "displayName": "sara. evan's wife ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rhaparj7gjsnrpbvmjsv46ns/bafkreibisfclui5burkxh2mqlyf54j3uhiedvylh7wmncwivk5elhbmxuy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-31T22:55:09.004Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-11T11:49:41.777Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "ALT: a picture of a burning earth with fire coming out of it",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiaeljkpsgvztd52xv2d5tue65f4ynay2gi4gqk5vrybjugnnrx6ru"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 922859
+                                },
+                                "title": "a picture of a burning earth with fire coming out of it",
+                                "uri": "https://media.tenor.com/i7f0rHKUCEoAAAAC/burn-fire.gif?hh=379&ww=498"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "\"mas no futuro\"\n\no mundo nesse exato momento"
+                    },
+                    "labels": [],
+                    "likeCount": 15988,
+                    "replyCount": 86,
+                    "repostCount": 3663,
+                    "quoteCount": 128,
+                    "indexedAt": "2024-09-11T11:49:41.777Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://media.tenor.com/i7f0rHKUCEoAAAAC/burn-fire.gif?hh=379&ww=498",
+                                "title": "a picture of a burning earth with fire coming out of it",
+                                "description": "ALT: a picture of a burning earth with fire coming out of it",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rhaparj7gjsnrpbvmjsv46ns/bafkreiaeljkpsgvztd52xv2d5tue65f4ynay2gi4gqk5vrybjugnnrx6ru@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:07:02.542Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v7ge5dk627",
+            "cid": "bafyreigkqqrf5eq7gwshoph3jhoqjze4kfvx2rjrg7lvdgfk63gtiz4p6m",
+            "author": {
+                "did": "did:plc:te4wuwnhed472xclgmbqdtva",
+                "handle": "alephione.bsky.social",
+                "displayName": "@Sweet Child",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiakolkiwxlbkn2z4dr6l6vyfr3o4hakeve3ztt3hfmlaxsl3a7jme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:54:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T15:07:18.070Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 426356
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 439281
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibwcrw3fa55la4h5dax54ixf6jd4bi6fkaszwpjkbnw4d7lszfe4a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 111661
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 187,
+                                "width": 269
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidummx67trg24s7mmuzvwnwmkewynrltwsl6ime2eitksrvpzaj7i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 32823
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifmmko3rflygglurn6yk5dqtkbj34bfbwaeyuybefrieae4r7x26m",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v6xcv2yi2y"
+                    },
+                    "root": {
+                        "cid": "bafyreibk4z245bu3ogtqqdcheu3a5fx46j5454qrnh7fgsxv7u6g5w66bm",
+                        "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v5m2zndi2t"
+                    }
+                },
+                "text": "Queimadas no 🇧🇷 aumentou  100% em relação ao ano anterior, 159.411 focos registrados até 09 de 24. A 🌍 se espalhou pelo país, afetando a qualidade do ar, os estados mais atingidos são Mato Grosso, Pará e Amazonas\n\nO efeito estufa e o derretimento das camadas polares através das queimadas por grilagem"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1920,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1920,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreibwcrw3fa55la4h5dax54ixf6jd4bi6fkaszwpjkbnw4d7lszfe4a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreibwcrw3fa55la4h5dax54ixf6jd4bi6fkaszwpjkbnw4d7lszfe4a@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 720
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreidummx67trg24s7mmuzvwnwmkewynrltwsl6ime2eitksrvpzaj7i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreidummx67trg24s7mmuzvwnwmkewynrltwsl6ime2eitksrvpzaj7i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 187,
+                            "width": 269
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T15:07:18.070Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:te4wuwnhed472xclgmbqdtva/app.bsky.feed.post/3l3v5m2zndi2t",
+            "cid": "bafyreibk4z245bu3ogtqqdcheu3a5fx46j5454qrnh7fgsxv7u6g5w66bm",
+            "author": {
+                "did": "did:plc:te4wuwnhed472xclgmbqdtva",
+                "handle": "alephione.bsky.social",
+                "displayName": "@Sweet Child",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiakolkiwxlbkn2z4dr6l6vyfr3o4hakeve3ztt3hfmlaxsl3a7jme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T14:54:18.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T14:34:42.662Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 426356
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 439281
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1920,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic7gwg7ckoxnwrvbzqndxhen4rdbeotct2pjokzcm4hfzwnavehzy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 371237
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1225,
+                                "width": 1079
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihxryzqpn36myr6whforxaxrfamljcuo7mub47pq24cifaqpkzwk4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 337340
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O que está acontecendo com o planeta é por conta dos Governantes. \n\nO efeito estufa e o derretimento das camadas polares através das queimadas por grilagem.\n\nTese, antítese e síntese.\n\nCícero/Teseu: filósofo autodidata. Filho de Zeus. \n..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreicjesfeasiufqfhzpuzfqasoohjtdssetbvipfzmchvvf7rz425ji@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1920,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreiak52hbygfnxsknvkq76n26bfyjgt6c7g2f5mpb7mldr4tnmbugxi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1920,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreic7gwg7ckoxnwrvbzqndxhen4rdbeotct2pjokzcm4hfzwnavehzy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreic7gwg7ckoxnwrvbzqndxhen4rdbeotct2pjokzcm4hfzwnavehzy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1920,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreihxryzqpn36myr6whforxaxrfamljcuo7mub47pq24cifaqpkzwk4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:te4wuwnhed472xclgmbqdtva/bafkreihxryzqpn36myr6whforxaxrfamljcuo7mub47pq24cifaqpkzwk4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1225,
+                            "width": 1079
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T14:34:42.662Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bh7akbc7zsc4q6nloug6wmrr/app.bsky.feed.post/3l3uujnmler2f",
+            "cid": "bafyreihiw54w43tfqu3gm4jdc4d5qucsbdvgl7j5alpxjwg64a6ezmp6uu",
+            "author": {
+                "did": "did:plc:bh7akbc7zsc4q6nloug6wmrr",
+                "handle": "dheberhardt1977.bsky.social",
+                "displayName": "Daniel H. Eberhardt",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bh7akbc7zsc4q6nloug6wmrr/bafkreihuij7v7qkkkfg65anpd6g2xq3n5wc5w5rkel3o7hmurs34browza@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T13:13:09.402Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T11:52:18.225Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigmqqinhiwafxs7ydzagz2f7lil773mp62mfgyk56hki3lfccqcim",
+                        "uri": "at://did:plc:s7pquvf4dvn3ommfu7fvnujx/app.bsky.feed.post/3l3uu7b55hx2l"
+                    },
+                    "root": {
+                        "cid": "bafyreigmqqinhiwafxs7ydzagz2f7lil773mp62mfgyk56hki3lfccqcim",
+                        "uri": "at://did:plc:s7pquvf4dvn3ommfu7fvnujx/app.bsky.feed.post/3l3uu7b55hx2l"
+                    }
+                },
+                "text": "Uma vez, há quase 20 anos, li uma matéria no The Globe and Mail de Toronto onde falavam das possibilidades de desenvolvimento econômico p/algumas regiões do Ártico canadense q o derretimento das calotas polares iria criar. Evidentemente os caras tomaram chapiscada para todo lado depois desta pérola"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T11:52:18.225Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vrmwqqrpse3nbahfya6dzdak/app.bsky.feed.post/3l3ssh4kgo722",
+            "cid": "bafyreib7sgdvjgqqr2alws7rmpwsrnpa6bgxpwelvg33zfma7hlwcbkbfq",
+            "author": {
+                "did": "did:plc:vrmwqqrpse3nbahfya6dzdak",
+                "handle": "halalson.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vrmwqqrpse3nbahfya6dzdak/bafkreifxvefnqcvoqnaodyw32kgb3xeylhsvgxuoxoljh62hpckbxa4ngm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T12:52:04.937Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T16:09:45.608Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "o derretimento das calotas polares ou a volta do Linkin Park, somente o tempo dirá qual o mais danoso pra humanidade \n\nvoz do narrador: “a volta do LP, óbvio”"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T16:09:45.608Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:l3b3avbsciq72xk2zyn7ailk/app.bsky.feed.post/3l3qv4jgj332g",
+            "cid": "bafyreigiymytizqq3mevphfe4ud5edwhexisjktiwkdp3y2hy4qck4zmdy",
+            "author": {
+                "did": "did:plc:l3b3avbsciq72xk2zyn7ailk",
+                "handle": "frutafresca.bsky.social",
+                "displayName": "gabrielle ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l3b3avbsciq72xk2zyn7ailk/bafkreibhwlluwffbhjbbu2srlbwvhqogc5vshgxorth643tv73647kdfym@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-28T23:47:50.219Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T21:52:07.994Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "queimadas aquecimento global derretimento das calotas polares aumento do nivel do mar inversão dos campos magneticos doenças radiação extinção da fauna e flora"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T21:52:07.994Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ivwfy6w3pswulxoivfmtp5zj/app.bsky.feed.post/3l3ge6esqpq2x",
+            "cid": "bafyreie7o2o5b4bczo2htbkar5lgnujskx56yom5ug35v4vjgohjkfwivq",
+            "author": {
+                "did": "did:plc:ivwfy6w3pswulxoivfmtp5zj",
+                "handle": "brenodcoimbra.bsky.social",
+                "displayName": "Breno",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ivwfy6w3pswulxoivfmtp5zj/bafkreidyl6gq74jf55lrfn7sitwzg5dgsd7z6l6yv4jo6c2hcr4kd2y2ja@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T11:40:51.769Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T17:22:23.696Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicofycwqnqdwk7s7fe4zwe2oxfbp3k4bx2mollvi4fazyikmm4sgm",
+                        "uri": "at://did:plc:xkinxpggn77lubtqfrreepne/app.bsky.feed.post/3l3gdvlrzb42y"
+                    },
+                    "root": {
+                        "cid": "bafyreicofycwqnqdwk7s7fe4zwe2oxfbp3k4bx2mollvi4fazyikmm4sgm",
+                        "uri": "at://did:plc:xkinxpggn77lubtqfrreepne/app.bsky.feed.post/3l3gdvlrzb42y"
+                    }
+                },
+                "text": "100% água das calotas polares em derretimento, 0% água em temperatura ambiente."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T17:22:23.696Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ae3urvhifeba5lsznqjssfda/app.bsky.feed.post/3l3fuhr3hpb2l",
+            "cid": "bafyreieyfg3bgb7zf6naq3gh26pdte5e7vg6safjersscutqcymwi3pi5m",
+            "author": {
+                "did": "did:plc:ae3urvhifeba5lsznqjssfda",
+                "handle": "liyttzjimo.bsky.social",
+                "displayName": "onda⁷ 🍒",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ae3urvhifeba5lsznqjssfda/bafkreiddjlbnxkze34mwrvx5qoucxynhfnuuz7be47iy5t6dod4ykq6fam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:55:42.945Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T12:41:18.064Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreierlhiqsju7gy4vanan7luie5zoocn5fuwtsmg6kjqtwnqy5b5gra",
+                        "uri": "at://did:plc:ae3urvhifeba5lsznqjssfda/app.bsky.feed.post/3l3fudt2ruv25"
+                    },
+                    "root": {
+                        "cid": "bafyreierlhiqsju7gy4vanan7luie5zoocn5fuwtsmg6kjqtwnqy5b5gra",
+                        "uri": "at://did:plc:ae3urvhifeba5lsznqjssfda/app.bsky.feed.post/3l3fudt2ruv25"
+                    }
+                },
+                "text": "Não comecei a desenvolver meu d2 e nem minha conclusão porque quero ter certeza que fechei minha tese 1 sobre as alterações climáticas afetarem em diversos aspectos na vida, e meu d2 seria sobre a perca da biodiversidade, tenho planos de citar o Polo Norte e o derretimento das calotas polares+"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T12:41:18.064Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dqzrmfc6nndiqg2zplpz7fmo/app.bsky.feed.post/3kxiefqtu2c2m",
+            "cid": "bafyreighxldbojt65szdshdomrr7keax2gsg6gxqwyvvjprokh67lsqr3m",
+            "author": {
+                "did": "did:plc:dqzrmfc6nndiqg2zplpz7fmo",
+                "handle": "yusilver.bsky.social",
+                "displayName": "Nat 🖤🏳️‍🌈",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dqzrmfc6nndiqg2zplpz7fmo/bafkreielbaewxnrplb53etxtn55mtpd2lfi7nliq4fptrle64omt6pefry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-23T23:59:33.070Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-17T14:51:04.138Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreife43htxiefccqeyifsk4ukd6rznwhumboilfbiqsdswqlrtzaxyu",
+                        "uri": "at://did:plc:iebzj2c3y57wjzf775pvuzo2/app.bsky.feed.post/3kxiedems6s2a"
+                    },
+                    "root": {
+                        "cid": "bafyreib4icchr5s7lyciyuhsbwnl2g2ek66df6iusbpy6sqxw4k7fpxvbi",
+                        "uri": "at://did:plc:iebzj2c3y57wjzf775pvuzo2/app.bsky.feed.post/3kxfguyrzqj2q"
+                    }
+                },
+                "text": "EXPECTATIVA: dar casa e carro pros pais\n\nREALIDADE: testemunhar o derretimento das calotas polares"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-17T14:51:04.138Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pgwfwgn7tybk4oroppoibgvl/app.bsky.feed.post/3knvua7fmn22a",
+            "cid": "bafyreibwma6sqdmgvawkl2ifx3h4iaiof7lra4bh33yc4hg3eaa7a62gga",
+            "author": {
+                "did": "did:plc:pgwfwgn7tybk4oroppoibgvl",
+                "handle": "itazuratora.boo",
+                "displayName": "Trigue Trigado",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pgwfwgn7tybk4oroppoibgvl/bafkreia372otyjqyic47xtjnmry7isgwdwegfugijaugbnxnfticzx7eb4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:pgwfwgn7tybk4oroppoibgvl",
+                        "uri": "at://did:plc:pgwfwgn7tybk4oroppoibgvl/app.bsky.actor.profile/self",
+                        "cid": "bafyreifdmvjxze5fa5w4vqpwxvl7zk4x6en2mu7b4v4djsn5meada34z24",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-19T20:45:39.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-17T17:26:57.242Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 886,
+                                    "width": 1080
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreic4jdjgvlxcfg7ubwearfc3jbkhqgir75xojd3765dopuuh6wdohe"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 250260
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreidwgbrug5tct4lidac3dk24z2qpzk6yws6wikp36wmntjq6ywczj4",
+                            "uri": "at://did:plc:xkinxpggn77lubtqfrreepne/app.bsky.feed.post/3knvo3yu2cd2z"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Trem do derretimento das calotas polares"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pgwfwgn7tybk4oroppoibgvl/bafkreic4jdjgvlxcfg7ubwearfc3jbkhqgir75xojd3765dopuuh6wdohe@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:pgwfwgn7tybk4oroppoibgvl/bafkreic4jdjgvlxcfg7ubwearfc3jbkhqgir75xojd3765dopuuh6wdohe@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 886,
+                                "width": 1080
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "$type": "app.bsky.embed.record#view",
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewNotFound",
+                        "uri": "at://did:plc:xkinxpggn77lubtqfrreepne/app.bsky.feed.post/3knvo3yu2cd2z",
+                        "notFound": true
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-17T17:26:57.242Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kllvw2k3zt2g",
+            "cid": "bafyreicsweni24ig2odlptx32nuih7qxtyy42cuzsrpu4k7c7hffw2vge4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-17T07:40:02.269423Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O derretimento do gelo está forçando esta espécie icônica do Ártico a passar mais tempo em terra, onde luta por comida.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibukzqenjonqsgxfyjbyuc7ywvj3nlim5goxpi5hzjn5ckvgxc3je"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 125616
+                        },
+                        "title": "Fome ameaça vida dos ursos polares com derretimento glacial no Ártico",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/02/17/fome-ameaca-vida-dos-ursos-polares-com-derretimento-glacial-no-artico.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fome ameaça vida dos ursos polares com derretimento glacial no Ártico"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/02/17/fome-ameaca-vida-dos-ursos-polares-com-derretimento-glacial-no-artico.ghtml",
+                    "title": "Fome ameaça vida dos ursos polares com derretimento glacial no Ártico",
+                    "description": "O derretimento do gelo está forçando esta espécie icônica do Ártico a passar mais tempo em terra, onde luta por comida.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibukzqenjonqsgxfyjbyuc7ywvj3nlim5goxpi5hzjn5ckvgxc3je@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-17T07:40:02.269Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.feed.post/3kld7gxxotk2l",
+            "cid": "bafyreibykzdbbzjv7ayegbi4kjzp4cyttv7gnfpatff7apyii2iopvzzqq",
+            "author": {
+                "did": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                "handle": "meurefugionerd.bsky.social",
+                "displayName": "🦋MEU REFUGIO NERD(LUKE)🍥🎮🔥🚀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwrvr75ryt5a73kwm4vdxkw7/bafkreibn5n2a4ztf7jy3pkpfigvsbaim3pzcldtzxaiibbobse7wfd2cxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                        "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.actor.profile/self",
+                        "cid": "bafyreihcijnz3efeuuugpknss5exddpdvrdfsqhuqnozwi3awdvleyeo64",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T20:14:50.877Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-13T20:36:38.051Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.bbc.com/portuguese/articles/ce94kpxkz37o"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 99,
+                            "byteStart": 72
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fome ameaça vida dos ursos polares com derretimento glacial no Ártico\nwww.bbc.com/portuguese/a..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-13T20:36:38.051Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vljgfzvjl3dkmjgsjmdoaidc/app.bsky.feed.post/3kld5fla3wk25",
+            "cid": "bafyreid4qee7pdi34mw7hik67m3yrbgxbrcksnjs5gvhf2srimvjly5p5q",
+            "author": {
+                "did": "did:plc:vljgfzvjl3dkmjgsjmdoaidc",
+                "handle": "bbcnews-br-bot-rss.adilson.net.br",
+                "displayName": "BBC News Brasil (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiblfqcx2ypeap37o4egcvkasm2clha54vs7hiefsptlw3joozabom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-26T19:08:58.574Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-13T20:00:02.546246Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O derretimento do gelo está forçando esta espécie icônica do Ártico a passar mais tempo em terra, onde luta por comida.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicz44ap4ffeecr47clybeyktty4pvzy7gbpzw3md4yzyflv5qmb6y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 82140
+                        },
+                        "title": "Mudança climática: fome ameaça vida dos ursos polares com derretimento glacial no Ártico - BBC News Brasil",
+                        "uri": "https://www.bbc.com/portuguese/articles/ce94kpxkz37o"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fome ameaça vida dos ursos polares com derretimento glacial no Ártico"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bbc.com/portuguese/articles/ce94kpxkz37o",
+                    "title": "Mudança climática: fome ameaça vida dos ursos polares com derretimento glacial no Ártico - BBC News Brasil",
+                    "description": "O derretimento do gelo está forçando esta espécie icônica do Ártico a passar mais tempo em terra, onde luta por comida.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreicz44ap4ffeecr47clybeyktty4pvzy7gbpzw3md4yzyflv5qmb6y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-13T20:00:02.546Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ktsazu6f2rvtdmovijqwecpc/app.bsky.feed.post/3ke5h6e3c3c23",
+            "cid": "bafyreicj4sdainuidk2fizky2cufq6qdqtywumihr7ctelkr2nejxrodhe",
+            "author": {
+                "did": "did:plc:ktsazu6f2rvtdmovijqwecpc",
+                "handle": "supermuggle.bsky.social",
+                "displayName": "Super Trouxa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ktsazu6f2rvtdmovijqwecpc/bafkreiaf767cm3fsy5p2hah6aasgi4pfsfnqxowl3knhdz6w3uke4r6xnq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ktsazu6f2rvtdmovijqwecpc",
+                        "uri": "at://did:plc:ktsazu6f2rvtdmovijqwecpc/app.bsky.actor.profile/self",
+                        "cid": "bafyreigz6gupzffaqbpuw2dwt3d77kkppeyvpghh2zlivqkkeunk54hmv4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-20T08:36:49.073Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-14T11:43:38.237Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Solzinho produzindo bastante Vitamina D (de Derretimento das calotas polares)"
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-14T11:43:38.237Z",
+            "labels": []
+        }
+    ]
+}

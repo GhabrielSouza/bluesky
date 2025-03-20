@@ -1,0 +1,211 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:aveobawjkfst7rosqv7yav6t/app.bsky.feed.post/3l65cybkmd72o",
+            "cid": "bafyreibm2tqopzqeck5jzhjgoxva6xzro7vhytjh76nwib7v6md3lnhaty",
+            "author": {
+                "did": "did:plc:aveobawjkfst7rosqv7yav6t",
+                "handle": "rexfenix.bsky.social",
+                "displayName": "Rex",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aveobawjkfst7rosqv7yav6t/bafkreidupwx6orwiby26peeqjiqmh5uotmkrkexx3cngtp2noxrdizdhsy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T03:32:26.598Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T07:22:41.424Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fico pensando aqui naquele climatólogo ou sei lá como chama q chegou a chorar ao falar do furacão q estava indo para Flórida e no fim ele virou  Categoria 1. Ele deve estar vendo tanta alteração climática q já está com stress pós traumático ou algo desse tipo."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T07:22:41.424Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bfgqwcuyrg3ibz3olewh3ou7/app.bsky.feed.post/3l644hr2ere24",
+            "cid": "bafyreigncuii646l6hxkjq72ujkbrlhpib27p5lrhprnrxsgvy3vepibsi",
+            "author": {
+                "did": "did:plc:bfgqwcuyrg3ibz3olewh3ou7",
+                "handle": "nomelouco37.bsky.social",
+                "displayName": "Celia Sanchez ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bfgqwcuyrg3ibz3olewh3ou7/bafkreid4erjlprfr4hca2yp7tqjy37r3ydecvnh7vdmzy5ukdlqgisan4a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-04T19:41:50.106Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T19:53:26.072Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie2zctc4hbhl5uzfa3vi37rzubsbqkzsiv3win3vcmivzbpmkphga",
+                        "uri": "at://did:plc:zs2yk4eq2mnb5slvzctcpb67/app.bsky.feed.post/3l644fgxttx26"
+                    },
+                    "root": {
+                        "cid": "bafyreiahtzyvkkkaskagjumekk6skfxx7jlnn5x7hvkwcoox66sdbwstyq",
+                        "uri": "at://did:plc:bfgqwcuyrg3ibz3olewh3ou7/app.bsky.feed.post/3l6445ovofm2w"
+                    }
+                },
+                "text": "Acho que a galera tá caindo porque o rapaz é pesquisador climático (só não sei se é climatólogo ou algo do gênero) e aí tem o apelo da autoridade!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T19:53:26.072Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wfk6k4enh7t2nfpjwdzpcjda/app.bsky.feed.post/3l5xolu2gbk2x",
+            "cid": "bafyreief7dou7i5eb2533iewune64tqxmitwvxqb565zbmbdjqawwuotwq",
+            "author": {
+                "did": "did:plc:wfk6k4enh7t2nfpjwdzpcjda",
+                "handle": "aphelionn.bsky.social",
+                "displayName": "abadá",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wfk6k4enh7t2nfpjwdzpcjda/bafkreiehluk3afbf2kxoxpn5xuxc6iy23hz7gopizaxe4r3d3t27vt2edi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:03:25.041Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T01:34:31.148Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreihdqcthh2qnip6d4au6erhqdzat56hgculu5hcawlefpdorta6at4",
+                        "uri": "at://did:plc:sirdkymw5nnqynafgwwmyxq4/app.bsky.feed.post/3l5xl2wyib32a"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "poxa, nenhum climatólogo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:sirdkymw5nnqynafgwwmyxq4/app.bsky.feed.post/3l5xl2wyib32a",
+                    "cid": "bafyreihdqcthh2qnip6d4au6erhqdzat56hgculu5hcawlefpdorta6at4",
+                    "author": {
+                        "did": "did:plc:sirdkymw5nnqynafgwwmyxq4",
+                        "handle": "doutorasara.bsky.social",
+                        "displayName": "drag queen ex assentada do mst",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sirdkymw5nnqynafgwwmyxq4/bafkreiazwbhyefyjftxjka7lnagnioqgvrimr3a7upb65zpeuxwm76kreq@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-31T22:37:50.204Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-08T00:31:22.556Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1447,
+                                        "width": 882
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreigeaqkkmyti3p6zmb22frqupkgwi2it2d5szxauwoupladinkbroe"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 485166
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": ""
+                    },
+                    "labels": [],
+                    "likeCount": 238,
+                    "replyCount": 13,
+                    "repostCount": 30,
+                    "quoteCount": 160,
+                    "indexedAt": "2024-10-08T00:31:22.556Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sirdkymw5nnqynafgwwmyxq4/bafkreigeaqkkmyti3p6zmb22frqupkgwi2it2d5szxauwoupladinkbroe@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sirdkymw5nnqynafgwwmyxq4/bafkreigeaqkkmyti3p6zmb22frqupkgwi2it2d5szxauwoupladinkbroe@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1447,
+                                        "width": 882
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T01:34:31.148Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n53qomth5aic7iovjgcnzkn2/app.bsky.feed.post/3kroaglmppn2a",
+            "cid": "bafyreibtdowb2nk6bf3wlzrgl6mhojoyk7ubcx22zxojxjresr3zcrwoni",
+            "author": {
+                "did": "did:plc:n53qomth5aic7iovjgcnzkn2",
+                "handle": "memenomia.bsky.social",
+                "displayName": "Francisco 🇵🇸🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n53qomth5aic7iovjgcnzkn2/bafkreifi2b4l6l33o2feu4hpmh2qd5txvexlgmki4x3asxr6jkoy6sg4km@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-10T15:46:04.625Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-04T14:24:43.499Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "o climatólogo do bial não deu informes ao leite?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-04T14:24:43.499Z",
+            "labels": []
+        }
+    ]
+}

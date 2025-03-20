@@ -1,0 +1,656 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:uijvmcivlt3gctwu2uwrukhg/app.bsky.feed.post/3ku77xz4y6t24",
+            "cid": "bafyreidx3pl3p7fdwi7kbaek5bcpcoolic32rb5kekzykvdkhqlhdpf4ay",
+            "author": {
+                "did": "did:plc:uijvmcivlt3gctwu2uwrukhg",
+                "handle": "neymachado.bsky.social",
+                "displayName": "Ney",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreie7l3av2s4n6fkqck34ubhl4gs327dkfyxpciyu2h3kbov3vscaue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T10:40:56.109Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T19:22:15.468Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihmq54u45r55zqofvqgmppx6zxs7szye4kei56hru4hm7rp73jcsa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 690164
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigifik5xkb6xbfdmpab4gzgeposn564ehmlmyt6aqmtqqiylaudya"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 608129
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidnpn3wg6i7zbqeiqlnnnsfdokjvzeo4jyc7qt4yndc3dmlkrxeo4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 654692
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiapflzm743te3le4dyrq2wju4fvludm6jqu7k7r4d2p2x7fa36gta"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 613820
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaMundialDoMeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 28,
+                            "byteStart": 3
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "LulaEuQueroBis"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 214
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "No #DiaMundialDoMeioAmbiente, o @governofederal, reforça o compromisso com a proteção do meio ambiente, a transformação ecológica e o desenvolvimento sustentável. Arraste para o lado e confira! LULA PROTEJE #LulaEuQueroBis"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreihmq54u45r55zqofvqgmppx6zxs7szye4kei56hru4hm7rp73jcsa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreihmq54u45r55zqofvqgmppx6zxs7szye4kei56hru4hm7rp73jcsa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreigifik5xkb6xbfdmpab4gzgeposn564ehmlmyt6aqmtqqiylaudya@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreigifik5xkb6xbfdmpab4gzgeposn564ehmlmyt6aqmtqqiylaudya@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreidnpn3wg6i7zbqeiqlnnnsfdokjvzeo4jyc7qt4yndc3dmlkrxeo4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreidnpn3wg6i7zbqeiqlnnnsfdokjvzeo4jyc7qt4yndc3dmlkrxeo4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreiapflzm743te3le4dyrq2wju4fvludm6jqu7k7r4d2p2x7fa36gta@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uijvmcivlt3gctwu2uwrukhg/bafkreiapflzm743te3le4dyrq2wju4fvludm6jqu7k7r4d2p2x7fa36gta@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T19:22:15.468Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nn6lfr4rw6gwhzzv2ytv7x6e/app.bsky.feed.post/3ku6uzqkci22n",
+            "cid": "bafyreifjeqt33aiu5o4b72a5lmdptauomkr3apmwmupfz57taxrrjorsky",
+            "author": {
+                "did": "did:plc:nn6lfr4rw6gwhzzv2ytv7x6e",
+                "handle": "keliv1.bsky.social",
+                "displayName": "Keli Vasconcelos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nn6lfr4rw6gwhzzv2ytv7x6e/bafkreidj3qiaktmmfxhdlvqhlwhh3k64duzv3oqhlsuvrkpg7kj2mkjoyq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-04T12:54:03.678Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T16:05:39.015Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 627,
+                                "width": 971
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigmo325x4v3tyofyr2vahr3ht4khjjuwr2o5dnad7k434ovzmycze"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 265112
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaMundialdoMeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 144,
+                            "byteStart": 119
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://fitecambiental.com.br/dia-mundial-do-meio-ambiente-o-que-estamos-fazendo-a-favor-do-planeta/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 191,
+                            "byteStart": 154
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 224,
+                            "byteStart": 211
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "artigos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 225
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "jobs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 239,
+                            "byteStart": 234
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "WorldEnvironmentDay"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 260,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Olá, boa quarta!\n\"O que estamos fazendo a favor do planeta?\" \nArtigo que escrevi para a Fitec Ambiental em alusão ao #DiaMundialdoMeioAmbiente\nConfira: fitecambiental.com.br/dia-mundial-...\nFoto: Getty Images\n#meioambiente #artigos #jobs\n#WorldEnvironmentDay‌"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nn6lfr4rw6gwhzzv2ytv7x6e/bafkreigmo325x4v3tyofyr2vahr3ht4khjjuwr2o5dnad7k434ovzmycze@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nn6lfr4rw6gwhzzv2ytv7x6e/bafkreigmo325x4v3tyofyr2vahr3ht4khjjuwr2o5dnad7k434ovzmycze@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 627,
+                            "width": 971
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T16:05:39.015Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsdi46ercuhsrjzmmlbmwktb/app.bsky.feed.post/3ku6tbpgh7d2g",
+            "cid": "bafyreiclmtwwnevtvotzt3ouior5a6ofxve2ebh7ju7k5ifau2m5htfylu",
+            "author": {
+                "did": "did:plc:rsdi46ercuhsrjzmmlbmwktb",
+                "handle": "mundoverde.bsky.social",
+                "displayName": "Mundo Verde",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreifxx3vhghq7in7pzk4qfbxxib3u44h2ol4psur2hlxh7gtidoyoom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:26:33.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T15:35:08.123Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigaykycxk72mddv76ucqpsvtdbvwuywpn2n2lzlcxvdzc5vwcajve"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 311014
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaMundialDoMeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 163,
+                            "byteStart": 138
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "70% das terras agrícolas no mundo são usadas para criar gado ou cultivar grãos para os alimentar. Assim não tem planeta que aguente.\n\n#DiaMundialDoMeioAmbiente"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreigaykycxk72mddv76ucqpsvtdbvwuywpn2n2lzlcxvdzc5vwcajve@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreigaykycxk72mddv76ucqpsvtdbvwuywpn2n2lzlcxvdzc5vwcajve@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T15:35:03.306Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3ku6itrivhk2e",
+            "cid": "bafyreiehpe3msy75mcirltbjjkvzk7xftzlcjuk6w2yjzs757cxtwo3gz4",
+            "author": {
+                "did": "did:plc:3zb6cejpu3xtpvgk4q5vsvzh",
+                "handle": "pt.org.br",
+                "displayName": "PT Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreidrrrxcghme4abcodjbrtnqq5dp5lnzq74bqiheozrav3655jcndu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T15:18:25.076Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T12:28:17.108Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaMundialDoMeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 161,
+                            "byteStart": 136
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigvbzw4vwutysv3aphr5m2kodrlw7mpdramvui4mjnbzcozgirily",
+                        "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3ku6iquq3j22x"
+                    },
+                    "root": {
+                        "cid": "bafyreicku7luysveh5wfdhu56cmqy5ecsgzmn5owyoid3zfn2cxloa6opy",
+                        "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3ku6ipkjomk2x"
+                    }
+                },
+                "text": "Vamos exigir políticas públicas que promovam a sustentabilidade e combatam o desmatamento, a poluição e a degradação ambiental. \n\n#DiaMundialDoMeioAmbiente via: @ptnacamara"
+            },
+            "replyCount": 0,
+            "repostCount": 15,
+            "likeCount": 33,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T12:28:17.108Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsdi46ercuhsrjzmmlbmwktb/app.bsky.feed.post/3ku6gz6dyac2h",
+            "cid": "bafyreigx4yefru45stofvmareq4jxcjfc3fhzbyxeouq5h7rqytudqskke",
+            "author": {
+                "did": "did:plc:rsdi46ercuhsrjzmmlbmwktb",
+                "handle": "mundoverde.bsky.social",
+                "displayName": "Mundo Verde",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreifxx3vhghq7in7pzk4qfbxxib3u44h2ol4psur2hlxh7gtidoyoom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:26:33.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T11:55:36.707Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O dia 5 de junho é uma das datas mais importantes para a ONU e um espaço para reflexão e ação coletiva a fim de reverter os problemas ambientais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibgc6kga2jtizihuilsauguoz3mfzsfqsuznp3uollzp25ojm4qam"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 557821
+                        },
+                        "title": "Por que comemoramos o Dia Mundial do Meio Ambiente?",
+                        "uri": "https://www.nationalgeographicbrasil.com/meio-ambiente/2022/06/por-que-comemoramos-o-dia-mundial-do-meio-ambiente"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaMundialDoMeioAmbiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.nationalgeographicbrasil.com/meio-ambiente/2022/06/por-que-comemoramos-o-dia-mundial-do-meio-ambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 253
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#DiaMundialDoMeioAmbiente\n\nA data tem sua origem em 1972, quando a ONU a designou como Dia Mundial do Meio Ambiente.\n\nA denominação ocorreu durante o primeiro dia da Conferência das Nações Unidas sobre o Meio Ambiente Humano, sediada em Estocolmo\n\nwww.nationalgeographicbrasil.com/meio-ambient..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.nationalgeographicbrasil.com/meio-ambiente/2022/06/por-que-comemoramos-o-dia-mundial-do-meio-ambiente",
+                    "title": "Por que comemoramos o Dia Mundial do Meio Ambiente?",
+                    "description": "O dia 5 de junho é uma das datas mais importantes para a ONU e um espaço para reflexão e ação coletiva a fim de reverter os problemas ambientais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreibgc6kga2jtizihuilsauguoz3mfzsfqsuznp3uollzp25ojm4qam@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T11:55:31.901Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a3kizoirxw6di6dqehs3oqcl/app.bsky.feed.post/3ku6explj6c24",
+            "cid": "bafyreih4w6hgu4rxmlez6awqt222cuddnu45oyqedvg4v4uphada2henwq",
+            "author": {
+                "did": "did:plc:a3kizoirxw6di6dqehs3oqcl",
+                "handle": "movimentorede18.bsky.social",
+                "displayName": "MovimentoREDE18",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a3kizoirxw6di6dqehs3oqcl/bafkreidk6sqdveywuu23onzxnx6mrguc7mjjmsukwlqtojfjyyb4eyd2su@jpeg",
+                "labels": [],
+                "createdAt": "2023-06-12T22:09:31.172Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T11:18:54.693Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifzwzfy7yg3cqdq2aozldi3xve3upw5vxehsmmvuoyv4ef4r367iy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 349544
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "http://chng.it/7vmk7mHgMy"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 123,
+                            "byteStart": 105
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 138,
+                            "byteStart": 125
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "diamundialdomeioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 164,
+                            "byteStart": 139
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "catastrofesclimáticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 188,
+                            "byteStart": 165
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 195,
+                            "byteStart": 189
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mundialdomeioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 218,
+                            "byteStart": 196
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje é dia Mundial do Meio ambiente. Assine por mais leis climáticas e de proteção ao meio ambiente!\nchng.it/7vmk7mHgMy\n\n#meioambiente #diamundialdomeioambiente #catastrofesclimáticas #clima #mundialdomeioambiente"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a3kizoirxw6di6dqehs3oqcl/bafkreifzwzfy7yg3cqdq2aozldi3xve3upw5vxehsmmvuoyv4ef4r367iy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a3kizoirxw6di6dqehs3oqcl/bafkreifzwzfy7yg3cqdq2aozldi3xve3upw5vxehsmmvuoyv4ef4r367iy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 5,
+            "quoteCount": 1,
+            "indexedAt": "2024-06-05T11:18:54.693Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:fehvckdpb6fsu5fqssdjyzzp/app.bsky.feed.post/3l7tpetoydv2v",
+            "cid": "bafyreidmzulu5wyw6kiii6436n652ty6wiwe57jmyh5uqkusfvt2v6tzqe",
+            "author": {
+                "did": "did:plc:fehvckdpb6fsu5fqssdjyzzp",
+                "handle": "luizacaires.bsky.social",
+                "displayName": "Luiza Caires - Jornalista de Ciências ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fehvckdpb6fsu5fqssdjyzzp/bafkreihdhrs5heipofnnqshm3y6j4yfw3a7w6pgrq2ezarpyusdquchlly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T13:22:44.223Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-31T22:28:14.601Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Executiva ignora biodiversidade do recife amazônico e responsabilidade do Brasil nas emissões pela queima de combustíveis fósseis",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie5vswoyztd2mw4ny2fxii5vebvnfc2yy2qg3kdw3urxpxmllh65y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 265960
+                        },
+                        "title": "Fakebook: Diretora da Petrobras espalha desinformação para defender exploração de petróleo - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/fakebook-diretora-da-petrobras-espalha-desinformacao-para-defender-exploracao-de-petroleo/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/fakebook-diretora-da-petrobras-espalha-desinformacao-para-defender-exploracao-de-petroleo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 300,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Els afirmou que não existem corais na Foz do Amazonas, mas apenas “rochas antigas”. Omitiu que o Grande Recife Amazônico é habitat de seres vivos que formam um ecossistema crucial, inclusive para espécies de peixes que contribuem para a economia da região Norte.\n\noeco.org.br/noticias/fak..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/fakebook-diretora-da-petrobras-espalha-desinformacao-para-defender-exploracao-de-petroleo/",
+                    "title": "Fakebook: Diretora da Petrobras espalha desinformação para defender exploração de petróleo - ((o))eco",
+                    "description": "Executiva ignora biodiversidade do recife amazônico e responsabilidade do Brasil nas emissões pela queima de combustíveis fósseis",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fehvckdpb6fsu5fqssdjyzzp/bafkreie5vswoyztd2mw4ny2fxii5vebvnfc2yy2qg3kdw3urxpxmllh65y@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 13,
+            "likeCount": 50,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-31T22:28:14.601Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l7qujdxzco27",
+            "cid": "bafyreiglmvtdm753b7s35uojngeqhqlnjkvm3i2enw7ojovdhbkdblxdmm",
+            "author": {
+                "did": "did:plc:2p2novu3sdyqpxuasbxavbzp",
+                "handle": "obsclima.bsky.social",
+                "displayName": "Observatório do Clima",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2p2novu3sdyqpxuasbxavbzp/bafkreig3ttnu4se7vzdv22i6cxrb4g6yrhaqc6t4wzcqb2g5frn2vg2354@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-08T15:03:14.361Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T19:25:22.756Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1351,
+                                "width": 1081
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidjdnezbbusxphmcnpv5h5e5lrfpntz4zlxztlbtbow3aczuehafq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 501901
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie3sd4vqvrpuk3alcoxdxpfihymacj2r5eum6cyd22bgqinaapo3m",
+                        "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l7qui5tctz24"
+                    },
+                    "root": {
+                        "cid": "bafyreiehfld5xw77uz5uwhdsl7gwc45k3p4j3aqzzaze3z4ljyi6grssdq",
+                        "uri": "at://did:plc:2p2novu3sdyqpxuasbxavbzp/app.bsky.feed.post/3l7quech3yu2z"
+                    }
+                },
+                "text": "o Grande Recife Amazônico é habitat de seres vivos que formam um ecossistema essencial, inclusive para espécies de peixes que sustentam a economia da região Norte"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2p2novu3sdyqpxuasbxavbzp/bafkreidjdnezbbusxphmcnpv5h5e5lrfpntz4zlxztlbtbow3aczuehafq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2p2novu3sdyqpxuasbxavbzp/bafkreidjdnezbbusxphmcnpv5h5e5lrfpntz4zlxztlbtbow3aczuehafq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1351,
+                            "width": 1081
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T19:22:16.730Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4rut2yvut22",
+            "cid": "bafyreihkr7mxcsqcv2si5mrcbhjvsh74vo3h7rjmxjgmdk4xdx5nzlim3e",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T00:44:45.394Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreickuviicdtdpbwhpyvxhxchpmkchnm2ujsswdrywa4c4xza57aiby",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4rujk27kl22"
+                    },
+                    "root": {
+                        "cid": "bafyreia33i4plsa24r5gjrw3p6erxwumw5dikzby4gjvkuhdhl7qwgkt3i",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3l4ot6lfdwx25"
+                    }
+                },
+                "text": "26 - Duas espécies de peixes-boi estão presentes no Brasil, o peixe-boi-amazônico (Trichechus inunguis) e o peixe-boi-marinho (T. manatus)"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T00:44:45.394Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aubdtjnudu2vzqfmri6q64bo/app.bsky.feed.post/3l3xgmj5fdi26",
+            "cid": "bafyreicaszphfyjvkwkil46njcjomiwouw6ca34okyg2kebpuki22u3ruu",
+            "author": {
+                "did": "did:plc:aubdtjnudu2vzqfmri6q64bo",
+                "handle": "jardimbotanicorj.bsky.social",
+                "displayName": "Jardim Botânico do RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreihkijccud2k6nggzscaunyis4mxnvzbe4lbjparkd5hknho6m6vma@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:58:05.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T12:21:21.600Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic62ilols7427lflf6o6b73xeqoslamny3vrpkcnxbgkts5nw64hi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 420214
+                        },
+                        "title": "Trilha da Amazônia é destaque nas Trilhas de Sexta de setembro",
+                        "uri": "https://www.gov.br/jbrj/pt-br/assuntos/noticias/trilha-da-amazonia-e-destaque-nas-trilhas-de-sexta-de-setembro"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.gov.br/jbrj/pt-br/assuntos/noticias/trilha-da-amazonia-e-destaque-nas-trilhas-de-sexta-de-setembro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 252
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Trilha da Amazônia é destaque nas Trilhas de Sexta de setembro.\nApresentando 20 espécies de plantas originárias do bioma amazônico, a trilha é uma oportunidade de conhecer mais sobre a espécies nativas da regiãos presentes no JBRJ. Saiba mais: www.gov.br/jbrj/pt-br/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.gov.br/jbrj/pt-br/assuntos/noticias/trilha-da-amazonia-e-destaque-nas-trilhas-de-sexta-de-setembro",
+                    "title": "Trilha da Amazônia é destaque nas Trilhas de Sexta de setembro",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreic62ilols7427lflf6o6b73xeqoslamny3vrpkcnxbgkts5nw64hi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T12:21:21.600Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kuvegornvs2j",
+            "cid": "bafyreiboi5qesutmfsgjirmd3ach3b47qr5t2ffihrx62zdhhcqghsgldu",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-14T14:40:35.282Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Desde que foi registrada pela primeira vez na represa do Jaguari, em 2001, a corvina (Plagioscion squamosissimus) estabeleceu e aumentou sua população na bacia do Paraíba do Sul em detrimento da fauna...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiarfoowt2av752masmkt5smptjqliuvr7pvaf64iy7nklw7iqchcy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 251838
+                        },
+                        "title": "Introdução de peixe amazônico em reservatório paulista diminuiu diversidade de espécies nativas - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/introducao-de-peixe-amazonico-em-reservatorio-paulista-diminuiu-diversidade-de-especies-nativas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/introducao-de-peixe-amazonico-em-reservatorio-paulista-diminuiu-diversidade-de-especies-nativas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 279
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "[REPUBLICAÇÃO via Agência FAPESP] Introdução de peixe amazônico em reservatório paulista diminuiu diversidade de espécies nativas ⬇️\n\nDesde que foi registrada pela primeira vez na represa do Jaguari, em 2001, a corvina estabeleceu e aumentou sua população na bacia\noeco.org.br/noticias/int..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/introducao-de-peixe-amazonico-em-reservatorio-paulista-diminuiu-diversidade-de-especies-nativas/",
+                    "title": "Introdução de peixe amazônico em reservatório paulista diminuiu diversidade de espécies nativas - ((o))eco",
+                    "description": "Desde que foi registrada pela primeira vez na represa do Jaguari, em 2001, a corvina (Plagioscion squamosissimus) estabeleceu e aumentou sua população na bacia do Paraíba do Sul em detrimento da fauna...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiarfoowt2av752masmkt5smptjqliuvr7pvaf64iy7nklw7iqchcy@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-14T14:40:35.282Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3ko3bhneoqb2n",
+            "cid": "bafyreigvqlnccdrr2wxnxgtpnjldxkzefkta2tlhadjhp6zwxg5q7dhiie",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-19T21:07:04.939Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Publicação traz as 29 espécies de primatas que ocorrem no estado amazônico, acompanhadas de ilustrações, nome científico e dados de distribuição",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaerw6b3dfqkodhzbrntewsbp3tmq5kxr2x6qsacyipq4g4ibrkiu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 781705
+                        },
+                        "title": "Rondônia ganha guia ilustrado de primatas - ((o))eco",
+                        "uri": "https://oeco.org.br/salada-verde/rondonia-ganha-guia-ilustrado-de-primatas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/salada-verde/rondonia-ganha-guia-ilustrado-de-primatas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 232,
+                            "byteStart": 205
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rondônia ganha guia ilustrado de primatas ⬇️\n\nPublicação traz as 29 espécies de primatas que ocorrem no estado amazônico, acompanhadas de ilustrações, nome científico e dados de distribuição\noeco.org.br/salada-verde..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/salada-verde/rondonia-ganha-guia-ilustrado-de-primatas/",
+                    "title": "Rondônia ganha guia ilustrado de primatas - ((o))eco",
+                    "description": "Publicação traz as 29 espécies de primatas que ocorrem no estado amazônico, acompanhadas de ilustrações, nome científico e dados de distribuição",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiaerw6b3dfqkodhzbrntewsbp3tmq5kxr2x6qsacyipq4g4ibrkiu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-19T21:07:04.939Z",
+            "labels": []
+        }
+    ]
+}

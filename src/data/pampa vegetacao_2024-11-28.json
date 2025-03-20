@@ -1,0 +1,670 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5rcvnrutf2p",
+            "cid": "bafyreic3mujvhbweupatjxtsupmcceiggehzn7denvmq6dnavclst5xduy",
+            "author": {
+                "did": "did:plc:32ztsy32ktoc3qjosfj333bj",
+                "handle": "rswagner.bsky.social",
+                "displayName": "Rodrigo Wagner",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreigfnlakpqddi4zdtikvn5iogirtdu4h73h4cmjxxdwxgjavmgqtvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T14:14:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-05T12:49:18.173Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2666,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig5jr3hqk55t44bafrh54lsn74hkysfejes7367oz664uvda66cbu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 919165
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefk7nmcbi353jexkdvw45z5iljipp4dbq2eikwbazpdu2jgtlixm",
+                        "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5rcolsxjr2q"
+                    },
+                    "root": {
+                        "cid": "bafyreifjmjvo2ty6vjv2cmy5lbkymaroukpgqbyqa2onz35ax3jc3t5mmu",
+                        "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5razk22362x"
+                    }
+                },
+                "text": "O pasto são as gramíneas naturais do bioma Pampa. Com alta biodiversidade. Isso gera uma carne mais saudável, com perfil adequado e desejável de ácidos graxos, e com um sabor característico.\nA vegetação do entorno e as raízes das gramíneas, fazem captação e fixação de carbono."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreig5jr3hqk55t44bafrh54lsn74hkysfejes7367oz664uvda66cbu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreig5jr3hqk55t44bafrh54lsn74hkysfejes7367oz664uvda66cbu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2666,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-05T12:49:18.173Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5rcolsxjr2q",
+            "cid": "bafyreiefk7nmcbi353jexkdvw45z5iljipp4dbq2eikwbazpdu2jgtlixm",
+            "author": {
+                "did": "did:plc:32ztsy32ktoc3qjosfj333bj",
+                "handle": "rswagner.bsky.social",
+                "displayName": "Rodrigo Wagner",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreigfnlakpqddi4zdtikvn5iogirtdu4h73h4cmjxxdwxgjavmgqtvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T14:14:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-05T12:45:21.245Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiajrm7ll4npr2kwkmp6exosoniw6l5n64m6k3352bds4sb23g2ham"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 945754
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig54yxao6r2qwutsqjxvsyvmwk5bwipsrpgd6kitjmluqjiamjyhi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 709346
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifjmjvo2ty6vjv2cmy5lbkymaroukpgqbyqa2onz35ax3jc3t5mmu",
+                        "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5razk22362x"
+                    },
+                    "root": {
+                        "cid": "bafyreifjmjvo2ty6vjv2cmy5lbkymaroukpgqbyqa2onz35ax3jc3t5mmu",
+                        "uri": "at://did:plc:32ztsy32ktoc3qjosfj333bj/app.bsky.feed.post/3l5razk22362x"
+                    }
+                },
+                "text": "Os cerros da Serra do Caverá no RS, no Pampa gaúcho, tem estas áreas planas e grandes nos topos. Praticamente não se percebe que está em cima do cerro (morro).\nAqui área de campo no topo do cerro, com recria de gado Braford e Brangus. À pasto de campo nativo, e com toda vegetação do entorno mantida"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreiajrm7ll4npr2kwkmp6exosoniw6l5n64m6k3352bds4sb23g2ham@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreiajrm7ll4npr2kwkmp6exosoniw6l5n64m6k3352bds4sb23g2ham@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreig54yxao6r2qwutsqjxvsyvmwk5bwipsrpgd6kitjmluqjiamjyhi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:32ztsy32ktoc3qjosfj333bj/bafkreig54yxao6r2qwutsqjxvsyvmwk5bwipsrpgd6kitjmluqjiamjyhi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-05T12:45:21.245Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xhgl2c5xf5mzoyeukw3olqi4/app.bsky.feed.post/3l37fab3zcy2a",
+            "cid": "bafyreifyk7flhjtbmhwxe5fykhyu6i4dhp3tzsgm65r3d3g66hlg477upe",
+            "author": {
+                "did": "did:plc:xhgl2c5xf5mzoyeukw3olqi4",
+                "handle": "jornalja.com.br",
+                "displayName": "Jornal JÁ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xhgl2c5xf5mzoyeukw3olqi4/bafkreibsdfyj7cvr44vsawhqahg5cwzjv5gan3yyljwkb4in7fuj6esvq4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T14:09:43.996Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T22:52:42.437Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Novos dados do MapBiomas mostram que a perda histórica de áreas naturais no Brasil até 1985 totalizava 20% do território. Nos 39 anos seguintes (1985-2023), essa perda avançou para outros 13% do terri...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiamo44aovnes2uggxqbf42x4rcwriugvx7v25ubolplstpd6q6kha"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 833094
+                        },
+                        "title": "Maior proporção de municípios com perdas de vegetação nativa é do bioma Pampa: 35% | Ambiente JÁ",
+                        "uri": "https://www.jornalja.com.br/ambiente/maior-proporcao-de-municipios-com-perdas-de-vegetacao-nativa-e-do-bioma-pampa-35/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "AmbienteJÁ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 12,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pampa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 97,
+                            "byteStart": 91
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jornalja.com.br/ambiente/maior-proporcao-de-municipios-com-perdas-de-vegetacao-nativa-e-do-bioma-pampa-35/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 140,
+                            "byteStart": 105
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#AmbienteJÁ Maior proporção de municípios com perdas de vegetação nativa é do bioma #Pampa: 35% \n\nwww.jornalja.com.br/ambiente/mai..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.jornalja.com.br/ambiente/maior-proporcao-de-municipios-com-perdas-de-vegetacao-nativa-e-do-bioma-pampa-35/",
+                    "title": "Maior proporção de municípios com perdas de vegetação nativa é do bioma Pampa: 35% | Ambiente JÁ",
+                    "description": "Novos dados do MapBiomas mostram que a perda histórica de áreas naturais no Brasil até 1985 totalizava 20% do território. Nos 39 anos seguintes (1985-2023), essa perda avançou para outros 13% do terri...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xhgl2c5xf5mzoyeukw3olqi4/bafkreiamo44aovnes2uggxqbf42x4rcwriugvx7v25ubolplstpd6q6kha@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-02T22:52:42.437Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:o2ff2gmq34ojydrzzucehbj6/app.bsky.feed.post/3l33wgho4vo2x",
+            "cid": "bafyreicmtrijy5y2aber4uvirdgf3egnjncgsp5fvxj3mgp7owm3gqw3wq",
+            "author": {
+                "did": "did:plc:o2ff2gmq34ojydrzzucehbj6",
+                "handle": "marcoandrei.bsky.social",
+                "displayName": "Marco Andrei K.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o2ff2gmq34ojydrzzucehbj6/bafkreigri3zmulht2dl4wpcsw32m5wilbmq2nqmusrrozbpokg7fbvr55q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:o2ff2gmq34ojydrzzucehbj6",
+                        "uri": "at://did:plc:o2ff2gmq34ojydrzzucehbj6/app.bsky.actor.profile/self",
+                        "cid": "bafyreih4u5xucsfzw6o2hngpquul5bbd5i6jqq2rjw46zfedztmu6xj3yy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-21T03:07:38.479Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T13:49:45.285Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Paisagem de uma coxilha de vegetação típica do Pampa rio-grandense.",
+                            "aspectRatio": {
+                                "height": 1500,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigki4neau67jygz5bxesve5fowvrl2xen5twjug4cx7ghl5y3wnku"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 918466
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia, vizinhos! Frio de 11 graus e vento forte entrando nas frestas da roupa em Bagé."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o2ff2gmq34ojydrzzucehbj6/bafkreigki4neau67jygz5bxesve5fowvrl2xen5twjug4cx7ghl5y3wnku@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:o2ff2gmq34ojydrzzucehbj6/bafkreigki4neau67jygz5bxesve5fowvrl2xen5twjug4cx7ghl5y3wnku@jpeg",
+                        "alt": "Paisagem de uma coxilha de vegetação típica do Pampa rio-grandense.",
+                        "aspectRatio": {
+                            "height": 1500,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T13:49:45.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3ksnhwoknfs2b",
+            "cid": "bafyreig64kruwsvkwdelvmvnkthutws6veydjgpgqptqwjonqlbfkoqp3e",
+            "author": {
+                "did": "did:plc:76e26g3uofeckavyyzyolqi7",
+                "handle": "sandra10.bsky.social",
+                "displayName": "Sandra10🇵🇸🌎🌳🐬🐢🐳🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76e26g3uofeckavyyzyolqi7/bafkreicpqqwobakfcqq56o7v2ihvh3425js6rvaeqtsr65665tfw7fibz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:76e26g3uofeckavyyzyolqi7",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.actor.profile/self",
+                        "cid": "bafyreiejxtajvojhl6pwi65bdr3gsdob47ksdedapxie5khkgnugrcxiwi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:03:23.042Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:04:02.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-17T00:30:35.018Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibionnoatbbl7a64rgvvaufbjrmm3pirq7agrilp7rgxdiurqnnuy",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3ksn6s6xnwc2d"
+                    },
+                    "root": {
+                        "cid": "bafyreibionnoatbbl7a64rgvvaufbjrmm3pirq7agrilp7rgxdiurqnnuy",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3ksn6s6xnwc2d"
+                    }
+                },
+                "text": "\"Segundo o engenheiro agrônomo Tales Tiecher, da UFRGS, o Pampa gaúcho apresenta a maior biodiversidade de plantas por metro quadrado entre os ecossistemas brasileiros, mas tem sofrido uma drástica redução de sua área de vegetação nativa. “"
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-17T00:30:35.018Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:k46f42mxaqtbn3tdd3chgtyb/app.bsky.feed.post/3ks7k4biw5r2k",
+            "cid": "bafyreih7kriuvaxrs5lz7u5j6mtigox3ayavoh6ewkeedordxgyu4zr2ne",
+            "author": {
+                "did": "did:plc:k46f42mxaqtbn3tdd3chgtyb",
+                "handle": "2azonalcarioca.bsky.social",
+                "displayName": "2a Zonal Carioca",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k46f42mxaqtbn3tdd3chgtyb/bafkreidlzliv2oa7kxxw35d2vxhg3s54r37k27kca6p7p3zcgsrb4sznia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-23T15:24:38.997Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-11T11:33:11.806Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O Pampa perdeu impressionantes 3,4 milhões de hectares de vegetação nativa, representando uma perda de 29,5%",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiegmylnf25jnx36bhz2myodfvjnrszr3kb4jjrwttwkozqlx6jkom"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 593358
+                        },
+                        "title": "Pampa perdeu 3,4 milhões de hectares de vegetação, cerca de 29% da cobertura nativa - Mídia NINJA",
+                        "uri": "https://midia.ninja/pampa-perdeu-34-milhoes-de-hectares-de-vegetacao-cerca-de-29-da-cobertura-nativa/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://midia.ninja/pampa-perdeu-34-milhoes-de-hectares-de-vegetacao-cerca-de-29-da-cobertura-nativa/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 230,
+                            "byteStart": 203
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "*Pampa perdeu 3,4 milhões de hectares de vegetação, cerca de 29% da cobertura nativa*\n\nO Pampa perdeu impressionantes 3,4 milhões de hectares de vegetação nativa, representando uma perda de 29,5%\n\nmidia.ninja/pampa-perdeu..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://midia.ninja/pampa-perdeu-34-milhoes-de-hectares-de-vegetacao-cerca-de-29-da-cobertura-nativa/",
+                    "title": "Pampa perdeu 3,4 milhões de hectares de vegetação, cerca de 29% da cobertura nativa - Mídia NINJA",
+                    "description": "O Pampa perdeu impressionantes 3,4 milhões de hectares de vegetação nativa, representando uma perda de 29,5%",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k46f42mxaqtbn3tdd3chgtyb/bafkreiegmylnf25jnx36bhz2myodfvjnrszr3kb4jjrwttwkozqlx6jkom@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-11T11:33:11.806Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ppmfkrkzgquvhbmk56yxvnkc/app.bsky.feed.post/3ks43vjaybs2r",
+            "cid": "bafyreidvufoftuypv7uaisbfj6su3qgjxqdhx2rnwzl66xk22o366bcmhe",
+            "author": {
+                "did": "did:plc:ppmfkrkzgquvhbmk56yxvnkc",
+                "handle": "tiba2022.bsky.social",
+                "displayName": "Tiba2022",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppmfkrkzgquvhbmk56yxvnkc/bafkreiegok3znlv6tqbexh2c3367k52k4zxycyfwm3xdnzrivhbrkkygni@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ppmfkrkzgquvhbmk56yxvnkc",
+                        "uri": "at://did:plc:ppmfkrkzgquvhbmk56yxvnkc/app.bsky.actor.profile/self",
+                        "cid": "bafyreifchummxscryrcyxf74sr3ez6ctr2vyt65s3m4bf2rxeqmk5xk3rq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-08T17:13:07.586Z"
+                    }
+                ],
+                "createdAt": "2024-04-08T17:13:50.277Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-10T02:40:47.662Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 675,
+                                "width": 892
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxsu3ubzmdk322shan3rtgzwwksxdfhuivgw7egae6cluy37xekq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 329373
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://midia.ninja"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 137,
+                            "byteStart": 126
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Boa noite a todes !!!\n\nPampa perdeu 3,4 milhões de hectares de vegetação, cerca de 29% da cobertura nativa - Mídia NINJA (midia.ninja)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ppmfkrkzgquvhbmk56yxvnkc/bafkreicxsu3ubzmdk322shan3rtgzwwksxdfhuivgw7egae6cluy37xekq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ppmfkrkzgquvhbmk56yxvnkc/bafkreicxsu3ubzmdk322shan3rtgzwwksxdfhuivgw7egae6cluy37xekq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 675,
+                            "width": 892
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-10T02:40:47.662Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmh6jzv2ry3zvsvdbd77d7ra/app.bsky.feed.post/3krpd5krtej2g",
+            "cid": "bafyreibwsspcaloqkxo72qr73ru6kgdqtvvuqwofsyuq5g35qvo2zj5i3q",
+            "author": {
+                "did": "did:plc:kmh6jzv2ry3zvsvdbd77d7ra",
+                "handle": "jfurt.bsky.social",
+                "displayName": "João Furtado",
+                "labels": [],
+                "createdAt": "2023-09-12T20:35:28.549Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T00:46:04.332Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidtzqm3kfdnoixci23aiunggyoxucyquzxxrd76n4sry6fdsl54di",
+                        "uri": "at://did:plc:kmh6jzv2ry3zvsvdbd77d7ra/app.bsky.feed.post/3krpd4ekktw2j"
+                    },
+                    "root": {
+                        "cid": "bafyreidtzqm3kfdnoixci23aiunggyoxucyquzxxrd76n4sry6fdsl54di",
+                        "uri": "at://did:plc:kmh6jzv2ry3zvsvdbd77d7ra/app.bsky.feed.post/3krpd4ekktw2j"
+                    }
+                },
+                "text": "Cerca de 30% da vegetação nativa do Pampa foram cortadas desde 1985 : Revista Pesquisa Fapesp"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T00:46:04.332Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.feed.post/3krjb7pna3v2x",
+            "cid": "bafyreife7slfsolz63jvnt6ygpbzwgo4ufgh4duovp32mtzpm2jgzv47km",
+            "author": {
+                "did": "did:plc:76e26g3uofeckavyyzyolqi7",
+                "handle": "sandra10.bsky.social",
+                "displayName": "Sandra10🇵🇸🌎🌳🐬🐢🐳🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:76e26g3uofeckavyyzyolqi7/bafkreicpqqwobakfcqq56o7v2ihvh3425js6rvaeqtsr65665tfw7fibz4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:76e26g3uofeckavyyzyolqi7",
+                        "uri": "at://did:plc:76e26g3uofeckavyyzyolqi7/app.bsky.actor.profile/self",
+                        "cid": "bafyreiejxtajvojhl6pwi65bdr3gsdob47ksdedapxie5khkgnugrcxiwi",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T20:03:23.042Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T20:04:02.582Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-02T14:54:37.695Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Causas dessas CHUVAS absurdas no RS seria o DESMATAMENTO?\n\"O Pampa Sul-americano sofreu transformações significativas na paisagem ao longo das últimas duas décadas. A maior perda proporcional de vegetação nativa foi no RS com 21.356 km²... sobretudo devido à expansão das áreas agrícolas...\""
+            },
+            "replyCount": 9,
+            "repostCount": 20,
+            "likeCount": 61,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-02T14:54:37.695Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kgxzx2s6nk24",
+            "cid": "bafyreibzjcfjl5gr2zoxzd4vy7xthdtjxfexjskfmdfarrp2bzjxtg6zbq",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-20T12:18:12.060Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/20/o-bioma-pampa-ameacado-pelo-agronegocio/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 205,
+                            "byteStart": 169
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Bioma Pampa ameaçado pelo agronegócio\nEntre os seis biomas brasileiros, o Pampa é o mais esquecido, o que possui os maiores índices de perda de vegetação nativa\nwww.ecodebate.com.br/2023/12/20/o..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-20T12:18:12.060Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:uqjjs6leigif4gsu64es7d44/app.bsky.feed.post/3l32fi2rmnx25",
+            "cid": "bafyreibk776n3ti47uwvcbvvg5zlueeseestg5btfyi65s3er57e35chxu",
+            "author": {
+                "did": "did:plc:uqjjs6leigif4gsu64es7d44",
+                "handle": "pedlowma.bsky.social",
+                "displayName": "Marcos Pedlowski",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uqjjs6leigif4gsu64es7d44/bafkreih7blgqpeaddho4isoaxb2hy4t7ttfbmt7d7pc3hh35wlona7i3ce@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-11T11:28:40.713Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-31T23:13:45.760Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Litoral de São Paulo pode ser “engolido” pelo avanço do mar. Saiba quais são as praias com maior risco de erosão costeira Por Isabela Thurmann para o \"Metrópoles\"  São Paulo  Se confirmadas as previsõ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifckpxclkuadps42wu6wsqkas6gdho3wr2setxau2f667js7m7isa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 939144
+                        },
+                        "title": "Avanço do mar: veja quais praias são ameaçadas pela erosão costeira no litoral de São Paulo",
+                        "uri": "https://blogdopedlowski.com/2024/08/31/avanco-do-mar-veja-quais-praias-sao-ameacadas-pela-erosao-costeira-no-litoral-de-sao-paulo/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://blogdopedlowski.com/2024/08/31/avanco-do-mar-veja-quais-praias-sao-ameacadas-pela-erosao-costeira-no-litoral-de-sao-paulo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 134,
+                            "byteStart": 99
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Avanço do mar: veja quais praias são ameaçadas pela erosão costeira no litoral de São Paulo.\n\nblogdopedlowski.com/2024/08/31/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://blogdopedlowski.com/2024/08/31/avanco-do-mar-veja-quais-praias-sao-ameacadas-pela-erosao-costeira-no-litoral-de-sao-paulo/",
+                    "title": "Avanço do mar: veja quais praias são ameaçadas pela erosão costeira no litoral de São Paulo",
+                    "description": "Litoral de São Paulo pode ser “engolido” pelo avanço do mar. Saiba quais são as praias com maior risco de erosão costeira Por Isabela Thurmann para o \"Metrópoles\"  São Paulo  Se confirmadas as previsõ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uqjjs6leigif4gsu64es7d44/bafkreifckpxclkuadps42wu6wsqkas6gdho3wr2setxau2f667js7m7isa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-31T23:13:45.760Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kufj2hiqqd26",
+            "cid": "bafyreietao2qc672iytzjuj2htlnkdpjy7wrqj4jk7stgyzv4fcp7fvqku",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-08T07:20:38.104888Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Encolhimento é causado pela erosão, resultado da ocupação das áreas que deveriam servir para \"estocar\" areia. Com ocupação da orla, ciclo natural do \"balanço sedimentar\" fica comprometido.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifyzk6eozqcmmrh6bk3i2tnzdrr4ms53gfe32x6z5dht3pldnsh2y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 187984
+                        },
+                        "title": "Praias sob risco de erosão: entenda fatores que levaram o Brasil a perder 15% da faixa de areia em 30 anos",
+                        "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/06/08/praias-sob-risco-de-erosao-entenda-fatores-que-levaram-o-brasil-a-perder-15percent-da-faixa-de-areia-em-30-anos.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Praias sob risco de erosão: entenda fatores que levaram o Brasil a perder 15% da faixa de areia em 30 anos"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/meio-ambiente/noticia/2024/06/08/praias-sob-risco-de-erosao-entenda-fatores-que-levaram-o-brasil-a-perder-15percent-da-faixa-de-areia-em-30-anos.ghtml",
+                    "title": "Praias sob risco de erosão: entenda fatores que levaram o Brasil a perder 15% da faixa de areia em 30 anos",
+                    "description": "Encolhimento é causado pela erosão, resultado da ocupação das áreas que deveriam servir para \"estocar\" areia. Com ocupação da orla, ciclo natural do \"balanço sedimentar\" fica comprometido.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifyzk6eozqcmmrh6bk3i2tnzdrr4ms53gfe32x6z5dht3pldnsh2y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-08T07:20:38.104Z",
+            "labels": []
+        }
+    ]
+}

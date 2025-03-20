@@ -1,0 +1,1223 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:4l6fzlp3fwvydsjvxesebqju/app.bsky.feed.post/3lag4kge4h52q",
+            "cid": "bafyreiguhrr5bqav6hoa6hf333ba4qhdftxkysfgtysxby7kfffponhxpq",
+            "author": {
+                "did": "did:plc:4l6fzlp3fwvydsjvxesebqju",
+                "handle": "mariseciriaco.bsky.social",
+                "displayName": "Marise Ciríaco ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4l6fzlp3fwvydsjvxesebqju/bafkreicwrlxcqiinbhurdflniikasupilxcoisahg4qejbbneuhhobarc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T03:02:37.301Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T06:11:56.165Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibkv2bvk3yffxul2pn3acmxfusltqpd3stokdokerqblc5ri2vnh4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 413211
+                            },
+                            "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                            "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-.."
+                        }
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreiblbnpaw2y23v3pidpq4ltywwlsbieyctoijaauaxwkicf7mviaue",
+                            "uri": "at://did:plc:m7n4obhzmenlpds2i3cmqd6e/app.bsky.feed.post/3laeuz2qy3q2s"
+                        }
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-.."
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Pessoal bora votar nesse projeto.\nSua votação pode transformar a Caatinga! Apoie o projeto “DNA da Caatinga: Recaatingar é Urgente” e ajude a preservar espécies ameaçadas, proteger solos e renovar a biodiversidade. Vote agora e faça parte da mudança! \"\nemendas.tuliogadelha.com.br/emendas/dna-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-..",
+                        "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                        "description": "",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4l6fzlp3fwvydsjvxesebqju/bafkreibkv2bvk3yffxul2pn3acmxfusltqpd3stokdokerqblc5ri2vnh4@jpeg"
+                    }
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:m7n4obhzmenlpds2i3cmqd6e/app.bsky.feed.post/3laeuz2qy3q2s",
+                        "cid": "bafyreiblbnpaw2y23v3pidpq4ltywwlsbieyctoijaauaxwkicf7mviaue",
+                        "author": {
+                            "did": "did:plc:m7n4obhzmenlpds2i3cmqd6e",
+                            "handle": "flaviorcosta.bsky.social",
+                            "displayName": "Flávio Costa",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7n4obhzmenlpds2i3cmqd6e/bafkreicwanxvkbtccgl7sxuxc237gmb6jtpzb4axxypjr6edjb6426vfgu@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-04-30T19:47:53.572Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-11-07T18:24:17.487Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.external",
+                                "external": {
+                                    "description": "",
+                                    "thumb": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicjhd7hgzvxgh5llag6smumxp6qtlzwyrskhlvdeuw7pe6sija5oy"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 782336
+                                    },
+                                    "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                                    "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/"
+                                }
+                            },
+                            "facets": [
+                                {
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#link",
+                                            "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 311,
+                                        "byteStart": 268
+                                    }
+                                }
+                            ],
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Pessoal, bora votar aqui nesse projeto.\nSua votação pode transformar a Caatinga! Apoie o projeto “DNA da Caatinga: Recaatingar é Urgente” e ajude a preservar espécies ameaçadas, proteger solos e renovar a biodiversidade. Vote agora e faça parte da mudança!\nemendas.tuliogadelha.com.br/emendas/dna-..."
+                        },
+                        "labels": [],
+                        "likeCount": 168,
+                        "replyCount": 6,
+                        "repostCount": 64,
+                        "quoteCount": 2,
+                        "indexedAt": "2024-11-07T18:24:18.605Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.external#view",
+                                "external": {
+                                    "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/",
+                                    "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                                    "description": "",
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7n4obhzmenlpds2i3cmqd6e/bafkreicjhd7hgzvxgh5llag6smumxp6qtlzwyrskhlvdeuw7pe6sija5oy@jpeg"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T06:11:57.685Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m7n4obhzmenlpds2i3cmqd6e/app.bsky.feed.post/3laeuz2qy3q2s",
+            "cid": "bafyreiblbnpaw2y23v3pidpq4ltywwlsbieyctoijaauaxwkicf7mviaue",
+            "author": {
+                "did": "did:plc:m7n4obhzmenlpds2i3cmqd6e",
+                "handle": "flaviorcosta.bsky.social",
+                "displayName": "Flávio Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7n4obhzmenlpds2i3cmqd6e/bafkreicwanxvkbtccgl7sxuxc237gmb6jtpzb4axxypjr6edjb6426vfgu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-30T19:47:53.572Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T18:24:17.487Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicjhd7hgzvxgh5llag6smumxp6qtlzwyrskhlvdeuw7pe6sija5oy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 782336
+                        },
+                        "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                        "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 311,
+                            "byteStart": 268
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pessoal, bora votar aqui nesse projeto.\nSua votação pode transformar a Caatinga! Apoie o projeto “DNA da Caatinga: Recaatingar é Urgente” e ajude a preservar espécies ameaçadas, proteger solos e renovar a biodiversidade. Vote agora e faça parte da mudança!\nemendas.tuliogadelha.com.br/emendas/dna-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://emendas.tuliogadelha.com.br/emendas/dna-da-caatinga-recaatingar-e-urgente/",
+                    "title": "DNA da Caatinga: Recaatingar é urgente. - Emendas Participativas 2024",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7n4obhzmenlpds2i3cmqd6e/bafkreicjhd7hgzvxgh5llag6smumxp6qtlzwyrskhlvdeuw7pe6sija5oy@jpeg"
+                }
+            },
+            "replyCount": 6,
+            "repostCount": 64,
+            "likeCount": 168,
+            "quoteCount": 2,
+            "indexedAt": "2024-11-07T18:24:18.605Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qzslzir7toizd75j3wpa6j3c/app.bsky.feed.post/3lac3oyuh3y2k",
+            "cid": "bafyreiffsa3kopxwn7b4ynqq5nwh7txwzi46otyc4uytogin3eid4kd664",
+            "author": {
+                "did": "did:plc:qzslzir7toizd75j3wpa6j3c",
+                "handle": "colabora.bsky.social",
+                "displayName": "Colabora - Jornalismo Sustentável",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreihcxrw67mjnbm5glysh3t3crrsdfehpouqmwqrdimxt2qu2madwyu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:34:44.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T15:47:57.273Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Produtores ensinam que alimentar abelhas com florada de espécies nativas da Caatinga custa menos para o bolso e para o meio ambiente",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig6fplluhsn3fwxot3yg7kyb5yvorl2rqotptcykbrctolvxctyfu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 332193
+                        },
+                        "title": "Apicultura agroecológica aumenta lucro e combate mudanças climáticas - #Colabora",
+                        "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Colabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 304,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🐝Apicultores da Caatinga adotam agroecológica e demonstram como alimentar abelhas com florada de espécies nativas do bioma. \n\nEm reportagem no #Colabora, Adriana Amâncio explica como a alternativa reduz os custos de produção e ajuda no sequestro de carbono:\nprojetocolabora.com.br/ods12/apicul..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/",
+                    "title": "Apicultura agroecológica aumenta lucro e combate mudanças climáticas - #Colabora",
+                    "description": "Produtores ensinam que alimentar abelhas com florada de espécies nativas da Caatinga custa menos para o bolso e para o meio ambiente",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreig6fplluhsn3fwxot3yg7kyb5yvorl2rqotptcykbrctolvxctyfu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-06T15:45:57.981Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:334j4zt2dd6taq2lbhj7r6pq/app.bsky.feed.post/3l7bjm6zajg2x",
+            "cid": "bafyreihkkcwmcjf4fanj6mcwp7tixsbov4532x6jwzpzp7rgguphmzudza",
+            "author": {
+                "did": "did:plc:334j4zt2dd6taq2lbhj7r6pq",
+                "handle": "pesquisafapesp.bsky.social",
+                "displayName": "Revista Pesquisa FAPESP ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:334j4zt2dd6taq2lbhj7r6pq/bafkreifwpmya6auumbr6o3stilvisdwf3bgzbqvv5gtwgmo6nqdhdsdadm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T23:02:56.932Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T16:57:01.888Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "As matas verdes e densas que cercam a serra de General Sampaio, no Ceará, trazem à mente os tapetes verdes e viçosos da Amazônia. Pelo interior da Paraíba, da Bahia e de Minas, há árvores imponentes, ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifbbimwarm3bam5rhjd27vcsgihonph3xr5x6drv6zqfroxpf553m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 231448
+                        },
+                        "title": "Novo mapeamento expõe diversidade da Caatinga",
+                        "uri": "https://bit.ly/3zTUVV6"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 47,
+                            "byteStart": 38
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3zTUVV6"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 134
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ecologia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 159,
+                            "byteStart": 150
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 169,
+                            "byteStart": 160
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 185,
+                            "byteStart": 170
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "tags": [],
+                "text": "Novo mapeamento expõe diversidade da #Caatinga. Proposta se apoia na distribuição de espécies exclusivas do semiárido nordestino bit.ly/3zTUVV6\n\n#ecologia #ambiente #biodiversidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bit.ly/3zTUVV6",
+                    "title": "Novo mapeamento expõe diversidade da Caatinga",
+                    "description": "As matas verdes e densas que cercam a serra de General Sampaio, no Ceará, trazem à mente os tapetes verdes e viçosos da Amazônia. Pelo interior da Paraíba, da Bahia e de Minas, há árvores imponentes, ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:334j4zt2dd6taq2lbhj7r6pq/bafkreifbbimwarm3bam5rhjd27vcsgihonph3xr5x6drv6zqfroxpf553m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-24T16:57:01.888Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jro4lk4issiqffa2xkaubjev/app.bsky.feed.post/3l4lgbbg67c2v",
+            "cid": "bafyreidgs5hrrlb4ivhk4stny4ibjkqwfjx3co666ytjqjtzdgkyq2bsei",
+            "author": {
+                "did": "did:plc:jro4lk4issiqffa2xkaubjev",
+                "handle": "ecogothic.bsky.social",
+                "displayName": "𝖗𝖔𝖖𝖚𝖊 𝖙𝖍𝖊 𝖛𝖆𝖒𝖕",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jro4lk4issiqffa2xkaubjev/bafkreidbty3zg6uohce3y7afghtu4ulbvj4oe73b57wypfc4wgjt5kafde@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T19:13:42.506Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T11:08:13.636Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieci26i3i6szahwkhcbgvpsfjrbqx3y7r2xa2budbsz5ypcrdnjka",
+                        "uri": "at://did:plc:ky2mmhbhvecjcbafirarc3lq/app.bsky.feed.post/3l4lfprsvy22a"
+                    },
+                    "root": {
+                        "cid": "bafyreifmq2kbihan6fhriqtfgcc3kjtu3gibq76z5y7qrjg62bnxubuio4",
+                        "uri": "at://did:plc:ky2mmhbhvecjcbafirarc3lq/app.bsky.feed.post/3l4leopoaxk2y"
+                    }
+                },
+                "text": "Aí se não me engano pega a caatinga e um pouco de mata Atlântica, muito ricos em espécies endêmicas (que só tem lá)\nUm exemplo disso é que a arrarinha azul é daí"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T11:08:13.636Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ons2elzewaqszmfvpxzets66/app.bsky.feed.post/3l3dqjc2jsz2u",
+            "cid": "bafyreic7n4txsu2nhh6z2xptvmpui42rhvwunlu7vmnapo6e4fsebl775i",
+            "author": {
+                "did": "did:plc:ons2elzewaqszmfvpxzets66",
+                "handle": "catalina-leite.bsky.social",
+                "displayName": "Catalina Leite 🦥",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ons2elzewaqszmfvpxzets66/bafkreigememlgdlc7y5onicosmvivzmlvo2zzyqq53pabafszopmjtwgg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-17T00:07:10.451Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:25:15.551Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Sem dados de atropelamentos de animais silvestres, Ceará ignora grave problema de proteção da fauna e põe em risco toda a biodiversidade",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihgrkkf7tvn3htq2wmzpg3wjm2w55lpkrzjiaude4rrlvhwk6b5uu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 762376
+                        },
+                        "title": "Atropelados em silêncio, ninguém sabe quantos animais são vítimas no Ceará",
+                        "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/09/04/atropelados-em-silencio-ninguem-sabe-quantos-animais-sao-vitimas-no-ceara.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/09/04/atropelados-em-silencio-ninguem-sabe-quantos-animais-sao-vitimas-no-ceara.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 267,
+                            "byteStart": 234
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifgnhmb4lh223t3cthxd7vhdmteresf6wsaixjtn7w7dhjz2zxjdm",
+                        "uri": "at://did:plc:ons2elzewaqszmfvpxzets66/app.bsky.feed.post/3l3dqgixxt72y"
+                    },
+                    "root": {
+                        "cid": "bafyreibu6bqlmewtaeukfuuwwhdftknfadhqujetcx7q4cbqqquez3wwty",
+                        "uri": "at://did:plc:ons2elzewaqszmfvpxzets66/app.bsky.feed.post/3l3dpp5gr522z"
+                    }
+                },
+                "text": "Outros pontos da matéria: \n\n- Sensibilização a acidentes de mamíferos, mas não de répteis e anfíbios\n- Invisibilização da fauna da Caatinga\n- Consequências do atropelamento\n- Espécies aparentemente mais afetadas no Ceará\n\nmais.opovo.com.br/reportagens-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/09/04/atropelados-em-silencio-ninguem-sabe-quantos-animais-sao-vitimas-no-ceara.html",
+                    "title": "Atropelados em silêncio, ninguém sabe quantos animais são vítimas no Ceará",
+                    "description": "Sem dados de atropelamentos de animais silvestres, Ceará ignora grave problema de proteção da fauna e põe em risco toda a biodiversidade",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ons2elzewaqszmfvpxzets66/bafkreihgrkkf7tvn3htq2wmzpg3wjm2w55lpkrzjiaude4rrlvhwk6b5uu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:25:15.551Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2ipymcbbympiccpefutjkdid/app.bsky.feed.post/3l3b2gjgind2v",
+            "cid": "bafyreic7k2m3phiny5rt5rgbaceg7f77ebsasftb3vdsfzvhghmnuy7vaa",
+            "author": {
+                "did": "did:plc:2ipymcbbympiccpefutjkdid",
+                "handle": "sittasomus.bsky.social",
+                "displayName": "Rodolfo Dias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2ipymcbbympiccpefutjkdid/bafkreiafwaw3nugbx6lbnjllukukqwjpfr7pdux2t322pjlxf6arfdf5z4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-12T10:04:23.518Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T14:44:41.065Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Compartilhe e encontre informações, fotos e sons das aves do Brasil",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic6x4r2gbdscdmywhy5h5lfbec2j2oqmy6lf7mz3gfjtt6wllbsgy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 122242
+                        },
+                        "title": "WikiAves - A Enciclopédia das Aves do Brasil",
+                        "uri": "https://wikiaves.com"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://wikiaves.com"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 207,
+                            "byteStart": 195
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicj6nwwj7lohjlcix2n3xhm5h42iues4wcuejf736rw4xwwijmkni",
+                        "uri": "at://did:plc:gdsl4uvpzlsmfndlciyhqwmk/app.bsky.feed.post/3l37l6lw74z2m"
+                    },
+                    "root": {
+                        "cid": "bafyreightzg7msbokx4jaw5yqvk2o6bgwlxxrvptyun5n2pqtaosbdyt7y",
+                        "uri": "at://did:plc:xplfowvb5fkrduzpw4s6fsrv/app.bsky.feed.post/3l37kt2mglb2l"
+                    }
+                },
+                "text": "Olá, Bruno! Com certeza é outra. No Brasil, temos cerca de 60 espécies  da família, distribuídas pelos diferentes biomas. O da foto é típico da Caatinga. Caso você se interesse, entre em wikiaves.com e busque por São Paulo. Lá você poderá ver registros feitos por observadores de aves na cidade."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://wikiaves.com",
+                    "title": "WikiAves - A Enciclopédia das Aves do Brasil",
+                    "description": "Compartilhe e encontre informações, fotos e sons das aves do Brasil",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2ipymcbbympiccpefutjkdid/bafkreic6x4r2gbdscdmywhy5h5lfbec2j2oqmy6lf7mz3gfjtt6wllbsgy@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T14:44:41.065Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:433abeqcod6n3rcou5odabeh/app.bsky.feed.post/3l33tzzr3og2p",
+            "cid": "bafyreiaw5kap4wwiqvn77zagihrsa4yfazaqzjdseks5o5kzu665vgrdfe",
+            "author": {
+                "did": "did:plc:433abeqcod6n3rcou5odabeh",
+                "handle": "diegojsantana.bsky.social",
+                "displayName": "Diego Santana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreibmpcursd2p27hcqzytrx6wt7uejgg5w6vdv3p63sl526eviemzj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:433abeqcod6n3rcou5odabeh",
+                        "uri": "at://did:plc:433abeqcod6n3rcou5odabeh/app.bsky.actor.profile/self",
+                        "cid": "bafyreiasrdzup4hzh3ahgfqu7xavk7i3u57ysljg2zgzk7c4kqfitmoqf4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-26T14:09:22.932Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T13:07:00.518Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1628,
+                                "width": 1516
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibgfho2ube2cdidqsff3rizmvrbfxmbflyeugvqytekzhdfd4a7pe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 610993
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1604,
+                                "width": 1508
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihmqx6ivkj5rsgzt7vswvpad27dpecdbbpv3jdzau6uspbsitp3nm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 606828
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1388,
+                                "width": 750
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiavaud5cp4f5r2yzpt7ofiuu5cphnf2ijhhqcw4su3pxq5snv7mma"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 412311
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie6t5pao5ykvourl3ivbadbc5n6os2dp4mtfrdt2zvg5iqwubw2cu",
+                        "uri": "at://did:plc:433abeqcod6n3rcou5odabeh/app.bsky.feed.post/3l33twlcxb62x"
+                    },
+                    "root": {
+                        "cid": "bafyreie6t5pao5ykvourl3ivbadbc5n6os2dp4mtfrdt2zvg5iqwubw2cu",
+                        "uri": "at://did:plc:433abeqcod6n3rcou5odabeh/app.bsky.feed.post/3l33twlcxb62x"
+                    }
+                },
+                "text": "Esse é o maior contínuo de Caatinga e abriga 76 espécies de anfíbios e répteis! \n\nRegistramos espécies endêmicas, ampliamos a distribuição conhecida de algumas e ainda tivemos outras surpresas pelo caminho. \n\nTemos um montão de fotos bacanas para colorir sua manhã de domingo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreibgfho2ube2cdidqsff3rizmvrbfxmbflyeugvqytekzhdfd4a7pe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreibgfho2ube2cdidqsff3rizmvrbfxmbflyeugvqytekzhdfd4a7pe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1628,
+                            "width": 1516
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreihmqx6ivkj5rsgzt7vswvpad27dpecdbbpv3jdzau6uspbsitp3nm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreihmqx6ivkj5rsgzt7vswvpad27dpecdbbpv3jdzau6uspbsitp3nm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1604,
+                            "width": 1508
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreiavaud5cp4f5r2yzpt7ofiuu5cphnf2ijhhqcw4su3pxq5snv7mma@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:433abeqcod6n3rcou5odabeh/bafkreiavaud5cp4f5r2yzpt7ofiuu5cphnf2ijhhqcw4su3pxq5snv7mma@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1388,
+                            "width": 750
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T13:07:00.518Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3ktsoiezx3t2j",
+            "cid": "bafyreiesuuwwv3ianaeucehgp3j7vcj23oatmztxr4xqjucvkzq4tl2mem",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-31T19:37:20.320Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Levantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia5e7tf3tndmj47yx5ztl2iv6ucvrwghoijpvguqpb6x36qzwfz6a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 830432
+                        },
+                        "title": "As aves do Tocantins - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 219,
+                            "byteStart": 192
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "As aves do Tocantins. ⬇️\n\nLevantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica; pelo menos 43 estão ameaçadas de extinção. \n\noeco.org.br/noticias/as-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/",
+                    "title": "As aves do Tocantins - ((o))eco",
+                    "description": "Levantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreia5e7tf3tndmj47yx5ztl2iv6ucvrwghoijpvguqpb6x36qzwfz6a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-31T19:37:20.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kshsxhaxlk23",
+            "cid": "bafyreihwdnxpdw6f4tdenhiqkqo4rnca7avwez32vgjohzcx3c5q3lw7bm",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T18:32:49.780Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Embora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiat7twqzipqxlqml7vuy3rc43qje7npwuuvml3bvjlch33qeognka"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 393317
+                        },
+                        "title": "Caatinga pode ser severamente impactada por mudanças climáticas - ((o))eco",
+                        "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 229
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caatinga pode ser severamente impactada por mudanças climáticas ⬇️\n\nEmbora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas\noeco.org.br/reportagens/..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/",
+                    "title": "Caatinga pode ser severamente impactada por mudanças climáticas - ((o))eco",
+                    "description": "Embora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiat7twqzipqxlqml7vuy3rc43qje7npwuuvml3bvjlch33qeognka@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T18:32:49.780Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l5lgf7225",
+            "cid": "bafyreiez6646ovq3l3azcxs2ulcmnoev3z5p32rfd5d46g3f6ao4lrv5kq",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-10T07:13:50.912Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie56mlkjjszmhtdmkjbntglt5e45uvva6am2xwxihpw64er4adtd4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l2usc5223"
+                    },
+                    "root": {
+                        "cid": "bafyreie56mlkjjszmhtdmkjbntglt5e45uvva6am2xwxihpw64er4adtd4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3ks4l2usc5223"
+                    }
+                },
+                "text": "-Amazônia: desmatamento, queimadas, contaminação de rios e nascentes, caça ilegal, invasão de espécies exóticas, atividades econômicas predatórias \n\n-Pantanal: o desmatamento, a mineração e a queimadas\n\n-Caatinga: desmatamento: primeira causa de degradação"
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-10T07:13:50.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hmiktr2wpbjcc66hb6blikc6/app.bsky.feed.post/3kq4e5awiun2t",
+            "cid": "bafyreidfkzakchjdxpyindswcd7orhp4wwduhz4fur7jepqhy4vzglte6a",
+            "author": {
+                "did": "did:plc:hmiktr2wpbjcc66hb6blikc6",
+                "handle": "mirandajr.bsky.social",
+                "displayName": "Miranda Jr. ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreibggladhbmvu6ltai5qzo4jcyilrckbcwmsrm6zrzp6tnyho5vfbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T21:09:37.296Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-14T18:18:00.665Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 866626
+                        },
+                        "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                        "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 254
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"O espaço engloba uma variedade gigantesca de fauna e flora, além do Pico do Jabre [ponto mais alto da Paraíba e 3° maior do Nordeste], que contempla tanto a vegetação da caatinga quanto espécies de mata atlântica, devido à altitude do local” sudema.pb.gov.br/noticias/con..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba",
+                    "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                    "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-14T18:18:00.665Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzhrzfcx2t",
+            "cid": "bafyreigvi4o67soxktm5afc5r6hux5nz6powyl6kvnnwaocqqhmzhgevsi",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-13T20:01:42.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 357061
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiadbhvbtkrzi22pkybspenv6zbi4mnm4ug32xmzqgtcpnbjcr3kxa",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzeqdyfa2b"
+                    },
+                    "root": {
+                        "cid": "bafyreiblszpp6475xp5fpnntbjswlwxlbumhrmctnkcbjupsqrmcbkubhq",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzytkrked2m"
+                    }
+                },
+                "text": "Isso coloca o Pampa na frente da Amazônia, Caatinga e Pantanal na lista de biomas brasileiros com mais espécies ameaçadas ou extintas. O Pampa é um bioma pequeno mas muito rico em biodiversidade, que precisa de nossa proteção e não deve ser esquecido."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-13T20:01:42.966Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3khshklh7og27",
+            "cid": "bafyreiayqlu3ynk2ij4tdpifbeyqeybtdqtf7s5zgy237fjnnccajwl2ky",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-31T00:30:55.917554Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Bioma é um dos menos protegidos no Brasil e abriga algumas das espécies ameaçadas de extinção no país.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibhzqbjicilekqepb4zpmnjyu625uqz2fjud3hf5lb3v3bvpvwqhu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 142592
+                        },
+                        "title": "Pesquisadores lutam para preservar espécies da caatinga em Alagoas",
+                        "uri": "https://g1.globo.com/jornal-nacional/noticia/2023/12/30/pesquisadores-lutam-para-preservar-especies-da-caatinga-em-alagoas.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pesquisadores lutam para preservar espécies da caatinga em Alagoas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/jornal-nacional/noticia/2023/12/30/pesquisadores-lutam-para-preservar-especies-da-caatinga-em-alagoas.ghtml",
+                    "title": "Pesquisadores lutam para preservar espécies da caatinga em Alagoas",
+                    "description": "Bioma é um dos menos protegidos no Brasil e abriga algumas das espécies ameaçadas de extinção no país.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibhzqbjicilekqepb4zpmnjyu625uqz2fjud3hf5lb3v3bvpvwqhu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-31T00:30:55.917Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k2d7w4c3bi2c",
+            "cid": "bafyreia7pkzos3o6pm6zemvjmeyvfbf7undf6sh4gsqmcptsunrorof5q4",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-12T12:36:47.626Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "O guigó-da-caatinga, primata criticamente ameaçado de extinção",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic4qvtgcyukcj7utcsgimou6dd42kob3jtqr5otn5fy4zvwrjrkku"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 745106
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihybntfx2kf6gv6jf3cel56lhjwqgfp2rkvchrsky4j5iikgnllxe",
+                        "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k2d7uglqwx27"
+                    },
+                    "root": {
+                        "cid": "bafyreidj57jxxgi6rdpnap5klolxcjecxeroafusaastjap74xh6coqije",
+                        "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k2d7os6rll2y"
+                    }
+                },
+                "text": "Além disso, a Serra da Chapadinha abriga espécies criticamente ameaçadas como o guigó-da-caatinga e o macaco-prego-do-peito-amarelo, além de quatro espécies de felinos. 🧶⬇️\n\n📷 Duda Menegassi / ((o))eco"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreic4qvtgcyukcj7utcsgimou6dd42kob3jtqr5otn5fy4zvwrjrkku@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreic4qvtgcyukcj7utcsgimou6dd42kob3jtqr5otn5fy4zvwrjrkku@jpeg",
+                        "alt": "O guigó-da-caatinga, primata criticamente ameaçado de extinção"
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-12T12:36:47.626Z",
+            "labels": []
+        }
+    ]
+}

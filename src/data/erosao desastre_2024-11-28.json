@@ -1,0 +1,43 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:odzeez6qcezrqwnki2chzkoz/app.bsky.feed.post/3kfi6fpdo3o2s",
+            "cid": "bafyreic4ddfhq2nskopjphrjatvk7ftw35lbbgeox4qjfrepid3g4mku2a",
+            "author": {
+                "did": "did:plc:odzeez6qcezrqwnki2chzkoz",
+                "handle": "fhsdoc.bsky.social",
+                "displayName": "Flávio Henrique 🟡🟢🔵",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:odzeez6qcezrqwnki2chzkoz/bafkreiemwum5ollwdmiekb6wxegqbgjwc5t26mnyhuknet24ve3oc4k2bi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:odzeez6qcezrqwnki2chzkoz",
+                        "uri": "at://did:plc:odzeez6qcezrqwnki2chzkoz/app.bsky.actor.profile/self",
+                        "cid": "bafyreihteok6hgehfm3x72fh5jbzglyx373samzz76dqz5xnqbtdaqjjpy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-03T21:36:59.966Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-01T11:31:04.128Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Lembrando aqui que na empresa que trabalho essas semanas começaram redução de uso de copos plásticos \"pelo meio ambiente\". Sendo que um dos fornecedores da fábrica do grupo empresarial é a BRASKEM responsável pelo maior desastre ambiental do estado do AL. Hj às 6h tinha alerta de nova erosão do solo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-01T11:31:04.128Z",
+            "labels": []
+        }
+    ]
+}

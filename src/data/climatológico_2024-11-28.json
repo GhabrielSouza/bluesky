@@ -1,0 +1,564 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:2zl3ssrva2qzhfitcyyuqzyc/app.bsky.feed.post/3labuei25672r",
+            "cid": "bafyreicjxhwg3ynsapdyo3dsti6s2ahvdyegg437djceetxldd7blnf72y",
+            "author": {
+                "did": "did:plc:2zl3ssrva2qzhfitcyyuqzyc",
+                "handle": "marcbraz.bsky.social",
+                "displayName": "👹♄βռăʒわ#nⒶoVotu👺",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zl3ssrva2qzhfitcyyuqzyc/bafkreifvnayoaecbc7c3ehf5dbp354vzonlol5ooajnwtxdgp6klvrmnaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-09T00:09:36.646Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T13:34:44.954Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pois é, greengos engatam a ré e aceleram rumo ao abismo climatológico.\n\nQue grande c*gada! :/"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-06T13:34:47.885Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4g2kyl6exh3en2wdt5pm2aly/app.bsky.feed.post/3la5btp2ij22t",
+            "cid": "bafyreifs2yxib7b3gxemz2zzw7cugom4bdxlihyxdgwj23urlovw4ilso4",
+            "author": {
+                "did": "did:plc:4g2kyl6exh3en2wdt5pm2aly",
+                "handle": "ditoisso.bsky.social",
+                "displayName": "Aleglande de Moraes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4g2kyl6exh3en2wdt5pm2aly/bafkreighzwa4suilqyjffrdhcpuyrok2h3kaxw53pyggrkz6kfuz6keyqe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T22:28:30.131Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-04T17:52:38.358Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Queria que o tempo ficasse igual hj por pelo menos 3 anos seguidos. Nao ta aquele calor, uma chuvinha ali pra dar uma refrescada. No banho usar a temperatura entre morna e cozido. A noite fica temperatura ótima. Enfim equilíbrio climatológico algo que nao temos mais."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-04T17:52:38.581Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6fiyack7a27",
+            "cid": "bafyreifvurmbzc7u6etnzpoew5xrudo5s6kd4o4fgs7ci47k5fjsth7u44",
+            "author": {
+                "did": "did:plc:4emjyzaf6t6puvmf2nwi3hou",
+                "handle": "nathaliasca.bsky.social",
+                "displayName": "Nathalia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4emjyzaf6t6puvmf2nwi3hou/bafkreicowlmhex3vta7ygtqsntlnlxlq57lrqnl6b462nkzcjttnrqgeky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:15:53.105Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T13:31:19.805Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiddbdf7cwm6mtyfqhsbakxyafzmrhb2ibpcg36sw7zbsyll7wrj6i",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6fitrd56i27"
+                    },
+                    "root": {
+                        "cid": "bafyreigyk47qspvfq6cvlowom7wmm7ehdoa4p7qlcer4xivp5utmtlr34m",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6fin6f63q27"
+                    }
+                },
+                "text": "Mas qual a diferença do vento climatológico do vento normal? É tudo a msm coisa?\n\nO vento é caracterizado como o movimento do ar em relação à superfície terrestre. Representa o deslocamento horizontal de uma massa de ar, e +"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T13:31:19.805Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6fis7ozh224",
+            "cid": "bafyreig4fr3h4qfsli3h6xi3vsg5ftv7i2hvl5rurlaak7qmozg3kafsfe",
+            "author": {
+                "did": "did:plc:4emjyzaf6t6puvmf2nwi3hou",
+                "handle": "nathaliasca.bsky.social",
+                "displayName": "Nathalia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4emjyzaf6t6puvmf2nwi3hou/bafkreicowlmhex3vta7ygtqsntlnlxlq57lrqnl6b462nkzcjttnrqgeky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T15:15:53.105Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T13:27:57.968Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiegbl2usqh5moij5dbak3ugr7t4ydqaqdccjsf7z7lnkr5ausi2qi",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6finwkim32z"
+                    },
+                    "root": {
+                        "cid": "bafyreigyk47qspvfq6cvlowom7wmm7ehdoa4p7qlcer4xivp5utmtlr34m",
+                        "uri": "at://did:plc:4emjyzaf6t6puvmf2nwi3hou/app.bsky.feed.post/3l6fin6f63q27"
+                    }
+                },
+                "text": "Um dos fatores ambientais que mais significativamente influencia na quebra das árvores pelo vento é a presença do chamado vento climatológico, o qual é caracterizado como sendo o vento médio de uma região não associado às chuvas. +"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T13:27:57.968Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5yrjkeuf22k",
+            "cid": "bafyreigilewq7e7ln3hqxk6uai3gdku55sy4ggvnlenmqmqlewqvoxklce",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T11:59:35.352Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreielcyqpenjfd5rxi67vwxqliqfnwerncy4atjjixv2yzgyjg54cuu",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5yqa3lkg32x"
+                    },
+                    "root": {
+                        "cid": "bafyreielcyqpenjfd5rxi67vwxqliqfnwerncy4atjjixv2yzgyjg54cuu",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5yqa3lkg32x"
+                    }
+                },
+                "text": "Campos importantes para a climatologia:\n\n1. Topografia\n2. Astrofísica\n3. Oceanografia\n4. Antropologia\n5. Biologia\n6. Física\n7. Química\n\nEsses são uns dos estudos que devem ser considerados para analisar o \"todo\" climatologico.\n\nPor isso sou apaixonado pelo clima, ciência na sua forma completa."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T11:59:35.352Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w637ugtcag7ll4nwv4oxxama/app.bsky.feed.post/3l4lpcgrhsc2j",
+            "cid": "bafyreibygvm7xjl3qdgxlb7abubr74nn7hx3d3a2nf3qymtyxgtlnfmpr4",
+            "author": {
+                "did": "did:plc:w637ugtcag7ll4nwv4oxxama",
+                "handle": "moidvtuber.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w637ugtcag7ll4nwv4oxxama/bafkreigppvnsbhzfvbtx4zobifperasbtkoy4ls2ry4zeayq7liqjaxt2u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:47:00.997Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T13:50:00.499Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreialejeiidgp2sg7o52hl7ovsexpsdvst6hqiq2fxhanantvnregyy",
+                        "uri": "at://did:plc:os257jto5tbfe3mrr7zziauw/app.bsky.feed.post/3l4lnpdfwgc22"
+                    },
+                    "root": {
+                        "cid": "bafyreialejeiidgp2sg7o52hl7ovsexpsdvst6hqiq2fxhanantvnregyy",
+                        "uri": "at://did:plc:os257jto5tbfe3mrr7zziauw/app.bsky.feed.post/3l4lnpdfwgc22"
+                    }
+                },
+                "text": "Curioso!! Aconteceu o mesmo comigo e com os meus pais!! Será que aconteceu algum evento climatológico que evitou que todos os brazucas terem noites ruins?!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T13:50:00.499Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s74hrkv2yjokpiwxdu2lclkj/app.bsky.feed.post/3l4ffmfgusp22",
+            "cid": "bafyreiewxk7ohiqd63ateljepjksfvvvnz2wx6olwlvrs7rpvn7zjhcjmq",
+            "author": {
+                "did": "did:plc:s74hrkv2yjokpiwxdu2lclkj",
+                "handle": "maxvalos16.bsky.social",
+                "displayName": "Max Avalos (H.F.C 🌀)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s74hrkv2yjokpiwxdu2lclkj/bafkreiezninevxbeifahwqpg7jksg25q4oayyy3vy3ywgbvz3cgopycqta@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-17T19:28:20.810Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T01:40:39.748Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1638,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreighpy6q42zemfxv4fzlwfewspm7vnzffdesoml7lerjerwgym4wgm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 742137
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A partir de hoje, a energia acumulada de Ciclones (ACE) em 30 dias para o Atlântico Norte está essencialmente empatada com a mais baixa registrada desde 1980, durante o que se presume ser o pico climatológico da atividade do Furacão."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s74hrkv2yjokpiwxdu2lclkj/bafkreighpy6q42zemfxv4fzlwfewspm7vnzffdesoml7lerjerwgym4wgm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:s74hrkv2yjokpiwxdu2lclkj/bafkreighpy6q42zemfxv4fzlwfewspm7vnzffdesoml7lerjerwgym4wgm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1638,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T01:40:39.748Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ohwvqrq4hm2fgbicnczsauy3/app.bsky.feed.post/3l3srvgbzeg2k",
+            "cid": "bafyreifq3rtdyg4hrr4dujftuzkk7hcx5j7azsmgae32ml2w7yzzawslmm",
+            "author": {
+                "did": "did:plc:ohwvqrq4hm2fgbicnczsauy3",
+                "handle": "pqpcarlos.bsky.social",
+                "displayName": "the amazing carlos ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ohwvqrq4hm2fgbicnczsauy3/bafkreignwmsokyijmgdhapnjdbkxixbeikvqtdoj64la46cmgicddaebam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T03:54:02.997Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T15:59:52.422Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid4tgwibagm7gnbfg6qcz5wbplhuhhiotocmku4ox324onrcicvu4",
+                        "uri": "at://did:plc:7ba7lz54yll7pxslxv47ejws/app.bsky.feed.post/3l3s6gaux6n2u"
+                    },
+                    "root": {
+                        "cid": "bafyreid4tgwibagm7gnbfg6qcz5wbplhuhhiotocmku4ox324onrcicvu4",
+                        "uri": "at://did:plc:7ba7lz54yll7pxslxv47ejws/app.bsky.feed.post/3l3s6gaux6n2u"
+                    }
+                },
+                "text": "e quando a gente fala sobre isso fora da internet dizem que é “terrorismo climatológico” mas só quem sofre diretamente (e imediatamente) com os efeitos da fumaça sabe o quão ruim está a situação."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T15:59:52.422Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y4k3fcsk46w52yeq7mg3nvng/app.bsky.feed.post/3l3flp4qhwf2y",
+            "cid": "bafyreibinxilotrsmpiwocjff7jzt7dqfxagikvm3gorhynu5lg2bspzaa",
+            "author": {
+                "did": "did:plc:y4k3fcsk46w52yeq7mg3nvng",
+                "handle": "isacsoares.bsky.social",
+                "displayName": "isacsoares",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y4k3fcsk46w52yeq7mg3nvng/bafkreibdnndyhp5iylxeqwsb6yutax55raqjcwo6fpjfvtgx5poehtzcoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T22:17:28.275Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T10:04:22.055Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifa6tembfhoog67nqosqtndxek5ndwmwztadv2rsbd6r7zpl5g4u4",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3em2jbw6n26"
+                    },
+                    "root": {
+                        "cid": "bafyreifa6tembfhoog67nqosqtndxek5ndwmwztadv2rsbd6r7zpl5g4u4",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3em2jbw6n26"
+                    }
+                },
+                "text": "Normal climatológico, a última chuva na minha cidade na Bahia próximo a estas cidades mineiras  foi dia 5 de Abril quando registrou  5mm!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T10:04:22.055Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l34wqajgtd25",
+            "cid": "bafyreibheoeyhwja55cn4ji42zzm3t2kd4b7uaisslahdeauqo44i3di7y",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T23:27:53.066Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a man with a mustache is holding a piece of paper with the word science written on it .",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiei6dx5dr2ji7hn7zkl7jpxmoktk3rz3yekd3notzgh5j727fmefa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 665992
+                        },
+                        "title": "a man with a mustache is holding a piece of paper with the word science written on it .",
+                        "uri": "https://media.tenor.com/XFwcRtOFsZsAAAAC/science-magic.gif?hh=406&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Se alguém tiver alguma dúvida, não tenha medo de perguntar.\nMinha meta é explicar para as pessoas que não tem nenhum conhecimento climatologico.\n\nNão tenha medo de saber mais, ignorar essas informações pode ser a diferença entre saúde e doença.\n\nTô aqui pra isso mesmo.\nEspalhar ciência. 👍🏻"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/XFwcRtOFsZsAAAAC/science-magic.gif?hh=406&ww=498",
+                    "title": "a man with a mustache is holding a piece of paper with the word science written on it .",
+                    "description": "ALT: a man with a mustache is holding a piece of paper with the word science written on it .",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreiei6dx5dr2ji7hn7zkl7jpxmoktk3rz3yekd3notzgh5j727fmefa@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 2,
+            "likeCount": 45,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T23:27:53.066Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ty47ytfbax5o5dza67tm5o44/app.bsky.feed.post/3krcus53mlu2h",
+            "cid": "bafyreigexusd5b7ghodbqwbzgelty4cj3oetfxukezsvvkmfdtm2uskp6y",
+            "author": {
+                "did": "did:plc:ty47ytfbax5o5dza67tm5o44",
+                "handle": "margaretcarvalho.bsky.social",
+                "displayName": "Margaret Carvalho 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ty47ytfbax5o5dza67tm5o44/bafkreicokoistiynf6tpfonikcfnpxctbfywypbtrodoymjzc6ijqzbcry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T19:39:46.621Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-30T01:57:11.256Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiaujntxr3vhickvkhn7hjusa54dwehsfqef73keojmogbueq4rrvy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 863566
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A situação é extraordinária do ponto de vista climatológico, com temperaturas muito acima do normal para o fim de abril e início de maio, afirmam os meteorologistas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ty47ytfbax5o5dza67tm5o44/bafkreiaujntxr3vhickvkhn7hjusa54dwehsfqef73keojmogbueq4rrvy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ty47ytfbax5o5dza67tm5o44/bafkreiaujntxr3vhickvkhn7hjusa54dwehsfqef73keojmogbueq4rrvy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-30T01:57:11.256Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mng2o56lrqnett3bhxdqu2ny/app.bsky.feed.post/3klrtr55jjz2y",
+            "cid": "bafyreifbeomwak3nlurlfx5alrz3u6idwlwien3pad7il2fxnx7arqye7q",
+            "author": {
+                "did": "did:plc:mng2o56lrqnett3bhxdqu2ny",
+                "handle": "perezen13077894.bsky.social",
+                "displayName": "🌈☀🏁💚💐 𝔼𝕟𝕣𝕚𝕢𝕦𝕖 Pérez 🕊",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mng2o56lrqnett3bhxdqu2ny/bafkreici2jb4mf3mgxsvmh2og4vc2ggzbwd7en6oj54t2m4dgfrxix6ndu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-28T09:51:11.769Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-19T16:17:28.533Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 763
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibtcfzsq4d6i6hk56rzlbmm3eransxh53lof4veejy3qhn3one3k4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 192571
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "es",
+                    "pt"
+                ],
+                "text": "Y los ganadores son las, petroleras  ,triple Corona en Ucrania ,,,  y aquí  pagando 1'80 €  el litro  de sin plomo 95 , engrasando el motor por no consumir y por las limitaciones de velocidad, que hacen que tu coche sea un inútil  climatológico y tu más..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mng2o56lrqnett3bhxdqu2ny/bafkreibtcfzsq4d6i6hk56rzlbmm3eransxh53lof4veejy3qhn3one3k4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mng2o56lrqnett3bhxdqu2ny/bafkreibtcfzsq4d6i6hk56rzlbmm3eransxh53lof4veejy3qhn3one3k4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 763
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-19T16:17:28.533Z",
+            "labels": []
+        }
+    ]
+}

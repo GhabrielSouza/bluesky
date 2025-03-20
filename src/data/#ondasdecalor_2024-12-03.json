@@ -1,0 +1,137 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l55daphutz2w",
+            "cid": "bafyreibafki66xqwlkiykhtv7frwbduu6yup522xzxk7klfuqtku4nze2u",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T14:02:13.453Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidqf5fwplttcsrzpaheityuwy3uu3xscnsmv2vamp6goybzgpveti",
+                        "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l53qe7vxcy2a"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "OndasDeCalor"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 33,
+                            "byteStart": 20
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dicas pra gente nas #OndasDeCalor 👇🏼"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l53qe7vxcy2a",
+                    "cid": "bafyreidqf5fwplttcsrzpaheityuwy3uu3xscnsmv2vamp6goybzgpveti",
+                    "author": {
+                        "did": "did:plc:n65klbqrbpc3zqse7pxgk7qs",
+                        "handle": "mellziland.bsky.social",
+                        "displayName": "Mellanie Fontes-Dutra",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreibff3i643y5vmpvfxnuye7v6tzy5caq5thn2pba74z67r7xubwkpu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-08T14:40:20.579Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-26T22:51:32.696Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 766,
+                                        "width": 599
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreic6p6bhscun72sp6uyuvphicnlr2l3wnu22myfbosczxorim22pwm"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 551811
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreifegpb7jjdzpjyyqluta7um5ogmagq5ewjixvk26hnlnwrjbxr6fm",
+                                "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l53qbzpl2j2o"
+                            },
+                            "root": {
+                                "cid": "bafyreidzv6rcv2b7xkuvgmfjj6pu7mnyzcz634vcoxbxwej424rzuqk2ym",
+                                "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l53njxhr7o2w"
+                            }
+                        },
+                        "text": "Por isso é importante buscar ambientes climatizados, com um correto manejo de temperatura e umidade. Abaixo, deixo uma série de dicas que está no texto que fiz para a Meteored, baseado em recomendações da OMS.\n\nPrinta, salva, compartilha!"
+                    },
+                    "labels": [],
+                    "likeCount": 87,
+                    "replyCount": 1,
+                    "repostCount": 33,
+                    "quoteCount": 3,
+                    "indexedAt": "2024-09-26T22:51:32.014Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreic6p6bhscun72sp6uyuvphicnlr2l3wnu22myfbosczxorim22pwm@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreic6p6bhscun72sp6uyuvphicnlr2l3wnu22myfbosczxorim22pwm@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 766,
+                                        "width": 599
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T14:02:13.453Z",
+            "labels": []
+        }
+    ]
+}

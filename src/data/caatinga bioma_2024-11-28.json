@@ -1,0 +1,3802 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:yv6vnwpfod4tywnkap223bn7/app.bsky.feed.post/3lbye5gmzrc24",
+            "cid": "bafyreidtiungwmpdjfqyfqwvhopw7phxyiklgkxdvdkznwu3nvgpmgqeki",
+            "author": {
+                "did": "did:plc:yv6vnwpfod4tywnkap223bn7",
+                "handle": "everardofaraujo.bsky.social",
+                "displayName": "Everardo Ferreira Araújo ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yv6vnwpfod4tywnkap223bn7/bafkreicxozpqpocp7sypbb6e5657k3xsvifsnendtlsqcodvobqqlisyjy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T04:53:43.074Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T05:40:57.184Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by TV Senado",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicdyrpgcasuagzqznkavd4mpjoucyfwbcxta5kk7ggtvytu6wr4om"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 109385
+                        },
+                        "title": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação",
+                        "uri": "https://youtu.be/wADaciZS_Ho?si=Ry2dONDnmRRbfW6G"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/wADaciZS_Ho?si=Ry2dONDnmRRbfW6G"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 151,
+                            "byteStart": 127
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação\nYouTube \nTV Senado\n27/04/2024\nyoutu.be/wADaciZS_Ho?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/wADaciZS_Ho?si=Ry2dONDnmRRbfW6G",
+                    "title": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação",
+                    "description": "YouTube video by TV Senado",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yv6vnwpfod4tywnkap223bn7/bafkreicdyrpgcasuagzqznkavd4mpjoucyfwbcxta5kk7ggtvytu6wr4om@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T05:41:02.551Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g6uzt4oe6yrhi6xcnc5oxd3h/app.bsky.feed.post/3lbwqloyae22k",
+            "cid": "bafyreiaiecif33l2uhl3mojd5dr47sdvjwwvw3ibuutxw6fxwglpwrfkla",
+            "author": {
+                "did": "did:plc:g6uzt4oe6yrhi6xcnc5oxd3h",
+                "handle": "bndes.bsky.social",
+                "displayName": "BNDES",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g6uzt4oe6yrhi6xcnc5oxd3h/bafkreidhqqaer4suaqakicoiordyzhh53442gapdc62fh3fnfexw75l6zu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:23:06.038Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T14:18:21.127Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicaotgtbq7fvl6up4afbqx4m73ytyen5nvroqjx53tfun76gbvdim"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 414461
+                        },
+                        "title": "Caatinga Viva: BNDES e BNB apoiam projetos de restauração do bioma brasileiro, único no mundo",
+                        "uri": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Caatinga-Viva-BNDES-e-BNB-apoiam-projetos-de-restauracao-do-bioma-brasileiro-unico-no-mundo/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Caatinga-Viva-BNDES-e-BNB-apoiam-projetos-de-restauracao-do-bioma-brasileiro-unico-no-mundo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 305,
+                            "byteStart": 259
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Caatinga é um bioma exclusivamente brasileiro, ocupando 10% do território nacional, e proporcionalmente mais capaz de reter CO2 que florestas tropicais. Os R$ 8,8 milhões do BNDES e do BNB serão destinados a até 4 projetos de restauração ecológica. agenciadenoticias.bndes.gov.br/detalhe/noti..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://agenciadenoticias.bndes.gov.br/detalhe/noticia/Caatinga-Viva-BNDES-e-BNB-apoiam-projetos-de-restauracao-do-bioma-brasileiro-unico-no-mundo/",
+                    "title": "Caatinga Viva: BNDES e BNB apoiam projetos de restauração do bioma brasileiro, único no mundo",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g6uzt4oe6yrhi6xcnc5oxd3h/bafkreicaotgtbq7fvl6up4afbqx4m73ytyen5nvroqjx53tfun76gbvdim@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T14:18:24.856Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fx7oxvn2ehlx2v445a6vdm4f/app.bsky.feed.post/3lb73bjwnk22l",
+            "cid": "bafyreiciakisjecg4idcug7agfhrqavvcs4tabgmeo5gegsjpntarripmu",
+            "author": {
+                "did": "did:plc:fx7oxvn2ehlx2v445a6vdm4f",
+                "handle": "bigboobvillain.bsky.social",
+                "displayName": "Stay Dea vai ver o Changbin",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fx7oxvn2ehlx2v445a6vdm4f/bafkreieggj7xkihrcgc7p4bjaw3n4k7jho7gztb6projolgzijbwo4u47a@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-14T03:28:20.514Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T04:25:37.729Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "pergunta aleatória, vcs que se consideram livres, já experienciaram a sensação fabulosa de cagar no mato?\n\nse sim, assinale o tipo de bioma onde se localiza a mata que vc cagou:\n\na) Amazônia\nb) Mata Atlântica\nc) Cerrado\nd) Caatinga\ne) Pantanal\nf) Pampa"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T04:25:39.248Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathtqxjlk2w",
+            "cid": "bafyreia2mwgnojhuphapt3hifzs7l65pbykcn2ov4dv2igkfubzcpbspk4",
+            "author": {
+                "did": "did:plc:mo4wfo3ehcfnv3zsqlpzu5pg",
+                "handle": "governodabahia.bsky.social",
+                "displayName": "GovBa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/bafkreiacxhkalywzjgagr2zahjhwhntx3gu5x62l7ae2qdbn5wi2ha2jvm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-07T14:22:02.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-13T13:38:37.119Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Secretaria de Desenvolvimento Rural lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicoiyxmnnj7fsxx7z24qxqtbbviaehwqmk4k4hi7muaoxxjaxd76m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 613879
+                        },
+                        "title": "SDR lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia - Secom GOVBA",
+                        "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 213
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiht2ohdlcf4nhvoqp7jxcglufs7c5fnrgqts6lp45ebuuwllp4gq4",
+                        "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathtazjbk2w"
+                    },
+                    "root": {
+                        "cid": "bafyreifug4n2xk2n72mpj4ik3h345iqj7fchzz2arfhobvl5zic4fsmpxi",
+                        "uri": "at://did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/app.bsky.feed.post/3lathsbvzsk2s"
+                    }
+                },
+                "text": "🌵 Já o Candeeiros da Caatinga tem como foco a preservação e recuperação do bioma, além de articular redes de apoio para promover a educação ambiental, geração de renda e desenvolvimento sustentável. www.comunicacao.ba.gov.br/2024/11/noti..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.comunicacao.ba.gov.br/2024/11/noticias/sdr-lanca-tres-novos-editais-para-fortalecer-agricultura-familiar-e-promover-a-sustentabilidade-na-bahia/",
+                    "title": "SDR lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia - Secom GOVBA",
+                    "description": "Secretaria de Desenvolvimento Rural lança três novos editais para fortalecer agricultura familiar e promover a sustentabilidade na Bahia.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mo4wfo3ehcfnv3zsqlpzu5pg/bafkreicoiyxmnnj7fsxx7z24qxqtbbviaehwqmk4k4hi7muaoxxjaxd76m@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-13T13:38:40.890Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:26l5eizavw2bllt4rnn6mt27/app.bsky.feed.post/3laoc234eck2i",
+            "cid": "bafyreiaah6evqqpcrc5p2itrrestavyion2bkleqwgadlwtxez6444zjei",
+            "author": {
+                "did": "did:plc:26l5eizavw2bllt4rnn6mt27",
+                "handle": "webclora.bsky.social",
+                "displayName": "puta nakamoto(⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠ﾉ⁠*⁠✿⁠˖♡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26l5eizavw2bllt4rnn6mt27/bafkreihovqozou2rg75o5cmkumwyxyenzy5xd4s47qqkuklu6i75ezc52m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T14:59:04.103Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-11T12:11:27.947Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "que vontade de estar vendo uma montanha ao vivo com meus olhos... Uma montanha com vegetação...... I love you campo rupestre fitofisionomia do bioma caatinga"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-11T12:11:28.197Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6vrb76rnm72pteeer47zgbee/app.bsky.feed.post/3laj4erawej2r",
+            "cid": "bafyreicivquicp23hxxcuqmhsoxut652v64bl5h2rxw6bqui6y2yev7vj4",
+            "author": {
+                "did": "did:plc:6vrb76rnm72pteeer47zgbee",
+                "handle": "marciopantj.bsky.social",
+                "displayName": "Márcio Pantj",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6vrb76rnm72pteeer47zgbee/bafkreibhi2x35oiqcwp4d2gamlclfilv2pz7gw557r64ti4dak6jwfxs6i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-10T10:43:28.507Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T10:46:46.069Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Na imagem temos um calango em cima de um piso cerâmico pegando um sol matinal.  \nO termo calango se refere a alguns lagartos, como os da família dos teídeos ou da família Tropiduridae, principalmente os de pequeno porte, Cnemidophorus e outros que vivem geralmente no solo ou em pedreiras da caatinga bioma exclusivo do Brasil que pode ser encontrado na Bahia, Ceará, Maranhão, Pernambuco, Alagoas, Paraíba, Piauí, Sergipe e Rio Grande do Norte. ",
+                            "aspectRatio": {
+                                "height": 518,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibf4hhwv6r3fmluwpeykli35ctej3p7ii7hqacos4dpksoofw5cby"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 384771
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tomando um sol matinal."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6vrb76rnm72pteeer47zgbee/bafkreibf4hhwv6r3fmluwpeykli35ctej3p7ii7hqacos4dpksoofw5cby@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6vrb76rnm72pteeer47zgbee/bafkreibf4hhwv6r3fmluwpeykli35ctej3p7ii7hqacos4dpksoofw5cby@jpeg",
+                        "alt": "Na imagem temos um calango em cima de um piso cerâmico pegando um sol matinal.  \nO termo calango se refere a alguns lagartos, como os da família dos teídeos ou da família Tropiduridae, principalmente os de pequeno porte, Cnemidophorus e outros que vivem geralmente no solo ou em pedreiras da caatinga bioma exclusivo do Brasil que pode ser encontrado na Bahia, Ceará, Maranhão, Pernambuco, Alagoas, Paraíba, Piauí, Sergipe e Rio Grande do Norte. ",
+                        "aspectRatio": {
+                            "height": 518,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 30,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T10:46:46.082Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qzslzir7toizd75j3wpa6j3c/app.bsky.feed.post/3lac3oyuh3y2k",
+            "cid": "bafyreiffsa3kopxwn7b4ynqq5nwh7txwzi46otyc4uytogin3eid4kd664",
+            "author": {
+                "did": "did:plc:qzslzir7toizd75j3wpa6j3c",
+                "handle": "colabora.bsky.social",
+                "displayName": "Colabora - Jornalismo Sustentável",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreihcxrw67mjnbm5glysh3t3crrsdfehpouqmwqrdimxt2qu2madwyu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:34:44.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-06T15:47:57.273Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Produtores ensinam que alimentar abelhas com florada de espécies nativas da Caatinga custa menos para o bolso e para o meio ambiente",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig6fplluhsn3fwxot3yg7kyb5yvorl2rqotptcykbrctolvxctyfu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 332193
+                        },
+                        "title": "Apicultura agroecológica aumenta lucro e combate mudanças climáticas - #Colabora",
+                        "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Colabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 148
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 304,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🐝Apicultores da Caatinga adotam agroecológica e demonstram como alimentar abelhas com florada de espécies nativas do bioma. \n\nEm reportagem no #Colabora, Adriana Amâncio explica como a alternativa reduz os custos de produção e ajuda no sequestro de carbono:\nprojetocolabora.com.br/ods12/apicul..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://projetocolabora.com.br/ods12/apicultura-aumenta-lucro-e-combate-mudancas-climaticas/",
+                    "title": "Apicultura agroecológica aumenta lucro e combate mudanças climáticas - #Colabora",
+                    "description": "Produtores ensinam que alimentar abelhas com florada de espécies nativas da Caatinga custa menos para o bolso e para o meio ambiente",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreig6fplluhsn3fwxot3yg7kyb5yvorl2rqotptcykbrctolvxctyfu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-06T15:45:57.981Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ons2elzewaqszmfvpxzets66/app.bsky.feed.post/3l6ngyvnnco27",
+            "cid": "bafyreies7y4hwchkojmbyfcw4fyczfhvrk4ydq34rhybdfgkpwrp4siueu",
+            "author": {
+                "did": "did:plc:ons2elzewaqszmfvpxzets66",
+                "handle": "catalina-leite.bsky.social",
+                "displayName": "Catalina Leite 🦥",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ons2elzewaqszmfvpxzets66/bafkreigememlgdlc7y5onicosmvivzmlvo2zzyqq53pabafszopmjtwgg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-17T00:07:10.451Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-16T17:17:13.901Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ela é o semiárido mais biodiverso do mundo e o único bioma endêmico do Brasil, mas ainda é marcada pelo preconceito e pelo imaginário de desolação e pobreza. Conheça a Caatinga de verdade e os ensinam...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihw472vmo4kylu4vw6gdohini3fvyidrvwibggfxjwrardoqsjsba"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 534789
+                        },
+                        "title": "Metamorfa e biodiversa, essa é a verdadeira Caatinga",
+                        "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/10/16/metamorfa-e-biodiversa-essa-e-a-verdadeira-caatinga.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 263
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/10/16/metamorfa-e-biodiversa-essa-e-a-verdadeira-caatinga.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 313,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Caatinga é o semiárido mais biodiverso do mundo e o único bioma endêmico do Brasil, mas ainda é marcada pelo preconceito e pelo imaginário de desolação e pobreza. O que o período seco e os caatingueiros têm a dizer sobre essa floresta metamorfa? 🍃 #biodiversidade\n\nmais.opovo.com.br/reportagens-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mais.opovo.com.br/reportagens-especiais/cop-16-biodiversidade/2024/10/16/metamorfa-e-biodiversa-essa-e-a-verdadeira-caatinga.html",
+                    "title": "Metamorfa e biodiversa, essa é a verdadeira Caatinga",
+                    "description": "Ela é o semiárido mais biodiverso do mundo e o único bioma endêmico do Brasil, mas ainda é marcada pelo preconceito e pelo imaginário de desolação e pobreza. Conheça a Caatinga de verdade e os ensinam...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ons2elzewaqszmfvpxzets66/bafkreihw472vmo4kylu4vw6gdohini3fvyidrvwibggfxjwrardoqsjsba@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 18,
+            "likeCount": 60,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-16T17:17:13.901Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:c55toywskkccxkpk56ojuhtu/app.bsky.feed.post/3l6ne2zjw5w2m",
+            "cid": "bafyreihlz2uhwfbr7etgaejkr57ezimilbxsjji75kqy2rzqdtinljwv3m",
+            "author": {
+                "did": "did:plc:c55toywskkccxkpk56ojuhtu",
+                "handle": "marfsantangelo.bsky.social",
+                "displayName": "Marf Santangelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c55toywskkccxkpk56ojuhtu/bafkreiadr2qtmnt6citgjgnmvilsbfudafirvph7salhegpgunc2uddkqu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:c55toywskkccxkpk56ojuhtu",
+                        "uri": "at://did:plc:c55toywskkccxkpk56ojuhtu/app.bsky.actor.profile/self",
+                        "cid": "bafyreifabjfcxyjmntdsqx4clcb2rj3ck7u6kzkgnvqrpzzn5kzmziw54e",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T22:32:46.121Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T22:32:42.070Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-16T16:24:41.015Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ameaças ao bioma da caatinga, violência, tráfico de drogas, exploração sexual e contratos sigilosos de arrendamento de terras por longos anos, entre outras mazelas, mostram o outro lado da “energia li...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihqndjfdhroibef5z2y5nuuwqxpjltgripcu7tcthjrt6lqfh674u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 154057
+                        },
+                        "title": "Implantação de energia renovável desmata, arruína plantações e a saúde da população",
+                        "uri": "https://www.cut.org.br/noticias/implantacao-de-energia-renovavel-desmata-arruina-plantacoes-e-a-saude-da-populac-0b5f"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "BrigadasDigitaisDaCUT"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 276
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌲 Implantação de energia renovável que desmata?\n\n🤯 Ameaças ao bioma da caatinga, violência, tráfico de drogas, exploração sexual e contratos sigilosos de arrendamento de terras por longos anos, entre outras mazelas, mostram o outro lado da “energia limpa”.\n\n#BrigadasDigitaisDaCUT"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.cut.org.br/noticias/implantacao-de-energia-renovavel-desmata-arruina-plantacoes-e-a-saude-da-populac-0b5f",
+                    "title": "Implantação de energia renovável desmata, arruína plantações e a saúde da população",
+                    "description": "Ameaças ao bioma da caatinga, violência, tráfico de drogas, exploração sexual e contratos sigilosos de arrendamento de terras por longos anos, entre outras mazelas, mostram o outro lado da “energia li...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c55toywskkccxkpk56ojuhtu/bafkreihqndjfdhroibef5z2y5nuuwqxpjltgripcu7tcthjrt6lqfh674u@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-16T16:24:41.015Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:npeitpfdn663cn6omzj3oyzs/app.bsky.feed.post/3l5zdbiljvd2z",
+            "cid": "bafyreiabzznuq7xtnyzreo5t5ntgeq2uhh72qsbfhlqlhvqirw2a6a3y3q",
+            "author": {
+                "did": "did:plc:npeitpfdn663cn6omzj3oyzs",
+                "handle": "sarabiologia.bsky.social",
+                "displayName": "Sara Ribeiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:npeitpfdn663cn6omzj3oyzs/bafkreidtqmk2gv2jedgnj7ba7cuouc5x6wu3pscwc46elsvsvbuvmb53gy@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-11T00:54:05.524Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T17:17:47.976Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1365,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihgvsfj2ctkpjijbudacv7kr2wbkj3mxbe4oyngamkyv4icwnebse"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 480149
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ecotrilha no bioma Caatinga guiada por brigadistas do ICMBio"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:npeitpfdn663cn6omzj3oyzs/bafkreihgvsfj2ctkpjijbudacv7kr2wbkj3mxbe4oyngamkyv4icwnebse@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:npeitpfdn663cn6omzj3oyzs/bafkreihgvsfj2ctkpjijbudacv7kr2wbkj3mxbe4oyngamkyv4icwnebse@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1365,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T17:17:13.916Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:psi7zjmovqj57mqhlu43eiaw/app.bsky.feed.post/3l5xp4aft2x2e",
+            "cid": "bafyreieh2whahrvglbrqnzudxpjz65ttdo5pl2taelenubbao2vo54hghu",
+            "author": {
+                "did": "did:plc:psi7zjmovqj57mqhlu43eiaw",
+                "handle": "naridove.bsky.social",
+                "displayName": "nari",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:psi7zjmovqj57mqhlu43eiaw/bafkreidqcebjezzhbpltsoeqknixse44ivr54cckg4fa6lveelrvfk4hge@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:51:37.597Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T01:43:41.591Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibehs7us4l42mwjpwbm6sm5f7rovmsvz23uif2orybikkgp53cuuu",
+                        "uri": "at://did:plc:55jq4tf6hfekuxvkhwjpaszv/app.bsky.feed.post/3l5xowlbpod2e"
+                    },
+                    "root": {
+                        "cid": "bafyreidw6nv5rul25je7gcy6r4fmb3abxgqcrmotzjbhwetooltqp6k2xi",
+                        "uri": "at://did:plc:psi7zjmovqj57mqhlu43eiaw/app.bsky.feed.post/3l5xosj6lga2k"
+                    }
+                },
+                "text": "A Caatinga é um bioma brasileiro que se estende por 11% do território nacional, sendo o único bioma exclusivamente brasileiro. A Caatinga é caracterizada por: Clima semiárido, Vegetação adaptada à escassez de chuva, Solos pobres em matéria orgânica, Rios intermitentes, Grande biodiversidade."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T01:43:41.591Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qkiseipwgclqwsz7zt644ziu/app.bsky.feed.post/3l5ucibrmod2a",
+            "cid": "bafyreicns6vshlu32tp4oie3hzyqw6j4uiqsm4dul7zgwfyxaae67cwvl4",
+            "author": {
+                "did": "did:plc:qkiseipwgclqwsz7zt644ziu",
+                "handle": "anittapresa.bsky.social",
+                "displayName": "misexua ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkiseipwgclqwsz7zt644ziu/bafkreifkhw4madpbtra6g2obrmz3ckmhwzknjomjripm4sxroc7ah7qfd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:03:12.896Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-06T17:19:47.990Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "mata atlântica = bioma normie básico e padrão \ncaatinga = bioma peculiar cool e nao-normativo"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-06T17:19:47.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l5p6b3xaui22",
+            "cid": "bafyreiexivu6yhgniw67bkb2n7aopvv335ff2dsrhgayleyu366yjfylge",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T16:20:50.821486Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Guigó-da-caatinga tem sua ocorrência limitada ao interior da Bahia.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigbmiki3ahuqlumdr74l7br5bnpgcf3qiykmgzleyvn7ka2hhio5y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 248491
+                        },
+                        "title": "Desmatamento da Caatinga isola macaco exclusivo do bioma e pode acelerar rota para extinção",
+                        "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/10/04/desmatamento-da-caatinga-isola-macaco-exclusivo-do-bioma-e-pode-acelerar-rota-para-extincao.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Desmatamento da Caatinga isola macaco exclusivo do bioma e pode acelerar rota para extinção"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/10/04/desmatamento-da-caatinga-isola-macaco-exclusivo-do-bioma-e-pode-acelerar-rota-para-extincao.ghtml",
+                    "title": "Desmatamento da Caatinga isola macaco exclusivo do bioma e pode acelerar rota para extinção",
+                    "description": "Guigó-da-caatinga tem sua ocorrência limitada ao interior da Bahia.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigbmiki3ahuqlumdr74l7br5bnpgcf3qiykmgzleyvn7ka2hhio5y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T16:20:50.821Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qksbvf6jjwpft6ch6b7hlkmv/app.bsky.feed.post/3l5neuu2kje24",
+            "cid": "bafyreih6mgsbuhod64n2vzook7eltx6mk2bsmsexdjkam3srl3rjgmxlki",
+            "author": {
+                "did": "did:plc:qksbvf6jjwpft6ch6b7hlkmv",
+                "handle": "dclaws.bsky.social",
+                "displayName": "lulu",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qksbvf6jjwpft6ch6b7hlkmv/bafkreicpa5xwyuwu5qsbbi37pctqseo2vrhscuhh2u3wqtt5o5v5azon4m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:qksbvf6jjwpft6ch6b7hlkmv",
+                        "uri": "at://did:plc:qksbvf6jjwpft6ch6b7hlkmv/app.bsky.actor.profile/self",
+                        "cid": "bafyreib2xlpljl3s2ouxo5oos4gpidwzh43wgk3c6vcfwxmbl6wlvmudb4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-01T17:48:43.746Z"
+                    }
+                ],
+                "createdAt": "2024-09-01T17:48:44.602Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T23:13:59.109Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 525,
+                                "width": 708
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifzggtqdjnq5cghph5hjlok5wzau4hjitfyytlyftwu4hqn5etxsu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 131323
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "mds o vestibular está em tudo msm acabei de ver um moot postar sobre xique xique (a cidade na bahia) e eu lembrei da caatinga o bioma"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qksbvf6jjwpft6ch6b7hlkmv/bafkreifzggtqdjnq5cghph5hjlok5wzau4hjitfyytlyftwu4hqn5etxsu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qksbvf6jjwpft6ch6b7hlkmv/bafkreifzggtqdjnq5cghph5hjlok5wzau4hjitfyytlyftwu4hqn5etxsu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 525,
+                            "width": 708
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T23:13:59.109Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mctnboarty7gxrfpj36dntzm/app.bsky.feed.post/3l5jmfbpz7w27",
+            "cid": "bafyreig67tryrtyjmjibs46475gj3wdmqbur7bzakzvd7amlgmnxpxwqiy",
+            "author": {
+                "did": "did:plc:mctnboarty7gxrfpj36dntzm",
+                "handle": "prensado.bsky.social",
+                "displayName": "chow",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mctnboarty7gxrfpj36dntzm/bafkreiehazgojgrs4xpv2m3qzmfht4h7h42alf3rfd7utyoq7fzdyokohy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T00:31:02.894Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T11:17:46.862Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "ai professor viado do krl, falou q daria ponto p qm falasse qual o bioma q so tem no brasil, falei caatinga um bilhao de vezes e ele ignorou, ai qnd ele falou q era caatinga eu disse q tinha falado e ele ficou \"ah mas nn falou p fora\" SENDO Q A SALA TODA OUVIU EU FALANDO"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T11:17:46.862Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vcncrj5rqvmhfytxfcnbbmwb/app.bsky.feed.post/3l5hpiisixz22",
+            "cid": "bafyreighzaammrvhnocooyi7icsbav2y4gocgehmxzj3kcj4ulzyql4ooq",
+            "author": {
+                "did": "did:plc:vcncrj5rqvmhfytxfcnbbmwb",
+                "handle": "geolabsul.bsky.social",
+                "displayName": "Instituto GeoLAB 🌎📈💸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vcncrj5rqvmhfytxfcnbbmwb/bafkreidbi7mucqfiywayu3jtdf6635dltocwvzbdsrc3te2wowoyh4zj3y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-26T14:19:20.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T17:07:57.212Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib5wvsy4m2sp5lkb546eb2z2gnfq575hcmdattkprm424zehqh7ui",
+                        "uri": "at://did:plc:vcncrj5rqvmhfytxfcnbbmwb/app.bsky.feed.post/3l5hph6alie2t"
+                    },
+                    "root": {
+                        "cid": "bafyreienho52vljnebetlwbx23rbnsjdihdbxkwwb4aksi2iu5ekeujeqe",
+                        "uri": "at://did:plc:vcncrj5rqvmhfytxfcnbbmwb/app.bsky.feed.post/3l5hpefp3gl26"
+                    }
+                },
+                "text": "- Bioma Caatinga, que ocupa grande parte da região nordeste do país (10,1%). Ela abrange os estados do: Ceará, Bahia, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Alagoas e Sergipe;"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T17:07:57.212Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5wy3ekay5gksiobeuzahr7i6/app.bsky.feed.post/3l562uiycql2v",
+            "cid": "bafyreic3vgd77wzh4zrcxdzffy2cd3hgxmmkofkplidnd3vl6iazzo25bi",
+            "author": {
+                "did": "did:plc:5wy3ekay5gksiobeuzahr7i6",
+                "handle": "lalinhadiary.bsky.social",
+                "displayName": "౨ৎ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5wy3ekay5gksiobeuzahr7i6/bafkreidtykbzvesbic3wu4wl5oyqrpgzxf6zgryolpph2fqohlbt755dhm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:05:32.102Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T21:04:54.205Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreick6vverrye4gioszk2mpvs6eou4nuwh4v5xnbmffegv4zaqqgxze",
+                        "uri": "at://did:plc:v4l35q2zeogqg4ky6eu7bq3g/app.bsky.feed.post/3l55zuvuc7m2i"
+                    },
+                    "root": {
+                        "cid": "bafyreick6vverrye4gioszk2mpvs6eou4nuwh4v5xnbmffegv4zaqqgxze",
+                        "uri": "at://did:plc:v4l35q2zeogqg4ky6eu7bq3g/app.bsky.feed.post/3l55zuvuc7m2i"
+                    }
+                },
+                "text": "ela disse que vai só caatinga de bioma"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T21:04:54.205Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ekq4hir5wjdwqta6p3mfkcy6/app.bsky.feed.post/3l4z5gbkn5x2g",
+            "cid": "bafyreigcsjjjmdozdbr3j4psdblenid3epjg52x633zdk63v6dcbanjr34",
+            "author": {
+                "did": "did:plc:ekq4hir5wjdwqta6p3mfkcy6",
+                "handle": "forum21br.bsky.social",
+                "displayName": "Fórum21",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ekq4hir5wjdwqta6p3mfkcy6/bafkreiccbv453v6bajfryii2uh2354osdv4xofktumtbe2fhlzyh4m2ehm@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T22:22:19.931Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T22:07:20.132Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 935,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicdumiiuuwch22gpjdmhrlpphkjqhsbroswqatdlqxwupxnep7mda"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 656666
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://tinyurl.com/2s4z2ucz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 183
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A hora de priorizar a saúde e o bioma da Caatinga | Excetuando os negacionistas, existe clareza de que as enchentes do RS e as secas na Amazônia derivam das mudanças climáticas | tinyurl.com/2s4z2ucz"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ekq4hir5wjdwqta6p3mfkcy6/bafkreicdumiiuuwch22gpjdmhrlpphkjqhsbroswqatdlqxwupxnep7mda@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ekq4hir5wjdwqta6p3mfkcy6/bafkreicdumiiuuwch22gpjdmhrlpphkjqhsbroswqatdlqxwupxnep7mda@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 935,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T22:07:20.020Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vwot556jqi3rkx4xmfq4olpw/app.bsky.feed.post/3l4yt2p3i6g26",
+            "cid": "bafyreidkd7qc5jptgg6mwcwzhrcvxlbjstob66kvhaovfc3blsemfakz5a",
+            "author": {
+                "did": "did:plc:vwot556jqi3rkx4xmfq4olpw",
+                "handle": "dionaragsantana.bsky.social",
+                "displayName": "Dionara Gonçalves de Santana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vwot556jqi3rkx4xmfq4olpw/bafkreid7lhd335h2dfqqmytmwxfz37mzc4bvmchzpoin6e2xwqdkvcpzdy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T09:59:07.218Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T19:01:52.806Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Produção sustentável, conservação e restauração são soluções urgentes para proteger a Caatinga da desertificação",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiefmi74rhow57e4tb7y2lvuex5wjc5bi764up5szk6vx2kxjueybu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 732405
+                        },
+                        "title": "Em 35 anos, Caatinga perdeu 11% de vegetação nativa",
+                        "uri": "https://ciclovivo.com.br/planeta/meio-ambiente/em-35-anos-caatinga-perdeu-11-de-vegetacao-nativa/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://ciclovivo.com.br/planeta/meio-ambiente/em-35-anos-caatinga-perdeu-11-de-vegetacao-nativa/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 32,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "ciclovivo.com.br/planeta/meio...\nPrecisamos olhar para o bioma Caatinga, também!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://ciclovivo.com.br/planeta/meio-ambiente/em-35-anos-caatinga-perdeu-11-de-vegetacao-nativa/",
+                    "title": "Em 35 anos, Caatinga perdeu 11% de vegetação nativa",
+                    "description": "Produção sustentável, conservação e restauração são soluções urgentes para proteger a Caatinga da desertificação",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vwot556jqi3rkx4xmfq4olpw/bafkreiefmi74rhow57e4tb7y2lvuex5wjc5bi764up5szk6vx2kxjueybu@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 2,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T19:01:52.806Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y6souaqtrqazdso4hjym7bxx/app.bsky.feed.post/3l4ouknmtus2i",
+            "cid": "bafyreie2rkrd746wdog67ovhayb2sicnbf624bvzr7jo45zbnptbbgerze",
+            "author": {
+                "did": "did:plc:y6souaqtrqazdso4hjym7bxx",
+                "handle": "tcuide.bsky.social",
+                "displayName": "TChris Esquerda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreif2klkojoid23goza3ae5rrpgrapxrv4ebza7v3jxjk5rj7ffba4y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T03:02:26.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:02:04.921Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 735
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 859202
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A desertificação atingia 13% do semiárido brasileiro, em 2019, e ameaça o bioma da caatinga. \nA causa é a pecuária e queimadas. Ou seja, o agronegócio que está detonando nossa vegetação nativa e, com ela, toda a cadeia animal do bioma. São 10 estados atingidos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 735
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:02:04.921Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y6souaqtrqazdso4hjym7bxx/app.bsky.feed.post/3l4otzz6jkx2w",
+            "cid": "bafyreihrftzew6uqi6s5e4hrdzlmgedsusju3miaaa76jmqj3txefipxv4",
+            "author": {
+                "did": "did:plc:y6souaqtrqazdso4hjym7bxx",
+                "handle": "tcuide.bsky.social",
+                "displayName": "TChris Esquerda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreif2klkojoid23goza3ae5rrpgrapxrv4ebza7v3jxjk5rj7ffba4y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T03:02:26.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T19:52:46.404Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 900,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieqfi7aenrwvha5giff33obmxiejomxsq5htegi72p4mmkygykyua"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 863836
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A caatinga, bioma mais neglicenciado do Brasil (10% do território nacional), está morrendo, graças à pecuária e queimadas. Paraíba tem 45 municípios em desertificação. Apresentei esse tema e sua relação com saúde, em seminário, no ano passado, patrocinado pelo Ministério da Integração Regional."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreieqfi7aenrwvha5giff33obmxiejomxsq5htegi72p4mmkygykyua@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreieqfi7aenrwvha5giff33obmxiejomxsq5htegi72p4mmkygykyua@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 900,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T19:52:46.404Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rfg6upvkgrdaevx5ronukuzy/app.bsky.feed.post/3l4kevanscc2m",
+            "cid": "bafyreidmhmvivcft7h74c252h26yg6ilzrxkpn25xaufongdxkqzlk4hji",
+            "author": {
+                "did": "did:plc:rfg6upvkgrdaevx5ronukuzy",
+                "handle": "biologosocialista.bsky.social",
+                "displayName": "Biólogo Socialista ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rfg6upvkgrdaevx5ronukuzy/bafkreicga5lztjnlfum56up3deeq2gwea7fkoaqkgp7bxgqjyvm4kmxqii@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T17:46:03.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T01:11:01.104Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Amazônia é o bioma mais afetado pelos atuais incêndios, com 49% das queimadas registradas, seguida do Cerrado (30,5%), Mata Atlântica (13,2%), Pantanal (5,4%) e Caatinga (1,9%)."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T01:11:01.104Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3l4bexx474a2y",
+            "cid": "bafyreifk33blmpxsyzc7oij3s22wrhijn624cw3esho2lpehxgw4mwhyxi",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T11:18:34.409Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by CanalOEco",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiczgmxpa2easmjbd4nfagwswrukjpnuij5qx2jtdu7nvw7qgko6gq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 434211
+                        },
+                        "title": "#Shorts: buscando o guigó-da-caatinga",
+                        "uri": "https://youtube.com/shorts/fFQxCb0Zm6o?feature=shared"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:b6tdyh6gdl3dldaaostepurc"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 179,
+                            "byteStart": 152
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 285,
+                            "byteStart": 270
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O avanço dos pastos sobre as florestas no bioma isola cada vez mais o guigó-da-caatinga, que segue desprotegido e com futuro incerto. Nossa repórter @duda-menegassi.bsky.social foi até Chapada Diamantina em busca de um dos primatas mais ameaçados do Brasil. ⬇️ #biodiversidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtube.com/shorts/fFQxCb0Zm6o?feature=shared",
+                    "title": "#Shorts: buscando o guigó-da-caatinga",
+                    "description": "YouTube video by CanalOEco",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiczgmxpa2easmjbd4nfagwswrukjpnuij5qx2jtdu7nvw7qgko6gq@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 7,
+            "likeCount": 37,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T11:18:34.409Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rxbq3wejvylarwoc7n4hvqsz/app.bsky.feed.post/3l42ljycp5f2l",
+            "cid": "bafyreibyay6ekg6ddgtazo52n5khpuliq3i67vk3tz3g7p4otbmslffadm",
+            "author": {
+                "did": "did:plc:rxbq3wejvylarwoc7n4hvqsz",
+                "handle": "felipearagao75.bsky.social",
+                "displayName": "Felipe Aragão 🇵🇸🇧🇷🇱🇧🇨🇺🇨🇳🇷🇺",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rxbq3wejvylarwoc7n4hvqsz/bafkreicgcwc2z7ub7lpitnl7z5ckpqa6qcffb7edeqbm6vao3ww7kxaoua@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:06:35.470Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T18:27:24.363Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigsf4v3kj24xeep2r4jhrrmeprgtkqm2izqfqisbnbvsuvx5r3yve",
+                        "uri": "at://did:plc:5ly6ag5av4pcgf425ku5kzby/app.bsky.feed.post/3l4226ljhts2p"
+                    },
+                    "root": {
+                        "cid": "bafyreigsf4v3kj24xeep2r4jhrrmeprgtkqm2izqfqisbnbvsuvx5r3yve",
+                        "uri": "at://did:plc:5ly6ag5av4pcgf425ku5kzby/app.bsky.feed.post/3l4226ljhts2p"
+                    }
+                },
+                "text": "Faltou a Caatinga, bioma exclusivamente brasileiro que está ameaçado tanto quanto."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T18:27:24.363Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2mhzphtdaj5icocxvuimmhoz/app.bsky.feed.post/3l422llwsw32j",
+            "cid": "bafyreigp3rhdw7r4skmjkibn3fazhfzol2otr5rw66nri46zcmw3w6a6vi",
+            "author": {
+                "did": "did:plc:2mhzphtdaj5icocxvuimmhoz",
+                "handle": "barrgui19.bsky.social",
+                "displayName": "Jaime Guimarães",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mhzphtdaj5icocxvuimmhoz/bafkreietasvkhjykiyo4e6axtvpnr6kfxjctjnus2gob5jvo3aaibaqk7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T19:45:06.023Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T13:24:04.628Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibpn4l5ba4vjxcsgpoylyj336olzw2vpqnf3gz2in3tjsgvbjxdfu",
+                        "uri": "at://did:plc:77y7ubrpv4u5mfcdw2jt6iej/app.bsky.feed.post/3l422ba3dtf25"
+                    },
+                    "root": {
+                        "cid": "bafyreibpn4l5ba4vjxcsgpoylyj336olzw2vpqnf3gz2in3tjsgvbjxdfu",
+                        "uri": "at://did:plc:77y7ubrpv4u5mfcdw2jt6iej/app.bsky.feed.post/3l422ba3dtf25"
+                    }
+                },
+                "text": "Gostei, muito boa. Na questão climática e devastamento, temos que lembrar da caatinga, um bioma que também corre sérios riscos."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T13:24:04.628Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fywgf42pspcndl2hh36lkf27/app.bsky.feed.post/3l3ysbjt7s32h",
+            "cid": "bafyreih45bzqvs55eucxpwfvvt2ddogc3viomaqu5mrtj3w2x66wpselme",
+            "author": {
+                "did": "did:plc:fywgf42pspcndl2hh36lkf27",
+                "handle": "7vncz.bsky.social",
+                "displayName": "paiN CAIO",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fywgf42pspcndl2hh36lkf27/bafkreiat2c4pjhpodofqc4aqvujyl7cctau56rnwgk5qsict4r3zlhlkia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T02:35:10.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T01:22:37.015Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreierkxdkbypuv5y5x2ch6hbas5kmxhu3mecosefpu6jmwzlahi2a7e",
+                        "uri": "at://did:plc:lhjgjh55yaq4nk46qchzes6p/app.bsky.feed.post/3l3yrzddhwi2o"
+                    },
+                    "root": {
+                        "cid": "bafyreigj3kee57wt5pb3kafdeghkbtrzphndhjqzyonbpfng2257uehp54",
+                        "uri": "at://did:plc:fywgf42pspcndl2hh36lkf27/app.bsky.feed.post/3l3yhz4hvlj2e"
+                    }
+                },
+                "text": "o bioma da tua região se chama Caatinga por um motivo kkkkkkkkkkkkkkkkkkkk cala a boca"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T01:22:37.015Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p7clujy34h5zrqbl7dhhptgo/app.bsky.feed.post/3l3xo36k6vf2q",
+            "cid": "bafyreiefxj2bf2awguk6453n4ufdnlwofuscmdudvb5frimoqfpego7o6m",
+            "author": {
+                "did": "did:plc:p7clujy34h5zrqbl7dhhptgo",
+                "handle": "tombike.bsky.social",
+                "displayName": "Tom Bike",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreihd2tjeikwp76ggbql7jh3ykta3qiqgyoewn7clmsyz2etgtlgqdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T13:19:52.963Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T14:34:55.154Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1060,
+                                "width": 1060
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreih5oux3q4wmq6lrhutssinzma6bbyocxd3sznfvxdnrlj4xc5avb4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 291234
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "7deSetembro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 39,
+                            "byteStart": 27
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CAATINGA"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 88,
+                            "byteStart": 79
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Vaquejada"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 152,
+                            "byteStart": 142
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 272,
+                            "byteStart": 259
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 292
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Imagem de satélite do dia #7deSetembro de grande incêndio florestal no bioma #CAATINGA queimando até HOJE em Colônia do Piauí, \"Terra da #Vaquejada\".\n\nFrente de fogo ativa em amarelo. Em verde claro caatinga, marrom escuro cicatriz de incêndio. Em rosa #desmatamento recente que sofreu #queimadas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreih5oux3q4wmq6lrhutssinzma6bbyocxd3sznfvxdnrlj4xc5avb4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreih5oux3q4wmq6lrhutssinzma6bbyocxd3sznfvxdnrlj4xc5avb4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1060,
+                            "width": 1060
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T14:34:50.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3l3xnnm7csb2e",
+            "cid": "bafyreicg2ahrmhidpq7rojkap7cmn2ozkm2tuabcxycstvfdc4bql66sj4",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T14:27:12.646Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Avanço dos pastos sobre as florestas no bioma isola cada vez mais os guigós-da-caatinga, que seguem desprotegidos e com futuro incerto",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaojeci7uwmetcmwpilkoelkcbxednqcbl7dqbalxze6pjn7lrypi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 658655
+                        },
+                        "title": "Um drama sertanejo: destruição da Caatinga encurrala macaco ameaçado - ((o))eco",
+                        "uri": "https://oeco.org.br/reportagens/um-drama-sertanejo-destruicao-da-caatinga-encurrala-macaco-ameacado/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 232,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Um drama sertanejo: destruição da Caatinga encurrala macaco ameaçado ⬇️\n\nAvanço dos pastos sobre as florestas no bioma isola cada vez mais os guigós-da-caatinga, que seguem desprotegidos e com futuro incerto #biodiversidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/um-drama-sertanejo-destruicao-da-caatinga-encurrala-macaco-ameacado/",
+                    "title": "Um drama sertanejo: destruição da Caatinga encurrala macaco ameaçado - ((o))eco",
+                    "description": "Avanço dos pastos sobre as florestas no bioma isola cada vez mais os guigós-da-caatinga, que seguem desprotegidos e com futuro incerto",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiaojeci7uwmetcmwpilkoelkcbxednqcbl7dqbalxze6pjn7lrypi@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 20,
+            "likeCount": 89,
+            "quoteCount": 3,
+            "indexedAt": "2024-09-12T14:27:12.646Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ye3ergiwgtffrlbkm42xojoh/app.bsky.feed.post/3l3vrp4gmin2n",
+            "cid": "bafyreiahq5pwzvaqkpbynr6nzrofelp2wr44jcuvg5ymvxzdrb5hfd75dy",
+            "author": {
+                "did": "did:plc:ye3ergiwgtffrlbkm42xojoh",
+                "handle": "lexyts13.bsky.social",
+                "displayName": "meia-noite",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ye3ergiwgtffrlbkm42xojoh/bafkreihodvefxb7fzcupydxtygju4nykcfz4fwzmyxlwvmad6a5psuyn5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:30:47.082Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T20:34:19.202Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiftw3o7s3j42y4jmo2o5eoew34jh6j2bgsop56q6fdnfzfgwplqsa",
+                        "uri": "at://did:plc:ye3ergiwgtffrlbkm42xojoh/app.bsky.feed.post/3l3vrl7numl24"
+                    },
+                    "root": {
+                        "cid": "bafyreiftw3o7s3j42y4jmo2o5eoew34jh6j2bgsop56q6fdnfzfgwplqsa",
+                        "uri": "at://did:plc:ye3ergiwgtffrlbkm42xojoh/app.bsky.feed.post/3l3vrl7numl24"
+                    }
+                },
+                "text": "O impasse era o entendimento de \"exclusivamente\". R2 nunca esteve errada, mas não pelos motivos que pensava, e sim porque a Caatinga é o único bioma nosso que está apenas em solo brasileiro, diferente dos outros que passam por partes de países vizinhos."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T20:34:19.202Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ye3ergiwgtffrlbkm42xojoh/app.bsky.feed.post/3l3vrl7numl24",
+            "cid": "bafyreiftw3o7s3j42y4jmo2o5eoew34jh6j2bgsop56q6fdnfzfgwplqsa",
+            "author": {
+                "did": "did:plc:ye3ergiwgtffrlbkm42xojoh",
+                "handle": "lexyts13.bsky.social",
+                "displayName": "meia-noite",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ye3ergiwgtffrlbkm42xojoh/bafkreihodvefxb7fzcupydxtygju4nykcfz4fwzmyxlwvmad6a5psuyn5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:30:47.082Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T20:32:07.863Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje a discussão na sala dos professores foi sobre \"qual o maior bioma exclusivamente brasileiro?\" \nR1: Cerrado.\nR2: Caatinga.\nBrigaram, alteraram tom de voz. R2 falava que o bioma não existia em nenhum outro lugar do mundo, R1 só repetia a pergunta. Após muita investigação chegou a conclusão:"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T20:32:07.863Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:p7clujy34h5zrqbl7dhhptgo/app.bsky.feed.post/3l3smnxsmfz2e",
+            "cid": "bafyreic3gyygiz5yyeoej7qvybw3g45mz5bkayku2juk6bhnnxzthyjyum",
+            "author": {
+                "did": "did:plc:p7clujy34h5zrqbl7dhhptgo",
+                "handle": "tombike.bsky.social",
+                "displayName": "Tom Bike",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreihd2tjeikwp76ggbql7jh3ykta3qiqgyoewn7clmsyz2etgtlgqdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T13:19:52.963Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T14:26:14.663Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1624,
+                                "width": 1624
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihvsfqtdol5lhof57yu5citt2jsnbjyqzf6fbuoemdrs34jhmmbxm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 850622
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1624,
+                                "width": 1624
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiby2o52h46nalc6zipw2jkgarhmwre3cw4euzte7qxcm7yrkn6cr4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 909232
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 76,
+                            "byteStart": 63
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biomas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 84,
+                            "byteStart": 77
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "imagemdesatélite"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 103,
+                            "byteStart": 85
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bioma CAATINGA Xique-Xique, Bahia.\n\nFevereiro de 2016 & 2024.\n\n#desmatamento #biomas #imagemdesatélite"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreihvsfqtdol5lhof57yu5citt2jsnbjyqzf6fbuoemdrs34jhmmbxm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreihvsfqtdol5lhof57yu5citt2jsnbjyqzf6fbuoemdrs34jhmmbxm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1624,
+                            "width": 1624
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreiby2o52h46nalc6zipw2jkgarhmwre3cw4euzte7qxcm7yrkn6cr4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:p7clujy34h5zrqbl7dhhptgo/bafkreiby2o52h46nalc6zipw2jkgarhmwre3cw4euzte7qxcm7yrkn6cr4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1624,
+                            "width": 1624
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T14:26:14.630Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xpf5e3mhui64jsrnbzcmuv32/app.bsky.feed.post/3l3qi6hwor52h",
+            "cid": "bafyreicdhrnr52ikzrg7cdeblrmqf4crljucuo3yje5sgpzkmm5fzicpf4",
+            "author": {
+                "did": "did:plc:xpf5e3mhui64jsrnbzcmuv32",
+                "handle": "soraiavermeer.bsky.social",
+                "displayName": "Soraia Vermeer 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xpf5e3mhui64jsrnbzcmuv32/bafkreihlpmzb2q3nbu5dp4kczr5m5dutjlfo6l2sz5lv3lrayqkfkkrg24@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T15:19:54.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T18:00:38.785Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia2mofrqslm2h7d5cvgkggraeppoqdqmq4y6lgqjcvvrsbk6ux2gq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 314269
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": ".\n     Meio-Ambiente \n\nMAPA ABAIXO: A região Matopiba é predominada pelo bioma Cerrado, marcado pela ocorrência de pequenas áreas do bioma Amazônia e Caatinga.\n\n      ALERTA: O avanço da fronteira agrícola nesse bioma implicará na DESERTIFICAÇÃO do Cerrado.\n."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xpf5e3mhui64jsrnbzcmuv32/bafkreia2mofrqslm2h7d5cvgkggraeppoqdqmq4y6lgqjcvvrsbk6ux2gq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xpf5e3mhui64jsrnbzcmuv32/bafkreia2mofrqslm2h7d5cvgkggraeppoqdqmq4y6lgqjcvvrsbk6ux2gq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 7,
+            "likeCount": 16,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T18:00:38.785Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2mhzphtdaj5icocxvuimmhoz/app.bsky.feed.post/3l3oo6m542s2r",
+            "cid": "bafyreibocoixejryzloehjch7y4qwk7jnjnuw3sk3sbuck4dzjf6fyoyua",
+            "author": {
+                "did": "did:plc:2mhzphtdaj5icocxvuimmhoz",
+                "handle": "barrgui19.bsky.social",
+                "displayName": "Jaime Guimarães",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2mhzphtdaj5icocxvuimmhoz/bafkreietasvkhjykiyo4e6axtvpnr6kfxjctjnus2gob5jvo3aaibaqk7u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T19:45:06.023Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T00:42:46.595Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigpwmyoj3zumwakmp7vrrpzuhxzhxxmuiz427qa7yksxgkadqdbye",
+                        "uri": "at://did:plc:ln365l6vi27yltu64foyujle/app.bsky.feed.post/3l3omakwnl42q"
+                    },
+                    "root": {
+                        "cid": "bafyreigpwmyoj3zumwakmp7vrrpzuhxzhxxmuiz427qa7yksxgkadqdbye",
+                        "uri": "at://did:plc:ln365l6vi27yltu64foyujle/app.bsky.feed.post/3l3omakwnl42q"
+                    }
+                },
+                "text": "A gente tá lascado, de modo geral. Aqui no nordeste a caatinga também sofre com a ação predatória humana e de uns anos pra cá estão surgindo alguns projetos de preservação e reflorestamento do bioma. Ainda é pouco e o desafio é grande."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T00:42:46.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4idjv6upafiotqrhpjmh25cb/app.bsky.feed.post/3l3oacl4xu324",
+            "cid": "bafyreigq45zssqmzo6ck6q7eezgnsazsxpdvz4yzplotuq2kkiv355nuh4",
+            "author": {
+                "did": "did:plc:4idjv6upafiotqrhpjmh25cb",
+                "handle": "atreidesprince.bsky.social",
+                "displayName": "ugo ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4idjv6upafiotqrhpjmh25cb/bafkreiga2yssvi7es7dfqnbsh5qo6pkq2h447tc45gtkintdhsas647x5m@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:12:51.497Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T20:30:16.946Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "a caatinga é facilmente o bioma mais extraordinário do Brasil. Além de lindo quando em período chuvoso, quando tá tudo seco e acizentado é cabuloso demais pensar que ali tá tudo vivo aguardando água pra voltar a crescer. Acho arte pura 💭"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T20:30:16.946Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.feed.post/3l3nwfrc6ai2s",
+            "cid": "bafyreidtg2a6gj2lsz2urtokiolx4am4tu4nhqopsmnlleedzdnqaoehru",
+            "author": {
+                "did": "did:plc:rjou76pd4hivl4roluudgjnd",
+                "handle": "passarimazul.bsky.social",
+                "displayName": "sóumpassarimazul",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rjou76pd4hivl4roluudgjnd/bafkreifte5zlbydqdqcl7b5qcvuw7lltpe7riahcpmbohzpy4ifj66fgpa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rjou76pd4hivl4roluudgjnd",
+                        "uri": "at://did:plc:rjou76pd4hivl4roluudgjnd/app.bsky.actor.profile/self",
+                        "cid": "bafyreihqpqsc4cepxztkjh2i5fckz7fu3svp4we32vwg4qucort4i65nsq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-12T23:54:34.411Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T17:37:14.752Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "a grande oportunidade da caatinga virar o único bioma nacional (se não terminarem de derrubar e queimar ela também)"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T17:37:14.752Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l3nefqgpjn2y",
+            "cid": "bafyreibbj4pv77gbpowo7c6jivkb5r7maja5gzwaeagz2tetre7ewuoyxq",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T12:15:08.741Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Caatinga cobre cerca de 11% do território brasileiro, incluindo todos os Estados do Nordeste e o norte de Minas Gerais, e é o único bioma exclusivamente brasileiro, com aproximadamente 380 espécies ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihst6jcjh23jenbldiaiwv4265fr4z7l26wr33dswrah7yz2q75a4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 390103
+                        },
+                        "title": "Vegetação inteligente e riqueza cultural: a Caatinga que é muito mais que seca e escassez | Florestal Brasil",
+                        "uri": "https://florestalbrasil.com/vegetacao-inteligente-e-riqueza-cultural-a-caatinga-que-e-muito-mais-que-seca-e-escassez/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Caatinga é um bioma exclusivamente brasileiro, cobrindo cerca de 11% do território nacional, incluindo todos os estados do Nordeste e o norte de Minas Gerais. No entanto, a região é frequentemente associada a rusticidade, escassez, seca e miserabilidade."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://florestalbrasil.com/vegetacao-inteligente-e-riqueza-cultural-a-caatinga-que-e-muito-mais-que-seca-e-escassez/",
+                    "title": "Vegetação inteligente e riqueza cultural: a Caatinga que é muito mais que seca e escassez | Florestal Brasil",
+                    "description": "A Caatinga cobre cerca de 11% do território brasileiro, incluindo todos os Estados do Nordeste e o norte de Minas Gerais, e é o único bioma exclusivamente brasileiro, com aproximadamente 380 espécies ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreihst6jcjh23jenbldiaiwv4265fr4z7l26wr33dswrah7yz2q75a4@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T12:15:08.741Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oes7khzo6j2tj3x4zgwo52db/app.bsky.feed.post/3l3mln7y2sl2l",
+            "cid": "bafyreihmwchjhz7hpcrhx3f6hfg44wha7kq2k4umwf5tgpbbmebcgxbygy",
+            "author": {
+                "did": "did:plc:oes7khzo6j2tj3x4zgwo52db",
+                "handle": "botdoforza.bsky.social",
+                "displayName": "1+leo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oes7khzo6j2tj3x4zgwo52db/bafkreie6yr36jjwjymn3vhr52fpzn76xrtceiw6ceb5a2bfsl3wke772jm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:25:14.045Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T04:51:55.526Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Povo acha que tamo na caatinga q o trem tem queimada natural e a vegetação sozinha volta e sendo positivo pro bioma kkkkkk"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T04:51:55.526Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iit4a37bfawssu4jlanpgdpy/app.bsky.feed.post/3l3l3xkbfdr2x",
+            "cid": "bafyreibbozpbsaxp67zelatba4qsjjyctd323auv7d45u277qlenoqobdu",
+            "author": {
+                "did": "did:plc:iit4a37bfawssu4jlanpgdpy",
+                "handle": "haroldoalmeida.bsky.social",
+                "displayName": "Haroldo Almeida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreihlbqjmg4zshm5kszwe5nsbtvwt6yd2vfgvu3sjskuxwlwjdhd26q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T16:54:51.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T14:38:43.389Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje é dia da Independência do Brasil. \n\nMas a Independência ambiental do bioma Caatinga está bem distante de obtermos, por isso é importante uma reflexão sobre a necessidade de fazer com que o bioma prospere, se desenvolva e continue fornecendo os serviços ecossistêmicos para todos!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T14:38:43.389Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3tnkmjmnv4ecrxeklk2gk4ui/app.bsky.feed.post/3l3ito2wqf52e",
+            "cid": "bafyreidxwggpe6q4pbqi5kov4lvbj57cl6p2hkg3btif7rpmpe4ohi62y4",
+            "author": {
+                "did": "did:plc:3tnkmjmnv4ecrxeklk2gk4ui",
+                "handle": "franckles.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreiezpfcrtvsbhvpdcbfvhzh2jxrrs3mc4yfrumvyhzltlhoc56nxw4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T23:56:37.303Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T17:04:55.595Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 911335
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 453379
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biomas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 257
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 265
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pernambuco"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 296,
+                            "byteStart": 287
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "vegetação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 297
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": " A força da caatinga reside em sua resiliência e adaptabilidade. Este bioma é caracterizado por um clima semiárido e vegetação xerófila, incluindo plantas como cactos e arbustos espinhosos que são adaptadas para resistir a longos períodos de seca.\n#biomas #caatinga #Pernambuco #nordeste #vegetação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T17:04:55.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xubcywfdl4bihtkm7nocmlc6/app.bsky.feed.post/3l3hholthwb2x",
+            "cid": "bafyreialo5gpjbdewvlp4d4bjckgd67undlj43p5ogbqq25f7mteyyawqu",
+            "author": {
+                "did": "did:plc:xubcywfdl4bihtkm7nocmlc6",
+                "handle": "cearaselvagem.bsky.social",
+                "displayName": "Maurício Uchôa [Bruttos]",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xubcywfdl4bihtkm7nocmlc6/bafkreid2b5xa6xpcngdua6slejlz765y432yybzmjcluzqz53urdmf2vue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T11:54:08.731Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T03:57:48.339Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid6sukls7xma2s4ftsfokbdhlsupyvlkvm35mpeefnw7z3xx2mdi4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 309633
+                        },
+                        "title": "A Caatinga: O Tesouro Escondido do Nordeste - Ceará Selvagem",
+                        "uri": "https://cearaselvagem.com/caatinga-o-tesouro-escondido/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 139,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "belezas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 140
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desafios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 158,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 168,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "preservação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 183,
+                            "byteStart": 169
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cearaselvagem"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 198,
+                            "byteStart": 184
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial\n\n#caatinga #belezas #desafios #nordeste #preservação #cearaselvagem"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://cearaselvagem.com/caatinga-o-tesouro-escondido/",
+                    "title": "A Caatinga: O Tesouro Escondido do Nordeste - Ceará Selvagem",
+                    "description": "Aventure-se pela Caatinga e descubra suas belezas e desafios, enquanto aprendemos como preservar esse bioma brasileiro essencial",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xubcywfdl4bihtkm7nocmlc6/bafkreid6sukls7xma2s4ftsfokbdhlsupyvlkvm35mpeefnw7z3xx2mdi4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T03:57:48.339Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tnz2sqqgwfrltvqfrjdhw37x/app.bsky.feed.post/3l3hftq5ix22l",
+            "cid": "bafyreibln4brhqqsrcxuoy7vrkfajgx57m5rjde3dp2hgke6aandudulxe",
+            "author": {
+                "did": "did:plc:tnz2sqqgwfrltvqfrjdhw37x",
+                "handle": "a-isca-e-o-anzol.bsky.social",
+                "displayName": "Escalador de mulher alta ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreihp2qgvhdxzhmsj64qcm7cowqpc7wljfegn2c7dcoyyldhqx437ia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:04:32.675Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T03:24:53.300Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Print do Google maps mostrando a imagem vista de um satélite inabitada, com Vegetação e rochas. O lugar está com nome de Marco Geográfica 2ª Guerra mundial e fica em Boqueirão, Caturite, interior da Paraiba.",
+                                "aspectRatio": {
+                                    "height": 1600,
+                                    "width": 719
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 727821
+                                }
+                            },
+                            {
+                                "alt": "Arena Flamengo do assentamento, local marcado no Google maps. Foto 360° tirada no local mostrando um solo arenoso e com barro vermelho, bastante Vegetação e uma cercas de madeira. A Vegetação é típica do bioma da caatinga em períodos com chuva.",
+                                "aspectRatio": {
+                                    "height": 1600,
+                                    "width": 719
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 680761
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreidnsmxgsmsjz2pyekmi3dqij224b6rxwf33na4swtlvwyvkcqb56a",
+                            "uri": "at://did:plc:v6zm5bg25vk4fdiwhjbwpbi7/app.bsky.feed.post/3l3gr543gv22z"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "fun fact: esse post do copo da olivia rodrigo no falecido X me levou numa jornada no maps mt satisfatória \nachei esse lugar q com certeza tem algo a ver com a 2ª guerra, o estádio do flamengo (pra quem fala q n tem) e descobri um campeonato de várzea do interior"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria@jpeg",
+                            "alt": "Print do Google maps mostrando a imagem vista de um satélite inabitada, com Vegetação e rochas. O lugar está com nome de Marco Geográfica 2ª Guerra mundial e fica em Boqueirão, Caturite, interior da Paraiba.",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 719
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm@jpeg",
+                            "alt": "Arena Flamengo do assentamento, local marcado no Google maps. Foto 360° tirada no local mostrando um solo arenoso e com barro vermelho, bastante Vegetação e uma cercas de madeira. A Vegetação é típica do bioma da caatinga em períodos com chuva.",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 719
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:v6zm5bg25vk4fdiwhjbwpbi7/app.bsky.feed.post/3l3gr543gv22z",
+                        "cid": "bafyreidnsmxgsmsjz2pyekmi3dqij224b6rxwf33na4swtlvwyvkcqb56a",
+                        "author": {
+                            "did": "did:plc:v6zm5bg25vk4fdiwhjbwpbi7",
+                            "handle": "insygore.bsky.social",
+                            "displayName": "fernanda coxta aphex twink",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreicxvtovzxzm4ulk6hwsfhwzvtgyweeoxbayzr26ydjnjrkxbfcuxy@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-07-01T17:47:04.963Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-05T21:12:41.694Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1024,
+                                            "width": 768
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 527870
+                                        }
+                                    }
+                                ]
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": ""
+                        },
+                        "labels": [],
+                        "likeCount": 56,
+                        "replyCount": 0,
+                        "repostCount": 5,
+                        "quoteCount": 2,
+                        "indexedAt": "2024-09-05T21:12:41.694Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1024,
+                                            "width": 768
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T03:24:53.300Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iit4a37bfawssu4jlanpgdpy/app.bsky.feed.post/3l3drny5tpk2d",
+            "cid": "bafyreibvltqqmvbf2caj74yk3lcshavq2arqzlwneeu76uxchpe32g7yny",
+            "author": {
+                "did": "did:plc:iit4a37bfawssu4jlanpgdpy",
+                "handle": "haroldoalmeida.bsky.social",
+                "displayName": "Haroldo Almeida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreihlbqjmg4zshm5kszwe5nsbtvwt6yd2vfgvu3sjskuxwlwjdhd26q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T16:54:51.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T16:45:46.565Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibhp4h4d3viinknt6qfozm3wjqimd542erndqkrmmpeuuoe7wtqpu",
+                        "uri": "at://did:plc:w5yhvcm7qtys7gx2hymx2hyu/app.bsky.feed.post/3l3dhrwtkpr2z"
+                    },
+                    "root": {
+                        "cid": "bafyreibhp4h4d3viinknt6qfozm3wjqimd542erndqkrmmpeuuoe7wtqpu",
+                        "uri": "at://did:plc:w5yhvcm7qtys7gx2hymx2hyu/app.bsky.feed.post/3l3dhrwtkpr2z"
+                    }
+                },
+                "text": "Estamos aqui no Bioma Caatinga as margens do Rio Francisco e disposição para agirmos juntos. Vamos conversar!! Temos umas articulações interessantes aqui que acredito ser uma das ferramentas para proteção socioambiental da região!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T16:45:46.565Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iit4a37bfawssu4jlanpgdpy/app.bsky.feed.post/3l3ddcfnzyn2x",
+            "cid": "bafyreigxpnjd2nxh4wm6l3ui5gcckcs5usbffzphrjo66preqro6etams4",
+            "author": {
+                "did": "did:plc:iit4a37bfawssu4jlanpgdpy",
+                "handle": "haroldoalmeida.bsky.social",
+                "displayName": "Haroldo Almeida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreihlbqjmg4zshm5kszwe5nsbtvwt6yd2vfgvu3sjskuxwlwjdhd26q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T16:54:51.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-04T12:28:44.264Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 646,
+                                "width": 1127
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiawvws72lnfhsmlt7xf5cugoy7akeqr36vhmpxy62yv2w2gpq6loe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 234662
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A ideia de desenvolver uma metodologia que venha reconhecer os processos de absorção de carbono do bioma Caatinga e no rio São Francisco, levar o mesmos para uma comercialização, focando no pequeno e em características que venham dar mais qualidade como Sociais, Biológicas, Hidrológicas e energética"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreiawvws72lnfhsmlt7xf5cugoy7akeqr36vhmpxy62yv2w2gpq6loe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreiawvws72lnfhsmlt7xf5cugoy7akeqr36vhmpxy62yv2w2gpq6loe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 646,
+                            "width": 1127
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-04T12:28:44.264Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iit4a37bfawssu4jlanpgdpy/app.bsky.feed.post/3l3bbzumuxg2y",
+            "cid": "bafyreib4jwqkhvxmkjdvvfme6qayuaopul4hlpmvn2jmkitqll7q4dedmy",
+            "author": {
+                "did": "did:plc:iit4a37bfawssu4jlanpgdpy",
+                "handle": "haroldoalmeida.bsky.social",
+                "displayName": "Haroldo Almeida",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iit4a37bfawssu4jlanpgdpy/bafkreihlbqjmg4zshm5kszwe5nsbtvwt6yd2vfgvu3sjskuxwlwjdhd26q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T16:54:51.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T17:00:48.590Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A primeira postagem minha no BlueSky, achei importante destacar a questão da Justiça Climática aqui para a região Nordeste no Bioma Caatinga e trazer o conceito de Caatingnidade que reconhece e valoriza o nosso bioma que único do mundo! Viva a Caatinga e o Rio São Francisco!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T17:00:46.512Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3ktnftbz4xy2e",
+            "cid": "bafyreiemoepjbvz3ypwcgvlzl76ssowuavwfuqfrq7cwsajrh4izpk7bi4",
+            "author": {
+                "did": "did:plc:rlnjc4a6ioervuuwjcpr4y4e",
+                "handle": "lucianosresende.bsky.social",
+                "displayName": "lucianosresende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlnjc4a6ioervuuwjcpr4y4e/bafkreiavwxmpsv2kfrdbmpnihyubhrssgrqgbyhxzljdpoafwwp4ajuv2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-07T00:25:28.043Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-29T17:19:03.556Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pernambuco alcançou expressiva redução de 35% no desmatamento da Caatinga em 2023, segundo o Relatório Anual de Desmatamento (RAD) 2023, produzido pelo MapBiomas Alerta. O documento destaca q o estado pernambucano foi o único entre os 9 q abrigam o bioma a registrar queda na supressão de vegetação."
+            },
+            "replyCount": 2,
+            "repostCount": 6,
+            "likeCount": 35,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-29T17:19:03.556Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ktidu3wjhk2l",
+            "cid": "bafyreidkoyyouur2ig3arolnjjh6mqqgjnbsqa5jcqgx77lohvmaps2bxm",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-27T17:00:23.775562Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A programação do evento contará com palestras com especialistas nacionais e internacionais, além de ações sociais, feiras e exposição fotográfica.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicp22tznnesjztgqlxhvxlwydj66faoqis3wt76tivuh6koov65pq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 124342
+                        },
+                        "title": "17ª Semana do Meio Ambiente da Unifor discute o bioma da Caatinga; inscreva-se!",
+                        "uri": "https://g1.globo.com/ce/ceara/especial-publicitario/unifor/guia-de-profissoes/noticia/2024/05/27/17a-semana-do-meio-ambiente-da-unifor-discute-o-bioma-da-caatinga-inscreva-se.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "17ª Semana do Meio Ambiente da Unifor discute o bioma da Caatinga; inscreva-se!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ce/ceara/especial-publicitario/unifor/guia-de-profissoes/noticia/2024/05/27/17a-semana-do-meio-ambiente-da-unifor-discute-o-bioma-da-caatinga-inscreva-se.ghtml",
+                    "title": "17ª Semana do Meio Ambiente da Unifor discute o bioma da Caatinga; inscreva-se!",
+                    "description": "A programação do evento contará com palestras com especialistas nacionais e internacionais, além de ações sociais, feiras e exposição fotográfica.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicp22tznnesjztgqlxhvxlwydj66faoqis3wt76tivuh6koov65pq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-27T17:00:23.775Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kshsxhaxlk23",
+            "cid": "bafyreihwdnxpdw6f4tdenhiqkqo4rnca7avwez32vgjohzcx3c5q3lw7bm",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-14T18:32:49.780Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Embora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiat7twqzipqxlqml7vuy3rc43qje7npwuuvml3bvjlch33qeognka"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 393317
+                        },
+                        "title": "Caatinga pode ser severamente impactada por mudanças climáticas - ((o))eco",
+                        "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 229
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caatinga pode ser severamente impactada por mudanças climáticas ⬇️\n\nEmbora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas\noeco.org.br/reportagens/..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/caatinga-pode-ser-severamente-impactada-por-mudancas-climaticas/",
+                    "title": "Caatinga pode ser severamente impactada por mudanças climáticas - ((o))eco",
+                    "description": "Embora tenham evoluído para viver em uma clima seco, espécies do bioma e outros ecossistemas abertos não estão preparadas para as mudanças projetadas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiat7twqzipqxlqml7vuy3rc43qje7npwuuvml3bvjlch33qeognka@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-14T18:32:49.780Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3krmfh4z6yb2b",
+            "cid": "bafyreicryq6cf4dcfli6znrxrugchecpxnxhuqomlzbhgvvfle6znlm2le",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-03T20:49:12.690Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreic7xlnfi263ixn66lfouuwkbutvlymg7ukua3ujv7raiyddlikqh4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3krmfg4lhxy2p"
+                    },
+                    "root": {
+                        "cid": "bafyreifsyad4upkrs6mzqtjglc3ns6fubah7lrt7nqmli6sywst4j23ab4",
+                        "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3krmfbbfrnl2g"
+                    }
+                },
+                "text": "O evento, que é aberto ao público, contará com a presença de mulheres indígenas da Caatinga, o único bioma exclusivamente brasileiro e um dos mais ameaçados de extinção, para um importante debate acerca do tema no auditório da FUNAI, em Brasília/DF.\n\nEsperamos vocês!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-03T20:49:12.690Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3krmfbbfrnl2g",
+            "cid": "bafyreifsyad4upkrs6mzqtjglc3ns6fubah7lrt7nqmli6sywst4j23ab4",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-03T20:45:55.990Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihyew556uw7cqspjwuknsjhubbswrj3tysbijtguvmb7wad3gnggm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 900533
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Na próxima semana, entre os dias 6 e 8 de maio, o MPI realiza o seminário “Gestão socioambiental e mulheres indígenas do bioma Caatinga: semeando saberes e práticas para o fortalecimento dos territórios”.\n\nO objetivo do encontro é dar visibilidade e fortalecer as iniciativas…👇👇👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreihyew556uw7cqspjwuknsjhubbswrj3tysbijtguvmb7wad3gnggm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreihyew556uw7cqspjwuknsjhubbswrj3tysbijtguvmb7wad3gnggm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-03T20:45:55.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsnhhrmk6xez3y6psml3jknl/app.bsky.feed.post/3krbgpniriz2c",
+            "cid": "bafyreidmnxa4zen5gb5q7wt4avl7taynqsb3bfx4lrgpv6ce5uhsmzfole",
+            "author": {
+                "did": "did:plc:rsnhhrmk6xez3y6psml3jknl",
+                "handle": "silmetoo.bsky.social",
+                "displayName": "Silvia PT 13🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreiadd3bu6v2tyfy2lks2c6ml55iepudwdifde3xa2fllxp2e2mipme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-10T17:41:38.789Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-29T12:12:35.762Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 320048
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌵Dia 28/4 celebra a riqueza e a resiliência da caatinga!\n\n🌿Esse bioma único, localizado principalmente no Nordeste do Brasil, é lar de uma vegetação exuberante, adaptada às condições áridas e quentes. Os cactos, os arbustos espinhosos faz da caatinga um verdadeiro tesouro da biodiversidade."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 9,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-29T12:12:35.762Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:crdrqak25oap4hkjnjhlxc6y/app.bsky.feed.post/3kr7ic7revh2q",
+            "cid": "bafyreiet7tqckvsxcisydwrm3mtof7mzm4p7c7ip23mfi3r44foobjtnn4",
+            "author": {
+                "did": "did:plc:crdrqak25oap4hkjnjhlxc6y",
+                "handle": "josiasgomesba.bsky.social",
+                "displayName": "Josias Gomes 🚩⭐️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:crdrqak25oap4hkjnjhlxc6y/bafkreidavmsgjekg2g5dutxvug26gy67k5jjhomnbbf4yd63rd3ntfqsfi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T18:35:07.409Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-28T17:35:32.902Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 1279
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidxmcmmiru37h6o4izv6wzbibiii6fn5mui2ohzucsbszst3oatpa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 833926
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://josiasgomes.com.br/28-de-abril-dia-da-caatinga-bioma-que-precisa-ser-preservado-amado-e-receber-politicas-publicas-para-cuidar-da-nossa-gente/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 274
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Durante muito tempo, a Caatinga era sinônimo de exploração inadequada de seu bioma, impactando a vida das pessoas que lá habitavam e gerando degradação ambiental. Mas, com as políticas públicas dos governos do PT, mudamos a relação de convivência com a Caatinga:\njosiasgomes.com.br/28-de-abril-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:crdrqak25oap4hkjnjhlxc6y/bafkreidxmcmmiru37h6o4izv6wzbibiii6fn5mui2ohzucsbszst3oatpa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:crdrqak25oap4hkjnjhlxc6y/bafkreidxmcmmiru37h6o4izv6wzbibiii6fn5mui2ohzucsbszst3oatpa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1600,
+                            "width": 1279
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-28T17:35:32.902Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3vhfjyogol5llfrdkmeol7ew/app.bsky.feed.post/3kr6ozvlbgm2z",
+            "cid": "bafyreiaaez3zovnzeytb6fatc7z4keo2qoergvggmjewo3gbdsbkyoilqu",
+            "author": {
+                "did": "did:plc:3vhfjyogol5llfrdkmeol7ew",
+                "handle": "jopela.bsky.social",
+                "displayName": "João Lacerda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3vhfjyogol5llfrdkmeol7ew/bafkreia6parqbkwipvlth3teitbthjuqanokpxzb2rtinarfmbtlr3l46a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:25:35.492Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-28T10:03:29.054Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 503,
+                                "width": 526
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxzdixwpgxs2l6nlibirddbc3zfap6ixxik76olgklxvg45qivtq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 225595
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Caatinga é um bioma unicamente do Brasil e ocupa cerca de 11% do território do nosso país.\nEle está presente no Maranhão, Piauí, Ceará, Rio Grande do Norte, Pernambuco, Alagoas, Sergipe, Bahia e na região norte de Minas Gerais."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3vhfjyogol5llfrdkmeol7ew/bafkreicxzdixwpgxs2l6nlibirddbc3zfap6ixxik76olgklxvg45qivtq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3vhfjyogol5llfrdkmeol7ew/bafkreicxzdixwpgxs2l6nlibirddbc3zfap6ixxik76olgklxvg45qivtq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 503,
+                            "width": 526
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-28T10:03:29.054Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:32hmdogpchlpix5ye5kjhm5k/app.bsky.feed.post/3kr4lf27ucl2s",
+            "cid": "bafyreidlzja4wslg4dtctth3awzojcv36po6d4rksueaxtfx7wh2hwctxa",
+            "author": {
+                "did": "did:plc:32hmdogpchlpix5ye5kjhm5k",
+                "handle": "cibelebastos.bsky.social",
+                "displayName": "Cibele é Lula  ⭐",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:32hmdogpchlpix5ye5kjhm5k/bafkreigmurgzvak3n7pavbki42iz7znfb7zc5z7xmjgnzjc233s62rgezy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-23T23:01:12.259Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-27T13:52:50.895Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Esta edição do EcoSenado traz o quarto episódio da série \"Protetoras do Meio Ambiente\", que mostra o trabalho da bióloga e pesquisadora Mercedes Bustamante. Dia 28 de abril é o Dia Nacional da Caating...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic7sfdbo6asafmkwpoa33uq3n2ckcy2nmiacfpso5uqcii5c4hula"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 992705
+                        },
+                        "title": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação",
+                        "uri": "https://www12.senado.leg.br/tv/programas/ecosenado/2024/04/caatinga-bioma-exclusivamente-brasileiro-que-sofre-com-o-processo-acelerado-de-desertificacao"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www12.senado.leg.br/tv/programas/ecosenado/2024/04/caatinga-bioma-exclusivamente-brasileiro-que-sofre-com-o-processo-acelerado-de-desertificacao",
+                    "title": "Caatinga: bioma exclusivamente brasileiro que sofre com o processo acelerado de desertificação",
+                    "description": "Esta edição do EcoSenado traz o quarto episódio da série \"Protetoras do Meio Ambiente\", que mostra o trabalho da bióloga e pesquisadora Mercedes Bustamante. Dia 28 de abril é o Dia Nacional da Caating...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32hmdogpchlpix5ye5kjhm5k/bafkreic7sfdbo6asafmkwpoa33uq3n2ckcy2nmiacfpso5uqcii5c4hula@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-27T13:52:50.808Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gn24ep23plkoa3ciao3yo2w3/app.bsky.feed.post/3kr2xndopbk24",
+            "cid": "bafyreiddka5nvtnvnjyftjujkisr4fpubkknoqrl4vqjryipejobraxioe",
+            "author": {
+                "did": "did:plc:gn24ep23plkoa3ciao3yo2w3",
+                "handle": "petrobras.com.br",
+                "displayName": "Petrobras",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gn24ep23plkoa3ciao3yo2w3/bafkreifwxhdxvqb7q3xr33z5ufgwet6cjitxxnvzd26j5iimhg622ni72u@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-12T12:35:29.557Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-26T22:28:00.435Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Confira uma nova perspectiva sobre nossas raízes! Assista ao 1º episódio de Solo e conheça o olhar do fotógrafo Jão Vicente que mergulha no poder da resiliên...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicdm34hdtmngr3amjnqq6kx46dv5wl3lov6rxgbs5pds4hgihyntm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 331138
+                        },
+                        "title": "Solo | Episódio 1: Resiliência | Jão Vicente",
+                        "uri": "https://youtu.be/ITKpkk6h-Lw"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/ITKpkk6h-Lw"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 239,
+                            "byteStart": 219
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "No 1º episódio de Solo, o fotógrafo Jão Vicente nos leva a explorar a Caatinga, um bioma brasileiro repleto de história e resistência. Venha descobrir um novo olhar sobre a região no episódio completo. Assista! youtu.be/ITKpkk6h-Lw"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/ITKpkk6h-Lw",
+                    "title": "Solo | Episódio 1: Resiliência | Jão Vicente",
+                    "description": "Confira uma nova perspectiva sobre nossas raízes! Assista ao 1º episódio de Solo e conheça o olhar do fotógrafo Jão Vicente que mergulha no poder da resiliên...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gn24ep23plkoa3ciao3yo2w3/bafkreicdm34hdtmngr3amjnqq6kx46dv5wl3lov6rxgbs5pds4hgihyntm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 22,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-26T22:26:54.708Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kqktevbuns2e",
+            "cid": "bafyreigqjsufmmid2cmpu6rsrwclgg3ya3czljknwh2e6bzgvgxjgwy264",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-20T12:27:59.265Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Espécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic64fzbag6en3kwyslvayrnqjuzlibiucsiyswwovv2qgamnpuiwe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 451960
+                        },
+                        "title": "Levantamento revela que anta não está extinta na Caatinga - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 244,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Levantamento revela que anta não está extinta na Caatinga ⬇️\n\nEspécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal\noeco.org.br/noticias/lev..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/",
+                    "title": "Levantamento revela que anta não está extinta na Caatinga - ((o))eco",
+                    "description": "Espécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreic64fzbag6en3kwyslvayrnqjuzlibiucsiyswwovv2qgamnpuiwe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-20T12:27:59.265Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gmqnt7avqsrcxf3bandmgixz/app.bsky.feed.post/3kqbcozkwxc2f",
+            "cid": "bafyreiaqjcqqajawsmjmd2vazlwx6jerfdp6sufstguqb65sooudkecfku",
+            "author": {
+                "did": "did:plc:gmqnt7avqsrcxf3bandmgixz",
+                "handle": "lidusosa.bsky.social",
+                "displayName": "Liduina Sousa. NORDESTINA DO CEARÁ ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gmqnt7avqsrcxf3bandmgixz/bafkreiexysdtsoe7azjlqw3veotjyv3vszou3kayxudaz57dmfcaod5hje@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:20:22.008Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-16T17:35:27.939Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifnxyrjwn5lfrpt65imvxr3llw6j3g4aevjosxom6kepp74ehjnr4",
+                        "uri": "at://did:plc:r7gi3o2bmk4x5jyxylfmczx3/app.bsky.feed.post/3kqamkplxfj27"
+                    },
+                    "root": {
+                        "cid": "bafyreifnxyrjwn5lfrpt65imvxr3llw6j3g4aevjosxom6kepp74ehjnr4",
+                        "uri": "at://did:plc:r7gi3o2bmk4x5jyxylfmczx3/app.bsky.feed.post/3kqamkplxfj27"
+                    }
+                },
+                "text": "Tá parecendo com o bioma que me criou, a caatinga..."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-16T17:35:27.939Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzhrzfcx2t",
+            "cid": "bafyreigvi4o67soxktm5afc5r6hux5nz6powyl6kvnnwaocqqhmzhgevsi",
+            "author": {
+                "did": "did:plc:twnyrbgrsitacjba6njaqlbz",
+                "handle": "persephonemonstera.bsky.social",
+                "displayName": "Persephone",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreiaaodzxr3xan7vvmvd4paqesy7fmnqkxm7li3kaivoezovibd6qhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-27T15:19:32.651Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-13T20:01:42.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 357061
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiadbhvbtkrzi22pkybspenv6zbi4mnm4ug32xmzqgtcpnbjcr3kxa",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzzeqdyfa2b"
+                    },
+                    "root": {
+                        "cid": "bafyreiblszpp6475xp5fpnntbjswlwxlbumhrmctnkcbjupsqrmcbkubhq",
+                        "uri": "at://did:plc:twnyrbgrsitacjba6njaqlbz/app.bsky.feed.post/3kpzytkrked2m"
+                    }
+                },
+                "text": "Isso coloca o Pampa na frente da Amazônia, Caatinga e Pantanal na lista de biomas brasileiros com mais espécies ameaçadas ou extintas. O Pampa é um bioma pequeno mas muito rico em biodiversidade, que precisa de nossa proteção e não deve ser esquecido."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:twnyrbgrsitacjba6njaqlbz/bafkreihuxhperwxpespgtqqy5bqzrwkwjfopganljb4fjtnmiopgewlhnu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-13T20:01:42.966Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:65sqni2vtpcoxdf264g3j2xn/app.bsky.feed.post/3kpsaw2abcc2j",
+            "cid": "bafyreihepyox3sywzqgzwl2lzic2xunzhq2koqpl4g763wmgls7zfolj4y",
+            "author": {
+                "did": "did:plc:65sqni2vtpcoxdf264g3j2xn",
+                "handle": "vinicarvalho.bsky.social",
+                "displayName": "⭕ Vini",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:65sqni2vtpcoxdf264g3j2xn/bafkreiabyp4em7aasgcqwqbhdqml3ga5cr2h5vimjmc5qfdv2mwojlcpvu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-28T21:51:48.536Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-10T17:53:38.779Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A expansão da agricultura, da pecuária e do desmatamento tem causado mudanças drásticas na Caatinga. As áreas agrícolas e pastagens abandonadas ou em uso cobrem 89% desse bioma, único inteiramente bra...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiguymaheb4aktgsdidf4ri765da4hkmngcilst37lq5dzwxcy54nq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 528986
+                        },
+                        "title": "Ação humana transformou 89% da Caatinga",
+                        "uri": "https://revistapesquisa.fapesp.br/acao-humana-transformou-89-da-caatinga/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CAATINGA: De acordo com esse estudo, a área que deve ter sido ocupada por florestas, de 731.211 km², correspondentes a 84,6% da área total do bioma, caiu para 31.793 km², ou 4% do total. A vegetação arbustiva avançou 390% sobre as matas fechadas e mais densas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistapesquisa.fapesp.br/acao-humana-transformou-89-da-caatinga/",
+                    "title": "Ação humana transformou 89% da Caatinga",
+                    "description": "A expansão da agricultura, da pecuária e do desmatamento tem causado mudanças drásticas na Caatinga. As áreas agrícolas e pastagens abandonadas ou em uso cobrem 89% desse bioma, único inteiramente bra...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:65sqni2vtpcoxdf264g3j2xn/bafkreiguymaheb4aktgsdidf4ri765da4hkmngcilst37lq5dzwxcy54nq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-10T17:53:38.779Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kp67pt5dg42z",
+            "cid": "bafyreidgopfdeog4slkdy6th37xdx3qozscdukdytjt5rah7ehxpfmm4ne",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-02T18:39:02.694Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ao todo, quatro iniciativas internacionais foram selecionadas e no Brasil os projetos envolvem ações em prol de povos indígenas e da proteção do bioma Caatinga",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibxwix3cyqf4zgza6atnhs4z7jxzsykpxoqgnla7u6jow5vqhiqoa"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 437731
+                        },
+                        "title": "Dois projetos brasileiros terão 19,6 milhões de dólares do Fundo Global de Biodiversidade - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/dois-projetos-brasileiros-terao-196-milhoes-de-dolares-do-fundo-global-de-biodiversidade/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/dois-projetos-brasileiros-terao-196-milhoes-de-dolares-do-fundo-global-de-biodiversidade/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 293,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dois projetos brasileiros terão 19,6 milhões de dólares do Fundo Global de Biodiversidade ⬇️\n\nAo todo, quatro iniciativas internacionais foram selecionadas. No Brasil, os projetos envolvem ações em prol de povos indígenas e da proteção do bioma Caatinga\noeco.org.br/noticias/doi..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/dois-projetos-brasileiros-terao-196-milhoes-de-dolares-do-fundo-global-de-biodiversidade/",
+                    "title": "Dois projetos brasileiros terão 19,6 milhões de dólares do Fundo Global de Biodiversidade - ((o))eco",
+                    "description": "Ao todo, quatro iniciativas internacionais foram selecionadas e no Brasil os projetos envolvem ações em prol de povos indígenas e da proteção do bioma Caatinga",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibxwix3cyqf4zgza6atnhs4z7jxzsykpxoqgnla7u6jow5vqhiqoa@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-02T18:39:02.694Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eqxcfxcj3g6tkaytnsy6pqxx/app.bsky.feed.post/3kjj57ksv3v2h",
+            "cid": "bafyreifsl4zm23ehuxp3vgk44wizl3ew4f5rl4oektka7tdjvj3gpwvcma",
+            "author": {
+                "did": "did:plc:eqxcfxcj3g6tkaytnsy6pqxx",
+                "handle": "arthurjoedson.bsky.social",
+                "displayName": "Arthur Joedson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreigxozblog24sfeobjtoqhdvyvdd56is4vcui6bgq37sgvvu3giece@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-18T21:42:24.778Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-21T18:22:17.040Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto de um plano horizontal, com céu azul com diversas nuvens brancas. Na parte inferior há vegetação verda típica do bioma Caatinga e uma pequena casa no canto inferior esquerdo.",
+                            "aspectRatio": {
+                                "height": 899,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 903431
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mais um céu azul!\n21 de janeiro, 2024.\nNova Floresta, Paraíba."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni@jpeg",
+                        "alt": "Foto de um plano horizontal, com céu azul com diversas nuvens brancas. Na parte inferior há vegetação verda típica do bioma Caatinga e uma pequena casa no canto inferior esquerdo.",
+                        "aspectRatio": {
+                            "height": 899,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-21T18:22:17.040Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ws7ihizeio5gvnkyewangld3/app.bsky.feed.post/3k6nzwhc6rv2h",
+            "cid": "bafyreicocosxxpm2hvqjeostizyjoziplk7fpgojyzw6imf3sz5i4fonii",
+            "author": {
+                "did": "did:plc:ws7ihizeio5gvnkyewangld3",
+                "handle": "macedo.bsky.social",
+                "displayName": "macêdo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ws7ihizeio5gvnkyewangld3/bafkreigldtjqp4oewi7r2ho3uqmjfifys73fkvzipkc6uszyyczac5o2vu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ws7ihizeio5gvnkyewangld3",
+                        "uri": "at://did:plc:ws7ihizeio5gvnkyewangld3/app.bsky.actor.profile/self",
+                        "cid": "bafyreihcgx2wbuqa4wkp3kxoonucaeetvr5tqbwhkvook5hqi7fosuj2ti",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-06T14:14:50.796Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-05T17:29:40.604Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Da água ao ar, tudo de que o ser humano precisa depende da natureza – mas a relação dele com ela tem sido de degradação. No Ceará, em 2022, mais de 2,1 mil hectares (ha) de unidades de conserv...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifcvb3dl6lvr42ky5rt5ek6qs2gxpy267dni44dr5iqgqvo4kbvvq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 947114
+                        },
+                        "title": "Ceará desmatou equivalente a quase 2 mil campos de futebol de áreas protegidas em 2022 - Ceará - ...",
+                        "uri": "https://diariodonordeste.verdesmares.com.br/ceara/ceara-desmatou-equivalente-a-quase-2-mil-campos-de-futebol-de-areas-protegidas-em-2022-1.3411702"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://diariodonordeste.verdesmares.com.br/ceara/ceara-desmatou-equivalente-a-quase-2-mil-campos-de-futebol-de-areas-protegidas-em-2022-1.3411702"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 258
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "mais de 95% da área do CE é caatinga, um bioma sensível e de difícil regeneração. a região do estado mais afetada pelo desmatamento é uma das raras áreas nativas de mata atlântica, a chapada do araripe, que nunca foi valorizada pelo governo do CE \ndiariodonordeste.verdesmares.com.br/ceara/ceara-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://diariodonordeste.verdesmares.com.br/ceara/ceara-desmatou-equivalente-a-quase-2-mil-campos-de-futebol-de-areas-protegidas-em-2022-1.3411702",
+                    "title": "Ceará desmatou equivalente a quase 2 mil campos de futebol de áreas protegidas em 2022 - Ceará - ...",
+                    "description": "Da água ao ar, tudo de que o ser humano precisa depende da natureza – mas a relação dele com ela tem sido de degradação. No Ceará, em 2022, mais de 2,1 mil hectares (ha) de unidades de conserv...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ws7ihizeio5gvnkyewangld3/bafkreifcvb3dl6lvr42ky5rt5ek6qs2gxpy267dni44dr5iqgqvo4kbvvq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-05T17:29:40.604Z",
+            "labels": []
+        }
+    ]
+}

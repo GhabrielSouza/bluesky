@@ -1,0 +1,876 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3l634pybdwo2f",
+            "cid": "bafyreiczghajptvdygmwwd7rjipg6gfufnsq7rqg62vlyb663ri27ucrqe",
+            "author": {
+                "did": "did:plc:mhebmnvi5li7s6hmw3s6c3mp",
+                "handle": "liliumazules.bsky.social",
+                "displayName": "Porã (Humanista)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiama644tvjophsoh6tg5vvdtydfdutdslmv6a5pt7d3spu56vugma@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T04:08:34.630Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T10:25:22.289Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia3ne76dq3iwg427ztwfre3waaivueqrhi42dblzrj3rjg4qqxlgi",
+                        "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3l634nwboun2k"
+                    },
+                    "root": {
+                        "cid": "bafyreidkbwzulf72yoxr6bwnpiwb3vda2wborl4j4kg2e7vq63l7c6zwgm",
+                        "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3l634j3zdox2i"
+                    }
+                },
+                "text": "Cientistas já têm data para o derretimento de todo gelo da Antártida\n• Colapso de geleira da Antártida pode ser irreversível."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T10:25:22.289Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3l634j3zdox2i",
+            "cid": "bafyreidkbwzulf72yoxr6bwnpiwb3vda2wborl4j4kg2e7vq63l7c6zwgm",
+            "author": {
+                "did": "did:plc:mhebmnvi5li7s6hmw3s6c3mp",
+                "handle": "liliumazules.bsky.social",
+                "displayName": "Porã (Humanista)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreiama644tvjophsoh6tg5vvdtydfdutdslmv6a5pt7d3spu56vugma@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T04:08:34.630Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T10:21:31.334Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 201,
+                                "width": 314
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 78665
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌿Nas profundezas dos oceanos polares, existe um fenômeno incomum e letal, conhecido como \"dedo da morte\", que congela animais marinhos instantaneamente.\n• Cientistas já têm data para o derretimento de todo gelo da Antártida\n• Colapso de geleira da Antártida pode ser irreversível, dizem os cientistas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mhebmnvi5li7s6hmw3s6c3mp/bafkreibgicxucb4tkeksu3bbosrlzriphealdinzdv32reyorlyg474vb4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 201,
+                            "width": 314
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T10:21:31.334Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w7ypj2uogg7ronx77pjnvnbh/app.bsky.feed.post/3l5prj4xn7o2a",
+            "cid": "bafyreie4trxgl2ppqg63n3veyf3l7z4msjfvtiuqh4jaczhanmspml6aha",
+            "author": {
+                "did": "did:plc:w7ypj2uogg7ronx77pjnvnbh",
+                "handle": "jackelinef.bsky.social",
+                "displayName": "Jackeline ✮⋆˙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w7ypj2uogg7ronx77pjnvnbh/bafkreieoccbg5tkkroeikxbxvcnavzx4fb4bs35xqx4tw6noltctjoecg4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-18T16:52:30.838Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T22:05:23.695Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "um calor do inferno desses em goiânia pra provar pro infeliz do fred rodrigues que existe sim mudança climática e que derretimento de geleira não é falácia"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T22:05:23.695Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4eeodq3dihoy7a74qwz6grxk/app.bsky.feed.post/3l4vlfkc5go2u",
+            "cid": "bafyreicqjmv4jhn6c7uz2xsc73uorjbhs7swlwnw27otn4d4llxrhvtywq",
+            "author": {
+                "did": "did:plc:4eeodq3dihoy7a74qwz6grxk",
+                "handle": "ihu.unisinos.br",
+                "displayName": "IHU",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreialrtn5rvu2q6oyh2nva77v4bavuvzbxhztzuwsvnlc3naqpchqsa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T16:58:13.602Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T12:06:48.170Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 788,
+                                "width": 940
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibcdr2maeqlrgywj5tgrubosarcw2dcaqjrzdhd3fw6q7g5z4n2ii"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 857674
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ihu.unisinos.br/categorias/643933-previsao-sobre-derretimento-da-geleira-do-juizo-final-e-alarmante-dizem-cientistas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 271
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O derretimento da geleira The Thwaites, na Antártica, está se acelerando, com o potencial de elevar o nível do mar em até 60 cm apenas devido ao seu degelo. Pesquisas indicam que, nos últimos 30 anos, a redução da massa de gelo intensificou-se de forma alarmante.\nwww.ihu.unisinos.br/categorias/6..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreibcdr2maeqlrgywj5tgrubosarcw2dcaqjrzdhd3fw6q7g5z4n2ii@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4eeodq3dihoy7a74qwz6grxk/bafkreibcdr2maeqlrgywj5tgrubosarcw2dcaqjrzdhd3fw6q7g5z4n2ii@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 788,
+                            "width": 940
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T12:06:48.170Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:32d4cckp7swcsbnw2bzjvm74/app.bsky.feed.post/3l4tlt6lbtx2a",
+            "cid": "bafyreifkkr3gwxmep4qq2smip5bzesbamcymjg3zuy6zschbb5xdjbbnse",
+            "author": {
+                "did": "did:plc:32d4cckp7swcsbnw2bzjvm74",
+                "handle": "brasjs.bsky.social",
+                "displayName": "José Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:32d4cckp7swcsbnw2bzjvm74/bafkreigv7snmp4jzgzdwbj5extpb3uk4qe6av6kazjjh54bjsduk3mxsze@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T02:25:08.435Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T17:13:41.976Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Derretimento da Thwaites deve acelerar neste século; sozinha, geleira tem potencial para aumentar o nível do mar em 60 centímetros",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibxdod34wotpvizqnwbzsxc7yitwjuvdoliqdfw2zasgzsc2phuku"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 259219
+                        },
+                        "title": "Previsão sobre derretimento da \"Geleira do Juízo Final\" é alarmante, dizem cientistas",
+                        "uri": "https://www.infomoney.com.br/mundo/previsao-sobre-derretimento-da-geleira-do-juizo-final-e-alarmante-dizem-cientistas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.infomoney.com.br/mundo/previsao-sobre-derretimento-da-geleira-do-juizo-final-e-alarmante-dizem-cientistas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 253,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A culpa da Crise Climática é sempre do OUTRO. \nNinguém assume. \nPor isso a tendência é a vida no planeta acabar mesmo... \n\nPrevisão sobre derretimento da \"Geleira do Juízo Final\" é alarmante, dizem cientistas\nwww.infomoney.com.br/mundo/previs..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.infomoney.com.br/mundo/previsao-sobre-derretimento-da-geleira-do-juizo-final-e-alarmante-dizem-cientistas/",
+                    "title": "Previsão sobre derretimento da \"Geleira do Juízo Final\" é alarmante, dizem cientistas",
+                    "description": "Derretimento da Thwaites deve acelerar neste século; sozinha, geleira tem potencial para aumentar o nível do mar em 60 centímetros",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:32d4cckp7swcsbnw2bzjvm74/bafkreibxdod34wotpvizqnwbzsxc7yitwjuvdoliqdfw2zasgzsc2phuku@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T17:09:07.111Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yizszhhkvj5lm7w45cjc5oua/app.bsky.feed.post/3l4ssthvhkm2b",
+            "cid": "bafyreihtjt3nkpfraiqreajjmgflezaac2go74vq3rdtwp64cqj3uqduuu",
+            "author": {
+                "did": "did:plc:yizszhhkvj5lm7w45cjc5oua",
+                "handle": "vmorim1111.bsky.social",
+                "displayName": "Valeria Amorim ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yizszhhkvj5lm7w45cjc5oua/bafkreibcqvdeuooduv4lj523djntr536kwdceq3x5xshen5hraiuaea7bq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-10-28T12:40:47.757Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T09:41:52.065Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreib2aygfrnarwqldqxp24qtomq2uihnp5v2io3jukfe33r2k255rke",
+                        "uri": "at://did:plc:a362e4qc3ofmej5uwriglxow/app.bsky.feed.post/3l4qlfdfs2j2l"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Com o aumento da temperatura no mundo, o derretimento acelerado da geleira Thwaites pode elevar o nível do mar em mais de 60 centímetros, o que vai alterar os padrões climáticos, intensificar eventos climáticos extremos e afetar milhões de vidas, principalmente em áreas costeiras\"."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:a362e4qc3ofmej5uwriglxow/app.bsky.feed.post/3l4qlfdfs2j2l",
+                    "cid": "bafyreib2aygfrnarwqldqxp24qtomq2uihnp5v2io3jukfe33r2k255rke",
+                    "author": {
+                        "did": "did:plc:a362e4qc3ofmej5uwriglxow",
+                        "handle": "lajegom.bsky.social",
+                        "displayName": "Laerte J. Gomes",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a362e4qc3ofmej5uwriglxow/bafkreibujuo7it5nahrqsdrbhilu6ypxvhps6b4gwex4tln2krin2hbpga@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-09T16:37:14.175Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-22T12:23:19.166Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Relatório revela cenário sombrio com previsão do desaparecimento de uma grande parte da camada de gelo da Antártida Ocidental até o século 23",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreidki4vzgrd2kedxjeweo6ch44os34v2r34q7mdlcbcfohekq75jxu"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 929928
+                                },
+                                "title": "Geleira do ‘Juízo Final’ ameaça áreas costeiras e desperta temor de cientistas",
+                                "uri": "https://revistaforum.com.br/meioambiente/2024/9/21/geleira-do-juizo-final-ameaa-areas-costeiras-desperta-temor-de-cientistas-166023.html"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://revistaforum.com.br/meioambiente/2024/9/21/geleira-do-juizo-final-ameaa-areas-costeiras-desperta-temor-de-cientistas-166023.html"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 169,
+                                    "byteStart": 134
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Já estamos numa distopia?\n\nGeleira do ‘Juízo Final’ ameaça áreas costeiras e desperta temor de cientistas | Revista Fórum \n\n revistaforum.com.br/meioambiente..."
+                    },
+                    "labels": [],
+                    "likeCount": 20,
+                    "replyCount": 2,
+                    "repostCount": 13,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-22T12:23:19.166Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://revistaforum.com.br/meioambiente/2024/9/21/geleira-do-juizo-final-ameaa-areas-costeiras-desperta-temor-de-cientistas-166023.html",
+                                "title": "Geleira do ‘Juízo Final’ ameaça áreas costeiras e desperta temor de cientistas",
+                                "description": "Relatório revela cenário sombrio com previsão do desaparecimento de uma grande parte da camada de gelo da Antártida Ocidental até o século 23",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a362e4qc3ofmej5uwriglxow/bafkreidki4vzgrd2kedxjeweo6ch44os34v2r34q7mdlcbcfohekq75jxu@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T09:41:52.065Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rrlryxo4qgev7onagi7fgd3i/app.bsky.feed.post/3l4rl3xw4jn2s",
+            "cid": "bafyreieli76bzhpfoolwnqlmahmpigrcoknhaen4twvkv5tn2hzhzbqvma",
+            "author": {
+                "did": "did:plc:rrlryxo4qgev7onagi7fgd3i",
+                "handle": "gicela-brasil.bsky.social",
+                "displayName": "gicela_brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rrlryxo4qgev7onagi7fgd3i/bafkreib663hbtkzpynrbh4xcdwpe5k4urmtfpj7jdzrzpnpahevudj2pnu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T11:01:58.430Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T21:50:46.396Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Relatório revela cenário sombrio com previsão do desaparecimento de uma grande parte da camada de gelo da Antártida Ocidental até o século 23",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia5d2zr5bp4qkh7c43tuacrdxncnktbjd5tsxrjtyaovsi4wyrtre"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 323017
+                        },
+                        "title": "Geleira do ‘Juízo Final’ ameaça áreas costeiras e desperta temor de cientistas",
+                        "uri": "https://revistaforum.com.br/meioambiente/2024/9/21/geleira-do-juizo-final-ameaa-areas-costeiras-desperta-temor-de-cientistas-166023.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com 120 km de extensão e mais de 2 mil metros de espessura, a Geleira Thwaites, localizada na Antártica, conhecida como \"Geleira do Juízo Final\" e comparável em tamanho à Flórida (EUA), o derretimento do maior bloco de gelo da Terra  tem despertado o temor dos cientistas e ambientalistas"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/meioambiente/2024/9/21/geleira-do-juizo-final-ameaa-areas-costeiras-desperta-temor-de-cientistas-166023.html",
+                    "title": "Geleira do ‘Juízo Final’ ameaça áreas costeiras e desperta temor de cientistas",
+                    "description": "Relatório revela cenário sombrio com previsão do desaparecimento de uma grande parte da camada de gelo da Antártida Ocidental até o século 23",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rrlryxo4qgev7onagi7fgd3i/bafkreia5d2zr5bp4qkh7c43tuacrdxncnktbjd5tsxrjtyaovsi4wyrtre@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T21:50:46.396Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nc5npzuyf3i23qi4gkcnidlm/app.bsky.feed.post/3l4plkvawml27",
+            "cid": "bafyreia4bq7ce2q3ihfgzrjyypj5ho7pteas6bol747gvf4jqh2dodmzia",
+            "author": {
+                "did": "did:plc:nc5npzuyf3i23qi4gkcnidlm",
+                "handle": "yoeru.bsky.social",
+                "displayName": "Yoeru",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nc5npzuyf3i23qi4gkcnidlm/bafkreibuiq2wpwte53cthezwu3gekfmlfbyb7azvmuc6z2plzciazdmckq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-10T13:56:56.605Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T02:53:48.416Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiffclrrsfro3y7ydlwyk5jzxtlvl5sveixbdg2tzuqizqms3yafzm",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4pksvkri42t"
+                    },
+                    "root": {
+                        "cid": "bafyreiffclrrsfro3y7ydlwyk5jzxtlvl5sveixbdg2tzuqizqms3yafzm",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4pksvkri42t"
+                    }
+                },
+                "text": "Nesse ritmo, quanto tempo nós temos de \"normalidade\"? Li uma notícia sobre o derretimento da geleira do juízo final e bateu uma ansiedade pesada. (O nome já não ajuda muito)"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T02:53:48.416Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mb6w2cn6nlumppgbiwxhsklv/app.bsky.feed.post/3l4occpwhkm2i",
+            "cid": "bafyreidyk445xsb62w2m2pzpsf5eg7yc2syhoxxnxyi4bryrqcowbwscou",
+            "author": {
+                "did": "did:plc:mb6w2cn6nlumppgbiwxhsklv",
+                "handle": "portoalegre24horas.bsky.social",
+                "displayName": "Porto Alegre 24 Horas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mb6w2cn6nlumppgbiwxhsklv/bafkreig6i7nl3hvyk4qys6mqjr6y6vvkfmykwktx6dm735uopv4czq2aj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T01:21:05.285Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T14:35:32.375Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Recentemente, cientistas alertaram para o derretimento acelerado da geleira Thwaites, na Antártica, um fenômeno que pode estar se encaminhando para um colapso irreversível. Esse evento não só amea…",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieah26quch4knrrv4caqvxv5mcosefh5i6pwscohh6lojyr5gdega"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 531690
+                        },
+                        "title": "Derretimento da geleira Thwaites ameaça nível do mar",
+                        "uri": "https://poa24horas.com.br/instagram/2024/09/derretimento-da-geleira-thwaites-ameaca-nivel-do-mar/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://poa24horas.com.br/instagram/2024/09/derretimento-da-geleira-thwaites-ameaca-nivel-do-mar/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 90,
+                            "byteStart": 57
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Derretimento da geleira Thwaites ameaça nível do mar - poa24horas.com.br/instagram/20..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://poa24horas.com.br/instagram/2024/09/derretimento-da-geleira-thwaites-ameaca-nivel-do-mar/",
+                    "title": "Derretimento da geleira Thwaites ameaça nível do mar",
+                    "description": "Recentemente, cientistas alertaram para o derretimento acelerado da geleira Thwaites, na Antártica, um fenômeno que pode estar se encaminhando para um colapso irreversível. Esse evento não só amea…",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mb6w2cn6nlumppgbiwxhsklv/bafkreieah26quch4knrrv4caqvxv5mcosefh5i6pwscohh6lojyr5gdega@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T14:35:32.375Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2vhsjzkv4il2bcwvaita3irp/app.bsky.feed.post/3l36zdlv7nb2y",
+            "cid": "bafyreigqsghjiggux6zbk4tf5qfbcf45loh2tmk65rkbhcz2ntkoqkhpba",
+            "author": {
+                "did": "did:plc:2vhsjzkv4il2bcwvaita3irp",
+                "handle": "kiwdracula.bsky.social",
+                "displayName": "v ①",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vhsjzkv4il2bcwvaita3irp/bafkreiarfpdn4cqfjahp5qf6mlywrv2x4uvre3jshb75usjf2eegg64lna@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:51:35.821Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T19:21:20.769Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "passei meia hora discutindo sobre o derretimento da geleira do juízo final e como isso afeta o gremio aqui no trabalho"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-02T19:19:49.716Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ell26qm4neoytz3q5uqrbu6g/app.bsky.feed.post/3kt77mr5tsc2q",
+            "cid": "bafyreihx2bdeaz4jpnb2wr5opulebizl5sitcfn4o4syjrfgdqblw3xji4",
+            "author": {
+                "did": "did:plc:ell26qm4neoytz3q5uqrbu6g",
+                "handle": "wilsonsilva.bsky.social",
+                "displayName": "Wilson oliveira🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ell26qm4neoytz3q5uqrbu6g/bafkreibph6373lwgaepjgqukcjlkd5j23hsfi2cpe3a2fo2le6sxoizgxu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T20:49:34.645Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-24T01:50:47.875Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A grande geleira Thwaites, conhecida como \"Geleira do Juízo Final\" e localizada na Antártida, corre maior risco de derreter do que cientistas acreditavam. Isto porque água salgada e quente passa por v...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiawtp4fnz2kicnjlpbghx3q6gtcplwr6wrr5obdug7ixuuqww7mv4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 635958
+                        },
+                        "title": "Derretimento da 'geleira do Juízo Final' é mais alarmante do que se pensava",
+                        "uri": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/05/23/geleira-do-juizo-final-risco-de-derreter-estudo.htm"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/05/23/geleira-do-juizo-final-risco-de-derreter-estudo.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 114,
+                            "byteStart": 79
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Derretimento da \"geleira do juízo final\" é mais alarmante do que se pensava \nnoticias.uol.com.br/ultimas-noti..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/05/23/geleira-do-juizo-final-risco-de-derreter-estudo.htm",
+                    "title": "Derretimento da 'geleira do Juízo Final' é mais alarmante do que se pensava",
+                    "description": "A grande geleira Thwaites, conhecida como \"Geleira do Juízo Final\" e localizada na Antártida, corre maior risco de derreter do que cientistas acreditavam. Isto porque água salgada e quente passa por v...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ell26qm4neoytz3q5uqrbu6g/bafkreiawtp4fnz2kicnjlpbghx3q6gtcplwr6wrr5obdug7ixuuqww7mv4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-24T01:50:47.875Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ell26qm4neoytz3q5uqrbu6g/app.bsky.feed.post/3kszo2yxax22k",
+            "cid": "bafyreihhra2cjdkocttshbgyl3w7gqrqcyqj4p3j6idmg27usoxhif64ky",
+            "author": {
+                "did": "did:plc:ell26qm4neoytz3q5uqrbu6g",
+                "handle": "wilsonsilva.bsky.social",
+                "displayName": "Wilson oliveira🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ell26qm4neoytz3q5uqrbu6g/bafkreibph6373lwgaepjgqukcjlkd5j23hsfi2cpe3a2fo2le6sxoizgxu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T20:49:34.645Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-21T20:53:18.293Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A geleira Thwaites, uma das maiores e mais instáveis da Antártica, está sob um risco de derretimento muito maior do que se pensava anteriormente, segundo um novo estudo realizado por um grupo de espec...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih6l2oixm6u3o3qmc6tpxq3ljmr75rgiebaz5fe2dxcyskrkppide"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 480325
+                        },
+                        "title": "\"Juízo final\": geleira tem derretimento acelerado e coloca cidades em risco, diz estudo",
+                        "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 127,
+                            "byteStart": 79
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Juízo final: geleira tem derretimento acelerado e coloca cidades, diz estudo \nwww.diariodocentrodomundo.com.br/juizo-final-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/",
+                    "title": "\"Juízo final\": geleira tem derretimento acelerado e coloca cidades em risco, diz estudo",
+                    "description": "A geleira Thwaites, uma das maiores e mais instáveis da Antártica, está sob um risco de derretimento muito maior do que se pensava anteriormente, segundo um novo estudo realizado por um grupo de espec...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ell26qm4neoytz3q5uqrbu6g/bafkreih6l2oixm6u3o3qmc6tpxq3ljmr75rgiebaz5fe2dxcyskrkppide@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-21T20:53:18.293Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wx7vbeyhzjh3q546ajdxjolw/app.bsky.feed.post/3kszgi7rffs2j",
+            "cid": "bafyreibuyznbwsu4y527feydzn7oibet37seahirjzhmwuzhj5yz33vs6e",
+            "author": {
+                "did": "did:plc:wx7vbeyhzjh3q546ajdxjolw",
+                "handle": "dcmonline.bsky.social",
+                "displayName": "Diário do Centro do Mundo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wx7vbeyhzjh3q546ajdxjolw/bafkreiexh76dtg7j26jm5a2fyobpim4rew24ktffqcnevsbb2nep7zv4oi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T18:00:48.852Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-21T18:37:31.041Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A geleira Thwaites, uma das maiores e mais instáveis da Antártica, está sob um risco de derretimento muito maior do que se pensava anteriormente, segundo um novo estudo realizado por um grupo de espec...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaqjz4vkbcee32dnnxyebn3v4ecd4sac57ouud7wipcwt7kuing34"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 542193
+                        },
+                        "title": "\"Juízo final\": geleira tem derretimento acelerado e coloca cidades em risco, diz estudo",
+                        "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 141,
+                            "byteStart": 93
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Juízo final”: geleira tem derretimento acelerado e coloca cidades em risco, diz estudo\nwww.diariodocentrodomundo.com.br/juizo-final-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.diariodocentrodomundo.com.br/juizo-final-geleira-tem-derretimento-acelerado-e-coloca-cidades-em-risco-diz-estudo/",
+                    "title": "\"Juízo final\": geleira tem derretimento acelerado e coloca cidades em risco, diz estudo",
+                    "description": "A geleira Thwaites, uma das maiores e mais instáveis da Antártica, está sob um risco de derretimento muito maior do que se pensava anteriormente, segundo um novo estudo realizado por um grupo de espec...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wx7vbeyhzjh3q546ajdxjolw/bafkreiaqjz4vkbcee32dnnxyebn3v4ecd4sac57ouud7wipcwt7kuing34@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 15,
+            "likeCount": 35,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-21T18:37:31.041Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kszcrh6njt2d",
+            "cid": "bafyreibumpiyve3oreynqua3zg76f6n6a7m7f65v7ux6rluoqhr5d5buty",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-21T17:31:04.928963Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Geleira é uma das mais largas na Terra e seu derretimento pode fazer subir um metro o nível do mar, afetando cidades em todo o mundo. Pesquisa alerta que oceanos mais quentes estão influenciando.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihpbhsspz4s2zqy5yz2phxmiisuvn7o7e2tj7lwg2kll4z2leuoye"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 170716
+                        },
+                        "title": "Geleira do 'juízo final' corre mais risco de derretimento do que a ciência sabia, diz novo estudo",
+                        "uri": "https://g1.globo.com/ciencia/noticia/2024/05/21/geleira-do-juizo-final-corre-mais-risco-de-derretimento-do-que-a-ciencia-sabia-diz-novo-estudo.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Geleira do 'juízo final' corre mais risco de derretimento do que a ciência sabia, diz novo estudo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ciencia/noticia/2024/05/21/geleira-do-juizo-final-corre-mais-risco-de-derretimento-do-que-a-ciencia-sabia-diz-novo-estudo.ghtml",
+                    "title": "Geleira do 'juízo final' corre mais risco de derretimento do que a ciência sabia, diz novo estudo",
+                    "description": "Geleira é uma das mais largas na Terra e seu derretimento pode fazer subir um metro o nível do mar, afetando cidades em todo o mundo. Pesquisa alerta que oceanos mais quentes estão influenciando.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihpbhsspz4s2zqy5yz2phxmiisuvn7o7e2tj7lwg2kll4z2leuoye@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-21T17:31:04.928Z",
+            "labels": []
+        }
+    ]
+}

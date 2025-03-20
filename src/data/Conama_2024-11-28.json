@@ -1,0 +1,1703 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:w7kaa423y2ccjlofo47aokoy/app.bsky.feed.post/3lbwo6oxdcs2v",
+            "cid": "bafyreibeius6bhk74od7pbeucak76ii6j23lhvm7iv7g5d32g3uib4ibuu",
+            "author": {
+                "did": "did:plc:w7kaa423y2ccjlofo47aokoy",
+                "handle": "mfostwald.bsky.social",
+                "displayName": "M. Ostw4ld",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w7kaa423y2ccjlofo47aokoy/bafkreigwwzmjj4u5fbdcrrxp2v3s3zrltfd7tyaty6vt2m4g3jtdznjkhq@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-11T19:56:20.844Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T13:35:17.408Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie2b6qfhpp2vfqy67h6mw2kp7qbudwr2b4imqzum5lowbqor7wg7q",
+                        "uri": "at://did:plc:cymyzxudm3vqxpnq7vnbtf4c/app.bsky.feed.post/3lbtyptcjwc2j"
+                    },
+                    "root": {
+                        "cid": "bafyreiaejgoix2fnv36y2oov76463mhsjw67cwjleahlnluopinle4qvbu",
+                        "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3lbsm3ebtyc2q"
+                    }
+                },
+                "text": "Muda alguma coisa? Ok, “n-e-g-o-u”. Não deveria ter negado. Ou melhor, o governo deveria ter garantido que fosse aprovado (mesmo se fosse necessário mudar todos do IBAMA, Conama etc), porque é essencial para o país."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T13:35:18.353Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cymyzxudm3vqxpnq7vnbtf4c/app.bsky.feed.post/3lbtyptcjwc2j",
+            "cid": "bafyreie2b6qfhpp2vfqy67h6mw2kp7qbudwr2b4imqzum5lowbqor7wg7q",
+            "author": {
+                "did": "did:plc:cymyzxudm3vqxpnq7vnbtf4c",
+                "handle": "gilbertow.bsky.social",
+                "displayName": "Gilbertow 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cymyzxudm3vqxpnq7vnbtf4c/bafkreiesmm7j2wgrq2e5wd4ucpjfvzmnddtlvs5yln6q6in4q6q3234jf4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T08:01:56.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-26T12:05:50.597Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig4sbyd7cugeu7kbnsmra2rwamckrd7f5p253c7kylhnim4p5vt5y",
+                        "uri": "at://did:plc:w7kaa423y2ccjlofo47aokoy/app.bsky.feed.post/3lbtxfifk3s2h"
+                    },
+                    "root": {
+                        "cid": "bafyreiaejgoix2fnv36y2oov76463mhsjw67cwjleahlnluopinle4qvbu",
+                        "uri": "at://did:plc:mhebmnvi5li7s6hmw3s6c3mp/app.bsky.feed.post/3lbsm3ebtyc2q"
+                    }
+                },
+                "text": "Negou o projeto apresentado, que fique claro. Não cabe ao Ibama julgar uma atividade econômica como um todo, mas apenas analisar e licenciar projetos de empreendimento apresentados. Quem proíbe, ou não, uma atividade de acontecer por conta dos impactos ambientais associados é o Conama."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-26T12:05:52.748Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pohajtjwfcgwdnrdebpxvxz6/app.bsky.feed.post/3l66a5h7coa23",
+            "cid": "bafyreiexd6q2w2zbrzhu7r2kytd6n6wwirkv66aajutaij3xhgpz3cikoe",
+            "author": {
+                "did": "did:plc:pohajtjwfcgwdnrdebpxvxz6",
+                "handle": "callmeishmaelbr.bsky.social",
+                "displayName": "Ishmael BR",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pohajtjwfcgwdnrdebpxvxz6/bafkreibuowsbwlqxprialsn7vtwxlnoccug3v2lmygvertjhg7lfxhx57m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:pohajtjwfcgwdnrdebpxvxz6",
+                        "uri": "at://did:plc:pohajtjwfcgwdnrdebpxvxz6/app.bsky.actor.profile/self",
+                        "cid": "bafyreieg5lrfzybsshqh64lka6yfc6gindbfwpqlbm3sfookg5lmhh3vym",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-05T12:40:21.118Z"
+                    }
+                ],
+                "createdAt": "2024-09-05T12:40:22.535Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T16:04:37.431Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreighzqfroltje7uwf7jola7vqwlu4yyopm42htcbluwq2cucdzbjoe",
+                        "uri": "at://did:plc:pohajtjwfcgwdnrdebpxvxz6/app.bsky.feed.post/3l66a4cvsar2n"
+                    },
+                    "root": {
+                        "cid": "bafyreigebcqp6dpwrjzwolbrk33zbx3aqrrekihdx3dgh2nqyknmqatqye",
+                        "uri": "at://did:plc:pohajtjwfcgwdnrdebpxvxz6/app.bsky.feed.post/3l662pmiljx2s"
+                    }
+                },
+                "text": "2. AMB. STF. Não se admite a propositura de ADI para impugnar resolução do CONAMA, ato normativo regulamentar e não autônomo, de natureza secundária (ADI 3074, 2014)"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T16:04:34.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jvtwx5zcmvyzrm5car3iarvx/app.bsky.feed.post/3l662m36t6i22",
+            "cid": "bafyreicnwsgvy6rqn3fsxf3gupjm7dwgmmqqz2s646gxxb43badxjzarwq",
+            "author": {
+                "did": "did:plc:jvtwx5zcmvyzrm5car3iarvx",
+                "handle": "jancarand.bsky.social",
+                "displayName": "Jânio C de Andrade",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jvtwx5zcmvyzrm5car3iarvx/bafkreide53237jh6drgnoa5mb6olptk3uqwnhlspf23dndpbodgerkttiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T03:08:04.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T14:25:22.726Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaczltlaskg2zfevu3mp22h6fbvtcdlz24iooenwxw5ok3w7tff6u",
+                        "uri": "at://did:plc:3gal6kyyqpbzizchbo3kxorz/app.bsky.feed.post/3l64ds5ezrd2v"
+                    },
+                    "root": {
+                        "cid": "bafyreibj276lk5balqam7i2u7d4o5gc5ugvole3fm6xlfsy3n5hbpe3va4",
+                        "uri": "at://did:plc:y6dmtgpxufogeh35tdhf4pjd/app.bsky.feed.post/3l5uoh3oro62q"
+                    }
+                },
+                "text": " Agora culpam Ibama q atrasou  20 anos a construção de Belo Monte e há mais de 10 anos não dá licença pra perfuração na Foz, aguardando estudos/projetos das petroleiras.Trabalhei em área q necessitava Licença ambiental para operação. Era sofrível, Ibama, conama, etc, são rígidos. Menos ecoochatice!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T14:25:22.726Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:njz3tp3x6mvgtfgpvyjpwptf/app.bsky.feed.post/3l55ogea7oq2q",
+            "cid": "bafyreigqt7b5tywxbt2wy4dtgifncmeqaruttcyw2f2qjrwm6hxbrjnski",
+            "author": {
+                "did": "did:plc:njz3tp3x6mvgtfgpvyjpwptf",
+                "handle": "caiospechoto.bsky.social",
+                "displayName": "Caio Spechoto",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:njz3tp3x6mvgtfgpvyjpwptf/bafkreihjhhlbww3jgtvedv3xqugmnmsjscvwfeybprmwkv77y2x6l6xxki@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T19:29:41.223Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T17:22:11.068Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Governadores criticam ação do governo no combate às queimadas; Caiado é o mais enfático",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie7bdhq3wcqxo3tsh5jwfa7pmzhcemuz3sm3dzjrawzuypxpbsdt4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 636776
+                        },
+                        "title": "Incêndios expõem desprestígio de conselho, e Planalto tenta contornar situação",
+                        "uri": "https://www.estadao.com.br/politica/coluna-do-estadao/incendios-expoem-desprestigio-de-conselho-e-planalto-tenta-contornar-situacao/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.estadao.com.br/politica/coluna-do-estadao/incendios-expoem-desprestigio-de-conselho-e-planalto-tenta-contornar-situacao/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 229
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A cúpula do governo Lula gostaria de articular as respostas aos incêndios por meio do Conselho Nacional do Meio Ambiente (Conama), mas não deu certo. Isso forçou o Executivo a trabalhar mais diretamente com os governadores:\n\nwww.estadao.com.br/politica/col..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.estadao.com.br/politica/coluna-do-estadao/incendios-expoem-desprestigio-de-conselho-e-planalto-tenta-contornar-situacao/",
+                    "title": "Incêndios expõem desprestígio de conselho, e Planalto tenta contornar situação",
+                    "description": "Governadores criticam ação do governo no combate às queimadas; Caiado é o mais enfático",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:njz3tp3x6mvgtfgpvyjpwptf/bafkreie7bdhq3wcqxo3tsh5jwfa7pmzhcemuz3sm3dzjrawzuypxpbsdt4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T17:22:11.068Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dn6dmqrsthwnulelpr2zldof/app.bsky.feed.post/3l4zleapkgt2b",
+            "cid": "bafyreib6tatylz5khoe7nufydflh236suhpifgziw3picl4wsfbzt6ypke",
+            "author": {
+                "did": "did:plc:dn6dmqrsthwnulelpr2zldof",
+                "handle": "johnutts.shy.cat",
+                "displayName": "Moon˳⁺⁎˚",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dn6dmqrsthwnulelpr2zldof/bafkreifdyp67eyf2ass4genlyh3ja2abkgoz5r6kifkz6k33ceta3e4yzi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T00:23:53.119Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T02:16:42.062Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreidtiim6hu74sgkgpb2jqmxq7n26kto6kltr7qgnszm47oxi3dhs3u",
+                        "uri": "at://did:plc:q7uweekszes3egx7xhkeuacc/app.bsky.feed.post/3l4ywt5e2qr26"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CONAMA 350"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:q7uweekszes3egx7xhkeuacc/app.bsky.feed.post/3l4ywt5e2qr26",
+                    "cid": "bafyreidtiim6hu74sgkgpb2jqmxq7n26kto6kltr7qgnszm47oxi3dhs3u",
+                    "author": {
+                        "did": "did:plc:q7uweekszes3egx7xhkeuacc",
+                        "handle": "sweetiehaiz.bsky.social",
+                        "displayName": "I have questions for you ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q7uweekszes3egx7xhkeuacc/bafkreiez4gvpmp3c4rjhlwputilpmzcssjzn5a6kmdda3rb3wwcfkqjxiu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-13T20:03:18.310Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-25T20:09:14.450Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreidpgfd7qf4f2bkvexs7qh3zj76ph65rguykaxkedtqkciajh7pjvu",
+                                "uri": "at://did:plc:q7uweekszes3egx7xhkeuacc/app.bsky.feed.post/3l4ywshqzcy27"
+                            },
+                            "root": {
+                                "cid": "bafyreiahdmboxhbsw25bytsxxcqo2helqa4qum4z5rwfkicehed7ts6fcy",
+                                "uri": "at://did:plc:q7uweekszes3egx7xhkeuacc/app.bsky.feed.post/3l4ywq35tw62r"
+                            }
+                        },
+                        "text": "3. Qual foi a última coisa que você pesquisou no Google?"
+                    },
+                    "labels": [],
+                    "likeCount": 141,
+                    "replyCount": 1,
+                    "repostCount": 0,
+                    "quoteCount": 1268,
+                    "indexedAt": "2024-09-25T20:09:14.450Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T02:16:42.062Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bbuc6crilkfz7wsydqsgkc3r/app.bsky.feed.post/3l4tsbhbdob26",
+            "cid": "bafyreiaca4h7cptjghuik3wlcndruhbgqbuqy52vh2zlat3wthvsqsfbty",
+            "author": {
+                "did": "did:plc:bbuc6crilkfz7wsydqsgkc3r",
+                "handle": "deixaeudormir.bsky.social",
+                "displayName": "deixaeudormir ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bbuc6crilkfz7wsydqsgkc3r/bafkreigmals5udpcwwd5c6udtkoltghsodmpejq6suabjedzpqo7dnvmde@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T13:49:09.104Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T19:04:26.853Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigjypwwxrskiwv3stf3doiazxm5e67fnro22itfp4ldn3rla4mdrq",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4tp5n2lbk25"
+                    },
+                    "root": {
+                        "cid": "bafyreiej4epsyzf5ebuk2gglxpb42tn5wwf3sgg24kzgxvfnni5sfjah3i",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l4toosju5q2q"
+                    }
+                },
+                "text": "entendi, bicho. já tinha visto esse portal antes, mas não entendi como os dados (e que dados) eram validados para calcular o IQA. até pq o índice varia de país para país (e no caso do Brasil até de estado para estado, a CETESB calcula o próprio e muitos estados só replicam tendo como base a CONAMA)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T19:04:26.853Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l4ok5vliam2r",
+            "cid": "bafyreickiezmx3igbvibdvugjcadkvkvr5gynl244kqk4e3yt3wcnfc6eq",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T16:55:59.679Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieciytusmellrtgn4oslbjjymbag2v42fzwdhlwzpxdsgth4vbtj4",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l4ok4vnn222m"
+                    },
+                    "root": {
+                        "cid": "bafyreignlw2f777encuragikxg37za6noigkqbtogjhy5zgjjo2yxdgwma",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3l4ojjuiwcx22"
+                    }
+                },
+                "text": "Durante sua gestão, outras crises foram enfrentadas, como o aparelhamento do Conselho Nacional do Meio Ambiente (Conama), a paralisação do Fundo Amazônia"
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T16:55:59.679Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m6zxfyu5x5i2b6btrm45kpbu/app.bsky.feed.post/3l4gzsq5bxt25",
+            "cid": "bafyreign5efrqfwr3sisrswhn7s5xckwfn7lp4a6garausfcahoofzpfgy",
+            "author": {
+                "did": "did:plc:m6zxfyu5x5i2b6btrm45kpbu",
+                "handle": "aparitonia.bsky.social",
+                "displayName": "Inês das Cunhãs ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m6zxfyu5x5i2b6btrm45kpbu/bafkreig5f64lby5griggamvzurnyuge2thmefiwzj5upnmd4jf4dd6mkvu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T18:09:42.032Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T17:14:45.489Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Senador Fabiano Contarato diz do que deveria ser dito todo dia,crimes do governo do BolsoCoiso contra o meio ambiente.Quis acabar o Ministério, acabou com a Sec. de Mudanças Climáticas,com plano de combate ao desmatamento e Depto. de Educação Ambiental.Perseguia membros do CONAMA e armou grileiros"
+            },
+            "replyCount": 2,
+            "repostCount": 6,
+            "likeCount": 18,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T17:14:45.489Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ztnd3pepex5bugllmah3l7x7/app.bsky.feed.post/3l4gxp3pr5b2s",
+            "cid": "bafyreihc6l5eff32bsp74d6pt5jesatkrk5ddbttqmty3f72fb5fcbqfj4",
+            "author": {
+                "did": "did:plc:ztnd3pepex5bugllmah3l7x7",
+                "handle": "blurrypilots.bsky.social",
+                "displayName": "ana ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ztnd3pepex5bugllmah3l7x7/bafkreigkjv7sp6agqxpdrnbe2yq2pc4b2dbmnyni4wsmpggsbvwrntsvaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:47:24.344Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T16:36:54.918Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "o site do conama q simplesmente decidiu n deixar a gnt baixar nenhum documento, e quer q a gnt faça análise de ar como assim?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T16:36:54.918Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s6ntah4kp5isetpg3aqtvxfe/app.bsky.feed.post/3l4epozm6gg2t",
+            "cid": "bafyreihetj4bpjes7cpkmwvuin7o5dphrkm7xyqbzg2z3ag3ek5ikf6yrm",
+            "author": {
+                "did": "did:plc:s6ntah4kp5isetpg3aqtvxfe",
+                "handle": "staintrain.bsky.social",
+                "displayName": "Gui ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s6ntah4kp5isetpg3aqtvxfe/bafkreibnrxs2cvvin6hhehcbz3nxatz4c3ypbslgygos7ktft5vr5yqft4@jpeg",
+                "labels": [
+                    {
+                        "src": "did:plc:s6ntah4kp5isetpg3aqtvxfe",
+                        "uri": "at://did:plc:s6ntah4kp5isetpg3aqtvxfe/app.bsky.actor.profile/self",
+                        "cid": "bafyreihmip6whmem6dgxzcycj27ar4iniz4pcl54rj6oxlktcvrxwxcazu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-02T14:27:57.206Z"
+                    }
+                ],
+                "createdAt": "2024-09-02T14:27:58.498Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T19:08:25.647Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajb6s33hasvosv3cjevvnuwlvjcitdjch4tszncwv4dmltbtqqoy",
+                        "uri": "at://did:plc:s6ntah4kp5isetpg3aqtvxfe/app.bsky.feed.post/3l4epksjl5x2s"
+                    },
+                    "root": {
+                        "cid": "bafyreiepq6i7dadvgf7kvyfsfswjf3ri46g5p6uelx6zmwnrtwrsqoqnii",
+                        "uri": "at://did:plc:dc2t4ajxngmuym3om5njlatc/app.bsky.feed.post/3l4bg7mppay2v"
+                    }
+                },
+                "text": "Criminalizava ONGs, reduzia a participação da sociedade civil, dos membros do CONAMA, proliferou aerotóxico, armou grileiro. Tanto que os deputados de oposição entraram com uma DPF, e que agora, no dia 3 de abril, o Supremo julgou, e julgou reconhecendo."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T19:08:25.647Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:i3yoikiqs2vg3xfqy4jni275/app.bsky.feed.post/3l4e6tho7232j",
+            "cid": "bafyreiegghq42ym22vak7abrirapm2udo25lbbtonaliy5fe7qop4npq4e",
+            "author": {
+                "did": "did:plc:i3yoikiqs2vg3xfqy4jni275",
+                "handle": "ecycle.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreihu4qpzq7keaploezjvnxhe6mk26j2c7nv6zzugxyaxgb7szvcsoa@jpeg",
+                "labels": [],
+                "createdAt": "2024-07-18T19:15:05.373Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T14:06:42.200Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "As cores das lixeiras de reciclagem auxiliam na correta separação de resíduos, facilitam a coleta seletiva e incentivam a prática de reciclagem.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiesemfbissn2alpbvw32b7jltshokwd2i6k7ux7y3nkxmalp3ttsy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 362006
+                        },
+                        "title": "Qual é a importância das cores das lixeiras de reciclagem?",
+                        "uri": "https://www.ecycle.com.br/cores-das-lixeiras-de-reciclagem/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Conselho Nacional do Meio Ambiente (Conama) estabeleceu, em 2001, o código de cores das lixeiras de reciclagem. Esse código define uma cor para cada tipo de resíduo, com o objetivo de padronizar a identificação dos coletores e facilitar a identificação dos materiais."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ecycle.com.br/cores-das-lixeiras-de-reciclagem/",
+                    "title": "Qual é a importância das cores das lixeiras de reciclagem?",
+                    "description": "As cores das lixeiras de reciclagem auxiliam na correta separação de resíduos, facilitam a coleta seletiva e incentivam a prática de reciclagem.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3yoikiqs2vg3xfqy4jni275/bafkreiesemfbissn2alpbvw32b7jltshokwd2i6k7ux7y3nkxmalp3ttsy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T14:06:42.200Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hsuqxdag6uvowa6fkiul72hl/app.bsky.feed.post/3l4722mxiq62a",
+            "cid": "bafyreihcigmgtz2al7dxsj6zkmuwql2hvjwmg7tflsmzdu657xbp5tsvha",
+            "author": {
+                "did": "did:plc:hsuqxdag6uvowa6fkiul72hl",
+                "handle": "chegandonomato.bsky.social",
+                "displayName": "Euzin",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hsuqxdag6uvowa6fkiul72hl/bafkreiaghofns6kmlvy6p4hhgy3areuwtfr2yki7yopjy7iapsygk3c2o4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T03:21:43.699Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T12:57:52.695Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicq5t4jyhooin3o5hlkiok42yla4m4smaqgeixdjx2vmewhnecl3i",
+                        "uri": "at://did:plc:xohfq4um57iafqxxsmtkjhr2/app.bsky.feed.post/3l46znwo3ps26"
+                    },
+                    "root": {
+                        "cid": "bafyreic5rkalbfgn3t6rhaqsu33g26ll43eru5mxxdxdjv3nq5vgfd54cq",
+                        "uri": "at://did:plc:vfwb3qvgj5cef6j3nybcloip/app.bsky.feed.post/3l46ksfiumu2h"
+                    }
+                },
+                "text": "Ledo engano. Até a aprovação da resolução 429 do CONAMA, em 2011, o agro exportador metia fogo legalmente em seus plantios, especialmente de cana, por pura cultura de manejo e mesmo tendo acesso a essa tec de ponta. Os incêndios têm origem criminosa em sua maior parte, como foi no Dia do Fogo (2019)"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T12:57:52.695Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:av55bjpkiza4byehpakhchlj/app.bsky.feed.post/3l44uxbb67p2v",
+            "cid": "bafyreiaayc3wrg3xxtfoj2lq2hqo4w5rj5f3nfl7qvzqhnvwon2k3eumpa",
+            "author": {
+                "did": "did:plc:av55bjpkiza4byehpakhchlj",
+                "handle": "radbiomedico.bsky.social",
+                "displayName": "Raphael Fonseca Torcedor do Botafogo de Futebol e Regatas 🔥",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:av55bjpkiza4byehpakhchlj/bafkreicubcefb55dykbqnnolux66pbtoiexssyqskagnd65kwpamocbg2u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T16:51:08.606Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T16:21:12.417Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "O gerenciamento dos resíduos de serviços de saúde (GRSS), anteriormente à criação da Anvisa, era regulamentado somente por resolução do Conselho Nacional do Meio Ambiente (CONAMA)."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T16:21:12.417Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l42qgyvjs325",
+            "cid": "bafyreic2mkdrg72dgo6et6gvkcyogr2jwlvq5hsoxawrrpdh5ax2dn5fri",
+            "author": {
+                "did": "did:plc:chxh7kylpevc54gagcu6wac3",
+                "handle": "analubueno.bsky.social",
+                "displayName": "Ana Lucia ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreicgfw6dcm4nydr7i44sgxheq6dds7zxunenyebqyieaq5y7vrdl5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T04:00:01.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T19:55:12.860Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreic2m6d5h2blvizrc6zrro7ou3vf6l6zcvnuuwhp7icskzl4jmbmqu",
+                        "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l42qesrn5x2i"
+                    },
+                    "root": {
+                        "cid": "bafyreiez2kcv67fnp2zpywronaum5ewgy45gjr24a7cxhxtdo5z4sywk5q",
+                        "uri": "at://did:plc:3zneh2xbrjwm5yqbnksbjzye/app.bsky.feed.post/3l42q7scwpp2a"
+                    }
+                },
+                "text": "E o CONAMA já tinha sido implementado pelo Lula. Que foi um super avanço."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T19:55:12.860Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3z4vrpudi2f",
+            "cid": "bafyreifwmtcwnnt46dda5pub7wzavezi2b52wxbgeusbfdapvfiv7hy6xy",
+            "author": {
+                "did": "did:plc:chxh7kylpevc54gagcu6wac3",
+                "handle": "analubueno.bsky.social",
+                "displayName": "Ana Lucia ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreicgfw6dcm4nydr7i44sgxheq6dds7zxunenyebqyieaq5y7vrdl5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T04:00:01.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T04:32:53.773Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1309,
+                                "width": 917
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigdqg7445u54n6iwnllw5wylh5igopk3vu4rxx7rrgsuxqqrxahwq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 747063
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihzc4vbh3ugv562x3dgelxshpbfldu7zjtsizomseb55iyd7r64de",
+                        "uri": "at://did:plc:oveptto4meyw4vsgmyoyh66a/app.bsky.feed.post/3l3xsadj3bk2t"
+                    },
+                    "root": {
+                        "cid": "bafyreialyiq3dvnyvwi3chafpw5v52vwhpdyz26zkfplmzodqnmmzepvwe",
+                        "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3wc4lq67s2x"
+                    }
+                },
+                "text": "Pelo o que li, ainda não foi mexido. Eles alterarão todo licenciamento ambiental. Sem técnicos. Detonaram o CONAMA"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreigdqg7445u54n6iwnllw5wylh5igopk3vu4rxx7rrgsuxqqrxahwq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreigdqg7445u54n6iwnllw5wylh5igopk3vu4rxx7rrgsuxqqrxahwq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1309,
+                            "width": 917
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T04:32:53.773Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:htfacwaggvhgjyopizzyt4u5/app.bsky.feed.post/3l3yhxlyxpn22",
+            "cid": "bafyreid2wfcgumyspe5vk6q7w2iyajfcxmnjolgtdqx5txl3of5mgwaepq",
+            "author": {
+                "did": "did:plc:htfacwaggvhgjyopizzyt4u5",
+                "handle": "lorenstruck.bsky.social",
+                "displayName": "(cadê o) lolo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:htfacwaggvhgjyopizzyt4u5/bafkreicp5kcvagqt2n7uvhskwbdfflriuga266yzmwozsthchjsz32etfq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T23:09:00.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T22:18:06.055Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "será q precisa imprimir esse bagulho do conama 🫧🫧🫧🫧🫧"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T22:18:06.055Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l3y7j5j2l32t",
+            "cid": "bafyreid2ofusr4tyqyuhwbd26fifpoloxowsrrcrhtygf2cbquatt36xre",
+            "author": {
+                "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                "handle": "daniambiental.bsky.social",
+                "displayName": "daniambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-24T15:56:30.913Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T19:46:51.684Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "\n   L14850\n  ",
+                        "uri": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14850.htm"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14850.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 315,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigegk3o3sfb6vpdvnx6lhhp5554ly34ln6c7ctc6bpliqbytswxly",
+                        "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l3y76xmcry2h"
+                    },
+                    "root": {
+                        "cid": "bafyreia43odf5tzehp2jaqa3updrf2k27vzzaeoiyoo2rw5texvw35r3ci",
+                        "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l3y6ugmpnl2t"
+                    }
+                },
+                "text": "Municípios contribuirão p elaboração do inventário estadual d emissões atm c info sob circulação de veículos em seus territórios e outras fontes d emissão, qdo demandados pelo órgão ambiental ESTADUAL.\n\nCONAMA NOVA Nº 491 de 19-11-2018\npadrões de qualidade do ar. \nwww.planalto.gov.br/ccivil_03/_a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14850.htm",
+                    "title": "\n   L14850\n  ",
+                    "description": ""
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T19:46:51.684Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3l3y6ugmpnl2t",
+            "cid": "bafyreia43odf5tzehp2jaqa3updrf2k27vzzaeoiyoo2rw5texvw35r3ci",
+            "author": {
+                "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                "handle": "daniambiental.bsky.social",
+                "displayName": "daniambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-24T15:56:30.913Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T19:35:16.180Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "edital coloca nas referências resolução CONAMA de 1990 REVOGADA em 2018 !!! PQP.\nFiz fichamento dessa coisa. Podem recorrer? \n\nParte boa. Li os 2. A competência de qualidade do ar está melhor dividida.\n\nCulpe SEU GOVERNADOR DO ESTADO pela má qualidade do AR (desde 1999) e inclua União (desde 2018)."
+            },
+            "replyCount": 3,
+            "repostCount": 7,
+            "likeCount": 25,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-12T19:35:16.180Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3y4kttjvn2k",
+            "cid": "bafyreib7mugakpdvvvk6wp6t4n4yqdrdzos4fwkwrra7niw4mluyirwrom",
+            "author": {
+                "did": "did:plc:chxh7kylpevc54gagcu6wac3",
+                "handle": "analubueno.bsky.social",
+                "displayName": "Ana Lucia ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreicgfw6dcm4nydr7i44sgxheq6dds7zxunenyebqyieaq5y7vrdl5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T04:00:01.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T18:54:06.990Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidoxgkubnphzn76vzsauy37gulj3pcjm3t5juf5ysicuislj7vgoy",
+                        "uri": "at://did:plc:bce5w6lgnq5gxj4q5sdoet4q/app.bsky.feed.post/3l3xxpdacxm2p"
+                    },
+                    "root": {
+                        "cid": "bafyreigxhty4gyo37dchs5fsb5lcybcbrn4e3n3y5kbxzhwjkrzmcfdtpa",
+                        "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3wcnj32ir27"
+                    }
+                },
+                "text": "Está no CONAMA."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T18:54:06.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3wavgqsop2a",
+            "cid": "bafyreiafxqpbkcnmuhfruhejya4wswpqeqwvp4myxx4dqy4mo6mrmlvxvu",
+            "author": {
+                "did": "did:plc:chxh7kylpevc54gagcu6wac3",
+                "handle": "analubueno.bsky.social",
+                "displayName": "Ana Lucia ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreicgfw6dcm4nydr7i44sgxheq6dds7zxunenyebqyieaq5y7vrdl5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T04:00:01.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:06:17.842Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidkmwwkok7kp7ccrwhkdymlzkhusajrkrfreqihenwzmbqpzyqc5a",
+                        "uri": "at://did:plc:7nqddesbiytbnbchrtxw267a/app.bsky.feed.post/3l3watr6gvz2t"
+                    },
+                    "root": {
+                        "cid": "bafyreidkmwwkok7kp7ccrwhkdymlzkhusajrkrfreqihenwzmbqpzyqc5a",
+                        "uri": "at://did:plc:7nqddesbiytbnbchrtxw267a/app.bsky.feed.post/3l3watr6gvz2t"
+                    }
+                },
+                "text": "E vamos lembrar do desmanche do CONAMA!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T01:06:17.842Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lk4amkbve6pjzcbkydihxs4y/app.bsky.feed.post/3l3u6olpdcn2c",
+            "cid": "bafyreictnicklab2mpnxtfnalllkn6xlducggi4shrqiwzi75mru6uyjdm",
+            "author": {
+                "did": "did:plc:lk4amkbve6pjzcbkydihxs4y",
+                "handle": "putaemeiga.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lk4amkbve6pjzcbkydihxs4y/bafkreibhwvy2mmuxcf6ziabokjosorscdrql7s6ofsxzdmbvvgegsq7oau@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:32:01.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T05:21:19.821Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreia2qxuo2tvt2qklm6h7yoycignyosvpneq33tuq3a4v5rip5r6kya",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3tkc3ud7n2w"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "fortalecer o CONAMA e o ministero do meio ambiente q eh bom nada ne, em vez de parar de precarizar o ibama e o icmbio sai fazendo mais orgao tomar no cu porraaaaaa"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3l3tkc3ud7n2w",
+                    "cid": "bafyreia2qxuo2tvt2qklm6h7yoycignyosvpneq33tuq3a4v5rip5r6kya",
+                    "author": {
+                        "did": "did:plc:a5o5pa6imrd52s627zq63zgz",
+                        "handle": "lula.com.br",
+                        "displayName": "Lula",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5o5pa6imrd52s627zq63zgz/bafkreiaoo5jearluynpx6fcvng3aq4xrksjc4mbacifhpbig7zsc6vxq5q@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-11T23:10:57.577Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-10T23:16:26.745Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Encaminharei ao Congresso uma Medida Provisória criando o estatuto jurídico da Emergência Climática, para acelerar políticas públicas de enfrentamento aos extremos climáticos. Estabeleceremos uma Autoridade Climática e um comitê técnico científico que dê suporte as ações do governo federal."
+                    },
+                    "labels": [],
+                    "likeCount": 19211,
+                    "replyCount": 1082,
+                    "repostCount": 2095,
+                    "quoteCount": 848,
+                    "indexedAt": "2024-09-10T23:16:26.745Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T05:21:19.821Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xiobms2ql63gipfkk5ft3oyc/app.bsky.feed.post/3l3tmxvxyrl2y",
+            "cid": "bafyreicxqvf35nfhdnyqfprleqjmlswmxxc2ylhnlzicvqrhvpkzcdbwle",
+            "author": {
+                "did": "did:plc:xiobms2ql63gipfkk5ft3oyc",
+                "handle": "cesarfernandes.bsky.social",
+                "displayName": "cesinha",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xiobms2ql63gipfkk5ft3oyc/bafkreid5q75hug37ayn7fjl3tgw5mxkc4cnlidvgzjmtqs53zgrdfzabfe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-29T14:22:10.016Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T00:04:26.005Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiex5oglmmw5pam3jw3raksnr4qvz5imbveyt2jb5v3mdzqmihdxfq",
+                        "uri": "at://did:plc:pegygotbj5omcbg6epzloqaa/app.bsky.feed.post/3l3tmn35cxl2t"
+                    },
+                    "root": {
+                        "cid": "bafyreiex5oglmmw5pam3jw3raksnr4qvz5imbveyt2jb5v3mdzqmihdxfq",
+                        "uri": "at://did:plc:pegygotbj5omcbg6epzloqaa/app.bsky.feed.post/3l3tmn35cxl2t"
+                    }
+                },
+                "text": "tipo um ministério do meio ambiente? e um conama fortalecido?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T00:04:26.005Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7oxlthk2f",
+            "cid": "bafyreiedupu6nhsrzzydiqdpppiv3bivydft7tavjwnsnq47tc2s7xwrn4",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T20:06:48.068Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidxvaubmp2oox2welqv5etr5ylsm7audqw2jcwlqoxplxi6wwqgfy",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7olpjll23"
+                    },
+                    "root": {
+                        "cid": "bafyreialpd5j42o24amjvanqf6kywupdl2dby2oagow3w7xsvaxna6pame",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7ndcokb2u"
+                    }
+                },
+                "text": "Eles tiraram até a proteção de restingas e manguezais, e o Fórum dos Ex-Ministros do Meio Ambiente — que conta comigo, Marina Silva, Izabella Teixeira e vários outros — teve que ir até a ministra do STF Carmen Lúcia, para ela anular uma decisão ilegal de um Conama esvaziado."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T20:06:48.068Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7olpjll23",
+            "cid": "bafyreidxvaubmp2oox2welqv5etr5ylsm7audqw2jcwlqoxplxi6wwqgfy",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T20:06:35.601Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiad5phdg6qtgasg5ogsdzsogm7zisxipqtrz6g3wiapfqym3xpnpu",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7nwrzod2t"
+                    },
+                    "root": {
+                        "cid": "bafyreialpd5j42o24amjvanqf6kywupdl2dby2oagow3w7xsvaxna6pame",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3l3t7ndcokb2u"
+                    }
+                },
+                "text": "Como o bolsonarismo e o ex-sinistro Salles conseguiram esvaziar o Ministério do Meio Ambiente, os quadros do ICMBio, do Ibama, os recursos do ministério e a organização ambiental no Conama (Conselho Nacional do Meio Ambiente)?"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T20:06:35.601Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hg7lbzzaooreoehoph67bc6y/app.bsky.feed.post/3l3sg57hdgw2j",
+            "cid": "bafyreignpy3mznntulldzew54d2qlis2mtororgngmji3ofdrve3jceqdm",
+            "author": {
+                "did": "did:plc:hg7lbzzaooreoehoph67bc6y",
+                "handle": "kakauero.bsky.social",
+                "displayName": "Brenda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hg7lbzzaooreoehoph67bc6y/bafkreifd62vrqe52s5xvo5ndslmkovb4xipa3lyzqw3czmgzc6ydaizo7a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:28:03.437Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T12:29:28.804Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifbokriknujenpgyp5u7nl7csk6m23z4cmjcxm5beubsnvjorcydq",
+                        "uri": "at://did:plc:hg7lbzzaooreoehoph67bc6y/app.bsky.feed.post/3l3sg2xdezg27"
+                    },
+                    "root": {
+                        "cid": "bafyreib3jtdyx2mro6lf7yfosvtg3pegqmqmww3y2lnul4hrtrzadrd5hm",
+                        "uri": "at://did:plc:hg7lbzzaooreoehoph67bc6y/app.bsky.feed.post/3l3sfq5vlbk2t"
+                    }
+                },
+                "text": "Desatualizados os níveis para considerar um episódio crítico, enquanto a OMS recomenda uma coisa seguimos outra… estamos seguindo uma padrão de 2005 e nem foi implementado ainda segundo as discussões do CONAMA. Enquanto a população adoece…"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T12:29:28.804Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chxh7kylpevc54gagcu6wac3/app.bsky.feed.post/3l3lzqs6gww2t",
+            "cid": "bafyreicnsjbl5375qcm5vri3q7ulr5iv6y4o5xyc7x2ew2wc4jbeumzbga",
+            "author": {
+                "did": "did:plc:chxh7kylpevc54gagcu6wac3",
+                "handle": "analubueno.bsky.social",
+                "displayName": "Ana Lucia ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chxh7kylpevc54gagcu6wac3/bafkreicgfw6dcm4nydr7i44sgxheq6dds7zxunenyebqyieaq5y7vrdl5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T04:00:01.579Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T23:31:48.458Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidb3je4ikrvxehkraef6j6veixaforwacbrlxg3ui7njmaxh2hzei",
+                        "uri": "at://did:plc:m37cimix7msq7qit4ljp4twe/app.bsky.feed.post/3l3lznosp442h"
+                    },
+                    "root": {
+                        "cid": "bafyreidb3je4ikrvxehkraef6j6veixaforwacbrlxg3ui7njmaxh2hzei",
+                        "uri": "at://did:plc:m37cimix7msq7qit4ljp4twe/app.bsky.feed.post/3l3lznosp442h"
+                    }
+                },
+                "text": "Estou completamente revoltada. E ainda desmontaram o CONAMA"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T23:31:48.458Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmb3hc56t4iaxrfsvn4i4a6v/app.bsky.feed.post/3l3lvaku3kt2r",
+            "cid": "bafyreihdotcro6ckdiftmpvcjhqxb7y2gyewc7oibe2vejcfl4aa7ljr5a",
+            "author": {
+                "did": "did:plc:kmb3hc56t4iaxrfsvn4i4a6v",
+                "handle": "toninho2319.bsky.social",
+                "displayName": "Toninho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmb3hc56t4iaxrfsvn4i4a6v/bafkreig4rdqtw5qh2m6kaskpq7kmcyrf35lnxuglhjn7lqorpmfx35m7dm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-18T05:53:35.885Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T22:11:08.925Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifetufdytjsthviybqtnez5qwjura7jk64vsq5tpj6vs72j4d5jk4",
+                        "uri": "at://did:plc:hayccfenmetva3dzuihr4pju/app.bsky.feed.post/3l3lv55h6yu25"
+                    },
+                    "root": {
+                        "cid": "bafyreihjigby4g22yizp74klijkw7uwk3glew52mmlhzmygq4s44zm76fq",
+                        "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l3lqgcln4y2x"
+                    }
+                },
+                "text": "Difícil, mas necessário. IBAMA, ICMBIO e CONAMA não são suficientes para cuidar do manejo florestal e combate ao desmatamento. Os governadores e prefeitos têm responsabilidade CONSTITUCIONAL nessa história e são os culpados. De novo, cadê a cobrança ao Ibaneis e ao Tarcísio?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T22:11:08.925Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ki6l5aytcwnx3arat3dmlc25/app.bsky.feed.post/3l3j3vygc5a2c",
+            "cid": "bafyreidoqnkwsg273yjtriq7paywqjqf5xrb7mfxm42qip6taljzpz54my",
+            "author": {
+                "did": "did:plc:ki6l5aytcwnx3arat3dmlc25",
+                "handle": "brunobarreto7.bsky.social",
+                "displayName": "Bruno",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ki6l5aytcwnx3arat3dmlc25/bafkreiavhptmr74b5756ezh263nhcypywqjwrdystgtdbt5aadwf5tvqj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:33:04.204Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T19:32:31.036Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌳Qual são os principais órgãos do Sistema Nacional do Meio Ambiente (SISNAMA)?\n\n- Superior: Conselho de Governo\n- Consultivo: CONAMA\n- Central: Ministério do Meio Ambiente \n- Executores: IBAMA e Instituto Chico Mendes \n\n(Lei 6.938)"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T19:32:31.036Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3ves73kxe2xpby22j66qz22o/app.bsky.feed.post/3l3bem4c4gm2t",
+            "cid": "bafyreihtleqai5xu6ryu26byyu67q4uwkrghrncw4v4bsozsxb3kibltk4",
+            "author": {
+                "did": "did:plc:3ves73kxe2xpby22j66qz22o",
+                "handle": "kacoments.bsky.social",
+                "displayName": "Ka.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ves73kxe2xpby22j66qz22o/bafkreia6b66sqgccesq2rs3lmbmimcqrrjfvb45p2jxmcixxnmjx7mdkxa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:3ves73kxe2xpby22j66qz22o",
+                        "uri": "at://did:plc:3ves73kxe2xpby22j66qz22o/app.bsky.actor.profile/self",
+                        "cid": "bafyreiaatb3j2qz7auajp5m7fvq4ocvfvngquyvlfz6hh3e6e4m7zeqjnq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-08-29T00:24:52.512Z"
+                    }
+                ],
+                "createdAt": "2024-08-29T00:24:53.920Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T17:46:45.217Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eu deveria estar estudando, deveria… Resoluções do Conama me aguardam, mas eu tomei remédio e como já não é novidade estou aqui piscando na frente do computador 😅"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T17:46:45.217Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3kv5spiqvlc2i",
+            "cid": "bafyreih3o7ukfdfopie25eqpcqanbrvmuxgn3cfku5q3swngydll5gqczm",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreifcz5ccqj6aodu4vpkygfdbdlv7da4guwofkroeijqln4hacl6skm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-17T23:17:22.706Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigsbkcbc6t4zpjvsccsw3bynza2kjvq7chumxpy3oe6uppxxhgqeq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 707798
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://trk.ebc.com.br/h7FGG"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 258
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅ NOVOS PADRÕES\n\nA qualidade do ar será monitorada e terá que se adequar à proteção da saúde da população e do meio ambiente em todo o Brasil. Um calendário organizado pelo Conselho Nacional do Meio Ambiente (Conama)…\n\nLeia na Agência Brasil: trk.ebc.com.br/h7FGG"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigsbkcbc6t4zpjvsccsw3bynza2kjvq7chumxpy3oe6uppxxhgqeq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreigsbkcbc6t4zpjvsccsw3bynza2kjvq7chumxpy3oe6uppxxhgqeq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-17T23:17:22.706Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6z2rokvk2l",
+            "cid": "bafyreifiwhdcacz6qtnovsrmtl2aswtblhvojmebwcwlqit7gtu6ykfxwi",
+            "author": {
+                "did": "did:plc:a5o5pa6imrd52s627zq63zgz",
+                "handle": "lula.com.br",
+                "displayName": "Lula",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5o5pa6imrd52s627zq63zgz/bafkreiaoo5jearluynpx6fcvng3aq4xrksjc4mbacifhpbig7zsc6vxq5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:10:57.577Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T17:18:32.173Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieb7f3lrffkujqqbzhruilosi43bsef2akfemhjqcv47banakbxtu",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6z2ngu4z2r"
+                    },
+                    "root": {
+                        "cid": "bafyreibht2y4ppswpvsli5m7oad6clfirto6p5fnjjituy6vm2743dwjlu",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6yv6oquc22"
+                    }
+                },
+                "text": "- Restituição e recomposição dos colegiados de participação social, como o Conselho Nacional do Meio Ambiente (CONAMA) e retomada das Conferência Nacional de Meio Ambiente (2024 e 2025)."
+            },
+            "replyCount": 1,
+            "repostCount": 34,
+            "likeCount": 170,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T17:18:32.173Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ktuw76xixs2n",
+            "cid": "bafyreic2jfgpuqtqf4w4riu54wgtylldn5jsbusb642wb5h5xh2mtuyhty",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-01T17:00:39.937099Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Areia Preta está imprópria para banho há mais de um ano. Praias da cidade registraram aumento do nível de poluição nas últimas semanas. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihfsismwqtit6shofktsnqiufsbqa4wfr3qsdjgrvuemkpqhgg6gi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 129674
+                        },
+                        "title": "Praia de Natal registra 92 vezes mais coliformes fecais na água que o limite aceito pelo Conama, aponta boletim de balneabilidade",
+                        "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/06/01/praia-de-natal-registra-92-vezes-mais-coliformes-fecais-na-agua-que-o-limite-aceito-pelo-conama-aponta-boletim-de-balneabilidade.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Praia de Natal registra 92 vezes mais coliformes fecais na água que o limite aceito pelo Conama, aponta boletim de balneabilidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2024/06/01/praia-de-natal-registra-92-vezes-mais-coliformes-fecais-na-agua-que-o-limite-aceito-pelo-conama-aponta-boletim-de-balneabilidade.ghtml",
+                    "title": "Praia de Natal registra 92 vezes mais coliformes fecais na água que o limite aceito pelo Conama, aponta boletim de balneabilidade",
+                    "description": "Areia Preta está imprópria para banho há mais de um ano. Praias da cidade registraram aumento do nível de poluição nas últimas semanas. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihfsismwqtit6shofktsnqiufsbqa4wfr3qsdjgrvuemkpqhgg6gi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-01T17:00:39.937Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kesiv7rght2q",
+            "cid": "bafyreidgojy2xrfrw7gdqukljf5lxhqbmwa5kheugxck67mze5ywlp6cfa",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-22T20:39:13.566Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Processo disparado em maio responde à desestruturação imposta no governo anterior e deve seguir até março de 2024",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiesqz6idvrgt7pgg3kt337kctbolc67yd6t5rety5wnqqnypwem3e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 474719
+                        },
+                        "title": "Composição e operação do Conama serão debatidos amanhã, em Brasília - ((o))eco",
+                        "uri": "https://oeco.org.br/salada-verde/composicao-e-operacao-do-conama-serao-debatidos-amanha-em-brasilia/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/salada-verde/composicao-e-operacao-do-conama-serao-debatidos-amanha-em-brasilia/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 202
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Composição e operação do Conama serão debatidos amanhã, em Brasília ⬇️\n\nProcesso disparado em maio responde à desestruturação imposta no governo anterior e deve seguir até março de 2024\noeco.org.br/salada-verde..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/salada-verde/composicao-e-operacao-do-conama-serao-debatidos-amanha-em-brasilia/",
+                    "title": "Composição e operação do Conama serão debatidos amanhã, em Brasília - ((o))eco",
+                    "description": "Processo disparado em maio responde à desestruturação imposta no governo anterior e deve seguir até março de 2024",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreiesqz6idvrgt7pgg3kt337kctbolc67yd6t5rety5wnqqnypwem3e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-22T20:39:13.566Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3b4rbnmwheekyduaw6ppdfe5/app.bsky.feed.post/3kdpm3bryp22g",
+            "cid": "bafyreialsou2l4dobia66otbfjpn3tm5765f2sgsmnhutbg7fxl5iqyssa",
+            "author": {
+                "did": "did:plc:3b4rbnmwheekyduaw6ppdfe5",
+                "handle": "valborgsil.bsky.social",
+                "displayName": "🐾 𝗩𝗮𝗹eria 𝗕𝗼𝗿𝗴es 🐾 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3b4rbnmwheekyduaw6ppdfe5/bafkreih67yvo7voqhirahpf24ntk2ftsa62ty32itfajezz3sx4i2ualle@jpeg",
+                "labels": [
+                    {
+                        "src": "did:plc:3b4rbnmwheekyduaw6ppdfe5",
+                        "uri": "at://did:plc:3b4rbnmwheekyduaw6ppdfe5/app.bsky.actor.profile/self",
+                        "cid": "bafyreif3ro3cf5ldnmfa267nobrxowlddp3xjw2pjaqupju6wpo56xlg4a",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-09-16T12:46:09.719Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-08T23:33:08.607Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Vaso de xaxim com o seguinte texto abaixo: \"Atualmente, a extração, a industrialização e a comercialização, são proibidas por lei, pela resolução Conama nº 278, de 24 de maio de 2001.\" 10 de set. de 2021",
+                            "aspectRatio": {
+                                "height": 689,
+                                "width": 488
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicwbndachwijjadvd2v2rrz5v5tperqhhhjhnn2ztycwnaijmcgim"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 189310
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.infraestruturameioambiente.sp.gov.br/educacaoambiental/prateleira-ambiental/xaxim"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 177,
+                            "byteStart": 92
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiayvt7w4ezauvrqwjoaomgvqzjv2jmqohebfey7lom254ja5klaoa",
+                        "uri": "at://did:plc:gq76biq5t5ldvq4ipfcv5p3g/app.bsky.feed.post/3kdpjczftz42v"
+                    },
+                    "root": {
+                        "cid": "bafyreiayvt7w4ezauvrqwjoaomgvqzjv2jmqohebfey7lom254ja5klaoa",
+                        "uri": "at://did:plc:gq76biq5t5ldvq4ipfcv5p3g/app.bsky.feed.post/3kdpjczftz42v"
+                    }
+                },
+                "text": "Que eu saiba, o uso de xaxim tá proibido. Agora se usa vaso com fibra de côco, né não?\n\nwww.infraestruturameioambiente.sp.gov.br/educacaoambiental/prateleira-ambiental/xaxim"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3b4rbnmwheekyduaw6ppdfe5/bafkreicwbndachwijjadvd2v2rrz5v5tperqhhhjhnn2ztycwnaijmcgim@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3b4rbnmwheekyduaw6ppdfe5/bafkreicwbndachwijjadvd2v2rrz5v5tperqhhhjhnn2ztycwnaijmcgim@jpeg",
+                        "alt": "Vaso de xaxim com o seguinte texto abaixo: \"Atualmente, a extração, a industrialização e a comercialização, são proibidas por lei, pela resolução Conama nº 278, de 24 de maio de 2001.\" 10 de set. de 2021",
+                        "aspectRatio": {
+                            "height": 689,
+                            "width": 488
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-08T23:33:08.607Z",
+            "labels": []
+        }
+    ]
+}

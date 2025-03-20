@@ -1,0 +1,2851 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:334j4zt2dd6taq2lbhj7r6pq/app.bsky.feed.post/3lbztbbtbfk23",
+            "cid": "bafyreibi4ehlxmacciitybsvq2sczyzapbh6k5ggil2guhpcrkxia24qiq",
+            "author": {
+                "did": "did:plc:334j4zt2dd6taq2lbhj7r6pq",
+                "handle": "pesquisafapesp.bsky.social",
+                "displayName": "Revista Pesquisa FAPESP ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:334j4zt2dd6taq2lbhj7r6pq/bafkreifwpmya6auumbr6o3stilvisdwf3bgzbqvv5gtwgmo6nqdhdsdadm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-05T23:02:56.932Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-28T19:44:12.230Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Sob o sol intenso do meio da tarde do início de novembro, o biólogo Helder Araujo entra em um pomar com 102 pés de três espécies de pitaias (Hylocereus spp.), já com 2 metros (m) de altura e longos ra...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieqp45rqvrnhstoymk6grouakndf63yihw6qpb6hyxg3xxygysfei"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 448768
+                        },
+                        "title": "Cuidados com solo e vegetação recuperam vitalidade da Caatinga",
+                        "uri": "https://bit.ly/3Os8bnB"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3Os8bnB"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 79,
+                            "byteStart": 65
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cuidados com solo e vegetação recuperam vitalidade da Caatinga\nbit.ly/3Os8bnB"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bit.ly/3Os8bnB",
+                    "title": "Cuidados com solo e vegetação recuperam vitalidade da Caatinga",
+                    "description": "Sob o sol intenso do meio da tarde do início de novembro, o biólogo Helder Araujo entra em um pomar com 102 pés de três espécies de pitaias (Hylocereus spp.), já com 2 metros (m) de altura e longos ra...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:334j4zt2dd6taq2lbhj7r6pq/bafkreieqp45rqvrnhstoymk6grouakndf63yihw6qpb6hyxg3xxygysfei@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-28T19:44:15.551Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lqfimqp6nb4knlzadpqoiaeb/app.bsky.feed.post/3lbvekah67k2g",
+            "cid": "bafyreigcs7jrwpmfdy4cxan4xjzmdf6pa7ler6fu2brf7xcaiqovcg5tyu",
+            "author": {
+                "did": "did:plc:lqfimqp6nb4knlzadpqoiaeb",
+                "handle": "daniambiental.bsky.social",
+                "displayName": "daniambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreifeqxagz7owhxjoj4f64ui26uxnuewybpro7gjw4oe6kf2lszy5ku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-24T15:56:30.913Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-27T01:10:07.695Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Mineradora está localizada no município de Tremedal, no sudoeste baiano",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihughpmupzf7ruhj7t7ucw5rettb4ca5jyhwvrwmdqlnsgk34u2ky"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 431320
+                        },
+                        "title": "Mineradora baiana tem atividades suspensas por não apresentar licenciamento ambiental",
+                        "uri": "https://www.bnews.com.br/noticias/economia-e-mercado/bnews-mineracao-mineradora-baiana-tem-atividades-suspensas-apos-nao-apresentar-licenciamento-ambiental.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.bnews.com.br/noticias/economia-e-mercado/bnews-mineracao-mineradora-baiana-tem-atividades-suspensas-apos-nao-apresentar-licenciamento-ambiental.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 265
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mineradora baiana Raposa Ltda, no município de Tremedal, tem atividades suspensas por não apresentar licenciamento ambiental \nHouve supressão de vegetação nativa da caatinga e erosão na área de escavação, podendo prejudicar o açude dos espaços vizinhos.\nwww.bnews.com.br/noticias/eco..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bnews.com.br/noticias/economia-e-mercado/bnews-mineracao-mineradora-baiana-tem-atividades-suspensas-apos-nao-apresentar-licenciamento-ambiental.html",
+                    "title": "Mineradora baiana tem atividades suspensas por não apresentar licenciamento ambiental",
+                    "description": "Mineradora está localizada no município de Tremedal, no sudoeste baiano",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lqfimqp6nb4knlzadpqoiaeb/bafkreihughpmupzf7ruhj7t7ucw5rettb4ca5jyhwvrwmdqlnsgk34u2ky@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-27T01:10:09.059Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lm53imi45oktvhqe7ax3hiqi/app.bsky.feed.post/3lbd62tt7is22",
+            "cid": "bafyreifcrygr2jd5swhmagsxnix4fwchdn3tctzdnc5kxdwnwkflt6iequ",
+            "author": {
+                "did": "did:plc:lm53imi45oktvhqe7ax3hiqi",
+                "handle": "clickpb.bsky.social",
+                "displayName": "ClickPB | Seu portal de notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lm53imi45oktvhqe7ax3hiqi/bafkreifeqvulhqvklr7osvcd3vncwzyhnsve44iilbjpxppuhuj6hij45e@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T14:29:57.935Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T19:26:13.400Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O desmatamento ilegal aconteceu no município de São Francisco, no Sertão da Paraíba, em 2013, e resultou de ação civil pública movida pela Superintendência de Administração do Meio Ambiente (Sudema). ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigaewcnx457pmgbpjvvfphyqy6romd4gywuyrgrivoeysddzo2mvy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 557495
+                        },
+                        "title": "Fazendeiro é condenado a pagar R$ 24,2 mil por dano moral coletivo após desmatar vegetação de Caatinga na Paraíba",
+                        "uri": "https://www.clickpb.com.br/paraiba/fazendeiro-condenado-desmatar.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.clickpb.com.br/paraiba/fazendeiro-condenado-desmatar.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 153,
+                            "byteStart": 119
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fazendeiro é condenado a pagar R$ 24,2 mil por dano moral coletivo após desmatar vegetação de Caatinga na Paraíba\nwww.clickpb.com.br/paraiba/faze..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.clickpb.com.br/paraiba/fazendeiro-condenado-desmatar.html",
+                    "title": "Fazendeiro é condenado a pagar R$ 24,2 mil por dano moral coletivo após desmatar vegetação de Caatinga na Paraíba",
+                    "description": "O desmatamento ilegal aconteceu no município de São Francisco, no Sertão da Paraíba, em 2013, e resultou de ação civil pública movida pela Superintendência de Administração do Meio Ambiente (Sudema). ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lm53imi45oktvhqe7ax3hiqi/bafkreigaewcnx457pmgbpjvvfphyqy6romd4gywuyrgrivoeysddzo2mvy@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T19:26:28.473Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmfdeyaj5siyfu47nud56yw3/app.bsky.feed.post/3laqopd6zx22o",
+            "cid": "bafyreibjx7j67pgyqua4jcqgatrmrj4d3wgkrvdsgtfp42c6koalo5igi4",
+            "author": {
+                "did": "did:plc:zmfdeyaj5siyfu47nud56yw3",
+                "handle": "agenciaeconordeste.com.br",
+                "displayName": "Eco Nordeste",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreidjve7lwuhj6otmqrmi6vfkedixhf7zdsvqugep42rzg5d3atdveu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T18:02:01.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T11:03:25.426Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Card sobre foto. A imagem mostra uma mulher de cabelos grisalhos em pé ao ar livre em uma paisagem seca e rochosa com vegetação esparsa. A pessoa está vestindo uma camisa azul e carrega uma bolsa a tiracolo. Ao fundo, há colinas e um céu parcialmente nublado. A cena parece estar em uma região semiárida ou árida, possivelmente durante a estação seca, devido à vegetação marrom e seca. As bordas do card são verdes com linhas finas e orgânicas no canto superior esquerdo e inferior direito simulando folhas. Abaixo, à esquerda, numa tarja laranja com letras pretas, lê-se: 'BIODIVERSIDADE'. Logo abaixo, numa tarja amarela com letras pretas, 'Bióloga inicia, no Piauí, a criação do Museu da Caatinga'. Abaixo, a logo da ECO nordeste em tons de branco e verde.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigsa35m4yzzkw54ni6oow5ljgpdazmlerg6tprbshum6ehkyrz6y4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 285388
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/40Fyuh9"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 230,
+                            "byteStart": 216
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "arqueologia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 231
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 259,
+                            "byteStart": 244
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 260
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ciencia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 278,
+                            "byteStart": 270
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pesquisa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 288,
+                            "byteStart": 279
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "piaui"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 295,
+                            "byteStart": 289
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Este conteúdo compõe uma série do jornalista Flamínio Araripe em colaboração para a Eco Nordeste, fruto de uma  imersão na Serra da Capivara (PI), que abriga um patrimônio singular. | Foto: Flamínio Araripe\nbit.ly/40Fyuh9\n#arqueologia #biodiversidade #caatinga #ciencia #pesquisa #piaui"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreigsa35m4yzzkw54ni6oow5ljgpdazmlerg6tprbshum6ehkyrz6y4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreigsa35m4yzzkw54ni6oow5ljgpdazmlerg6tprbshum6ehkyrz6y4@jpeg",
+                        "alt": "Card sobre foto. A imagem mostra uma mulher de cabelos grisalhos em pé ao ar livre em uma paisagem seca e rochosa com vegetação esparsa. A pessoa está vestindo uma camisa azul e carrega uma bolsa a tiracolo. Ao fundo, há colinas e um céu parcialmente nublado. A cena parece estar em uma região semiárida ou árida, possivelmente durante a estação seca, devido à vegetação marrom e seca. As bordas do card são verdes com linhas finas e orgânicas no canto superior esquerdo e inferior direito simulando folhas. Abaixo, à esquerda, numa tarja laranja com letras pretas, lê-se: 'BIODIVERSIDADE'. Logo abaixo, numa tarja amarela com letras pretas, 'Bióloga inicia, no Piauí, a criação do Museu da Caatinga'. Abaixo, a logo da ECO nordeste em tons de branco e verde.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T11:03:28.616Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:26l5eizavw2bllt4rnn6mt27/app.bsky.feed.post/3laoc234eck2i",
+            "cid": "bafyreiaah6evqqpcrc5p2itrrestavyion2bkleqwgadlwtxez6444zjei",
+            "author": {
+                "did": "did:plc:26l5eizavw2bllt4rnn6mt27",
+                "handle": "webclora.bsky.social",
+                "displayName": "puta nakamoto(⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠ﾉ⁠*⁠✿⁠˖♡",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:26l5eizavw2bllt4rnn6mt27/bafkreihovqozou2rg75o5cmkumwyxyenzy5xd4s47qqkuklu6i75ezc52m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T14:59:04.103Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-11T12:11:27.947Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "que vontade de estar vendo uma montanha ao vivo com meus olhos... Uma montanha com vegetação...... I love you campo rupestre fitofisionomia do bioma caatinga"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-11T12:11:28.197Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6l3qsdr6pfvklryfr6x4x64w/app.bsky.feed.post/3lajjlrsakk2c",
+            "cid": "bafyreigbiogbufnpxx7i3tkgicobdgsqysooaykk4ctwng6nt7e33z6yiy",
+            "author": {
+                "did": "did:plc:6l3qsdr6pfvklryfr6x4x64w",
+                "handle": "shigarakitomura.bsky.social",
+                "displayName": "Clare",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6l3qsdr6pfvklryfr6x4x64w/bafkreia2ulhoguvmt2mrxh4peypa3aratcumi7kyy4zg3mmi3hm2r2ijey@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-01-29T21:01:00.490Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-09T14:43:19.659Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreiavotlb4x6nfkno3yjhlmabkdlci5dqm2b2ezfgmi5k2cjvclx6zq",
+                        "uri": "at://did:plc:xctmmb4ykw7lliddvxym2776/app.bsky.feed.post/3lajfhbb7uk2n"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Todo dia tendo que passar shampoo e ficando uns 5 minutos com touca na cabeça mesmo tendo um cabelo mais curto que vegetação da caatinga me deixa bem triste. Odeio banhos longos, mas não tenho escolha."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:xctmmb4ykw7lliddvxym2776/app.bsky.feed.post/3lajfhbb7uk2n",
+                    "cid": "bafyreiavotlb4x6nfkno3yjhlmabkdlci5dqm2b2ezfgmi5k2cjvclx6zq",
+                    "author": {
+                        "did": "did:plc:xctmmb4ykw7lliddvxym2776",
+                        "handle": "cavalcantev9.bsky.social",
+                        "displayName": "Cavalcante ⊬🐺",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xctmmb4ykw7lliddvxym2776/bafkreibiesjhxcjvf2jst3qwkzmar3v76wvzqxwbey52f4s52qucom7kmm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-07T20:47:22.919Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-11-09T13:29:13.139Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "reply": {
+                            "parent": {
+                                "cid": "bafyreibb4ktvw42ismctzxvyswltr6qyoqv7a2otqifxr2i74acnrtwpma",
+                                "uri": "at://did:plc:6l3qsdr6pfvklryfr6x4x64w/app.bsky.feed.post/3laijpobqml2g"
+                            },
+                            "root": {
+                                "cid": "bafyreibb4ktvw42ismctzxvyswltr6qyoqv7a2otqifxr2i74acnrtwpma",
+                                "uri": "at://did:plc:6l3qsdr6pfvklryfr6x4x64w/app.bsky.feed.post/3laijpobqml2g"
+                            }
+                        },
+                        "text": "Mate a caspa"
+                    },
+                    "labels": [],
+                    "likeCount": 0,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-11-09T13:29:13.881Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-09T14:44:01.085Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lafif7eevl23",
+            "cid": "bafyreidinz4awg72ytg2lkubu2ziwocplcycl6m4imkfmzajilw55bcq34",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-08T00:11:04.404350Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia7x6ha2xevsqrcsnbbtln5fcs542sig6ne7ptkjswc7uyaajkczu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 296486
+                        },
+                        "title": "Polícia da PB investiga incêndio que destruiu cerca de 15 hectares de vegetação da Caatinga | Paraíba | G1",
+                        "uri": "https://g1.globo.com/pb/paraiba/noticia/2024/11/07/policia-da-pb-investiga-incendio-que-destruiu-cerca-de-15-hectares-de-vegetacao-da-caatinga.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Polícia da PB investiga incêndio que destruiu cerca de 15 hectares de vegetação da Caatinga"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pb/paraiba/noticia/2024/11/07/policia-da-pb-investiga-incendio-que-destruiu-cerca-de-15-hectares-de-vegetacao-da-caatinga.ghtml",
+                    "title": "Polícia da PB investiga incêndio que destruiu cerca de 15 hectares de vegetação da Caatinga | Paraíba | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreia7x6ha2xevsqrcsnbbtln5fcs542sig6ne7ptkjswc7uyaajkczu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-08T00:11:06.885Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l7vf7a2c3x24",
+            "cid": "bafyreien7wl6segabvgzxsqbgmpcauzuge7nyozfg6gksstum4ayp2iyai",
+            "author": {
+                "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                "handle": "folha.com",
+                "displayName": "Folha de S.Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T15:27:42.210Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T14:31:29.906Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreiagpoefgtutsevw7rckg7xcb74nw2v5mq23hi345d6qmk37c2jqoe"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 1317801
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mla.bs/fc7fe6e2"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 263,
+                            "byteStart": 248
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Elaborado durante pesquisa de doutorado, um tipo de foguete artesanal quer recuperar a vegetação nativa da caatinga de forma eficaz e com custo baixo. A ideia é espalhar sementes dessas plantas nos voos, em um raio de 20 a 50 metros.\n\n📲Leia: mla.bs/fc7fe6e2\n\n🎦 Renan Aversari/Divulgação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreiagpoefgtutsevw7rckg7xcb74nw2v5mq23hi345d6qmk37c2jqoe",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Aaduoxavv4nlceto54tgu3fjr/bafkreiagpoefgtutsevw7rckg7xcb74nw2v5mq23hi345d6qmk37c2jqoe/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Aaduoxavv4nlceto54tgu3fjr/bafkreiagpoefgtutsevw7rckg7xcb74nw2v5mq23hi345d6qmk37c2jqoe/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 14,
+            "quoteCount": 2,
+            "indexedAt": "2024-11-01T14:31:29.790Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lnzpf5sypiidgljg7zoo55xt/app.bsky.feed.post/3l7raf4zkzu2p",
+            "cid": "bafyreibze2q2yg2sd3gaacetiepctlslex6mis6qzjtaqpv5dr4rwrpw4e",
+            "author": {
+                "did": "did:plc:lnzpf5sypiidgljg7zoo55xt",
+                "handle": "dairley.bsky.social",
+                "displayName": "DAIRLEY SANTOS FERREIRA VANDERLEY",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lnzpf5sypiidgljg7zoo55xt/bafkreibr6g4ktdsumwa3jyrfpodubq5bgoneq75koeisagmoetul7cdd5a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:25:14.296Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T22:54:38.878Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 815,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicl4d5huo75fnprf2vipr2klmncsnci6siynhvfeq66i223ldw6e4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 303079
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Continua"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 180
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pássaro da nossa vegetação Caatinga, o Corrupião encanta pela sua côr natural que mescla um preto com a côr alaranjada. Seu canto é muito bonito e gostoso de se apreciar. - #Continua..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lnzpf5sypiidgljg7zoo55xt/bafkreicl4d5huo75fnprf2vipr2klmncsnci6siynhvfeq66i223ldw6e4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lnzpf5sypiidgljg7zoo55xt/bafkreicl4d5huo75fnprf2vipr2klmncsnci6siynhvfeq66i223ldw6e4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 815,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T22:54:38.878Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmfdeyaj5siyfu47nud56yw3/app.bsky.feed.post/3l65z5kvt2t2i",
+            "cid": "bafyreigbj2ftid5dcv3bwzafvqlglbkzw4eagjynlsdcqz3znlwbzx3l74",
+            "author": {
+                "did": "did:plc:zmfdeyaj5siyfu47nud56yw3",
+                "handle": "agenciaeconordeste.com.br",
+                "displayName": "Eco Nordeste",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreidjve7lwuhj6otmqrmi6vfkedixhf7zdsvqugep42rzg5d3atdveu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T18:02:01.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T13:59:22.455Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Card sobre foto colorida de área aberta com três turbinas eólicas de torres e hélices brancas sobre o solo da caatinga cercadas de vegetação rasteira e cactos. Acima, à esquerda, faixa  laranja com o texto em preto escrito Pernambuco. Abaixo, ao centro, faixa amarela maior com o texto em preto dizendo: Licenciamento de renováveis terá regras no Nordeste. No rodapé, logo da Eco Nordeste.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiereiyhhmo5x3ekanw2tycea5ju4b6unn62272jo2avzr2wzxbs5u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 247517
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/4eAe4KM"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 221,
+                            "byteStart": 207
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✨Luz no fim do túnel: o Estado de Pernambuco é o primeiro a elaborar uma legislação específica, que deve ser lançada neste mês, para o licenciamento ambiental de empreendimentos eólicos e solares: bit.ly/4eAe4KM"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreiereiyhhmo5x3ekanw2tycea5ju4b6unn62272jo2avzr2wzxbs5u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreiereiyhhmo5x3ekanw2tycea5ju4b6unn62272jo2avzr2wzxbs5u@jpeg",
+                        "alt": "Card sobre foto colorida de área aberta com três turbinas eólicas de torres e hélices brancas sobre o solo da caatinga cercadas de vegetação rasteira e cactos. Acima, à esquerda, faixa  laranja com o texto em preto escrito Pernambuco. Abaixo, ao centro, faixa amarela maior com o texto em preto dizendo: Licenciamento de renováveis terá regras no Nordeste. No rodapé, logo da Eco Nordeste.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T13:59:22.455Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:psi7zjmovqj57mqhlu43eiaw/app.bsky.feed.post/3l5xp4aft2x2e",
+            "cid": "bafyreieh2whahrvglbrqnzudxpjz65ttdo5pl2taelenubbao2vo54hghu",
+            "author": {
+                "did": "did:plc:psi7zjmovqj57mqhlu43eiaw",
+                "handle": "naridove.bsky.social",
+                "displayName": "nari",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:psi7zjmovqj57mqhlu43eiaw/bafkreidqcebjezzhbpltsoeqknixse44ivr54cckg4fa6lveelrvfk4hge@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:51:37.597Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T01:43:41.591Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibehs7us4l42mwjpwbm6sm5f7rovmsvz23uif2orybikkgp53cuuu",
+                        "uri": "at://did:plc:55jq4tf6hfekuxvkhwjpaszv/app.bsky.feed.post/3l5xowlbpod2e"
+                    },
+                    "root": {
+                        "cid": "bafyreidw6nv5rul25je7gcy6r4fmb3abxgqcrmotzjbhwetooltqp6k2xi",
+                        "uri": "at://did:plc:psi7zjmovqj57mqhlu43eiaw/app.bsky.feed.post/3l5xosj6lga2k"
+                    }
+                },
+                "text": "A Caatinga é um bioma brasileiro que se estende por 11% do território nacional, sendo o único bioma exclusivamente brasileiro. A Caatinga é caracterizada por: Clima semiárido, Vegetação adaptada à escassez de chuva, Solos pobres em matéria orgânica, Rios intermitentes, Grande biodiversidade."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T01:43:41.591Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qzslzir7toizd75j3wpa6j3c/app.bsky.feed.post/3l5wvh4xj4t2j",
+            "cid": "bafyreiddertp2n7ijx74xhy3tznf3ewckqpwuyf3m7cppc6qp232pdwici",
+            "author": {
+                "did": "did:plc:qzslzir7toizd75j3wpa6j3c",
+                "handle": "colabora.bsky.social",
+                "displayName": "Colabora - Jornalismo Sustentável",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreihcxrw67mjnbm5glysh3t3crrsdfehpouqmwqrdimxt2qu2madwyu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T19:34:44.399Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T18:04:29.827Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Como as torres de aerogeradores roubam áreas de vegetação nativa, onças passam a percorrer maiores distâncias em busca de água e alimento",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig3w7bp3vvw53ks3qpvmwczy6dmykutl3fekfd2qa6zzdh4nfm6bq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 726421
+                        },
+                        "title": "Complexos eólicos ameaçam últimas onças da Caatinga - #Colabora",
+                        "uri": "https://projetocolabora.com.br/ods7/complexos-eolicos-ameacam-ultimas-oncas-da-caatinga/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ArquivoColabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 16,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Colabora"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 274
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#ArquivoColabora I Onças da Caatinga têm sido afetadas por projetos de usinas eólicas. Como as torres de aerogeradores roubam áreas de vegetação nativa, os felinos passam a percorrer maiores distâncias em busca de água e alimento. Relembre reportagem da Mongabay no #Colabora:"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://projetocolabora.com.br/ods7/complexos-eolicos-ameacam-ultimas-oncas-da-caatinga/",
+                    "title": "Complexos eólicos ameaçam últimas onças da Caatinga - #Colabora",
+                    "description": "Como as torres de aerogeradores roubam áreas de vegetação nativa, onças passam a percorrer maiores distâncias em busca de água e alimento",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qzslzir7toizd75j3wpa6j3c/bafkreig3w7bp3vvw53ks3qpvmwczy6dmykutl3fekfd2qa6zzdh4nfm6bq@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T18:04:29.827Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xzcvjt5b3n7fgf3tfqi6zo6x/app.bsky.feed.post/3l5wfmuq7jh2g",
+            "cid": "bafyreiaivt4j74adf7z2txibbuxj3q2kp6new7unji75ow2vi22mkwpu44",
+            "author": {
+                "did": "did:plc:xzcvjt5b3n7fgf3tfqi6zo6x",
+                "handle": "henrique-reis.bsky.social",
+                "displayName": "reinriquereis",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xzcvjt5b3n7fgf3tfqi6zo6x/bafkreigx7vqvo2zdod7jtx3f5grc2zps3ilmorokih6mwmhf3wcgen5mye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T17:01:48.997Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T13:21:21.904Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Me emociona um pouco observar a mudança de vegetação na BR-324, a transição Caatinga - Mata Atlântica"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T13:21:21.904Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y6souaqtrqazdso4hjym7bxx/app.bsky.feed.post/3l4ouknmtus2i",
+            "cid": "bafyreie2rkrd746wdog67ovhayb2sicnbf624bvzr7jo45zbnptbbgerze",
+            "author": {
+                "did": "did:plc:y6souaqtrqazdso4hjym7bxx",
+                "handle": "tcuide.bsky.social",
+                "displayName": "TChris Esquerda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreif2klkojoid23goza3ae5rrpgrapxrv4ebza7v3jxjk5rj7ffba4y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T03:02:26.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:02:04.921Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 735
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 859202
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A desertificação atingia 13% do semiárido brasileiro, em 2019, e ameaça o bioma da caatinga. \nA causa é a pecuária e queimadas. Ou seja, o agronegócio que está detonando nossa vegetação nativa e, com ela, toda a cadeia animal do bioma. São 10 estados atingidos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 735
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:02:04.921Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmfdeyaj5siyfu47nud56yw3/app.bsky.feed.post/3l4j3kgfzgx2f",
+            "cid": "bafyreiejorpiwvhf6rwzbp4mzqxyakvyjovreghzczajzhvhg2gmzzafvq",
+            "author": {
+                "did": "did:plc:zmfdeyaj5siyfu47nud56yw3",
+                "handle": "agenciaeconordeste.com.br",
+                "displayName": "Eco Nordeste",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreidjve7lwuhj6otmqrmi6vfkedixhf7zdsvqugep42rzg5d3atdveu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T18:02:01.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T12:51:13.589Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Card sobre foto aérea colorida de ponte sem tráfego sobre rio quase seco com margens cobertas de vegetação arbustiva de caatinga em período chuvoso e ladeada por terreno argiloso. Acima, em uma tarja azul à esquerda, está escrito Bahia, abaixo, em faixa amarela, com mais destaque, o texto: Quilombos freiam obra de ponte ferroviária. Acima, à direita, logo azul redonda ma.to.pi.ba. No rodapé, à esquerda, a logo Eco Nordeste em branco e verde.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreien35krirubeklisiohlxim6fcvn63bywx3nuz3esu3och42dydyi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 486963
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/4e5dzrJ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 204,
+                            "byteStart": 190
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Três quilômetros de concreto atravessam o que era um braço do Rio São Francisco, no Território Quilombola Araçá/Volta, Oeste da Bahia. Qual o impacto para as comunidades? Leia aqui:  bit.ly/4e5dzrJ\nFoto: Eduardo Cunha"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreien35krirubeklisiohlxim6fcvn63bywx3nuz3esu3och42dydyi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreien35krirubeklisiohlxim6fcvn63bywx3nuz3esu3och42dydyi@jpeg",
+                        "alt": "Card sobre foto aérea colorida de ponte sem tráfego sobre rio quase seco com margens cobertas de vegetação arbustiva de caatinga em período chuvoso e ladeada por terreno argiloso. Acima, em uma tarja azul à esquerda, está escrito Bahia, abaixo, em faixa amarela, com mais destaque, o texto: Quilombos freiam obra de ponte ferroviária. Acima, à direita, logo azul redonda ma.to.pi.ba. No rodapé, à esquerda, a logo Eco Nordeste em branco e verde.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T12:51:13.589Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pdh5j6bjt73j3dim7fqh5u6x/app.bsky.feed.post/3l4edig3luo2y",
+            "cid": "bafyreidc5ojpwgcca5nfx5lyo3denup7rf5pz4yax6o7uuxhcmvabcekeq",
+            "author": {
+                "did": "did:plc:pdh5j6bjt73j3dim7fqh5u6x",
+                "handle": "insanyu.bsky.social",
+                "displayName": "Sany ✨ Commission Open",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pdh5j6bjt73j3dim7fqh5u6x/bafkreibbb372g6bvscsp4lq3gce2ihyx2lf7rw3ysckvwmpqobjcvikzha@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:45:48.023Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T15:29:58.587Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifrhh3wclvm7v7pczvjfd2mxq5mflwvmkiks4gt3a5fr2qukbggqq",
+                        "uri": "at://did:plc:he3d2ee3hv64om5v3uyg6y4g/app.bsky.feed.post/3l4e7ilqdmt2a"
+                    },
+                    "root": {
+                        "cid": "bafyreia6j6nbf5hygof3mcoh55iqyumpb7vexogauk7pezgvazxeqeuhq4",
+                        "uri": "at://did:plc:pdh5j6bjt73j3dim7fqh5u6x/app.bsky.feed.post/3l4e4h3lstg23"
+                    }
+                },
+                "text": "Nossa senhora, acredito que são Paulo é concreto sob concreto e esquenta bastante. No nosso caso, aqui é a caatinga, uma mata seca que no tempo de calor elas quase não tem folhas, a vegetação verde fica escassa 😭"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T15:29:58.587Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:elah4ye65xh7whko6tq2v7ln/app.bsky.feed.post/3l44xv3b5v42b",
+            "cid": "bafyreigxnbhnvplhlujav4ciephx3b35ngzh3jlslw5haxbhmoxlg7ac6e",
+            "author": {
+                "did": "did:plc:elah4ye65xh7whko6tq2v7ln",
+                "handle": "ogabinho.bsky.social",
+                "displayName": "Gabinho",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:elah4ye65xh7whko6tq2v7ln/bafkreicpvyf6s5wlxoyxbdzhl736q5madphl667at6slgi6rcjelsjihzi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T21:47:48.924Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T17:13:40.213Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A vegetação de São Carlos,na saída da cidade, parecendo vegetação de caatinga pelas queimadas."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T17:13:40.213Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bf7s6fyxowis6achespiroyl/app.bsky.feed.post/3l42o7ugvi72c",
+            "cid": "bafyreidaw4xgxqtpoistfaa45fnaa6rclk5xtcm2wzdlivjyjgox53wmmi",
+            "author": {
+                "did": "did:plc:bf7s6fyxowis6achespiroyl",
+                "handle": "philnicolas.bsky.social",
+                "displayName": "Phil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bf7s6fyxowis6achespiroyl/bafkreibsssrtazj42v2wns5pwcik5ydim73s6bq7fypia5myjysbks622y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-07T20:28:08.510Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T19:15:25.451Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiht4o272sbpmxxx2jamcszsr5sjibyc3aladn7ys3bp5myuga3cde",
+                        "uri": "at://did:plc:5t5ya6jvdzotl4cwckaztfmk/app.bsky.feed.post/3l42honvk5v2a"
+                    },
+                    "root": {
+                        "cid": "bafyreih2p23xaoqgmahk6elr6ypz47tjxewiqyp4hjxpmqd3qpw2qrowvq",
+                        "uri": "at://did:plc:patqr7l7c5b2pqsnbcaasi32/app.bsky.feed.post/3l42hip5vo32r"
+                    }
+                },
+                "text": "Na Caatinga houve aumento de 22% nas queimadas desde 2023 (limpeza de pastos e preparo de plantios). A vegetação é adaptada a secas, mas não a incêndios frequentes, o que causa desertificação. 13% da Caatinga está em processo avançado de desertificação. As mudanças climáicas agravam o problema."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T19:15:25.451Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qwssqmr6huu4hkf4iwrh5qgb/app.bsky.feed.post/3l42lada2ar2a",
+            "cid": "bafyreieos36gbht3pxvqswxca2em2gmsp5hzikysl3fhvcr2l2vmhmjrhu",
+            "author": {
+                "did": "did:plc:qwssqmr6huu4hkf4iwrh5qgb",
+                "handle": "ugaaugaa.bsky.social",
+                "displayName": "Ulysses Alvarenga",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qwssqmr6huu4hkf4iwrh5qgb/bafkreiawais6e6k5qa3h34az5kceoduytxjt4g2i3fv7uufelvmyj5rskq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-12T02:58:58.908Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T18:22:00.512Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiht4o272sbpmxxx2jamcszsr5sjibyc3aladn7ys3bp5myuga3cde",
+                        "uri": "at://did:plc:5t5ya6jvdzotl4cwckaztfmk/app.bsky.feed.post/3l42honvk5v2a"
+                    },
+                    "root": {
+                        "cid": "bafyreih2p23xaoqgmahk6elr6ypz47tjxewiqyp4hjxpmqd3qpw2qrowvq",
+                        "uri": "at://did:plc:patqr7l7c5b2pqsnbcaasi32/app.bsky.feed.post/3l42hip5vo32r"
+                    }
+                },
+                "text": "Outro fator bem relevante é a densidade vegetativa da caatinga. As plantas são mais afastadas, adaptadas ao clima árido e portanto possuem sistemas adaptados para minimizar a perda de água, elas secam menos. No cerrado com vegetação um pouco mais densa existem até plantas que germinam pós incêndios."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T18:22:00.217Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tnnbfse7v56ux6ud4iqdr5oz/app.bsky.feed.post/3l3zurzvfcq2d",
+            "cid": "bafyreibmf6ky2gydfe6cu4rgketxy3bbylu6khqpikwddyyksut4lfb3ry",
+            "author": {
+                "did": "did:plc:tnnbfse7v56ux6ud4iqdr5oz",
+                "handle": "kinhomenezes888.bsky.social",
+                "displayName": "Kinho Menezes 888",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tnnbfse7v56ux6ud4iqdr5oz/bafkreiffh2ouvbn2guibwxkf4vlnqlw3gls6qs4ver5mjzgv4ia77w7s3a@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T21:37:36.988Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T11:40:17.562Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 249,
+                            "byteStart": 239
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Na seca nordestina, não existia queimadas porque não temos vegetação, só caatinga, também não temos o agro. Quem quiser fugir da fumaça venha pro litoral nordestino, aqui chove todo dia e o vento forte não deixa a fumaça chegar. #queimadas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T11:40:17.562Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ebulkamluhkcshdpzofb4iw3/app.bsky.feed.post/3l3qglicbzp2z",
+            "cid": "bafyreic5vs3bpfoa5ibwfrf55r6frzncviydx7pddccy4novayv6l72mru",
+            "author": {
+                "did": "did:plc:ebulkamluhkcshdpzofb4iw3",
+                "handle": "hotaz3r.bsky.social",
+                "displayName": "hotaz3r",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ebulkamluhkcshdpzofb4iw3/bafkreie4qmwbgve2t33jgh2cdvyxsaotchl7q5drfjmaivzsvvfs2gshwi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:45:34.000Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T17:32:08.730Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifyhlxv4o3ok6uafj6b6nfe2gpqi25difcbll3hfsep5nckilgsfu",
+                        "uri": "at://did:plc:5nv3shz4bgsdp7hcoyvokd3y/app.bsky.feed.post/3l3pxi2s3jc2i"
+                    },
+                    "root": {
+                        "cid": "bafyreifyhlxv4o3ok6uafj6b6nfe2gpqi25difcbll3hfsep5nckilgsfu",
+                        "uri": "at://did:plc:5nv3shz4bgsdp7hcoyvokd3y/app.bsky.feed.post/3l3pxi2s3jc2i"
+                    }
+                },
+                "text": "Krl! Eu penso a mesma coisa, eu quero psicologia. Para que CARALHOS eu tenho que saber como calcula o movimento que o avião faz para decolar e se manter no ar?! Para qur eu preciso saber sobre a vegetação da Caatinga?! Para que eu preciso saber o volume de uma esfera com uma pirâmide dentro?!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T17:32:08.620Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oes7khzo6j2tj3x4zgwo52db/app.bsky.feed.post/3l3mln7y2sl2l",
+            "cid": "bafyreihmwchjhz7hpcrhx3f6hfg44wha7kq2k4umwf5tgpbbmebcgxbygy",
+            "author": {
+                "did": "did:plc:oes7khzo6j2tj3x4zgwo52db",
+                "handle": "botdoforza.bsky.social",
+                "displayName": "1+leo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oes7khzo6j2tj3x4zgwo52db/bafkreie6yr36jjwjymn3vhr52fpzn76xrtceiw6ceb5a2bfsl3wke772jm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:25:14.045Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T04:51:55.526Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Povo acha que tamo na caatinga q o trem tem queimada natural e a vegetação sozinha volta e sendo positivo pro bioma kkkkkk"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T04:51:55.526Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bnui6ziz3jl5gyhtxwkb63cp/app.bsky.feed.post/3l3jnej5qhh2u",
+            "cid": "bafyreig7wjho2cjisdigswyuyz7v2ofbjcydxb6tytcycsoow63pdpt5ii",
+            "author": {
+                "did": "did:plc:bnui6ziz3jl5gyhtxwkb63cp",
+                "handle": "paulorsmarques.bsky.social",
+                "displayName": "Paulo Marques - Cervejaria Cervejah",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bnui6ziz3jl5gyhtxwkb63cp/bafkreiafdykaiihqiv5rgdhloc5udo3bq6vhtp4sphxj4pi2akbp35izam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T00:42:25.018Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T00:44:57.253Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifqf3zjacwswubc6mu7ih3vwizp5ctq2isrny2xiaxeaa2fyrrhuy",
+                        "uri": "at://did:plc:j6zl2au4qnhivpufgthzqnac/app.bsky.feed.post/3l3jmopu3tl2k"
+                    },
+                    "root": {
+                        "cid": "bafyreic7qx3feqdq3rk2hqy3upjixam255rtfalzy2un2zodqcjl2ssjee",
+                        "uri": "at://did:plc:bnui6ziz3jl5gyhtxwkb63cp/app.bsky.feed.post/3l3jlujyzke2y"
+                    }
+                },
+                "text": "Aqui faz quase mês . Todo ano queima a vegetação não morre tipo caatinga mas este ano esta demais"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T00:44:52.630Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3tnkmjmnv4ecrxeklk2gk4ui/app.bsky.feed.post/3l3ito2wqf52e",
+            "cid": "bafyreidxwggpe6q4pbqi5kov4lvbj57cl6p2hkg3btif7rpmpe4ohi62y4",
+            "author": {
+                "did": "did:plc:3tnkmjmnv4ecrxeklk2gk4ui",
+                "handle": "franckles.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreiezpfcrtvsbhvpdcbfvhzh2jxrrs3mc4yfrumvyhzltlhoc56nxw4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T23:56:37.303Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T17:04:55.595Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 911335
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1499,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 453379
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biomas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 257
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caatinga"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 274,
+                            "byteStart": 265
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Pernambuco"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 275
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nordeste"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 296,
+                            "byteStart": 287
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "vegetação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 297
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": " A força da caatinga reside em sua resiliência e adaptabilidade. Este bioma é caracterizado por um clima semiárido e vegetação xerófila, incluindo plantas como cactos e arbustos espinhosos que são adaptadas para resistir a longos períodos de seca.\n#biomas #caatinga #Pernambuco #nordeste #vegetação"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreifyqzplkz4ggtw24bjoa4t6beekan3jfotmppsicjkc3cjnk5tewm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3tnkmjmnv4ecrxeklk2gk4ui/bafkreihh5nyx54jot2klwz4vzgydgccyhcmmjhjgwfib6gszsypbwa45f4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1499,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T17:04:55.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tnz2sqqgwfrltvqfrjdhw37x/app.bsky.feed.post/3l3hftq5ix22l",
+            "cid": "bafyreibln4brhqqsrcxuoy7vrkfajgx57m5rjde3dp2hgke6aandudulxe",
+            "author": {
+                "did": "did:plc:tnz2sqqgwfrltvqfrjdhw37x",
+                "handle": "a-isca-e-o-anzol.bsky.social",
+                "displayName": "Escalador de mulher alta ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreihp2qgvhdxzhmsj64qcm7cowqpc7wljfegn2c7dcoyyldhqx437ia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:04:32.675Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T03:24:53.300Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Print do Google maps mostrando a imagem vista de um satélite inabitada, com Vegetação e rochas. O lugar está com nome de Marco Geográfica 2ª Guerra mundial e fica em Boqueirão, Caturite, interior da Paraiba.",
+                                "aspectRatio": {
+                                    "height": 1600,
+                                    "width": 719
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 727821
+                                }
+                            },
+                            {
+                                "alt": "Arena Flamengo do assentamento, local marcado no Google maps. Foto 360° tirada no local mostrando um solo arenoso e com barro vermelho, bastante Vegetação e uma cercas de madeira. A Vegetação é típica do bioma da caatinga em períodos com chuva.",
+                                "aspectRatio": {
+                                    "height": 1600,
+                                    "width": 719
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 680761
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreidnsmxgsmsjz2pyekmi3dqij224b6rxwf33na4swtlvwyvkcqb56a",
+                            "uri": "at://did:plc:v6zm5bg25vk4fdiwhjbwpbi7/app.bsky.feed.post/3l3gr543gv22z"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "fun fact: esse post do copo da olivia rodrigo no falecido X me levou numa jornada no maps mt satisfatória \nachei esse lugar q com certeza tem algo a ver com a 2ª guerra, o estádio do flamengo (pra quem fala q n tem) e descobri um campeonato de várzea do interior"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreiam2izr7mn235v7fkorkmfghqayzyewmcpleqvkoxivv5evqzzria@jpeg",
+                            "alt": "Print do Google maps mostrando a imagem vista de um satélite inabitada, com Vegetação e rochas. O lugar está com nome de Marco Geográfica 2ª Guerra mundial e fica em Boqueirão, Caturite, interior da Paraiba.",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 719
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tnz2sqqgwfrltvqfrjdhw37x/bafkreice763u2cpz3lomeqdi5a5jehpyaok6g6ev4nfoj6pm3vrra4qmbm@jpeg",
+                            "alt": "Arena Flamengo do assentamento, local marcado no Google maps. Foto 360° tirada no local mostrando um solo arenoso e com barro vermelho, bastante Vegetação e uma cercas de madeira. A Vegetação é típica do bioma da caatinga em períodos com chuva.",
+                            "aspectRatio": {
+                                "height": 1600,
+                                "width": 719
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:v6zm5bg25vk4fdiwhjbwpbi7/app.bsky.feed.post/3l3gr543gv22z",
+                        "cid": "bafyreidnsmxgsmsjz2pyekmi3dqij224b6rxwf33na4swtlvwyvkcqb56a",
+                        "author": {
+                            "did": "did:plc:v6zm5bg25vk4fdiwhjbwpbi7",
+                            "handle": "insygore.bsky.social",
+                            "displayName": "fernanda coxta aphex twink",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreicxvtovzxzm4ulk6hwsfhwzvtgyweeoxbayzr26ydjnjrkxbfcuxy@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-07-01T17:47:04.963Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-05T21:12:41.694Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1024,
+                                            "width": 768
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 527870
+                                        }
+                                    }
+                                ]
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": ""
+                        },
+                        "labels": [],
+                        "likeCount": 56,
+                        "replyCount": 0,
+                        "repostCount": 5,
+                        "quoteCount": 2,
+                        "indexedAt": "2024-09-05T21:12:41.694Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:v6zm5bg25vk4fdiwhjbwpbi7/bafkreigbsnapptf7yeepiogwuokf7v7an2ouphfdthtn4iks6ot7bsqaye@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1024,
+                                            "width": 768
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T03:24:53.300Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zmfdeyaj5siyfu47nud56yw3/app.bsky.feed.post/3l3guqhx5en2a",
+            "cid": "bafyreiehk2ucpkigadz2t7gjzpr3mgmm3kvvht6opq7aaojls4qmpiuhmy",
+            "author": {
+                "did": "did:plc:zmfdeyaj5siyfu47nud56yw3",
+                "handle": "agenciaeconordeste.com.br",
+                "displayName": "Eco Nordeste",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreidjve7lwuhj6otmqrmi6vfkedixhf7zdsvqugep42rzg5d3atdveu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T18:02:01.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T22:18:50.659Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Card branco com a logo circular do projeto ma.to.pi.ba. em azul, no alto à direita, e traços finos em tom azul que simulam folhagens. Ao centro, foto colorida de homem negro de barba e bigode vestindo camisa de proteção solar azul escura e usando um boné. Atrás dele, caixas de madeira que contém abelhas dispostas em fileira em meio à vegetação de Caatinga. Em destaque, faixas de texto que dizem “Sertão da Bahia” e “Criação de Abelhas aumenta renda familiar”.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieiz6vswap6zxjvca3jo5ns6sjjhizm3w4kgntndutdnunbvttq4a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 808515
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3Mxt4wz"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 189
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mel"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 228,
+                            "byteStart": 224
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "abelhas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 237,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "matopiba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 238
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "quilombo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 249
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "“Você sabia que uma abelha vale o mesmo preço de uma vaca dessa?” Aproveitando as potencialidades do local para produzir mel, Railton montou sua primeira caixa em 2022. Hoje, tem 12: bit.ly/3Mxt4wz\nFoto: Eduardo Cunha\n#mel #abelhas #matopiba #quilombo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreieiz6vswap6zxjvca3jo5ns6sjjhizm3w4kgntndutdnunbvttq4a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zmfdeyaj5siyfu47nud56yw3/bafkreieiz6vswap6zxjvca3jo5ns6sjjhizm3w4kgntndutdnunbvttq4a@jpeg",
+                        "alt": "Card branco com a logo circular do projeto ma.to.pi.ba. em azul, no alto à direita, e traços finos em tom azul que simulam folhagens. Ao centro, foto colorida de homem negro de barba e bigode vestindo camisa de proteção solar azul escura e usando um boné. Atrás dele, caixas de madeira que contém abelhas dispostas em fileira em meio à vegetação de Caatinga. Em destaque, faixas de texto que dizem “Sertão da Bahia” e “Criação de Abelhas aumenta renda familiar”.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T22:18:50.659Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eqxhvsg3oq7y5dcd2q6p74rv/app.bsky.feed.post/3l2cw4xbqtd2b",
+            "cid": "bafyreidogyekzbjm3q3wyruv56ht6kubj33aarr25vhirm5xh6sws2s37e",
+            "author": {
+                "did": "did:plc:eqxhvsg3oq7y5dcd2q6p74rv",
+                "handle": "adilsonmikami.bsky.social",
+                "displayName": "Adilson Mikami",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eqxhvsg3oq7y5dcd2q6p74rv/bafkreig6kfzi43t7sgpuxlldulv2qi6s74nqig5lymmrloojh67g3qaryq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T18:23:48.241Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-08-22T15:07:56.124Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Photo by Andreia Bezerra de Araújo The Caatinga in the Northeast is the only exclusively Brazilian biome, with approximately 380 endemic s...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidrr3l4m5wyfdtrmce2mvkvpewaapm3xautfzg2h62eko3yruuqbe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 986978
+                        },
+                        "title": "BIODIVERSITY / BIODIVERSIDADE (712)",
+                        "uri": "https://mikamienvironmentalblog.blogspot.com/2024/08/biodiversity-biodiversidade-712.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://mikamienvironmentalblog.blogspot.com/2024/08/biodiversity-biodiversidade-712.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 160,
+                            "byteStart": 108
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "BIODIVERSIDADE\nVegetação inteligente e riqueza cultural: a Caatinga que é muito mais que seca e escassez\nmikamienvironmentalblog.blogspot.com/2024/08/biod..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://mikamienvironmentalblog.blogspot.com/2024/08/biodiversity-biodiversidade-712.html",
+                    "title": "BIODIVERSITY / BIODIVERSIDADE (712)",
+                    "description": "Photo by Andreia Bezerra de Araújo The Caatinga in the Northeast is the only exclusively Brazilian biome, with approximately 380 endemic s...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqxhvsg3oq7y5dcd2q6p74rv/bafkreidrr3l4m5wyfdtrmce2mvkvpewaapm3xautfzg2h62eko3yruuqbe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-08-22T15:07:53.894Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3kvgn437xal2v",
+            "cid": "bafyreia7xkceef2b2w6fphdovvl62louusqthuq37qpd4lihmlvk7r4a7q",
+            "author": {
+                "did": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                "handle": "agricultorurbano07.bsky.social",
+                "displayName": "Agroflorestor urbano 🌴🌳🍍🍒",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreiecgvuwadkolwab3lkqtsbizeahmhy75cpmjo6ufwrt763dnsbsdm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.actor.profile/self",
+                        "cid": "bafyreidbjf2vyykzmfgxm2hhiumjdi7k4aaulhb2hc3desa72hmklqczcy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-12-22T22:55:23.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-21T11:31:00.385Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto tirada de dentro de um carro, na estrada, mostrando a paisagem lateral esquerda, que contém uma vegetação de semi-arido durante o período chuvoso em um dia bem nublado. A folhagem está verde escura, e no plano de frente, cheia de flores silvestres brancas. Ao fundo, há morros com picos em forma de agulha, lembrando um castelo, formação rochosa conhecida como inselbergs, comum nos estados do Ceará e Pernambuco.",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif7qtsp66uagjbb7y345hnpuxqdrbxb2ognzs5baoialqfrcbhzvm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 637596
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreielukfdzfkxbi3jff7uflt27uczmasvd5mol3jixatqeyufvkl3yy",
+                        "uri": "at://did:plc:ce7vs5aii5oxbh46qfgk2jvs/app.bsky.feed.post/3kvglyarfne2u"
+                    },
+                    "root": {
+                        "cid": "bafyreievnt5ypmfl3oh2onc44ishi75reuhcu7t42eouotrt3alj5d6piy",
+                        "uri": "at://did:plc:fac2ht7uib7w2xxqtavn5au3/app.bsky.feed.post/3kvgkr4wlk22l"
+                    }
+                },
+                "text": "É que a maioria das fotos são tiradas no verão, que é seco, aí dá no imaginário das pessoas que é assim o ano todo. É que nem a caatinga no nordeste, muitos sudestinos e sulistas não tem a imagem dela toda verde, mas ela fica. Por exemplo, isso aqui é caatinga no Ceará em maio desse ano:"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreif7qtsp66uagjbb7y345hnpuxqdrbxb2ognzs5baoialqfrcbhzvm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreif7qtsp66uagjbb7y345hnpuxqdrbxb2ognzs5baoialqfrcbhzvm@jpeg",
+                        "alt": "Foto tirada de dentro de um carro, na estrada, mostrando a paisagem lateral esquerda, que contém uma vegetação de semi-arido durante o período chuvoso em um dia bem nublado. A folhagem está verde escura, e no plano de frente, cheia de flores silvestres brancas. Ao fundo, há morros com picos em forma de agulha, lembrando um castelo, formação rochosa conhecida como inselbergs, comum nos estados do Ceará e Pernambuco.",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-21T11:31:00.385Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gaktcac33cmhjipgzufe4f66/app.bsky.feed.post/3ktvfjmcfgs2x",
+            "cid": "bafyreidzda5wtxn6jfj2z67reqbitteqt32ezoo2uaib6tb756xnlnm4qa",
+            "author": {
+                "did": "did:plc:gaktcac33cmhjipgzufe4f66",
+                "handle": "josevasc3.bsky.social",
+                "displayName": "José Wagner Vasconcelos Carvalho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreifa2fnl6lwey5othrksspnpvgfa5dbfelstrdcmh3fidteuzimoay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:24:00.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-01T21:34:58.257Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 992,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 176140
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig57qdknx2znur2qvufmotgnglprf26mgrf5qwdj5a3wl2qv6b6ae",
+                        "uri": "at://did:plc:oo3xmlkvxwezuipurongjuw5/app.bsky.feed.post/3ktv72iyecc27"
+                    },
+                    "root": {
+                        "cid": "bafyreig57qdknx2znur2qvufmotgnglprf26mgrf5qwdj5a3wl2qv6b6ae",
+                        "uri": "at://did:plc:oo3xmlkvxwezuipurongjuw5/app.bsky.feed.post/3ktv72iyecc27"
+                    }
+                },
+                "text": "Não há necessidade do povo do Nordeste responder os excrementos xenofóbicos desse sulfato de pó de merda miliciano,a natureza é sábia. A caatinga,uma vegetação típica da Região Nordeste responde por si só em nome de todos nordestinos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 992,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 10,
+            "quoteCount": 1,
+            "indexedAt": "2024-06-01T21:34:57.799Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rlnjc4a6ioervuuwjcpr4y4e/app.bsky.feed.post/3ktnftbz4xy2e",
+            "cid": "bafyreiemoepjbvz3ypwcgvlzl76ssowuavwfuqfrq7cwsajrh4izpk7bi4",
+            "author": {
+                "did": "did:plc:rlnjc4a6ioervuuwjcpr4y4e",
+                "handle": "lucianosresende.bsky.social",
+                "displayName": "lucianosresende",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rlnjc4a6ioervuuwjcpr4y4e/bafkreiavwxmpsv2kfrdbmpnihyubhrssgrqgbyhxzljdpoafwwp4ajuv2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-07T00:25:28.043Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-29T17:19:03.556Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pernambuco alcançou expressiva redução de 35% no desmatamento da Caatinga em 2023, segundo o Relatório Anual de Desmatamento (RAD) 2023, produzido pelo MapBiomas Alerta. O documento destaca q o estado pernambucano foi o único entre os 9 q abrigam o bioma a registrar queda na supressão de vegetação."
+            },
+            "replyCount": 2,
+            "repostCount": 6,
+            "likeCount": 35,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-29T17:19:03.556Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gaktcac33cmhjipgzufe4f66/app.bsky.feed.post/3krgpkqlgn724",
+            "cid": "bafyreigfhgqdgf6zlybgcxgbjju3qjtiicrmiezml5h35hfo7uciz6r7mu",
+            "author": {
+                "did": "did:plc:gaktcac33cmhjipgzufe4f66",
+                "handle": "josevasc3.bsky.social",
+                "displayName": "José Wagner Vasconcelos Carvalho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreifa2fnl6lwey5othrksspnpvgfa5dbfelstrdcmh3fidteuzimoay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:24:00.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-01T14:34:12.734Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 992,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 176140
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaa2qg6lhsfbzyuyd3v5hesposuv77pdzbj7lefh3c6hu6goylv3q",
+                        "uri": "at://did:plc:xoi6m74tlrbzhpmvufyz6eq2/app.bsky.feed.post/3krgngxjpdi2d"
+                    },
+                    "root": {
+                        "cid": "bafyreiaa2qg6lhsfbzyuyd3v5hesposuv77pdzbj7lefh3c6hu6goylv3q",
+                        "uri": "at://did:plc:xoi6m74tlrbzhpmvufyz6eq2/app.bsky.feed.post/3krgngxjpdi2d"
+                    }
+                },
+                "text": "Não há necessidade do povo do Nordeste responder os excrementos xenofóbicos dessa nazifascista tupiniquim.A natureza é sábia.A caatinga,uma vegetação típica da Região Nordeste já respondeu por si só,em nome de todos nordestinos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 992,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-01T14:34:12.734Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gaktcac33cmhjipgzufe4f66/app.bsky.feed.post/3krcfw74dj22g",
+            "cid": "bafyreic3j2uxgniupz3gveip7on6dbvqrmaj4xq5l4wxu4oirkcuguen6y",
+            "author": {
+                "did": "did:plc:gaktcac33cmhjipgzufe4f66",
+                "handle": "josevasc3.bsky.social",
+                "displayName": "José Wagner Vasconcelos Carvalho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreifa2fnl6lwey5othrksspnpvgfa5dbfelstrdcmh3fidteuzimoay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:24:00.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-29T21:31:01.005Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 992,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 176140
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaqyvm25azkqsyx3ugbwch67y6rnmllmxsldzen2odbmqbpx6izyi",
+                        "uri": "at://did:plc:df6mmomihkzyqjz6ok5mjpbh/app.bsky.feed.post/3krcewtaz7s2a"
+                    },
+                    "root": {
+                        "cid": "bafyreiaqyvm25azkqsyx3ugbwch67y6rnmllmxsldzen2odbmqbpx6izyi",
+                        "uri": "at://did:plc:df6mmomihkzyqjz6ok5mjpbh/app.bsky.feed.post/3krcewtaz7s2a"
+                    }
+                },
+                "text": "A natureza é sábia. A caatinga,uma vegetação típica da Região Nordeste, responde por si só a esse catarinense em nome do povo do Nordeste."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 992,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-29T21:31:01.005Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsnhhrmk6xez3y6psml3jknl/app.bsky.feed.post/3krbgpniriz2c",
+            "cid": "bafyreidmnxa4zen5gb5q7wt4avl7taynqsb3bfx4lrgpv6ce5uhsmzfole",
+            "author": {
+                "did": "did:plc:rsnhhrmk6xez3y6psml3jknl",
+                "handle": "silmetoo.bsky.social",
+                "displayName": "Silvia PT 13🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreiadd3bu6v2tyfy2lks2c6ml55iepudwdifde3xa2fllxp2e2mipme@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-10T17:41:38.789Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-29T12:12:35.762Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 320048
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌵Dia 28/4 celebra a riqueza e a resiliência da caatinga!\n\n🌿Esse bioma único, localizado principalmente no Nordeste do Brasil, é lar de uma vegetação exuberante, adaptada às condições áridas e quentes. Os cactos, os arbustos espinhosos faz da caatinga um verdadeiro tesouro da biodiversidade."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rsnhhrmk6xez3y6psml3jknl/bafkreid7mzc5bburytpz2rjfj3k7hcrxkb3qs2knrw3sfdyzvryfcr6cxa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 9,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-29T12:12:35.762Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gaktcac33cmhjipgzufe4f66/app.bsky.feed.post/3kqixls3thg2d",
+            "cid": "bafyreiffhoptrvuaovzehgqrtgvmm77yzvu2ngf4ccn3ezjllifuccolxe",
+            "author": {
+                "did": "did:plc:gaktcac33cmhjipgzufe4f66",
+                "handle": "josevasc3.bsky.social",
+                "displayName": "José Wagner Vasconcelos Carvalho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreifa2fnl6lwey5othrksspnpvgfa5dbfelstrdcmh3fidteuzimoay@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:24:00.179Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-19T18:38:05.135Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 992,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 176140
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicojmtatopgvjtpfcheb2svgfrzoswx3qt4goxfm2jpbeba3mm2ky",
+                        "uri": "at://did:plc:5gjoledv4pjq3n4norys2sbu/app.bsky.feed.post/3kqhty7gias2l"
+                    },
+                    "root": {
+                        "cid": "bafyreicojmtatopgvjtpfcheb2svgfrzoswx3qt4goxfm2jpbeba3mm2ky",
+                        "uri": "at://did:plc:5gjoledv4pjq3n4norys2sbu/app.bsky.feed.post/3kqhty7gias2l"
+                    }
+                },
+                "text": "Que se cumpra a Lei, porém não há necessidade do povo do Nordeste responder os excrementos verbais exalados por esse sulfato de pó de merda.A natureza é sábia! A caatinga, uma vegetação típica da Região Nordeste,responde por si só em nome de todos os nordestinos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gaktcac33cmhjipgzufe4f66/bafkreicxla2xuho5l6cgheuq5vlnskm7exgzc6m72dkzw37tckx6bd22lq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 992,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-19T18:38:05.135Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hmiktr2wpbjcc66hb6blikc6/app.bsky.feed.post/3kq4e5awiun2t",
+            "cid": "bafyreidfkzakchjdxpyindswcd7orhp4wwduhz4fur7jepqhy4vzglte6a",
+            "author": {
+                "did": "did:plc:hmiktr2wpbjcc66hb6blikc6",
+                "handle": "mirandajr.bsky.social",
+                "displayName": "Miranda Jr. ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreibggladhbmvu6ltai5qzo4jcyilrckbcwmsrm6zrzp6tnyho5vfbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T21:09:37.296Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-14T18:18:00.665Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 866626
+                        },
+                        "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                        "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 254
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"O espaço engloba uma variedade gigantesca de fauna e flora, além do Pico do Jabre [ponto mais alto da Paraíba e 3° maior do Nordeste], que contempla tanto a vegetação da caatinga quanto espécies de mata atlântica, devido à altitude do local” sudema.pb.gov.br/noticias/con..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba",
+                    "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                    "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-14T18:18:00.665Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:65sqni2vtpcoxdf264g3j2xn/app.bsky.feed.post/3kpsaw2abcc2j",
+            "cid": "bafyreihepyox3sywzqgzwl2lzic2xunzhq2koqpl4g763wmgls7zfolj4y",
+            "author": {
+                "did": "did:plc:65sqni2vtpcoxdf264g3j2xn",
+                "handle": "vinicarvalho.bsky.social",
+                "displayName": "⭕ Vini",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:65sqni2vtpcoxdf264g3j2xn/bafkreiabyp4em7aasgcqwqbhdqml3ga5cr2h5vimjmc5qfdv2mwojlcpvu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-28T21:51:48.536Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-10T17:53:38.779Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A expansão da agricultura, da pecuária e do desmatamento tem causado mudanças drásticas na Caatinga. As áreas agrícolas e pastagens abandonadas ou em uso cobrem 89% desse bioma, único inteiramente bra...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiguymaheb4aktgsdidf4ri765da4hkmngcilst37lq5dzwxcy54nq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 528986
+                        },
+                        "title": "Ação humana transformou 89% da Caatinga",
+                        "uri": "https://revistapesquisa.fapesp.br/acao-humana-transformou-89-da-caatinga/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "CAATINGA: De acordo com esse estudo, a área que deve ter sido ocupada por florestas, de 731.211 km², correspondentes a 84,6% da área total do bioma, caiu para 31.793 km², ou 4% do total. A vegetação arbustiva avançou 390% sobre as matas fechadas e mais densas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistapesquisa.fapesp.br/acao-humana-transformou-89-da-caatinga/",
+                    "title": "Ação humana transformou 89% da Caatinga",
+                    "description": "A expansão da agricultura, da pecuária e do desmatamento tem causado mudanças drásticas na Caatinga. As áreas agrícolas e pastagens abandonadas ou em uso cobrem 89% desse bioma, único inteiramente bra...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:65sqni2vtpcoxdf264g3j2xn/bafkreiguymaheb4aktgsdidf4ri765da4hkmngcilst37lq5dzwxcy54nq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-10T17:53:38.779Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eqxcfxcj3g6tkaytnsy6pqxx/app.bsky.feed.post/3kjj57ksv3v2h",
+            "cid": "bafyreifsl4zm23ehuxp3vgk44wizl3ew4f5rl4oektka7tdjvj3gpwvcma",
+            "author": {
+                "did": "did:plc:eqxcfxcj3g6tkaytnsy6pqxx",
+                "handle": "arthurjoedson.bsky.social",
+                "displayName": "Arthur Joedson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreigxozblog24sfeobjtoqhdvyvdd56is4vcui6bgq37sgvvu3giece@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-18T21:42:24.778Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-21T18:22:17.040Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto de um plano horizontal, com céu azul com diversas nuvens brancas. Na parte inferior há vegetação verda típica do bioma Caatinga e uma pequena casa no canto inferior esquerdo.",
+                            "aspectRatio": {
+                                "height": 899,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 903431
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mais um céu azul!\n21 de janeiro, 2024.\nNova Floresta, Paraíba."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eqxcfxcj3g6tkaytnsy6pqxx/bafkreibv43hg2zntpjezwhydc4f6y4qyqhoq3em5xg4qbyksvr42gpo2ni@jpeg",
+                        "alt": "Foto de um plano horizontal, com céu azul com diversas nuvens brancas. Na parte inferior há vegetação verda típica do bioma Caatinga e uma pequena casa no canto inferior esquerdo.",
+                        "aspectRatio": {
+                            "height": 899,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-21T18:22:17.040Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kio6j62ocs2h",
+            "cid": "bafyreidppieatkxdccxedyvcmqddf4oh5hfbgkw34xnrtjdy3rrayksdpu",
+            "author": {
+                "did": "did:plc:6orbdnumieu2hbap6knduetw",
+                "handle": "outracozinha.bsky.social",
+                "displayName": "Carla Soares ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreicse2h3mzdz72sne7c7dhod2o2fbswo2gq3qv3f26s2h5dim5cnjq@jpeg",
+                "labels": [],
+                "createdAt": "2023-07-03T12:20:51.476Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-01-11T01:03:38.414Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreic6in6xuldomkpdvxj3l6xzinqpbfltcx2mijsfvs65b33rxcrvdi",
+                        "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kimvvuyq7w2j"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiex6i7erekpy2srvtblyzrxi74vubtquo4ed66sdiio3x2c3kiwiy",
+                        "uri": "at://did:plc:yvespdczg3a7zmjcg4nq6qok/app.bsky.feed.post/3kio4ju3drk2w"
+                    },
+                    "root": {
+                        "cid": "bafyreicwivb4ezah5a6j74jcux3pnmzuuyb3kbsktzjuf6g5xtpwntw7bu",
+                        "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kifhbmo7lv2h"
+                    }
+                },
+                "text": "Ah que legal! Eu tô no sudeste mas naquele pedacinho do semiárido, com vegetação de caatinga já. Cê viu que postei algumas outras fotos hoje com a florada aberta?"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kimvvuyq7w2j",
+                    "cid": "bafyreic6in6xuldomkpdvxj3l6xzinqpbfltcx2mijsfvs65b33rxcrvdi",
+                    "author": {
+                        "did": "did:plc:6orbdnumieu2hbap6knduetw",
+                        "handle": "outracozinha.bsky.social",
+                        "displayName": "Carla Soares ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreicse2h3mzdz72sne7c7dhod2o2fbswo2gq3qv3f26s2h5dim5cnjq@jpeg",
+                        "labels": [],
+                        "createdAt": "2023-07-03T12:20:51.476Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-01-10T12:57:01.691Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.recordWithMedia",
+                            "media": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "Minha mão segurando o galho de árvore, com várias folhas enfileiradas uma ao lado da outra (chama-se bipinadas essa forma de organização). Por cima, um ramo com várias flores miúdas praticamente cobrindo as folhas",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreifqi2dqtpsom2reajjbhpgmlnvi5u47te3kptiyj3e77u2gqhj3im"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 525889
+                                        }
+                                    },
+                                    {
+                                        "alt": "As flores dos ramos em close. Cada flor é miúda, branca, tem 4 pétalas e 8 estames compridos. São dispostas coladas uma ao lado da outra, e tem de 4 a 5 em cada raminho",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreiazlgh4iuu62fxj6aud3jaajqtf4n7h457ixl5icoxfdt62qgzjuy"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 412036
+                                        }
+                                    },
+                                    {
+                                        "alt": "A árvore vista à distância. É uma árvore de grande porte, e está coberta de flores brancas, a ponto dessa ser a cor predominante da árvore. Em volta, bastante mato indistinto. E por cima, um céu azul sem uma única nuvem",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreihjlrlozelytibfwu3pjks5f5jcagsl6imekxghtiw6lpjurke2lu"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 901649
+                                        }
+                                    }
+                                ]
+                            },
+                            "record": {
+                                "$type": "app.bsky.embed.record",
+                                "record": {
+                                    "cid": "bafyreic4qdt64hlfh7a6m7eo37nz65tv2mdvtafdcn47qftdtjcruqwv7y",
+                                    "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kifgldnhud2i"
+                                }
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Abriu. Tá dando pra ouvir as abelhas de longe. O cheiro é engraçado. É floral e doce mas tem uma nota esquisita que parece de algo se deteriorando, digamos assim 😆"
+                    },
+                    "labels": [],
+                    "likeCount": 17,
+                    "replyCount": 6,
+                    "repostCount": 0,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-01-10T12:57:01.691Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.recordWithMedia#view",
+                            "media": {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreifqi2dqtpsom2reajjbhpgmlnvi5u47te3kptiyj3e77u2gqhj3im@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreifqi2dqtpsom2reajjbhpgmlnvi5u47te3kptiyj3e77u2gqhj3im@jpeg",
+                                        "alt": "Minha mão segurando o galho de árvore, com várias folhas enfileiradas uma ao lado da outra (chama-se bipinadas essa forma de organização). Por cima, um ramo com várias flores miúdas praticamente cobrindo as folhas",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        }
+                                    },
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreiazlgh4iuu62fxj6aud3jaajqtf4n7h457ixl5icoxfdt62qgzjuy@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreiazlgh4iuu62fxj6aud3jaajqtf4n7h457ixl5icoxfdt62qgzjuy@jpeg",
+                                        "alt": "As flores dos ramos em close. Cada flor é miúda, branca, tem 4 pétalas e 8 estames compridos. São dispostas coladas uma ao lado da outra, e tem de 4 a 5 em cada raminho",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        }
+                                    },
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreihjlrlozelytibfwu3pjks5f5jcagsl6imekxghtiw6lpjurke2lu@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreihjlrlozelytibfwu3pjks5f5jcagsl6imekxghtiw6lpjurke2lu@jpeg",
+                                        "alt": "A árvore vista à distância. É uma árvore de grande porte, e está coberta de flores brancas, a ponto dessa ser a cor predominante da árvore. Em volta, bastante mato indistinto. E por cima, um céu azul sem uma única nuvem",
+                                        "aspectRatio": {
+                                            "height": 2000,
+                                            "width": 923
+                                        }
+                                    }
+                                ]
+                            },
+                            "record": {
+                                "record": {
+                                    "$type": "app.bsky.embed.record#viewRecord",
+                                    "uri": "at://did:plc:6orbdnumieu2hbap6knduetw/app.bsky.feed.post/3kifgldnhud2i",
+                                    "cid": "bafyreic4qdt64hlfh7a6m7eo37nz65tv2mdvtafdcn47qftdtjcruqwv7y",
+                                    "author": {
+                                        "did": "did:plc:6orbdnumieu2hbap6knduetw",
+                                        "handle": "outracozinha.bsky.social",
+                                        "displayName": "Carla Soares ",
+                                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6orbdnumieu2hbap6knduetw/bafkreicse2h3mzdz72sne7c7dhod2o2fbswo2gq3qv3f26s2h5dim5cnjq@jpeg",
+                                        "labels": [],
+                                        "createdAt": "2023-07-03T12:20:51.476Z"
+                                    },
+                                    "value": {
+                                        "$type": "app.bsky.feed.post",
+                                        "createdAt": "2024-01-07T13:34:03.939Z",
+                                        "embed": {
+                                            "$type": "app.bsky.embed.images",
+                                            "images": [
+                                                {
+                                                    "alt": "Minha mão segurando um ramo com folhas em uma árvore. Sobre o ramo tem vários raminhos cheios de bolinhas na cor verde clara, que são tão numerosos que praticamente a gente não consegue ver as folhas. Cada bolinha é um botão floral prestes a se abrir",
+                                                    "aspectRatio": {
+                                                        "height": 2000,
+                                                        "width": 923
+                                                    },
+                                                    "image": {
+                                                        "$type": "blob",
+                                                        "ref": {
+                                                            "$link": "bafkreihmerqgdaizemj65sdg3kmhqd32daulfykrfclgec5462bbypa2jm"
+                                                        },
+                                                        "mimeType": "image/jpeg",
+                                                        "size": 515981
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "langs": [
+                                            "pt"
+                                        ],
+                                        "text": "Tá quase abrindo a florada da copaíba"
+                                    },
+                                    "labels": [],
+                                    "likeCount": 12,
+                                    "replyCount": 0,
+                                    "repostCount": 0,
+                                    "quoteCount": 2,
+                                    "indexedAt": "2024-01-07T13:34:03.939Z"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-01-11T01:03:38.414Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wcsai6vpn4szhb5r6jn7lzgo/app.bsky.feed.post/3kegazx3skd25",
+            "cid": "bafyreif5e2xmfq4hap3o7p6nx6q7nz6mm2nf22b5mmv3h3bzwoziixm4f4",
+            "author": {
+                "did": "did:plc:wcsai6vpn4szhb5r6jn7lzgo",
+                "handle": "rodriguesia.bsky.social",
+                "displayName": "rodriguesia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wcsai6vpn4szhb5r6jn7lzgo/bafkreidbdkbvnb2xzckae2qcjhdlv3fhcyf2nvzpbfneema6wpsus2ktaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-10-03T18:55:59.165Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-17T23:46:45.748Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A APA possui aproximadamente 1 milhão de hectares e abrange municípios no Ceará, em Pernambuco e no Piauí",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicwxer7opezugta2fkqvp56fcvuoawmm2mko3xfwrcbsmrqwzywbm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 430098
+                        },
+                        "title": "Área de Proteção Ambiental da Chapada do Araripe completa 25 anos; conheça mais sobre o local",
+                        "uri": "https://g1.globo.com/ce/ceara/noticia/2022/08/06/area-de-protecao-ambiental-da-chapada-do-araripe-completa-25-anos-conheca-mais-sobre-o-local.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/ce/ceara/noticia/2022/08/06/area-de-protecao-ambiental-da-chapada-do-araripe-completa-25-anos-conheca-mais-sobre-o-local.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 266
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "FioDaRevisao - Soldadinho do Araripe \n\nEntão galera, estou pesquisando a fragmentação florestal e o desmatamento na Chapada do Araripe. Lá existe uma vegetação variada, na qual um tipo mais úmido lembra um pedaço da Mata atlântica no meio da Caatinga! ...\r\ng1.globo.com/ce/ceara/not..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ce/ceara/noticia/2022/08/06/area-de-protecao-ambiental-da-chapada-do-araripe-completa-25-anos-conheca-mais-sobre-o-local.ghtml",
+                    "title": "Área de Proteção Ambiental da Chapada do Araripe completa 25 anos; conheça mais sobre o local",
+                    "description": "A APA possui aproximadamente 1 milhão de hectares e abrange municípios no Ceará, em Pernambuco e no Piauí",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wcsai6vpn4szhb5r6jn7lzgo/bafkreicwxer7opezugta2fkqvp56fcvuoawmm2mko3xfwrcbsmrqwzywbm@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-17T23:46:45.748Z",
+            "labels": []
+        }
+    ]
+}

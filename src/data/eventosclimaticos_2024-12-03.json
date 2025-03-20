@@ -1,0 +1,228 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:554fd44xdu6ceipnmq433f2l/app.bsky.feed.post/3l4ennwuba227",
+            "cid": "bafyreid7l2xnqgawl3ztpttuzydq2hjidmwu6szlaqpmvtlno5tyir763e",
+            "author": {
+                "did": "did:plc:554fd44xdu6ceipnmq433f2l",
+                "handle": "jornalhojeemdia.bsky.social",
+                "displayName": "Jornal Hoje em Dia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:554fd44xdu6ceipnmq433f2l/bafkreifnqxyhcyha4cv7tmhsdfzvqhodjr3zblmummbzpd6u7tzujaznhy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T10:45:03.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T18:32:01.644Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ao todo, são pagos hoje 20,7 milhões de benefícios",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihpd7p7iez6r6yqrhjhsszp35tyvlv7lbvmvfwh7ybmzjqdjoi5ia"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 371053
+                        },
+                        "title": "Caixa antecipa Bolsa Família a atingidos por eventos climáticos em vários estados",
+                        "uri": "https://hoje.vc/3iost"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "geral"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 61,
+                            "byteStart": 55
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "caixa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 68,
+                            "byteStart": 62
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "antecipa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 78,
+                            "byteStart": 69
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "bolsafamília"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 93,
+                            "byteStart": 79
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "atingidos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 104,
+                            "byteStart": 94
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "eventosclimáticos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 124,
+                            "byteStart": 105
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "jornalhojeemdia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 141,
+                            "byteStart": 125
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ao todo, são pagos hoje 20,7 milhões de benefícios\n\n#geral #caixa #antecipa #bolsafamília #atingidos #eventosclimáticos #jornalhojeemdia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://hoje.vc/3iost",
+                    "title": "Caixa antecipa Bolsa Família a atingidos por eventos climáticos em vários estados",
+                    "description": "Ao todo, são pagos hoje 20,7 milhões de benefícios",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:554fd44xdu6ceipnmq433f2l/bafkreihpd7p7iez6r6yqrhjhsszp35tyvlv7lbvmvfwh7ybmzjqdjoi5ia@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T18:32:01.644Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:h4owtirxqafqdt5fo6fi5bd3/app.bsky.feed.post/3l3y5pc4gay2g",
+            "cid": "bafyreidhw6bvs3hxeke7z5crrjopla2td4fsxjqjdv6syw7tjktjtlnq3u",
+            "author": {
+                "did": "did:plc:h4owtirxqafqdt5fo6fi5bd3",
+                "handle": "viviarpaz.bsky.social",
+                "displayName": "Viviarpaz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h4owtirxqafqdt5fo6fi5bd3/bafkreig3c4xhqx3mltekof7hfkmogxkd7mluxlrzcn6g5ptsrgs2ine3yy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-08T15:06:29.826Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T19:14:29.607Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:jbayyl5lm5ron46kzas5et66"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "secanobrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 165,
+                            "byteStart": 152
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "eventosclimáticos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 185,
+                            "byteStart": 166
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "osasco"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 186
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "@rogeriolins.bsky.social quais medidas Osasco está tomando contra esse ar seco? Existe distribuição de água para as pessoas em situação de rua? \n\n#secanobrasil #eventosclimáticos #osasco"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T19:14:29.607Z",
+            "labels": []
+        }
+    ]
+}

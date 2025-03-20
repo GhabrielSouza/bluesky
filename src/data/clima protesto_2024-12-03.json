@@ -1,0 +1,2336 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:coc5x6zoaqzwemuiqohp7vdr/app.bsky.feed.post/3lcdyh7gjws2l",
+            "cid": "bafyreibnjp2trrlnftwzkaye536qhwy3ox2wiktkcrt3arhhty7ntu43ge",
+            "author": {
+                "did": "did:plc:coc5x6zoaqzwemuiqohp7vdr",
+                "handle": "vessoni.bsky.social",
+                "displayName": "Rodrigo Vessoni ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:coc5x6zoaqzwemuiqohp7vdr/bafkreicuyomhgcybm7nehz7e5cvmgfjx5vec64rhi6rk7vvcbofs755uia@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-16T20:27:41.446Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-12-02T20:43:37.133Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1500,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibitqcxll6kzmoir7uvk2vjl5llnefqmkicymar7oq3omvoooqdz4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 882145
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "corinthians"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 191
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Conselheiros vão chegando e tendo acesso à parte interna do Parque São Jorge;\n\nTorcedores já fazem protesto do lado de fora contra um eventual impeachment de Augusto Melo;\n\nClima 🔥 no #corinthians"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:coc5x6zoaqzwemuiqohp7vdr/bafkreibitqcxll6kzmoir7uvk2vjl5llnefqmkicymar7oq3omvoooqdz4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:coc5x6zoaqzwemuiqohp7vdr/bafkreibitqcxll6kzmoir7uvk2vjl5llnefqmkicymar7oq3omvoooqdz4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1500,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-12-02T20:43:41.347Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ppmfkrkzgquvhbmk56yxvnkc/app.bsky.feed.post/3lbevwssddk2k",
+            "cid": "bafyreihebkbnqnf2hdfwnr65dzu3ldyzwwto6txzecpdnfjvxlsoszyj2e",
+            "author": {
+                "did": "did:plc:ppmfkrkzgquvhbmk56yxvnkc",
+                "handle": "tiba2022.bsky.social",
+                "displayName": "Tiba2022",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppmfkrkzgquvhbmk56yxvnkc/bafkreiegok3znlv6tqbexh2c3367k52k4zxycyfwm3xdnzrivhbrkkygni@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:ppmfkrkzgquvhbmk56yxvnkc",
+                        "uri": "at://did:plc:ppmfkrkzgquvhbmk56yxvnkc/app.bsky.actor.profile/self",
+                        "cid": "bafyreifchummxscryrcyxf74sr3ez6ctr2vyt65s3m4bf2rxeqmk5xk3rq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-08T17:13:07.586Z"
+                    }
+                ],
+                "createdAt": "2024-04-08T17:13:50.277Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-20T12:06:07.647Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by AFP Português",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreica6a6eipvgbfhpq235gciownbsatw73kjinlxoqtqbpefim4wrui"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 316686
+                        },
+                        "title": "Protesto às margens do G20: 'Taxar Bilionários, Taxar Poluidores, $$$ para o Clima' | AFP",
+                        "uri": "https://youtu.be/ex_d-LrqLVg?si=Kp5KfUetDT4El39-"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/ex_d-LrqLVg?si=Kp5KfUetDT4El39-"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 136,
+                            "byteStart": 112
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eu apoio, e voce?\n\nProtesto às margens do G20: 'Taxar Bilionários, Taxar Poluidores, $$$ para o Clima' | AFP\n\nyoutu.be/ex_d-LrqLVg?..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/ex_d-LrqLVg?si=Kp5KfUetDT4El39-",
+                    "title": "Protesto às margens do G20: 'Taxar Bilionários, Taxar Poluidores, $$$ para o Clima' | AFP",
+                    "description": "YouTube video by AFP Português",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ppmfkrkzgquvhbmk56yxvnkc/bafkreica6a6eipvgbfhpq235gciownbsatw73kjinlxoqtqbpefim4wrui@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-20T12:06:38.287Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3lb7sjlp4r22j",
+            "cid": "bafyreice5iu5uagmvv5ltmyc4t77cb3u5bhakkbswj5lox42vnlnenpesa",
+            "author": {
+                "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                "handle": "beatrizdiniz.bsky.social",
+                "displayName": "Beatriz Diniz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-20T02:50:47.124Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T11:21:44.073Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Macron",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiffpe3pkfogrthi4ozams2ti4ygmiqxfop5aktc2liyp52ogfa3na"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 908069
+                            }
+                        },
+                        {
+                            "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Biden ",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid44lhenscam5nqkivh6dtyn2jgfmuyf7setr3wofvo2nyrqlfcsa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 730503
+                            }
+                        },
+                        {
+                            "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Xi Jinping",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicthj75fpiabvnjjz35mlmfkbkmybsgnk2aakrfprkal4nbldj664"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 676810
+                            }
+                        },
+                        {
+                            "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Lula",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieffxzovfdretaanhyfxx24dk4a2kmlcpugit62pdw6ip3wzl5d34"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 694379
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Climate"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 58,
+                            "byteStart": 50
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia, G20\nDá pra fazer muito mais pelo clima \n#Climate"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreiffpe3pkfogrthi4ozams2ti4ygmiqxfop5aktc2liyp52ogfa3na@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreiffpe3pkfogrthi4ozams2ti4ygmiqxfop5aktc2liyp52ogfa3na@jpeg",
+                        "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Macron",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreid44lhenscam5nqkivh6dtyn2jgfmuyf7setr3wofvo2nyrqlfcsa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreid44lhenscam5nqkivh6dtyn2jgfmuyf7setr3wofvo2nyrqlfcsa@jpeg",
+                        "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Biden ",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreicthj75fpiabvnjjz35mlmfkbkmybsgnk2aakrfprkal4nbldj664@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreicthj75fpiabvnjjz35mlmfkbkmybsgnk2aakrfprkal4nbldj664@jpeg",
+                        "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Xi Jinping",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreieffxzovfdretaanhyfxx24dk4a2kmlcpugit62pdw6ip3wzl5d34@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreieffxzovfdretaanhyfxx24dk4a2kmlcpugit62pdw6ip3wzl5d34@jpeg",
+                        "alt": "A Anistia Brasil cercou árvores com cartazes estampando o rosto de lideres mundiais com o corpo junto a uma árvore, como se tivessem abraçados a ela. É um protesto pra pressionar por mais ação pelo clima. \nNos cartazes tá escrito: OS LÍDERES DO MUNDO PODEM FAZER MUITO MAIS PELO CLIMA! \nEsse cartaz tem o rosto do Lula",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 10,
+            "likeCount": 50,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T11:21:51.157Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iyzusavrxtlebin2oxb2vose/app.bsky.feed.post/3lb67m3kk7s22",
+            "cid": "bafyreifnbtjc5ew3jqp6kn3bca6vm7efn6b5bblix6pjh3pm5lprcuaihu",
+            "author": {
+                "did": "did:plc:iyzusavrxtlebin2oxb2vose",
+                "handle": "ocomunitario.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iyzusavrxtlebin2oxb2vose/bafkreick4nbyowkyzxl6tza4qddzht6nahjfv5s5ox4dthz4vdzkk6n5ni@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-05T10:03:18.131Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-17T20:10:26.978Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ativistas pressionam governos por justiça climática em meio a impasses no Azerbaijão Ativistas do Greenpeace protestam silenciosamente durante a COP29: “mercados de carbono, igual ar quente!&…",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidbkt5jxofqrxldd62qutjqfskptecw7alu4czgyshm77ewiazkae"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 304554
+                        },
+                        "title": "COP29: Protesto silencioso do Greenpeace exige que grandes poluidores financiem ações climáticas",
+                        "uri": "https://jornalocomunitario.com.br/cop29-protesto-silencioso-do-greenpeace-exige-que-grandes-poluidores-financiem-acoes-climaticas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalocomunitario.com.br/cop29-protesto-silencioso-do-greenpeace-exige-que-grandes-poluidores-financiem-acoes-climaticas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 141,
+                            "byteStart": 100
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop29"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 142
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "greenpeace"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 160,
+                            "byteStart": 149
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "justiçaclimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 180,
+                            "byteStart": 161
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "clima"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 187,
+                            "byteStart": 181
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "financiamentoclimático"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 188
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "combustíveisfósseis"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 235,
+                            "byteStart": 213
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "criseclimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 236
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "baku"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 258,
+                            "byteStart": 253
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "grandespoluidores"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 259
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "mariejacquemin"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 293,
+                            "byteStart": 278
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "COP29: Protesto silencioso do Greenpeace exige que grandes poluidores financiem ações climáticas\njornalocomunitario.com.br/cop29-protes... #cop29 #greenpeace #justiçaclimática #clima #financiamentoclimático #combustíveisfósseis #criseclimática #baku #grandespoluidores #mariejacquemin"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalocomunitario.com.br/cop29-protesto-silencioso-do-greenpeace-exige-que-grandes-poluidores-financiem-acoes-climaticas/",
+                    "title": "COP29: Protesto silencioso do Greenpeace exige que grandes poluidores financiem ações climáticas",
+                    "description": "Ativistas pressionam governos por justiça climática em meio a impasses no Azerbaijão Ativistas do Greenpeace protestam silenciosamente durante a COP29: “mercados de carbono, igual ar quente!&…",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iyzusavrxtlebin2oxb2vose/bafkreidbkt5jxofqrxldd62qutjqfskptecw7alu4czgyshm77ewiazkae@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-17T20:14:20.765Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sb4e4qrndqrgzcfaj7sly2zh/app.bsky.feed.post/3lb3quys45b2s",
+            "cid": "bafyreifsqhjpobekdfh6cr46dieamlfiivrsky3rfgnrgp3in4d2e2iahi",
+            "author": {
+                "did": "did:plc:sb4e4qrndqrgzcfaj7sly2zh",
+                "handle": "rtpnoticias-rss.bsky.social",
+                "displayName": "RTP Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreih6juqq3xlxryhinlyv4vl44essbhre2emav3ev4shvahn543ci4m@jpeg",
+                "labels": [],
+                "createdAt": "2024-03-23T22:39:21.256Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-16T20:41:40.050Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Mais de 500 pessoas participaram num cordão humano silencioso, devido às restrições impostas pela ONU. Exatamente a meio da COP29, o balanço da associação Zero, em Baku, é negativo.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicvxbsxrw2tkhcgmwp6e6tdxempi2sfbjpbollqce6265myvbgege"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 99590
+                        },
+                        "title": "Protesto da sociedade civil dominou o sexto dia da Cimeira do Clima no Azerbaijão",
+                        "uri": "https://www.rtp.pt/noticias/mundo/protesto-da-sociedade-civil-dominou-o-sexto-dia-da-cimeira-do-clima-no-azerbaijao_v1615383"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Protesto da sociedade civil dominou o sexto dia da Cimeira do Clima no Azerbaijão"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.rtp.pt/noticias/mundo/protesto-da-sociedade-civil-dominou-o-sexto-dia-da-cimeira-do-clima-no-azerbaijao_v1615383",
+                    "title": "Protesto da sociedade civil dominou o sexto dia da Cimeira do Clima no Azerbaijão",
+                    "description": "Mais de 500 pessoas participaram num cordão humano silencioso, devido às restrições impostas pela ONU. Exatamente a meio da COP29, o balanço da associação Zero, em Baku, é negativo.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sb4e4qrndqrgzcfaj7sly2zh/bafkreicvxbsxrw2tkhcgmwp6e6tdxempi2sfbjpbollqce6265myvbgege@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-16T20:41:43.473Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ygtj7kbamenvrbve2zsg4p67/app.bsky.feed.post/3lawt3npbzc2i",
+            "cid": "bafyreidd3nxnr37wjxlrgnpevv3xt2srnrrscsl6nkwfeabwwzi4aeij5u",
+            "author": {
+                "did": "did:plc:ygtj7kbamenvrbve2zsg4p67",
+                "handle": "anacar234.bsky.social",
+                "displayName": "Ana 🇧🇷🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ygtj7kbamenvrbve2zsg4p67/bafkreibbl3nlhucnpqrmvsazadbv6zq6mt7sodad4tanwt2z2u7eqfb4oe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:20:51.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-14T21:37:52.511Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "A imagem fala sobre o protesto no dia 16/11 às 15h em frente ao Masp. A marcha será tanto pelo clima, quanto ao projeto do túnel na Sena Madureira que já cortou várias árvores e também pode acabar com uma comunidade no local, que existe há 70 anos. ",
+                            "aspectRatio": {
+                                "height": 1180,
+                                "width": 863
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidulhly2ugcegleb3og63bfauia4khvmjofn2hl42d7uwoisvtwom"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 225287
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1431,
+                                "width": 864
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiewnaatntpcg4vzxefjchotrm3is6cbyse2327x3zvex7j2hxtw2m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 459997
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌱👊 Tem um novo protesto nesse fim de semana dia 16/11!!!\n\nAproveitar que essa semana estamos todos engajados em protestos e causas sociais. Não podemos esquecer da obra destruidora do Nunes e também dos efeitos ambientais que não só ele apoia, mas todo um sistema que destrói o nosso planeta!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygtj7kbamenvrbve2zsg4p67/bafkreidulhly2ugcegleb3og63bfauia4khvmjofn2hl42d7uwoisvtwom@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ygtj7kbamenvrbve2zsg4p67/bafkreidulhly2ugcegleb3og63bfauia4khvmjofn2hl42d7uwoisvtwom@jpeg",
+                        "alt": "A imagem fala sobre o protesto no dia 16/11 às 15h em frente ao Masp. A marcha será tanto pelo clima, quanto ao projeto do túnel na Sena Madureira que já cortou várias árvores e também pode acabar com uma comunidade no local, que existe há 70 anos. ",
+                        "aspectRatio": {
+                            "height": 1180,
+                            "width": 863
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ygtj7kbamenvrbve2zsg4p67/bafkreiewnaatntpcg4vzxefjchotrm3is6cbyse2327x3zvex7j2hxtw2m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ygtj7kbamenvrbve2zsg4p67/bafkreiewnaatntpcg4vzxefjchotrm3is6cbyse2327x3zvex7j2hxtw2m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1431,
+                            "width": 864
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 9,
+            "likeCount": 22,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-14T21:37:58.051Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:masnbhnlehd4wzyngksjedtv/app.bsky.feed.post/3l5cjfjysgt2p",
+            "cid": "bafyreid63qctpzzv6ym42ruuqntfdaol6vvzvikjz7dwe233q6mirsvlte",
+            "author": {
+                "did": "did:plc:masnbhnlehd4wzyngksjedtv",
+                "handle": "meidoo.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:masnbhnlehd4wzyngksjedtv/bafkreidzbdl6mfcvhybovjilu4l6sxzax3jtqfqemgx2tytmcfxhj2dbny@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-01T21:57:48.302Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T15:35:36.932Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "único jogo que eu consigo ir pra norte ta em clima de protesto KKKKKKKKKK eu sou um fudido mesmo"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T15:35:36.932Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mpho5zc34mh5stksfbcbiish/app.bsky.feed.post/3l5c63whvck2e",
+            "cid": "bafyreiggd6x6w7kkcq4drsxwaka5dpavjf3lod5gojptet647ckj4ez4ei",
+            "author": {
+                "did": "did:plc:mpho5zc34mh5stksfbcbiish",
+                "handle": "daniel3006.bsky.social",
+                "displayName": "Daniel SRN",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mpho5zc34mh5stksfbcbiish/bafkreiehw33ezwtauyke73vfd5uexvsxoql72533jez55x36xg2kei3mt4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T01:34:39.497Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T12:13:24.162Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "ALT: a group of people are standing in a crowd holding up signs and shouting .",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieexd63bsqddazotxvahiudvna42unozrxtzb6p75hthbobrqeirm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 748069
+                        },
+                        "title": "a group of people are standing in a crowd holding up signs and shouting .",
+                        "uri": "https://media.tenor.com/akTZJeT3i6MAAAAC/revolu%C3%A7%C3%A3o-novela.gif?hh=267&ww=498"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Bom dia, Nação!!!\n\nCLIMA OSTIL!!! \n\nApesar da baixa procura por ingresso ( cerca de 17.000 vendidos antecipadamente), torcida do Flamengo promete levar várias faixas de protesto ao Maracanã!! Canto de protesto e vaias serão ouvidos até mesmo antes da bola rolar!!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://media.tenor.com/akTZJeT3i6MAAAAC/revolu%C3%A7%C3%A3o-novela.gif?hh=267&ww=498",
+                    "title": "a group of people are standing in a crowd holding up signs and shouting .",
+                    "description": "ALT: a group of people are standing in a crowd holding up signs and shouting .",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mpho5zc34mh5stksfbcbiish/bafkreieexd63bsqddazotxvahiudvna42unozrxtzb6p75hthbobrqeirm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T12:13:24.162Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:t5vcsbmgbjfyimkrhnkincgf/app.bsky.feed.post/3l55btcbb7h22",
+            "cid": "bafyreierif5tfbypblwa4btv26oaulkhyr5telytcptvvw4xe2mnwuv3oy",
+            "author": {
+                "did": "did:plc:t5vcsbmgbjfyimkrhnkincgf",
+                "handle": "maicon-1903.bsky.social",
+                "displayName": "Maicon Carard ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:t5vcsbmgbjfyimkrhnkincgf/bafkreicpdge6ty3gxcb3kr3646tyc4ba5qqku6wrhxxnahcrsd4kn36z2q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-11T01:48:09.017Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T13:36:49.016Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieaegp3psw3zr5suffa6vdc6pnhhkzfjacw6d4thygymfbpskqbju",
+                        "uri": "at://did:plc:k4mig4rp3vshgmxla3gcl5ov/app.bsky.feed.post/3l55bntdw6424"
+                    },
+                    "root": {
+                        "cid": "bafyreieaegp3psw3zr5suffa6vdc6pnhhkzfjacw6d4thygymfbpskqbju",
+                        "uri": "at://did:plc:k4mig4rp3vshgmxla3gcl5ov/app.bsky.feed.post/3l55bntdw6424"
+                    }
+                },
+                "text": "Só se for clima de velório, espero sinceramente amanhã protesto contra essa diretoria acadelada e incompetente. Que a torcida corra com o Brumm e Guerra do Grêmio."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T13:36:49.016Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qr3lrohfewzry7nfwbfpbbpd/app.bsky.feed.post/3l547n3hhr726",
+            "cid": "bafyreifpn2pu6pca4hbvlwq4dj3vsfmzjubchzwsdbg4ressd4axmaurqy",
+            "author": {
+                "did": "did:plc:qr3lrohfewzry7nfwbfpbbpd",
+                "handle": "joseroberto.camisa24.com",
+                "displayName": "José Roberto",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qr3lrohfewzry7nfwbfpbbpd/bafkreiebdcesxzl3vv3uqvwbh7os2saf57s5hkx2ccc6v22eqz4brepoba@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:26:37.525Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T03:24:54.204Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1598
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibn7yxppe4wrav35uryzrzqpztx5n6fi7qzysjhhls2x5zck5fsjq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 264157
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Olha que lugar legal para rolar um protesto!  É claro que um covarde não divulgaria jamais o local. Mas isso a gente descobre se quiser e houver clima de mobilização.\n\nBora? Todo mundo, superar divergências e lutar pelo que todos queremos: o bem do Flamengo!\n\nChega de dirigente na zona de conforto!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qr3lrohfewzry7nfwbfpbbpd/bafkreibn7yxppe4wrav35uryzrzqpztx5n6fi7qzysjhhls2x5zck5fsjq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qr3lrohfewzry7nfwbfpbbpd/bafkreibn7yxppe4wrav35uryzrzqpztx5n6fi7qzysjhhls2x5zck5fsjq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1598
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T03:24:54.204Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:q2da24ogg2bzm2al7evs6lrh/app.bsky.feed.post/3l4vkrfi4iz2n",
+            "cid": "bafyreictlfb5q7yhr7qkqvlivzb5rixlzka4uh46ekwinqpj5yben7epvy",
+            "author": {
+                "did": "did:plc:q2da24ogg2bzm2al7evs6lrh",
+                "handle": "csstats.com.br",
+                "displayName": "CS Stats BR",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:q2da24ogg2bzm2al7evs6lrh/bafkreih6vjs4sg4c6kgoaar6lzhx3dmzz6rwyztcasrt35e4k3x5wqenky@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T18:47:18.200Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T11:55:31.122Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 830,
+                                "width": 752
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxzrbvdadddfjevmrqclhcnp2gxqah5fknj55fukfabx6z2mlhdi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 275675
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "TODO O CLIMA no media day da Blast hoje.\n\nPara quem não sabe, o apex, snappi e o snax não participaram do media day hoje meio como um protesto pela treta do cadiaN\n\nDesde ontem alguns jogadores estão zoando no twitter falando que não estariam bem para o media day de hoje, até a vitality postou isso⚰️"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q2da24ogg2bzm2al7evs6lrh/bafkreicxzrbvdadddfjevmrqclhcnp2gxqah5fknj55fukfabx6z2mlhdi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:q2da24ogg2bzm2al7evs6lrh/bafkreicxzrbvdadddfjevmrqclhcnp2gxqah5fknj55fukfabx6z2mlhdi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 830,
+                            "width": 752
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 1,
+            "likeCount": 31,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-24T11:55:31.122Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m26hctuk66nh3z6trfmttlp4/app.bsky.feed.post/3l4tk2tlxk322",
+            "cid": "bafyreicssswpsf2gok73nct3ntunadm6evxv2v74bdbu4wrip5mectunw4",
+            "author": {
+                "did": "did:plc:m26hctuk66nh3z6trfmttlp4",
+                "handle": "conexaoplaneta.bsky.social",
+                "displayName": "Conexão Planeta ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreidv7vbc3n6tvhneve2ybtbqeakcojy5bwqyliwpkihtx5adyit5fq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T13:10:15.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T16:37:35.634Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Organizações da sociedade civil estão promovendo um protesto no local do encontro e em vários pontos da cidade, chamando a atenção sobre a responsabilidade das empresas e de seus executivos sobre a cr...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie54hs5pj45ekhzvjavp332g6v4arltnfbooiclvcuvczps7fs5ii"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 483016
+                        },
+                        "title": "Enquanto brasileiros respiram fumaça das queimadas, petroleiras realizam \"evento global\" no Rio",
+                        "uri": "https://conexaoplaneta.com.br/blog/enquanto-brasileiros-respiram-fumaca-das-queimadas-petroleiras-realizam-evento-global-no-rio/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Protesto"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 9,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "criseclimática"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 94,
+                            "byteStart": 78
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#Protesto denuncia responsabilidade das empresas e de seus executivos sobre a #criseclimática. Congresso com \"patrocínio master da Petrobras e do Governo Federal\" acontece na mesma semana em que parte do governo brasileiro participa da Semana do Clima em Nova York"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://conexaoplaneta.com.br/blog/enquanto-brasileiros-respiram-fumaca-das-queimadas-petroleiras-realizam-evento-global-no-rio/",
+                    "title": "Enquanto brasileiros respiram fumaça das queimadas, petroleiras realizam \"evento global\" no Rio",
+                    "description": "Organizações da sociedade civil estão promovendo um protesto no local do encontro e em vários pontos da cidade, chamando a atenção sobre a responsabilidade das empresas e de seus executivos sobre a cr...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreie54hs5pj45ekhzvjavp332g6v4arltnfbooiclvcuvczps7fs5ii@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T16:37:35.634Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cvo4cqyy7qdx2yg4gxyswp7d/app.bsky.feed.post/3l4tabctm3d22",
+            "cid": "bafyreihudlfp5qyrczx2bjxs4pnps3ro7oc7vqw527j4mxjxno7issqg3u",
+            "author": {
+                "did": "did:plc:cvo4cqyy7qdx2yg4gxyswp7d",
+                "handle": "uol.com.br",
+                "displayName": "UOL - Universo Online",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreidinik4lablsjmzg2q4qogjo5jkofpyih2o4cxrirdwx22ugpwh7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:19:32.498Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T13:40:06.985Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicygxqgp5xox7d37zsed4ygnsewgpx2a5aetpxn4zfcvdwwobrvmi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 379347
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Flamengo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 260,
+                            "byteStart": 251
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UOLEsporte"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 272,
+                            "byteStart": 261
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Futebol"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 281,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CLIMA TENSO NA GÁVEA! 😳\n\nO protesto foi realizado depois da derrota para o Grêmio, pelo Campeonato Brasileiro.\n\nA pressão é cada vez maior, uma vez que a briga pelo título ficou distante — está com 45 pontos, contra 56 do líder Botafogo.\n\n#Flamengo #UOLEsporte #Futebol"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreicygxqgp5xox7d37zsed4ygnsewgpx2a5aetpxn4zfcvdwwobrvmi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cvo4cqyy7qdx2yg4gxyswp7d/bafkreicygxqgp5xox7d37zsed4ygnsewgpx2a5aetpxn4zfcvdwwobrvmi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 39,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-23T13:40:06.985Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gecap3epysdxldnntfjr23zf/app.bsky.feed.post/3l4rxlaqtu22w",
+            "cid": "bafyreiej3n2u6c2tnegf756zsku6hewurzxua3hrh6kpzthn3ibrapgrgq",
+            "author": {
+                "did": "did:plc:gecap3epysdxldnntfjr23zf",
+                "handle": "danuca.bsky.social",
+                "displayName": "danuca (taylor's version)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gecap3epysdxldnntfjr23zf/bafkreidjfcsigyaphjjfrkqw6ibkxwyyhpe5sf24zzwgaorlk2ganayf2i@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T04:25:17.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T01:34:05.205Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sofrendo com cada post da marcha pelo clima, como eu queria estar presente...espero que tenha mais vzs, até pq precisamos de muito protesto pra alguma coisa acontecer"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T01:34:05.205Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l4qs67wr5c2s",
+            "cid": "bafyreiegyirxgve24amvfrrnqn5prpaazhxvpf6iulb3y6yuo7lwmdoxn4",
+            "author": {
+                "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                "handle": "jnascim.info",
+                "displayName": "Jeff Nascimento",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T10:36:21.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T14:24:39.908Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.external",
+                        "external": {
+                            "description": "Centro XI de Agosto chamou manifestação contra Pablo Marçal e Ricardo Nunes; campanha do prefeito informou que ele não comparecerá devido à alteração em cima da hora e risco de ambiente hostil",
+                            "thumb": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif3ilzmiwju7t72pilgscvqly4bvjiuucifnehiwlt35dnjdryjly"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 479477
+                            },
+                            "title": "Flow muda local de debate após alunos da USP convocarem protesto e Nunes decide não comparecer",
+                            "uri": "https://bit.ly/4eqR4hn"
+                        }
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreihct7n35kawy6gveogdihwusa63du2xfpan7pu2djx5i2jdgvnitm",
+                            "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l4qq33hiv32w"
+                        }
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/4eqR4hn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 299,
+                            "byteStart": 285
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sobre o debate Flow, ele ocorreria na USP, porém foi alterado para o Clube Sírio após o CA XI de Agosto, da Faculdade de Direito do Largo São Francisco, marcar protesto contra a participação de Marçal e Nunes. Mesmo com a mudança, Nunes não participará, temendo clima hostil bit.ly/4eqR4hn"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.external#view",
+                    "external": {
+                        "uri": "https://bit.ly/4eqR4hn",
+                        "title": "Flow muda local de debate após alunos da USP convocarem protesto e Nunes decide não comparecer",
+                        "description": "Centro XI de Agosto chamou manifestação contra Pablo Marçal e Ricardo Nunes; campanha do prefeito informou que ele não comparecerá devido à alteração em cima da hora e risco de ambiente hostil",
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreif3ilzmiwju7t72pilgscvqly4bvjiuucifnehiwlt35dnjdryjly@jpeg"
+                    }
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l4qq33hiv32w",
+                        "cid": "bafyreihct7n35kawy6gveogdihwusa63du2xfpan7pu2djx5i2jdgvnitm",
+                        "author": {
+                            "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                            "handle": "jnascim.info",
+                            "displayName": "Jeff Nascimento",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-04-22T10:36:21.706Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-22T13:47:07.106Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 415,
+                                            "width": 739
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreibr222pjeonfolqbyjwcozqa6af5ijtikzrj7egl6u3fmpubbm6fa"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 208762
+                                        }
+                                    }
+                                ]
+                            },
+                            "facets": [
+                                {
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#tag",
+                                            "tag": "Eleições2024"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 27,
+                                        "byteStart": 12
+                                    }
+                                },
+                                {
+                                    "$type": "app.bsky.richtext.facet",
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#mention",
+                                            "did": "did:plc:aduoxavv4nlceto54tgu3fjr"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 177,
+                                        "byteStart": 167
+                                    }
+                                },
+                                {
+                                    "$type": "app.bsky.richtext.facet",
+                                    "features": [
+                                        {
+                                            "$type": "app.bsky.richtext.facet#mention",
+                                            "did": "did:plc:dd7z74qzhpf3rv2mtte4qd2i"
+                                        }
+                                    ],
+                                    "index": {
+                                        "byteEnd": 211,
+                                        "byteStart": 199
+                                    }
+                                }
+                            ],
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "📆🗳️ #Eleições2024: Próximos debates entre candidaturas à Prefeitura de São Paulo\n\n→ 23/9 (seg), Flow Podcast\n→ 28/9 (sáb), TV Record\n→ 30/9 (seg), @folha.com/UOL \n→ 3/10 (qui), @tvglobo.com"
+                        },
+                        "labels": [],
+                        "likeCount": 196,
+                        "replyCount": 44,
+                        "repostCount": 29,
+                        "quoteCount": 268,
+                        "indexedAt": "2024-09-22T13:47:07.106Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreibr222pjeonfolqbyjwcozqa6af5ijtikzrj7egl6u3fmpubbm6fa@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreibr222pjeonfolqbyjwcozqa6af5ijtikzrj7egl6u3fmpubbm6fa@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 415,
+                                            "width": 739
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 9,
+            "repostCount": 18,
+            "likeCount": 200,
+            "quoteCount": 7,
+            "indexedAt": "2024-09-22T14:24:39.908Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yiw4ndppkxe64in3hvcjfjsm/app.bsky.feed.post/3l4mzvvbqjc2a",
+            "cid": "bafyreifi4tmsfd3zas2dtgrb2vvaz4zpspgqf2yekdqm7kdkzll5x5qlom",
+            "author": {
+                "did": "did:plc:yiw4ndppkxe64in3hvcjfjsm",
+                "handle": "alerson1.bsky.social",
+                "displayName": "Alerson Sousa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yiw4ndppkxe64in3hvcjfjsm/bafkreia7fwo2ykyw4vnygjg7yujhua5ssgjso26nsqs7ealnogqfsqt2pq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:yiw4ndppkxe64in3hvcjfjsm",
+                        "uri": "at://did:plc:yiw4ndppkxe64in3hvcjfjsm/app.bsky.actor.profile/self",
+                        "cid": "bafyreidcbdaja63r6xqanhgg67lmlogliirpmyq3obkr42n7baxd56jee4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-27T00:01:45.154Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T02:32:30.113Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifafx6q25tpj5huob45n3sxyniyfcbsvwlkbrjw6vok3uzz2qdiva",
+                        "uri": "at://did:plc:wxwrwsrokntu4m5jmrlmf46i/app.bsky.feed.post/3l4myqe647v2q"
+                    },
+                    "root": {
+                        "cid": "bafyreifafx6q25tpj5huob45n3sxyniyfcbsvwlkbrjw6vok3uzz2qdiva",
+                        "uri": "at://did:plc:wxwrwsrokntu4m5jmrlmf46i/app.bsky.feed.post/3l4myqe647v2q"
+                    }
+                },
+                "text": "Protesto pelo clima seco no Brasil"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T02:32:30.113Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tqi36a2r3hhqcb72e6srrv55/app.bsky.feed.post/3l4moucrnsv2u",
+            "cid": "bafyreibfnv37w5f73ivpuugjzon2jcyc3ovjtxdv6ufm64bn5vffh7cn7i",
+            "author": {
+                "did": "did:plc:tqi36a2r3hhqcb72e6srrv55",
+                "handle": "luferreirorocher.bsky.social",
+                "displayName": "o lucas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tqi36a2r3hhqcb72e6srrv55/bafkreib5abdrcbhdkq2uuigpt2mitbnltmisu4vwvewbhivk3r4zi7h7la@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T00:07:22.921Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T23:14:48.275Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Tristeza enorme de ir na marcha pelo clima e o protesto todo ter tamanho comparável a um isopor da unirio"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T23:14:47.515Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uroycsfg7xcis4fgykokosjs/app.bsky.feed.post/3l4mkfppes62f",
+            "cid": "bafyreigtiof2ctzlapshantac2u6evomh2sptph25a2katb6c4sjl7fa5i",
+            "author": {
+                "did": "did:plc:uroycsfg7xcis4fgykokosjs",
+                "handle": "thiagodomenici.bsky.social",
+                "displayName": "Thiago Domenici",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uroycsfg7xcis4fgykokosjs/bafkreifpne4pwgfi3wj2quzyqpys3wky7bumrt52ewacz2lsanliqmzmk4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T12:25:41.496Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T21:55:02.427Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Jovens pelo Clima e Fridays for Future exigem resposta coordenada entre ministérios para enfrentar a crise climática e queimadas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreih6co2l2ixyw2cr3v2gqdaglunpcoolihgwzvesp3hjowasay36eq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 811608
+                        },
+                        "title": "Protesto pressiona Ministério da Agricultura por queimadas; entenda",
+                        "uri": "https://apublica.org/nota/protesto-pressiona-ministerio-da-agricultura-por-queimadas-entenda/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://apublica.org/nota/protesto-pressiona-ministerio-da-agricultura-por-queimadas-entenda/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 239,
+                            "byteStart": 211
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Protesto pressiona Ministério por queimadas no agronegócio e não é o do Meio Ambiente. Jovens pelo Clima e Fridays for Future exigem resposta coordenada entre ministérios para enfrentar a crise climática\n apublica.org/nota/protest..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://apublica.org/nota/protesto-pressiona-ministerio-da-agricultura-por-queimadas-entenda/",
+                    "title": "Protesto pressiona Ministério da Agricultura por queimadas; entenda",
+                    "description": "Jovens pelo Clima e Fridays for Future exigem resposta coordenada entre ministérios para enfrentar a crise climática e queimadas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uroycsfg7xcis4fgykokosjs/bafkreih6co2l2ixyw2cr3v2gqdaglunpcoolihgwzvesp3hjowasay36eq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T21:55:02.427Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.feed.post/3l4e75ejmyy2w",
+            "cid": "bafyreigkbnn5ytxpvzh4co334fwtxoxbiog2tfpdkxnbxulcm5ia3327ye",
+            "author": {
+                "did": "did:plc:tdgb5i65nimnto5nwd6rijzd",
+                "handle": "metalmoose.bsky.social",
+                "displayName": "moose 🤘",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreidkeydunovigoa6iqct6jjzx7b3ytbq2tq3d5xdoihh7g3blo5ige@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:tdgb5i65nimnto5nwd6rijzd",
+                        "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.actor.profile/self",
+                        "cid": "bafyreifkoxqyd75gzwbhkxtuye4nfop2wjoefwk75ybvdvmnfa3nznndhu",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-23T19:14:34.126Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T14:12:13.262Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "ATO GLOBAL PELO CLIMA\n#OFUTURONÃODEMORA\nO Brasil arde em chamas\n20/09 (SEXTA), 16H MINISTÉRIO DA AGRICULTURA E PECUÁRIA",
+                            "aspectRatio": {
+                                "height": 1205,
+                                "width": 1179
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 400416
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihub2tshot6wbp5mfg7qzj5fz63m4xy5tyfo2egmn2kzfjjwqvj2e",
+                        "uri": "at://did:plc:fqiatejd2mv34wztyh2euto7/app.bsky.feed.post/3l4e6xbsilu2f"
+                    },
+                    "root": {
+                        "cid": "bafyreihub2tshot6wbp5mfg7qzj5fz63m4xy5tyfo2egmn2kzfjjwqvj2e",
+                        "uri": "at://did:plc:fqiatejd2mv34wztyh2euto7/app.bsky.feed.post/3l4e6xbsilu2f"
+                    }
+                },
+                "text": "dia jairme ajuda a divulgar o protesto em brasília pra gente por favor 🥹"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi@jpeg",
+                        "alt": "ATO GLOBAL PELO CLIMA\n#OFUTURONÃODEMORA\nO Brasil arde em chamas\n20/09 (SEXTA), 16H MINISTÉRIO DA AGRICULTURA E PECUÁRIA",
+                        "aspectRatio": {
+                            "height": 1205,
+                            "width": 1179
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T14:12:13.262Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.feed.post/3l4e5iplvli2o",
+            "cid": "bafyreica6r2cabht2b7r74ckdrpwjc5i2qw6jyign3u5cz3akssvapxeea",
+            "author": {
+                "did": "did:plc:tdgb5i65nimnto5nwd6rijzd",
+                "handle": "metalmoose.bsky.social",
+                "displayName": "moose 🤘",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreidkeydunovigoa6iqct6jjzx7b3ytbq2tq3d5xdoihh7g3blo5ige@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:tdgb5i65nimnto5nwd6rijzd",
+                        "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.actor.profile/self",
+                        "cid": "bafyreifkoxqyd75gzwbhkxtuye4nfop2wjoefwk75ybvdvmnfa3nznndhu",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-23T19:14:34.126Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T13:42:46.477Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "chamada para protesto contra o agro. \n“ATO GLOBAL PELO CLIMA\n#OFUTURONÃODEMORA\nO Brasil arde em chamas.\n20/09 (SEXTA), 16H MINISTÉRIO DA AGRICULTURA E PECUÁRIA.”",
+                            "aspectRatio": {
+                                "height": 1205,
+                                "width": 1179
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 400416
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiexd5tsw5i3eigcufikmwggdqnafnsm3m2ts34iuhovhsd25d6xgm",
+                        "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.feed.post/3l4e2y3tcnv2i"
+                    },
+                    "root": {
+                        "cid": "bafyreiexd5tsw5i3eigcufikmwggdqnafnsm3m2ts34iuhovhsd25d6xgm",
+                        "uri": "at://did:plc:tdgb5i65nimnto5nwd6rijzd/app.bsky.feed.post/3l4e2y3tcnv2i"
+                    }
+                },
+                "text": "btw conto com vossas presenças no ato sexta ein PRA CIMA DELES"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tdgb5i65nimnto5nwd6rijzd/bafkreib4v5gt7ernv42rub2yl3tgpwlovumvmjvjn5mj6mdk7rl3atrwpi@jpeg",
+                        "alt": "chamada para protesto contra o agro. \n“ATO GLOBAL PELO CLIMA\n#OFUTURONÃODEMORA\nO Brasil arde em chamas.\n20/09 (SEXTA), 16H MINISTÉRIO DA AGRICULTURA E PECUÁRIA.”",
+                        "aspectRatio": {
+                            "height": 1205,
+                            "width": 1179
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T13:42:46.477Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pv6k5kababnsmkaahe7pukyn/app.bsky.feed.post/3l4aj2obqu524",
+            "cid": "bafyreie6ih7tva5rgk7ztearjxme7w5p7yufoaqhjxf75i4p7eqin3doim",
+            "author": {
+                "did": "did:plc:pv6k5kababnsmkaahe7pukyn",
+                "handle": "diegogama.bsky.social",
+                "displayName": "diego ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pv6k5kababnsmkaahe7pukyn/bafkreicuvny47ubbbsr56ocpcdpq3s47xzp3fdxiqzpflwfj43cboblyyu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T01:31:53.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T02:59:00.848Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid4j677kh7kgpoujdwouhjrcasznivcngvbh66pvbxl7rmd7jzane",
+                        "uri": "at://did:plc:pv6k5kababnsmkaahe7pukyn/app.bsky.feed.post/3l4aiymo54w2y"
+                    },
+                    "root": {
+                        "cid": "bafyreid4j677kh7kgpoujdwouhjrcasznivcngvbh66pvbxl7rmd7jzane",
+                        "uri": "at://did:plc:pv6k5kababnsmkaahe7pukyn/app.bsky.feed.post/3l4aiymo54w2y"
+                    }
+                },
+                "text": "vou comer carne em protesto do clima estar bom"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T02:59:00.848Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:h6krjy6a4yev27gwcw2fquw2/app.bsky.feed.post/3l4adwqankv24",
+            "cid": "bafyreiebhx3hxvjylous7mle3zyn3rvr44cq7a2hioioyxy5ojlqsuqooy",
+            "author": {
+                "did": "did:plc:h6krjy6a4yev27gwcw2fquw2",
+                "handle": "beatrizink.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h6krjy6a4yev27gwcw2fquw2/bafkreigt2u2lzy4gqk3xokx5gbu3ixmzlut6q4heuiybnhemzvj3p6ppye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T14:53:51.908Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T01:27:20.064Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fui no protesto sobre o clima aqui em SP é que tristeza que tava. Muito vazio e a polícia ainda reprimiu."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T01:27:20.064Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3aw37x4k67nrh656uu2g7hsw/app.bsky.feed.post/3l42xviavzh2h",
+            "cid": "bafyreicxwtgox5zswcdubfgeajx6s5zgxdek4ewrhe4rghqw6pdceqvlfe",
+            "author": {
+                "did": "did:plc:3aw37x4k67nrh656uu2g7hsw",
+                "handle": "junogueiraoficial.bsky.social",
+                "displayName": "Ju Nogueira",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3aw37x4k67nrh656uu2g7hsw/bafkreigybahmhtjfumflkcphtjfqvx4osg7vcsl4c7d4k6uwgq4piiq75m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T22:46:05.899Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T22:08:34.602Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiakvmknbyj3e4mdy2c3s6jvyvucbpxiblct3ekl6hnvyv47lzfnpi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 359344
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/lFhc3qHSRbI"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 124,
+                            "byteStart": 104
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🔥Deolane e Mãe SÃO MACETADAS pelo JUIZ E PASSAM VERGONHA; DETENTAS FAZEM PROTESTO e CLIMA É TENSO\nyoutu.be/lFhc3qHSRbI"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3aw37x4k67nrh656uu2g7hsw/bafkreiakvmknbyj3e4mdy2c3s6jvyvucbpxiblct3ekl6hnvyv47lzfnpi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3aw37x4k67nrh656uu2g7hsw/bafkreiakvmknbyj3e4mdy2c3s6jvyvucbpxiblct3ekl6hnvyv47lzfnpi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 32,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T22:08:34.602Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:s44dsefepnxkwdimwg5p6a3q/app.bsky.feed.post/3l3x6hi757m2v",
+            "cid": "bafyreidyvvzwpdw2nxsellf7zzpzgzgeaw6euul56qvoqrzrplzwkryeri",
+            "author": {
+                "did": "did:plc:s44dsefepnxkwdimwg5p6a3q",
+                "handle": "vitfeijoa.bsky.social",
+                "displayName": "Vitorr",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s44dsefepnxkwdimwg5p6a3q/bafkreibwxnfsdbsyii53qicrsrbgutygvduauev7uilnkcpx4o4hv4jwda@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T08:42:14.598Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T09:55:21.065Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Cara o Brasil tá pegando fogo e o q me assusta não é nem o governo fazendo pouco caso e sim a população não se revoltando, nessas horas já era pra bloquearem uma via, pelo menos uma grevezinha em protesto pelo clima, eu sei que não sou a pessoa mais militante mas é triste ver isso, sinto que vamos +"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T09:55:21.065Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gg3gmctt7irnhxuw7yerixhx/app.bsky.feed.post/3l3rcvi4vkv2d",
+            "cid": "bafyreih3khceetwhpm5pklw4fbmd5vkzqyc2gen4e273j2aajonpj4pnv4",
+            "author": {
+                "did": "did:plc:gg3gmctt7irnhxuw7yerixhx",
+                "handle": "carolfrgr.bsky.social",
+                "displayName": "Carolis 💐",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gg3gmctt7irnhxuw7yerixhx/bafkreig7ifvw7qbkxin7kqescf7h2fa53pejhcdqfz3efetmcgwfr3zkfq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T09:26:22.898Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T01:58:47.257Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "ideia: e se a gnt TODO MUNDO se juntasse e literalmente m4t4ss3 os bilionarios em protesto pelo clima???"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T01:58:47.257Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:byswtkfmraxoq7nu4775ug47/app.bsky.feed.post/3l3qefxoo7v2d",
+            "cid": "bafyreibxbdaotqyqum5vkaz64j3ivwva2cmfoq6dunohioj26t7mhqecje",
+            "author": {
+                "did": "did:plc:byswtkfmraxoq7nu4775ug47",
+                "handle": "cmopesil.bsky.social",
+                "displayName": "Batoré dançando em Bande à Part c/ Paulinho Gogó e Ronald Golias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:byswtkfmraxoq7nu4775ug47/bafkreifezjexihfewlahxolcfuvzwyho4oquhwrqpjp55ftz7iibio4ahm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-09-04T21:59:54.517Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-09T16:53:13.517Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agora, não vai ter um protesto pelo clima?"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-09T16:53:13.517Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3ewbak7ji6avodc3tfhzwaka/app.bsky.feed.post/3l32xavujjr24",
+            "cid": "bafyreidyr4uzvsq2casstw5fclez4z2wpzjr546q4rzgvbtm7gyokjax6y",
+            "author": {
+                "did": "did:plc:3ewbak7ji6avodc3tfhzwaka",
+                "handle": "byinchauist.bsky.social",
+                "displayName": " isa ++ 🌈",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3ewbak7ji6avodc3tfhzwaka/bafkreiffupb677ic3pkfz5fqknwhop764mcvhcpnucea6tcjowgbbqobfq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T19:53:55.425Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T04:31:52.338Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieigs5azxpkah5wax6wrlvgcbz2z4danw6nq535emq63k7ieq53oa",
+                        "uri": "at://did:plc:cmiddg4zs6xn4cg7hbfvg5ns/app.bsky.feed.post/3l32wvynkvg2v"
+                    },
+                    "root": {
+                        "cid": "bafyreiencf2swc6ef6omld7t7ac4r3rqvbmoswgvf4mvxvirqozagkcxvu",
+                        "uri": "at://did:plc:3ewbak7ji6avodc3tfhzwaka/app.bsky.feed.post/3l32sxtzib52g"
+                    }
+                },
+                "text": "mulher tá muito bom eu particularmente tô rindo demais com tudo, tá um clima de enterro porém todo mundo zuando\ntem até gringo usando vpn pro Brasil em protesto"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T04:31:52.338Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3kttnnwprss2v",
+            "cid": "bafyreiehcmorfqe7zac7cheymmohztm5gqx3suqxucqyzoej4mydmvhfle",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-01T04:48:01.729Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Organização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibeah6klrvjtnnns4pksln5ts3k2ztyka542r42qwx2o6u6ex23ye"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 290792
+                        },
+                        "title": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo",
+                        "uri": "https://revistaforum.com.br/brasil/sul/2024/5/31/ambientalistas-do-rs-protestam-contra-descaso-de-eduardo-leite-sebastio-melo-159749.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Resistencia2249Dias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 239,
+                            "byteStart": 219
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo\nOrganização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas\n#Resistencia2249Dias\nSiga nosso BlueSky DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/brasil/sul/2024/5/31/ambientalistas-do-rs-protestam-contra-descaso-de-eduardo-leite-sebastio-melo-159749.html",
+                    "title": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo",
+                    "description": "Organização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreibeah6klrvjtnnns4pksln5ts3k2ztyka542r42qwx2o6u6ex23ye@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 25,
+            "quoteCount": 2,
+            "indexedAt": "2024-06-01T04:48:01.729Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:22u3xlfdxqxyzva2fsljotcy/app.bsky.feed.post/3kttag6j5hs2m",
+            "cid": "bafyreiflwnkexn37jgkjbwkjzhwnlloz5sgri7lwcl2lbzmi7pdzxp2spe",
+            "author": {
+                "did": "did:plc:22u3xlfdxqxyzva2fsljotcy",
+                "handle": "revistaforum.com.br",
+                "displayName": "Revista Fórum",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreical2bujjrg6eepu62cgihuzbwqmfxogaxrss7gzphp5igibhavsm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T14:05:59.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-01T00:58:14.076Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Organização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifrkqi46zfw546ftlxgp4ybhh5wgnmleneebcyt7pnbpjdvt2gryq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 350492
+                        },
+                        "title": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo",
+                        "uri": "https://revistaforum.com.br/brasil/sul/2024/5/31/ambientalistas-do-rs-protestam-contra-descaso-de-eduardo-leite-sebastio-melo-159749.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Fórum"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 240,
+                            "byteStart": 233
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://revistaforum.com.br/brasil/sul/2024/5/31/ambientalistas-do-rs-protestam-contra-descaso-de-eduardo-leite-sebastio-melo-159749.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 277,
+                            "byteStart": 242
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo\n\nOrganização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas\n\n📍Leia na #Fórum\n\nrevistaforum.com.br/brasil/sul/2..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/brasil/sul/2024/5/31/ambientalistas-do-rs-protestam-contra-descaso-de-eduardo-leite-sebastio-melo-159749.html",
+                    "title": "Ambientalistas do RS protestam contra descaso de Eduardo Leite e Sebastião Melo",
+                    "description": "Organização não-governamental Eco Pelo Clima liderou uma marcha de protesto como parte do movimento global sobre mudanças climáticas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:22u3xlfdxqxyzva2fsljotcy/bafkreifrkqi46zfw546ftlxgp4ybhh5wgnmleneebcyt7pnbpjdvt2gryq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 23,
+            "likeCount": 59,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-01T00:58:14.076Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:eqsgzurx4nvc4jlvrewfd3ps/app.bsky.feed.post/3kqvzqntnpq2f",
+            "cid": "bafyreidxa2gefls5kkrkbshl3pxm23gprdb7mkbg24p3bsev5c2aww3yba",
+            "author": {
+                "did": "did:plc:eqsgzurx4nvc4jlvrewfd3ps",
+                "handle": "eide639.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:eqsgzurx4nvc4jlvrewfd3ps/bafkreidrmalmzkex7tmgd752wh27axlxbzdzhsbnh7arxz2gnzlx27ekge@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T09:25:42.614Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-24T23:21:13.675Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicvdsvypb7xloqjzus6guwm5gl75w4b264esdlne2nkzk4xj3izly",
+                        "uri": "at://did:plc:jkj3k7xmsifi5epxwrrxrxp2/app.bsky.feed.post/3kqvuptmkxs2s"
+                    },
+                    "root": {
+                        "cid": "bafyreicvdsvypb7xloqjzus6guwm5gl75w4b264esdlne2nkzk4xj3izly",
+                        "uri": "at://did:plc:jkj3k7xmsifi5epxwrrxrxp2/app.bsky.feed.post/3kqvuptmkxs2s"
+                    }
+                },
+                "text": "Adiantada pela sobrevivência no clima confuso. A quaresmeira do meu caminho não deu flores este ano em protesto pela poda drástica."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-24T23:21:13.675Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sene4pxjyn5hvdgiad75psoc/app.bsky.feed.post/3keftcdcwac2k",
+            "cid": "bafyreig6ygdhwsnmn3szxqxpgzf3bpxj5srq46mpbveus6gnmkjw3cijry",
+            "author": {
+                "did": "did:plc:sene4pxjyn5hvdgiad75psoc",
+                "handle": "handle.invalid",
+                "displayName": "diffsniff",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreia2fcwl4mn5hxdx5xvox224ubn7z3edm4xqyltacbaxkgxlk5ud7i@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-25T22:49:25.360Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-17T19:40:55.321Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Manifestantes condenam \"ataques recorrentes à liberdade de expressão\".",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihes6fdpolgn6mwujyxehsxck3psuxojed4jundagqlezde3mewlm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 17642
+                        },
+                        "title": "Sete estudantes detidos pela PSP em protesto pelo clima na Reitoria da Universidade de Lisboa",
+                        "uri": "https://www.cmjornal.pt/sociedade/detalhe/intervencao-da-psp-em-protesto-de-estudantes-na-reitoria-da-universidade-de-lisboa"
+                    }
+                },
+                "langs": [
+                    "pt-PT"
+                ],
+                "text": "Sete estudantes detidos pela PSP em protesto pelo clima na Reitoria da Universidade de Lisboa"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.cmjornal.pt/sociedade/detalhe/intervencao-da-psp-em-protesto-de-estudantes-na-reitoria-da-universidade-de-lisboa",
+                    "title": "Sete estudantes detidos pela PSP em protesto pelo clima na Reitoria da Universidade de Lisboa",
+                    "description": "Manifestantes condenam \"ataques recorrentes à liberdade de expressão\".",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreihes6fdpolgn6mwujyxehsxck3psuxojed4jundagqlezde3mewlm@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2023-11-17T19:40:55.321Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sene4pxjyn5hvdgiad75psoc/app.bsky.feed.post/3kedmhcitmc2a",
+            "cid": "bafyreiedhfhn6be4hqmywcdfdeyz4fu4eyknjrjoplhsuikx74uiprfhqe",
+            "author": {
+                "did": "did:plc:sene4pxjyn5hvdgiad75psoc",
+                "handle": "handle.invalid",
+                "displayName": "diffsniff",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreia2fcwl4mn5hxdx5xvox224ubn7z3edm4xqyltacbaxkgxlk5ud7i@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-25T22:49:25.360Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-16T22:33:06.572Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Representantes do Chega foram distribuir panfletos contra o activismo climático na Faculdade de Ciências Sociais e Humanas e foram vaiados pelos estudantes.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigmka67c4zsamsbxi4omwgoryd66c4oerb267mwthzmoagfxqubay"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 141376
+                        },
+                        "title": "Alunos em protesto pelo clima expulsam representantes do Chega da Faculdade Ciências Sociais",
+                        "uri": "https://www.publico.pt/2023/11/16/azul/noticia/alunos-protesto-clima-expulsam-representantes-chega-fcsh-2070471"
+                    }
+                },
+                "langs": [
+                    "pt-PT"
+                ],
+                "text": "Alunos em protesto pelo clima expulsam representantes do Chega da Faculdade Ciências Sociais"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.publico.pt/2023/11/16/azul/noticia/alunos-protesto-clima-expulsam-representantes-chega-fcsh-2070471",
+                    "title": "Alunos em protesto pelo clima expulsam representantes do Chega da Faculdade Ciências Sociais",
+                    "description": "Representantes do Chega foram distribuir panfletos contra o activismo climático na Faculdade de Ciências Sociais e Humanas e foram vaiados pelos estudantes.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreigmka67c4zsamsbxi4omwgoryd66c4oerb267mwthzmoagfxqubay@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-16T22:33:06.572Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wxifol6tegoaxu6tgpad252q/app.bsky.feed.post/3kcntggnjif2r",
+            "cid": "bafyreignuxwqoux64jndorv4snp6qqanjbfftk5q3apvtrmrutnhrehqzi",
+            "author": {
+                "did": "did:plc:wxifol6tegoaxu6tgpad252q",
+                "handle": "elisapolonio.bsky.social",
+                "displayName": "Eli P.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wxifol6tegoaxu6tgpad252q/bafkreia4iffhsayh2qxj2avgzcr4mgmvqfpss7ych5gsqkkgnmgor373be@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:wxifol6tegoaxu6tgpad252q",
+                        "uri": "at://did:plc:wxifol6tegoaxu6tgpad252q/app.bsky.actor.profile/self",
+                        "cid": "bafyreibmuhycxgsxt664t2b72ez2gb6htmupbgdoxcddvbjz33t3bnyfxq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-12T14:25:47.615Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-26T13:14:09.086Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "dps do 5x0, o clima do torcedor padrão pode até ter amainado, mas já temos um protesto marcado na porta do CT:\n\ngatos contra Tia Leila.\n\nAntes o point de tramzas deles era lá no CT, e agora é no Jardim das Perdizes. Tia Leila com ctz instalou cabine de drive-in pros gatos pra faturar em cima deles."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-26T13:14:09.086Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sene4pxjyn5hvdgiad75psoc/app.bsky.feed.post/3kauak4iaea2j",
+            "cid": "bafyreiho6q4nldi5vfvckvropow25qxirvtduk4lmgslznfcj4f5ttcvyu",
+            "author": {
+                "did": "did:plc:sene4pxjyn5hvdgiad75psoc",
+                "handle": "handle.invalid",
+                "displayName": "diffsniff",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreia2fcwl4mn5hxdx5xvox224ubn7z3edm4xqyltacbaxkgxlk5ud7i@jpeg",
+                "labels": [],
+                "createdAt": "2023-08-25T22:49:25.360Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-03T15:34:25.059Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Dois manifestantes penduraram-se numa ponte pedonal e tiveram de ser retirados com uma autoescada.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiao332hitcvjpgtqbox5pjce54gpukl7frjhy2wv4fyu54plexoay"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 16583
+                        },
+                        "title": "Protesto pelo clima pára a Segunda Circular em Lisboa. Onze ativistas acabaram detidos",
+                        "uri": "https://www.cmjornal.pt/multimedia/fotogalerias/detalhe/protesto-pelo-clima-que-para-a-segunda-circular-em-lisboa-onze-ativistas-acabaram-detidos"
+                    }
+                },
+                "langs": [
+                    "pt-PT"
+                ],
+                "text": "Protesto pelo clima pára a Segunda Circular em Lisboa. Onze ativistas acabaram detidos"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.cmjornal.pt/multimedia/fotogalerias/detalhe/protesto-pelo-clima-que-para-a-segunda-circular-em-lisboa-onze-ativistas-acabaram-detidos",
+                    "title": "Protesto pelo clima pára a Segunda Circular em Lisboa. Onze ativistas acabaram detidos",
+                    "description": "Dois manifestantes penduraram-se numa ponte pedonal e tiveram de ser retirados com uma autoescada.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sene4pxjyn5hvdgiad75psoc/bafkreiao332hitcvjpgtqbox5pjce54gpukl7frjhy2wv4fyu54plexoay@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-03T15:34:25.059Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xxozhzz4ifugvmspgqufrtft/app.bsky.feed.post/3k7dxgi27tg2t",
+            "cid": "bafyreic7xo3yaocvnv66llbr4tu3tsm6lxojl35xhe6eumrggztn6ornya",
+            "author": {
+                "did": "did:plc:xxozhzz4ifugvmspgqufrtft",
+                "handle": "imprensafalsa.com",
+                "displayName": "Imprensa Falsa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xxozhzz4ifugvmspgqufrtft/bafkreicmfux25cwlpxqh33bnjip2dtcwixlo5kgemvjol43nzwf5me4ikq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-20T11:35:33.646Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-14T10:43:31.599Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Elementos do colectivo Greve Climática Estudantil de Lisboa conseguiram obrigar o Conselho de Ministros a alterar o local da reunião, esta quinta-feira, depois de bloquearem o acesso ao complexo do ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigttswrddl62xlaabmexyailhsyfjwfujgffcka4kaqetndekkmmi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 252053
+                        },
+                        "title": "Activista pelo clima impedido de chegar a protesto porque tinha um activista pelo clima amarrado à ...",
+                        "uri": "https://imprensafalsa.com/activista-pelo-clima-impedido-de-chegar-a-protesto-porque-tinha-um-activista-pelo-clima-amarrado-a-porta-do-predio/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Activista pelo clima impedido de chegar a protesto porque tinha um activista pelo clima amarrado à porta do prédio"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://imprensafalsa.com/activista-pelo-clima-impedido-de-chegar-a-protesto-porque-tinha-um-activista-pelo-clima-amarrado-a-porta-do-predio/",
+                    "title": "Activista pelo clima impedido de chegar a protesto porque tinha um activista pelo clima amarrado à ...",
+                    "description": "Elementos do colectivo Greve Climática Estudantil de Lisboa conseguiram obrigar o Conselho de Ministros a alterar o local da reunião, esta quinta-feira, depois de bloquearem o acesso ao complexo do ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xxozhzz4ifugvmspgqufrtft/bafkreigttswrddl62xlaabmexyailhsyfjwfujgffcka4kaqetndekkmmi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 1,
+            "indexedAt": "2023-09-14T10:43:31.599Z",
+            "labels": []
+        }
+    ]
+}

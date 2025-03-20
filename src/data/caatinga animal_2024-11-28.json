@@ -1,0 +1,404 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:y6souaqtrqazdso4hjym7bxx/app.bsky.feed.post/3l4ouknmtus2i",
+            "cid": "bafyreie2rkrd746wdog67ovhayb2sicnbf624bvzr7jo45zbnptbbgerze",
+            "author": {
+                "did": "did:plc:y6souaqtrqazdso4hjym7bxx",
+                "handle": "tcuide.bsky.social",
+                "displayName": "TChris Esquerda ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreif2klkojoid23goza3ae5rrpgrapxrv4ebza7v3jxjk5rj7ffba4y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T03:02:26.833Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:02:04.921Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 735
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 859202
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A desertificação atingia 13% do semiárido brasileiro, em 2019, e ameaça o bioma da caatinga. \nA causa é a pecuária e queimadas. Ou seja, o agronegócio que está detonando nossa vegetação nativa e, com ela, toda a cadeia animal do bioma. São 10 estados atingidos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:y6souaqtrqazdso4hjym7bxx/bafkreigy3taqiy4pmuuqjyeriv5nh46bctr44sl4klfvabkcrvuepxfgdu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1124,
+                            "width": 735
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:02:04.921Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:j3cx5huaxmibg6xpkzu6uaub/app.bsky.feed.post/3l4gu2p5jp427",
+            "cid": "bafyreicbx25hon24rut24bv2zknj6mygpne2tuu4liiljbceikpr5sl3ey",
+            "author": {
+                "did": "did:plc:j3cx5huaxmibg6xpkzu6uaub",
+                "handle": "linguaferina.bsky.social",
+                "displayName": "Língua Ferina",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j3cx5huaxmibg6xpkzu6uaub/bafkreid7ob5xyjjmg2xmozaruwfp6obxzkx7sukonw6brv2qkodwxhx76u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:16:47.520Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T15:31:51.344Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 172,
+                            "byteStart": 148
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Alguém explique: a Caatinga é seca sobretudo de agosto a dezembro, por que não queimar tudo anualmente? por que o semiárido não tá queimando? @marinasilva.bsky.social explica? Não é o clima é animal de duas pernas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T15:31:51.344Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.feed.post/3kroqvwzvjm2j",
+            "cid": "bafyreiapnalgokwadbo3duo4yg3ial3wn6zhzcxu6tt2u4axmqklfrxorm",
+            "author": {
+                "did": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                "handle": "agricultorurbano07.bsky.social",
+                "displayName": "Agroflorestor urbano 🌴🌳🍍🍒",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreiecgvuwadkolwab3lkqtsbizeahmhy75cpmjo6ufwrt763dnsbsdm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:5ndk2rrlgj5lcdoc7ffg36zf",
+                        "uri": "at://did:plc:5ndk2rrlgj5lcdoc7ffg36zf/app.bsky.actor.profile/self",
+                        "cid": "bafyreierwxfaj77qpxpf7v2sfpg5tygvfyhclxmefodd6xad4hgsgqdoga",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-12-22T22:55:23.995Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-04T19:20:32.271Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Parede rochosa com superfície irregular, em tons entre laranja e marrom claro. Possui pinturas rupestres pré-históricas na cor vermelho-escuro. Ao centro, há o contorno do perfil de uma capivara, com cabeça e orelhas arredondadas, rabo curto, e pernas mais largas e compridas, além de uma mancha escura ao longo de toda a barriga, o que simboliza uma gravidez, e logo abaixo, um filhote de capivara, ambos com as patas dianteiras e traseiras mais afastadas entre si, como se estivessem correndo. Acima, há o perfil preenchido com cor de um animal de 4 patas com chifres, e ao lado, alguns humanos, representados apenas com traços para os membros, e bola para a cabeça. Mas afastado, à direita, há símbolos abstratos, como pequenas elipses, traços curtos e grossos, e outros desenhos de caráter mais abstrato.",
+                            "aspectRatio": {
+                                "height": 1125,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib2adcocahvi65kwxmljiiyc3dobhh36gxtczvbym7o3chfbbmu2e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 808935
+                            }
+                        },
+                        {
+                            "alt": "Imagem no formato retrato: à esquerda superior, um céu semi-nublado, e à direita superior e parte inferior, um paredão rochoso irregular, composto por partes arredondadas, como coxinhas gigantes, na cor marrom-alaranjado, com cerca de 90 metros de altura. Na parte arredondada mais próxima, o paredão é inclinado para frente, criando a sensação de uma onda gigante. Na parte mais baixa, topos da copas de árvores folheadas e bem verdes, de mata atlântica / caatinga no período chuvoso.",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreih3ap4kkxdq6b4xdz66fpgk6hadgw7j5ymtn26ktkztcj55x3q4uq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 559135
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreig4424l4ykaesscjsqemlyizckbvfneu3x3upbc33zbmzveqxkhqe",
+                        "uri": "at://did:plc:i66lunlru4xqwllfcqvwfsuc/app.bsky.feed.post/3krjf2hkcos2p"
+                    },
+                    "root": {
+                        "cid": "bafyreidmdhnlp42xe2owxugtlsyzinxsormnljnpumle6qeuy53eyizlca",
+                        "uri": "at://did:plc:whm4ntbsfddcoid7me7uckgc/app.bsky.feed.post/3kridc5wnjs2p"
+                    }
+                },
+                "text": "Serra da Capivara 💚\nLast time I went there was 2019. I still wanna go again and visit more sites, climb more hills to appreciate more viewpoints of that fantastic landscape."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreib2adcocahvi65kwxmljiiyc3dobhh36gxtczvbym7o3chfbbmu2e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreib2adcocahvi65kwxmljiiyc3dobhh36gxtczvbym7o3chfbbmu2e@jpeg",
+                        "alt": "Parede rochosa com superfície irregular, em tons entre laranja e marrom claro. Possui pinturas rupestres pré-históricas na cor vermelho-escuro. Ao centro, há o contorno do perfil de uma capivara, com cabeça e orelhas arredondadas, rabo curto, e pernas mais largas e compridas, além de uma mancha escura ao longo de toda a barriga, o que simboliza uma gravidez, e logo abaixo, um filhote de capivara, ambos com as patas dianteiras e traseiras mais afastadas entre si, como se estivessem correndo. Acima, há o perfil preenchido com cor de um animal de 4 patas com chifres, e ao lado, alguns humanos, representados apenas com traços para os membros, e bola para a cabeça. Mas afastado, à direita, há símbolos abstratos, como pequenas elipses, traços curtos e grossos, e outros desenhos de caráter mais abstrato.",
+                        "aspectRatio": {
+                            "height": 1125,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreih3ap4kkxdq6b4xdz66fpgk6hadgw7j5ymtn26ktkztcj55x3q4uq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5ndk2rrlgj5lcdoc7ffg36zf/bafkreih3ap4kkxdq6b4xdz66fpgk6hadgw7j5ymtn26ktkztcj55x3q4uq@jpeg",
+                        "alt": "Imagem no formato retrato: à esquerda superior, um céu semi-nublado, e à direita superior e parte inferior, um paredão rochoso irregular, composto por partes arredondadas, como coxinhas gigantes, na cor marrom-alaranjado, com cerca de 90 metros de altura. Na parte arredondada mais próxima, o paredão é inclinado para frente, criando a sensação de uma onda gigante. Na parte mais baixa, topos da copas de árvores folheadas e bem verdes, de mata atlântica / caatinga no período chuvoso.",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-04T19:19:41.912Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kqktevbuns2e",
+            "cid": "bafyreigqjsufmmid2cmpu6rsrwclgg3ya3czljknwh2e6bzgvgxjgwy264",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-20T12:27:59.265Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Espécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic64fzbag6en3kwyslvayrnqjuzlibiucsiyswwovv2qgamnpuiwe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 451960
+                        },
+                        "title": "Levantamento revela que anta não está extinta na Caatinga - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 244,
+                            "byteStart": 217
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Levantamento revela que anta não está extinta na Caatinga ⬇️\n\nEspécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal\noeco.org.br/noticias/lev..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/levantamento-revela-que-anta-nao-esta-extinta-na-caatinga/",
+                    "title": "Levantamento revela que anta não está extinta na Caatinga - ((o))eco",
+                    "description": "Espécie não era avistada no bioma havia pelo menos 30 anos. Descoberta vai subsidiar mudanças na avaliação do status de conservação do animal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreic64fzbag6en3kwyslvayrnqjuzlibiucsiyswwovv2qgamnpuiwe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-20T12:27:59.265Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vljgfzvjl3dkmjgsjmdoaidc/app.bsky.feed.post/3kqcww6yv3q2b",
+            "cid": "bafyreiaooywsfnzt4z5aavfpcfesgew7qdbda26igdeqwypegeku2gutp4",
+            "author": {
+                "did": "did:plc:vljgfzvjl3dkmjgsjmdoaidc",
+                "handle": "bbcnews-br-bot-rss.adilson.net.br",
+                "displayName": "BBC News Brasil (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiblfqcx2ypeap37o4egcvkasm2clha54vs7hiefsptlw3joozabom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-26T19:08:58.574Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-17T09:10:02.641353Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Maior mamífero terrestre da América do Sul foi considerado desaparecido deste bioma brasileiro há pouco mais de uma década. Mas o trabalho de pesquisadores descobriu que ele ainda vive por lá, apesar de enfrentar sérias ameaças.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiefdhs24b2st5lorvmgndxjbslnv5lu7a5sezg7o433sckadbqbiq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 98077
+                        },
+                        "title": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga - BBC News Brasil",
+                        "uri": "https://www.bbc.com/portuguese/articles/c72peggn4ezo"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bbc.com/portuguese/articles/c72peggn4ezo",
+                    "title": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga - BBC News Brasil",
+                    "description": "Maior mamífero terrestre da América do Sul foi considerado desaparecido deste bioma brasileiro há pouco mais de uma década. Mas o trabalho de pesquisadores descobriu que ele ainda vive por lá, apesar de enfrentar sérias ameaças.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiefdhs24b2st5lorvmgndxjbslnv5lu7a5sezg7o433sckadbqbiq@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 4,
+            "likeCount": 26,
+            "quoteCount": 1,
+            "indexedAt": "2024-04-17T09:10:02.641Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vljgfzvjl3dkmjgsjmdoaidc/app.bsky.feed.post/3kqboopx3b42y",
+            "cid": "bafyreicnf6kbrdqzgrja2lvh6hydqi3tgylmuvtq5qivcnz5pm2kmvacsi",
+            "author": {
+                "did": "did:plc:vljgfzvjl3dkmjgsjmdoaidc",
+                "handle": "bbcnews-br-bot-rss.adilson.net.br",
+                "displayName": "BBC News Brasil (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiblfqcx2ypeap37o4egcvkasm2clha54vs7hiefsptlw3joozabom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-26T19:08:58.574Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-16T21:10:02.107939Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Maior mamífero terrestre da América do Sul foi considerado desaparecido deste bioma brasileiro há pouco mais de uma década. Mas o trabalho de pesquisadores descobriu que ele ainda vive por lá, apesar de enfrentar sérias ameaças.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiefdhs24b2st5lorvmgndxjbslnv5lu7a5sezg7o433sckadbqbiq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 98077
+                        },
+                        "title": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga - BBC News Brasil",
+                        "uri": "https://www.bbc.com/portuguese/articles/c72peggn4ezo"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bbc.com/portuguese/articles/c72peggn4ezo",
+                    "title": "'Em busca da anta perdida': a expedição que 'reencontrou' animal considerado extinto da Caatinga - BBC News Brasil",
+                    "description": "Maior mamífero terrestre da América do Sul foi considerado desaparecido deste bioma brasileiro há pouco mais de uma década. Mas o trabalho de pesquisadores descobriu que ele ainda vive por lá, apesar de enfrentar sérias ameaças.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vljgfzvjl3dkmjgsjmdoaidc/bafkreiefdhs24b2st5lorvmgndxjbslnv5lu7a5sezg7o433sckadbqbiq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-16T21:10:02.107Z",
+            "labels": []
+        }
+    ]
+}

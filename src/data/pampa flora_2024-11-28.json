@@ -1,0 +1,246 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.feed.post/3l3vfacwylg2c",
+            "cid": "bafyreiafswqyiru72p72objbhhlil7lcp4i5flfe5eqhzfucrjcohzaori",
+            "author": {
+                "did": "did:plc:m7v22s6av7wa5mht366iszbu",
+                "handle": "cansei.bsky.social",
+                "displayName": "MLucia 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7v22s6av7wa5mht366iszbu/bafkreifihpa635tanbqwe4cy3yspjgtfjljilige4awggqz7rvzh4fneb4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:m7v22s6av7wa5mht366iszbu",
+                        "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibjhf22gvh5hql6fvthdhiygibszoj7zggnynjx72a6z62vmsew34",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T14:05:39.386Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T14:05:37.992Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:55:20.292Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "estudioi"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 14,
+                            "byteStart": 5
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uau! #estudioi discute eleições americanas.  \nAfinal, Brasil está livre de problemas.\nNossos biomas: Mata Atlântica, Cerrado, Caatinga, Pantanal e Pampa estão seguros.\nFauna/Flora protegidas,sem interferências humanas.\nDep ñ estão querendo afundar o país c medidas pra anistiar criminosos.🤡🤯😡"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:51:18.831Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n3hglc5vponmxqsdtuselhqf/app.bsky.feed.post/3l3kze3z4i62p",
+            "cid": "bafyreig4ekbzopzn23ppft7pu3cmek4ihp7befuh27wtuf6sxga5ezv23e",
+            "author": {
+                "did": "did:plc:n3hglc5vponmxqsdtuselhqf",
+                "handle": "wagfidelis10.bsky.social",
+                "displayName": "WagLegal🚩🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreigxbh6yufujah7s7etysfrbbckfh3mrrlumvjuzwbtailtily56hm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T00:36:08.326Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T13:52:02.901Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 814
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 658799
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "7deSetembro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 199,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "VivaoBrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 200
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Brasil brasileiro terra de samba e de pandeiro completamos 202 anos com a natureza em desespeiro da Amazônia a Pampa do cerrado ao pantanal e caatinga e a fauna e flora sendo extinta... #7deSetembro #VivaoBrasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 814
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T13:52:02.901Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kgszyewvoc2f",
+            "cid": "bafyreielvjfrviy6phoqp3tyeirygxpklj47xocpxytvc2ufdsaor43ztm",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-18T12:35:37.453Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/12/18/o-pampa-esta-perdendo-fauna-e-flora-rapidamente/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 223,
+                            "byteStart": 187
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Pampa está perdendo fauna e flora rapidamente\nUm bioma que representa mais de 68% da área total do Rio Grande do Sul, o Pampa sofre com o rápido desaparecimento de sua fauna e flora\nwww.ecodebate.com.br/2023/12/18/o..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-18T12:35:37.453Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.feed.post/3kgrnczbuih2b",
+            "cid": "bafyreigquikrqbith2och4r5futvf6pa7j2znhoqd2tlyjwkywf7ugiwoe",
+            "author": {
+                "did": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                "handle": "meurefugionerd.bsky.social",
+                "displayName": "🍥MEU REFUGIO NERD(LUKE)🍥🎮🔥🚀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwrvr75ryt5a73kwm4vdxkw7/bafkreibn5n2a4ztf7jy3pkpfigvsbaim3pzcldtzxaiibbobse7wfd2cxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                        "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.actor.profile/self",
+                        "cid": "bafyreihvvm2ah3rkdnmxr4aqtszwlositixazpgj6tejsrwbgzt3nfw4vy",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T20:14:50.877Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-12-17T23:16:15.795Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jb.com.br/brasil/meio-ambiente/2023/12/1047906-pampa-e-ameacado-com-rapido-desaparecimento-da-fauna-e-flora.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 93,
+                            "byteStart": 64
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Pampa é ameaçado com rápido desaparecimento da fauna e flora\nwww.jb.com.br/brasil/meio-..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-12-17T23:16:15.795Z",
+            "labels": []
+        }
+    ]
+}

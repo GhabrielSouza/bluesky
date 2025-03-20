@@ -1,0 +1,45 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcre3h7wc2w",
+            "cid": "bafyreiavmmyko54jdmsxpnfdjezbkn25vfdwm2nmpasf254jhdyupqbnhq",
+            "author": {
+                "did": "did:plc:s5zbrtjyp4xd6kx5by4uz3pm",
+                "handle": "casacivilbr.bsky.social",
+                "displayName": "Casa Civil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s5zbrtjyp4xd6kx5by4uz3pm/bafkreibauab5usen6di7xkqco4lmnoaf47e7kvvnldkaskb3rvp2xlht5u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T12:47:08.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T15:38:44.736Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiefftqtzo2rmicvy5dkqi4ird6pegv6jywhulqojzdq7t6cm6of4a",
+                        "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcrdvz7ks2w"
+                    },
+                    "root": {
+                        "cid": "bafyreigjnrbyyhqxnm7ozmbs7wnokxz7onmxwmgdd7krh5hu6rzhfemodm",
+                        "uri": "at://did:plc:s5zbrtjyp4xd6kx5by4uz3pm/app.bsky.feed.post/3lbcrchcua22w"
+                    }
+                },
+                "text": "Coordenada pela Casa Civil da Presidência da República, a operação conta com a participação de 20 órgãos federais, como @ibamagov, @funaioficial, @policiafederal, @prf, @minpovosindigenas, @exercito_oficial, entre outros."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T15:38:46.737Z",
+            "labels": []
+        }
+    ]
+}

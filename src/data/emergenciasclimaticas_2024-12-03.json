@@ -1,0 +1,583 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:b6xtxubgh56ze6bur4n57nw4/app.bsky.feed.post/3l5fph2dfke2m",
+            "cid": "bafyreidvj4fxhko5okxudrwoy4db6cbzvzr4l5hrlbhsfazbo2l4pemyre",
+            "author": {
+                "did": "did:plc:b6xtxubgh56ze6bur4n57nw4",
+                "handle": "jumacosta.bsky.social",
+                "displayName": "Juma Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreid76frgdm5ioprz4asraossox6vulvcmiawp5dgsozfkudqocbwau@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T23:42:21.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T22:01:38.229Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic4ytxfcd4uqzc3nxwgfdjwol3tu3sruuoxiaqhpb4vyvjt5pp4ju"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 545136
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "justicasocial"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 14,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EmergenciasClimaticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 37,
+                            "byteStart": 15
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "G20"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 42,
+                            "byteStart": 38
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 52,
+                            "byteStart": 43
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "MarcoTemporalNao"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 70,
+                            "byteStart": 53
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#justicasocial\n#EmergenciasClimaticas\n#G20\n#Amazonia\n#MarcoTemporalNao"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreic4ytxfcd4uqzc3nxwgfdjwol3tu3sruuoxiaqhpb4vyvjt5pp4ju@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreic4ytxfcd4uqzc3nxwgfdjwol3tu3sruuoxiaqhpb4vyvjt5pp4ju@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T22:01:38.229Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b6xtxubgh56ze6bur4n57nw4/app.bsky.feed.post/3l4yswe3l7v2w",
+            "cid": "bafyreidv35hxrcryir6j3tplmkcz7s4al57yhwtj6zhuejsdyqy3hsum64",
+            "author": {
+                "did": "did:plc:b6xtxubgh56ze6bur4n57nw4",
+                "handle": "jumacosta.bsky.social",
+                "displayName": "Juma Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreid76frgdm5ioprz4asraossox6vulvcmiawp5dgsozfkudqocbwau@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T23:42:21.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T18:59:13.736Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by PT - Partido dos Trabalhadores ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigxb65lmcugeorc6zz2c4j7frp3p5h7rwom6qpryiv6fftucizh7u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 750055
+                        },
+                        "title": "25/09 | 🔴 Lula faz entrevista coletiva à imprensa, em Nova York",
+                        "uri": "https://m.youtube.com/watch?v=9ZTDmOE38Yo"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://m.youtube.com/watch?v=9ZTDmOE38Yo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 29,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "AoVivo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 38,
+                            "byteStart": 31
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PT"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 42,
+                            "byteStart": 39
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "GovernoLula"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 55,
+                            "byteStart": 43
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "LulaPresidente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 71,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CupulaDoFuturo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 87,
+                            "byteStart": 72
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EmergenciasClimaticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 110,
+                            "byteStart": 88
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PovosDaFloresta"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 127,
+                            "byteStart": 111
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Amazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 137,
+                            "byteStart": 128
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 148,
+                            "byteStart": 138
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "OagroEfogo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 160,
+                            "byteStart": 149
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "m.youtube.com/watch?v=9ZTD...\n\n#AoVivo\n#PT\n#GovernoLula\n#LulaPresidente\n#CupulaDoFuturo\n#EmergenciasClimaticas\n#PovosDaFloresta\n#Amazonia\n#Queimadas\n#OagroEfogo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://m.youtube.com/watch?v=9ZTDmOE38Yo",
+                    "title": "25/09 | 🔴 Lula faz entrevista coletiva à imprensa, em Nova York",
+                    "description": "YouTube video by PT - Partido dos Trabalhadores ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreigxb65lmcugeorc6zz2c4j7frp3p5h7rwom6qpryiv6fftucizh7u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T18:59:13.736Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b6xtxubgh56ze6bur4n57nw4/app.bsky.feed.post/3l4cp6adbzw2v",
+            "cid": "bafyreiatfz7gmf3sdp5tjox44ajthe5vcnsy3hf2mgawoky46uqn5zdmhy",
+            "author": {
+                "did": "did:plc:b6xtxubgh56ze6bur4n57nw4",
+                "handle": "jumacosta.bsky.social",
+                "displayName": "Juma Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b6xtxubgh56ze6bur4n57nw4/bafkreid76frgdm5ioprz4asraossox6vulvcmiawp5dgsozfkudqocbwau@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-07T23:42:21.020Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T23:53:22.204Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "deolhonosruralistas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 20,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "eleicoes2024"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 34,
+                            "byteStart": 21
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "queimadas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 45,
+                            "byteStart": 35
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "emergenciasclimaticas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 68,
+                            "byteStart": 46
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "saudepublica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 82,
+                            "byteStart": 69
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SaoPaulo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 92,
+                            "byteStart": 83
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "brasilia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 102,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "amazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 112,
+                            "byteStart": 103
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "povosoriginarios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 113
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "povosdafloresta"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 131
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiewugskjrxfvhh6vcmciia6rxu72ocgz4cbvl4g45yigbzqrgoaji",
+                        "uri": "at://did:plc:b6xtxubgh56ze6bur4n57nw4/app.bsky.feed.post/3l4cori4ktp2v"
+                    },
+                    "root": {
+                        "cid": "bafyreiewugskjrxfvhh6vcmciia6rxu72ocgz4cbvl4g45yigbzqrgoaji",
+                        "uri": "at://did:plc:b6xtxubgh56ze6bur4n57nw4/app.bsky.feed.post/3l4cori4ktp2v"
+                    }
+                },
+                "text": "#deolhonosruralistas\n#eleicoes2024\n#queimadas\n#emergenciasclimaticas\n#saudepublica\n#SaoPaulo\n#brasilia\n#amazonia\n#povosoriginarios\n#povosdafloresta"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T23:53:22.204Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tmfx73ppdmr7d7pfuneqelsc/app.bsky.feed.post/3l3thzcvitb2h",
+            "cid": "bafyreighkaga7vymhdsj52vyqabnjzrj3kbnjlj3xqle76zdogpcljv6we",
+            "author": {
+                "did": "did:plc:tmfx73ppdmr7d7pfuneqelsc",
+                "handle": "driufc.bsky.social",
+                "displayName": "🇩 🇷 🇮 🇺 🇫 🇨 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tmfx73ppdmr7d7pfuneqelsc/bafkreiblwy3feh664bb6rc6k2xdthzsafwsp4h4qao7tvy3dyjgihshg6m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T01:33:51.490Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T22:35:49.228Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 814,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia3mknoov2a2ilgumbynokavsm5l2lfc6mktpyzpgiuqpw4e3ns3i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 334219
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibates27544ra367hduita3m7i7w7562qyfwxfhmgb4dqgdphhdai"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 792478
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif7wzfq7agxswsvpn66ai2hfyqsrrtlrczl7fppzakwahgdu2bnva",
+                        "uri": "at://did:plc:tmfx73ppdmr7d7pfuneqelsc/app.bsky.feed.post/3l3thuqfd572r"
+                    },
+                    "root": {
+                        "cid": "bafyreihs7io6pavecxmh4pcsotrwpuhmjr4azm7apjqquz7tlynkjc5kda",
+                        "uri": "at://did:plc:tmfx73ppdmr7d7pfuneqelsc/app.bsky.feed.post/3l3thk46fcb2g"
+                    }
+                },
+                "text": "OPainel acompanha semanalmente os focos de calor e apoia,junto aos estados,a implementação de ações estratégicas para minimizar os riscos à saúde humana.Também instituímos aSala deSituaçãoNacional de EmergênciasClimáticas em Saúde,q coordena ações emergenciais emResposta a EventosClimáticosAdversos."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tmfx73ppdmr7d7pfuneqelsc/bafkreia3mknoov2a2ilgumbynokavsm5l2lfc6mktpyzpgiuqpw4e3ns3i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tmfx73ppdmr7d7pfuneqelsc/bafkreia3mknoov2a2ilgumbynokavsm5l2lfc6mktpyzpgiuqpw4e3ns3i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 814,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tmfx73ppdmr7d7pfuneqelsc/bafkreibates27544ra367hduita3m7i7w7562qyfwxfhmgb4dqgdphhdai@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tmfx73ppdmr7d7pfuneqelsc/bafkreibates27544ra367hduita3m7i7w7562qyfwxfhmgb4dqgdphhdai@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T22:35:46.330Z",
+            "labels": []
+        }
+    ]
+}

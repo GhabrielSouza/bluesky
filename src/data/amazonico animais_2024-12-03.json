@@ -1,0 +1,552 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:54spl355chbmvtqndxu3iof5/app.bsky.feed.post/3l4c7xdkhox2e",
+            "cid": "bafyreife6vedxbwmmkv35kmohfqe37tcad22tj4gf5hlgbtfkaknod3nzm",
+            "author": {
+                "did": "did:plc:54spl355chbmvtqndxu3iof5",
+                "handle": "leilakruger.bsky.social",
+                "displayName": "Leila Krüger",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreigof6wpd7payuctbtkqdsocjlt2bx6zef6jm5zlafbmgo53s2d2zu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-08T13:02:07.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T19:21:25.136Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 1024,
+                                    "width": 1024
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreidysglijlpoyqcuu3zhjwcjlhbooae4ebpm7kagfqpvy4rmort4hm"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 923160
+                                }
+                            },
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 1024,
+                                    "width": 1024
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreihdwpzbpwvhex4jfqcu7btclqlroykorcwc6gcig3aafqa6lxruyq"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 388305
+                                }
+                            },
+                            {
+                                "alt": "",
+                                "aspectRatio": {
+                                    "height": 1024,
+                                    "width": 1024
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreif7irpsztvx3fydjm456nc53ezwbjc34vzypnocx4wm43wazoocii"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 351775
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreidtopzuzvnuffzxlvjhspfn5l5d77zgy4pqep5crbhrscvpovnmim",
+                            "uri": "at://did:plc:54spl355chbmvtqndxu3iof5/app.bsky.feed.post/3l4c2t5a3qo2i"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Temos mais uma vilã e dois elementos: \n🔴 Cobra Fumante, A Gananciosa\n🪞 Portal Nhanderu, o ponto mais alto do céu visto da terra em tupi-guarani\n🛡 Escudo Ig, água em tupi-guarani, forjado pelo Mago Amazônico para combater o fogo e a fumaça e proteger animais de seus efeitos, tem um tigre estampado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreidysglijlpoyqcuu3zhjwcjlhbooae4ebpm7kagfqpvy4rmort4hm@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreidysglijlpoyqcuu3zhjwcjlhbooae4ebpm7kagfqpvy4rmort4hm@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1024,
+                                "width": 1024
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreihdwpzbpwvhex4jfqcu7btclqlroykorcwc6gcig3aafqa6lxruyq@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreihdwpzbpwvhex4jfqcu7btclqlroykorcwc6gcig3aafqa6lxruyq@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1024,
+                                "width": 1024
+                            }
+                        },
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreif7irpsztvx3fydjm456nc53ezwbjc34vzypnocx4wm43wazoocii@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreif7irpsztvx3fydjm456nc53ezwbjc34vzypnocx4wm43wazoocii@jpeg",
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1024,
+                                "width": 1024
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:54spl355chbmvtqndxu3iof5/app.bsky.feed.post/3l4c2t5a3qo2i",
+                        "cid": "bafyreidtopzuzvnuffzxlvjhspfn5l5d77zgy4pqep5crbhrscvpovnmim",
+                        "author": {
+                            "did": "did:plc:54spl355chbmvtqndxu3iof5",
+                            "handle": "leilakruger.bsky.social",
+                            "displayName": "Leila Krüger",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreigof6wpd7payuctbtkqdsocjlt2bx6zef6jm5zlafbmgo53s2d2zu@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2024-09-08T13:02:07.720Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-16T17:49:35.574Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.recordWithMedia",
+                                "media": {
+                                    "$type": "app.bsky.embed.images",
+                                    "images": [
+                                        {
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreictokhywbkkkp4dqg6nopzpc7olsefc6n72axni25v73kkmstifp4"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 382982
+                                            }
+                                        },
+                                        {
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreiawaioqxhuoemfufcyf3oxx4fb7nxzk67pxgo7czdokloxjzcymii"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 341927
+                                            }
+                                        },
+                                        {
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreid5d2avyo6enad2fuz5cscfb6jy52xiiifztihfcmazxfixp7o3ca"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 891724
+                                            }
+                                        },
+                                        {
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreic7kn3zdydvux2dod46qs2puhhiyie5yibg2xowfemzuvk6ankzxu"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 333631
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "$type": "app.bsky.embed.record",
+                                    "record": {
+                                        "cid": "bafyreighpgxt3b3n4ltwm62b6desghac6k3lwm3wfgip5vhchk2uewfoai",
+                                        "uri": "at://did:plc:54spl355chbmvtqndxu3iof5/app.bsky.feed.post/3l455w4rh6j25"
+                                    }
+                                }
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Muito bem! Agora temos mais quatro personagens: Madame Seca e Sr. Aquecimento Global, vilões. E Mago Amazônico e Sereia Iara, protetores do Homem Onça e da Mulher Onça (mostrados abaixo) 🇧🇷🔥. Imagens: Leila Krüger, 2024, geradas por IA\nMe digam o que acham da turminha contra as Queimadas… ⚔️ 🌳 ✨"
+                        },
+                        "labels": [],
+                        "likeCount": 0,
+                        "replyCount": 1,
+                        "repostCount": 0,
+                        "quoteCount": 1,
+                        "indexedAt": "2024-09-16T17:49:35.574Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.recordWithMedia#view",
+                                "media": {
+                                    "$type": "app.bsky.embed.images#view",
+                                    "images": [
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreictokhywbkkkp4dqg6nopzpc7olsefc6n72axni25v73kkmstifp4@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreictokhywbkkkp4dqg6nopzpc7olsefc6n72axni25v73kkmstifp4@jpeg",
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreiawaioqxhuoemfufcyf3oxx4fb7nxzk67pxgo7czdokloxjzcymii@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreiawaioqxhuoemfufcyf3oxx4fb7nxzk67pxgo7czdokloxjzcymii@jpeg",
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreid5d2avyo6enad2fuz5cscfb6jy52xiiifztihfcmazxfixp7o3ca@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreid5d2avyo6enad2fuz5cscfb6jy52xiiifztihfcmazxfixp7o3ca@jpeg",
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            }
+                                        },
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreic7kn3zdydvux2dod46qs2puhhiyie5yibg2xowfemzuvk6ankzxu@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreic7kn3zdydvux2dod46qs2puhhiyie5yibg2xowfemzuvk6ankzxu@jpeg",
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 1024,
+                                                "width": 1024
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "record": {
+                                        "$type": "app.bsky.embed.record#viewRecord",
+                                        "uri": "at://did:plc:54spl355chbmvtqndxu3iof5/app.bsky.feed.post/3l455w4rh6j25",
+                                        "cid": "bafyreighpgxt3b3n4ltwm62b6desghac6k3lwm3wfgip5vhchk2uewfoai",
+                                        "author": {
+                                            "did": "did:plc:54spl355chbmvtqndxu3iof5",
+                                            "handle": "leilakruger.bsky.social",
+                                            "displayName": "Leila Krüger",
+                                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:54spl355chbmvtqndxu3iof5/bafkreigof6wpd7payuctbtkqdsocjlt2bx6zef6jm5zlafbmgo53s2d2zu@jpeg",
+                                            "associated": {
+                                                "chat": {
+                                                    "allowIncoming": "following"
+                                                }
+                                            },
+                                            "labels": [],
+                                            "createdAt": "2024-09-08T13:02:07.720Z"
+                                        },
+                                        "value": {
+                                            "$type": "app.bsky.feed.post",
+                                            "createdAt": "2024-09-14T19:01:38.059Z",
+                                            "embed": {
+                                                "$type": "app.bsky.embed.images",
+                                                "images": [
+                                                    {
+                                                        "alt": "",
+                                                        "aspectRatio": {
+                                                            "height": 1024,
+                                                            "width": 1024
+                                                        },
+                                                        "image": {
+                                                            "$type": "blob",
+                                                            "ref": {
+                                                                "$link": "bafkreihypey4zriwcztcttu4nnbwogv7a7n6lqgnl3ojbkq4sacmbd4fhm"
+                                                            },
+                                                            "mimeType": "image/jpeg",
+                                                            "size": 287932
+                                                        }
+                                                    },
+                                                    {
+                                                        "alt": "",
+                                                        "aspectRatio": {
+                                                            "height": 1024,
+                                                            "width": 1024
+                                                        },
+                                                        "image": {
+                                                            "$type": "blob",
+                                                            "ref": {
+                                                                "$link": "bafkreih32wwwqvvrksy7tbhauqrfiwsardutvpxi4vkzgka2wet3dib52y"
+                                                            },
+                                                            "mimeType": "image/jpeg",
+                                                            "size": 338684
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            "langs": [
+                                                "pt"
+                                            ],
+                                            "text": "Conheçam nossos heróis do Cerrado e da Amazônia, que batalham contra a Dama Seca e o Sr. Aquecimento Global. \nHomem Onça e Mulher Onça. \nImagens: Leila Krüger, 2024, geradas por IA"
+                                        },
+                                        "labels": [],
+                                        "likeCount": 0,
+                                        "replyCount": 0,
+                                        "repostCount": 0,
+                                        "quoteCount": 1,
+                                        "indexedAt": "2024-09-14T19:01:38.059Z"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-16T19:21:25.136Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qxrdxq4yd353quixynr46ipz/app.bsky.feed.post/3l3ojul6mix2r",
+            "cid": "bafyreiajpfka5kcnct2etg3vlbmvjdpgcjfhzkd5znfeuyey2io6dthl6m",
+            "author": {
+                "did": "did:plc:qxrdxq4yd353quixynr46ipz",
+                "handle": "ibereulhoa.bsky.social",
+                "displayName": "Iberê Ulhoa 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreidgldulbuzw47wwqietmc53egbuxnratiyvfupb3c24dozlqlqvkq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:28:49.304Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T23:25:34.285Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 828,
+                                "width": 1024
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 349013
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigxkwgkit62jfobyngaemkwgpuqbsqzutpoasj6t5xkn53vknph4e",
+                        "uri": "at://did:plc:w3wnj5nfcqxt26pmx3ajzsrb/app.bsky.feed.post/3l3oetnqkyw2o"
+                    },
+                    "root": {
+                        "cid": "bafyreigxkwgkit62jfobyngaemkwgpuqbsqzutpoasj6t5xkn53vknph4e",
+                        "uri": "at://did:plc:w3wnj5nfcqxt26pmx3ajzsrb/app.bsky.feed.post/3l3oetnqkyw2o"
+                    }
+                },
+                "text": "Vamo ser sincero? Enquanto estiver demanda por proteína animal será disso pra pior.\n\nUma das raízes do desflorestamento amazônico, e das mais vistosas, é a produção de proteína animal.\n\nConsidere o veganismo pela vida de todos animais explorados e tb pela amazônia em chamas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qxrdxq4yd353quixynr46ipz/bafkreibqv5m4c4b22alvzgiov5iytul4wxwecqjey6swkvzkn7q7lgyv64@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 828,
+                            "width": 1024
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T23:25:34.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gpmpusyl2d",
+            "cid": "bafyreicmwyrttva555qtv2utpgvevumudzrzopon5iy5hah33ktra7ytiy",
+            "author": {
+                "did": "did:plc:bmrap76m3sje4l2ydpnlns6b",
+                "handle": "justicaglobal.bsky.social",
+                "displayName": "Justiça Global",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreih65qufsipphawcxxynbugoxepyatpnsilxqcu7abdi3drzmdtodq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-30T20:27:17.319Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T20:47:15.900Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "De 1985 a 2023, a área ocupada pela agropecuária na Amazônia cresceu de 12,85 milhões de hectares para 66,3 milhões de hectares. Hoje, 15,9% da Amazônia legal brasileira é ocupada por empreendimentos de pastagem e agricultura. (Fonte: MapBiomas)\nAo fundo, a foto de uma área sendo devastada para uso do agronegócio.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 424456
+                            }
+                        },
+                        {
+                            "alt": "E as vidas que estavam aqui?\nEnquanto poucos lucram com a destruição da floresta, pessoas, animais e toda uma cadeia de biodiversidade são atacados direta ou indiretamente. O desequilíbrio ambiental afeta o Brasil e o mundo.\nAo fundo, a foto de uma enchente.",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 943124
+                            }
+                        },
+                        {
+                            "alt": "Nossos Desejos para o Dia da Amazônia\nRespeitar os povos da floresta, demarcar terras indígenas e quilombolas, frear a mineração e a agropecuária predatória e parar o desmatamento. Por um manejo consciente da terra e dos recursos.\n\nSão esses os nossos desejos nesse Dia da Amazônia!\n\nAo fundo, um rio amazônico",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 328102
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifg6d5kuvl7bxmti767pi62gkmmfotrb3a2lgjjxgzewsjthds3re",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gpkuajox2r"
+                    },
+                    "root": {
+                        "cid": "bafyreigy4zkqxm3v2qwwjgpadnj5ek2qfqb72oz46f7p3vx46h7gnryf4m",
+                        "uri": "at://did:plc:bmrap76m3sje4l2ydpnlns6b/app.bsky.feed.post/3l3gphg6l6p23"
+                    }
+                },
+                "text": "✊🏾 Por isso, reafirmamos a defesa desse ecossistema vital, que sustenta culturas e modos de vida. Honramos a sabedoria dos povos indígenas e tradicionais que, por séculos, protegem a maior floresta tropical do mundo.\n\n🌳 Não existe humanidade sem natureza. A Amazônia e seus povos merecem respeito!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreigvftyjsidhpnjxzdf3gatb6r6xz44yxvahfn35bg46exbolacdpe@jpeg",
+                        "alt": "De 1985 a 2023, a área ocupada pela agropecuária na Amazônia cresceu de 12,85 milhões de hectares para 66,3 milhões de hectares. Hoje, 15,9% da Amazônia legal brasileira é ocupada por empreendimentos de pastagem e agricultura. (Fonte: MapBiomas)\nAo fundo, a foto de uma área sendo devastada para uso do agronegócio.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreicogp5wjp542nxeb4pldyekqolewhv45mkswqotpyjopgjqcwieiq@jpeg",
+                        "alt": "E as vidas que estavam aqui?\nEnquanto poucos lucram com a destruição da floresta, pessoas, animais e toda uma cadeia de biodiversidade são atacados direta ou indiretamente. O desequilíbrio ambiental afeta o Brasil e o mundo.\nAo fundo, a foto de uma enchente.",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bmrap76m3sje4l2ydpnlns6b/bafkreidke4tel4sjd32s37a73lpqs3oevafgab27zz3jxf7d5fwnkhr3nm@jpeg",
+                        "alt": "Nossos Desejos para o Dia da Amazônia\nRespeitar os povos da floresta, demarcar terras indígenas e quilombolas, frear a mineração e a agropecuária predatória e parar o desmatamento. Por um manejo consciente da terra e dos recursos.\n\nSão esses os nossos desejos nesse Dia da Amazônia!\n\nAo fundo, um rio amazônico",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T20:47:15.900Z",
+            "labels": []
+        }
+    ]
+}

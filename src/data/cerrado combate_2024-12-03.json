@@ -1,0 +1,2833 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:aeiiu4frb6vnsh7dcpsmp7xl/app.bsky.feed.post/3lbaubjhqz22d",
+            "cid": "bafyreihot7cavzohvdxd6fyolwt5443zf4fj7gewm2nfowpcrirlym3sza",
+            "author": {
+                "did": "did:plc:aeiiu4frb6vnsh7dcpsmp7xl",
+                "handle": "aqualtunelab.bsky.social",
+                "displayName": "Aqualtune Lab",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aeiiu4frb6vnsh7dcpsmp7xl/bafkreiemryve27ogen3xjotpfb3zvcw4fqz4zrcawgvnqfvwrrov2662jq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T14:23:55.939Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T21:25:40.521Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Ilustração de um punho cerrado estilizado em preto com linhas douradas detalhadas, emergindo de cabos de fibra óptica conectados a celulares. O fundo possui tons dourados e amarelos, com raios de luz simulando a energia de redes digitais. Abaixo do punho, há uma faixa marrom com o texto: \"18 de novembro - Dia Nacional de Combate ao Racismo\", em letras amarelas. No canto superior esquerdo, um selo laranja com o logotipo do Aqualtune Lab e a palavra \"Calendário\". A imagem combina tecnologia, resistência e simbolismo para destacar a importância do combate ao racismo.",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib5i4nxz52g4lqzjpjl73pbj4buiw4ylrukergh3vrysavbmxj7k4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 618799
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🗓 18/11 - Dia Nacional de Combate ao Racismo\nO racismo estrutural está presente em todos os espaços, e o digital não é exceção. As redes sociais, muitas vezes vistas como locais de inclusão e troca, também se tornaram palco para discursos de ódio, algoritmos preconceituosos e exclusão sistemática.😔"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aeiiu4frb6vnsh7dcpsmp7xl/bafkreib5i4nxz52g4lqzjpjl73pbj4buiw4ylrukergh3vrysavbmxj7k4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aeiiu4frb6vnsh7dcpsmp7xl/bafkreib5i4nxz52g4lqzjpjl73pbj4buiw4ylrukergh3vrysavbmxj7k4@jpeg",
+                        "alt": "Ilustração de um punho cerrado estilizado em preto com linhas douradas detalhadas, emergindo de cabos de fibra óptica conectados a celulares. O fundo possui tons dourados e amarelos, com raios de luz simulando a energia de redes digitais. Abaixo do punho, há uma faixa marrom com o texto: \"18 de novembro - Dia Nacional de Combate ao Racismo\", em letras amarelas. No canto superior esquerdo, um selo laranja com o logotipo do Aqualtune Lab e a palavra \"Calendário\". A imagem combina tecnologia, resistência e simbolismo para destacar a importância do combate ao racismo.",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T21:25:44.959Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3lawnxpcen22d",
+            "cid": "bafyreiavru54zddq75x2gjt3rhjgk4zv424ttkbwqpzvaszwt7xrks5swi",
+            "author": {
+                "did": "did:plc:yhbellcxbt23qw6giv4cycgi",
+                "handle": "carlosminc.bsky.social",
+                "displayName": "Carlos Minc",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhbellcxbt23qw6giv4cycgi/bafkreihtsfdbqilfw3ex3h5t4mhvf5ct5akwhtycur45ep647qlrhlbfcq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T14:08:17.152Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-14T20:06:07.232Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicgl23hkb5i3v5gqo4wbi2spienpnhw4dlmt4mau3i25k4m57np7m",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3lawnxlhjxs2d"
+                    },
+                    "root": {
+                        "cid": "bafyreicgl23hkb5i3v5gqo4wbi2spienpnhw4dlmt4mau3i25k4m57np7m",
+                        "uri": "at://did:plc:yhbellcxbt23qw6giv4cycgi/app.bsky.feed.post/3lawnxlhjxs2d"
+                    }
+                },
+                "text": "A gente tem conseguido reduzir o desmatamento — antes, só na Amazônia, e, agora, também no Cerrado. No Cerrado, os instrumentos de combate têm que ser diferentes, porque lá a reserva legal no bioma é de 35%, enquanto, na Amazônia, é de 80%."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-14T20:06:13.118Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3laeslrng6j2n",
+            "cid": "bafyreib7urjdcpnvhqshzajr47vqksshpkhwka6jfy5needmouwnceww2i",
+            "author": {
+                "did": "did:plc:3zb6cejpu3xtpvgk4q5vsvzh",
+                "handle": "pt.org.br",
+                "displayName": "PT Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreidrrrxcghme4abcodjbrtnqq5dp5lnzq74bqiheozrav3655jcndu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T15:18:25.076Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T17:41:03.165Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 630,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihizfww4idrdnokyhlr54y2a2kffqsmreuqkour6gykmn36sao5je"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 103065
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🎙 NOTÍCIAS DO PT - N° 567\n📌 QUINTA, 07/11\nNos destaques de hoje:\n✳ Lideranças petistas e indústria reagem à nova alta dos juros\n✳ Cerrado e Amazônia Legal registram queda no desmatamento\n✳ Governo assina pacto para intensificar combate a incêndios"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreihizfww4idrdnokyhlr54y2a2kffqsmreuqkour6gykmn36sao5je@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreihizfww4idrdnokyhlr54y2a2kffqsmreuqkour6gykmn36sao5je@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 630,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 8,
+            "likeCount": 28,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T17:41:05.394Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wtx6b6lfacn3i3jtmqbdohuv/app.bsky.feed.post/3laedb5hxsm2a",
+            "cid": "bafyreifnihrqs6qm2fnojsgltb4yi3vhc72uett27rbpolzjaftf26bxkm",
+            "author": {
+                "did": "did:plc:wtx6b6lfacn3i3jtmqbdohuv",
+                "handle": "sigefredosouza.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wtx6b6lfacn3i3jtmqbdohuv/bafkreidhmi52j73ho7mybsvzx3nyeaia5nksepvyfbt7evnhrkibkn4f5u@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T00:24:30.483Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T13:06:40.667Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Política consistente d combate ao desmatamento e d ñ compactuar com o crime. As razões que levaram ao segundo ano consecutivo de recuo no desmatamento na Amazônia e também de redução do desmatamento no Cerrado."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T13:06:41.983Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tjhnwkea75yzlxb6tdesk225/app.bsky.feed.post/3l5x7kyg4wu2u",
+            "cid": "bafyreieheozklolhka4j7grhr6zvyqjn6rtircjjvckcef2hjl6myjymxq",
+            "author": {
+                "did": "did:plc:tjhnwkea75yzlxb6tdesk225",
+                "handle": "jpnewsoficial.bsky.social",
+                "displayName": "Jovem Pan News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tjhnwkea75yzlxb6tdesk225/bafkreiaepsficyfeuhdryaqdt2brrayi43faqd32gxmqr54futqaqtpgfa@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-03T15:28:00.199Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T21:05:36.825Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1920,
+                        "width": 1080
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreig5vx2qyfnkhiuek5iritrq4nzuqwesmhnycyogiwxq2sbju5255e"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 11267854
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "JovemPanNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 276
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Incêndios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 290
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 310,
+                            "byteStart": 302
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 314,
+                            "byteStart": 311
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A Estação Ecológica Jataí, localizada no município de Luiz Antônio (SP) e a maior reserva de Cerrado do estado de São Paulo, foi novamente alvo de focos de incêndio. As equipes de combate às chamas tentam controlar a situação.\n🎥 Reprodução: Defesa Civil de SP\n#JovemPanNews #Incêndios #Cerrado #SP"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreig5vx2qyfnkhiuek5iritrq4nzuqwesmhnycyogiwxq2sbju5255e",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Atjhnwkea75yzlxb6tdesk225/bafkreig5vx2qyfnkhiuek5iritrq4nzuqwesmhnycyogiwxq2sbju5255e/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Atjhnwkea75yzlxb6tdesk225/bafkreig5vx2qyfnkhiuek5iritrq4nzuqwesmhnycyogiwxq2sbju5255e/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1920,
+                    "width": 1080
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T21:05:36.825Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l5wbpitas32x",
+            "cid": "bafyreibz6vc5lxkazvsuvojc5wl3742zi4iojlowvjxfsuixr25dapjw2q",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T12:11:14.285123Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Fogo na Estação Ecológica Jataí, em Luiz Antônio (SP), começou no dia 27, foi controlado na sexta-feira (4), mas retornou neste fim de semana. Não há registros de feridos.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihqmafwglrcvdjzymnwpk7lc6sawhtcis2jbsdabmzkkldu2ssbv4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 79848
+                        },
+                        "title": "Incêndio volta na maior reserva de cerrado de SP e chega à base da equipe de combate",
+                        "uri": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2024/10/07/incendio-volta-na-maior-reserva-de-cerrado-de-sp-e-chega-a-base-da-equipe-de-combate.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Incêndio volta na maior reserva de cerrado de SP e chega à base da equipe de combate"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2024/10/07/incendio-volta-na-maior-reserva-de-cerrado-de-sp-e-chega-a-base-da-equipe-de-combate.ghtml",
+                    "title": "Incêndio volta na maior reserva de cerrado de SP e chega à base da equipe de combate",
+                    "description": "Fogo na Estação Ecológica Jataí, em Luiz Antônio (SP), começou no dia 27, foi controlado na sexta-feira (4), mas retornou neste fim de semana. Não há registros de feridos.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreihqmafwglrcvdjzymnwpk7lc6sawhtcis2jbsdabmzkkldu2ssbv4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T12:11:14.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l5p7l42i5a2v",
+            "cid": "bafyreiatqpdo4y37vupwcm55ffrsbxkoqwoprigpqkhktmenhidd2ox5am",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T16:44:49.916Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Famosa por permitir aos turistas um \"encontro\" com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaqnudmy72j5ryx4salwsjlujm4gpj6jwwhyslgld325brmnw36dm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 732425
+                        },
+                        "title": "‘Casa’ dos lobos-guarás, serra do Caraça (MG) segue queimando após 19 dias de combate - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 250,
+                            "byteStart": 219
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Famosa por permitir aos turistas um “encontro” com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às chamas. \nolharanimal.org/casa-dos-lob..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/casa-dos-lobos-guaras-serra-do-caraca-mg-segue-queimando-apos-19-dias-de-combate/",
+                    "title": "‘Casa’ dos lobos-guarás, serra do Caraça (MG) segue queimando após 19 dias de combate - ONG Olhar Animal",
+                    "description": "Famosa por permitir aos turistas um \"encontro\" com os lobos-guarás, animal que é considerado um dos símbolos do Cerrado, a serra do Caraça está prestes a completar 20 dias ininterruptos de combate às ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreiaqnudmy72j5ryx4salwsjlujm4gpj6jwwhyslgld325brmnw36dm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T16:44:24.911Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7fz47pswmoydtlnucsrdx3sm/app.bsky.feed.post/3l5byn5hppi2x",
+            "cid": "bafyreia7ery5tfos4wbt75jusmzbefmbch57yymce2dq5zygbbqvnmulh4",
+            "author": {
+                "did": "did:plc:7fz47pswmoydtlnucsrdx3sm",
+                "handle": "bbrezenski.bsky.social",
+                "displayName": "Bruno Brezenski ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7fz47pswmoydtlnucsrdx3sm/bafkreia54vyylj6uh7mhc2dwzbldsnggh3wtrmnnnimn4542r4ljkb5j2y@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T23:19:25.561Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T10:35:37.716Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1072,
+                        "width": 1072
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreihwaflnlpjeipauqrpj3wvvcazwtfsphhrx6awixxiu2uoe7mhlbq"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 1197514
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🔥FOCOS DE CALOR🔥\n       26/09 - 29/09\n\nO fogo diminuiu, mas continua ativo em muitas regiões da Amazônia, Cerrado e Pantanal.\n\nO Brasil se apoia em sua matriz energética para se posicionar como líder no combate às mudanças climáticas. \nNo entanto, nosso problema é outro e não recebe a mesma atenção."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreihwaflnlpjeipauqrpj3wvvcazwtfsphhrx6awixxiu2uoe7mhlbq",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreihwaflnlpjeipauqrpj3wvvcazwtfsphhrx6awixxiu2uoe7mhlbq/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3A7fz47pswmoydtlnucsrdx3sm/bafkreihwaflnlpjeipauqrpj3wvvcazwtfsphhrx6awixxiu2uoe7mhlbq/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1072,
+                    "width": 1072
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 22,
+            "likeCount": 63,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T10:35:37.716Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cruk3a2cofhjwh2dihh4qupp/app.bsky.feed.post/3l55i6trchs2c",
+            "cid": "bafyreielrdpnfnkcqzrjosbgfonttps5izhcb2xd2owgj3f6xmfofjjuje",
+            "author": {
+                "did": "did:plc:cruk3a2cofhjwh2dihh4qupp",
+                "handle": "institutolula.org",
+                "displayName": "Instituto Lula",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cruk3a2cofhjwh2dihh4qupp/bafkreiagj3puzmiw7jmy24kf75ollz3i4nftv7xl2b42s463iggbuuekam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-17T18:50:54.306Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T15:30:39.760Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1362,
+                                "width": 1078
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreideuiwrlai5yxcgmm2w2etige7pvqvllqnz72jxbqtytsmn563tr4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 403546
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌳O presidente Lula assumiu diante do Brasil e do mundo o compromisso de tomar todas as providências possíveis para o combate aos incêndios criminosos no país.\n\nDentre as ações, o governo Lula aumentou em 118% o número de brigadistas para atuação nas queimadas na Amazônia, Pantanal e Cerrado."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cruk3a2cofhjwh2dihh4qupp/bafkreideuiwrlai5yxcgmm2w2etige7pvqvllqnz72jxbqtytsmn563tr4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:cruk3a2cofhjwh2dihh4qupp/bafkreideuiwrlai5yxcgmm2w2etige7pvqvllqnz72jxbqtytsmn563tr4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1362,
+                            "width": 1078
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T15:30:39.760Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2zzoarpkinfg2vqd36nptwx2/app.bsky.feed.post/3l53wijze4c2f",
+            "cid": "bafyreiaruhmvnujosfi5zzenl7crkooi2dngojfkf25w3a5r36em64hsom",
+            "author": {
+                "did": "did:plc:2zzoarpkinfg2vqd36nptwx2",
+                "handle": "cassao.bsky.social",
+                "displayName": "Cassão 葛西🦈🦊🥷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2zzoarpkinfg2vqd36nptwx2/bafkreib6d3jt3bjaisb5pk3rvo3mmkt4wnw5pfv7lwlxehgempjet6sqwe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:40:07.914Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T00:41:17.700Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1420,
+                                "width": 1400
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigo7cm4upbzv3tseqmbkvbm7mphk7gdylqmubliimvj3txzlwu7pm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 832120
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:mrggcyi2rrpocjfy34hfgsa5"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 309,
+                            "byteStart": 295
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "0 Governo Federal segue no enfrentamento às queimadas no país\nO ministério do Meio Ambiente e Mudança do Clima divulgou, nesta quarta (25) o mais recente boletim sobre o combate: 79% dos 931 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 22 de setembro.\n👉 @brasil.gov.br."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2zzoarpkinfg2vqd36nptwx2/bafkreigo7cm4upbzv3tseqmbkvbm7mphk7gdylqmubliimvj3txzlwu7pm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2zzoarpkinfg2vqd36nptwx2/bafkreigo7cm4upbzv3tseqmbkvbm7mphk7gdylqmubliimvj3txzlwu7pm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1420,
+                            "width": 1400
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T00:41:17.700Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4hulhskhl7ofvgrvvje2nv3o/app.bsky.feed.post/3l53kbnzk2o2v",
+            "cid": "bafyreidhlxtrvlq7ublmhzo5h4pobwoes5kxbqumv6aalqovm6dq5n2u4e",
+            "author": {
+                "did": "did:plc:4hulhskhl7ofvgrvvje2nv3o",
+                "handle": "marcossantoss.bsky.social",
+                "displayName": "Marcos Antônio🚩🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4hulhskhl7ofvgrvvje2nv3o/bafkreiafy2ubjblyzranikvvxibxkbndrzkf5chjbjxgygizkutm5gmlfm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:4hulhskhl7ofvgrvvje2nv3o",
+                        "uri": "at://did:plc:4hulhskhl7ofvgrvvje2nv3o/app.bsky.actor.profile/self",
+                        "cid": "bafyreih3n5jxyekkcpwrtctlm6wexfp7nmrkoz5p5nj5skdruvqn2asy7e",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-06-30T19:43:37.465Z"
+                    }
+                ],
+                "createdAt": "2024-06-30T19:43:38.282Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T21:02:42.532Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia7mjnrr4dyretqfwpqx7bbx54y2h5pti456svebhcfj7fbler33q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 829490
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Governo Federal segue no enfrentamento às queimadas no país.\n\nO ministério do Meio Ambiente e Mudança do Clima divulgou, nesta quarta-feira (25) o mais recente boletim sobre o combate: 79% dos 931 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 22 de setembro."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4hulhskhl7ofvgrvvje2nv3o/bafkreia7mjnrr4dyretqfwpqx7bbx54y2h5pti456svebhcfj7fbler33q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4hulhskhl7ofvgrvvje2nv3o/bafkreia7mjnrr4dyretqfwpqx7bbx54y2h5pti456svebhcfj7fbler33q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T21:02:42.532Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qpup3p5yua2fhgtmtmzwakmp/app.bsky.feed.post/3l5363gdxr32j",
+            "cid": "bafyreiewtzmrj5mnetejskvwfxexdb3jcifal7acthtagoh6wqnqwe2zsq",
+            "author": {
+                "did": "did:plc:qpup3p5yua2fhgtmtmzwakmp",
+                "handle": "ervas.bsky.social",
+                "displayName": "Pau-Brasil 🇧🇷🇵🇸🍉🇱🇧🇨🇺🇿🇦🇦🇴🇻🇳",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreieczhn3fntcbp7yfqhk2azspwld3ixx7iqaiv6hm3szxqur3axufm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:45:40.468Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T17:24:28.283Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "O governo federal aumentou em 118% o número de profissionais dedicados ao combate aos incêndios florestais no país nas últimas três semanas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidprkndp3tvjcetjdj55j4oct3ut4onjgjmwrgdf52kj6g36dtxky"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 930944
+                        },
+                        "title": "Governo aumenta em 118% efetivo contra queimadas na Amazônia, Pantanal e Cerrado | Florestal Brasil",
+                        "uri": "https://florestalbrasil.com/governo-aumenta-em-118-efetivo-contra-queimadas-na-amazonia-pantanal-e-cerrado/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://florestalbrasil.com/governo-aumenta-em-118-efetivo-contra-queimadas-na-amazonia-pantanal-e-cerrado/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 308,
+                            "byteStart": 273
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅O gov federal aumentou em 118% o número de profissionais dedicados ao combate aos incêndios florestais no país nas últimas três semanas, passando de 1.617 no dia 2 de setembro para 3.518 na última semana do mês, atuando nos biomas Pantanal, Amazônia e Cerrado.\n\nflorestalbrasil.com/governo-aume..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://florestalbrasil.com/governo-aumenta-em-118-efetivo-contra-queimadas-na-amazonia-pantanal-e-cerrado/",
+                    "title": "Governo aumenta em 118% efetivo contra queimadas na Amazônia, Pantanal e Cerrado | Florestal Brasil",
+                    "description": "O governo federal aumentou em 118% o número de profissionais dedicados ao combate aos incêndios florestais no país nas últimas três semanas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qpup3p5yua2fhgtmtmzwakmp/bafkreidprkndp3tvjcetjdj55j4oct3ut4onjgjmwrgdf52kj6g36dtxky@jpeg"
+                }
+            },
+            "replyCount": 3,
+            "repostCount": 24,
+            "likeCount": 47,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-26T17:24:28.283Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nta6zw2f2o54a6rz2ucxcb6v/app.bsky.feed.post/3l52skjdrkr2t",
+            "cid": "bafyreiff26ujpe4vsj7c3yrubgu4zs44whuzdouo2dxdktdvxrpdlpgpz4",
+            "author": {
+                "did": "did:plc:nta6zw2f2o54a6rz2ucxcb6v",
+                "handle": "willowdigitall.bsky.social",
+                "displayName": "Willow® 🛡️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nta6zw2f2o54a6rz2ucxcb6v/bafkreifss4hocnobszayhwrxyxkox5bugthqttbz7cwi66cneqhgarbhqe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T23:18:29.803Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T13:58:09.442Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 800,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidcr3vhcpheqsobamp4bzu34ju3kun26u6xqdrwfgcc3a76hhelnu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 563528
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 800,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicebaixsznrflxnqbcdg3ykftdpi33cg2t7e3ynw5aiqe6me5zj24"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 611346
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\n\nO ministério do Meio Ambiente e Mudança do Clima divulgou, nesta quarta-feira (25) o mais recente boletim sobre o combate: 79% dos 931 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 22 de setembro.\n\nO trabalho continua e não vai parar."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nta6zw2f2o54a6rz2ucxcb6v/bafkreidcr3vhcpheqsobamp4bzu34ju3kun26u6xqdrwfgcc3a76hhelnu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nta6zw2f2o54a6rz2ucxcb6v/bafkreidcr3vhcpheqsobamp4bzu34ju3kun26u6xqdrwfgcc3a76hhelnu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 800,
+                            "width": 1600
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nta6zw2f2o54a6rz2ucxcb6v/bafkreicebaixsznrflxnqbcdg3ykftdpi33cg2t7e3ynw5aiqe6me5zj24@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nta6zw2f2o54a6rz2ucxcb6v/bafkreicebaixsznrflxnqbcdg3ykftdpi33cg2t7e3ynw5aiqe6me5zj24@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 800,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T13:58:09.442Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mrggcyi2rrpocjfy34hfgsa5/app.bsky.feed.post/3l52n5rtgp22f",
+            "cid": "bafyreic5uehvvh74ikxltt67lwt4scrl6hls7bvmmhu7xh3xj3ceyn2tie",
+            "author": {
+                "did": "did:plc:mrggcyi2rrpocjfy34hfgsa5",
+                "handle": "brasil.gov.br",
+                "displayName": "Governo do Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreibx3cy7t2oxcvkpurgjpxhtwlsd4plg26ratgpnyr6xvxlzxcc6qu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:38:16.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T12:21:33.615Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif2oed7ddviduowyvdoxejtpb6xoy5dc33m2lcj4tsklub2nyhf7i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 749720
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihner3yevd25g7najtg6wkppshx2kydxcohxn7otncgbtkgb2jpwu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 497588
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihchxsfrffj3gprrnxnjqag3wsufqfnoscgj4ntk2mse6rd377mkq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 839683
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Governo Federal segue no enfrentamento às queimadas no país. O ministério do Meio Ambiente e Mudança do Clima divulgou, nesta quarta-feira (25) o mais recente boletim sobre o combate: 78% dos 931 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 22 de setembro."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreif2oed7ddviduowyvdoxejtpb6xoy5dc33m2lcj4tsklub2nyhf7i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreif2oed7ddviduowyvdoxejtpb6xoy5dc33m2lcj4tsklub2nyhf7i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihner3yevd25g7najtg6wkppshx2kydxcohxn7otncgbtkgb2jpwu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihner3yevd25g7najtg6wkppshx2kydxcohxn7otncgbtkgb2jpwu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihchxsfrffj3gprrnxnjqag3wsufqfnoscgj4ntk2mse6rd377mkq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreihchxsfrffj3gprrnxnjqag3wsufqfnoscgj4ntk2mse6rd377mkq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 6,
+            "repostCount": 34,
+            "likeCount": 144,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-26T12:21:33.615Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bdhklyvihqi6spuk6cdwokxk/app.bsky.feed.post/3l4t63bvztt2h",
+            "cid": "bafyreieklg6zmgusgn2ycz6qildh5m5hsq2eydbzu57cjabytxuihfaghy",
+            "author": {
+                "did": "did:plc:bdhklyvihqi6spuk6cdwokxk",
+                "handle": "robertosoares.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bdhklyvihqi6spuk6cdwokxk/bafkreifge474azpspfmprycze3sn5figadwywlsnondi7uigaglck3schq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T14:02:58.396Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-23T13:03:07.256Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibulnimhcii6cmeaontdosutmuosmrq6c6fo6b3loyskkhs6gkcwm",
+                        "uri": "at://did:plc:bdhklyvihqi6spuk6cdwokxk/app.bsky.feed.post/3l4t62dlvbq2u"
+                    },
+                    "root": {
+                        "cid": "bafyreig4exiqic53c43gspjxhwsnnzypnlga3re62hgdgvluhwaoavj544",
+                        "uri": "at://did:plc:bdhklyvihqi6spuk6cdwokxk/app.bsky.feed.post/3l4t5xshtks2b"
+                    }
+                },
+                "text": "do ministro que combate o fascismo e, agora, do ministro recém chegado que tenta conter os incendiários da Amazônia, do Cerrado e do Sudeste?\nQual seria o interesse do brasileiro médio em saber quem são os assessores de ministros do STF perseguidos pela extrema direita,"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-23T13:03:06.011Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pxm33gmgzwie6zeycnrjiddy/app.bsky.feed.post/3l4r6xzl7tb2a",
+            "cid": "bafyreih7hnhdd32edgs2azmqd6zzxckc3zmjiyjgufrz2l3zkzwhstqkei",
+            "author": {
+                "did": "did:plc:pxm33gmgzwie6zeycnrjiddy",
+                "handle": "hdutra.bsky.social",
+                "displayName": "Sou antifa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pxm33gmgzwie6zeycnrjiddy/bafkreies2kjoceimvobunk6euzp3ugb5bywjyxkx3oqcajal7nm4snyizi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T19:50:03.590Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T18:13:49.101Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "_Diante da pior estiagem em 75 anos no país,* o boletim mais recente do ministério do Meio Ambiente e Mudança do Clima sobre o combate às chamas mostra que 71% dos 820 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro.*"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T18:13:49.101Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vpqdbpq2lc3tu472vgw3rqdg/app.bsky.feed.post/3l4oq743rxv2f",
+            "cid": "bafyreie3lptatpdffm2awr7y3ilgk3ukyf4t5iqbblljn545xornkdcfk4",
+            "author": {
+                "did": "did:plc:vpqdbpq2lc3tu472vgw3rqdg",
+                "handle": "janetemelo.bsky.social",
+                "displayName": "Janete Melo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreigcfb4cba4k3xjvpial5t6cz4y3ljvlonbnl77vjadzrwgaoib2mi@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T00:20:10.426Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T18:44:02.993Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreic4uwgrrndjhgii2n3c4nwg3bq6j3zafnx4cvxtt5pjisciqyvkea"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 584279
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif2plq3yyxn3pf2sxwy73xnvsza3i6u5x2fdctixtwc4lwxcej7wm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 465114
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxzsirtbfwno7i2tdx3qwrldhadeqozwwerv7qfh5bwtdpve6i2u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 610771
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:mrggcyi2rrpocjfy34hfgsa5"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 173,
+                            "byteStart": 159
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "combateaincendios"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 193,
+                            "byteStart": 175
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "emergenciaclimatica"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 194
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "amazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 224,
+                            "byteStart": 215
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 233,
+                            "byteStart": 225
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "pantanal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 234
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "_Diante da pior estiagem em 75 anos no país, o Governo Federal colocou em ação a maior operação de combate a incêndios florestais da história._\n\nFonte: @brasil.gov.br \n#combateaincendios #emergenciaclimatica\n#amazonia #cerrado #pantanal"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreic4uwgrrndjhgii2n3c4nwg3bq6j3zafnx4cvxtt5pjisciqyvkea@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreic4uwgrrndjhgii2n3c4nwg3bq6j3zafnx4cvxtt5pjisciqyvkea@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreif2plq3yyxn3pf2sxwy73xnvsza3i6u5x2fdctixtwc4lwxcej7wm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreif2plq3yyxn3pf2sxwy73xnvsza3i6u5x2fdctixtwc4lwxcej7wm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 1280
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreicxzsirtbfwno7i2tdx3qwrldhadeqozwwerv7qfh5bwtdpve6i2u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vpqdbpq2lc3tu472vgw3rqdg/bafkreicxzsirtbfwno7i2tdx3qwrldhadeqozwwerv7qfh5bwtdpve6i2u@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T18:44:02.993Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6pwowsnfawyupsdqwgvmdk6j/app.bsky.feed.post/3l4mxkobcf224",
+            "cid": "bafyreie7yv6pus573apimdaotfczjbszxkinhq6wn6ose5ekeyvrpcf6xa",
+            "author": {
+                "did": "did:plc:6pwowsnfawyupsdqwgvmdk6j",
+                "handle": "aaronlino.bsky.social",
+                "displayName": "Aaron Lino (B+)🇵🇸🇮🇷🇰🇵🇷🇺🇨🇳🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6pwowsnfawyupsdqwgvmdk6j/bafkreihwn4gio7vo5gvbnhmapisp6dihfuzq46vmrqkjqidvdvgngab2iq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:01:35.109Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T01:50:27.106Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Foram destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no desmatamento em agosto",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid7px5c656xbrsyj75f736cjnqylip55dub3onliqv4rchlvc2ege"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 991868
+                        },
+                        "title": "Governo já controlou ou extinguiu 70% dos incêndios na Amazônia, Pantanal e Cerrado - O Cafezinho",
+                        "uri": "https://www.ocafezinho.com/2024/09/19/governo-ja-controlou-ou-extinguiu-70-dos-incendios-na-amazonia-pantanal-e-cerrado/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ocafezinho.com/2024/09/19/governo-ja-controlou-ou-extinguiu-70-dos-incendios-na-amazonia-pantanal-e-cerrado/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 259,
+                            "byteStart": 225
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo já controlou ou extinguiu 70% dos incêndios na Amazônia, Pantanal e Cerrado\n\nForam destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no…\n\nwww.ocafezinho.com/2024/09/19/g..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ocafezinho.com/2024/09/19/governo-ja-controlou-ou-extinguiu-70-dos-incendios-na-amazonia-pantanal-e-cerrado/",
+                    "title": "Governo já controlou ou extinguiu 70% dos incêndios na Amazônia, Pantanal e Cerrado - O Cafezinho",
+                    "description": "Foram destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no desmatamento em agosto",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pwowsnfawyupsdqwgvmdk6j/bafkreid7px5c656xbrsyj75f736cjnqylip55dub3onliqv4rchlvc2ege@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T01:50:27.106Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sqk6ugjan4sw4ul25ci74kyh/app.bsky.feed.post/3l4mltb5ino2c",
+            "cid": "bafyreib5yrvppfzatvbwm2iw7rfdnchxgqvqhh3ixilgbzewkasdy4mzjq",
+            "author": {
+                "did": "did:plc:sqk6ugjan4sw4ul25ci74kyh",
+                "handle": "joanadapaz.bsky.social",
+                "displayName": "Joana da Paz",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sqk6ugjan4sw4ul25ci74kyh/bafkreidwx27klvx2cvphrbi3xa26mjmhlwoqa2pkwetc2rg6vmjcy2h6wa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T17:33:15.249Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T22:20:30.871Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiehrx3qddm5le5ft45seokagss2bm77e4dcfexxmvduzx547uqgfy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 594465
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governo Federal na maior operação de combate a incêndios florestais da história.\n\nO boletim mais recente do ministério do Meio Ambiente e Mudança do Clima sobre o combate às chamas mostra que 71% dos 820 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqk6ugjan4sw4ul25ci74kyh/bafkreiehrx3qddm5le5ft45seokagss2bm77e4dcfexxmvduzx547uqgfy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sqk6ugjan4sw4ul25ci74kyh/bafkreiehrx3qddm5le5ft45seokagss2bm77e4dcfexxmvduzx547uqgfy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T22:20:30.871Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n4rr632ojibbry6lushlxkgv/app.bsky.feed.post/3l4lyo2juws2y",
+            "cid": "bafyreid66o3ygj3lobemwrbrbq5cnjsbly3jnipvvp5ng6bihwxfura2fa",
+            "author": {
+                "did": "did:plc:n4rr632ojibbry6lushlxkgv",
+                "handle": "sandruska.bsky.social",
+                "displayName": "Sandruska Antifascista🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4rr632ojibbry6lushlxkgv/bafkreid37bfjqyxs5vfujpn3j37h2l6im22csvvcztza6rtc2bzdyj6g64@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T12:02:49.069Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T16:41:05.450Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Foram destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no desmatamento em agosto",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicow5d3tsft6kywwy7oogmrdaawxqzih5hmnipxwly33wl4g5gnqu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 420247
+                        },
+                        "title": "Cerca de 70% dos incêndios na Amazônia, Pantanal e Cerrado foram controlados - O Cafezinho",
+                        "uri": "https://www.ocafezinho.com/2024/09/20/cerca-de-70-dos-incendios-na-amazonia-pantanal-e-cerrado-foram-controlados/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ocafezinho.com/2024/09/20/cerca-de-70-dos-incendios-na-amazonia-pantanal-e-cerrado-foram-controlados/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 254,
+                            "byteStart": 220
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "✅Cerca de 70% dos incêndios na Amazônia, Pantanal e Cerrado foram controlados\n\nForam destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no…\n\nwww.ocafezinho.com/2024/09/20/c..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ocafezinho.com/2024/09/20/cerca-de-70-dos-incendios-na-amazonia-pantanal-e-cerrado-foram-controlados/",
+                    "title": "Cerca de 70% dos incêndios na Amazônia, Pantanal e Cerrado foram controlados - O Cafezinho",
+                    "description": "Foram destacados 2.992 profissionais para o combate às chamas que atingem os três biomas; Cerrado e Amazônia registraram queda no desmatamento em agosto",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n4rr632ojibbry6lushlxkgv/bafkreicow5d3tsft6kywwy7oogmrdaawxqzih5hmnipxwly33wl4g5gnqu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 22,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T16:37:36.110Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hcr7xjlfmxvtjltspewnifum/app.bsky.feed.post/3l4ltfs3rx22o",
+            "cid": "bafyreihm3p6frhknnnwmsfwj7czhphlliyhaclejhrr2mpcbhj23ve4uzu",
+            "author": {
+                "did": "did:plc:hcr7xjlfmxvtjltspewnifum",
+                "handle": "pedrojl.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreidjuvhz2eqh6a2x2qu23uwq5hvbyd7blb42bfvxrrlllqa3yaprli@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T00:37:23.212Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T15:03:27.091Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 611
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie5k6x2p2ait6k2xyhoypsdqzfegvenka3pfnku2tm5ee2edohhwe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 352724
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 599
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifqlrwxfh4ql76a4wezcxlkery6sidntssd6bp3tz5mx7nc6swdbe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 265625
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 664
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicxblms3jumt5djyvtui3tj2aajxpplhlst2532edagtmk6fwoocm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 247297
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 640,
+                                "width": 603
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifvugapbuf4f3kpqigusmoc6zbqtjlnkxzeaqzqz3wjhizsaqigsm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 249723
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Diante da pior estiagem em 75 anos no país o Gov Fed colocou em ação a maior operação de combate aos incêndios florestais da história.\nÚltimos dados:\n71% dos 820  incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreie5k6x2p2ait6k2xyhoypsdqzfegvenka3pfnku2tm5ee2edohhwe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreie5k6x2p2ait6k2xyhoypsdqzfegvenka3pfnku2tm5ee2edohhwe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 611
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreifqlrwxfh4ql76a4wezcxlkery6sidntssd6bp3tz5mx7nc6swdbe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreifqlrwxfh4ql76a4wezcxlkery6sidntssd6bp3tz5mx7nc6swdbe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 599
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreicxblms3jumt5djyvtui3tj2aajxpplhlst2532edagtmk6fwoocm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreicxblms3jumt5djyvtui3tj2aajxpplhlst2532edagtmk6fwoocm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 664
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreifvugapbuf4f3kpqigusmoc6zbqtjlnkxzeaqzqz3wjhizsaqigsm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hcr7xjlfmxvtjltspewnifum/bafkreifvugapbuf4f3kpqigusmoc6zbqtjlnkxzeaqzqz3wjhizsaqigsm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 640,
+                            "width": 603
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T15:03:27.091Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l4kbn4uhg227",
+            "cid": "bafyreifhsosocn5cmx7dnkeicig2iqdhnuhbftk7gaygdkrwucso4lp7uy",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T00:12:49.569Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidzjm33zxngxrgqzglwytybc26xgy5iyudu5jmj3agdnaxqzscsry",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l4kbmh6ei224"
+                    },
+                    "root": {
+                        "cid": "bafyreidl4h74qail7q3ovfffvcwvbmitjnx3r6uv6m5qg4qob5dycmvxca",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l4kbjiawac25"
+                    }
+                },
+                "text": "Mais de mil brigadistas da Defesa Civil e do Corpo de Bombeiros do Mato Grosso estão atuando no combate às chamas, que já consumiram residências e lavouras e avançam sobre a floresta.\n\nO estado tem 86 terras indígenas e 46 povos assentados na Amazônia, Cerrado e Pantanal."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T00:12:48.417Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3v7xhunqm5r7bi2nzb74aa3s/app.bsky.feed.post/3l4jxehsrdf2s",
+            "cid": "bafyreich2rr4euybbfsevvpypgm46smd3i5yn3ee4btqf7j2rksgx6u454",
+            "author": {
+                "did": "did:plc:3v7xhunqm5r7bi2nzb74aa3s",
+                "handle": "lfragasantanna.bsky.social",
+                "displayName": "LFraga Sant'Anna-Represente legal d Lou Andreas-Salomé🐶 no 🇧🇷",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3v7xhunqm5r7bi2nzb74aa3s/bafkreigglv27ppyfq63nc5lhjmytu467ivb5v2hkhvakoddk4wtuv3z2se@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:05:09.120Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T21:09:00.446Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiaksns45pj6mczm5aud6puisdr2aziloxuoybi7jh6hp5jqgy4y7m"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 548729
+                        },
+                        "title": "Sem Lula, Rui Costa discute combate às queimadas e à seca com governadores da Amazônia, Pantanal e Cerrado | Política | G1",
+                        "uri": "https://g1.globo.com/politica/noticia/2024/09/19/sem-lula-rui-costa-discute-combate-as-queimadas-e-a-seca-com-governadores-da-amazonia-pantanal-e-cerrado.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://g1.globo.com/politica/noticia/2024/09/19/sem-lula-rui-costa-discute-combate-as-queimadas-e-a-seca-com-governadores-da-amazonia-pantanal-e-cerrado.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 139,
+                            "byteStart": 111
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sem Lula, Rui Costa discute combate às queimadas e à seca com governadores da Amazônia, Pantanal e Cerrado\n\ng1.globo.com/politica/not..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/politica/noticia/2024/09/19/sem-lula-rui-costa-discute-combate-as-queimadas-e-a-seca-com-governadores-da-amazonia-pantanal-e-cerrado.ghtml",
+                    "title": "Sem Lula, Rui Costa discute combate às queimadas e à seca com governadores da Amazônia, Pantanal e Cerrado | Política | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3v7xhunqm5r7bi2nzb74aa3s/bafkreiaksns45pj6mczm5aud6puisdr2aziloxuoybi7jh6hp5jqgy4y7m@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T21:09:00.446Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:darhtgld4zpct6xi4hupunhs/app.bsky.feed.post/3l4jwetg57w2c",
+            "cid": "bafyreic3rkazojxbtdzzwyxwgzmtehnmcwogysrlwrumibwtchm5qticy4",
+            "author": {
+                "did": "did:plc:darhtgld4zpct6xi4hupunhs",
+                "handle": "pedrovoge.bsky.social",
+                "displayName": "PedroVoge",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:darhtgld4zpct6xi4hupunhs/bafkreiaalwfcs566yfxp6b7jq4wvxcuwjxisflbfcr5a5kzzb5kl6b3vqy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T22:30:20.253Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T20:51:18.369Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 754,
+                                "width": 749
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibjqzphx5f4m63q76wu5edzohjyolrayofftwnjfkv2zmujr4s5bi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 756550
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 669,
+                                "width": 748
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreig7wlateengt4z42jxzfnlsrqacbsspegr6ol5fvtp6g72gt7oqqe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 592986
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "GOVERNO LULA NO COMBATE ÀS CHAMAS \n\n*O boletim mais recente do ministério do Meio Ambiente e Mudança do Clima sobre o combate às chamas mostra que 71% dos 820 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro.*\n\n*O trabalho continua e não vai parar.*"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:darhtgld4zpct6xi4hupunhs/bafkreibjqzphx5f4m63q76wu5edzohjyolrayofftwnjfkv2zmujr4s5bi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:darhtgld4zpct6xi4hupunhs/bafkreibjqzphx5f4m63q76wu5edzohjyolrayofftwnjfkv2zmujr4s5bi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 754,
+                            "width": 749
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:darhtgld4zpct6xi4hupunhs/bafkreig7wlateengt4z42jxzfnlsrqacbsspegr6ol5fvtp6g72gt7oqqe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:darhtgld4zpct6xi4hupunhs/bafkreig7wlateengt4z42jxzfnlsrqacbsspegr6ol5fvtp6g72gt7oqqe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 669,
+                            "width": 748
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 17,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-19T20:51:18.369Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l4joix5yvt2k",
+            "cid": "bafyreihtnyckrwaq2dfygjjef7oj2uppd2bmmjfp4u6hbeououofmxgzve",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T18:30:24.749523Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibmok2ewapvymk4sgarkhyspaeacr6w6vu2pv6cezdr7cj6buq7nq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 66108
+                        },
+                        "title": "",
+                        "uri": "https://g1.globo.com/politica/noticia/2024/09/19/sem-lula-rui-costa-discute-combate-as-queimadas-e-a-seca-com-governadores-da-amazonia-pantanal-e-cerrado.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sem Lula, Rui Costa discute combate às queimadas e à seca com governadores da Amazônia, Pantanal e Cerrado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/politica/noticia/2024/09/19/sem-lula-rui-costa-discute-combate-as-queimadas-e-a-seca-com-governadores-da-amazonia-pantanal-e-cerrado.ghtml",
+                    "title": "",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibmok2ewapvymk4sgarkhyspaeacr6w6vu2pv6cezdr7cj6buq7nq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T18:30:24.749Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3nq3ha5olzburl4f4jok3toq/app.bsky.feed.post/3l4jhj6ah3r2y",
+            "cid": "bafyreiby46cv2jvrxgpdgwutu5p2323p564ovyjqodyy6jjuy2zuaoum7q",
+            "author": {
+                "did": "did:plc:3nq3ha5olzburl4f4jok3toq",
+                "handle": "stadelmann77.bsky.social",
+                "displayName": "Claudio Stadelmann 🚩🦋🇧🇷🦋🇨🇭🦋",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3nq3ha5olzburl4f4jok3toq/bafkreibiubelnxjudw7me3yogsnqivpb6ilwgwsamvqp6ieovazkooadee@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-04T22:55:47.687Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T16:25:18.247Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiddncvsss23pibcy7ekqnsdxwfakgwzoflt7vihlbj75iscqwhxpq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 586942
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O boletim mais recente do ministério do Meio Ambiente e Mudança do Clima sobre o combate às chamas mostra que 71% dos 820 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro.*"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3nq3ha5olzburl4f4jok3toq/bafkreiddncvsss23pibcy7ekqnsdxwfakgwzoflt7vihlbj75iscqwhxpq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3nq3ha5olzburl4f4jok3toq/bafkreiddncvsss23pibcy7ekqnsdxwfakgwzoflt7vihlbj75iscqwhxpq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T16:25:18.247Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mrggcyi2rrpocjfy34hfgsa5/app.bsky.feed.post/3l4izgwpnqn26",
+            "cid": "bafyreiaphnwmaf2i322ajkbdaehiptm2g47fngb5jve4wdz4o4nmcb43ju",
+            "author": {
+                "did": "did:plc:mrggcyi2rrpocjfy34hfgsa5",
+                "handle": "brasil.gov.br",
+                "displayName": "Governo do Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreibx3cy7t2oxcvkpurgjpxhtwlsd4plg26ratgpnyr6xvxlzxcc6qu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:38:16.423Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-19T12:13:30.212Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibsc3irh4zucelzokpvzjfjhbht4uk5x2wvuvr2mqgn3yzibhbfb4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 639283
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidcd7dntwqq6waxyn42poqzknzclxdfmri2kf5kheercodtrko6aq",
+                        "uri": "at://did:plc:mrggcyi2rrpocjfy34hfgsa5/app.bsky.feed.post/3l4izg4a4aq2t"
+                    },
+                    "root": {
+                        "cid": "bafyreidcd7dntwqq6waxyn42poqzknzclxdfmri2kf5kheercodtrko6aq",
+                        "uri": "at://did:plc:mrggcyi2rrpocjfy34hfgsa5/app.bsky.feed.post/3l4izg4a4aq2t"
+                    }
+                },
+                "text": "periódicos sobre este combate, mostrando que 71% dos 820 incêndios no Pantanal, Amazônia e Cerrado foram extintos ou controlados até 15 de setembro. O trabalho continua e não vai parar."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreibsc3irh4zucelzokpvzjfjhbht4uk5x2wvuvr2mqgn3yzibhbfb4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:mrggcyi2rrpocjfy34hfgsa5/bafkreibsc3irh4zucelzokpvzjfjhbht4uk5x2wvuvr2mqgn3yzibhbfb4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 17,
+            "likeCount": 50,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-19T12:13:30.212Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rskioj7ilt5ctmjc2usotqc2/app.bsky.feed.post/3l4fmfreeia2o",
+            "cid": "bafyreigdmni6rbtjjtg5wfgtn4zu3lfiuckigscp4rcdkrroajip27v3fu",
+            "author": {
+                "did": "did:plc:rskioj7ilt5ctmjc2usotqc2",
+                "handle": "renatanandes.bsky.social",
+                "displayName": "Renata Nandes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rskioj7ilt5ctmjc2usotqc2/bafkreig6ddppwn2t2wysev526p3jlwpjx5xn3bct3echxiwzr4qvr4ghxu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T11:40:33.730Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T03:42:13.441Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibaf2ac3dg6m3opwgr5cw7x4fdzhkd6f47t2tpzxzumxsif5zrv4a",
+                        "uri": "at://did:plc:rskioj7ilt5ctmjc2usotqc2/app.bsky.feed.post/3l4fmdtyop22q"
+                    },
+                    "root": {
+                        "cid": "bafyreihe7yxq65fngaigbavvkolo3ukaeifycilhwpuldwlgy2jdm3qxwm",
+                        "uri": "at://did:plc:rskioj7ilt5ctmjc2usotqc2/app.bsky.feed.post/3l4flqpa6bq2t"
+                    }
+                },
+                "text": "O Exército Brasileiro desempenha um papel crucial no combate aos incêndios florestais, especialmente em regiões críticas como o Pantanal, a Amazônia e o Cerrado. Em 2024, as Forças Armadas foram mobilizadas para apoiar as operações de combate a incêndios em várias partes do Brasil."
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T03:42:13.441Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kn7uezyjufatio2b4oea5feu/app.bsky.feed.post/3l4f2nx6b7g2w",
+            "cid": "bafyreifogv2c7u2ucpjyvw6tlavo4upnihmewjo36id6zhynzy5ix4ugfm",
+            "author": {
+                "did": "did:plc:kn7uezyjufatio2b4oea5feu",
+                "handle": "anibalcartaxo.bsky.social",
+                "displayName": "Anibal Cartaxo ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kn7uezyjufatio2b4oea5feu/bafkreifd34chxdgrfudporjcwa2vn5vu7jbwg7ffuf7sbwzk4ugjttjx4i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:05:54.077Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T22:24:39.319Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie4ugwy5yymu54phi6g7mm5xvleeefw3o3k7vka2eubr72hrqqm5y",
+                        "uri": "at://did:plc:dpag3ikbgq45g5q5fw5vayff/app.bsky.feed.post/3l4ezxfswqf2l"
+                    },
+                    "root": {
+                        "cid": "bafyreie4ugwy5yymu54phi6g7mm5xvleeefw3o3k7vka2eubr72hrqqm5y",
+                        "uri": "at://did:plc:dpag3ikbgq45g5q5fw5vayff/app.bsky.feed.post/3l4ezxfswqf2l"
+                    }
+                },
+                "text": "Desde o século XX que a Amazônia pega fogo, só agora, depois que o fogo do cerrado chegou a Brasília, ele justifica a incapacidade de combatê-lo"
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 9,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T22:24:39.319Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vqbjas6l5ownkf33jadko5xg/app.bsky.feed.post/3l43gkc2kou2g",
+            "cid": "bafyreieptkdjocryzeolqhvdrjqkjbed246fyfjffrgo3pmbsmrbicdvwu",
+            "author": {
+                "did": "did:plc:vqbjas6l5ownkf33jadko5xg",
+                "handle": "josealoisebahia.bsky.social",
+                "displayName": "JoseAloiseBahia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vqbjas6l5ownkf33jadko5xg/bafkreiaxj6qsjy6jvleyrditg4mkbajpvxjqzrrrfw2qondmkvdx2fuvty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:37:47.884Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T02:26:30.576Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Combater a devastação do Cerrado só é possível quando se combate o avanço predatório do agronegócio que é destinado ao mercado externo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifovpx6jnyblcbfqax3zmv3nt32oe4inujulrvypez64spig2c4ai"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 581536
+                        },
+                        "title": "Dia do Cerrado: o berço das águas está em chamas - Le Monde Diplomatique",
+                        "uri": "https://diplomatique.org.br/dia-do-cerrado-o-berco-das-aguas-esta-em-chamas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://diplomatique.org.br/dia-do-cerrado-o-berco-das-aguas-esta-em-chamas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 313,
+                            "byteStart": 278
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "AGRO É FOGO\nDia do Cerrado: o berço das águas está em chamas\nCombater a devastação do Cerrado só é possível quando se combate o  avanço predatório do agronegócio que é destinado ao mercado externo\nLudmila Pereira (Articulação Agro é Fogo)\n11 de setembro de 2024 diplomatique.org.br/dia-do-cerra..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://diplomatique.org.br/dia-do-cerrado-o-berco-das-aguas-esta-em-chamas/",
+                    "title": "Dia do Cerrado: o berço das águas está em chamas - Le Monde Diplomatique",
+                    "description": "Combater a devastação do Cerrado só é possível quando se combate o avanço predatório do agronegócio que é destinado ao mercado externo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqbjas6l5ownkf33jadko5xg/bafkreifovpx6jnyblcbfqax3zmv3nt32oe4inujulrvypez64spig2c4ai@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T02:26:30.576Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r7qszbnwtmarbzkp2otmylaq/app.bsky.feed.post/3l3yllg5tfz22",
+            "cid": "bafyreid4fs4uhr3ruidfagoanfyoost44jnbskspno2iiw4l6takv6hnqm",
+            "author": {
+                "did": "did:plc:r7qszbnwtmarbzkp2otmylaq",
+                "handle": "o--oyg.bsky.social",
+                "displayName": "Tudo vai piorar essa semana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r7qszbnwtmarbzkp2otmylaq/bafkreih3ltysaut65aar4rusxrkt4rjg5ve5no4ob24xlveqt4hymzt24i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-15T00:48:32.259Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T23:22:52.608Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreid6xynb3rniyp4rzxcyb6kniytrui67xla5lqmmyyptgxqw6zojpe",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3xcxuyjqm2s"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Em 2023 e 2024 tivemos, sim, uma grande redução do desmatamento na Amazônia, na Mata Atlântica e até no Cerrado. Aparentemente as políticas (de combate ao desmatamento) estão sendo razoavelmente bem implementadas. Então, por que as queimadas estão explodindo? Porque os incêndios são criminosos\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l3xcxuyjqm2s",
+                    "cid": "bafyreid6xynb3rniyp4rzxcyb6kniytrui67xla5lqmmyyptgxqw6zojpe",
+                    "author": {
+                        "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                        "handle": "jnascim.info",
+                        "displayName": "Jeff Nascimento",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "all"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-22T10:36:21.706Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-12T11:16:07.573Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Biomas brasileiros estão gravemente ameaçados pelo aquecimento global; Pantanal deve perder toda a sua área alagada antes mesmo do fim do século",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreibtxyuwteruypqexbal5p6po73zyg7o6mjg2y4j563lhem4kcts2u"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 566960
+                                },
+                                "title": "Entrevista | ‘Estou apavorado. Ninguém previa isso; é muito rápido’, diz Carlos Nobre sobre crise climática",
+                                "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/?utm_source=estadao:app"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/?utm_source=estadao:app"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 137,
+                                    "byteStart": 103
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "‘Estou apavorado. Ninguém previa isso; é muito rápido’, diz Carlos Nobre sobre crise climática www.estadao.com.br/sustentabili..."
+                    },
+                    "labels": [],
+                    "likeCount": 1176,
+                    "replyCount": 56,
+                    "repostCount": 278,
+                    "quoteCount": 106,
+                    "indexedAt": "2024-09-12T11:16:07.573Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.estadao.com.br/sustentabilidade/crise-clima-seca-queimadas-amazonia-carlos-nobre/?utm_source=estadao:app",
+                                "title": "Entrevista | ‘Estou apavorado. Ninguém previa isso; é muito rápido’, diz Carlos Nobre sobre crise climática",
+                                "description": "Biomas brasileiros estão gravemente ameaçados pelo aquecimento global; Pantanal deve perder toda a sua área alagada antes mesmo do fim do século",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreibtxyuwteruypqexbal5p6po73zyg7o6mjg2y4j563lhem4kcts2u@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T23:22:52.608Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ncwhsts5zcstuxb53klk3am/app.bsky.feed.post/3l3xfo3jdzp2k",
+            "cid": "bafyreibtzalr5lkara4vgqinqctcga3junset5unqckg6mo5zlikavb77u",
+            "author": {
+                "did": "did:plc:4ncwhsts5zcstuxb53klk3am",
+                "handle": "marcmarbela.bsky.social",
+                "displayName": "Glória ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ncwhsts5zcstuxb53klk3am/bafkreidqyikmwgvsnaxi5bgr53biod4tdxg3yvxhxf7eikmt7sdi6x7gwa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:06:31.772Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T12:04:20.102Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigc5osqux5fdurt7sp5jqm2bdre2m46ylgaak5d5bs72ncfjftmda",
+                        "uri": "at://did:plc:3s5ufaxrokodidsaftgs6wg6/app.bsky.feed.post/3l3tnhmqom42w"
+                    },
+                    "root": {
+                        "cid": "bafyreighvyxrq545prio7bdljllukkvc573yxsrsphgnp4a7pctprc2vci",
+                        "uri": "at://did:plc:mdcxyfltx3d6qgfpbaguerxc/app.bsky.feed.post/3l3t7ks26ov2h"
+                    }
+                },
+                "text": "No Cerrado ocorre esse fenômeno. É natural da vegetação, mas também esperado pelos órgãos de combate aos incêndios, que manejam os eventos. O que está acontecendo é provocado. Resta saber por quem."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T12:04:20.102Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hfvx3xobxofb6l7qjdrpqhel/app.bsky.feed.post/3l3vxz3be5k2q",
+            "cid": "bafyreicgzh3jzgjulluw3htk72ctz6wb7d2jhzeojwsgbqevzn4lxnwnle",
+            "author": {
+                "did": "did:plc:hfvx3xobxofb6l7qjdrpqhel",
+                "handle": "3dejulhonotias.bsky.social",
+                "displayName": "3 de Julho Notícias",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hfvx3xobxofb6l7qjdrpqhel/bafkreib2kmkmvdhmauefd64flohzabtzgby3o2dpkx4wz3x764bunh2uya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T11:25:39.204Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T00:27:35.005Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Com ações emergenciais e estratégicas, como a elaboração do Plano Clima, governo trabalha para preservar o bioma – Foto: Assessoria Secom/PR (Secom/PR) – Neste 11 de setembro é comemorado o Dia do Cer...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidkb4blzb4rhdhp6ik2ofncychtlmouftyfk5tkqxwv77g3vcap6y"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 538570
+                        },
+                        "title": "Dia do Cerrado: Governo Federal reforça combate ao desmatamento e proteção das bacias hidrográficas - Portal 3 de Julho",
+                        "uri": "https://portal3dejulho.com.br/amazonia/dia-do-cerrado-governo-federal-reforca-combate-ao-desmatamento-e-protecao-das-bacias-hidrograficas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://portal3dejulho.com.br/amazonia/dia-do-cerrado-governo-federal-reforca-combate-ao-desmatamento-e-protecao-das-bacias-hidrograficas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 143,
+                            "byteStart": 106
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia do Cerrado: Governo Federal reforça combate ao desmatamento e proteção das bacias hidrográficas.\n\nportal3dejulho.com.br/amazonia/dia..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://portal3dejulho.com.br/amazonia/dia-do-cerrado-governo-federal-reforca-combate-ao-desmatamento-e-protecao-das-bacias-hidrograficas/",
+                    "title": "Dia do Cerrado: Governo Federal reforça combate ao desmatamento e proteção das bacias hidrográficas - Portal 3 de Julho",
+                    "description": "Com ações emergenciais e estratégicas, como a elaboração do Plano Clima, governo trabalha para preservar o bioma – Foto: Assessoria Secom/PR (Secom/PR) – Neste 11 de setembro é comemorado o Dia do Cer...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hfvx3xobxofb6l7qjdrpqhel/bafkreidkb4blzb4rhdhp6ik2ofncychtlmouftyfk5tkqxwv77g3vcap6y@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T22:27:17.613Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g5kftu6l3hleeh5p7eikqiae/app.bsky.feed.post/3l3uhn4jx2a2x",
+            "cid": "bafyreiaphea236xdmex3yab2qqyco2lfpujnj25duajd65qs36xthqieru",
+            "author": {
+                "did": "did:plc:g5kftu6l3hleeh5p7eikqiae",
+                "handle": "joaodefreitas10.bsky.social",
+                "displayName": "Freitas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g5kftu6l3hleeh5p7eikqiae/bafkreicofmn5nadbw6tang57cvgxdg3hgdkmxng64wxvkdv567izzxqefe@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-12T21:18:39.013Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T08:01:35.987Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "- 1541 - A cidade da Guatemala é totalmente destruída por um terremoto;\n- 1913 - A epidemia de cólera se extende pelos Balcãs, causando a morte de 700 pessoas na Romênia e 300 na Sérvia;\n- 1952 - Alemães e israelenses fazem um acordo, estabelecendo que a Alemanha deveria compensar os israelenses com US$ 822 milhões pelos danos sofridos durante a época de Hitler;\n- 1967 - A sonda Surveyor 5 envia da superfície da Lua resultados das análises químicas realizadas automaticamente no solo do satélite;\n- 1970 - A Conferência Nacional dos Bispos do Brasil acaba com a obrigatoriedade de uma pessoa não católica, casada com católica, educar os filhos segundo os princípios cristãos;\n- 1983 - Os irmãos iatistas Torben e Lars Grael conquistam o título para o Brasil no Campeonato Mundial de Snipe, em Portugal;\n- 1985 - Mais de 120 pessoas morrem em Portugal devido a um choque frontal de trens;\n- 1986 - A Bolsa de Nova York registra a maior queda de sua história até esta data. O índice Dow Jones perde",
+                            "aspectRatio": {
+                                "height": 510,
+                                "width": 684
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicapkspwjfwr4wkyescdhebfkt7y5wlqne7a7nbugb7bcqwomac5q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 521921
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.joaodefreitas.com.br/datas-setembro-11.htm"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 197,
+                            "byteStart": 151
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fatos, mitos e comemorações do dia\n11 de setembro:\n- Dia Nacional do Karatê;\n- Dia Nacional do Cerrado;\n- Dia Estadual de Combate à AIDS (SP);\n...\nwww.joaodefreitas.com.br/datas-setembro-11.htm"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g5kftu6l3hleeh5p7eikqiae/bafkreicapkspwjfwr4wkyescdhebfkt7y5wlqne7a7nbugb7bcqwomac5q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g5kftu6l3hleeh5p7eikqiae/bafkreicapkspwjfwr4wkyescdhebfkt7y5wlqne7a7nbugb7bcqwomac5q@jpeg",
+                        "alt": "- 1541 - A cidade da Guatemala é totalmente destruída por um terremoto;\n- 1913 - A epidemia de cólera se extende pelos Balcãs, causando a morte de 700 pessoas na Romênia e 300 na Sérvia;\n- 1952 - Alemães e israelenses fazem um acordo, estabelecendo que a Alemanha deveria compensar os israelenses com US$ 822 milhões pelos danos sofridos durante a época de Hitler;\n- 1967 - A sonda Surveyor 5 envia da superfície da Lua resultados das análises químicas realizadas automaticamente no solo do satélite;\n- 1970 - A Conferência Nacional dos Bispos do Brasil acaba com a obrigatoriedade de uma pessoa não católica, casada com católica, educar os filhos segundo os princípios cristãos;\n- 1983 - Os irmãos iatistas Torben e Lars Grael conquistam o título para o Brasil no Campeonato Mundial de Snipe, em Portugal;\n- 1985 - Mais de 120 pessoas morrem em Portugal devido a um choque frontal de trens;\n- 1986 - A Bolsa de Nova York registra a maior queda de sua história até esta data. O índice Dow Jones perde",
+                        "aspectRatio": {
+                            "height": 510,
+                            "width": 684
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T08:01:35.987Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r73eggb6i2fdmalxc6eyzfsc/app.bsky.feed.post/3l3gtui7fwi2n",
+            "cid": "bafyreihht4sfubovpphpo6s4psmi7p4iynm73yr7nn3k6mfiadxayxtvhi",
+            "author": {
+                "did": "did:plc:r73eggb6i2fdmalxc6eyzfsc",
+                "handle": "msconecta.bsky.social",
+                "displayName": "MS Conecta • Você em todos os lugares! 🌎",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreicavcstgouhmq6nqxn66zkmvm47e3joxafcoorzstb5wtq6yq7lbq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-04T23:28:40.942Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T22:03:11.416Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifkusstuqf2vjljontxmdoj35s6gqdupoyobvgh2phu5bmkrpzpyi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 333336
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com ações permanentes de combate aos incêndios florestais no Pantanal, Cerrado e Mata Atlântica, biomas presentes em Mato Grosso do Sul, o Corpo de Bombeiros de Mato Grosso do Sul (CBMMS) e os demais envolvidos no trabalho de controle e extinção das chamas, atuam em diferentes frentes para mitigar."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreifkusstuqf2vjljontxmdoj35s6gqdupoyobvgh2phu5bmkrpzpyi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r73eggb6i2fdmalxc6eyzfsc/bafkreifkusstuqf2vjljontxmdoj35s6gqdupoyobvgh2phu5bmkrpzpyi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T22:03:11.416Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kmy3mkgugqzte2csn7n7n5sk/app.bsky.feed.post/3l37fkttzqi2h",
+            "cid": "bafyreifzorrk6aotjpgf4hqdoxatf4gjli3xhdmexy2xyqkjnomyiz4uim",
+            "author": {
+                "did": "did:plc:kmy3mkgugqzte2csn7n7n5sk",
+                "handle": "capitalnews.bsky.social",
+                "displayName": "Jornal Capital News",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreif4li3eqabcf32ajazi4zxgggcpxvqdyfik7u3x3roigtshfpgeiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:40:22.644Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T22:58:37.400Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Audiência pública busca esclarecimentos sobre ações do governo federal em meio a crise de queimadas na Amazônia, Cerrado e Pantanal",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiazmztvgbbihqpaanbi2qubynotyatywo7rqcagndzqmly2hfmbn4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 903888
+                        },
+                        "title": "Ministra Marina Silva será ouvida no Senado sobre combate a incêndios florestais | Notícias de Campo Grande e MS - Capital News",
+                        "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/ministra-marina-silva-sera-ouvida-no-senado-sobre-combate-a-incendios-florestais/408715"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "UltimasNoticias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 244,
+                            "byteStart": 228
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "CapitalNews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 245
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/ministra-marina-silva-sera-ouvida-no-senado-sobre-combate-a-incendios-florestais/408715"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 260
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "▶️ Ministra Marina Silva será ouvida no Senado sobre combate a incêndios florestais\nAudiência pública busca esclarecimentos sobre ações do governo federal em meio a crise de queimadas na Amazônia, Cerrado e Pantanal\n\n#UltimasNoticias #CapitalNews \n\nwww.capitalnews.com.br/politica-e-p..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.capitalnews.com.br/politica-e-poder/executivo/ministra-marina-silva-sera-ouvida-no-senado-sobre-combate-a-incendios-florestais/408715",
+                    "title": "Ministra Marina Silva será ouvida no Senado sobre combate a incêndios florestais | Notícias de Campo Grande e MS - Capital News",
+                    "description": "Audiência pública busca esclarecimentos sobre ações do governo federal em meio a crise de queimadas na Amazônia, Cerrado e Pantanal",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kmy3mkgugqzte2csn7n7n5sk/bafkreiazmztvgbbihqpaanbi2qubynotyatywo7rqcagndzqmly2hfmbn4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-02T22:58:37.400Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3zb6cejpu3xtpvgk4q5vsvzh/app.bsky.feed.post/3kwovlxfpvh2e",
+            "cid": "bafyreifqsoem6gawkw6smnxyfz76gbhqf6rvflalwe5gnjadou4qvcatky",
+            "author": {
+                "did": "did:plc:3zb6cejpu3xtpvgk4q5vsvzh",
+                "handle": "pt.org.br",
+                "displayName": "PT Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreidrrrxcghme4abcodjbrtnqq5dp5lnzq74bqiheozrav3655jcndu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T15:18:25.076Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-07T11:49:31.030Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiegaovf5l7xkpy6coccadnpbdslqqkltnfq7o2owkvca5tizggqei"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 426074
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/PT-QuedaNoDesmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 301,
+                            "byteStart": 279
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mais avanços no combate ao desmatamento no Brasil! 🌳\n\nSegundo o Inpe, a área sob alertas de desmatamento na Amazônia caiu 38% no primeiro semestre em relação ao mesmo período de 2023. No Cerrado, a queda foi de 15%, a primeira redução para o período desde 2020.\n\n⏩ bit.ly/PT-QuedaNoDe..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreiegaovf5l7xkpy6coccadnpbdslqqkltnfq7o2owkvca5tizggqei@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3zb6cejpu3xtpvgk4q5vsvzh/bafkreiegaovf5l7xkpy6coccadnpbdslqqkltnfq7o2owkvca5tizggqei@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 4,
+            "repostCount": 22,
+            "likeCount": 56,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-07T11:49:31.030Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fojae4njrex5exi2tolrheiw/app.bsky.feed.post/3kwnzairs3l2q",
+            "cid": "bafyreies2e2exhukenagfhnczvxqqmd46ng7q6d4ewbektarytnk4igesu",
+            "author": {
+                "did": "did:plc:fojae4njrex5exi2tolrheiw",
+                "handle": "alves21.bsky.social",
+                "displayName": "Alves",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreidmfefmrckwinsnzgnmwmxw6ui2hcrs3eayvrro5heb5k34c5waue@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T00:40:02.998Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-07T03:22:03.533Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreid4dzcqgxmtxm5ldatx36xqcixmgpzn2xbu3pdlvtchgpv6oqvmqm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 734458
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/PT-QuedaNoDesmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 312,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Avanços no combate ao desmatamento no Brasil! 🌳\n\nSegundo dados do Inpe, a área sob alertas de desmatamento na Amazônia caiu 38% no primeiro semestre em relação ao mesmo período de 2023. No Cerrado queda de 15% de janeiro a junho, a primeira redução para o período desde 2020.\n\n bit.ly/PT-QuedaNoDe..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreid4dzcqgxmtxm5ldatx36xqcixmgpzn2xbu3pdlvtchgpv6oqvmqm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fojae4njrex5exi2tolrheiw/bafkreid4dzcqgxmtxm5ldatx36xqcixmgpzn2xbu3pdlvtchgpv6oqvmqm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-07T03:22:03.533Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6yyaqlyk2a",
+            "cid": "bafyreicoceifv2v2k4nvvvhj3bdquar6dvxrve4pe7jicq4dgzragip7ue",
+            "author": {
+                "did": "did:plc:a5o5pa6imrd52s627zq63zgz",
+                "handle": "lula.com.br",
+                "displayName": "Lula",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:a5o5pa6imrd52s627zq63zgz/bafkreiaoo5jearluynpx6fcvng3aq4xrksjc4mbacifhpbig7zsc6vxq5q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T23:10:57.577Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-05T17:17:07.312Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifxs5odkb3q4vhqmsgeyjh6fechtxfn35hu7fei3ijkboezxywwem",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6yvrb5ek2z"
+                    },
+                    "root": {
+                        "cid": "bafyreibht2y4ppswpvsli5m7oad6clfirto6p5fnjjituy6vm2743dwjlu",
+                        "uri": "at://did:plc:a5o5pa6imrd52s627zq63zgz/app.bsky.feed.post/3ku6yv6oquc22"
+                    }
+                },
+                "text": "- Combate ao desmatamento sendo: queda de 40,5% na Amazônia (janeiro a maio/2024), queda de 12,9% no Cerrado (janeiro a maio/2024), queda de 9,2% no Pantanal (agosto/2022 a julho/2023) e queda de 27% na Mata Atlântica (janeiro a dezembro/2023). +"
+            },
+            "replyCount": 4,
+            "repostCount": 25,
+            "likeCount": 62,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-05T17:17:07.312Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nr3poea4qxztfywfajgnago3/app.bsky.feed.post/3kpzcf6ckao2a",
+            "cid": "bafyreibfd3ynwf5vp25zkcuuyuybuv34nmypcawkrzkdd3xxk2teyprqaq",
+            "author": {
+                "did": "did:plc:nr3poea4qxztfywfajgnago3",
+                "handle": "seringueiro.bsky.social",
+                "displayName": "Seringueiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nr3poea4qxztfywfajgnago3/bafkreihumrothq3qg35or54ggcna2jwjgearu2fhttbmeysgubwuv3tfu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-04T02:30:35.849Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-13T13:00:31.173Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif7srwf7rg4tzmwii4xfpl53zt73q23orxusa2kb3gosvnnhnqofe",
+                        "uri": "at://did:plc:dobrsxt3kcxv2u3azwhfiuxd/app.bsky.feed.post/3kpz7zdizb22b"
+                    },
+                    "root": {
+                        "cid": "bafyreif7srwf7rg4tzmwii4xfpl53zt73q23orxusa2kb3gosvnnhnqofe",
+                        "uri": "at://did:plc:dobrsxt3kcxv2u3azwhfiuxd/app.bsky.feed.post/3kpz7zdizb22b"
+                    }
+                },
+                "text": "bom pra todo mundo é Reforma Agrária. Combate efetivo aos desmatamentos,garimpos e destruição do Cerrado e florestas.pra todos é saneamento básico em 100% dos municípios.pra todos é investir em baratear o custo das frutas,no mercado interno. Mobilização Urgente pra zerar casos de covid"
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-13T13:00:31.173Z",
+            "labels": []
+        }
+    ]
+}

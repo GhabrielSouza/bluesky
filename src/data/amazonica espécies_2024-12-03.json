@@ -1,0 +1,1464 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:wurt2t4qdzr4xmpsqrbrifw7/app.bsky.feed.post/3lbbctsfbgc2m",
+            "cid": "bafyreigcj3ep3wp3dpnutneqwsqsbizchux3qfmynjxqlluwtxw5oeqkiq",
+            "author": {
+                "did": "did:plc:wurt2t4qdzr4xmpsqrbrifw7",
+                "handle": "questcuriosidades.bsky.social",
+                "displayName": "Quest Curiosidades",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wurt2t4qdzr4xmpsqrbrifw7/bafkreignzuoxrb7nukstu3nuizryvnyqsmnagdd7airystklyihgkmltxm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-09T04:58:27.421Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-19T01:46:26.245Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 1080,
+                        "width": 1920
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 4353320
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Biodiversidade da Floresta Amazônica 🌳🌳🌳\n\nEstima-se que a Floresta Amazônica abriga um número estimado de 2 a 5 milhões de espécies de animais e plantas. Embora as estimativas variem, acredita-se que a Amazônia contenha cerca de: (segue o fio 👇)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Awurt2t4qdzr4xmpsqrbrifw7/bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Awurt2t4qdzr4xmpsqrbrifw7/bafkreigdkswnmxbkjbgnmcfyh22wxd2uzywfrugd6deq7vyoqvd3u6p4m4/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 1080,
+                    "width": 1920
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-19T01:48:07.843Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3lay6smaxr72j",
+            "cid": "bafyreiejiutrmq5rax34opp7erxiurdbnynbvis3slwesjf4gmkzk7lfd4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-15T10:40:11.142477Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicl2uidhofbwxffe7de47yblowopvcslecqjcxpk3nqpx3cf6ncua"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 770363
+                        },
+                        "title": "Período defeso começa nesta sexta-feira, 15, para oito espécies na Bacia Amazônica | Santarém e Região | G1",
+                        "uri": "https://g1.globo.com/pa/santarem-regiao/noticia/2024/11/15/periodo-defeso-comeca-nesta-sexta-feira-15-para-oito-especies-na-bacia-amazonica.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Período defeso começa nesta sexta-feira, 15, para oito espécies na Bacia Amazônica"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pa/santarem-regiao/noticia/2024/11/15/periodo-defeso-comeca-nesta-sexta-feira-15-para-oito-especies-na-bacia-amazonica.ghtml",
+                    "title": "Período defeso começa nesta sexta-feira, 15, para oito espécies na Bacia Amazônica | Santarém e Região | G1",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreicl2uidhofbwxffe7de47yblowopvcslecqjcxpk3nqpx3cf6ncua@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-15T10:40:14.548Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3l6ixel7occ2u",
+            "cid": "bafyreia2i3qdgmqaojbzxpc635x3magguxibafjwlocnzf3ey5ql5xnuee",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T22:26:46.679Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Incêndios recorrentes alteram a estrutura física, a diversidade e a composição das espécies, podendo levar a floresta ao colapso, mostra estudo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibaltcnklywgm24d3xrade4dubqqf7unxgnennoz5agngkbh3t76q"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 416942
+                        },
+                        "title": "Fogo acaba com 71% da biomassa da floresta amazônica em apenas duas passagens - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/fogo-acaba-com-71-da-biomassa-da-floresta-amazonica-em-apenas-duas-passagens/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Fogo acaba com 71% da biomassa da floresta amazônica em apenas duas passagens ⬇️\n\nIncêndios recorrentes alteram a estrutura física, a diversidade e a composição das espécies, podendo levar a floresta ao colapso, mostra estudo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/fogo-acaba-com-71-da-biomassa-da-floresta-amazonica-em-apenas-duas-passagens/",
+                    "title": "Fogo acaba com 71% da biomassa da floresta amazônica em apenas duas passagens - ((o))eco",
+                    "description": "Incêndios recorrentes alteram a estrutura física, a diversidade e a composição das espécies, podendo levar a floresta ao colapso, mostra estudo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibaltcnklywgm24d3xrade4dubqqf7unxgnennoz5agngkbh3t76q@jpeg"
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 25,
+            "likeCount": 51,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-14T22:26:46.679Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:f7ampltvbjwtyxobithwjljm/app.bsky.feed.post/3l64235qf522l",
+            "cid": "bafyreie3as46p4b2cgmwgwdlkmxztbrza5pzjb24stnrvzwuyxassxm7ti",
+            "author": {
+                "did": "did:plc:f7ampltvbjwtyxobithwjljm",
+                "handle": "jclaro.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f7ampltvbjwtyxobithwjljm/bafkreibqn5zp2uebfutdslxm73lolxfws754dmatp427qxx377kxkn2weu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-06-23T13:17:17.384Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T19:10:34.568Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 214,
+                                "width": 256
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicq2vyhzc3qz6g6hoto4kajcyhcl24thjquyg7g53vkebhs7trsby"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 8402
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://notasdeaz.blogspot.com/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 241,
+                            "byteStart": 219
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "rios da Bacia Amazônica à níveis recordes de baixa, enquanto as temperaturas da água se aproximam das que desencadearam mortandade das 2 espécies de golfinhos ameaçados de extinção em 2023.\nLeia em Notas de AZ:\nnotasdeaz.blogspot.com"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f7ampltvbjwtyxobithwjljm/bafkreicq2vyhzc3qz6g6hoto4kajcyhcl24thjquyg7g53vkebhs7trsby@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:f7ampltvbjwtyxobithwjljm/bafkreicq2vyhzc3qz6g6hoto4kajcyhcl24thjquyg7g53vkebhs7trsby@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 214,
+                            "width": 256
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T19:10:34.568Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:unzwrcvdtqc4wetszt3gzujq/app.bsky.feed.post/3l5yospblxc25",
+            "cid": "bafyreihsz7z6nw67fijyw325cgnysimfegwhoc74bucyapaq4rczfpfrzu",
+            "author": {
+                "did": "did:plc:unzwrcvdtqc4wetszt3gzujq",
+                "handle": "treeitoriosecreto.bsky.social",
+                "displayName": "Territorio Secreto",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:unzwrcvdtqc4wetszt3gzujq/bafkreiag4thaccph5lmhlwjnntlfqhjabwnzruqghylhyihb5bumpljzxu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-01T12:48:03.603Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T11:07:31.671Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Heliconius elevatus, híbrida entre H. pardalinus e H. melpomene, tem mais genes da primeira, mas herdou da segunda a coloração capaz de espantar predadores Um grupo de pesquisadores de vários países r...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifmuxkykiw7qcr6g4oubtz4xraoifd54tpgjmc43xxywsetfbytbm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 380030
+                        },
+                        "title": "Borboleta amazônica surgiu do cruzamento entre duas espécies - Território Secreto",
+                        "uri": "https://territoriosecreto.com.br/borboleta-amazonica-surgiu-do-cruzamento-entre-duas-especies/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://territoriosecreto.com.br/borboleta-amazonica-surgiu-do-cruzamento-entre-duas-especies/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 103,
+                            "byteStart": 63
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Borboleta amazônica surgiu do cruzamento entre duas espécies\nterritoriosecreto.com.br/borboleta-am..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://territoriosecreto.com.br/borboleta-amazonica-surgiu-do-cruzamento-entre-duas-especies/",
+                    "title": "Borboleta amazônica surgiu do cruzamento entre duas espécies - Território Secreto",
+                    "description": "Heliconius elevatus, híbrida entre H. pardalinus e H. melpomene, tem mais genes da primeira, mas herdou da segunda a coloração capaz de espantar predadores Um grupo de pesquisadores de vários países r...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:unzwrcvdtqc4wetszt3gzujq/bafkreifmuxkykiw7qcr6g4oubtz4xraoifd54tpgjmc43xxywsetfbytbm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T11:07:31.671Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jxdge6t65taws33eb6fvmnnh/app.bsky.feed.post/3l5i4w23f372y",
+            "cid": "bafyreihprfifegtducy4pswpdqe4lti5vgpr73nisyme4so5vs6ixepjw4",
+            "author": {
+                "did": "did:plc:jxdge6t65taws33eb6fvmnnh",
+                "handle": "graxaim.bsky.social",
+                "displayName": "Anderson",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jxdge6t65taws33eb6fvmnnh/bafkreict5ar5rngiyimvjaqj67rzpnokbvurknslg3cb7yuvw6wi2xrt3m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-15T22:29:55.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T21:08:11.940Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "WikiAves - A Enciclopédia das Aves do Brasil",
+                        "title": "Thraupidae",
+                        "uri": "https://www.wikiaves.com.br/wiki/thraupidae"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.wikiaves.com.br/wiki/saira-sete-cores"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 227,
+                            "byteStart": 192
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.wikiaves.com.br/wiki/sete-cores-da-amazonia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 264,
+                            "byteStart": 229
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.wikiaves.com.br/wiki/thraupidae"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 312,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifcd4rmtfnsejoewf6hkiye7ocveu74lbvdt7io6rdrizrutkzzl4",
+                        "uri": "at://did:plc:enag37222oxkvj4uw4xhdgj6/app.bsky.feed.post/3l5hz4w7r6j2r"
+                    },
+                    "root": {
+                        "cid": "bafyreifcd4rmtfnsejoewf6hkiye7ocveu74lbvdt7io6rdrizrutkzzl4",
+                        "uri": "at://did:plc:enag37222oxkvj4uw4xhdgj6/app.bsky.feed.post/3l5hz4w7r6j2r"
+                    }
+                },
+                "text": "Obs: a saíra aí do link da wikipédia é de mata atlântica! A da postagem é amazônica que na foto não deixa ver + cores! São espécies diferentes! E a família thraupidae é lindona! \n\nwww.wikiaves.com.br/wiki/saira-s...\n\nwww.wikiaves.com.br/wiki/sete-co...\n\nFamília:\n\nwww.wikiaves.com.br/wiki/thraupi..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.wikiaves.com.br/wiki/thraupidae",
+                    "title": "Thraupidae",
+                    "description": "WikiAves - A Enciclopédia das Aves do Brasil"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T21:08:11.324Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iom65yhg4pd2hnzmsqxhqjxg/app.bsky.feed.post/3l5chenmgoc22",
+            "cid": "bafyreifwngojkjmn7pwqc4v5ahoveeh5huiro3w4jhazikb3xgvql2u3me",
+            "author": {
+                "did": "did:plc:iom65yhg4pd2hnzmsqxhqjxg",
+                "handle": "leocastrooficial.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iom65yhg4pd2hnzmsqxhqjxg/bafkreia2s5cmj7sbz3pjm63dto6pp3wzoevtaudp6mmgjfxhbxisdwaxp4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T00:04:20.496Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T14:59:19.723Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Over thousands of years, native people played a strong role in molding the ecology of this vast wilderness",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiejn6mzq43572lfukfkb57xlftjsnpfs4cb67q3f7a23ot5zmtvna"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 852293
+                        },
+                        "title": "The Supposedly Pristine, Untouched Amazon Rainforest Was Actually Shaped By Humans",
+                        "uri": "https://www.smithsonianmag.com/science-nature/pristine-untouched-amazonian-rainforest-was-actually-shaped-humans-180962378/#:~:text=%22For%20some%20of%20those%20species,Science%20stories%20in%20your%20inbox"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.smithsonianmag.com/science-nature/pristine-untouched-amazonian-rainforest-was-actually-shaped-humans-180962378/#:~:text=%22For%20some%20of%20those%20species,Science%20stories%20in%20your%20inbox"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 194,
+                            "byteStart": 156
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibdhelcy5ilfh4qumnnkd47nqipomzx5enqgak6itvowvcxqv6m2m",
+                        "uri": "at://did:plc:c26m2uqogx7txumip6n6uobq/app.bsky.feed.post/3l5cewhsxau2o"
+                    },
+                    "root": {
+                        "cid": "bafyreierr5c4rvrtmqdjb24cle3ilndh2dyz2vslgupuasqtjtytjmdihq",
+                        "uri": "at://did:plc:c26m2uqogx7txumip6n6uobq/app.bsky.feed.post/3l5ceit3vgl2j"
+                    }
+                },
+                "text": "Tem uns estudos interessantes de que a floresta amazônica teria sido plantada por essas civilizações, a partir da domesticação de espécies vegetais \n\nwww.smithsonianmag.com/science-natu...."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.smithsonianmag.com/science-nature/pristine-untouched-amazonian-rainforest-was-actually-shaped-humans-180962378/#:~:text=%22For%20some%20of%20those%20species,Science%20stories%20in%20your%20inbox",
+                    "title": "The Supposedly Pristine, Untouched Amazon Rainforest Was Actually Shaped By Humans",
+                    "description": "Over thousands of years, native people played a strong role in molding the ecology of this vast wilderness",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iom65yhg4pd2hnzmsqxhqjxg/bafkreiejn6mzq43572lfukfkb57xlftjsnpfs4cb67q3f7a23ot5zmtvna@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T14:59:19.723Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4vx2easqv2a",
+            "cid": "bafyreiexx46ws4i255pp6vrr5tnxmx4og3h5j3igz3t2wtlaonma726kr4",
+            "author": {
+                "did": "did:plc:zrgw3kiu2ygolbuqqhdokuuo",
+                "handle": "ivaldo-leao.bsky.social",
+                "displayName": "Prof. Ivaldo Leão Ferreira, DSc.",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zrgw3kiu2ygolbuqqhdokuuo/bafkreidamcv2b72vofffodlf7h4qzdizvac7afrjzd7uxmuw56upgv5wam@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T11:01:27.523Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T15:35:18.026Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibwvmkzyi44tltk4l5sctvekpvjkyj4hiqnock7d777taljn3hlue",
+                        "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4vwrziy5d2v"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:nrcpr3gzrikwwqudvwt7mnez"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 17,
+                            "byteStart": 0
+                        }
+                    },
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:4nk6h2gqwfjqjqemfruy2x75"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 35,
+                            "byteStart": 18
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "@cnpq.bsky.social @ufpa.bsky.social Os número dos franceses (2019) são 4,4 bilhões baseados em espécies europeias, os meus 4,2 bilhões consideram espécies da floresta amazônica. Estes números refletem  sequestros de carbono em escala mundial."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4vwrziy5d2v",
+                    "cid": "bafyreibwvmkzyi44tltk4l5sctvekpvjkyj4hiqnock7d777taljn3hlue",
+                    "author": {
+                        "did": "did:plc:zrgw3kiu2ygolbuqqhdokuuo",
+                        "handle": "ivaldo-leao.bsky.social",
+                        "displayName": "Prof. Ivaldo Leão Ferreira, DSc.",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zrgw3kiu2ygolbuqqhdokuuo/bafkreidamcv2b72vofffodlf7h4qzdizvac7afrjzd7uxmuw56upgv5wam@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-09-06T11:01:27.523Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-24T15:30:38.098Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.recordWithMedia",
+                            "media": {
+                                "$type": "app.bsky.embed.external",
+                                "external": {
+                                    "description": "",
+                                    "title": "",
+                                    "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/09/23/semana-comeca-com-expectativa-de-seca-e-fumaca-mapa-mostra-alerta-maximo.htm"
+                                }
+                            },
+                            "record": {
+                                "$type": "app.bsky.embed.record",
+                                "record": {
+                                    "cid": "bafyreidvjcyv7hl36jgqm5hif25mr6xhb6xywxp52ad2mdrndetltmfzoy",
+                                    "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4swhso5q32x"
+                                }
+                            }
+                        },
+                        "facets": [
+                            {
+                                "$type": "app.bsky.richtext.facet",
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#mention",
+                                        "did": "did:plc:nrcpr3gzrikwwqudvwt7mnez"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 17,
+                                    "byteStart": 0
+                                }
+                            },
+                            {
+                                "$type": "app.bsky.richtext.facet",
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#mention",
+                                        "did": "did:plc:4nk6h2gqwfjqjqemfruy2x75"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 35,
+                                    "byteStart": 18
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/09/23/semana-comeca-com-expectativa-de-seca-e-fumaca-mapa-mostra-alerta-maximo.htm"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 301,
+                                    "byteStart": 266
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "@cnpq.bsky.social @ufpa.bsky.social Precisamos trabalhar prontamente em medidas mitigatórias de sequestro de carbono de curto prazo e ampla escala como a plantação de 4,2 bilhões de árvores ou estaremos fadados ao forno da savanização  e da desertificação.\nnoticias.uol.com.br/meio-ambient..."
+                    },
+                    "labels": [],
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-24T15:30:38.098Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.recordWithMedia#view",
+                            "media": {
+                                "$type": "app.bsky.embed.external#view",
+                                "external": {
+                                    "uri": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2024/09/23/semana-comeca-com-expectativa-de-seca-e-fumaca-mapa-mostra-alerta-maximo.htm",
+                                    "title": "",
+                                    "description": ""
+                                }
+                            },
+                            "record": {
+                                "record": {
+                                    "$type": "app.bsky.embed.record#viewRecord",
+                                    "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4swhso5q32x",
+                                    "cid": "bafyreidvjcyv7hl36jgqm5hif25mr6xhb6xywxp52ad2mdrndetltmfzoy",
+                                    "author": {
+                                        "did": "did:plc:zrgw3kiu2ygolbuqqhdokuuo",
+                                        "handle": "ivaldo-leao.bsky.social",
+                                        "displayName": "Prof. Ivaldo Leão Ferreira, DSc.",
+                                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zrgw3kiu2ygolbuqqhdokuuo/bafkreidamcv2b72vofffodlf7h4qzdizvac7afrjzd7uxmuw56upgv5wam@jpeg",
+                                        "associated": {
+                                            "chat": {
+                                                "allowIncoming": "following"
+                                            }
+                                        },
+                                        "labels": [],
+                                        "createdAt": "2024-09-06T11:01:27.523Z"
+                                    },
+                                    "value": {
+                                        "$type": "app.bsky.feed.post",
+                                        "createdAt": "2024-09-23T10:46:56.675Z",
+                                        "embed": {
+                                            "$type": "app.bsky.embed.record",
+                                            "record": {
+                                                "cid": "bafyreihi7ttmue45olgckslpbalz7ridcfonoin6l637lmboqv5u2clzsi",
+                                                "uri": "at://did:plc:zrgw3kiu2ygolbuqqhdokuuo/app.bsky.feed.post/3l4stdyxegu2v"
+                                            }
+                                        },
+                                        "facets": [
+                                            {
+                                                "$type": "app.bsky.richtext.facet",
+                                                "features": [
+                                                    {
+                                                        "$type": "app.bsky.richtext.facet#mention",
+                                                        "did": "did:plc:4nk6h2gqwfjqjqemfruy2x75"
+                                                    }
+                                                ],
+                                                "index": {
+                                                    "byteEnd": 17,
+                                                    "byteStart": 0
+                                                }
+                                            },
+                                            {
+                                                "$type": "app.bsky.richtext.facet",
+                                                "features": [
+                                                    {
+                                                        "$type": "app.bsky.richtext.facet#mention",
+                                                        "did": "did:plc:nrcpr3gzrikwwqudvwt7mnez"
+                                                    }
+                                                ],
+                                                "index": {
+                                                    "byteEnd": 35,
+                                                    "byteStart": 18
+                                                }
+                                            }
+                                        ],
+                                        "langs": [
+                                            "pt"
+                                        ],
+                                        "text": "@ufpa.bsky.social @cnpq.bsky.social A pouco mais de um ano eu publiquei na rede X sobre como as entropias máximas e mínimas, devido o aquecimento global, alteram o ambiente na forma de pulsos de comportamento severo, até que este comportamento seja predominante, por exemplo a savanização."
+                                    },
+                                    "labels": [],
+                                    "likeCount": 0,
+                                    "replyCount": 0,
+                                    "repostCount": 0,
+                                    "quoteCount": 1,
+                                    "indexedAt": "2024-09-23T10:46:56.310Z"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T15:35:17.916Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mfynrccm27",
+            "cid": "bafyreihekuxuwf4glrbf3wfos5vphang2mlapo4emohcvmfdor6z747twq",
+            "author": {
+                "did": "did:plc:b5yori4l3kj65tsrlw2awmaj",
+                "handle": "legiaoescamada.bsky.social",
+                "displayName": "Legião Escamada 🐍🦎🐊🐢 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5yori4l3kj65tsrlw2awmaj/bafkreif2qbivyhu6ek3juwthvlaodpwg6o2cwmi4i2bathzkmr3ke3qzmm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-08T00:50:59.552Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T20:36:06.966Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreie3hcrkiqk63kfkh5dfyhqpumdqrzzrlhcrtffxuwuqyq2xov5ury",
+                        "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mew3ep2j2g"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O mais legal é que logo após esse momento começamos a discutir o efeito Pantanal Pebas na formação da floresta amazônica, e como as espécies se adaptaram a todo aquele ambiente aquático. \nEssa troca de conhecimentos é muito foda !!!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:b5yori4l3kj65tsrlw2awmaj/app.bsky.feed.post/3l4mew3ep2j2g",
+                    "cid": "bafyreie3hcrkiqk63kfkh5dfyhqpumdqrzzrlhcrtffxuwuqyq2xov5ury",
+                    "author": {
+                        "did": "did:plc:b5yori4l3kj65tsrlw2awmaj",
+                        "handle": "legiaoescamada.bsky.social",
+                        "displayName": "Legião Escamada 🐍🦎🐊🐢 ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b5yori4l3kj65tsrlw2awmaj/bafkreif2qbivyhu6ek3juwthvlaodpwg6o2cwmi4i2bathzkmr3ke3qzmm@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-05-08T00:50:59.552Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-20T20:16:48.325Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.video",
+                            "aspectRatio": {
+                                "height": 850,
+                                "width": 478
+                            },
+                            "video": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq"
+                                },
+                                "mimeType": "video/mp4",
+                                "size": 1912939
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Aleatoriedades de laboratório de biologia:\nEstava no laboratório organizando minha planilhas, e do nada chega meu amigo com um didgeridoo, instrumento de sopro australiano de origem aborígene.\nTive que arriscar tocar pouco"
+                    },
+                    "labels": [],
+                    "likeCount": 28,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-09-20T20:16:48.325Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.video#view",
+                            "cid": "bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq",
+                            "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ab5yori4l3kj65tsrlw2awmaj/bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq/playlist.m3u8",
+                            "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ab5yori4l3kj65tsrlw2awmaj/bafkreichavtcefqinpiah54u74lkdnq7wij4e7nu5dbelcrphu4z5hrlcq/thumbnail.jpg",
+                            "aspectRatio": {
+                                "height": 850,
+                                "width": 478
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T20:36:06.966Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aolp5jr4afjjvjncpn2gtvm4/app.bsky.feed.post/3l3i5anwus626",
+            "cid": "bafyreic4r2j35uz4ojqers7p6cl4s5zrkhqyycbfe3homie2z3ap77tc54",
+            "author": {
+                "did": "did:plc:aolp5jr4afjjvjncpn2gtvm4",
+                "handle": "lamamala.bsky.social",
+                "displayName": "Cueca Performance",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aolp5jr4afjjvjncpn2gtvm4/bafkreienzq2mkjsqs6wpvnw5z34fzelfhlqctdnuosx6xkfjrbr3korif4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-01T18:43:09.177Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T10:23:43.239Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Abstract We reviewed the occurrences and distributional patterns of migratory species of birds...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigedbvcy2cna5l45tavaqcfgmckd76lz2f4vxvywon4bniqe2nila"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 128740
+                        },
+                        "title": "An overview of migratory birds in Brazil",
+                        "uri": "https://www.scielo.br/j/paz/a/Xy5ds9JJYwjX6K4TSVr6CBj/abstract/?lang=en"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.scielo.br/j/paz/a/Xy5ds9JJYwjX6K4TSVr6CBj/abstract/?lang=en"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 247,
+                            "byteStart": 218
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidwgh6u7lsrsk4rqvrdzfmyshiykxj4yfchcungeenllcpj3r3neq",
+                        "uri": "at://did:plc:fnqvorkrwgj2e7k3e4docas6/app.bsky.feed.post/3l3i4x747o62r"
+                    },
+                    "root": {
+                        "cid": "bafyreief7qg4axrcjd6ft7esyfl7zvzx4tlil6tdtlrskbsvidftxxy3ha",
+                        "uri": "at://did:plc:fnqvorkrwgj2e7k3e4docas6/app.bsky.feed.post/3l3i4ckudxz24"
+                    }
+                },
+                "text": "na última revisão são 198 espécies migratorias, e de alguns tipos. Agora por ex pro sul, sudeste do pais estão chegando migratorios que passam o inverno na região amazonica e adjacencias, mas tem varios padrões www.scielo.br/j/paz/a/Xy5d..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.scielo.br/j/paz/a/Xy5ds9JJYwjX6K4TSVr6CBj/abstract/?lang=en",
+                    "title": "An overview of migratory birds in Brazil",
+                    "description": "Abstract We reviewed the occurrences and distributional patterns of migratory species of birds...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aolp5jr4afjjvjncpn2gtvm4/bafkreigedbvcy2cna5l45tavaqcfgmckd76lz2f4vxvywon4bniqe2nila@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T10:23:43.239Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uviybue4tgrp5gopw7swh5br/app.bsky.feed.post/3l3h6rkofho2h",
+            "cid": "bafyreiby4pd7p5zojzj7c5q4ievik5vyxswe3dzd4zo42hrp5swc257o4m",
+            "author": {
+                "did": "did:plc:uviybue4tgrp5gopw7swh5br",
+                "handle": "luizaobio.bsky.social",
+                "displayName": "Luizão🦎",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uviybue4tgrp5gopw7swh5br/bafkreic5heb75winrwdtv6ptkbe34wfnssa7ol63otiresqcvq5ysvyate@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T20:55:07.798Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T01:18:24.616Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Hydrolycus scomberoides , popularmente conhecida como peixe-cachorro, é uma espécie de peixe. Distribuição geográfica Sua espécie é distribuída nas Bacias Amazônica e Araguaia-Tocantins. Habitat Peixe-cachorro habita locais de águas mais rápidas e com estruturas, como paus e pedras.",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidfwpngbgkecrnqfcfwbbjzfm22mt2qqxqpks2k4purcyuujxurwa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 386391
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "RAPAAAAAAZ HOJE A AULA DO MINI CURSO COMPENSOU MUITO. Hoje vimos varias espécies de peixes de aquarismo e um deles foi essa grandona peixe-cachorra (Hydrolycus scomberoides) foi muito massa"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uviybue4tgrp5gopw7swh5br/bafkreidfwpngbgkecrnqfcfwbbjzfm22mt2qqxqpks2k4purcyuujxurwa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uviybue4tgrp5gopw7swh5br/bafkreidfwpngbgkecrnqfcfwbbjzfm22mt2qqxqpks2k4purcyuujxurwa@jpeg",
+                        "alt": "Hydrolycus scomberoides , popularmente conhecida como peixe-cachorro, é uma espécie de peixe. Distribuição geográfica Sua espécie é distribuída nas Bacias Amazônica e Araguaia-Tocantins. Habitat Peixe-cachorro habita locais de águas mais rápidas e com estruturas, como paus e pedras.",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T01:18:24.616Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kiz4vpvhhlrw3eievdadelll/app.bsky.feed.post/3l355q5tdrl26",
+            "cid": "bafyreifdgmyrndrbuwtb23y7ffprfc6ekfsscoyrp6drasbl4wm3so3pym",
+            "author": {
+                "did": "did:plc:kiz4vpvhhlrw3eievdadelll",
+                "handle": "luanfu.bsky.social",
+                "displayName": "leite mosca",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kiz4vpvhhlrw3eievdadelll/bafkreihzkvh3wvpo4omqanp5fgqf5p7hqf4xzyp4beboermibzjebj53fe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:kiz4vpvhhlrw3eievdadelll",
+                        "uri": "at://did:plc:kiz4vpvhhlrw3eievdadelll/app.bsky.actor.profile/self",
+                        "cid": "bafyreidvfawiofrpaw4gh66dhsbbzf3wqe2pbbzxg53sxbg26lvknga23m",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-06-23T03:15:42.632Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-02T01:33:06.209Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Foto panorâmica de uma paisagem da floresta amazônica às margens do Rio Negro. Em primeiro plano estão várias árvores de variadas espécies. O rio está ao fundo. No alto, céu claro com várias nuvens.",
+                                "aspectRatio": {
+                                    "height": 1124,
+                                    "width": 2000
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreib6zonocf2o2kqehn6y6xb6c3um7ndc6pjfpem7fy3p3gqnshbliu"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 702274
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreiebf6d33umhjt4mvlhccmeqctpdreotmszyfk6kyogfkyohhcnexe",
+                            "uri": "at://did:plc:xya55zktdn3ckarb7uwgnqgl/app.bsky.feed.post/3l34smxitfu27"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "poste uma foto de sua autoria com o céu azul"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kiz4vpvhhlrw3eievdadelll/bafkreib6zonocf2o2kqehn6y6xb6c3um7ndc6pjfpem7fy3p3gqnshbliu@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kiz4vpvhhlrw3eievdadelll/bafkreib6zonocf2o2kqehn6y6xb6c3um7ndc6pjfpem7fy3p3gqnshbliu@jpeg",
+                            "alt": "Foto panorâmica de uma paisagem da floresta amazônica às margens do Rio Negro. Em primeiro plano estão várias árvores de variadas espécies. O rio está ao fundo. No alto, céu claro com várias nuvens.",
+                            "aspectRatio": {
+                                "height": 1124,
+                                "width": 2000
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:xya55zktdn3ckarb7uwgnqgl/app.bsky.feed.post/3l34smxitfu27",
+                        "cid": "bafyreiebf6d33umhjt4mvlhccmeqctpdreotmszyfk6kyogfkyohhcnexe",
+                        "author": {
+                            "did": "did:plc:xya55zktdn3ckarb7uwgnqgl",
+                            "handle": "jonnifferr.bsky.social",
+                            "displayName": "Jonnifferr ⭐🎨🏳️‍🌈",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xya55zktdn3ckarb7uwgnqgl/bafkreid2grftfjybmiicgcsp45w54b4oz2rxzbz2wajo2k65tsj22ilqay@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "following"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-04-27T20:14:24.777Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-09-01T22:14:27.769Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.recordWithMedia",
+                                "media": {
+                                    "$type": "app.bsky.embed.images",
+                                    "images": [
+                                        {
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 2000,
+                                                "width": 1500
+                                            },
+                                            "image": {
+                                                "$type": "blob",
+                                                "ref": {
+                                                    "$link": "bafkreieuelvxra7cc4cfo4mricunigomskb2l7wzniveko66glj62p7f54"
+                                                },
+                                                "mimeType": "image/jpeg",
+                                                "size": 665729
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "$type": "app.bsky.embed.record",
+                                    "record": {
+                                        "cid": "bafyreickmbxkmkfvzsvcq6blkbq3udqqhzv7ynn5lhe4vumfmwj5xv7qru",
+                                        "uri": "at://did:plc:yofonrs4mrn6xmkxuiw7kwjt/app.bsky.feed.post/3l34s4u6bba2h"
+                                    }
+                                }
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "Poste uma foto de sua autoria com o céu azul."
+                        },
+                        "labels": [],
+                        "likeCount": 19,
+                        "replyCount": 1,
+                        "repostCount": 0,
+                        "quoteCount": 16,
+                        "indexedAt": "2024-09-01T22:14:27.769Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.recordWithMedia#view",
+                                "media": {
+                                    "$type": "app.bsky.embed.images#view",
+                                    "images": [
+                                        {
+                                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xya55zktdn3ckarb7uwgnqgl/bafkreieuelvxra7cc4cfo4mricunigomskb2l7wzniveko66glj62p7f54@jpeg",
+                                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xya55zktdn3ckarb7uwgnqgl/bafkreieuelvxra7cc4cfo4mricunigomskb2l7wzniveko66glj62p7f54@jpeg",
+                                            "alt": "",
+                                            "aspectRatio": {
+                                                "height": 2000,
+                                                "width": 1500
+                                            }
+                                        }
+                                    ]
+                                },
+                                "record": {
+                                    "record": {
+                                        "$type": "app.bsky.embed.record#viewRecord",
+                                        "uri": "at://did:plc:yofonrs4mrn6xmkxuiw7kwjt/app.bsky.feed.post/3l34s4u6bba2h",
+                                        "cid": "bafyreickmbxkmkfvzsvcq6blkbq3udqqhzv7ynn5lhe4vumfmwj5xv7qru",
+                                        "author": {
+                                            "did": "did:plc:yofonrs4mrn6xmkxuiw7kwjt",
+                                            "handle": "w0porquinho.bsky.social",
+                                            "displayName": "Estrela Fascinante Carol Porquinho.",
+                                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yofonrs4mrn6xmkxuiw7kwjt/bafkreidzr7m67h7bevkznrz3icxqb54f7ug6bsrorxtcsivmaacgr6i27e@jpeg",
+                                            "associated": {
+                                                "chat": {
+                                                    "allowIncoming": "all"
+                                                }
+                                            },
+                                            "labels": [
+                                                {
+                                                    "src": "did:plc:yofonrs4mrn6xmkxuiw7kwjt",
+                                                    "uri": "at://did:plc:yofonrs4mrn6xmkxuiw7kwjt/app.bsky.actor.profile/self",
+                                                    "cid": "bafyreiau37hgpidhoadtcbeawkpehwtsoit4sifdvbtydwruueqb5ff3em",
+                                                    "val": "!no-unauthenticated",
+                                                    "cts": "1970-01-01T00:00:00.000Z"
+                                                }
+                                            ],
+                                            "createdAt": "2023-07-03T04:10:11.859Z"
+                                        },
+                                        "value": {
+                                            "$type": "app.bsky.feed.post",
+                                            "createdAt": "2024-09-01T22:05:27.270Z",
+                                            "embed": {
+                                                "$type": "app.bsky.embed.recordWithMedia",
+                                                "media": {
+                                                    "$type": "app.bsky.embed.images",
+                                                    "images": [
+                                                        {
+                                                            "alt": "Um ipê amarelo contra o céu azul de fim de tarde.",
+                                                            "aspectRatio": {
+                                                                "height": 1499,
+                                                                "width": 2000
+                                                            },
+                                                            "image": {
+                                                                "$type": "blob",
+                                                                "ref": {
+                                                                    "$link": "bafkreigba2be5pg2cdnqkb7u7yq5sr6bzm366bpknjbjfe7uwo4e7cpkqu"
+                                                                },
+                                                                "mimeType": "image/jpeg",
+                                                                "size": 733348
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                "record": {
+                                                    "$type": "app.bsky.embed.record",
+                                                    "record": {
+                                                        "cid": "bafyreibw4jpvh55zb6rp5yoaqp3k5cejkmmg2orfvcx25w76qgjw6jzqsi",
+                                                        "uri": "at://did:plc:g5dl5nbxd4aiyfssamzqwhi5/app.bsky.feed.post/3l34rvimle225"
+                                                    }
+                                                }
+                                            },
+                                            "langs": [
+                                                "pt"
+                                            ],
+                                            "text": "Eu sempre tenho uma foto de ipê."
+                                        },
+                                        "labels": [],
+                                        "likeCount": 13,
+                                        "replyCount": 3,
+                                        "repostCount": 0,
+                                        "quoteCount": 2,
+                                        "indexedAt": "2024-09-01T22:05:27.270Z"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-02T01:33:06.209Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2v26vy5fwnobc7sibbj65llr/app.bsky.feed.post/3kq75t6xcyk2x",
+            "cid": "bafyreigmjxt7tsgusww2ncedft777hvbzczydjhza5nwpxox3besd62kcm",
+            "author": {
+                "did": "did:plc:2v26vy5fwnobc7sibbj65llr",
+                "handle": "paulagarcia.bsky.social",
+                "displayName": "Paula",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2v26vy5fwnobc7sibbj65llr/bafkreiejkne4qsjrelievdinxujhychljra7clrf3rdl2all7mw5x7fnhu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2v26vy5fwnobc7sibbj65llr",
+                        "uri": "at://did:plc:2v26vy5fwnobc7sibbj65llr/app.bsky.actor.profile/self",
+                        "cid": "bafyreihzn4hdldw5raidgeamu5huqc3cpu4rvbgp6uxzrmu7xmo3mbzk4q",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T21:40:37.492Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T21:40:36.227Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T21:02:59.898Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A investigação analisou camadas de solo em busca de evidências fósseis microscópicas de impacto humano e lança luz sobre um longo debate sobre o quanto a paisagem local foi transformada por seus prime...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihtalhipv5tpljiv475bicn2jde3bpbouow32al6uh26ty6hfhw7q"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 627917
+                        },
+                        "title": "Indígenas viveram na Amazônia por 5 mil anos sem destruir bioma, mostra estudo - BBC News Brasil",
+                        "uri": "https://www.bbc.com/portuguese/geral-57401301"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.bbc.com/portuguese/geral-57401301"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 201,
+                            "byteStart": 174
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os povos indígenas viveram na Floresta Amazônica por milênios \"sem causar perdas ou distúrbios detectáveis de espécies\". concluiu um estudo publicado na revista PNAS.\n\nwww.bbc.com/portuguese/g..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.bbc.com/portuguese/geral-57401301",
+                    "title": "Indígenas viveram na Amazônia por 5 mil anos sem destruir bioma, mostra estudo - BBC News Brasil",
+                    "description": "A investigação analisou camadas de solo em busca de evidências fósseis microscópicas de impacto humano e lança luz sobre um longo debate sobre o quanto a paisagem local foi transformada por seus prime...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2v26vy5fwnobc7sibbj65llr/bafkreihtalhipv5tpljiv475bicn2jde3bpbouow32al6uh26ty6hfhw7q@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 12,
+            "quoteCount": 1,
+            "indexedAt": "2024-04-15T21:02:59.898Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lzltso77kertizbvgk5xkpqs/app.bsky.feed.post/3k75mux5nui2w",
+            "cid": "bafyreida6dr3d5d2txdbxiiipmhjk3346ryidikhglfuufs4kt5uvkmuja",
+            "author": {
+                "did": "did:plc:lzltso77kertizbvgk5xkpqs",
+                "handle": "ikarow.bsky.social",
+                "displayName": "Ikarow",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreidg757u3d4es5biosra46lyczb27pfyxj2vblslqcjhor2khw3qhe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-31T17:20:48.965Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-11T22:18:47.210Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 880528
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 625776
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 640865
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "A criptozoologia é a disciplina dedicada à pesquisa de espécies animais lendárias ou mitológicas. Algumas teorias propõem que a lenda do Mapinguary, originada na região amazônica, +\n\n#Folklore #horror #quadrinhos #illustration #comics"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreibxbphj22e7yyj6hmhluesamysxkft5qvpirsltgjj5xcqvlfagpy@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigucibygrlkf2huyqjkthypy44esakq6i53euuydsb3l6rpqwktue@jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lzltso77kertizbvgk5xkpqs/bafkreigpb5zxyruabjqkqr55ed25fa7nz27jge2xpmfhq23zbbkcbdtoz4@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-11T22:18:47.210Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3k2xxyjwttw2x",
+            "cid": "bafyreihn7quvjlmr4kiq44pn5clp2xtxxwwrgv2otjvq6hxh7qvq3xyn24",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-20T18:40:53.851Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Estudo mostra que espécies terão que migrar em velocidade acima da média para acompanhar o deslocamento dos nichos climáticos aos quais estão adaptadas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic6d4ou6wnogprqh5ubko6nrtzjjtoutylopcpjhodickmpya7vne"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 674203
+                        },
+                        "title": "Mudanças no clima impõe corrida contra o tempo para espécies da floresta amazônica - ((o))eco",
+                        "uri": "https://oeco.org.br/reportagens/mudancas-no-clima-impoe-corrida-contra-o-tempo-para-especies-da-floresta-amazonica/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/reportagens/mudancas-no-clima-impoe-corrida-contra-o-tempo-para-especies-da-floresta-amazonica/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 210,
+                            "byteStart": 95
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "Mudanças no clima impõe corrida contra o tempo para espécies da floresta amazônica ⬇️\n\nhttps://oeco.org.br/reportagens/mudancas-no-clima-impoe-corrida-contra-o-tempo-para-especies-da-floresta-amazonica/"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/mudancas-no-clima-impoe-corrida-contra-o-tempo-para-especies-da-floresta-amazonica/",
+                    "title": "Mudanças no clima impõe corrida contra o tempo para espécies da floresta amazônica - ((o))eco",
+                    "description": "Estudo mostra que espécies terão que migrar em velocidade acima da média para acompanhar o deslocamento dos nichos climáticos aos quais estão adaptadas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreic6d4ou6wnogprqh5ubko6nrtzjjtoutylopcpjhodickmpya7vne@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-20T18:40:53.851Z",
+            "labels": []
+        }
+    ]
+}

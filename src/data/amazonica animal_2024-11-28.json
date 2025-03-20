@@ -1,0 +1,413 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:mmfstj3aoyjlakckupdhgntu/app.bsky.feed.post/3l7epnpilqe2j",
+            "cid": "bafyreiecidymtybtzydtlgd2p6hhl3snylcheijwtah3mtnvs77ixvopcm",
+            "author": {
+                "did": "did:plc:mmfstj3aoyjlakckupdhgntu",
+                "handle": "flaviaward.bsky.social",
+                "displayName": "Flavia Ward 🌼🌱",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mmfstj3aoyjlakckupdhgntu/bafkreih237fae2qcerrsgmiqlunq3sqfbehl7nswg3tvwcorkokpi7aaem@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-06T18:18:18.413Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-25T23:23:15.780Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifz3cwkmbhsl7wr4opktivaj7zw3l7tfsuht2qqkrbgafy7svrfz4",
+                        "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l7eh4p43ov2z"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Desde a primeira onda de H5N1, a gente tá acompanhando essa evolução. Leiam o fio da Mellanie para entender.\n\nA Defesa sanitária animal, a princípio ignorou a rota migratória amazônica. Tavam só na região costeira. Caiu a ficha, agora estamos fazendo sorologia das aves tbm."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:n65klbqrbpc3zqse7pxgk7qs/app.bsky.feed.post/3l7eh4p43ov2z",
+                    "cid": "bafyreifz3cwkmbhsl7wr4opktivaj7zw3l7tfsuht2qqkrbgafy7svrfz4",
+                    "author": {
+                        "did": "did:plc:n65klbqrbpc3zqse7pxgk7qs",
+                        "handle": "mellziland.bsky.social",
+                        "displayName": "Mellanie Fontes-Dutra",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreibff3i643y5vmpvfxnuye7v6tzy5caq5thn2pba74z67r7xubwkpu@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-08T14:40:20.579Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-25T20:50:36.026Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Blood tests of several people who were in contact with a patient in Missouri who caught H5N1 bird flu without any known exposure to infected animals reveal at least one of them — a person who lived in...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreiacvcaqs7hdwxinfsudmbyxdulqwbeeybr63zndc2nmaydusquqci"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 662330
+                                },
+                                "title": "Blood tests confirm a second person in Missouri caught bird flu without exposure to infected animals, but questions remain | CNN",
+                                "uri": "https://edition.cnn.com/2024/10/24/health/bird-flu-missouri-blood-tests/index.html"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Parece que uma 2ª pessoa positivou para gripe aviária H5N1 nos EUA, sem ter tido contato com animais infectados.\n\nO vírus tem infectado diferentes animais, como vacas leiteiras e aves (EUA), além de pinípedes na costa litorânea da América do Sul\n\nVai ter pandemia? 🧵🔻"
+                    },
+                    "labels": [],
+                    "likeCount": 390,
+                    "replyCount": 13,
+                    "repostCount": 95,
+                    "quoteCount": 16,
+                    "indexedAt": "2024-10-25T20:50:36.026Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://edition.cnn.com/2024/10/24/health/bird-flu-missouri-blood-tests/index.html",
+                                "title": "Blood tests confirm a second person in Missouri caught bird flu without exposure to infected animals, but questions remain | CNN",
+                                "description": "Blood tests of several people who were in contact with a patient in Missouri who caught H5N1 bird flu without any known exposure to infected animals reveal at least one of them — a person who lived in...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n65klbqrbpc3zqse7pxgk7qs/bafkreiacvcaqs7hdwxinfsudmbyxdulqwbeeybr63zndc2nmaydusquqci@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 24,
+            "likeCount": 65,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-25T23:23:15.780Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:y62p6lxmof2dnykg6iowbyxx/app.bsky.feed.post/3l5pqqltijx2n",
+            "cid": "bafyreiewascp24ylc3ph2sh3ojt5saymg4xomlwlzy65rr57qv4qnxpkvm",
+            "author": {
+                "did": "did:plc:y62p6lxmof2dnykg6iowbyxx",
+                "handle": "megmacedo.bsky.social",
+                "displayName": "Meg 🙏🏼🇧🇷🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y62p6lxmof2dnykg6iowbyxx/bafkreiempjfqtnmphsbo5gjk4lq7lzouaqghgmc7rfsaeuk5c23ahbk6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-13T21:14:17.618Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T21:51:40.801Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1404,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigx4orp6rj74odrcb7xs3ytoe2u7psd367pkynxiqqpwcn4zhgcki"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 314537
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihgs2jnnc7frxbfq3lm4ykgjyor3uthqu3ks7bxc5hmyydqfngbs4",
+                        "uri": "at://did:plc:xn2gwhavnywihpmdceqk45u5/app.bsky.feed.post/3l5mlbuhw3v27"
+                    },
+                    "root": {
+                        "cid": "bafyreihgs2jnnc7frxbfq3lm4ykgjyor3uthqu3ks7bxc5hmyydqfngbs4",
+                        "uri": "at://did:plc:xn2gwhavnywihpmdceqk45u5/app.bsky.feed.post/3l5mlbuhw3v27"
+                    }
+                },
+                "text": "O boto-cor-de-rosa é um animal presente na bacia Amazônica, no alto do rio Madeira e na bacia do rio Orinoco. É um dos maiores golfinhos fluviais."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y62p6lxmof2dnykg6iowbyxx/bafkreigx4orp6rj74odrcb7xs3ytoe2u7psd367pkynxiqqpwcn4zhgcki@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:y62p6lxmof2dnykg6iowbyxx/bafkreigx4orp6rj74odrcb7xs3ytoe2u7psd367pkynxiqqpwcn4zhgcki@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1404,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T21:51:40.801Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:c4m3rpi5rxfpejhrztfmbqo5/app.bsky.feed.post/3l5myusntgx22",
+            "cid": "bafyreidnmjdiimgrkdic5t7bacmgv7tipboxdiuz4gjjlurike56mmnpay",
+            "author": {
+                "did": "did:plc:c4m3rpi5rxfpejhrztfmbqo5",
+                "handle": "rit4delrey.bsky.social",
+                "displayName": "rih grant clementine  yayo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:c4m3rpi5rxfpejhrztfmbqo5/bafkreifypcqlmu6omri67qik7z3y5ira7hblqnmxewdptvnskzqqs7yzya@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T01:33:26.820Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T19:39:12.545Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Jeremy n sei se vc sabe mas aq no Brasil tem uma floresta amazônica cheia de animal (inclusive crocodilo) seria muito bom vc vir pra cá e arrastar a lana"
+            },
+            "replyCount": 0,
+            "repostCount": 5,
+            "likeCount": 8,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-03T19:39:12.545Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ngfzmecpko5ph5makcu7sbfn/app.bsky.feed.post/3l5b727hxmf2v",
+            "cid": "bafyreibypeyksbvcs66xp3ulmuktjbzdfted4gauk5irmdip37vwk3iyre",
+            "author": {
+                "did": "did:plc:ngfzmecpko5ph5makcu7sbfn",
+                "handle": "andresantis.bsky.social",
+                "displayName": "Dreeé",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ngfzmecpko5ph5makcu7sbfn/bafkreif3pzsjr4mkn42dxgnvcdnq5iit23rqz32vbujwnzjvj7sbwghhry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T03:38:20.603Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-29T02:57:39.710Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 635,
+                                "width": 718
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiatbc2nxki4jj7eld7ocnva7d3z4oe7nmvd3rxtjvsiuk2inadsay"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 180517
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "No ano que era pra ter todo mundo completado a temporada com a taça amazônica em primeiro lugar, o animal do danilo viajou (aí no outro ano ele jogou por outro clube e ficou em segundo), karma de não ter jogado com a gente 🤾🏻‍♂️"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ngfzmecpko5ph5makcu7sbfn/bafkreiatbc2nxki4jj7eld7ocnva7d3z4oe7nmvd3rxtjvsiuk2inadsay@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ngfzmecpko5ph5makcu7sbfn/bafkreiatbc2nxki4jj7eld7ocnva7d3z4oe7nmvd3rxtjvsiuk2inadsay@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 635,
+                            "width": 718
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-29T02:57:39.710Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.feed.post/3kugksb7rjk2s",
+            "cid": "bafyreid2mvep7atakjv5ss6dfnyehboktm7qrg3fdrqwmxz7vmqkybbuki",
+            "author": {
+                "did": "did:plc:2t2qvdanp2ngqeccoauqzrnq",
+                "handle": "janesaurus.bsky.social",
+                "displayName": "Janesaurus 🦖",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2t2qvdanp2ngqeccoauqzrnq/bafkreid2a5pfyanum6w5nohbqswbczip2kyebaomn4wur46fxffppznczi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:2t2qvdanp2ngqeccoauqzrnq",
+                        "uri": "at://did:plc:2t2qvdanp2ngqeccoauqzrnq/app.bsky.actor.profile/self",
+                        "cid": "bafyreihu5pt54dhhbajgfotqkivqfzeqlpmqajaljmyjfdmgmfsy4vgkv4",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-14T21:38:52.842Z"
+                    }
+                ],
+                "createdAt": "2024-04-14T21:38:52.073Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-08T17:24:30.963Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Print de um post do @AMAZlNGNATURE dizendo em inglês \"Esta baleia jubarte foi encontrada morta na floresta amazônica\". No post mostra a imagem da baleia. O post recebeu uma nota da comunidade dizendo \"A baleia não foi encontrada no meio da selva amazônica. Foi encontrado alojado em manguezais a cerca de 25 m (50 pés) da costa após uma série de marés altas perto do arquipélago do Marajó, no Brasil, na quinta-feira, 21 de fevereiro de 2019, próximo à posição GPS -0.7176492, -48.4928755.\" No final da nota tem uma fonte/link.",
+                            "aspectRatio": {
+                                "height": 1604,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifky2w65mgwqtlbh5dek347hey5hlnllrwr4emovmyq2pp4yeleie"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 641007
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "⚠️ Ela ataca novamente! ⚠️\n\nSempre postando desinformação e fake news. Fomentando pensamentos incorretos sobre o reino animal.\n\nUma olhada rápida na página e é possível encontrar vários posts problemáticos.\n\nNesse post diz \"Esta baleia jubarte foi encontrada morta na floresta +"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2t2qvdanp2ngqeccoauqzrnq/bafkreifky2w65mgwqtlbh5dek347hey5hlnllrwr4emovmyq2pp4yeleie@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2t2qvdanp2ngqeccoauqzrnq/bafkreifky2w65mgwqtlbh5dek347hey5hlnllrwr4emovmyq2pp4yeleie@jpeg",
+                        "alt": "Print de um post do @AMAZlNGNATURE dizendo em inglês \"Esta baleia jubarte foi encontrada morta na floresta amazônica\". No post mostra a imagem da baleia. O post recebeu uma nota da comunidade dizendo \"A baleia não foi encontrada no meio da selva amazônica. Foi encontrado alojado em manguezais a cerca de 25 m (50 pés) da costa após uma série de marés altas perto do arquipélago do Marajó, no Brasil, na quinta-feira, 21 de fevereiro de 2019, próximo à posição GPS -0.7176492, -48.4928755.\" No final da nota tem uma fonte/link.",
+                        "aspectRatio": {
+                            "height": 1604,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 2,
+            "indexedAt": "2024-06-08T17:24:30.963Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6objvq5gprmuleio2qudohtn/app.bsky.feed.post/3kqgdufs3fv2b",
+            "cid": "bafyreieglqui2ywczmmyxiuow62rbybokvgcf5o7rajcqvztvimgaszomm",
+            "author": {
+                "did": "did:plc:6objvq5gprmuleio2qudohtn",
+                "handle": "livialamblet.com",
+                "displayName": "Lívia Lamblet | Commissions open",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6objvq5gprmuleio2qudohtn/bafkreih4hnqyeayu7w5kre3jjyrkqvjdvjfq26kc4on2h2orx6s52zuj2i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-03-01T04:09:26.519Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-18T17:39:41.292Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Boto rosa subindo na água do rio e espirrando água",
+                            "aspectRatio": {
+                                "height": 1578,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiffz2eq3iepbdm33s3ad7hmrvxn4xnz5rtieh6ngg4k2jzb7g6vma"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 831608
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Em maio eu vou exibir minhas novas pinturas no salão principal da Clements Noyes Art Gallery. Estou fazendo uma série de peças mostrando diferentes formas de ver o Brasil. Este é o boto rosa, um animal da floresta amazônica que está em risco de extinção."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6objvq5gprmuleio2qudohtn/bafkreiffz2eq3iepbdm33s3ad7hmrvxn4xnz5rtieh6ngg4k2jzb7g6vma@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6objvq5gprmuleio2qudohtn/bafkreiffz2eq3iepbdm33s3ad7hmrvxn4xnz5rtieh6ngg4k2jzb7g6vma@jpeg",
+                        "alt": "Boto rosa subindo na água do rio e espirrando água",
+                        "aspectRatio": {
+                            "height": 1578,
+                            "width": 2000
+                        }
+                    }
+                ]
+            },
+            "replyCount": 6,
+            "repostCount": 18,
+            "likeCount": 110,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-18T17:39:41.292Z",
+            "labels": []
+        }
+    ]
+}

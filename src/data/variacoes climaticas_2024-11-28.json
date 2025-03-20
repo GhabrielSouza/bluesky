@@ -1,0 +1,1476 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:hl5qwbghniwqup3j6r7xwekz/app.bsky.feed.post/3lba5huhwvc2m",
+            "cid": "bafyreigsh7ktkwv4l4so4bbpfndvq7ntrb2mdobmyn2cejt6kukoeuktwm",
+            "author": {
+                "did": "did:plc:hl5qwbghniwqup3j6r7xwekz",
+                "handle": "correiocb.bsky.social",
+                "displayName": "Correio Braziliense",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreibrp3xsyrthgsgjfgrrttsuylupwj2seb5j6a67b7vcdbyb6gpcye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:44:39.604Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-18T14:37:37.330Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Mesmo com variações climáticas extremas, complexo sucroalcooleiro em Minas aposta em tecnologia e estima recorde na produção",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib7p5g3zrebgul47llw6du2oiloi3uji3fp43b4geeg46dex5ps6e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 399255
+                        },
+                        "title": "Cana-de-açúcar impulsiona a economia mineira e supera desafios climáticos",
+                        "uri": "https://www.correiobraziliense.com.br/economia/2024/11/6990868-cana-de-acucar-impulsiona-a-economia-mineira-e-supera-desafios-climaticos.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🪙Cana-de-açúcar impulsiona a economia mineira e supera desafios climáticos\n\nMesmo com variações climáticas extremas, complexo sucroalcooleiro em Minas aposta em tecnologia e estima recorde na produção."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiobraziliense.com.br/economia/2024/11/6990868-cana-de-acucar-impulsiona-a-economia-mineira-e-supera-desafios-climaticos.html",
+                    "title": "Cana-de-açúcar impulsiona a economia mineira e supera desafios climáticos",
+                    "description": "Mesmo com variações climáticas extremas, complexo sucroalcooleiro em Minas aposta em tecnologia e estima recorde na produção",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreib7p5g3zrebgul47llw6du2oiloi3uji3fp43b4geeg46dex5ps6e@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-18T14:37:40.358Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:chr35unj2gvvw4aoixhjoum6/app.bsky.feed.post/3l7wfjh7lk524",
+            "cid": "bafyreiflo27hfuxtuyj4ongywmuhjshzxtgxyrf7wjqvuiuzphzldt2jvm",
+            "author": {
+                "did": "did:plc:chr35unj2gvvw4aoixhjoum6",
+                "handle": "empauta.bsky.social",
+                "displayName": "Em Pauta",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:chr35unj2gvvw4aoixhjoum6/bafkreia525hl2iygtji3zihbt2mra5onjiza2hwd2kapwpvujdb4jor32m@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T15:41:15.398Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-02T00:09:51.326Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Bragança  Paulista tem previsão de chuva neste final de semana segundo o Instituto Nacional de Meteorologia (INMET). No sábado (2) feriado de Finados, a previsão indica muitas nuvens com possibilidade...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigjozdwarq6eljvg5zips6zds6go2fcheyjrgdtni453uppigjpfm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 423168
+                        },
+                        "title": "Bragança Paulista tem previsão de chuva no final de semana - Jornal Bragança Em Pauta",
+                        "uri": "https://jornalempauta.com.br/braganca-paulista-tem-previsao-de-chuva-no-final-de-semana/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalempauta.com.br/braganca-paulista-tem-previsao-de-chuva-no-final-de-semana/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 276,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌦️ Fim de semana com chuva em Bragança Paulista!\n\n Muitas nuvens e pancadas de chuva marcarão os próximos dias segundo o INMET. Esteja preparado para variações climáticas! ☔🌤️ \nConfira a previsão completa no link👇🏼\njornalempauta.com.br/braganca-pau..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalempauta.com.br/braganca-paulista-tem-previsao-de-chuva-no-final-de-semana/",
+                    "title": "Bragança Paulista tem previsão de chuva no final de semana - Jornal Bragança Em Pauta",
+                    "description": "Bragança  Paulista tem previsão de chuva neste final de semana segundo o Instituto Nacional de Meteorologia (INMET). No sábado (2) feriado de Finados, a previsão indica muitas nuvens com possibilidade...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:chr35unj2gvvw4aoixhjoum6/bafkreigjozdwarq6eljvg5zips6zds6go2fcheyjrgdtni453uppigjpfm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T00:09:52.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qjxdqfohczi5puyxkep5tifx/app.bsky.feed.post/3l7vxupedlr2a",
+            "cid": "bafyreidcxz7lhomkgp3ghnbjloikpf4vnnvsul6fbv3lagv6r6rpmm7ovi",
+            "author": {
+                "did": "did:plc:qjxdqfohczi5puyxkep5tifx",
+                "handle": "sanguecorsario.bsky.social",
+                "displayName": "islas resonantes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qjxdqfohczi5puyxkep5tifx/bafkreibqmddtod2z5ohhmbfnqsddtu362ja55opjd64bnraglsauky3sou@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:qjxdqfohczi5puyxkep5tifx",
+                        "uri": "at://did:plc:qjxdqfohczi5puyxkep5tifx/app.bsky.actor.profile/self",
+                        "cid": "bafyreifyz55ode32yedfegjr5dsusat5pco2vabm5aq4kkuep6r2hzh4fq",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-09-05T12:37:08.258Z"
+                    }
+                ],
+                "createdAt": "2024-09-05T12:37:09.434Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-01T20:05:34.405Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihwvwjn2fqjoibdiyoawaarzzen7y5mkovolgdqkavwc3ysx3m6nq",
+                        "uri": "at://did:plc:4dyaafaoql3d7jme7u2alue4/app.bsky.feed.post/3l7vxr4pl6u2l"
+                    },
+                    "root": {
+                        "cid": "bafyreievl6c47yw3nvb6gib5iifb4pxr26c7v6kv6zzp27svebnj4jm6ei",
+                        "uri": "at://did:plc:qjxdqfohczi5puyxkep5tifx/app.bsky.feed.post/3l7vxhur2f42l"
+                    }
+                },
+                "text": "ela não se comporta muito bem nas variações climáticas do rio de janeiro 😔"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-01T20:05:36.983Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b36tiwiyc34bpsbwzhj65eu7/app.bsky.feed.post/3l76qzfqby26f",
+            "cid": "bafyreib5ehoawxf3642ht6iujc22heaujkqkqmizmpw4e3cbq4phcnbdrq",
+            "author": {
+                "did": "did:plc:b36tiwiyc34bpsbwzhj65eu7",
+                "handle": "hugo.ninja",
+                "displayName": "Hᵘᵍᵒ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b36tiwiyc34bpsbwzhj65eu7/bafkreiflhijiu2osqjy6do2mvex5zjtpyrb3nbufn4i5fzdiyowmy3aywq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:b36tiwiyc34bpsbwzhj65eu7",
+                        "uri": "at://did:plc:b36tiwiyc34bpsbwzhj65eu7/app.bsky.actor.profile/self",
+                        "cid": "bafyreieg3bjufuu2kedlqxubcjx5kn67fepsmm2fpyrmyaaz5mmzoefhcm",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-10-03T16:48:06.197Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-23T14:31:44.000Z",
+                "facets": [],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiblzkzvznnegml77inhh6cpytohtdklobedxm545ucejzib62ur5u",
+                        "uri": "at://did:plc:gdxytf7iwt7ta4bjkhc7ck5a/app.bsky.feed.post/3l76ohookih2m"
+                    },
+                    "root": {
+                        "cid": "bafyreiblzkzvznnegml77inhh6cpytohtdklobedxm545ucejzib62ur5u",
+                        "uri": "at://did:plc:gdxytf7iwt7ta4bjkhc7ck5a/app.bsky.feed.post/3l76ohookih2m"
+                    }
+                },
+                "text": "tenho tomado, por indicação da conje, própolis concentrado em cápsulas\n\ne de fato pode ter contribuído pra eu resistir bem às variações climáticas (costumo ficar gripado quando esfria muito rápido)"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-23T14:31:44.000Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7vqgcuzof5itcpfc73njbstf/app.bsky.feed.post/3l6xunzpjaq2g",
+            "cid": "bafyreidz3yxgjre3xb72hbb3dfc6ifcuhbcyu7b47yk2tuo3rfqq6nbake",
+            "author": {
+                "did": "did:plc:7vqgcuzof5itcpfc73njbstf",
+                "handle": "g1portal.bsky.social",
+                "displayName": "g1 - O portal de notícias da Globo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreiabremzk7p3dc7ern4urfl3wnxkv2npfhvzpy2w7jtmtuy6z6bwse@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:35:54.898Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T20:48:19.079Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Lua é muito mais do que uma luz noturna. Sem ela, os dias poderiam durar metade do tempo, e as variações climáticas seriam extremas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigp374h4palqlfljk6giyxxs7vzmh6ez6fjtnpb7gxd75otnekoba"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 693030
+                        },
+                        "title": "E se a Lua desaparecesse?",
+                        "uri": "https://glo.bo/3BVDZ1a"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://glo.bo/3BVDZ1a"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 180,
+                            "byteStart": 166
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "g1"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 184,
+                            "byteStart": 181
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Noites completamente escuras, inclinação da Terra descontrolada, variações climáticas extremas... 🌑🤔O que aconteceria se a Lua simplesmente desaparecesse? glo.bo/3BVDZ1a #g1"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://glo.bo/3BVDZ1a",
+                    "title": "E se a Lua desaparecesse?",
+                    "description": "A Lua é muito mais do que uma luz noturna. Sem ela, os dias poderiam durar metade do tempo, e as variações climáticas seriam extremas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7vqgcuzof5itcpfc73njbstf/bafkreigp374h4palqlfljk6giyxxs7vzmh6ez6fjtnpb7gxd75otnekoba@jpeg"
+                }
+            },
+            "replyCount": 4,
+            "repostCount": 7,
+            "likeCount": 58,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-20T20:48:19.079Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ibyhx5rkfmknyfbbbe2c2dcl/app.bsky.feed.post/3l6i5zlgibh2x",
+            "cid": "bafyreihjq2x3oilpd6yd6crbobum3zqbve7d5lukis5sy5t7f4itlepxu4",
+            "author": {
+                "did": "did:plc:ibyhx5rkfmknyfbbbe2c2dcl",
+                "handle": "a-fernandes.bsky.social",
+                "displayName": "A-Fernandes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ibyhx5rkfmknyfbbbe2c2dcl/bafkreicsnhmsym5hif43rwf3cdyochbjec4gbggfxdz5upwwdysy4wtnwq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-08T01:23:00.619Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T14:53:14.710Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 188,
+                                "width": 540
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifdg2t54zgp6vlukmyqkrxuifrfuvqvtch2ivskfvdh3pkthsin54"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 117403
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Dia do Meteorologista  comemorado em 14 de outubro. \nEsta data celebra o profissional responsável em ficar de olho em todas as variações climáticas da Terra.\nA partir do recolhimento de informações sobre a umidade do ar, pressão atmosférica, temperatura do ar, volume de chuva, entre outras."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ibyhx5rkfmknyfbbbe2c2dcl/bafkreifdg2t54zgp6vlukmyqkrxuifrfuvqvtch2ivskfvdh3pkthsin54@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ibyhx5rkfmknyfbbbe2c2dcl/bafkreifdg2t54zgp6vlukmyqkrxuifrfuvqvtch2ivskfvdh3pkthsin54@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 188,
+                            "width": 540
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T14:53:14.710Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:oxsh42maeilw3nv5sy7ua7g2/app.bsky.feed.post/3l64d3orldn2t",
+            "cid": "bafyreic3c6u4p2i4jm6bvlh43x2hilvllgmok56voaj6igeitia7eeif5m",
+            "author": {
+                "did": "did:plc:oxsh42maeilw3nv5sy7ua7g2",
+                "handle": "lhannimr.bsky.social",
+                "displayName": "L*hanni ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oxsh42maeilw3nv5sy7ua7g2/bafkreicb4caf6ywmpfelijgjxyck2l6wyworf6fxcsl7xlqgl4ff5bhvbe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T18:20:17.600Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-09T21:51:57.193Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreife6k3ioz7u2hdbxpfs6miazgafzws5jgsqvgxg34vgfclo755wcq",
+                        "uri": "at://did:plc:qqql3mau5j4ernxiifztcsti/app.bsky.feed.post/3l5zoat7e622o"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Quanto mais rede social pra me alienar sobre a constante certeza que vamos todos morrer fatalmente em decorrência das variações climáticas é melhor"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:qqql3mau5j4ernxiifztcsti/app.bsky.feed.post/3l5zoat7e622o",
+                    "cid": "bafyreife6k3ioz7u2hdbxpfs6miazgafzws5jgsqvgxg34vgfclo755wcq",
+                    "author": {
+                        "did": "did:plc:qqql3mau5j4ernxiifztcsti",
+                        "handle": "centralreality.com.br",
+                        "displayName": "Central Reality",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qqql3mau5j4ernxiifztcsti/bafkreiauqeqwogdobkvizdqdungpksl3kewcndjoi53xsqjztbqzcv74ha@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-03-02T16:17:49.439Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-08T20:33:41.590Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreihxukru2kb5yxl323etxsparrusvshq7h7ewytw6sninupbi2x7uy"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 547872
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreiejnuu7664p2fznqedx2d3txedczse4kqphqxy6toxcbp4tc2rteq"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 412436
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "🚨DEBATE: Você vai ficar no Bluesky ou voltar para o X/Twitter?"
+                    },
+                    "labels": [],
+                    "likeCount": 401,
+                    "replyCount": 298,
+                    "repostCount": 12,
+                    "quoteCount": 110,
+                    "indexedAt": "2024-10-08T20:33:41.590Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qqql3mau5j4ernxiifztcsti/bafkreihxukru2kb5yxl323etxsparrusvshq7h7ewytw6sninupbi2x7uy@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qqql3mau5j4ernxiifztcsti/bafkreihxukru2kb5yxl323etxsparrusvshq7h7ewytw6sninupbi2x7uy@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qqql3mau5j4ernxiifztcsti/bafkreiejnuu7664p2fznqedx2d3txedczse4kqphqxy6toxcbp4tc2rteq@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:qqql3mau5j4ernxiifztcsti/bafkreiejnuu7664p2fznqedx2d3txedczse4kqphqxy6toxcbp4tc2rteq@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-09T21:51:57.193Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w7vbjcavh5fnyliwv6eaplte/app.bsky.feed.post/3l5ygykv5ga26",
+            "cid": "bafyreiewcip55jeni7sv5rv2lk5ahwum7zyfvn3krhition2pcuk4jewsa",
+            "author": {
+                "did": "did:plc:w7vbjcavh5fnyliwv6eaplte",
+                "handle": "pattz.bsky.social",
+                "displayName": "glaulitzine",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w7vbjcavh5fnyliwv6eaplte/bafkreicoacj3bs3u2klgsplm4r33jcv4cajh2pc6n3jvv4slv25lg6ojji@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T01:01:23.929Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-08T08:51:09.175Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "esse combo calor + chuva literalmente a pior das variações climáticas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-08T08:51:08.810Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qifhayjvied7vounj6lh37uk/app.bsky.feed.post/3l5udfp7c6s2o",
+            "cid": "bafyreicwb5lzz5vlk4vpc6gup4jwse7z5ddlvyyyovussalnsieelt6gly",
+            "author": {
+                "did": "did:plc:qifhayjvied7vounj6lh37uk",
+                "handle": "patrick83149939.bsky.social",
+                "displayName": "TheSaintOfMonsters02",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qifhayjvied7vounj6lh37uk/bafkreicvc3ly7us3eer26uzqqclmo7ce3h2dhmqtbjtsnni6gay3n6eaxm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:qifhayjvied7vounj6lh37uk",
+                        "uri": "at://did:plc:qifhayjvied7vounj6lh37uk/app.bsky.actor.profile/self",
+                        "cid": "bafyreidpkdijarzzvmuikgwpto2webh4jswe4jmuh76l52u7hdmdbguxwe",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-07T13:16:17.750Z"
+                    }
+                ],
+                "createdAt": "2024-04-07T13:16:16.207Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-06T17:36:19.126Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihxjvvl4dganatntzlcblig6hi3avdf2l34m7l72s4kstxbh7mliy",
+                        "uri": "at://did:plc:xre2sa2lsiriffkk457fhsxe/app.bsky.feed.post/3l5ssqevnp62b"
+                    },
+                    "root": {
+                        "cid": "bafyreihxjvvl4dganatntzlcblig6hi3avdf2l34m7l72s4kstxbh7mliy",
+                        "uri": "at://did:plc:xre2sa2lsiriffkk457fhsxe/app.bsky.feed.post/3l5ssqevnp62b"
+                    }
+                },
+                "text": "Que tal variações climáticas ? Exemplo: Tripits em áreas áridas tem escamas que controlam a temperatura corporal e desenvolveram o pouco de pelo em sua calda pra detectar fontes de agua"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-06T17:36:15.511Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qk56iydktgzguuqfztdeztgk/app.bsky.feed.post/3l5my7mmk7f25",
+            "cid": "bafyreicw26wglop3zxf4bb45ixnh5btnkucpm62mhesako6h63g2ueuwme",
+            "author": {
+                "did": "did:plc:qk56iydktgzguuqfztdeztgk",
+                "handle": "wnterdorbyn.bsky.social",
+                "displayName": "g",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qk56iydktgzguuqfztdeztgk/bafkreiabnqqr6gphmm5p3qwanzcwwgs4c5mvxnizuwk4n6x6g7pslyxcvi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T21:49:09.220Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-03T19:27:21.785Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "tds reclamando do clima pra mim tds moramos no rj sofrendo com as mesmas variações climaticas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-03T19:27:21.785Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tn2i2rlbnwof6ol524kzeejs/app.bsky.feed.post/3l5kjldzkdc25",
+            "cid": "bafyreih5rjz74ectn7g4ym4lpxl2ascajbkcb2z62htxdqyr5if5hi247q",
+            "author": {
+                "did": "did:plc:tn2i2rlbnwof6ol524kzeejs",
+                "handle": "viniirocha.bsky.social",
+                "displayName": "Vini Rocha",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tn2i2rlbnwof6ol524kzeejs/bafkreidmngh6yr2ry3442sm6t6bpqkycetuy2neqgwn4nrvzwicw5zksl4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:22:29.535Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T20:00:09.423Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreibehgzt72zpoxctsas53oj2wqqkbgh2qd6zcw3ulctpdpxqgvfera",
+                        "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l5khlnctgf2w"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O capeta não atormenta só futebol, como também a cultura, o entretenimento, as variações climáticas, o judiciário carioca, a estética carioca em geral.\n\nO Clube de Regatas Juliette não dá um tempo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l5khlnctgf2w",
+                    "cid": "bafyreibehgzt72zpoxctsas53oj2wqqkbgh2qd6zcw3ulctpdpxqgvfera",
+                    "author": {
+                        "did": "did:plc:aduoxavv4nlceto54tgu3fjr",
+                        "handle": "folha.com",
+                        "displayName": "Folha de S.Paulo",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreid4oiprfwqekbojyl3r5uauaihd5osue7fmfp4uuc5zbu2n3kbhpy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-22T15:27:42.210Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-02T19:26:01.922Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Mudança na Copa do Brasil atendida pela CBF fará emissora perder efeméride de 95 anos da atriz",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreicdlta5v2lzmketpuapnyv3o74dv3vm54p6k6cx4bfipxrbj7ovd4"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 402025
+                                },
+                                "title": "Outro Canal: Globo muda especial com Fernanda Montenegro por causa de pedido de Flamengo",
+                                "uri": "https://mla.bs/3c2dcfba"
+                            }
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Globo muda especial com Fernanda Montenegro por causa de pedido de Flamengo\n\n↪️Mudança na Copa do Brasil atendida pela CBF fará emissora perder efeméride de 95 anos da atriz"
+                    },
+                    "labels": [],
+                    "likeCount": 533,
+                    "replyCount": 112,
+                    "repostCount": 51,
+                    "quoteCount": 886,
+                    "indexedAt": "2024-10-02T19:24:33.011Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://mla.bs/3c2dcfba",
+                                "title": "Outro Canal: Globo muda especial com Fernanda Montenegro por causa de pedido de Flamengo",
+                                "description": "Mudança na Copa do Brasil atendida pela CBF fará emissora perder efeméride de 95 anos da atriz",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aduoxavv4nlceto54tgu3fjr/bafkreicdlta5v2lzmketpuapnyv3o74dv3vm54p6k6cx4bfipxrbj7ovd4@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 23,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T20:00:09.423Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6vcvmymivlbn2juqcfk2okxn/app.bsky.feed.post/3l5k244iktx24",
+            "cid": "bafyreiagbjirttglo6phdum5fmwhivd3a4elhwpny5cqhwqgiufm3cb7ay",
+            "author": {
+                "did": "did:plc:6vcvmymivlbn2juqcfk2okxn",
+                "handle": "daiararn.bsky.social",
+                "displayName": "Dai",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6vcvmymivlbn2juqcfk2okxn/bafkreieyjlmfgg435bnoy4qcxv5xuihsjyuyb6vv7yeepyloqt4xli6sji@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:6vcvmymivlbn2juqcfk2okxn",
+                        "uri": "at://did:plc:6vcvmymivlbn2juqcfk2okxn/app.bsky.actor.profile/self",
+                        "cid": "bafyreihn3s4lry6ea3lyjxidxt6xl4tbbwq4zbhdyk34az65sk4vb5r3t4",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-18T18:58:49.664Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T15:23:11.783Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifwtmtvdn4wh5icsqnraslpxkmxugmapxcwstuzq6csonh4qz2zhq",
+                        "uri": "at://did:plc:xhdsaxakvljf3qvsifbop2pr/app.bsky.feed.post/3l5jz6rryy72h"
+                    },
+                    "root": {
+                        "cid": "bafyreifwtmtvdn4wh5icsqnraslpxkmxugmapxcwstuzq6csonh4qz2zhq",
+                        "uri": "at://did:plc:xhdsaxakvljf3qvsifbop2pr/app.bsky.feed.post/3l5jz6rryy72h"
+                    }
+                },
+                "text": "Não vivo sem, preciso comer pelo menos uma por dia porque se não tenho abstinência. Dá tristeza sempre que o preço de uma fruta sobe. Pior que com essas variações climáticas atípicas provavelmente o preço vai continuar subindo. 🥺🫂"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T15:23:11.783Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zvfpcwtw4xstlutzhyn4bezh/app.bsky.feed.post/3l5gu7ynsmu2x",
+            "cid": "bafyreie3ay5omapidkykl3isj7anlauqrxlkvaxds63bcd2ibdnqzco5cq",
+            "author": {
+                "did": "did:plc:zvfpcwtw4xstlutzhyn4bezh",
+                "handle": "evertonroad1.bsky.social",
+                "displayName": "Everton",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zvfpcwtw4xstlutzhyn4bezh/bafkreibs46fnmei4jvcxgcknx63e2kuwx3epwirjaakm52afoqw5itc2ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:45:15.247Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-01T09:00:02.455Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1181
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifox3paoq2z22iqeyfnl45wcmloav6dpvckdo3zihgrpdsfh7fqgu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 532484
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Expostas a tudo, variações climáticas, mal educados, mal intencionados, assaltantes ...\nMas sempre ali, varando noites e madrugadas, deixando os sonhos para a manhã seguinte.\nNós, os \"pilotos\" de caminhões, temos admiração e respeito por essas profissionais dos pedágios, em cada canto do Brasil!\n🙏🚚🚚"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zvfpcwtw4xstlutzhyn4bezh/bafkreifox3paoq2z22iqeyfnl45wcmloav6dpvckdo3zihgrpdsfh7fqgu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zvfpcwtw4xstlutzhyn4bezh/bafkreifox3paoq2z22iqeyfnl45wcmloav6dpvckdo3zihgrpdsfh7fqgu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1181
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-01T09:00:02.455Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ojruvp7masbnwd2qbnicqgq/app.bsky.feed.post/3l57yg37uga2d",
+            "cid": "bafyreia5zzqkkzt3f5w3m4mvzsxjwll5nfzuso7ujhhpnxf23xkmn3fbme",
+            "author": {
+                "did": "did:plc:4ojruvp7masbnwd2qbnicqgq",
+                "handle": "magmor.bsky.social",
+                "displayName": "Magmor",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ojruvp7masbnwd2qbnicqgq/bafkreifrjuic6zojtc3ztr3lxhdsgpjk4zoncuzdxmon4m3sg5wm47kulu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T03:11:53.019Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-28T15:26:23.340Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiajkkvqgpimywhmgagex7mlvzuo64uktiakadhxwfzp5bkd7karda",
+                        "uri": "at://did:plc:fgsvbrrvt762qtpu4cusix5k/app.bsky.feed.post/3l57pflz4jj23"
+                    },
+                    "root": {
+                        "cid": "bafyreihwyftkixep55ipchmckds6vsmvpizujm2xjsrj7aff6yeg6avulu",
+                        "uri": "at://did:plc:fgsvbrrvt762qtpu4cusix5k/app.bsky.feed.post/3l57pdfbrms23"
+                    }
+                },
+                "text": "Acho que é mais por causa das variações climaticas. Na epoca de seca o jogo ta bem cinzento msm."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-28T15:26:22.309Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sbz24wlbcwscvinilqauigu6/app.bsky.feed.post/3l4dpvvhgb22z",
+            "cid": "bafyreic4ktn3bq3aegoc4zogxlofgtumsvgtiy3ahfhxhf22mxjgvli6zy",
+            "author": {
+                "did": "did:plc:sbz24wlbcwscvinilqauigu6",
+                "handle": "vamosacelerar.bsky.social",
+                "displayName": "Vamos Acelerar ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sbz24wlbcwscvinilqauigu6/bafkreiaqrjm43ffup4p5a5zgqgzehevymkgywmvty3ncigbcy73a64dcdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T22:10:04.297Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T09:39:35.132Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os pet são os que mais estão sentindo as variações climáticas. As TVs esqueceram deles, para alertar."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T09:39:35.132Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lq7ymaglqtnelm7kzldezrkc/app.bsky.feed.post/3l46umjyt6p25",
+            "cid": "bafyreidxrynjudminczykkgj5jsjb4l3inpfogtyw7vfenxei5bz6sn5le",
+            "author": {
+                "did": "did:plc:lq7ymaglqtnelm7kzldezrkc",
+                "handle": "angelo-977.bsky.social",
+                "displayName": "angelo_977",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lq7ymaglqtnelm7kzldezrkc/bafkreidoj46gz62a3p7u4djbde7wifvzsbkqjiean4hawi23xvh6ghjfnq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T20:59:14.521Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T11:20:32.156Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifurgz52jel7u35qkpdcmnxthtm4epj7mi5sf55jcypjoaavr74im",
+                        "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l46uhbhvch2k"
+                    },
+                    "root": {
+                        "cid": "bafyreifurgz52jel7u35qkpdcmnxthtm4epj7mi5sf55jcypjoaavr74im",
+                        "uri": "at://did:plc:aduoxavv4nlceto54tgu3fjr/app.bsky.feed.post/3l46uhbhvch2k"
+                    }
+                },
+                "text": "Vamos ver se essa \"vergonha\" vai se transformar em ação \n\nVariações climáticas a parte as mesmas pessoas cometem os mesmos crimes na mesma época do ano, tá na hora de prender e desarticular essas quadrilhas"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T11:20:32.156Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bo224ny56nvhaijugdqy3ndl/app.bsky.feed.post/3l434xatebs2p",
+            "cid": "bafyreidfrrpiq3tjbu4khwhfrgtfnunxrv6rasm52b5nww6nw6itvuanjq",
+            "author": {
+                "did": "did:plc:bo224ny56nvhaijugdqy3ndl",
+                "handle": "israelnetanyhu2024.bsky.social",
+                "displayName": "Israel notícias ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bo224ny56nvhaijugdqy3ndl/bafkreidlw56riqmogzys5ll3mfajfhpvndxyrqddxygnhrvtyywio3buea@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T23:12:01.297Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T23:39:02.244Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibdsf3ivtz7tkro2qdvywq5sqazhupftcl63zsto2otg4we52mx74",
+                        "uri": "at://did:plc:5fzzlplhz3rqxaasxx3yu2nb/app.bsky.feed.post/3l433zultru26"
+                    },
+                    "root": {
+                        "cid": "bafyreibkpu6cfeeumjl4nn5aajv7gf7l5fivvljnkvawynstyhul73lnai",
+                        "uri": "at://did:plc:ss7zmsfvuw5wwxefvz5flgbb/app.bsky.feed.post/3l42yiszm2424"
+                    }
+                },
+                "text": "Vc já ouviu falar de Paleoclimatologia Sobre as variações climáticas cíclicas da terra? Estamos nos encaminhando por um período de aquecimento. Isso é bom e ruim! Ruim pela elevação do oceano e desastres naturais e bom que esse período é favorável a produção agrícola que nos alimenta."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T23:39:02.244Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pwswh3ydc4a5yql3chzlcjtp/app.bsky.feed.post/3l3ykgtlqs52o",
+            "cid": "bafyreia6ygpreuptxnmu466pb5imkagmbry6rl7uu2ageje53ypjikj5he",
+            "author": {
+                "did": "did:plc:pwswh3ydc4a5yql3chzlcjtp",
+                "handle": "daymelo.bsky.social",
+                "displayName": "Day Melo 🇾🇪",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pwswh3ydc4a5yql3chzlcjtp/bafkreifjegrkiu5e5mi2gsdyfd7luc7su2ngoa3wydfid3qzofklzhvfc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-30T17:06:49.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T23:02:25.118Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifjcsj5wgdnaffs32vv6pjxvr4tv7zl7blphpvolzphm2usnld5ou",
+                        "uri": "at://did:plc:pwswh3ydc4a5yql3chzlcjtp/app.bsky.feed.post/3l3yk7ppicj2j"
+                    },
+                    "root": {
+                        "cid": "bafyreiei7jmjza4icijar4poa6i3jmleb5fyylf5jkpjogoiu7bx7fo3tu",
+                        "uri": "at://did:plc:pwswh3ydc4a5yql3chzlcjtp/app.bsky.feed.post/3l3yiuklnkm2e"
+                    }
+                },
+                "text": "**variações climáticas ao longo da história da Terra!\n\nandar e digitar não dá certo hahaha"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T23:02:25.118Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pwswh3ydc4a5yql3chzlcjtp/app.bsky.feed.post/3l3yk7ppicj2j",
+            "cid": "bafyreifjcsj5wgdnaffs32vv6pjxvr4tv7zl7blphpvolzphm2usnld5ou",
+            "author": {
+                "did": "did:plc:pwswh3ydc4a5yql3chzlcjtp",
+                "handle": "daymelo.bsky.social",
+                "displayName": "Day Melo 🇾🇪",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pwswh3ydc4a5yql3chzlcjtp/bafkreifjegrkiu5e5mi2gsdyfd7luc7su2ngoa3wydfid3qzofklzhvfc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-30T17:06:49.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T22:58:26.321Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia2xrcp6bd457oqvcam2ompdzwav2zk5aqvazx6rkmdkgt4j7tmqa",
+                        "uri": "at://did:plc:aehvv7t4jj24xlknc55ebhi6/app.bsky.feed.post/3l3yjxfvxuk2r"
+                    },
+                    "root": {
+                        "cid": "bafyreiei7jmjza4icijar4poa6i3jmleb5fyylf5jkpjogoiu7bx7fo3tu",
+                        "uri": "at://did:plc:pwswh3ydc4a5yql3chzlcjtp/app.bsky.feed.post/3l3yiuklnkm2e"
+                    }
+                },
+                "text": "Oi Antônio! Imagina, perturbação nenhuma! \nPaleoclima é a abreviação de Paleoclimatologia, que é o estudo das variações climáticas ao longo da Terra!\nPara o estudo desses hieróglifos, precisamos de um Arqueólogo!"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T22:58:26.321Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d74viltwif5ze5kkqx5nyvnb/app.bsky.feed.post/3l3hi3nxvxx2q",
+            "cid": "bafyreihbjdwpw4bjeuosx7qv4bwlwkpa3dsvwffqc33vxctkll5nfll3j4",
+            "author": {
+                "did": "did:plc:d74viltwif5ze5kkqx5nyvnb",
+                "handle": "taeminlanches.bsky.social",
+                "displayName": "ana",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d74viltwif5ze5kkqx5nyvnb/bafkreigg2s732q6uej5e6woqlzffydvskb4344k4diw4mey4neakpofzty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:12:51.075Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-06T04:05:07.147Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "a quem interessa variações climáticas a cada 12 horas"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-06T04:05:07.147Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gjr4b3j4nbnq3ed3nlnbozt7/app.bsky.feed.post/3l3ghzd4qyq2x",
+            "cid": "bafyreibmh2gwgqw7jrv7alfk7yumiiugjom4hjdcmtbie67m5pbewd22kq",
+            "author": {
+                "did": "did:plc:gjr4b3j4nbnq3ed3nlnbozt7",
+                "handle": "wsmoni.bsky.social",
+                "displayName": "Moni",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gjr4b3j4nbnq3ed3nlnbozt7/bafkreibmedbdkach7thgrrtvrziqoljuwscou46mcgdppicjqmln36rke4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:55:41.324Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T18:31:09.104Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 538,
+                                "width": 1054
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifhwq7oujzfkq3j7jeqe6vasi4h5zy2755lne5bq3u35qpbwjymye"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 101788
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Essas variações climáticas tão me destruindo"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gjr4b3j4nbnq3ed3nlnbozt7/bafkreifhwq7oujzfkq3j7jeqe6vasi4h5zy2755lne5bq3u35qpbwjymye@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gjr4b3j4nbnq3ed3nlnbozt7/bafkreifhwq7oujzfkq3j7jeqe6vasi4h5zy2755lne5bq3u35qpbwjymye@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 538,
+                            "width": 1054
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T18:31:09.104Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6do7gkd4octjfftyzrovfrju/app.bsky.feed.post/3l3ay25wgz32t",
+            "cid": "bafyreihi24b4wnfbko7tae4hqn3ejpkkx43n4nhxn3it7c67iz57wryz4y",
+            "author": {
+                "did": "did:plc:6do7gkd4octjfftyzrovfrju",
+                "handle": "karenyamai.bsky.social",
+                "displayName": "tia kakai ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6do7gkd4octjfftyzrovfrju/bafkreigekdklwhtzt3tvb2657k5yk2jygayhgwzczldobcdxib6jdwdmqi@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T14:16:18.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T14:01:57.954Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "bom dia hoje pensando que minha agenda não tá batendo com as variações climáticas, o dia mais frio do ano e o dia mais quente do ano eu tendo que trabalhar fora de casa"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T14:01:57.954Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3l33luedbdc2f",
+            "cid": "bafyreidmadihp4ogl7is5bh53ofqhc4fn3gkgrolyn2hb7mbuqzjthrica",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T10:40:38.712743Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Inverno com dias mais quentes e secos seguidos por geada atrapalharam produção; agricultores estimam perdas de até 15%.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib2uclgj77r2d3z7dsfazjosjb3e3c2pwlftw5pttbfez33n652ga"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 168875
+                        },
+                        "title": "Variações climáticas extremas prejudicam lavouras de trigo no Paraná ",
+                        "uri": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2024/09/01/variacoes-climaticas-extremas-prejudicam-lavouras-de-trigo-no-parana.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Variações climáticas extremas prejudicam lavouras de trigo no Paraná"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pr/parana/caminhos-do-campo/noticia/2024/09/01/variacoes-climaticas-extremas-prejudicam-lavouras-de-trigo-no-parana.ghtml",
+                    "title": "Variações climáticas extremas prejudicam lavouras de trigo no Paraná ",
+                    "description": "Inverno com dias mais quentes e secos seguidos por geada atrapalharam produção; agricultores estimam perdas de até 15%.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreib2uclgj77r2d3z7dsfazjosjb3e3c2pwlftw5pttbfez33n652ga@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T10:40:38.712Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kaqzoitl4nhao4pngp4a4ynn/app.bsky.feed.post/3kvyutigkkg2c",
+            "cid": "bafyreigm43xsvlmmc6w3scbrsqzsa2ui4b4ptkuqr7t6hlu2wzbxisxvpi",
+            "author": {
+                "did": "did:plc:kaqzoitl4nhao4pngp4a4ynn",
+                "handle": "alargedenial.bsky.social",
+                "displayName": "Daniel Galera",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kaqzoitl4nhao4pngp4a4ynn/bafkreifb2ts2xnjmvburktj66h5zrl7hou2vqpxq6g2tcltmphrktqr3fe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-01T16:56:23.823Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-28T17:37:16.894Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "E que dia lindo lá fora, frio, seco, ensolarado, todos os seres animados e inanimados flagrantemente felizes com a atmosfera. O alívio de dias como esse só é levemente estragado pela constatação do quanto o espírito é vulnerável às menores variações climáticas."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-28T17:37:16.894Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n7hzjfzxky5y5dyrmlfmpjbo/app.bsky.feed.post/3krxompnbqu2x",
+            "cid": "bafyreia5bwkzqecnlbn3q7m54mwp2vdqdqnwutcvbeai4tuijhs25vxfoq",
+            "author": {
+                "did": "did:plc:n7hzjfzxky5y5dyrmlfmpjbo",
+                "handle": "estaciogg.bsky.social",
+                "displayName": "Estacio Gavinho ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n7hzjfzxky5y5dyrmlfmpjbo/bafkreidn2mruwsbejhmaiwnisgz2lxsub74vqy7vq64sylu4io3zpwgrwu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T16:43:20.647Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-08T08:27:16.143Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Na produção de vinhos nobres em certos anos devido a variações climáticas, principalmente, o vinho não fica a altura do nome. Então  ou é destruído ou vendido com outra marca inferior... A última safra de políticos brasileiros está tão horrível quanto  vinho de caixinha... Melhor ser abstêmio..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-08T08:27:16.143Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:475vnzwwuybwz7tcmzlscsxs/app.bsky.feed.post/3kepawmjr532b",
+            "cid": "bafyreids2bht4sc7z7shdsl2b6pmaatw66zfyyyqjmkmywsexspi4jcm3q",
+            "author": {
+                "did": "did:plc:475vnzwwuybwz7tcmzlscsxs",
+                "handle": "elrafosaldanha.bsky.social",
+                "displayName": "Akalleyos \"Aka\" Murob ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:475vnzwwuybwz7tcmzlscsxs/bafkreievc53fagjsxe56e3cq6xv6gwhorfy5x6hg6j76pup5f43kb3odwi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T23:11:53.739Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-21T13:38:52.285Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifhjllnau4haubpzx4e2yce7lmaodtvsir2wa2hfbd2o5a6ford6i",
+                        "uri": "at://did:plc:z65b7jg7ufnzl7wf7mmlknmj/app.bsky.feed.post/3keoybrazms2z"
+                    },
+                    "root": {
+                        "cid": "bafyreifhjllnau4haubpzx4e2yce7lmaodtvsir2wa2hfbd2o5a6ford6i",
+                        "uri": "at://did:plc:z65b7jg7ufnzl7wf7mmlknmj/app.bsky.feed.post/3keoybrazms2z"
+                    }
+                },
+                "text": "Na vdd, precisa de um book, abrangendo as variações climáticas"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-21T13:38:52.285Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xsqvhxuhmzvkdpprcf244kq3/app.bsky.feed.post/3kb6cxs4qrw25",
+            "cid": "bafyreihgx4qky77fb7d5zmaglhk7mvuj6dv2qwu2nvd3vp52dbglqtiwmu",
+            "author": {
+                "did": "did:plc:xsqvhxuhmzvkdpprcf244kq3",
+                "handle": "ericosouza.bsky.social",
+                "displayName": "Erico",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xsqvhxuhmzvkdpprcf244kq3/bafkreia26asljcq3a4uxfldaxrtubuvgqwx4h5fchibz5smm37em76iiha@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:xsqvhxuhmzvkdpprcf244kq3",
+                        "uri": "at://did:plc:xsqvhxuhmzvkdpprcf244kq3/app.bsky.actor.profile/self",
+                        "cid": "bafyreifsh5cb3d4cf4k2diirfofqesynyfnkgesk5yfd22lcfw5cvfx4om",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-19T04:07:51.230Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-10-07T15:44:29.577Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia54spsydmxb2fshjungaclk3ryq26p3lnt3sskfjgcseevrhc5vy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 81165
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Essas variações climáticas estão acabando comigo. \n\n38° e eu me sinto derretendo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xsqvhxuhmzvkdpprcf244kq3/bafkreia54spsydmxb2fshjungaclk3ryq26p3lnt3sskfjgcseevrhc5vy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xsqvhxuhmzvkdpprcf244kq3/bafkreia54spsydmxb2fshjungaclk3ryq26p3lnt3sskfjgcseevrhc5vy@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-10-07T15:44:29.577Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4ydtby5ehm2cijikgrmljnl7/app.bsky.feed.post/3k7p6pav5uh2z",
+            "cid": "bafyreibqs6m3lkrcgbhlr6kbvbhivrbsetu6dkn7xlr6gp4lb5d57qwrha",
+            "author": {
+                "did": "did:plc:4ydtby5ehm2cijikgrmljnl7",
+                "handle": "joga51.bsky.social",
+                "displayName": "Alessandro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreiabpw3rauvjzxhuefqcvnmebwsm5h7a5sz3w7ww3lk7gkl2prox6e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-22T18:47:06.716Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-09-18T21:52:54.732Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Uma imagem composta de três imagens diferentes mostrando diversas variações climáticas bruscas dentro de um mesmo dia mas em horários diferentes. A primeira imagem mostra um dia ensolarado ao meio dia, a segunda imagem mostra um vendaval às 4 da tarde e a terceira e última imagem mostra uma orca nadando no meio da cidade alagada às 5 da tarde.",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia56ijtahkeekd7mgprzr4yw65izrbczebxmfjj3p4wobr4vssnse"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 296529
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vocês postando umas fotos lindas de por do sol e eu nem posso participar pq o clima aqui hoje tá assim:"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreia56ijtahkeekd7mgprzr4yw65izrbczebxmfjj3p4wobr4vssnse@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4ydtby5ehm2cijikgrmljnl7/bafkreia56ijtahkeekd7mgprzr4yw65izrbczebxmfjj3p4wobr4vssnse@jpeg",
+                        "alt": "Uma imagem composta de três imagens diferentes mostrando diversas variações climáticas bruscas dentro de um mesmo dia mas em horários diferentes. A primeira imagem mostra um dia ensolarado ao meio dia, a segunda imagem mostra um vendaval às 4 da tarde e a terceira e última imagem mostra uma orca nadando no meio da cidade alagada às 5 da tarde."
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2023-09-18T21:52:54.732Z",
+            "labels": []
+        }
+    ]
+}

@@ -1,0 +1,2392 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:atwuii4q46ynalc77d6hg7ig/app.bsky.feed.post/3lbujaoreus2s",
+            "cid": "bafyreigthoz5nyhmzwdejogfkdvaj56zpeeoq3wvc6lwackc735hsgl3ne",
+            "author": {
+                "did": "did:plc:atwuii4q46ynalc77d6hg7ig",
+                "handle": "outraspalavras.net",
+                "displayName": "Outras Palavras",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:atwuii4q46ynalc77d6hg7ig/bafkreicg5zes5jcy5evswr5kk5exqkle7cdzx6ugy3dvlsvkzjfaq7r5vm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T18:19:21.202Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-26T17:01:36.135Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "JBS, Bayer e Marfrig, entre outras corporações: Brasil foi o país que mais levou lobistas do agronegócio à zona decisiva da conferência. Quais os critérios para a seleção de representantes? Minimizar ...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibflzkf3otjzlvn3k6jy4yl5ogr5q5nlp65s7mvlqze6bmfnn34zm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 458340
+                        },
+                        "title": "COP29: A pegada antiambiental da delegação brasileira - Outras Palavras",
+                        "uri": "https://outraspalavras.net/outrasmidias/cop29-a-pegada-antiambiental-da-delegacao-brasileira/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "COP29: A PEGADA ANTIAMBIENTAL DA DELEGAÇÃO BRASILEIRA\nJBS, Bayer, Marfrig, entre outras corporações: Brasil foi o país que mais levou lobistas do agronegócio à zona decisiva da conferência. Quais os critérios para a seleção de representantes? Minimizar impactos climáticos aparece em plano secundário"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://outraspalavras.net/outrasmidias/cop29-a-pegada-antiambiental-da-delegacao-brasileira/",
+                    "title": "COP29: A pegada antiambiental da delegação brasileira - Outras Palavras",
+                    "description": "JBS, Bayer e Marfrig, entre outras corporações: Brasil foi o país que mais levou lobistas do agronegócio à zona decisiva da conferência. Quais os critérios para a seleção de representantes? Minimizar ...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:atwuii4q46ynalc77d6hg7ig/bafkreibflzkf3otjzlvn3k6jy4yl5ogr5q5nlp65s7mvlqze6bmfnn34zm@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 9,
+            "likeCount": 38,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-26T17:01:40.054Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tma4436oyp7exm6tczainvfq/app.bsky.feed.post/3lb2uxs357s2u",
+            "cid": "bafyreibzdyujydac5tfri2nkjhgtnbxwoc3g3djabwet76uwnftsjlgfki",
+            "author": {
+                "did": "did:plc:tma4436oyp7exm6tczainvfq",
+                "handle": "antoniossilva.bsky.social",
+                "displayName": "Antonio S. Silva",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tma4436oyp7exm6tczainvfq/bafkreidaxmh6l6h4l4whmusltl453lmork2wgcjl6ejjqr635azwg2ok2q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T13:52:45.085Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-16T12:22:09.314Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Redirecting...",
+                        "uri": "https://www.facebook.com/antoniosilvva/posts/pfbid02cTziATAGQTg2s234tGzVLHs7BLbeBHnikWDfR7xJ4o5qAK95DwytFEH8CWRgCUQDl"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.facebook.com/antoniosilvva/posts/pfbid02cTziATAGQTg2s234tGzVLHs7BLbeBHnikWDfR7xJ4o5qAK95DwytFEH8CWRgCUQDl"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 239
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Com a eleição da extrema direita no Brasil e mundo, com destaque para Donald Trump, no Estados Unidos, parece não haver dúvida, por parte dos analistas, de quem o meio ambiente está na mira da política negacionista e antiambiental.\n\nwww.facebook.com/antoniosilvv..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.facebook.com/antoniosilvva/posts/pfbid02cTziATAGQTg2s234tGzVLHs7BLbeBHnikWDfR7xJ4o5qAK95DwytFEH8CWRgCUQDl",
+                    "title": "Redirecting...",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-16T12:22:11.198Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:smupv7eamb3rpujuv5mrf5gt/app.bsky.feed.post/3l7qpi3axgi2f",
+            "cid": "bafyreiclzz2gty7tnjznyo5bw32n5obri2m6ziqkv7o4zvc4lno4i22fp4",
+            "author": {
+                "did": "did:plc:smupv7eamb3rpujuv5mrf5gt",
+                "handle": "personalescrito.bsky.social",
+                "displayName": "Persona",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:smupv7eamb3rpujuv5mrf5gt/bafkreieerntankfpnpnjxomp5zcglt3igssczslxqfcxiymvknsipr7lxm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-25T05:04:13.786Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T17:51:56.165Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihjbm765drh3qsfndbfpultaytgvbepvuk3qanln5ifcqtobaoci4",
+                        "uri": "at://did:plc:smupv7eamb3rpujuv5mrf5gt/app.bsky.feed.post/3l7qphle2z62q"
+                    },
+                    "root": {
+                        "cid": "bafyreid4rflah5xkf7tpfonvvlgyl4zcwdxrnu2vycmin4rjcyctqczkz4",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l7q7ekpu6j2z"
+                    }
+                },
+                "text": "\"A diferença da TV 247 pra jovem pan é que a jovem pan tem público.\" Exato, mas essa mídia se presta para inculcar o ideário neoliberal e antiambiental na militância despolitizada."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T17:51:56.165Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3l77rq6lofk27",
+            "cid": "bafyreihl2jw26urotd62fq5lcabczmiyepqj5e5djvieccy6ttuveiukx4",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T00:17:09.008Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Este guia aborda o artigo \"Agenda antiambiental do agronegócio é autodestrutiva\", que examina os impactos do desmatamento na Amazônia e no Cerrado brasileiro",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie3eo4buanwlzqajtpoatxbrak7klunmj6wlyv76ea76qikp7xaru"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 354803
+                        },
+                        "title": "Guia de Estudo: Desmatamento e o Agronegócio Autodestrutivo",
+                        "uri": "https://tinyurl.com/3sj4emym"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://tinyurl.com/3sj4emym"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 223
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Guia de Estudo: Desmatamento e o Agronegócio Autodestrutivo\n\nEste guia aborda o artigo \"Agenda antiambiental do agronegócio é autodestrutiva\", que examina os impactos do desmatamento na Amazônia e no Cerrado brasileiro\ntinyurl.com/3sj4emym"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://tinyurl.com/3sj4emym",
+                    "title": "Guia de Estudo: Desmatamento e o Agronegócio Autodestrutivo",
+                    "description": "Este guia aborda o artigo \"Agenda antiambiental do agronegócio é autodestrutiva\", que examina os impactos do desmatamento na Amazônia e no Cerrado brasileiro",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreie3eo4buanwlzqajtpoatxbrak7klunmj6wlyv76ea76qikp7xaru@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-24T00:17:08.415Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fujrmozvyczi437mijossskj/app.bsky.feed.post/3l74ximsafv2t",
+            "cid": "bafyreiardezvvlyfcqaowwjf6nwao3u3u5kkisnpkpbavko6bcysmx63ju",
+            "author": {
+                "did": "did:plc:fujrmozvyczi437mijossskj",
+                "handle": "aosfatos.org",
+                "displayName": "Aos Fatos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fujrmozvyczi437mijossskj/bafkreibgnjxal3rvjpcghnwu26tw2hsfkeepsq4222wxni6spirtfuplji@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T15:39:31.945Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T21:22:17.719Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihbrjvm5ryboiseful7fouyfmbs34kif274tktpaz4d2hgvmdmj6i"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 717643
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:suxthwyej2lioqzwdg5ynjzk"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 103,
+                            "byteStart": 81
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreieexdaolaxk47coitjpigng4jssnxdhi7w4h3f2rhbfus6yotn7eq",
+                        "uri": "at://did:plc:fujrmozvyczi437mijossskj/app.bsky.feed.post/3l74x5g5hnr2j"
+                    },
+                    "root": {
+                        "cid": "bafyreieexdaolaxk47coitjpigng4jssnxdhi7w4h3f2rhbfus6yotn7eq",
+                        "uri": "at://did:plc:fujrmozvyczi437mijossskj/app.bsky.feed.post/3l74x5g5hnr2j"
+                    }
+                },
+                "text": "Apontado como o “parlamentar mais antiambiental do Pará” em levantamento da @reporterbrasil.org.br, o deputado federal Delegado Éder Mauro (PL) já cortejou o negacionismo climático, mentiu para defender o garimpo e espalhou teorias da conspiração sobre queimadas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fujrmozvyczi437mijossskj/bafkreihbrjvm5ryboiseful7fouyfmbs34kif274tktpaz4d2hgvmdmj6i@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fujrmozvyczi437mijossskj/bafkreihbrjvm5ryboiseful7fouyfmbs34kif274tktpaz4d2hgvmdmj6i@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 14,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-22T21:22:17.719Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:prwbcbblv7j3fo7rlv6toznc/app.bsky.feed.post/3l74peffpqs2v",
+            "cid": "bafyreico3m2uv2ygwh7xq3tk3aepr5vzcuw3dl6oz3obgyvxzibchoaiyy",
+            "author": {
+                "did": "did:plc:prwbcbblv7j3fo7rlv6toznc",
+                "handle": "somosjacare.bsky.social",
+                "displayName": "Somos Jacare",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:prwbcbblv7j3fo7rlv6toznc/bafkreiatcpk444cxzkqmhqt2vbwuf3xhd4c7qwphivobx3iqngkz44slk4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T21:39:40.598Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T18:56:45.016Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 134,
+                                "width": 401
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicr7gioovcbvc7wjp2yqgregjn72xc6dx2m5yiwd5ojkoqco52ljy"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 57900
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/?utm_source=bluesky&utm_medium=post&utm_campaign=bancosantiambientais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 112,
+                            "byteStart": 75
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental\nreporterbrasil.org.br/2024/10/bb-b..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:prwbcbblv7j3fo7rlv6toznc/bafkreicr7gioovcbvc7wjp2yqgregjn72xc6dx2m5yiwd5ojkoqco52ljy@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:prwbcbblv7j3fo7rlv6toznc/bafkreicr7gioovcbvc7wjp2yqgregjn72xc6dx2m5yiwd5ojkoqco52ljy@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 134,
+                            "width": 401
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-22T18:56:45.016Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mj2n7bcbv2qmgotp2rt6skpc/app.bsky.feed.post/3l74fkihe3t2h",
+            "cid": "bafyreifmm65jxsmjcs7a3m32y3avnyr4yipcn77r2lz3imptwmo2d5effq",
+            "author": {
+                "did": "did:plc:mj2n7bcbv2qmgotp2rt6skpc",
+                "handle": "mgangelo.bsky.social",
+                "displayName": "Maurício Angelo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mj2n7bcbv2qmgotp2rt6skpc/bafkreigxxoulo2xd3uopgsnlmsjyitfjy6rydlzzjclx6pgbwrxc3gsgt4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T15:22:14.484Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T16:01:12.548Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Éder Mauro (PL) culpou ONGs por queimadas e mentiu para defender garimpo; rival Igor Normando (MDB) tem discurso pró-clima, mas já minimizou impacto ambiental de obra",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiccdr3tljdodxvcxw2cvp5jpqvppfi4b3qgikmmchzfngagb6i3su"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 141535
+                        },
+                        "title": "Sede da COP-30, Belém tem candidato que espalha negacionismo climático",
+                        "uri": "https://www.aosfatos.org/noticias/sede-cop-30-belem-candidato-negacionismo-climatico/"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:fujrmozvyczi437mijossskj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 15,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.aosfatos.org/noticias/sede-cop-30-belem-candidato-negacionismo-climatico/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 250,
+                            "byteStart": 218
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O @aosfatos.org fez uma matéria sobre o histórico antiambiental e negacionista de Éder Mauro, que disputa o segundo turno para prefeito de Belém, sede da COP 30. Contribuí com um breve comentário sobre o garimpo www.aosfatos.org/noticias/sed..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.aosfatos.org/noticias/sede-cop-30-belem-candidato-negacionismo-climatico/",
+                    "title": "Sede da COP-30, Belém tem candidato que espalha negacionismo climático",
+                    "description": "Éder Mauro (PL) culpou ONGs por queimadas e mentiu para defender garimpo; rival Igor Normando (MDB) tem discurso pró-clima, mas já minimizou impacto ambiental de obra",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mj2n7bcbv2qmgotp2rt6skpc/bafkreiccdr3tljdodxvcxw2cvp5jpqvppfi4b3qgikmmchzfngagb6i3su@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 19,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-22T16:01:12.548Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nr3poea4qxztfywfajgnago3/app.bsky.feed.post/3l6zspw2rms25",
+            "cid": "bafyreidb2mxhvlxua23xfp6v56oih4nklaps2akyvz2aavqyqbwqsd2n5y",
+            "author": {
+                "did": "did:plc:nr3poea4qxztfywfajgnago3",
+                "handle": "seringueiro.bsky.social",
+                "displayName": "Seringueiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nr3poea4qxztfywfajgnago3/bafkreihumrothq3qg35or54ggcna2jwjgearu2fhttbmeysgubwuv3tfu4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-04T02:30:35.849Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T15:10:35.415Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihiskoa6lz37uzqkqmtqosoy6uljnw4mnw2q72q3j7kfcfetjrz5u",
+                        "uri": "at://did:plc:odcqhlpq3ljiv6s4ysvhgg22/app.bsky.feed.post/3l6zrfbd27f27"
+                    },
+                    "root": {
+                        "cid": "bafyreihiskoa6lz37uzqkqmtqosoy6uljnw4mnw2q72q3j7kfcfetjrz5u",
+                        "uri": "at://did:plc:odcqhlpq3ljiv6s4ysvhgg22/app.bsky.feed.post/3l6zrfbd27f27"
+                    }
+                },
+                "text": "Orgulho do BB? Por financiamento antiambiental?"
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-21T15:10:35.415Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5bjsxqv5a3qqagamai7k5xsp/app.bsky.feed.post/3l6zj4a6t4r2a",
+            "cid": "bafyreiggmnqip4guho6rtiy4vtozspwcinje3y4cg27oa247ycdpvlodjm",
+            "author": {
+                "did": "did:plc:5bjsxqv5a3qqagamai7k5xsp",
+                "handle": "pcosta-floripa.bsky.social",
+                "displayName": "Paulo.JM. Costa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5bjsxqv5a3qqagamai7k5xsp/bafkreidfltwa34btx644ygxq6onub27olghgwj2csm3o6rq4y52xahjp4m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T15:50:05.939Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T12:26:50.292Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifnoct6esvxrrfq7mejldjdzgzftjc2tqjkbe4d5d4po5ni2mppme",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l6zg5cxhgz25"
+                    },
+                    "root": {
+                        "cid": "bafyreifnoct6esvxrrfq7mejldjdzgzftjc2tqjkbe4d5d4po5ni2mppme",
+                        "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l6zg5cxhgz25"
+                    }
+                },
+                "text": "o que significa financiamento antiambiental? Contra o meio-ambiente? Não entendi"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-21T12:26:50.292Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3l6zg5cxhgz25",
+            "cid": "bafyreifnoct6esvxrrfq7mejldjdzgzftjc2tqjkbe4d5d4po5ni2mppme",
+            "author": {
+                "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                "handle": "jnascim.info",
+                "displayName": "Jeff Nascimento",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T10:36:21.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T11:33:45.514Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidffj6rtfoiokk2ycvpjy5mdrsg4km3p4d4n4hyievqrovnnbruvm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 427998
+                        },
+                        "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                        "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/?utm_source=bluesky&utm_medium=post&utm_campaign=bancosantiambientais"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:suxthwyej2lioqzwdg5ynjzk"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 115,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/?utm_source=bluesky&utm_medium=post&utm_campaign=bancosantiambientais"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 153,
+                            "byteStart": 116
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Banco do Brasil, Bradesco e Itaú lideram ranking global de financiamento antiambiental, via @reporterbrasil.org.br reporterbrasil.org.br/2024/10/bb-b..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://reporterbrasil.org.br/2024/10/bb-bradesco-itau-ranking-global-financiamento-antiambiental/?utm_source=bluesky&utm_medium=post&utm_campaign=bancosantiambientais",
+                    "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                    "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreidffj6rtfoiokk2ycvpjy5mdrsg4km3p4d4n4hyievqrovnnbruvm@jpeg"
+                }
+            },
+            "replyCount": 7,
+            "repostCount": 62,
+            "likeCount": 248,
+            "quoteCount": 4,
+            "indexedAt": "2024-10-21T11:33:45.514Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:suxthwyej2lioqzwdg5ynjzk/app.bsky.feed.post/3l6zbtqrtgc2r",
+            "cid": "bafyreicgqaloce5as7uxunzuww53lnksedh7ue5tas5jtufrgk5lutwmqi",
+            "author": {
+                "did": "did:plc:suxthwyej2lioqzwdg5ynjzk",
+                "handle": "reporterbrasil.org.br",
+                "displayName": "Repórter Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:suxthwyej2lioqzwdg5ynjzk/bafkreihtilrhbrlcx57vfoqrzz6xufsmn7ukg5btyfkzl56gy4siamizj4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:23:42.832Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-21T10:16:49.482Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibo5zunazmftov23fusucxcipt3qxuy5rccfvyj6ss6uk2f6likiq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 627895
+                        },
+                        "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                        "uri": "https://bit.ly/3YcMxYS"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://bit.ly/3YcMxYS"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 281,
+                            "byteStart": 267
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Banco do Brasil, Bradesco e Itaú lideram ranking global de financiamento antiambiental | Maior parte do crédito liberado é destinada para indústrias da soja e pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado bit.ly/3YcMxYS"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://bit.ly/3YcMxYS",
+                    "title": "BB, Bradesco e Itaú lideram ranking global de financiamento antiambiental",
+                    "description": "Maior parte do crédito liberado é destinada para as indústrias da soja e da pecuária bovina, setores com amplo histórico de violações socioambientais na Amazônia e no Cerrado brasileiro",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:suxthwyej2lioqzwdg5ynjzk/bafkreibo5zunazmftov23fusucxcipt3qxuy5rccfvyj6ss6uk2f6likiq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 32,
+            "likeCount": 72,
+            "quoteCount": 3,
+            "indexedAt": "2024-10-21T10:16:49.482Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:36i6hzwtytdoq23wbmlabvle/app.bsky.feed.post/3l6qmen2wld24",
+            "cid": "bafyreiguyv6senmbs7wfookgloe2ydqrceulassvqhtfpo7xbqrdu2r77y",
+            "author": {
+                "did": "did:plc:36i6hzwtytdoq23wbmlabvle",
+                "handle": "partidaopcb.bsky.social",
+                "displayName": "Partido Comunista Brasileiro (PCB)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:36i6hzwtytdoq23wbmlabvle/bafkreieqtj55aej7wm7ittxqjsaavqxkmfpnvgouakd4bj3o7wionfhffu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-22T07:53:13.669Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-17T23:33:06.944Z",
+                "facets": [],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "$type": "com.atproto.repo.strongRef",
+                        "cid": "bafyreic7eh5dh5xeyakswipjlfiw7ywllotgu7vfh2zqsg56nvb4nt7vjy",
+                        "uri": "at://did:plc:36i6hzwtytdoq23wbmlabvle/app.bsky.feed.post/3l6qmcuem4b2e"
+                    },
+                    "root": {
+                        "$type": "com.atproto.repo.strongRef",
+                        "cid": "bafyreiddazdbpbw525jr7cxehhewb2b5sc75aumpf2zj5ukrlmyx2tceni",
+                        "uri": "at://did:plc:36i6hzwtytdoq23wbmlabvle/app.bsky.feed.post/3l6qm7hcfjo24"
+                    }
+                },
+                "tags": [],
+                "text": "Nesse sentido, repudiamos veementemente a ação do governo ao divulgar um outdoor responsabilizando as mulheres do campo e da cidade pelos incêndios que devastam nossa floresta, desviando a responsabilidade do caos causado pela fumaça, resultado de sua política antiambiental. 🧵"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-17T23:31:16.125Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uhso32yym4lxao3ab2cde46h/app.bsky.feed.post/3l6cwoko5hm26",
+            "cid": "bafyreib5ns6rmo7yqhns5apbuhuesza2mipbcwfyrmodpoof67tcigpheq",
+            "author": {
+                "did": "did:plc:uhso32yym4lxao3ab2cde46h",
+                "handle": "wylltorres.bsky.social",
+                "displayName": "Wyllian Torres 🌱🌎🪐",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uhso32yym4lxao3ab2cde46h/bafkreiheujucnmntygrwnk63hfqykxduuw5wgjhznkfjkqcvytve2gxvgm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T13:26:45.074Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T12:58:29.927Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreib2birwyu6poyuqkczv4oxezqqtvnconzkg2kxkawzdbz564wnnxm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 536004
+                        },
+                        "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                        "uri": "https://www.ecodebate.com.br/2024/10/11/agenda-antiambiental-do-agronegocio-e-autodestrutiva/"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:mxlebqkymh6jbclsffsun2aq"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 77,
+                            "byteStart": 60
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2024/10/11/agenda-antiambiental-do-agronegocio-e-autodestrutiva/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 116,
+                            "byteStart": 80
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agenda antiambiental do agronegócio é autodestrutiva\n\nVia @ecodebate.com.br \n\nwww.ecodebate.com.br/2024/10/11/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.ecodebate.com.br/2024/10/11/agenda-antiambiental-do-agronegocio-e-autodestrutiva/",
+                    "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                    "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uhso32yym4lxao3ab2cde46h/bafkreib2birwyu6poyuqkczv4oxezqqtvnconzkg2kxkawzdbz564wnnxm@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T12:58:29.927Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3l6blyr22jm2p",
+            "cid": "bafyreifpjk3gvx4wrlnrwwgfvd2hsf3gyptc7xrddcibnjr5rmxpr7zbzq",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T00:14:40.313Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig2rsz7klieiy7u7ntfjj6dfk4ycdxbtlbophqzfkjaukjddyzl7i"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 644175
+                        },
+                        "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                        "uri": "https://is.gd/hu5ICB"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 69,
+                            "byteStart": 56
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agronegócio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 99,
+                            "byteStart": 86
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Brasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 133,
+                            "byteStart": 126
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://is.gd/hu5ICB"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 157,
+                            "byteStart": 145
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agenda antiambiental do agronegócio é autodestrutiva\n\n#Desmatamento põe em risco o #agronegócio e segurança alimentar no #Brasil e no mundo\nis.gd/hu5ICB"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://is.gd/hu5ICB",
+                    "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                    "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreig2rsz7klieiy7u7ntfjj6dfk4ycdxbtlbophqzfkjaukjddyzl7i@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 7,
+            "likeCount": 12,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-12T00:14:40.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3l6ahmgkh5h2l",
+            "cid": "bafyreigtso2wrauo366q5aq3sninn3d4rcnvspzfngfr6wuec2sdzlm35u",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T13:23:32.325Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreig2rsz7klieiy7u7ntfjj6dfk4ycdxbtlbophqzfkjaukjddyzl7i"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 644175
+                        },
+                        "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                        "uri": "https://tinyurl.com/uzbt2vfv"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://tinyurl.com/uzbt2vfv"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 162,
+                            "byteStart": 142
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agenda antiambiental do agronegócio é autodestrutiva\n\nDesmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo\ntinyurl.com/uzbt2vfv"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://tinyurl.com/uzbt2vfv",
+                    "title": "Agenda antiambiental do agronegócio é autodestrutiva",
+                    "description": "Desmatamento põe em risco o agronegócio e segurança alimentar no Brasil e no mundo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreig2rsz7klieiy7u7ntfjj6dfk4ycdxbtlbophqzfkjaukjddyzl7i@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T13:23:32.325Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3hdviiyuocw6j4cpnvsdkcx4/app.bsky.feed.post/3l673h52err2f",
+            "cid": "bafyreib3v2wlcbaugi73b55q256qwgiete2klhrl6dsqqosrftt7wmomfi",
+            "author": {
+                "did": "did:plc:3hdviiyuocw6j4cpnvsdkcx4",
+                "handle": "gabrielbiologia.bsky.social",
+                "displayName": "Gabriel Biologia",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3hdviiyuocw6j4cpnvsdkcx4/bafkreiagp7pulddgvqpfrrdwtcvt7g5opu6uxuilyhsk3uzsrghxfsub34@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T17:49:59.397Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-11T00:24:56.089Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 801,
+                                "width": 828
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidqlvcb5b7usyworonkg5qpsya5zcr3szdunh36gi4mdpyq4pzsh4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 276621
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Estamos muito perto de virar o jogo e derrotar o projeto bolsonarista para Fortaleza.\n\nPrecisamos da dedicação de cada um e cada uma para derrubarmos o projeto mais antiambiental da história, que é também o projeto da mentira, do preconceito e do retrocesso.\n\nFalta pouco!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3hdviiyuocw6j4cpnvsdkcx4/bafkreidqlvcb5b7usyworonkg5qpsya5zcr3szdunh36gi4mdpyq4pzsh4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3hdviiyuocw6j4cpnvsdkcx4/bafkreidqlvcb5b7usyworonkg5qpsya5zcr3szdunh36gi4mdpyq4pzsh4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 801,
+                            "width": 828
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 18,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-11T00:13:11.513Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uqkhdlo3yrxicud6on2lfpil/app.bsky.feed.post/3l5jwxgds472i",
+            "cid": "bafyreigvz2o67hcbv3hkbkyp46whggntra44le4ivdr7pbcqa5mnibg6pe",
+            "author": {
+                "did": "did:plc:uqkhdlo3yrxicud6on2lfpil",
+                "handle": "anamzt.bsky.social",
+                "displayName": "🪑Ana Mizuta🪑 ✊ 🍉🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uqkhdlo3yrxicud6on2lfpil/bafkreie4q7jge255jcjsq2zqwgt3obfdk4ldcktcvhhixuqkeisuskitmi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-09T23:00:09.430Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T14:26:53.878Z",
+                "embed": {
+                    "$type": "app.bsky.embed.recordWithMedia",
+                    "media": {
+                        "$type": "app.bsky.embed.images",
+                        "images": [
+                            {
+                                "alt": "Paródia do Partido Novo. Homem branco de meia idade, vestindo um terno escuro, sobre um fundo laranja. No canto superior esquerdo está o logotipo do Novo modificado para “Nojo”. Na parte de baixo da imagem, à esquerda, está escrito “LIBERAL FDP” em letras maiúsculas  brancas com contorno preto embaçado e fonte sem serifa.",
+                                "aspectRatio": {
+                                    "height": 435,
+                                    "width": 773
+                                },
+                                "image": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreibx6zye2fgcsfb2sfiilogaedlfogngmq36filcln2intp77nfzb4"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 172293
+                                }
+                            }
+                        ]
+                    },
+                    "record": {
+                        "$type": "app.bsky.embed.record",
+                        "record": {
+                            "cid": "bafyreie3uctogjtoqvekhcbgn57ucieaxx73pzk5dqzaytnicnv3bkli5y",
+                            "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l5io37dary2v"
+                        }
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Partido Nojo 100% antiambiental..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.recordWithMedia#view",
+                "media": {
+                    "$type": "app.bsky.embed.images#view",
+                    "images": [
+                        {
+                            "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uqkhdlo3yrxicud6on2lfpil/bafkreibx6zye2fgcsfb2sfiilogaedlfogngmq36filcln2intp77nfzb4@jpeg",
+                            "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uqkhdlo3yrxicud6on2lfpil/bafkreibx6zye2fgcsfb2sfiilogaedlfogngmq36filcln2intp77nfzb4@jpeg",
+                            "alt": "Paródia do Partido Novo. Homem branco de meia idade, vestindo um terno escuro, sobre um fundo laranja. No canto superior esquerdo está o logotipo do Novo modificado para “Nojo”. Na parte de baixo da imagem, à esquerda, está escrito “LIBERAL FDP” em letras maiúsculas  brancas com contorno preto embaçado e fonte sem serifa.",
+                            "aspectRatio": {
+                                "height": 435,
+                                "width": 773
+                            }
+                        }
+                    ]
+                },
+                "record": {
+                    "record": {
+                        "$type": "app.bsky.embed.record#viewRecord",
+                        "uri": "at://did:plc:iqcv4a6wqbxv3fl5uuwupkpd/app.bsky.feed.post/3l5io37dary2v",
+                        "cid": "bafyreie3uctogjtoqvekhcbgn57ucieaxx73pzk5dqzaytnicnv3bkli5y",
+                        "author": {
+                            "did": "did:plc:iqcv4a6wqbxv3fl5uuwupkpd",
+                            "handle": "fiscaldoibama.bsky.social",
+                            "displayName": "O FISCAL do IBAMA 🌎",
+                            "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreia7ilqqp4xju6p5shcqhqdecui2i7gigldcja43kqbty7zvbewbsm@jpeg",
+                            "associated": {
+                                "chat": {
+                                    "allowIncoming": "all"
+                                }
+                            },
+                            "labels": [],
+                            "createdAt": "2023-04-20T01:09:15.984Z"
+                        },
+                        "value": {
+                            "$type": "app.bsky.feed.post",
+                            "createdAt": "2024-10-02T02:15:17.063Z",
+                            "embed": {
+                                "$type": "app.bsky.embed.images",
+                                "images": [
+                                    {
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1202,
+                                            "width": 1079
+                                        },
+                                        "image": {
+                                            "$type": "blob",
+                                            "ref": {
+                                                "$link": "bafkreiehsvbwjivhrfivns2aodohv4f6v63toswhhuit7cy2avsszzf6vy"
+                                            },
+                                            "mimeType": "image/jpeg",
+                                            "size": 509516
+                                        }
+                                    }
+                                ]
+                            },
+                            "langs": [
+                                "pt"
+                            ],
+                            "text": "DICA DE VOTO!\n\nQuanto mais LIBERAL...\nQuanto mais PATRONAL...\n\nMAIS ANTI AMBIENTAL.\n\nA direita vota pela destruição ambiental, por mudanças climáticas.\n\nNÃO VOTE EM NEGACIONISTA!"
+                        },
+                        "labels": [],
+                        "likeCount": 6300,
+                        "replyCount": 104,
+                        "repostCount": 1886,
+                        "quoteCount": 117,
+                        "indexedAt": "2024-10-02T02:15:17.063Z",
+                        "embeds": [
+                            {
+                                "$type": "app.bsky.embed.images#view",
+                                "images": [
+                                    {
+                                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreiehsvbwjivhrfivns2aodohv4f6v63toswhhuit7cy2avsszzf6vy@jpeg",
+                                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:iqcv4a6wqbxv3fl5uuwupkpd/bafkreiehsvbwjivhrfivns2aodohv4f6v63toswhhuit7cy2avsszzf6vy@jpeg",
+                                        "alt": "",
+                                        "aspectRatio": {
+                                            "height": 1202,
+                                            "width": 1079
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T14:26:53.878Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hass7g5hwsjxmubomkxhzkw6/app.bsky.feed.post/3l4w6d7ajrb2e",
+            "cid": "bafyreido4zfumiookbm7rjnd6q53xlw4rsqv7w7voxv4vkqmsxddnmrwby",
+            "author": {
+                "did": "did:plc:hass7g5hwsjxmubomkxhzkw6",
+                "handle": "liliangamba.bsky.social",
+                "displayName": "Lilian Gamba",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hass7g5hwsjxmubomkxhzkw6/bafkreib6r7iihbuy3rvaehjcb5dpn7o4njpdh3ygacf3i4maivfojumhwq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-01T18:38:59.763Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T17:45:31.088Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreids3jgobagrf4ab5u2a6gj5lhlggo7bfpamv7v5hlfxgxkel56zvi",
+                        "uri": "at://did:plc:deyzhyfcbos4luvzb2yndbak/app.bsky.feed.post/3l4w66fnnm72w"
+                    },
+                    "root": {
+                        "cid": "bafyreif7kepzmjt3tohothucinwto7dmwew3v6aanrgg5q2sm37wdiy3sm",
+                        "uri": "at://did:plc:hass7g5hwsjxmubomkxhzkw6/app.bsky.feed.post/3l4vjkgimjb2z"
+                    }
+                },
+                "text": "Detalhe, o tal \"NOVO\" é o mais antiambiental e anti-indigena do Congresso Nacional conforme pesquisa de 2022."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T17:45:30.811Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:r7fvgcsfiy7kl2v3unsqquph/app.bsky.feed.post/3l4vnzgt5ym23",
+            "cid": "bafyreidgdn2bbho2cowgjamszxggmdbcj7uf2cr2if7b2pkdjthabkeczu",
+            "author": {
+                "did": "did:plc:r7fvgcsfiy7kl2v3unsqquph",
+                "handle": "rondinelly.bsky.social",
+                "displayName": "elrondy",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:r7fvgcsfiy7kl2v3unsqquph/bafkreihazzh2juwqa4manbwqi5i3cd3idelsxmcpgyv4h2wmejaky64tnu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:r7fvgcsfiy7kl2v3unsqquph",
+                        "uri": "at://did:plc:r7fvgcsfiy7kl2v3unsqquph/app.bsky.actor.profile/self",
+                        "cid": "bafyreihohvnngvtbsb2huabfhob7dstaicgbsnbtm2cuz7y4xbkq77yb3a",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-04-25T14:56:44.912Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-24T12:53:42.813Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifyrtiw2rv7ubnsuf3xxnqkhm4hjaiy7yrxzlba4lfu6o2cgfv5n4",
+                        "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l4vmefcsp32g"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Isso aqui é surreal! Parece (talvez porque seja) uma piada mortal, um acinte deliberado. Esse crápula antiambiental é conhecido por suas posições próximas do integralismo, de franco supremacismo nacionalista, e, portanto, frontalmente contra a vida e a autonomia dos povos indígenas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2qvx4i33mg2cx7aihzwc7vg6/app.bsky.feed.post/3l4vmefcsp32g",
+                    "cid": "bafyreifyrtiw2rv7ubnsuf3xxnqkhm4hjaiy7yrxzlba4lfu6o2cgfv5n4",
+                    "author": {
+                        "did": "did:plc:2qvx4i33mg2cx7aihzwc7vg6",
+                        "handle": "beatrizdiniz.bsky.social",
+                        "displayName": "Beatriz Diniz",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2qvx4i33mg2cx7aihzwc7vg6/bafkreidlbelonyp7btamt3ik4jbqgbag7mmu4tvh3ei2ibds7mwhnheohe@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-20T02:50:47.124Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-24T12:24:02.697Z",
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "O Gilmar Mendes levou pra dentro do stf o negacionista da Ciência Aldo Rebelo como ESPECIALISTA pra tal da câmara de \"conciliação\" obrigatória dos povos indígenas com o agro latifundiário dos crimes ambientais."
+                    },
+                    "labels": [],
+                    "likeCount": 274,
+                    "replyCount": 12,
+                    "repostCount": 77,
+                    "quoteCount": 14,
+                    "indexedAt": "2024-09-24T12:24:02.697Z",
+                    "embeds": []
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-24T12:53:42.813Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:wtx6b6lfacn3i3jtmqbdohuv/app.bsky.feed.post/3l4lqgyapqk2l",
+            "cid": "bafyreihai2547iknz7er2ocmyqrqkpawicoao3dwjpfb3dyfswxnlk4vha",
+            "author": {
+                "did": "did:plc:wtx6b6lfacn3i3jtmqbdohuv",
+                "handle": "sigefredosouza.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:wtx6b6lfacn3i3jtmqbdohuv/bafkreidhmi52j73ho7mybsvzx3nyeaia5nksepvyfbt7evnhrkibkn4f5u@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T00:24:30.483Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-20T14:10:28.004Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Lira e ruralistas pressionam por nome de “consenso” para Autoridade Climática.\n\nCrise do fogo coloca luz sobre o Congresso para avançar com a criação da Autoridade Climática, mas sócios da “boiada antiambiental” querem garantir atuação livre."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-20T14:10:27.911Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vqvacv2nzks37qrbhawjycpc/app.bsky.feed.post/3l4ed5fr4ax2t",
+            "cid": "bafyreihswk5zpefugsxvnpln52ner32i46i2gdnbzonnbqbuozasrfxoue",
+            "author": {
+                "did": "did:plc:vqvacv2nzks37qrbhawjycpc",
+                "handle": "niltotatto.bsky.social",
+                "displayName": "Nilto Tatto",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vqvacv2nzks37qrbhawjycpc/bafkreifgnozlbc3xxdttqu2mpamkgw2hvdo7c5odsagudtudpzhbjcn5qu@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-10T15:19:52.926Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T15:23:49.241Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Líder da bancada ambientalista critica inação do Legislativo no enfrentamento à crise climática durante novo pico de incêndios florestais.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihp5xpync63wul4fy7xuqvixldwidff6zbuc7txmasj7e4pru6dk4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 290716
+                        },
+                        "title": "Congresso fortalece crise climática, diz líder ambientalista",
+                        "uri": "https://encurtador.com.br/7jwaD"
+                    }
+                },
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:5flbgzjflbjp4pii5x2eryaf"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 25,
+                            "byteStart": 2
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O @congressoemfoco.com.br repercutiu minha posição sobre o papel do Congresso na crise climática. Infelizmente a pauta antiambiental continua avançando em várias frentes, principalmente nas comissões temáticas da Câmara e do Senado.\n\nÉ preciso que estejamos à altura do que a urgência exige!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://encurtador.com.br/7jwaD",
+                    "title": "Congresso fortalece crise climática, diz líder ambientalista",
+                    "description": "Líder da bancada ambientalista critica inação do Legislativo no enfrentamento à crise climática durante novo pico de incêndios florestais.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqvacv2nzks37qrbhawjycpc/bafkreihp5xpync63wul4fy7xuqvixldwidff6zbuc7txmasj7e4pru6dk4@jpeg"
+                }
+            },
+            "replyCount": 2,
+            "repostCount": 32,
+            "likeCount": 69,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T15:23:49.241Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xmpygozxyy22kxsg3bqtaljh/app.bsky.feed.post/3l4bl3vnzua22",
+            "cid": "bafyreifkqvy5uz672nd2wz7rj3bx626y3gbdukr7tjyt3lydumteeigxla",
+            "author": {
+                "did": "did:plc:xmpygozxyy22kxsg3bqtaljh",
+                "handle": "lucascons.bsky.social",
+                "displayName": "Lucas Constantino - não sou primo do Rodrigo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xmpygozxyy22kxsg3bqtaljh/bafkreibdzgji2erpmure3t6tv6vzzyzq5xrubepdjpnola6x3no6lss4ye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T02:24:33.596Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-16T13:08:09.990Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "André Janones é o único homem ligado a esquerda capaz de vencer a extrema direita no Brasil.\n\nJanonismo Cultural é a única solução pra esquerda ter algum poder no debate público.\n\nEnquanto isso não for implementado, o debate público será pautado pela direita, pelo terraplanismo e pauta antiambiental"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-16T13:08:09.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.feed.post/3l4453lrznb22",
+            "cid": "bafyreifx4ibsaa3i77rswqm73kms3paktnhf3dszmxxzjvhfmimu3ez6j4",
+            "author": {
+                "did": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                "handle": "mendesonca.bsky.social",
+                "displayName": "@Mendes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreieyqd7txe6ql4oadzi57y7z6qcispfcd2nktxhfzvh2bdhmv4lx4u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                        "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.actor.profile/self",
+                        "cid": "bafyreigfqgczbrb4kdxfksrf65bue75pat4vp3arqzvwxmfhg2dizctd64",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T22:39:36.049Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T22:39:34.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T09:14:08.075Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Deputado federal Nilto Tatto (PT-SP), membro da Comissão de Meio Ambiente da Câmara dos Deputados e coordenador da Frente Parlamentar Ambiental",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiamxmkqkyxgnsgz35gt3aeo25gkuc3yj44x5uflulmkhwjnmxp5du"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 862885
+                        },
+                        "title": "'Tarcísio seguiu Bolsonaro e desmontou política ambiental', diz deputado sobre queimadas em SP  | Brasil de Fato",
+                        "uri": "https://www.brasildefato.com.br/2024/09/13/tarcisio-seguiu-bolsonaro-e-desmontou-politica-ambiental-diz-deputado-sobre-queimadas-em-sp"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.brasildefato.com.br/2024/09/13/tarcisio-seguiu-bolsonaro-e-desmontou-politica-ambiental-diz-deputado-sobre-queimadas-em-sp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 236,
+                            "byteStart": 197
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "'Tarcísio seguiu Bolsonaro e desmontou política ambiental', diz deputado sobre queimadas em SP \nNilto Tatto (PT-SP) critica pauta antiambiental no Congresso e defende legislação mais rígida \n\nwww.brasildefato.com.br/2024/09/13/t..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.brasildefato.com.br/2024/09/13/tarcisio-seguiu-bolsonaro-e-desmontou-politica-ambiental-diz-deputado-sobre-queimadas-em-sp",
+                    "title": "'Tarcísio seguiu Bolsonaro e desmontou política ambiental', diz deputado sobre queimadas em SP  | Brasil de Fato",
+                    "description": "Deputado federal Nilto Tatto (PT-SP), membro da Comissão de Meio Ambiente da Câmara dos Deputados e coordenador da Frente Parlamentar Ambiental",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreiamxmkqkyxgnsgz35gt3aeo25gkuc3yj44x5uflulmkhwjnmxp5du@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T09:14:08.075Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:tjlrd7ufsjzvds6a3qmmulmj/app.bsky.feed.post/3l3ymnbo3an2j",
+            "cid": "bafyreigp4mkwqrp5o5d67c5ufletecshyljd63synb3pc2oqb5sfwmk3sy",
+            "author": {
+                "did": "did:plc:tjlrd7ufsjzvds6a3qmmulmj",
+                "handle": "brennofenelon.bsky.social",
+                "displayName": "Brenno Fenelon do Carmo",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T04:46:42.603Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T23:41:48.124Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Na minha concepção o Judiciário independente com atribuições legais, atribuições constitucionais e atribuições institucionais, especialmente o STF, não pode se omitir diante de problemas complexos e estruturais: o Brasil está vivendo tragicamente uma verdadeira pandemia antiambiental e anticlimática"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T23:41:48.124Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kl6v4bnig66dmnvjunioz4hz/app.bsky.feed.post/3l3rd4fc2bg2h",
+            "cid": "bafyreihbn6abkw6u2kcvllgdod3o2vfk2776bqld2mk2bimglm6qio27z4",
+            "author": {
+                "did": "did:plc:kl6v4bnig66dmnvjunioz4hz",
+                "handle": "paulartista.bsky.social",
+                "displayName": "É uma bilada, cino! 🪡🧶",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kl6v4bnig66dmnvjunioz4hz/bafkreif5gpgdw5ymleuqh3lcld7sgoyzycmvfxtqr2g6imum7apo3a7rka@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:kl6v4bnig66dmnvjunioz4hz",
+                        "uri": "at://did:plc:kl6v4bnig66dmnvjunioz4hz/app.bsky.actor.profile/self",
+                        "cid": "bafyreid65npuigcpnbapua2evy7caf2dy7txlcywy7rufsskaurmwlfcxi",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-16T00:28:19.979Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T02:02:40.291Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreifbcajz6zhynltglfzotorsfcmbmxh7hq4mluubcphc2qp7bbgrga",
+                        "uri": "at://did:plc:xmhpcplzgwoswhfzlnezkn6q/app.bsky.feed.post/3l3rbhz6p7n2z"
+                    },
+                    "root": {
+                        "cid": "bafyreidzws2rb646hovvpzdacm7yy5sonpueqz56v5hw2bmtgdkydpdd2y",
+                        "uri": "at://did:plc:xmhpcplzgwoswhfzlnezkn6q/app.bsky.feed.post/3l3rbfldv5t2d"
+                    }
+                },
+                "text": "Ja perdeu na real ne\nTamo quase q completamente a merce desse povo pq n pode criticar, n pode manifestar, n pode propor pauta, n pode nada e ainda tem q engolir projeto antidemocratico, antitrabalhista e antiambiental dessa galerinha"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T02:02:40.291Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:h2tsorgucthlixkpiolp73qp/app.bsky.feed.post/3l34nsytqgc2p",
+            "cid": "bafyreiguqnfnrs6i6jxcslumo54jcnkrcpkgjvodhi5baodjowg6ud7hny",
+            "author": {
+                "did": "did:plc:h2tsorgucthlixkpiolp73qp",
+                "handle": "janivalverd1313.bsky.social",
+                "displayName": "Jani valverd🦋🫰🏻♥️⭐🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h2tsorgucthlixkpiolp73qp/bafkreictiszyazdt7z4epie6dfkt6gofhkyv24ezbu6xs4j3fwpvx7gk3m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-04T21:55:08.235Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-01T20:48:21.158Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Matei mesmo’: deputado mais antiambiental do Pará tenta reeleição com clichê bolsonarista",
+                            "aspectRatio": {
+                                "height": 1492,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreie2ekjdfrcrnoi7ez3lorz6x5czdwq43xdud37tr3xe3ale4tfen4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 586050
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Que horror gente, não é possível q o Pará vai reeleger isso?!\n\n\"Matei mesmo’: deputado mais antiambiental do Pará tenta reeleição com clichê bolsonarista.\""
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h2tsorgucthlixkpiolp73qp/bafkreie2ekjdfrcrnoi7ez3lorz6x5czdwq43xdud37tr3xe3ale4tfen4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:h2tsorgucthlixkpiolp73qp/bafkreie2ekjdfrcrnoi7ez3lorz6x5czdwq43xdud37tr3xe3ale4tfen4@jpeg",
+                        "alt": "Matei mesmo’: deputado mais antiambiental do Pará tenta reeleição com clichê bolsonarista",
+                        "aspectRatio": {
+                            "height": 1492,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 10,
+            "repostCount": 23,
+            "likeCount": 64,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-01T20:48:21.158Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6kdtzjk2zrsssesxazpqogow/app.bsky.feed.post/3ks37l7rftr2l",
+            "cid": "bafyreihojr7uvguvffhtbk43markx3s4z5hsfzzy4uwczzn72e235s6psq",
+            "author": {
+                "did": "did:plc:6kdtzjk2zrsssesxazpqogow",
+                "handle": "nanepsi.bsky.social",
+                "displayName": "NanePsi🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6kdtzjk2zrsssesxazpqogow/bafkreihklrh7e2tbe6jio4zvp2cggjarwomrbmp67uuuxnqtjgppuwkxku@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-12T12:28:30.849Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-09T18:14:03.950Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 573,
+                                "width": 603
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreih66ywziklrslxt7njelyev5uicaews6exmt756jhubq62br6ax2e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 313772
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Enquanto isso, o Congresso segue com a pauta antiambiental. É de doer!"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6kdtzjk2zrsssesxazpqogow/bafkreih66ywziklrslxt7njelyev5uicaews6exmt756jhubq62br6ax2e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:6kdtzjk2zrsssesxazpqogow/bafkreih66ywziklrslxt7njelyev5uicaews6exmt756jhubq62br6ax2e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 573,
+                            "width": 603
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-09T18:14:03.950Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.feed.post/3ks2tojra4b2o",
+            "cid": "bafyreih5o35uoxjpylqhbkc3nvcfj7sztblmkaq4cpr6k7akiikak2asra",
+            "author": {
+                "did": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                "handle": "mendesonca.bsky.social",
+                "displayName": "@Mendes",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreieyqd7txe6ql4oadzi57y7z6qcispfcd2nktxhfzvh2bdhmv4lx4u@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:rwsodmi4cfbiqsj3iumfsblt",
+                        "uri": "at://did:plc:rwsodmi4cfbiqsj3iumfsblt/app.bsky.actor.profile/self",
+                        "cid": "bafyreigfqgczbrb4kdxfksrf65bue75pat4vp3arqzvwxmfhg2dizctd64",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-10T22:39:36.049Z"
+                    }
+                ],
+                "createdAt": "2024-04-10T22:39:34.804Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-09T14:41:09.015Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Os 'Interésses' Superando as Tragédias! Senado Brasileiro Segue Pauta Antiambiental em Meio a Enchentes no Rio Grande do Sul             por...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreicwffv33dpl23zpgqasxmc7plkcxmtwkqeu5pn6vjpugccvbmfoeq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 315253
+                        },
+                        "title": "Os 'Interésses' Superando as Tragédias! Senado Brasileiro Segue Pauta Antiambiental em Meio a Enchentes",
+                        "uri": "https://frasistaneofito.blogspot.com/2024/05/os-interesses-superando-as-tragedias.html"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://frasistaneofito.blogspot.com/2024/05/os-interesses-superando-as-tragedias.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 152,
+                            "byteStart": 108
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Os 'Interésses' Superando as Tragédias! \nSenado Brasileiro Segue Pauta Antiambiental em Meio a Enchentes: frasistaneofito.blogspot.com/2024/05/os-i..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://frasistaneofito.blogspot.com/2024/05/os-interesses-superando-as-tragedias.html",
+                    "title": "Os 'Interésses' Superando as Tragédias! Senado Brasileiro Segue Pauta Antiambiental em Meio a Enchentes",
+                    "description": "Os 'Interésses' Superando as Tragédias! Senado Brasileiro Segue Pauta Antiambiental em Meio a Enchentes no Rio Grande do Sul             por...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwsodmi4cfbiqsj3iumfsblt/bafkreicwffv33dpl23zpgqasxmc7plkcxmtwkqeu5pn6vjpugccvbmfoeq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-09T14:41:09.015Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsdi46ercuhsrjzmmlbmwktb/app.bsky.feed.post/3ks2i5fjcu222",
+            "cid": "bafyreibzsixiptx2xo7tzfx6ptubjretbogyhooqp2bheropbt65skvy5e",
+            "author": {
+                "did": "did:plc:rsdi46ercuhsrjzmmlbmwktb",
+                "handle": "mundoverde.bsky.social",
+                "displayName": "Mundo Verde",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreifxx3vhghq7in7pzk4qfbxxib3u44h2ol4psur2hlxh7gtidoyoom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:26:33.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-09T11:14:48.651Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Políticos gaúchos são autores de três projetos do chamado \"pacote da destruição\" ambiental. Comissão do Senado planeja votar  proposta que prevê redução de reserva de proteção da Amazônia Legal.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiggnh7tfmcsa5b2l6l6ezmjgrspztkxmiw5n45k3qckbrj3mvbmeq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 567786
+                        },
+                        "title": "Senado segue pauta antiambiental em meio a enchentes no RS",
+                        "uri": "https://www.dw.com/pt-br/congresso-segue-pauta-antiambiental-em-meio-a-enchentes-no-rs/a-69027028"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.dw.com/pt-br/congresso-segue-pauta-antiambiental-em-meio-a-enchentes-no-rs/a-69027028"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 268
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Senado segue pauta antiambiental em meio a enchentes no RS\n\nPolíticos gaúchos são autores de três projetos do chamado \"pacote da destruição\" ambiental. Comissão do Senado planeja votar proposta que prevê redução de reserva de proteção da Amazônia Legal.\n\nwww.dw.com/pt-br/congre..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.dw.com/pt-br/congresso-segue-pauta-antiambiental-em-meio-a-enchentes-no-rs/a-69027028",
+                    "title": "Senado segue pauta antiambiental em meio a enchentes no RS",
+                    "description": "Políticos gaúchos são autores de três projetos do chamado \"pacote da destruição\" ambiental. Comissão do Senado planeja votar  proposta que prevê redução de reserva de proteção da Amazônia Legal.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreiggnh7tfmcsa5b2l6l6ezmjgrspztkxmiw5n45k3qckbrj3mvbmeq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-09T11:14:45.260Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrnecsrga2l",
+            "cid": "bafyreie6eam7itidddwjuncnc7dnjekpixsk526omeu4ardl4x4nu54pbi",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:54:07.204Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif4qctpb5md77o366vnyj2cq5spv7pt5zt277zght44drjcmnb5ly",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrndbftci2u"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "Enquanto isso, quem mais paga o preço da tragédia é a maioria da população, principalmente a mais vulnerável graças a essa política de privatização dos lucros e socialização dos prejuízos. Uma política antiambiental de morte (s), contra a VIDA. Ecocida!"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:54:07.204Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmsgv32o2p",
+            "cid": "bafyreiev2ghhdbxckea5uqvk4loufw4cwtu7beuurf4p6qrt73inrvgqtq",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:44:07.456Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreigtogg3fbsodmq5jhg2jcgg4u4keu56aypehfkxqtovrxgynhwgza",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmqyata62r"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "Para a política antiambiental do governo Leite, como de todos os governos neoliberais, o meio ambiente é visto como entrave, um problema, precisa ser superado qualquer obstáculo para o “desenvolvimento”, para o chamado “crescimento econômico”, “progresso”,"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:44:07.456Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmlewtwb2g",
+            "cid": "bafyreicmu2pp6itz3mws3hkayewjsdcmnh6fjgpda3x2xekmeeaz4ujd5q",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:40:10.490Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiem3tsnolfi52u4wupdw25jvemgs524bfibpsantokaycjcn6za3m",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmivmbku2q"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "Não é mera coincidência,pq quando a pauta são os retrocessos ambientais,direita e extrema direita estão sempre unidas.Uma política antiambiental de morte (s),ecocida, contra a Vida:nos ecossistemas,nas bacias hidrográficas e dos rios, \ndos dois biomas do Rio Grande do Sul: Mata Atlântica e Pampa."
+            },
+            "replyCount": 2,
+            "repostCount": 8,
+            "likeCount": 34,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:40:10.490Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmivmbku2q",
+            "cid": "bafyreiem3tsnolfi52u4wupdw25jvemgs524bfibpsantokaycjcn6za3m",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:38:47.326Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicouftpfmrv2ca3bw5owwi7262kji6qn5wm7ltl2gc3quxicbrqm4",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmhyzm2q2x"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "É uma política antiambiental que não perde em nada para aquela adotada pelo ex-ministro Ricardo Salles do governo Bolsonaro (PL), com suas boiadas de ataques sistemáticos ao meio ambiente."
+            },
+            "replyCount": 1,
+            "repostCount": 7,
+            "likeCount": 26,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:38:47.326Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmdi2wki2y",
+            "cid": "bafyreifb5ztmvhqzeq2cmflaoku2qsu7wgvrconxmns4wemrxddpvta7qu",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:35:45.338Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    },
+                    "root": {
+                        "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+                        "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o"
+                    }
+                },
+                "text": "A política do governo Eduardo Leite (PSDB/MDB) no Rio Grande do Sul é antiambiental porque segue o receituário neoliberal do governo Sartori (MDB), de Estado Mínimo, com a crença de que o “Deus Mercado resolve tudo”."
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 31,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-05T22:35:45.338Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sztqy26j6k6gplgpzssj3etl/app.bsky.feed.post/3krrmcavo2a2o",
+            "cid": "bafyreihvkjolzoghwzhiqiq7yr22azypfvctrlkzkuec4e2wyfydmyhb7i",
+            "author": {
+                "did": "did:plc:sztqy26j6k6gplgpzssj3etl",
+                "handle": "amandinha1.bsky.social",
+                "displayName": "𝐀𝐌𝐀𝐍𝐃𝐈𝐍𝐇𝐀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreihoyv7qyhzt2syb7epezyi5oiyxm3xp3zf6tjmxuymd765juzjl7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T17:31:06.593Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-05T22:35:04.267Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 421,
+                                "width": 729
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiho4sw3sghd4t5tdvrp2qsewjprlk4sqi7vvhb6s4bufg4lsdgc6e"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 214095
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚨GRAVÍSSIMO: A política antiambiental do governo Leite e as enchentes no Rio Grande do Sul privatização dos lucros, socialização dos prejuízos. É uma política que não perde em nada para aquela adotada pelo ex-ministro Ricardo Salles do governo Bolsonaro.\n\nME ACOMPANHEM PRA MAIS UM 🧶👇🏻"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreiho4sw3sghd4t5tdvrp2qsewjprlk4sqi7vvhb6s4bufg4lsdgc6e@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sztqy26j6k6gplgpzssj3etl/bafkreiho4sw3sghd4t5tdvrp2qsewjprlk4sqi7vvhb6s4bufg4lsdgc6e@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 421,
+                            "width": 729
+                        }
+                    }
+                ]
+            },
+            "replyCount": 5,
+            "repostCount": 83,
+            "likeCount": 219,
+            "quoteCount": 2,
+            "indexedAt": "2024-05-05T22:35:04.267Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:5flbgzjflbjp4pii5x2eryaf/app.bsky.feed.post/3kqxk7gg7xv27",
+            "cid": "bafyreifzmis2flt4qaqtujsj7sqpj7hicxu4cprvmw4ehaarztn25mxwyq",
+            "author": {
+                "did": "did:plc:5flbgzjflbjp4pii5x2eryaf",
+                "handle": "congressoemfoco.com.br",
+                "displayName": "Congresso em Foco",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5flbgzjflbjp4pii5x2eryaf/bafkreietqse7uim2irlt4nodsptbnhtozy73soe2zipje3feahrot7zi7q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-18T20:48:03.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-25T13:48:28.785Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 476,
+                                "width": 774
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieyqqfj7nhvtimrxm5ot3l5btasf3yakonfss6x4bbk7mwnxc3wua"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 420503
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://congressoemfoco.uol.com.br/area/congresso-nacional/a-pauta-antiambiental-no-congresso-futuro-em-xeque/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 202,
+                            "byteStart": 160
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "A pauta antiambiental no Congresso: futuro em xeque | Desafios ambientais no Congresso: PLs controversos ameaçam biomas e equilíbrio ambiental. Acompanhe! \ncongressoemfoco.uol.com.br/area/congres..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5flbgzjflbjp4pii5x2eryaf/bafkreieyqqfj7nhvtimrxm5ot3l5btasf3yakonfss6x4bbk7mwnxc3wua@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:5flbgzjflbjp4pii5x2eryaf/bafkreieyqqfj7nhvtimrxm5ot3l5btasf3yakonfss6x4bbk7mwnxc3wua@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 476,
+                            "width": 774
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-25T13:48:28.785Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:rsdi46ercuhsrjzmmlbmwktb/app.bsky.feed.post/3kqdo6kdeu32m",
+            "cid": "bafyreiasfb4cejuhklq2i2wf7kwx65rk233jcauciwitirnem4usr2zofe",
+            "author": {
+                "did": "did:plc:rsdi46ercuhsrjzmmlbmwktb",
+                "handle": "mundoverde.bsky.social",
+                "displayName": "Mundo Verde",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rsdi46ercuhsrjzmmlbmwktb/bafkreifxx3vhghq7in7pzk4qfbxxib3u44h2ol4psur2hlxh7gtidoyoom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-14T17:26:33.143Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-17T16:06:24.000Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "PL3334não"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 45,
+                            "byteStart": 34
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SalveoCódigoFlorestal"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 260
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CCJ do Senado pode aprovar hoje o #PL3334não, que abre para desmatamento na Amazônia 8.5 milhões de hectares, área similar a dois estados do RJ. \nSim, é o Congresso Nacional mais antiambiental da história, com ataques múltiplos da Câmara e do Senado.\n\n#SalveoCódigoFlorestal"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-17T16:06:19.917Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3keae753xjs2m",
+            "cid": "bafyreic64w4y5motvhy6ma7jzkhwteqxeopj3zbjt6anygnsblukmdsm74",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-11-15T15:27:22.361Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desmatamento"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 92,
+                            "byteStart": 79
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "agronegócio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 120,
+                            "byteStart": 107
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2023/11/14/agro-suicidio-agronegocio-antiambiental-ameaca-a-si-mesmo/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 167
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Agro-suicídio: Agronegócio antiambiental ameaça a si mesmo\n\nAgro-suicídio: #desmatamento põe em risco #agronegócio e segurança alimentar no Brasil e no mundo\n\nwww.ecodebate.com.br/2023/11/14/a..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-11-15T15:27:22.361Z",
+            "labels": []
+        }
+    ]
+}

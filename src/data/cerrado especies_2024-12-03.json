@@ -1,0 +1,3194 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:crlca4o4pkpn3zvechvd6uof/app.bsky.feed.post/3lb56riigfc2b",
+            "cid": "bafyreigg6ehuhryccwt7yyhbqlrbscebucdrttwcmox2v3rk4a4tpia3qq",
+            "author": {
+                "did": "did:plc:crlca4o4pkpn3zvechvd6uof",
+                "handle": "ellenlacerda.bsky.social",
+                "displayName": "Ellen Lacerda 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:crlca4o4pkpn3zvechvd6uof/bafkreifoq6qslsybe2i5bm7wlakzq3jna3d4k3khsgrg7mxhwuuvrbz4ou@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T02:29:50.034Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-17T10:22:54.813Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 960
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreifksbtqkdjhb4ksdxcv27m46wzsplrrwfgpqker4yjjvetlwllrz4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 720551
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🍃Sua vegetação é composta por espécies do Cerrado e por uma Mata Ciliar 22 mil metros quadrados, formada pelo represamento de três nascentes. O córrego do Nado é um afluente do córrego Vilarinho, que deságua no ribeirão do Onça, unindo-se ao rio das Velhas, integrante da bacia do rio São Francisco."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:crlca4o4pkpn3zvechvd6uof/bafkreifksbtqkdjhb4ksdxcv27m46wzsplrrwfgpqker4yjjvetlwllrz4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:crlca4o4pkpn3zvechvd6uof/bafkreifksbtqkdjhb4ksdxcv27m46wzsplrrwfgpqker4yjjvetlwllrz4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 960
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-17T10:23:02.647Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g6xwggvjeqqg44j7fh36nl5w/app.bsky.feed.post/3laqsozy45s2t",
+            "cid": "bafyreibqmlycc7lh2qnskdj7zulieesp2lffgdhoq3e37y4wgt5mcqg734",
+            "author": {
+                "did": "did:plc:g6xwggvjeqqg44j7fh36nl5w",
+                "handle": "realseguroviagem.bsky.social",
+                "displayName": "Real Seguro Viagem",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g6xwggvjeqqg44j7fh36nl5w/bafkreifzidcfjiejdqslpb2ivxa733l4bneoin6pjq7xvrkkjpnagat6sm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T13:25:10.998Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-12T12:14:50.741Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 200,
+                            "byteStart": 185
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreidk3v4zuwi4twjgtpdg33bpfhwmfkci2bsv3kg6zlv55iqqnssaou",
+                        "uri": "at://did:plc:g6xwggvjeqqg44j7fh36nl5w/app.bsky.feed.post/3laqsozy36k2t"
+                    },
+                    "root": {
+                        "cid": "bafyreiau5d7qkiuaslh7ytsm4hiic7d54c4kjz2ipiqp34jxygwfd36v3m",
+                        "uri": "at://did:plc:g6xwggvjeqqg44j7fh36nl5w/app.bsky.feed.post/3laqsozxtek2t"
+                    }
+                },
+                "text": "A vegetação típica do Jalapão é o cerrado, o segundo maior bioma do Brasil. Além de sua flora rica, o local abriga espécies ameaçadas como o lobo-guará e a onça-pintada. 🐆 #Biodiversidade"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-12T12:14:54.282Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aubdtjnudu2vzqfmri6q64bo/app.bsky.feed.post/3laezhvzul62h",
+            "cid": "bafyreiev5abqdrf43t73puecildyehbvuuphsbg6sdqq3hblpp3vw3a5lm",
+            "author": {
+                "did": "did:plc:aubdtjnudu2vzqfmri6q64bo",
+                "handle": "jardimbotanicorj.bsky.social",
+                "displayName": "Jardim Botânico do RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreihkijccud2k6nggzscaunyis4mxnvzbe4lbjparkd5hknho6m6vma@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:58:05.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-07T19:44:10.375Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1800,
+                                "width": 1440
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 416967
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.gov.br/jbrj/pt-br/assuntos/noticias/jardim-botanico-do-rio-promove-semana-de-atividades-sobre-o-pantanal-a-partir-desta-sexta-8-11"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 251,
+                            "byteStart": 225
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nesta sexta-feira, o JBRJ realiza a visita guiada à Trilha Pantanal. Durante o passeio, poderão ser observadas 15 espécies do bioma, como pau-formiga (Triplaris americana), ipê-do-cerrado (Tabebuia aurea), dentre outras. www.gov.br/jbrj/pt-br/a..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreibrutrywyqo7kprtsu76obuc6bkziswfsby2lcm52ywrofysk5zbm@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1800,
+                            "width": 1440
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-07T19:44:12.595Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hl5qwbghniwqup3j6r7xwekz/app.bsky.feed.post/3l7susylked2m",
+            "cid": "bafyreifvgf5cnsglfnvmm4nbnqnxce2svoxme32lyrxzj645zlaahxnxka",
+            "author": {
+                "did": "did:plc:hl5qwbghniwqup3j6r7xwekz",
+                "handle": "correiocb.bsky.social",
+                "displayName": "Correio Braziliense",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreibrp3xsyrthgsgjfgrrttsuylupwj2seb5j6a67b7vcdbyb6gpcye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T15:44:39.604Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-31T14:32:56.990Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Espaço cultiva as espécies nativas do segundo maior bioma do país e preserva a memória da estudante Louise Ribeiro, vítima de feminicídio na UnB",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigxkjeifbfjwpvhbiumjnzjtwjfk77kxipsn2vxwvvddnl64yizym"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 483123
+                        },
+                        "title": "Jardim da UnB celebra o cerrado e homenageia estudante assassinada",
+                        "uri": "https://www.correiobraziliense.com.br/euestudante/ensino-superior/2023/02/5072862-jardim-da-unb-une-cerrado-a-conscientizacao-sobre-violencia-contra-a-mulher.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "📙Jardim da UnB celebra o cerrado e homenageia estudante assassinada\n\nEspaço cultiva as espécies nativas do segundo maior bioma do país e preserva a memória da estudante Louise Ribeiro, vítima de feminicídio na UnB."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.correiobraziliense.com.br/euestudante/ensino-superior/2023/02/5072862-jardim-da-unb-une-cerrado-a-conscientizacao-sobre-violencia-contra-a-mulher.html",
+                    "title": "Jardim da UnB celebra o cerrado e homenageia estudante assassinada",
+                    "description": "Espaço cultiva as espécies nativas do segundo maior bioma do país e preserva a memória da estudante Louise Ribeiro, vítima de feminicídio na UnB",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hl5qwbghniwqup3j6r7xwekz/bafkreigxkjeifbfjwpvhbiumjnzjtwjfk77kxipsn2vxwvvddnl64yizym@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-31T14:32:56.990Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:iidqerq2thssfrp3yo67ur3q/app.bsky.feed.post/3l7qnzy2a5x2z",
+            "cid": "bafyreidouwtenjadjreiq7i232lr7blugt66fzxspuklcxaxhie424rqju",
+            "author": {
+                "did": "did:plc:iidqerq2thssfrp3yo67ur3q",
+                "handle": "yngridrs.bsky.social",
+                "displayName": "goticadampb",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iidqerq2thssfrp3yo67ur3q/bafkreifcu4vceobttx6emyflp3fm6olzoatvbwozkiwfmaehiekwz2s65q@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:iidqerq2thssfrp3yo67ur3q",
+                        "uri": "at://did:plc:iidqerq2thssfrp3yo67ur3q/app.bsky.actor.profile/self",
+                        "cid": "bafyreigvggmroxlw7njpvbwqqfbnyeml3tqnlujc4lvk6skqzvxyku564a",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-09-19T18:06:12.431Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-30T17:26:17.123Z",
+                "langs": [
+                    "en",
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreih4sdymyldytgwju3hkd3a7vmmtsnqzwjzzcb5ilqymffyvjdk6bm",
+                        "uri": "at://did:plc:gz7ggxrhgolxwwayppsyt7wd/app.bsky.feed.post/3l7qn5apx7z23"
+                    },
+                    "root": {
+                        "cid": "bafyreiesrxdrvgcqdqqxxnx22esym53a76lmuu6czdpce3ali72mkqmbkm",
+                        "uri": "at://did:plc:iidqerq2thssfrp3yo67ur3q/app.bsky.feed.post/3l7qmvk4ltu2t"
+                    }
+                },
+                "text": "Nossa ia ser incrível ter essa pagina aqui, quase ngm fala de espécies do cerrado, inclusive eu queria umas infos sobre e é super difícil achar"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-30T17:26:17.123Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bjppmtx7wml63oq56holmsu2/app.bsky.feed.post/3l6kz6ea4pp2z",
+            "cid": "bafyreicqozd7ixpvryvp73fjgid7yiimp4hrteitpxyvvh4hmjej6ph724",
+            "author": {
+                "did": "did:plc:bjppmtx7wml63oq56holmsu2",
+                "handle": "olharanimal.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigifwyewahqxbghtzkfkcrsflmqfe2bcph54vdgdpkhmb4unla3ru@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T15:59:46.705Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T18:05:08.530Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Uma fazenda no oeste da Bahia foi notificada pelas autoridades ambientais pela terceira vez em setembro por não proteger adequadamente seus canais de irrigação e colocar em risco a fauna do entorno do...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigfxns4eymwgohijrfx3l2r2zvyepzvcynfrtqpn4odk6q5mksjhq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 399883
+                        },
+                        "title": "‘Cemitério de animais’ é achado em fornecedor da Philip Morris e fábricas da moda - ONG Olhar Animal",
+                        "uri": "https://olharanimal.org/cemiterio-de-animais-e-achado-em-fornecedor-da-philip-morris-e-fabricas-da-moda/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://olharanimal.org/cemiterio-de-animais-e-achado-em-fornecedor-da-philip-morris-e-fabricas-da-moda/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 302,
+                            "byteStart": 271
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uma fazenda no oeste da Bahia foi notificada pelas autoridades ambientais pela terceira vez em setembro por não proteger adequadamente seus canais de irrigação e colocar em risco a fauna do entorno do Parque Grande Sertão Veredas, berçário de espécies do Cerrado.\nolharanimal.org/cemiterio-de..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://olharanimal.org/cemiterio-de-animais-e-achado-em-fornecedor-da-philip-morris-e-fabricas-da-moda/",
+                    "title": "‘Cemitério de animais’ é achado em fornecedor da Philip Morris e fábricas da moda - ONG Olhar Animal",
+                    "description": "Uma fazenda no oeste da Bahia foi notificada pelas autoridades ambientais pela terceira vez em setembro por não proteger adequadamente seus canais de irrigação e colocar em risco a fauna do entorno do...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjppmtx7wml63oq56holmsu2/bafkreigfxns4eymwgohijrfx3l2r2zvyepzvcynfrtqpn4odk6q5mksjhq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T18:04:26.513Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gjycvoidec7c4jfrrvhlpwho/app.bsky.feed.post/3l6kilh34cl2v",
+            "cid": "bafyreigz5ldayylwb77ry7g2sbns5sfjnnwmpts3a7kicrhum3fij57b7i",
+            "author": {
+                "did": "did:plc:gjycvoidec7c4jfrrvhlpwho",
+                "handle": "xicones.galo.cam",
+                "displayName": "Tico",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gjycvoidec7c4jfrrvhlpwho/bafkreig6cfa7jbht3kf3xmsdzhqh2j5zxe5oyiuihzozzpynvcvts7uxq4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:gjycvoidec7c4jfrrvhlpwho",
+                        "uri": "at://did:plc:gjycvoidec7c4jfrrvhlpwho/app.bsky.actor.profile/self",
+                        "cid": "bafyreieu5m4dsv47ogxedvwecq72ws6xenpcqzkffjca3jbm7zp7ubwnaa",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-05-01T20:21:45.037Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-15T13:07:30.724Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiaqgkeh3e3qfoz25idd4cvwrubnrwrqy7mmgvmamielac4r6vplr4",
+                        "uri": "at://did:plc:bqv23l7ai33xfr2phxq63old/app.bsky.feed.post/3l6kifxrxxy2o"
+                    },
+                    "root": {
+                        "cid": "bafyreiapn743shgja5ol6d4vxivztarbgo2gqlt4dgdxyprr6kq5i5bsla",
+                        "uri": "at://did:plc:bqv23l7ai33xfr2phxq63old/app.bsky.feed.post/3l6khqvlced22"
+                    }
+                },
+                "text": "MT tem 13 espécies desse gênero registradas, com 7 ocorrendo no Cerrado\nNossa diversidade é incrível"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-15T13:07:30.724Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:dh26y4n3ehkvhcnelger6mht/app.bsky.feed.post/3l6hqwi4pgm2v",
+            "cid": "bafyreid5pddtfk54kskqrc6xqxs2hhmz4qb5epgjuq6h3bzvcke2x2kvyu",
+            "author": {
+                "did": "did:plc:dh26y4n3ehkvhcnelger6mht",
+                "handle": "vepo.dev",
+                "displayName": "Victor Osório ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:dh26y4n3ehkvhcnelger6mht/bafkreiaszcqhhm3viyjjmugykeunfafu57efwhhmro4s42lcpmqfdqh3h4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-02-06T16:59:33.391Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T10:58:51.193Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 652,
+                                "width": 1086
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidnluibomrdczdhs36adogqsgvbgcl76lxyxsgsgu2wxsm6zmdqfe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 474571
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid7sg6afupkqvscj676tihns7rnj7ub67xijxvpdrlcbybxqqo4cm",
+                        "uri": "at://did:plc:dh26y4n3ehkvhcnelger6mht/app.bsky.feed.post/3l6hqnrmjn42y"
+                    },
+                    "root": {
+                        "cid": "bafyreid7sg6afupkqvscj676tihns7rnj7ub67xijxvpdrlcbybxqqo4cm",
+                        "uri": "at://did:plc:dh26y4n3ehkvhcnelger6mht/app.bsky.feed.post/3l6hqnrmjn42y"
+                    }
+                },
+                "text": "Ou você precisa selecionar espécies de árvores que evoluíram para serem as únicas das redondezas. Vá para árvores do cerrado, alias o clima do interior de São Paulo é parecido com cerrado hoje.\n\nO certo seriam ruas assim 👇"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dh26y4n3ehkvhcnelger6mht/bafkreidnluibomrdczdhs36adogqsgvbgcl76lxyxsgsgu2wxsm6zmdqfe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dh26y4n3ehkvhcnelger6mht/bafkreidnluibomrdczdhs36adogqsgvbgcl76lxyxsgsgu2wxsm6zmdqfe@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 652,
+                            "width": 1086
+                        }
+                    }
+                ]
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T10:58:51.193Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jho6cllj66gmysmc35wzbmx4/app.bsky.feed.post/3l6fvwm4j3f2q",
+            "cid": "bafyreifqhjwvky2kznqd3h53a7ledcm5kxawnim356i26co7yj3rdaxvcq",
+            "author": {
+                "did": "did:plc:jho6cllj66gmysmc35wzbmx4",
+                "handle": "aracnocerrado.bsky.social",
+                "displayName": "Aracno Cerrado ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreicluwkmgkfapzc7xxfiybipyzcl6dys26ittzna6gud7hhohhlddy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:53:53.890Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T17:22:58.524Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1200,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiej72mn6ai54iqojxkbu3yamy5bojp6mmrkygytri7wleo4f5q3hu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 402558
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1200,
+                                "width": 1200
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidjmwxxsurm74vuvceragus24unvthtem5skrw4odviqomwxbhfbq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 512360
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DCBR"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 227,
+                            "byteStart": 222
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "trupenaturalista"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 245,
+                            "byteStart": 228
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "arachtober"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 257,
+                            "byteStart": 246
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Que as aranhas são muito diversas, nós sabemos. Além do que, são mais de 52.000 espécies distribuídas pelo mundo todo.\nDeixo aqui uma pequena porcentagem das espécies que eu encontrei e registrei no bioma cerrado.\n\n#DCBR #trupenaturalista #arachtober"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreiej72mn6ai54iqojxkbu3yamy5bojp6mmrkygytri7wleo4f5q3hu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreiej72mn6ai54iqojxkbu3yamy5bojp6mmrkygytri7wleo4f5q3hu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1200,
+                            "width": 1200
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreidjmwxxsurm74vuvceragus24unvthtem5skrw4odviqomwxbhfbq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreidjmwxxsurm74vuvceragus24unvthtem5skrw4odviqomwxbhfbq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1200,
+                            "width": 1200
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 10,
+            "likeCount": 39,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T17:22:58.524Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7c4wycyn2cklrdipx6kjdltn/app.bsky.feed.post/3l6f7w4fydz2w",
+            "cid": "bafyreiec2icqmmiyslanm4rfvcxqhusmj7y7v6fq3n5db4grs5ggyljdgi",
+            "author": {
+                "did": "did:plc:7c4wycyn2cklrdipx6kjdltn",
+                "handle": "robsongfreire.bsky.social",
+                "displayName": "☭ Robson Freire ☭ ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7c4wycyn2cklrdipx6kjdltn/bafkreic4fa6mi4mkyyf4ihhtj4rnt7vcpm72lqxe5p76sektziwsm2rwl4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-29T09:38:30.422Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-13T10:49:06.407Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreifhyuqulnvsvz4hys4zz4oqlnxjdlkg5gzr7c6nifmzyi4yq2xfbe",
+                        "uri": "at://did:plc:7c4wycyn2cklrdipx6kjdltn/app.bsky.feed.post/3l6f7vrtxij2c"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "José Carlos Sousa Silva alertou sobre a necessidade de saber escolher quais espécies típicas do Cerrado devem ser utilizadas para a recuperação do bioma e ressaltou ser importante que as pesquisas tenham continuidade"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:7c4wycyn2cklrdipx6kjdltn/app.bsky.feed.post/3l6f7vrtxij2c",
+                    "cid": "bafyreifhyuqulnvsvz4hys4zz4oqlnxjdlkg5gzr7c6nifmzyi4yq2xfbe",
+                    "author": {
+                        "did": "did:plc:7c4wycyn2cklrdipx6kjdltn",
+                        "handle": "robsongfreire.bsky.social",
+                        "displayName": "☭ Robson Freire ☭ ",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7c4wycyn2cklrdipx6kjdltn/bafkreic4fa6mi4mkyyf4ihhtj4rnt7vcpm72lqxe5p76sektziwsm2rwl4@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-04-29T09:38:30.422Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-10-13T10:48:55.325Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "José Carlos Sousa Silva alertou sobre a necessidade de saber escolher quais espécies típicas do Cerrado devem ser utilizadas para a recuperação do bioma e ressaltou ser importante que as pesquisas ten...",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreidlmndwgkrszvl5sjaq7p3m2d36zro2qzeih2gzroggwrdhy6nvsi"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 193232
+                                },
+                                "title": "Embrapa Cerrados testa nova forma de recuperação do bioma",
+                                "uri": "https://www.correiobraziliense.com.br/economia/2024/10/6963027-embrapa-cerrados-testa-nova-forma-de-recuperacao-do-bioma.html"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://www.correiobraziliense.com.br/economia/2024/10/6963027-embrapa-cerrados-testa-nova-forma-de-recuperacao-do-bioma.html"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 106,
+                                    "byteStart": 61
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Embrapa Cerrados testa nova forma de recuperação do bioma\n\nwww.correiobraziliense.com.br/economia/202..."
+                    },
+                    "labels": [],
+                    "likeCount": 4,
+                    "replyCount": 0,
+                    "repostCount": 1,
+                    "quoteCount": 2,
+                    "indexedAt": "2024-10-13T10:48:55.325Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://www.correiobraziliense.com.br/economia/2024/10/6963027-embrapa-cerrados-testa-nova-forma-de-recuperacao-do-bioma.html",
+                                "title": "Embrapa Cerrados testa nova forma de recuperação do bioma",
+                                "description": "José Carlos Sousa Silva alertou sobre a necessidade de saber escolher quais espécies típicas do Cerrado devem ser utilizadas para a recuperação do bioma e ressaltou ser importante que as pesquisas ten...",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7c4wycyn2cklrdipx6kjdltn/bafkreidlmndwgkrszvl5sjaq7p3m2d36zro2qzeih2gzroggwrdhy6nvsi@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 18,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-13T10:49:06.407Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jem7ddlrlbzwlw2lmnup6etj/app.bsky.feed.post/3l64kkfhsan2a",
+            "cid": "bafyreigswgtogneq7l4qgtxewzoxaawlljqd32oa7svfk4ex6d6kqsdwkm",
+            "author": {
+                "did": "did:plc:jem7ddlrlbzwlw2lmnup6etj",
+                "handle": "renildoborges.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreifujajvcdhnmbxwdnzw2luzviy2fuodljhwzib2xf4yc5xu65ahcm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T19:15:34.974Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T00:05:26.222Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Fiscalização ambiental identificou ossadas de animais selvagens ao longo dos canais de irrigação da Fazenda Karitel, do grupo Santa Colomba; empresa é fornecedora de tabaco para Philip Morris e algodã...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibxroxlp5km4g35htthdnuuupkddmpefz3vv3hvuutqmeirldpioy"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 445690
+                        },
+                        "title": "‘Cemitério de animais’ é achado em fornecedor da Philip Morris e fábricas da moda",
+                        "uri": "https://reporterbrasil.org.br/2024/10/cemiterio-de-animais-e-achado-em-fornecedor-da-philip-morris-e-fabricas-da-moda/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "UMA FAZENDA no oeste da Bahia foi notificada pelas autoridades ambientais pela terceira vez em setembro por não proteger adequadamente seus canais de irrigação e colocar em risco a fauna do entorno do Parque Grande Sertão Veredas, berçário de espécies do Cerrado."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://reporterbrasil.org.br/2024/10/cemiterio-de-animais-e-achado-em-fornecedor-da-philip-morris-e-fabricas-da-moda/",
+                    "title": "‘Cemitério de animais’ é achado em fornecedor da Philip Morris e fábricas da moda",
+                    "description": "Fiscalização ambiental identificou ossadas de animais selvagens ao longo dos canais de irrigação da Fazenda Karitel, do grupo Santa Colomba; empresa é fornecedora de tabaco para Philip Morris e algodã...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jem7ddlrlbzwlw2lmnup6etj/bafkreibxroxlp5km4g35htthdnuuupkddmpefz3vv3hvuutqmeirldpioy@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 5,
+            "likeCount": 17,
+            "quoteCount": 2,
+            "indexedAt": "2024-10-10T00:05:26.222Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:imzntiynx3up2fqyfxc6oifu/app.bsky.feed.post/3l5xhbjg2uc2l",
+            "cid": "bafyreifd5x6lhnpox6jkkhcl2w256pyzmilseqtkko6knzebfjtsovpz64",
+            "author": {
+                "did": "did:plc:imzntiynx3up2fqyfxc6oifu",
+                "handle": "cesarsandri.bsky.social",
+                "displayName": "César Sandri ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:imzntiynx3up2fqyfxc6oifu/bafkreig5ntumu5dttifahcnldvnq7cq6pkcqzy4og2xzkpa4ohaqejx3ly@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T13:53:26.404Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T23:28:06.809Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreia4mjnr2wh6udrbdqspr7u3qb27nea2hznzvxsowq452c3viqssje",
+                        "uri": "at://did:plc:6iwfq5klg5sc2hywfaimfk3r/app.bsky.feed.post/3l5xd7vgdar2b"
+                    },
+                    "root": {
+                        "cid": "bafyreia4mjnr2wh6udrbdqspr7u3qb27nea2hznzvxsowq452c3viqssje",
+                        "uri": "at://did:plc:6iwfq5klg5sc2hywfaimfk3r/app.bsky.feed.post/3l5xd7vgdar2b"
+                    }
+                },
+                "text": "Eu consideraria a Floresta como meio de produção de alimentos, também.\nNós somos da Baruzeiro, uma pequena agroindústria que processa frutos do baru e do jatoba, espécies florestais do cerrado que Nós reflorestamos em nossas áreas. \nVenha nos conhecer no Instagram \n@Baruzeiro_oficial"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T23:23:29.418Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hjgdnl42nxn7n5nydbtjs36m/app.bsky.feed.post/3l5fdhv4jl42q",
+            "cid": "bafyreiatoq5ernbsg7sa27eembixhtdhvtdkom4cotr756jwvwpn3vu5ju",
+            "author": {
+                "did": "did:plc:hjgdnl42nxn7n5nydbtjs36m",
+                "handle": "unboficial.bsky.social",
+                "displayName": "UnB 💚💙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hjgdnl42nxn7n5nydbtjs36m/bafkreifqkh4372jhucciwyo7lzyckxza3d4tqset3ym32zmhowccsbpogy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:34:33.228Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T18:27:38.746Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiasd43xuomzy6h6ofjowfzpegpsk3unsoza6d2tbyiwnczdulm7fa",
+                        "uri": "at://did:plc:hjgdnl42nxn7n5nydbtjs36m/app.bsky.feed.post/3l5fdgzppwq2p"
+                    },
+                    "root": {
+                        "cid": "bafyreiasd43xuomzy6h6ofjowfzpegpsk3unsoza6d2tbyiwnczdulm7fa",
+                        "uri": "at://did:plc:hjgdnl42nxn7n5nydbtjs36m/app.bsky.feed.post/3l5fdgzppwq2p"
+                    }
+                },
+                "text": "📈 Os pesquisadores analisaram 14 anos de dados de monitoramento mensal, usando uma abordagem sofisticada de modelagem para entender como o clima e os regimes de queima afetam as taxas vitais (como sobrevivência, crescimento e reprodução) de três espécies de lagartos do Cerrado."
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T18:27:32.714Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hjgdnl42nxn7n5nydbtjs36m/app.bsky.feed.post/3l5fdgzppwq2p",
+            "cid": "bafyreiasd43xuomzy6h6ofjowfzpegpsk3unsoza6d2tbyiwnczdulm7fa",
+            "author": {
+                "did": "did:plc:hjgdnl42nxn7n5nydbtjs36m",
+                "handle": "unboficial.bsky.social",
+                "displayName": "UnB 💚💙",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hjgdnl42nxn7n5nydbtjs36m/bafkreifqkh4372jhucciwyo7lzyckxza3d4tqset3ym32zmhowccsbpogy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:34:33.228Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T18:27:09.770Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 688,
+                                "width": 691
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibddfc7nmuwtxfg3eo2afunf37bc72zia6ynh3xuz4olfpj6xy33m"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 449913
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "🦎 Um novo estudo realizado por pesquisadores do Instituto de Ciências Biológicas da Universidade de Brasília, da UF Tocantins, e da Universidade de Oxford, na Inglaterra, mostra como três espécies de lagartos do Cerrado estão reagindo a variações de regimes de queima e do clima. Segue o fio 🧵"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hjgdnl42nxn7n5nydbtjs36m/bafkreibddfc7nmuwtxfg3eo2afunf37bc72zia6ynh3xuz4olfpj6xy33m@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hjgdnl42nxn7n5nydbtjs36m/bafkreibddfc7nmuwtxfg3eo2afunf37bc72zia6ynh3xuz4olfpj6xy33m@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 688,
+                            "width": 691
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T18:27:04.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5eysmj5tl2r",
+            "cid": "bafyreieb4oyzyqlft2rqe7g7nacldagskbja7fd4f6eqfroevnr3cjezcu",
+            "author": {
+                "did": "did:plc:6okfkqs5whr275g4aahfnboz",
+                "handle": "apublica.org",
+                "displayName": "Agência Pública",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6okfkqs5whr275g4aahfnboz/bafkreig7xddyg6nt74mwdzs6rwp2vvcwnx4lfththlchjtc6bzwnfhs66e@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:41:29.541Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T15:19:37.644Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihqbc5i7ds26xp4ovyexn5wychxxtvuzgrsjkmu5smhouhfdwvmbe",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5eysg6y6f2e"
+                    },
+                    "root": {
+                        "cid": "bafyreibt6xttjcvczdaer5wbcospifzc7gl5w4l43syi3ggnot4xzznlim",
+                        "uri": "at://did:plc:6okfkqs5whr275g4aahfnboz/app.bsky.feed.post/3l5eymsp7kh2h"
+                    }
+                },
+                "text": "👂 Para pessoas ouvidas pela Pública na cidade, a multiplicação de condomínios fechados dificulta uma medida ambiental urgente para mitigar as mudanças climáticas: a criação de um cinturão verde com espécies nativas de Cerrado, para amenizar o calor e a seca crescentes em Nova Mutum."
+            },
+            "replyCount": 1,
+            "repostCount": 1,
+            "likeCount": 13,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T15:16:41.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:aubdtjnudu2vzqfmri6q64bo/app.bsky.feed.post/3l55pua6ca62f",
+            "cid": "bafyreiazei4luuuktzlpr2hm5vq3wcdyzbxebmbtuq3cej2euquw6bhixu",
+            "author": {
+                "did": "did:plc:aubdtjnudu2vzqfmri6q64bo",
+                "handle": "jardimbotanicorj.bsky.social",
+                "displayName": "Jardim Botânico do RJ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreihkijccud2k6nggzscaunyis4mxnvzbe4lbjparkd5hknho6m6vma@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T13:58:05.502Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T17:47:53.262Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Jardim Botânico do Rio de Janeiro",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidsyg3vqd4edpjul4wwb5prbumia3tqjmkj2iic3h322zz2vkp27e"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 322204
+                        },
+                        "title": "PAN Bacia do Alto Tocantins 2024",
+                        "uri": "https://youtu.be/zvK3cxUIcOs"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/zvK3cxUIcOs"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 300,
+                            "byteStart": 280
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Cerrado é uma savana única, repleta de espécies que só existem aqui. Mas ele está enfrentando\ngrandes desafios, como mineração, agricultura em larga escala, expansão urbana e manejo inadequado\ndo fogo. Quer ver mais? Confira o vídeo completo no nosso canal do YouTube: youtu.be/zvK3cxUIcOs"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/zvK3cxUIcOs",
+                    "title": "PAN Bacia do Alto Tocantins 2024",
+                    "description": "YouTube video by Jardim Botânico do Rio de Janeiro",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aubdtjnudu2vzqfmri6q64bo/bafkreidsyg3vqd4edpjul4wwb5prbumia3tqjmkj2iic3h322zz2vkp27e@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 2,
+            "quoteCount": 1,
+            "indexedAt": "2024-09-27T17:47:53.262Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l55g5xhgap2h",
+            "cid": "bafyreihzrxo2bpz5fpmtpcljhdvkqfpo3lcyk4ct53r72ueiiacnekyixa",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T14:54:22.664Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Florestal Brasil",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreid2iprkimxcwuln55yt36i7tgshjqjt47mknaqff472dnsk22iepe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 454219
+                        },
+                        "title": "Véu da noiva e espécies especiais do Cerrado",
+                        "uri": "https://youtu.be/pBwFITpuKco"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Cerrado tem inúmeras características e algumas são únicas! \n\nNesse vídeo exploramos algumas espécies típicas desse bioma, como o Cacto endêmico (só ocorre no Brasil e em determinado ambiente), e ele está presente no município de Carrancas."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/pBwFITpuKco",
+                    "title": "Véu da noiva e espécies especiais do Cerrado",
+                    "description": "YouTube video by Florestal Brasil",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreid2iprkimxcwuln55yt36i7tgshjqjt47mknaqff472dnsk22iepe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T14:54:22.664Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6beqstgonjyrt73zzllzp5ve/app.bsky.feed.post/3l52e6xbwov2w",
+            "cid": "bafyreihnq36xkpyg5aryexcd6pk6eayk5psv34ggpl4kck5ghpyimgupbi",
+            "author": {
+                "did": "did:plc:6beqstgonjyrt73zzllzp5ve",
+                "handle": "janerys.bsky.social",
+                "displayName": "Janjã",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6beqstgonjyrt73zzllzp5ve/bafkreicl2i7x3dfsoznhluerbou6nsdgzuejx6czul4c3i2evinw2ovimq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T16:38:25.500Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-26T09:41:09.865Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    },
+                    "root": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    }
+                },
+                "text": "As espécies do cerrado coevoluiram com a incidência de fogo. Tem espécie cujo fruto só abre após um incêndio.... Mas é claro, tudo tem limite. Incêndios criminosos estão longe de serem bons pro cerrado"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-26T09:41:09.712Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:75x7nyyuja56h274csf4gnhi/app.bsky.feed.post/3l4yrl72jh22u",
+            "cid": "bafyreihmy43pptkcmthap72d3awvhlazjatrgkeu7ysy6yamcvxxkxinxe",
+            "author": {
+                "did": "did:plc:75x7nyyuja56h274csf4gnhi",
+                "handle": "gabisrm.bsky.social",
+                "displayName": "Gabii⁴⁴⁶³",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:75x7nyyuja56h274csf4gnhi/bafkreihtykwhn5gzrzxqbrsx7ilcmgrzdornnb7qs26epyiwexnaovwdjq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T21:55:05.048Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T18:35:18.320Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "É que o Cerrado já é preparado para isso amores! O fogo natural do Cerrado ocorre e é fundamental para algumas espécies.\n\nFogo não é comum para Pantanal e Amazônia!!\n\nMAS protejam o cerrado, as queimadas criminosas sim são prejudiciais para esse bioma, que está sumindo cada vez mais"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v",
+                    "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                    "author": {
+                        "did": "did:plc:2rjdcvh2znplhwwoijelhxxs",
+                        "handle": "updatecharts.com.br",
+                        "displayName": "UpdateCharts",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreifo6k36nepvqj42jm5eah3n2mhof6fhq24krs5fttkhxthe7sefti@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-03-02T12:13:25.242Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-25T15:46:23.031Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 722215
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 903484
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Flores nascem em meio as cinzas de incêndio e mostram a força do Cerrado."
+                    },
+                    "labels": [],
+                    "likeCount": 24062,
+                    "replyCount": 189,
+                    "repostCount": 1840,
+                    "quoteCount": 447,
+                    "indexedAt": "2024-09-25T15:46:23.031Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T18:35:18.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:4lqfgfn5fmybyju47ddsxrpp/app.bsky.feed.post/3l4ylzvyohd2m",
+            "cid": "bafyreiaq4chkprvkg5rdeig5jndix7vvj76ju2zck6dbpmsea6vvftrw5i",
+            "author": {
+                "did": "did:plc:4lqfgfn5fmybyju47ddsxrpp",
+                "handle": "ummax.bsky.social",
+                "displayName": "pseudo_fruto",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4lqfgfn5fmybyju47ddsxrpp/bafkreietcwhv674etzonjlokkus3uzecrpclevo7vsuck7fb5lxjwetxvy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-24T14:28:15.975Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T16:56:10.240Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiau5lg7j4dxiiulva33idwltff7vcgvhfi47xnkrcoapxaniubtma",
+                        "uri": "at://did:plc:yguybeb45uzmg3jpgw57ks6m/app.bsky.feed.post/3l4ylr3xtkl2m"
+                    },
+                    "root": {
+                        "cid": "bafyreigjh4jqug5t72eltqjbisyzrkyw755rogvhzu26k3wkrntefo76qm",
+                        "uri": "at://did:plc:yguybeb45uzmg3jpgw57ks6m/app.bsky.feed.post/3l4ykbz7iih2m"
+                    }
+                },
+                "text": "Sim e tbm no caso de algumas especies do cerrado a alta temperatura quebra a dormência das sementes, o problema é que microorganismos do solo morreram, então não dá pra esperar muita coisa prq eles que transformam a matéria orgânica em nutrientes, o sistema aí tá todo fudido coitado"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T16:56:10.240Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:fb7hxm65klsmixcwu6k3cgxz/app.bsky.feed.post/3l4ykevlocx2z",
+            "cid": "bafyreiga2fisvofp4a5gpcx6fbju7n3eldihol3jxo6x4n4mvxyuvlb4t4",
+            "author": {
+                "did": "did:plc:fb7hxm65klsmixcwu6k3cgxz",
+                "handle": "oicaru.bsky.social",
+                "displayName": "carolina ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fb7hxm65klsmixcwu6k3cgxz/bafkreieaebvi2uufbnz6mghxvkkhlniixqqud75a6bvysirr7jaxwmgkqu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T16:02:12.802Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-25T16:26:31.288Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                        "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "algumas espécies endêmicas do Cerrado só quebram a dormência de suas sementes para germinar quando suas sementes passam pelo fogo. \n\nMas vai chegar um momento em que o fogo será tão intenso q nem essas espécies sobreviverão. \nNão é bonito. Não é poético. É o fim do mundo."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:2rjdcvh2znplhwwoijelhxxs/app.bsky.feed.post/3l4yi54eeab2v",
+                    "cid": "bafyreicvhxuijmabsg67purvlee7qwe3dtt4ftqsdgfvoz2csvmfncw4em",
+                    "author": {
+                        "did": "did:plc:2rjdcvh2znplhwwoijelhxxs",
+                        "handle": "updatecharts.com.br",
+                        "displayName": "UpdateCharts",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreifo6k36nepvqj42jm5eah3n2mhof6fhq24krs5fttkhxthe7sefti@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2023-03-02T12:13:25.242Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-25T15:46:23.031Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 722215
+                                    }
+                                },
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 903484
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Flores nascem em meio as cinzas de incêndio e mostram a força do Cerrado."
+                    },
+                    "labels": [],
+                    "likeCount": 24062,
+                    "replyCount": 189,
+                    "repostCount": 1840,
+                    "quoteCount": 447,
+                    "indexedAt": "2024-09-25T15:46:23.031Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreicty6qlmtjpsxsyrdem6ngah7td6vu55okunjluhzipnf4apqdf2i@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 2000,
+                                        "width": 2000
+                                    }
+                                },
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2rjdcvh2znplhwwoijelhxxs/bafkreignzs3qnkqxllgux6pzoyb25l33dnxwj6m4keo6xofr7ab6mf4gei@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1500,
+                                        "width": 2000
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-25T16:26:31.288Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:3pgid4uqzxjn6l5owmscyewu/app.bsky.feed.post/3l4ro6k5sv523",
+            "cid": "bafyreidr5prkl5vouic4czu3mukvf7sti5wdzji7we2qbtkoauteocxqnq",
+            "author": {
+                "did": "did:plc:3pgid4uqzxjn6l5owmscyewu",
+                "handle": "lorennaohara.bsky.social",
+                "displayName": "Lorenna Ohara",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:3pgid4uqzxjn6l5owmscyewu/bafkreichk5rs6rnjnlcymn5fudzd22zxvhrmknofmvu6qsl23nunfty3qq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-10T20:01:49.418Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T22:45:44.563Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Vi 5 espécies de beija flor hoje e fora o banho de cachu maravilhoso é muito triste vê o cerrado queimando da forma que está"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T22:45:44.563Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:ht5gojtxg5goa3msnjnrejrh/app.bsky.feed.post/3l4qr3k2lvy2i",
+            "cid": "bafyreid3dsghmzh3lkscui3bwuszrmu66w2ep7zjwqhr3xpzvfmly5ogfu",
+            "author": {
+                "did": "did:plc:ht5gojtxg5goa3msnjnrejrh",
+                "handle": "renatacrispim.bsky.social",
+                "displayName": "Renata",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ht5gojtxg5goa3msnjnrejrh/bafkreieg2qv4ilg3kn7d3g56evdb2ocmfdf2dumfjwcuuxzjduncdywp5i@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-26T21:27:57.760Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-22T14:05:15.630Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicoefgtrewscvyms6cb3r6aindove33tadszeizkklmsl5lbp36cq",
+                        "uri": "at://did:plc:ht5gojtxg5goa3msnjnrejrh/app.bsky.feed.post/3l4qqzctoe222"
+                    },
+                    "root": {
+                        "cid": "bafyreicoefgtrewscvyms6cb3r6aindove33tadszeizkklmsl5lbp36cq",
+                        "uri": "at://did:plc:ht5gojtxg5goa3msnjnrejrh/app.bsky.feed.post/3l4qqzctoe222"
+                    }
+                },
+                "text": "E enquanto fui envelhecendo meu olhar foi se refinando pra ver o cerrado e enxergar nele uma beleza que vem junto com toda essa aridez. E acho incrível essa obviedade de que as espécies vivem em determinados habitats e não em outros. Nisso de SEREM de certo lugar. O mesmo que eu."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-22T14:05:15.630Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:46jis2evm7thfmt5k4q3duvb/app.bsky.feed.post/3l4oxkmnmgi2e",
+            "cid": "bafyreicd7eettqkycaytwpw4btqhjfnap62tawlt23oqwdudykzhysob6y",
+            "author": {
+                "did": "did:plc:46jis2evm7thfmt5k4q3duvb",
+                "handle": "lilalima.bsky.social",
+                "displayName": "@lila_ribeiro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:46jis2evm7thfmt5k4q3duvb/bafkreiey6bvblznmhd6dyp42sehoagj5savfaj5ofuitlx3kgzbrud4gta@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:46jis2evm7thfmt5k4q3duvb",
+                        "uri": "at://did:plc:46jis2evm7thfmt5k4q3duvb/app.bsky.actor.profile/self",
+                        "cid": "bafyreiaj6mvirpyqp6acxmc452zetxenwxo54k2a26vcavj2mjlzwjp2pu",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-07-13T01:52:16.825Z"
+                    }
+                ],
+                "createdAt": "2024-07-13T01:52:17.274Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T20:55:44.658Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicyy7fpmfz4yztzaglahhtbte6bkxfpwhhwxqfglixv572mqer3qa",
+                        "uri": "at://did:plc:mq4oljfhathd2kcgil4psx4n/app.bsky.feed.post/3l4ox2czdya27"
+                    },
+                    "root": {
+                        "cid": "bafyreicyy7fpmfz4yztzaglahhtbte6bkxfpwhhwxqfglixv572mqer3qa",
+                        "uri": "at://did:plc:mq4oljfhathd2kcgil4psx4n/app.bsky.feed.post/3l4ox2czdya27"
+                    }
+                },
+                "text": "Mais árvores plantadas e menos nativas derrubadas. \nDe preferência reflorestar com espécies do cerrado do DF.\nCada pequena ilha de cerrado é conforto térmico pra quem estiver por perto."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T20:55:44.658Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l4ohu3hph62m",
+            "cid": "bafyreihkieycqnocvhylbiwvvmn4jxlx4gbykquovddaqitbmhpjr6gkd4",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-21T16:14:42.684Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Florestal Brasil",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidazy4ntiwyz6fcdb5lftqqucofgrc35utz5kb4nccave5ewtv74u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 996210
+                        },
+                        "title": "Explorando a diversidade de vegetação e espécies do Cerrado",
+                        "uri": "https://youtu.be/wJubFyV5bxM"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 288,
+                            "byteStart": 280
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "arvores"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 297,
+                            "byteStart": 289
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "natureza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 298
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Nesse vídeo, explico sobre algumas fitofisionomias (aparência da vegetação) do Cerrado, e aponto algumas espécies chaves que é característica do bioma.\n\nSaiba se o fogo é ou não natural do Cerrado; Conheça o Jacaranda caroba; Veja a Candeia e o Cambará, e muito mais!\n\n#cerrado #arvores #natureza"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/wJubFyV5bxM",
+                    "title": "Explorando a diversidade de vegetação e espécies do Cerrado",
+                    "description": "YouTube video by Florestal Brasil",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreidazy4ntiwyz6fcdb5lftqqucofgrc35utz5kb4nccave5ewtv74u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-21T16:14:42.684Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6fzo2462h",
+            "cid": "bafyreifknypomajt33r33lkepmztp5o2fckisdzprufqgq755feulrevpm",
+            "author": {
+                "did": "did:plc:nvpuoxauer4fkrtwpoj22azp",
+                "handle": "lucianagenro.bsky.social",
+                "displayName": "Luciana Genro",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvpuoxauer4fkrtwpoj22azp/bafkreicvwnbx6x4bcu6coefsx43vkesigoabmxvn7c2fhk7oi5qod5zzxa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-03T17:19:32.599Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T18:37:09.313Z",
+                "facets": [
+                    {
+                        "$type": "app.bsky.richtext.facet",
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#mention",
+                                "did": "did:plc:n76735vzb2jrbmcwtywzf6xn"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 306,
+                            "byteStart": 277
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreicpox5hmpmbapqwgdai6x5nit3f66hgc5bnjygpgabueljpvlk75i",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6dxfnxo2j"
+                    },
+                    "root": {
+                        "cid": "bafyreibotam64kocm7ywyw5hnixuntmnekn6jduuk3nul7bb745npfu6qu",
+                        "uri": "at://did:plc:nvpuoxauer4fkrtwpoj22azp/app.bsky.feed.post/3l4h6digy6o2h"
+                    }
+                },
+                "text": "Precisamos mudar o sistema econômico predatório em que vivemos, para garantir um futuro para o planeta e para todas as espécies. Parabéns às equipes do Ibama, do Grupo de Resgate Técnico Animal Cerrado Pantanal e do do Centro de Reabilitação de Animais Silvestres! Via @cnnbrasil.com.br.web.brid.gy."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T18:37:09.313Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l4gqrikazl2n",
+            "cid": "bafyreiee4qmocevmfqqkmsademky5pcia7hzazc5jjszqgioupsngz6fnm",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-18T14:33:01.624Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Florestal Brasil",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidazy4ntiwyz6fcdb5lftqqucofgrc35utz5kb4nccave5ewtv74u"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 996210
+                        },
+                        "title": "Explorando a diversidade de vegetação e espécies do Cerrado",
+                        "uri": "https://youtu.be/wJubFyV5bxM"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/wJubFyV5bxM"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 236
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Cerrado é um bioma extremamente importante no Brasil, conhecido por sua\n\nNesse vídeo, explico sobre algumas fitofisionomias (aparência da vegetação) do Cerrado, e aponto algumas espécies chaves que é característica do bioma.\n\nyoutu.be/wJubFyV5bxM"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/wJubFyV5bxM",
+                    "title": "Explorando a diversidade de vegetação e espécies do Cerrado",
+                    "description": "YouTube video by Florestal Brasil",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreidazy4ntiwyz6fcdb5lftqqucofgrc35utz5kb4nccave5ewtv74u@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-18T14:33:01.624Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m26hctuk66nh3z6trfmttlp4/app.bsky.feed.post/3l4a4f5x6i52l",
+            "cid": "bafyreibagqqsqeincofps4s4m67jtesqnpd4up4e6euxkx2mopsfsh3hra",
+            "author": {
+                "did": "did:plc:m26hctuk66nh3z6trfmttlp4",
+                "handle": "conexaoplaneta.bsky.social",
+                "displayName": "Conexão Planeta ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreidv7vbc3n6tvhneve2ybtbqeakcojy5bwqyliwpkihtx5adyit5fq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T13:10:15.003Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T23:12:14.589Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Fogo começou na manhã deste domingo. Sete caminhões e uma aeronave estão sendo usadas no combate às chamas. Existe a suspeita de que incêndio possa ser criminoso. O Parque Nacional de Brasília é uma i...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihbunt7lztxndyzv574wuiixnuoghnebxppevvs6qykxbyuqddseu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 396289
+                        },
+                        "title": "Brigadistas combatem incêndio de grandes proporções no Parque Nacional de Brasília",
+                        "uri": "https://conexaoplaneta.com.br/blog/brigadistas-combatem-incendio-de-grandes-proporcoes-no-parque-nacional-de-brasilia/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "incêndio"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 37,
+                            "byteStart": 27
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Cerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 144,
+                            "byteStart": 136
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Existe a suspeita de que o #incêndio possa ser criminoso. O Parque Nacional De Brasília é uma importante unidade de conservação do #Cerrado brasileiro e abriga diversas espécies ameaçadas de extinção"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://conexaoplaneta.com.br/blog/brigadistas-combatem-incendio-de-grandes-proporcoes-no-parque-nacional-de-brasilia/",
+                    "title": "Brigadistas combatem incêndio de grandes proporções no Parque Nacional de Brasília",
+                    "description": "Fogo começou na manhã deste domingo. Sete caminhões e uma aeronave estão sendo usadas no combate às chamas. Existe a suspeita de que incêndio possa ser criminoso. O Parque Nacional de Brasília é uma i...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m26hctuk66nh3z6trfmttlp4/bafkreihbunt7lztxndyzv574wuiixnuoghnebxppevvs6qykxbyuqddseu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T23:12:14.589Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:pf457n3y75ecal7ydtzgdgal/app.bsky.feed.post/3l43gg2srff2u",
+            "cid": "bafyreihpsny7pv6a7qvtgotnrqzazv3drfwq3p4h2nkjj2rqisbfaej36q",
+            "author": {
+                "did": "did:plc:pf457n3y75ecal7ydtzgdgal",
+                "handle": "ruanaway.bsky.social",
+                "displayName": "Melkita'Ulamun ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pf457n3y75ecal7ydtzgdgal/bafkreid77iz5zkwmiencraq7y3f6pvpq4ulfosycklso5mxcx277ygparq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T23:33:11.724Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T02:28:23.520Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "gente, lembre-se que o fogo não está destruindo só a Amazônia, mas o PANTANAL e o CERRADO. O Cerrado é o Bioma mais antigo do Brasil e o berço das águas. O Pantanal apesar de pequeno, é a maior planície alagável do mundo e com muita diversidade de espécies."
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T02:28:23.520Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:knvm2jrg72ltkjcnyi363bj3/app.bsky.feed.post/3l42mvhl5fn2f",
+            "cid": "bafyreid2a6vewrhhgmofvieucz2i5jaeuswr3iysq2gw2snfv2g4yb7xqy",
+            "author": {
+                "did": "did:plc:knvm2jrg72ltkjcnyi363bj3",
+                "handle": "helisa.bsky.social",
+                "displayName": "Helisa🏹",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:knvm2jrg72ltkjcnyi363bj3/bafkreias3p2ktqfsvugs6ebwwiyz7zovy3igblljh7yqvgvxezjgbgdjye@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T01:01:30.221Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T18:51:42.239Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "A AMAZÔNIA, o CERRADO , a MATA ATLÂNTICA , o PANTANAL gente são biomas inteiros sério eu não tô conseguindo pensar em outras coisa e o pior estão deixando queimar ,como pode? O tanto de espécies de plantas animais estão morrendo tbm ,  e o pior ficamos de mãos atadas e sem ter muito o q fazer"
+            },
+            "replyCount": 3,
+            "repostCount": 0,
+            "likeCount": 15,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T18:51:42.239Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:lnfid6lt7kaj3nf7jtowduqr/app.bsky.feed.post/3l3ydd5rw6d2z",
+            "cid": "bafyreieubz7xquaakmdo7p3frngphnhhoxnsvrh2c5ckofolno6dvnf3rq",
+            "author": {
+                "did": "did:plc:lnfid6lt7kaj3nf7jtowduqr",
+                "handle": "jrabramo.bsky.social",
+                "displayName": "José Roberto ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lnfid6lt7kaj3nf7jtowduqr/bafkreicdhwzda2vwsjnbbf3h2wkk7k4aqonpc4j4mpouv3adnnxshtaasy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-12T14:39:45.189Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T20:55:05.568Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by José Roberto Abramo",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidfon6mmmdwjqk2bbzvr52mwc2if2wgbpppmhtovzahfaa6emlwsu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 327173
+                        },
+                        "title": "O Cerrado Brasileiro  -  Berço das Águas - Pontuando #128",
+                        "uri": "https://youtu.be/1WEXFJGuSII"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/1WEXFJGuSII"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 231,
+                            "byteStart": 211
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Por favor passem este vídeo para frente. \nO Cerrado é a savana com maior biodiversidade do planeta e sua importância está além da variedade de fauna e flora, das centenas de espécies exclusivas do bioma. \nyoutu.be/1WEXFJGuSII"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/1WEXFJGuSII",
+                    "title": "O Cerrado Brasileiro  -  Berço das Águas - Pontuando #128",
+                    "description": "YouTube video by José Roberto Abramo",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lnfid6lt7kaj3nf7jtowduqr/bafkreidfon6mmmdwjqk2bbzvr52mwc2if2wgbpppmhtovzahfaa6emlwsu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T20:55:05.568Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3wawmhomv2h",
+            "cid": "bafyreia3xhitxzfebpyoypylmhxtjezz3qz4ddpejafnqvq35vxm5lhdri",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:06:57.788Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreib46q2kvraoujduuu4orpeqcwrlgkdmg5jpgj2s6llmm3a5es7ur4",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3warwttiu25"
+                    },
+                    "root": {
+                        "cid": "bafyreib46q2kvraoujduuu4orpeqcwrlgkdmg5jpgj2s6llmm3a5es7ur4",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3l3warwttiu25"
+                    }
+                },
+                "text": "O Cerrado abriga uma das maiores biodiversidades do mundo, com mais de 6 mil espécies de árvores e 800 espécies de aves. A maior parte do Cerrado brasileiro está localizada no Planalto Central. O bioma está presente em todas as Regiões brasileiras, e ocupa uma área de cerca de 2 milhões km2, cerca+"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 11,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T01:06:57.788Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:vqlsbmnr22musiaekfpvee6s/app.bsky.feed.post/3l3vyvklikr2m",
+            "cid": "bafyreigjzjwaan6yrpqggci3yg65yif3uuicxoiodngfskfeu2jjn7p2uu",
+            "author": {
+                "did": "did:plc:vqlsbmnr22musiaekfpvee6s",
+                "handle": "monofrio.bsky.social",
+                "displayName": "Monofrio 🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vqlsbmnr22musiaekfpvee6s/bafkreiabvhc4wbtdraa6w2nayimewswmeqfn2lsrqfck7wfzxs3sr6xtai@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-01T02:06:10.014Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T22:43:11.683Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreicnoge3tnesylo5xexend5gpx3ir2wz2dumdcncynaxb5puq5m5qm",
+                        "uri": "at://did:plc:g2smi2imh4qv3bccryzll5ur/app.bsky.feed.post/3l3vhikxijv27"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "O Cerrado é uma das regiões de maior biodiversidade do 🌎. Estima-se possuir: 6 mil espécies de árvores e 800 espécies de aves. Acredita-se que 40% das espécies de plantas lenhosas e 50% das abelhas sejam endêmicas. Ao lado da Mata Atlântica é um dos biomas mais ricos e ameaçados do 🌎. \n*Fonte: MMA"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:g2smi2imh4qv3bccryzll5ur/app.bsky.feed.post/3l3vhikxijv27",
+                    "cid": "bafyreicnoge3tnesylo5xexend5gpx3ir2wz2dumdcncynaxb5puq5m5qm",
+                    "author": {
+                        "did": "did:plc:g2smi2imh4qv3bccryzll5ur",
+                        "handle": "ptnacamara.bsky.social",
+                        "displayName": "PT na Câmara",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreicp2hv3yr3hxgdwzfuam4ify44w3aij4z326i67glk73po44mm4di@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-04-11T15:41:28.161Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-11T17:31:42.685Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.images",
+                            "images": [
+                                {
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1350,
+                                        "width": 1080
+                                    },
+                                    "image": {
+                                        "$type": "blob",
+                                        "ref": {
+                                            "$link": "bafkreigscgjj22iu27qzwb4ywz2oacibmqlofoes2rwyrhyfqshtow5tru"
+                                        },
+                                        "mimeType": "image/jpeg",
+                                        "size": 295550
+                                    }
+                                }
+                            ]
+                        },
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "Sigamos na luta pela preservação do Cerrado, mobilizando as comunidades locais, cientistas, ativistas e governantes. Buscar, cada vez mais, promover práticas sustentáveis e leis mais rigorosas para frear a destruição desse bioma vital para o equilíbrio ecológico do Brasil e do planeta."
+                    },
+                    "labels": [],
+                    "likeCount": 20,
+                    "replyCount": 1,
+                    "repostCount": 9,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-11T17:31:42.685Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.images#view",
+                            "images": [
+                                {
+                                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreigscgjj22iu27qzwb4ywz2oacibmqlofoes2rwyrhyfqshtow5tru@jpeg",
+                                    "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g2smi2imh4qv3bccryzll5ur/bafkreigscgjj22iu27qzwb4ywz2oacibmqlofoes2rwyrhyfqshtow5tru@jpeg",
+                                    "alt": "",
+                                    "aspectRatio": {
+                                        "height": 1350,
+                                        "width": 1080
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 2,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T22:43:11.683Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m535md35euymuymth5t6lnts/app.bsky.feed.post/3l3vf5bmpyf2n",
+            "cid": "bafyreibqlhp4acqirxntqvhcmxgmuptssmpcb6uvvt7bmygqwvkf7no6wy",
+            "author": {
+                "did": "did:plc:m535md35euymuymth5t6lnts",
+                "handle": "heymands.bsky.social",
+                "displayName": "𝖆𝖒𝖆𝖓𝖉𝖆",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m535md35euymuymth5t6lnts/bafkreidummh2ckr2pl72kzepuxbjg7ajy2hyrg4cfqjly7yfqacne3juf4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-01-25T10:18:33.312Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:49:36.033Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "valorizem o cerrado brasileiro, é uma das regiões com maior diversidade vegetal do planeta. mais de 500 especies vegetais por hc que varia entre 5000 a 7000 espécies. fora que é maior caixa d'agua do país que abastece nossas bacias e lençóis, mas o agro é pop 😉"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:49:36.033Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hkxuck72qevn26lpfuhs5kzp/app.bsky.feed.post/3l3vdyxyweg2k",
+            "cid": "bafyreiawjhxzqqipisezgapmni6nghzqmdd5u2pnf4hrar7iitxajv6ymu",
+            "author": {
+                "did": "did:plc:hkxuck72qevn26lpfuhs5kzp",
+                "handle": "maressivas.bsky.social",
+                "displayName": "Maressivas 🚩 🇵🇸",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hkxuck72qevn26lpfuhs5kzp/bafkreiggw3ibmrznawaduexqi5itnksdoy2wl6dxzozxuzgtshrrwnvrom@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T01:31:58.165Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:29:18.284Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1495,
+                                "width": 967
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidjieunxjn4sv6bfxq7ovvf4cby4w7qw2lb5vzvngh54r5tuspe74"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 822075
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hj é dia nacional do Cerrado. O mesmo cerrado que hj está sob fogo é uma das regiões de maior biodiversidade do mundo, e estima-se que possua mais de 6 mil espécies de árvores e 800 espécies de aves (MMA, 2002). Quem mora aqui sabe como este bioma é bonito e forte. Só não se sabe até quando…"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hkxuck72qevn26lpfuhs5kzp/bafkreidjieunxjn4sv6bfxq7ovvf4cby4w7qw2lb5vzvngh54r5tuspe74@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hkxuck72qevn26lpfuhs5kzp/bafkreidjieunxjn4sv6bfxq7ovvf4cby4w7qw2lb5vzvngh54r5tuspe74@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1495,
+                            "width": 967
+                        }
+                    }
+                ]
+            },
+            "replyCount": 4,
+            "repostCount": 9,
+            "likeCount": 38,
+            "quoteCount": 2,
+            "indexedAt": "2024-09-11T16:29:18.284Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:zc2n46244uvqyh5tpoovt2qr/app.bsky.feed.post/3l3v7zm2nyg2p",
+            "cid": "bafyreictwzz4j2ymvhwq7f7hd5stpqayk3aoalhetq22lfyowxafkjq7aa",
+            "author": {
+                "did": "did:plc:zc2n46244uvqyh5tpoovt2qr",
+                "handle": "sandouglas.bsky.social",
+                "displayName": "San Douglas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zc2n46244uvqyh5tpoovt2qr/bafkreid4n7ja5nqvgeh2wryzd5exe53rj6xbxb6iqjb5mnmhi765bqe4ry@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T02:48:00.528Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T15:18:04.104Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 479,
+                                "width": 790
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreib4tf6phjwwefrx33stiigzp7ynibwsuuxovg5kxgkr4rbofzw5pa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 142657
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ifb.edu.br/reitori/39417-dia-nacional-do-cerrado-a-beleza-e-os-desafios-do-bioma-em-meio-a-seca*"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 280,
+                            "byteStart": 250
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🌳O dia Nacional do Cerrado é comemorado hoje, 11 de setembro.\n\nConhecido como savana brasileira, o Cerrado é uma das regiões de maior biodiversidade do mundo, e estima-se que possua mais de 6 mil espécies de árvores e 800 espécies de aves.\n\nwww.ifb.edu.br/reitori/3941..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zc2n46244uvqyh5tpoovt2qr/bafkreib4tf6phjwwefrx33stiigzp7ynibwsuuxovg5kxgkr4rbofzw5pa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zc2n46244uvqyh5tpoovt2qr/bafkreib4tf6phjwwefrx33stiigzp7ynibwsuuxovg5kxgkr4rbofzw5pa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 479,
+                            "width": 790
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 3,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T15:18:04.104Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xrxeqbzwwrzglaf2oaq7pvxd/app.bsky.feed.post/3l3v7dnc4wq2u",
+            "cid": "bafyreicfdyaadehgujgw46r53zo7dxvifs7ornqcxhx2suab4ugzc3vvim",
+            "author": {
+                "did": "did:plc:xrxeqbzwwrzglaf2oaq7pvxd",
+                "handle": "florestalbrasil.bsky.social",
+                "displayName": "Florestal Brasil",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreib7a722ro3pe7vuo7hdwb5cjwqdf3psrtcargghhme6mlit5p5vri@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:02:42.575Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T15:05:47.365Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiacwhu4wsnzyalfb6i7xduxon6ozwxigh2brmrx3h46d5gnl2lftq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 404173
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje, celebramos o segundo maior bioma do Brasil e um dos mais ricos em biodiversidade do mundo! O Cerrado é o berço de nascentes que abastecem grandes bacias hidrográficas e abriga espécies únicas de fauna e flora. Preservar esse tesouro natural é garantir água, vida e equilíbrio ambiental."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreiacwhu4wsnzyalfb6i7xduxon6ozwxigh2brmrx3h46d5gnl2lftq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xrxeqbzwwrzglaf2oaq7pvxd/bafkreiacwhu4wsnzyalfb6i7xduxon6ozwxigh2brmrx3h46d5gnl2lftq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T15:05:47.365Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:27lmwmry6cjw2rw262ksmt3s/app.bsky.feed.post/3l3ux625sex2x",
+            "cid": "bafyreicqv4o24e2dwi7k6p4m6m4rzbmbsdup5btsorfjv2klegzhejgnde",
+            "author": {
+                "did": "did:plc:27lmwmry6cjw2rw262ksmt3s",
+                "handle": "magelapt.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:27lmwmry6cjw2rw262ksmt3s/bafkreicgnjuxfxu5a7koz5yxgwxy6gfn72xxyskte3c3f434f3j5wn7qcu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T17:09:11.322Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T12:39:27.029Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiehbdww7rudp7ghtwiapdbcalxqyo6emph6ii5c74fmpjg4lpdc3q"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 924057
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DiaDoCerrado"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 307,
+                            "byteStart": 294
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje celebramos o Dia do Cerrado, o segundo maior bioma da América do Sul e berço de uma biodiversidade única! O Cerrado abriga espécies raras e é fonte essencial de água, alimentando as principais bacias hidrográficas do Brasil.\nVamos proteger e valorizar essa joia tão preciosa! 🌳\n#DiaDoCerrado"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:27lmwmry6cjw2rw262ksmt3s/bafkreiehbdww7rudp7ghtwiapdbcalxqyo6emph6ii5c74fmpjg4lpdc3q@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:27lmwmry6cjw2rw262ksmt3s/bafkreiehbdww7rudp7ghtwiapdbcalxqyo6emph6ii5c74fmpjg4lpdc3q@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T12:39:27.029Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yg5nobxwbcgdea5wjppyu5j2/app.bsky.feed.post/3l3up7ojtdw2f",
+            "cid": "bafyreiakang6yoo2kn3phqa6dou6oolj7gy46tdl4yzuwm72mtikssewwm",
+            "author": {
+                "did": "did:plc:yg5nobxwbcgdea5wjppyu5j2",
+                "handle": "avidanocerrado.bsky.social",
+                "displayName": "A Vida no Cerrado",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yg5nobxwbcgdea5wjppyu5j2/bafkreie7ofgs5oilwolqkvl7accr2jad3c5iqr64qsyfp7wze5e47xamhe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T16:38:49.754Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T10:17:14.925Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1080,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreigtf72l3jzmjzhnwnkwsjf3dtv7urkvrddxslg5y4oxqg3lrkfjqa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 454858
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Hoje celebramos um dos biomas mais importantes e biodiversos do mundo: o Cerrado, conhecido como o berço das águas, por abrigar nascentes que alimentam grande parte das bacias hidrográficas do Brasil. Ele é lar de uma rica fauna e flora, com espécies únicas que resistem ao avanço da destruição."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yg5nobxwbcgdea5wjppyu5j2/bafkreigtf72l3jzmjzhnwnkwsjf3dtv7urkvrddxslg5y4oxqg3lrkfjqa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yg5nobxwbcgdea5wjppyu5j2/bafkreigtf72l3jzmjzhnwnkwsjf3dtv7urkvrddxslg5y4oxqg3lrkfjqa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1080,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 4,
+            "repostCount": 66,
+            "likeCount": 191,
+            "quoteCount": 7,
+            "indexedAt": "2024-09-11T10:17:14.925Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:b2dvawmh52te26kiaak73etq/app.bsky.feed.post/3l3odtyuzn62t",
+            "cid": "bafyreiedklq52z463ete6udyqicltfrqjflq7nxhsjhcd73bbadhoj5ciq",
+            "author": {
+                "did": "did:plc:b2dvawmh52te26kiaak73etq",
+                "handle": "geopolyticksbr.bsky.social",
+                "displayName": "GeoPolyticksBR",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:b2dvawmh52te26kiaak73etq/bafkreigq6m4smwvqxdbgzfgulj2rnnzdyizqljzd4lo6iqp4w3xhy3hyui@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T23:00:33.401Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T21:37:53.527Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Queimadas no Cerrado disparam e colocam em risco a biodiversidade da região. O fogo, muitas vezes criminoso, ameaça espécies nativas e o equilíbrio ecológico. Precisamos de políticas mais rígidas para preservar o Cerrado, berço das águas do Brasil. 🔥"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T21:37:53.527Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yhdq6qm4ubmc6wx3ukhetsb5/app.bsky.feed.post/3l3nfkrxmxz2w",
+            "cid": "bafyreibyystqtus2o3ynado62gtqktuug2hrd5lxdsmqgc4mitwxzjzera",
+            "author": {
+                "did": "did:plc:yhdq6qm4ubmc6wx3ukhetsb5",
+                "handle": "lazoo.bsky.social",
+                "displayName": "Lázaro®",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yhdq6qm4ubmc6wx3ukhetsb5/bafkreibgbxforb5jyy6hgj6mmgzw7lpnnnzlxyn26s45wntsmyqlfihjc4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-07T15:02:36.086Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-08T12:35:50.137Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Publicação ajuda cientistas-cidadãos a identificar e registrar 24 espécies de plantas e bichos ameaçados que ocorrem na região da Cadeia do Espinhaço",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibdg5jc6xi47looq67yu55o3xhf7pt7rvkewhvdlkvmm6hkxrkjc4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 429459
+                        },
+                        "title": "Um guia para identificar espécies criticamente ameaçadas no Espinhaço mineiro - ((o))eco",
+                        "uri": "https://oeco.org.br/salada-verde/um-guia-para-identificar-especies-criticamente-ameacadas-no-espinhaco-mineiro/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/salada-verde/um-guia-para-identificar-especies-criticamente-ameacadas-no-espinhaco-mineiro/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 146,
+                            "byteStart": 119
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": " CERRADO\n em estado\n👉crítico👈\n\nUm guia para identificar espécies criticamente ameaçadas no Espinhaço mineiro oeco.org.br/salada-verde..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/salada-verde/um-guia-para-identificar-especies-criticamente-ameacadas-no-espinhaco-mineiro/",
+                    "title": "Um guia para identificar espécies criticamente ameaçadas no Espinhaço mineiro - ((o))eco",
+                    "description": "Publicação ajuda cientistas-cidadãos a identificar e registrar 24 espécies de plantas e bichos ameaçados que ocorrem na região da Cadeia do Espinhaço",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhdq6qm4ubmc6wx3ukhetsb5/bafkreibdg5jc6xi47looq67yu55o3xhf7pt7rvkewhvdlkvmm6hkxrkjc4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-08T12:35:50.137Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jho6cllj66gmysmc35wzbmx4/app.bsky.feed.post/3l3gpjabe5e22",
+            "cid": "bafyreif2h3jpst5kvah7gimzr4wnoms5k4aiperl4wxgbledwann6m4wjq",
+            "author": {
+                "did": "did:plc:jho6cllj66gmysmc35wzbmx4",
+                "handle": "aracnocerrado.bsky.social",
+                "displayName": "Aracno Cerrado ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreicluwkmgkfapzc7xxfiybipyzcl6dys26ittzna6gud7hhohhlddy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:53:53.890Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-05T20:45:17.887Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1125
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidu6gk5hds2o5cc43yz5y5itbbtjv5pyysrj2ocbrigy3qfjgvw5y"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 786344
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DCBR"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 5,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#DCBR Muitas espécies de aranhas habitam o solo do cerrado. Essa belezinha, é uma delas. A inofensiva aranha-piolho-vermelha do gênero Nops e família Caponiidae cria um pequeno abrigo de seda debaixo de pedras, troncos e cupinzeiros. \n(Continua)"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreidu6gk5hds2o5cc43yz5y5itbbtjv5pyysrj2ocbrigy3qfjgvw5y@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jho6cllj66gmysmc35wzbmx4/bafkreidu6gk5hds2o5cc43yz5y5itbbtjv5pyysrj2ocbrigy3qfjgvw5y@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1125
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 8,
+            "likeCount": 40,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-05T20:45:17.887Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2fpdqvqsdwuziz2q2drcjbyv/app.bsky.feed.post/3l3ax2jrmoi2u",
+            "cid": "bafyreidionjioxhntprhoyt4sub4ugpnaswecvisb4qfu3ckob3mbu6ske",
+            "author": {
+                "did": "did:plc:2fpdqvqsdwuziz2q2drcjbyv",
+                "handle": "crislouren.bsky.social",
+                "displayName": "⚜️crislourenço🦋 ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2fpdqvqsdwuziz2q2drcjbyv/bafkreid6e34mq7xron6ayk36nv7econaa7mtqm2jqb6ve3fynpxvhqfhdu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T23:32:04.553Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-03T13:45:14.970Z",
+                "embed": {
+                    "$type": "app.bsky.embed.record",
+                    "record": {
+                        "cid": "bafyreid455uxbfz4m4n5j5ugstzigl3x2djinggjjtyi34mtgibfujhzva",
+                        "uri": "at://did:plc:5incv6qumt77nshmoq6kzj45/app.bsky.feed.post/3l3anrmgjjk2m"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "No Brasil, a soja é festejada como a estrela de nossas exportações. Ao converter parte da Amazônia e do Cerrado em soja, essa estrela das exportações está nos matando e fazendo de um planeta extraordinário como a Terra uma terra arrasada para os humanos e para a maioria das espécies."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.record#view",
+                "record": {
+                    "$type": "app.bsky.embed.record#viewRecord",
+                    "uri": "at://did:plc:5incv6qumt77nshmoq6kzj45/app.bsky.feed.post/3l3anrmgjjk2m",
+                    "cid": "bafyreid455uxbfz4m4n5j5ugstzigl3x2djinggjjtyi34mtgibfujhzva",
+                    "author": {
+                        "did": "did:plc:5incv6qumt77nshmoq6kzj45",
+                        "handle": "onutricional.bsky.social",
+                        "displayName": "",
+                        "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:5incv6qumt77nshmoq6kzj45/bafkreihfgrgllxjkreegylxzer73h3caiwxpc4vfkkdyxfv6bk3rvmnqiy@jpeg",
+                        "associated": {
+                            "chat": {
+                                "allowIncoming": "following"
+                            }
+                        },
+                        "labels": [],
+                        "createdAt": "2024-08-29T22:57:47.320Z"
+                    },
+                    "value": {
+                        "$type": "app.bsky.feed.post",
+                        "createdAt": "2024-09-03T10:58:10.569Z",
+                        "embed": {
+                            "$type": "app.bsky.embed.external",
+                            "external": {
+                                "description": "Ou assumimos a tarefa de barrar os assassinos ou vai haver muito mais sangue, dor, morte e talvez extinção",
+                                "thumb": {
+                                    "$type": "blob",
+                                    "ref": {
+                                        "$link": "bafkreicckbz34wx4vog5vtujy2vnluthty2mk252cstsgb7gicdlkantge"
+                                    },
+                                    "mimeType": "image/jpeg",
+                                    "size": 476369
+                                },
+                                "title": "Você percebe que estão te matando? - SUMAÚMA",
+                                "uri": "https://sumauma.com/voce-percebe-que-estao-te-matando/"
+                            }
+                        },
+                        "facets": [
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#link",
+                                        "uri": "https://sumauma.com/voce-percebe-que-estao-te-matando/"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 85,
+                                    "byteStart": 58
+                                }
+                            },
+                            {
+                                "$type": "app.bsky.richtext.facet",
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#mention",
+                                        "did": "did:plc:4vonsdesjldgdbfuiehbg3dp"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 110,
+                                    "byteStart": 87
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "criseclimática"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 128,
+                                    "byteStart": 112
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "negacionismo"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 142,
+                                    "byteStart": 129
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "meioambiente"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 156,
+                                    "byteStart": 143
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "eleiçõesmunicipais"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 178,
+                                    "byteStart": 157
+                                }
+                            },
+                            {
+                                "features": [
+                                    {
+                                        "$type": "app.bsky.richtext.facet#tag",
+                                        "tag": "eleições2024"
+                                    }
+                                ],
+                                "index": {
+                                    "byteEnd": 194,
+                                    "byteStart": 179
+                                }
+                            }
+                        ],
+                        "langs": [
+                            "pt"
+                        ],
+                        "text": "O negacionismo está nos matando!\n\nEditorial do Sumaúna: sumauma.com/voce-percebe...\n\n@elianebrum.bsky.social \n#criseclimática #negacionismo #meioambiente\n#eleiçõesmunicipais #eleições2024"
+                    },
+                    "labels": [],
+                    "likeCount": 1,
+                    "replyCount": 0,
+                    "repostCount": 0,
+                    "quoteCount": 1,
+                    "indexedAt": "2024-09-03T10:58:10.569Z",
+                    "embeds": [
+                        {
+                            "$type": "app.bsky.embed.external#view",
+                            "external": {
+                                "uri": "https://sumauma.com/voce-percebe-que-estao-te-matando/",
+                                "title": "Você percebe que estão te matando? - SUMAÚMA",
+                                "description": "Ou assumimos a tarefa de barrar os assassinos ou vai haver muito mais sangue, dor, morte e talvez extinção",
+                                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5incv6qumt77nshmoq6kzj45/bafkreicckbz34wx4vog5vtujy2vnluthty2mk252cstsgb7gicdlkantge@jpeg"
+                            }
+                        }
+                    ]
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 4,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-03T13:44:17.512Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3ktsoiezx3t2j",
+            "cid": "bafyreiesuuwwv3ianaeucehgp3j7vcj23oatmztxr4xqjucvkzq4tl2mem",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-05-31T19:37:20.320Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Levantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreia5e7tf3tndmj47yx5ztl2iv6ucvrwghoijpvguqpb6x36qzwfz6a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 830432
+                        },
+                        "title": "As aves do Tocantins - ((o))eco",
+                        "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 219,
+                            "byteStart": 192
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "As aves do Tocantins. ⬇️\n\nLevantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica; pelo menos 43 estão ameaçadas de extinção. \n\noeco.org.br/noticias/as-..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/noticias/as-aves-do-tocantins/",
+                    "title": "As aves do Tocantins - ((o))eco",
+                    "description": "Levantamento lista 720 aves no estado, com espécies típicas de Cerrado, Amazônia, Caatinga e Mata Atlântica",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreia5e7tf3tndmj47yx5ztl2iv6ucvrwghoijpvguqpb6x36qzwfz6a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 7,
+            "quoteCount": 0,
+            "indexedAt": "2024-05-31T19:37:20.320Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:myaaa7iluvv7omoocjno5fyy/app.bsky.feed.post/3kq7acxirxr2i",
+            "cid": "bafyreigjwpzxg3h2v7xgppjngdrfleihckmljijzlv3l47u4r6myefx5ne",
+            "author": {
+                "did": "did:plc:myaaa7iluvv7omoocjno5fyy",
+                "handle": "oeco.org.br",
+                "displayName": "((o))eco | jornalismo ambiental",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreibit7uich5hxkivm3lcsw5ldljbkgl6mkltnqvb3usd6qvy6p6icq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:12:58.696Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T21:47:34.911Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "É inadiável ampliar unidades de conservação e melhor alocara vegetação legalmente protegida para salvar espécies nativas",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreie3ywpqjnqkk2xpw7bsve5kgbpxop7uycpv5oc2zzcs44u7zuxpui"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 566272
+                        },
+                        "title": "Destruição do Cerrado emperra mega corredor da onça-pintada - ((o))eco",
+                        "uri": "https://oeco.org.br/reportagens/destruicao-do-cerrado-emperra-mega-corredor-da-onca-pintada/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://oeco.org.br/reportagens/destruicao-do-cerrado-emperra-mega-corredor-da-onca-pintada/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 227,
+                            "byteStart": 200
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Destruição do Cerrado emperra mega corredor da onça-pintada ⬇️\n\nÉ inadiável ampliar unidades de conservação e melhor alocar a vegetação legalmente protegida para salvar espécies nativas\noeco.org.br/reportagens/..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://oeco.org.br/reportagens/destruicao-do-cerrado-emperra-mega-corredor-da-onca-pintada/",
+                    "title": "Destruição do Cerrado emperra mega corredor da onça-pintada - ((o))eco",
+                    "description": "É inadiável ampliar unidades de conservação e melhor alocara vegetação legalmente protegida para salvar espécies nativas",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:myaaa7iluvv7omoocjno5fyy/bafkreie3ywpqjnqkk2xpw7bsve5kgbpxop7uycpv5oc2zzcs44u7zuxpui@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 11,
+            "likeCount": 43,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T21:47:34.911Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3kojkndr3xo25",
+            "cid": "bafyreigrj5rqjt52s5aw2nmqzqc23ukkipfz3t6i4vg5udhdbvfd4odbey",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-25T13:28:36.112Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2024/03/25/mudanca-climatica-ameaca-pequenos-mamiferos-na-mata-atlantica-e-no-cerrado/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 283,
+                            "byteStart": 247
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Mudança climática ameaça pequenos mamíferos na Mata Atlântica e no Cerrado\n40 espécies de pequenos mamíferos da Mata Atlântica e do Cerrado terão seus habitats reduzidos pelas mudanças climáticas até 2070, colocando em risco 45% delas\nwww.ecodebate.com.br/2024/03/25/m..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-25T13:28:36.112Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2vllsk7fr6npem4qxjxtlorh/app.bsky.feed.post/3kn3yp2ky6t2l",
+            "cid": "bafyreidakpor37wuvz575vpvokucxrbht24bmrzkwydzq3prkvlnekucgi",
+            "author": {
+                "did": "did:plc:2vllsk7fr6npem4qxjxtlorh",
+                "handle": "uspoficial.bsky.social",
+                "displayName": "USP - Universidade de São Paulo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2vllsk7fr6npem4qxjxtlorh/bafkreif6mx7muv2p2rpcpdymijsobsbsulbdn2nbs4j3od4p5h23kurqja@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-03T18:17:35.617Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-07T10:37:38.485Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Quando espécie invasora foi removida, plantas foram capazes de rebrotar a partir de estruturas conservadas embaixo da terra",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreidhvuhw5hsawjnhrl5g7vn2mkkzq37ufyd5lgr4re47ejjma5yqhu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 651385
+                        },
+                        "title": "Cerrado sobrevive e rebrota do subterrâneo após anos de cultivo de pinheiros​",
+                        "uri": "https://jornal.usp.br/ciencias/cerrado-sobrevive-e-rebrota-do-subterraneo-apos-anos-de-cultivo-de-pinheiros/"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Após 40 anos de cultivo comercial de pinheiros em Águas de Santa Bárbara, SP, a Estação Ecológica local começou um plano para remover essa espécie exótica do Cerrado. Uma pesquisa da USP observou o rebrotamento de espécies características do bioma"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornal.usp.br/ciencias/cerrado-sobrevive-e-rebrota-do-subterraneo-apos-anos-de-cultivo-de-pinheiros/",
+                    "title": "Cerrado sobrevive e rebrota do subterrâneo após anos de cultivo de pinheiros​",
+                    "description": "Quando espécie invasora foi removida, plantas foram capazes de rebrotar a partir de estruturas conservadas embaixo da terra",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2vllsk7fr6npem4qxjxtlorh/bafkreidhvuhw5hsawjnhrl5g7vn2mkkzq37ufyd5lgr4re47ejjma5yqhu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-07T10:37:38.485Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:mxlebqkymh6jbclsffsun2aq/app.bsky.feed.post/3klrk37ybvg2x",
+            "cid": "bafyreiaed5dutnmg6yd275xydxdfwe43ksw3flpvq47z3jkm2lhtlaekue",
+            "author": {
+                "did": "did:plc:mxlebqkymh6jbclsffsun2aq",
+                "handle": "ecodebate.com.br",
+                "displayName": "EcoDebate",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mxlebqkymh6jbclsffsun2aq/bafkreidhpdhjvra3pvinlzz7vc4dvc6ymknbwxhszs5griooosqwddbaaa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-11-08T00:03:31.848Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-02-19T13:24:11.102Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.ecodebate.com.br/2024/02/19/conheca-os-frutos-do-cerrado/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 216,
+                            "byteStart": 180
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Conheça os frutos do Cerrado\n\nCom 5% de todas as espécies do planeta e 30% das espécies do País, das principais riquezas do Cerrado destacam-se o baru, pequi, buriti e babaçu\nwww.ecodebate.com.br/2024/02/19/c..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-02-19T13:24:11.102Z",
+            "labels": []
+        }
+    ]
+}

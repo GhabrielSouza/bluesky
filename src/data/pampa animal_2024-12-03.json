@@ -1,0 +1,99 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:meae4zm2jtmjtsgwdknuniws/app.bsky.feed.post/3l3ztqt6huu2a",
+            "cid": "bafyreiecwctgh5a2lrybcwwxprwvcxbpfaavdhfuma3kcfy6x5syrymj6y",
+            "author": {
+                "did": "did:plc:meae4zm2jtmjtsgwdknuniws",
+                "handle": "nataliajulieta.bsky.social",
+                "displayName": "Chakras confuso",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:meae4zm2jtmjtsgwdknuniws/bafkreid2rhegfdk43pnhs2htnmfpp4pq63jv6tyzoq4eanmcngdvc4h3tu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T20:58:53.740Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-13T11:21:43.116Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Eu sonhei que tava levando uma senhora em uma \"pampa\", que eh um carro, na emergência, pq ela tava em trabalho de parto, estava grávida de um JUMENTO, animal mesmo... infelizmente ela perdeu... Bom dia!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-13T11:21:43.116Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kvyxspfjej2d",
+            "cid": "bafyreiexjz5pjperllyiayzzljm5hyr65lm2auoft5x4soetglho4uwcay",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-06-28T18:30:30.372208Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Possível indivíduo híbrido da espécies gato-do-mato-grande e gato-do-mato-pequeno tem ainda pelagem preta, causada por anomalia genética.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibjyfjmyzijzlceyk7p2lg6wl67zuqx2qjxzohesrcgxkugdxnx7a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 109888
+                        },
+                        "title": "Gato melânico é registrado entre área de Pampa e Mata Atlântica no RS; animal pode ser híbrido",
+                        "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/06/28/gato-melanico-e-registrado-entre-area-de-pampa-e-mata-atlantica-no-rs.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Gato melânico é registrado entre área de Pampa e Mata Atlântica no RS; animal pode ser híbrido"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2024/06/28/gato-melanico-e-registrado-entre-area-de-pampa-e-mata-atlantica-no-rs.ghtml",
+                    "title": "Gato melânico é registrado entre área de Pampa e Mata Atlântica no RS; animal pode ser híbrido",
+                    "description": "Possível indivíduo híbrido da espécies gato-do-mato-grande e gato-do-mato-pequeno tem ainda pelagem preta, causada por anomalia genética.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreibjyfjmyzijzlceyk7p2lg6wl67zuqx2qjxzohesrcgxkugdxnx7a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-06-28T18:30:30.372Z",
+            "labels": []
+        }
+    ]
+}

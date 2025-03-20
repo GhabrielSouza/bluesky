@@ -1,0 +1,216 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:f6kqv6tpxdupcvibeolovo5l/app.bsky.feed.post/3l6vowyew5m2g",
+            "cid": "bafyreig6wp572tmmrcxdvfrnvy6tn2uh3evsy3ixar6b7pqnwe3eeuzomu",
+            "author": {
+                "did": "did:plc:f6kqv6tpxdupcvibeolovo5l",
+                "handle": "juliorezende.bsky.social",
+                "displayName": "Julio Rezende ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f6kqv6tpxdupcvibeolovo5l/bafkreienbtttnbpcwfts7uzd4f4vl35tuzxxnjoca3k4c5q3o3blaot56m@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-10T00:40:04.609Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T00:00:37.825Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "YouTube video by Julio Rezende",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihzpgcitgsmpsjudtnbitmnnfoxksvwsvrftoacaocxewiwznxfaq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 74940
+                        },
+                        "title": "Livros sobre a aplicação dos Objetivos do Desenvolvimento Sustentável no CRA-RN -Autor Julio Rezende",
+                        "uri": "https://youtu.be/7VuseylGOhY"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/7VuseylGOhY"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 124,
+                            "byteStart": 104
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ODS"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 129,
+                            "byteStart": 125
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Administracao"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 144,
+                            "byteStart": 130
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "Sustentabilidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 162,
+                            "byteStart": 145
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "DesenvolvimentoSustentavel"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 190,
+                            "byteStart": 163
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Livros sobre a aplicação dos Objetivos do Desenvolvimento Sustentável no CRA-RN -Autor Julio Rezende\nyoutu.be/7VuseylGOhY\n#ODS #Administracao #Sustentabilidade #DesenvolvimentoSustentavel"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://youtu.be/7VuseylGOhY",
+                    "title": "Livros sobre a aplicação dos Objetivos do Desenvolvimento Sustentável no CRA-RN -Autor Julio Rezende",
+                    "description": "YouTube video by Julio Rezende",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f6kqv6tpxdupcvibeolovo5l/bafkreihzpgcitgsmpsjudtnbitmnnfoxksvwsvrftoacaocxewiwznxfaq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T00:00:37.825Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:arh5arla2gxrznvncmoyzhml/app.bsky.feed.post/3kxkqq2fqbi2t",
+            "cid": "bafyreiecehtj4hvzlsl26oyixln3l5lnvusqedrt3bpvlwvnikobkz7hri",
+            "author": {
+                "did": "did:plc:arh5arla2gxrznvncmoyzhml",
+                "handle": "jornalcomunidade.bsky.social",
+                "displayName": "Jornal Comunidade",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:arh5arla2gxrznvncmoyzhml/bafkreifn7exydv5334kaoj266dgm7pppt3twqiwnlajming5lxjzizmqju@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-05-21T14:27:18.205Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-07-18T13:36:52.683Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Integrantes do governo brasileiro participaram esta semana do Fórum Político de Alto Nível sobre Desenvolvimento Sustentável, na Organização das Nações",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieg4cv45wqqmf4yzibwtuzvssvfywchzqngihwmrjku6v55cc5oi4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 403536
+                        },
+                        "title": "Brasil apresenta proposta de aliança global contra a fome e a pobreza",
+                        "uri": "https://jornalcomunidade.com.br/brasil-apresenta-proposta-de-alianca-global-contra-a-fome-e-a-pobreza/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://jornalcomunidade.com.br/brasil-apresenta-proposta-de-alianca-global-contra-a-fome-e-a-pobreza/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 111,
+                            "byteStart": 72
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "aliancaglobalcontraafomeeapobreza"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 146,
+                            "byteStart": 112
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "desenvolvimentosustentavel"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 174,
+                            "byteStart": 147
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Brasil apresenta proposta de aliança global contra a fome e a pobreza\n\njornalcomunidade.com.br/brasil-apres...\n#aliancaglobalcontraafomeeapobreza #desenvolvimentosustentavel"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://jornalcomunidade.com.br/brasil-apresenta-proposta-de-alianca-global-contra-a-fome-e-a-pobreza/",
+                    "title": "Brasil apresenta proposta de aliança global contra a fome e a pobreza",
+                    "description": "Integrantes do governo brasileiro participaram esta semana do Fórum Político de Alto Nível sobre Desenvolvimento Sustentável, na Organização das Nações",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:arh5arla2gxrznvncmoyzhml/bafkreieg4cv45wqqmf4yzibwtuzvssvfywchzqngihwmrjku6v55cc5oi4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-07-18T13:36:52.683Z",
+            "labels": []
+        }
+    ]
+}

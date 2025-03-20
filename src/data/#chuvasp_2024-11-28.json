@@ -1,0 +1,555 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:kq7yei72rjatbk3yvv2ibznj/app.bsky.feed.post/3l7yv6cuipm2j",
+            "cid": "bafyreihlonv2qhmbhr77toz5r7qpuiafp3ota5ha6eknxngsu6gl76brsa",
+            "author": {
+                "did": "did:plc:kq7yei72rjatbk3yvv2ibznj",
+                "handle": "noticiandotv.bsky.social",
+                "displayName": "Política descomplicada",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kq7yei72rjatbk3yvv2ibznj/bafkreia5du7ski4wondbmkoy77pfrwh3nn2o4w75rjqngmghbic5o7pygq@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:24:51.046Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-02T23:55:17.081Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 498,
+                                "width": 720
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreif6kxasyn4qgfztvogr7pm6npj7nmwtgpbjldq5o7wht4crkdm5kq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 108238
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 178,
+                            "byteStart": 170
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ApagãoSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 189,
+                            "byteStart": 179
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "RicardoNunes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 203,
+                            "byteStart": 190
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SãoPaulo"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 204
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SemEnergia"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 226,
+                            "byteStart": 215
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "TemporalSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 238,
+                            "byteStart": 227
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "EleiçõesSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 239
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "SPNotícias"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 265,
+                            "byteStart": 253
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "🚨 URGENTE: Adivinha como está a galera que votou no Nunes? Após a chuva em São Paulo, quase 200 mil pessoas (cerca de 3 moradores por imóvel) estão sem energia!\n\n#ChuvaSP #ApagãoSP #RicardoNunes #SãoPaulo #SemEnergia #TemporalSP #EleiçõesSP #SPNotícias"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kq7yei72rjatbk3yvv2ibznj/bafkreif6kxasyn4qgfztvogr7pm6npj7nmwtgpbjldq5o7wht4crkdm5kq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:kq7yei72rjatbk3yvv2ibznj/bafkreif6kxasyn4qgfztvogr7pm6npj7nmwtgpbjldq5o7wht4crkdm5kq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 498,
+                            "width": 720
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-02T23:55:18.786Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:g7qgrtl2gesmrba3v4eyewbn/app.bsky.feed.post/3l6hy5fnkr72r",
+            "cid": "bafyreid7k6mpntxe3cebhklopfmb3kw3fti3wij4tk266xxunmi5zum7la",
+            "author": {
+                "did": "did:plc:g7qgrtl2gesmrba3v4eyewbn",
+                "handle": "massadoboulos.bsky.social",
+                "displayName": "Massa Do Boulos",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:g7qgrtl2gesmrba3v4eyewbn/bafkreidj5k4kprymhn6qtar4he2axfbri4h5nm436nvjbs2etbxf2tnvwe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-30T22:28:45.406Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-14T13:07:38.255Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1280,
+                                "width": 1219
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiauh5fmzl32vbyeiccghvfiugmtcv3qqzrubisig2ukewqe2icjli"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 432428
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "apagao"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 9,
+                            "byteStart": 2
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "nunes"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 16,
+                            "byteStart": 10
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "blackout"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 26,
+                            "byteStart": 17
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvasp"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 35,
+                            "byteStart": 27
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "enel"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 41,
+                            "byteStart": 36
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "boulos"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 49,
+                            "byteStart": 42
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\n\n#apagao #nunes #blackout #chuvasp #enel #boulos"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g7qgrtl2gesmrba3v4eyewbn/bafkreiauh5fmzl32vbyeiccghvfiugmtcv3qqzrubisig2ukewqe2icjli@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:g7qgrtl2gesmrba3v4eyewbn/bafkreiauh5fmzl32vbyeiccghvfiugmtcv3qqzrubisig2ukewqe2icjli@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1280,
+                            "width": 1219
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-14T13:07:38.255Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w6qiew676e5nj6nhw6m5pmff/app.bsky.feed.post/3l6ctzarwv22v",
+            "cid": "bafyreia7qad3tm2ylod4uxiiffixjpy2cctzthyivogky25go5xsans24m",
+            "author": {
+                "did": "did:plc:w6qiew676e5nj6nhw6m5pmff",
+                "handle": "aninhacontimesmo.bsky.social",
+                "displayName": "Aninha Conti",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6qiew676e5nj6nhw6m5pmff/bafkreif4efi4bzsuswpr5hogipamhaxnz6z4f4jzmfwl2uj2rqrko6isva@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T09:40:57.425Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-12T12:10:46.683Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 124,
+                            "byteStart": 116
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Rapaz.... Que tempestade foi essa a noite passada em SP?? Moro no décimo quarto andar... Foi assustador!! 😵😔 #ChuvaSP"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-12T12:10:46.683Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.feed.post/3l64sesk5tm2i",
+            "cid": "bafyreiemge77chahfqjxzsbna7ns677zgjegsacbx2rupvzfiewbwp7uju",
+            "author": {
+                "did": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                "handle": "ricardomartins.bsky.social",
+                "displayName": "Ricardo Martins 🤙🏽",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:to6skwmnwnf7uga72o3jpsq7/bafkreicntmpygu3vtl2n5ujyeuwqqzduq75znzrwuqoeg2zwljnnjebagi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                        "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.actor.profile/self",
+                        "cid": "bafyreifmdex775hfzimr6x422wlmon5xjeuahrsxev7gaqxlebmkpcgavq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-14T21:53:00.668Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-10T02:25:28.799Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 8,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#ChuvaSP"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-10T02:25:28.799Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w6qiew676e5nj6nhw6m5pmff/app.bsky.feed.post/3l54xdzunou25",
+            "cid": "bafyreibvhfjkwl5myqzmlgvpubvvsnjn4fthjfxdiyyd6vbhyq3zxlnqj4",
+            "author": {
+                "did": "did:plc:w6qiew676e5nj6nhw6m5pmff",
+                "handle": "aninhacontimesmo.bsky.social",
+                "displayName": "Aninha Conti",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w6qiew676e5nj6nhw6m5pmff/bafkreif4efi4bzsuswpr5hogipamhaxnz6z4f4jzmfwl2uj2rqrko6isva@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-06T09:40:57.425Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-27T10:29:21.046Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 46,
+                            "byteStart": 38
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Que delicia de chuvinha!!!!! 🙏💦 #ChuvaSP"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-27T10:29:20.713Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.feed.post/3kqc6bv6zkc25",
+            "cid": "bafyreic6jtcyb4mby7dn3nkqbsyyzbz2pqqnectzol7fqn5gy6ghsatuji",
+            "author": {
+                "did": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                "handle": "ricardomartins.bsky.social",
+                "displayName": "Ricardo Martins 🤙🏽",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:to6skwmnwnf7uga72o3jpsq7/bafkreicntmpygu3vtl2n5ujyeuwqqzduq75znzrwuqoeg2zwljnnjebagi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                        "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.actor.profile/self",
+                        "cid": "bafyreifmdex775hfzimr6x422wlmon5xjeuahrsxev7gaqxlebmkpcgavq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-14T21:53:00.668Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-17T01:49:11.749Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 19,
+                            "byteStart": 11
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Olha aí a #ChuvaSP de novo \n\nPodia refrescar esse calor tbm"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-17T01:49:11.749Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.feed.post/3kq6ugiy65p2t",
+            "cid": "bafyreihwbs5tqx6bsu47hddz6tfno47h2egvpz7ug7pwbzelfhhvcuo6gy",
+            "author": {
+                "did": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                "handle": "ricardomartins.bsky.social",
+                "displayName": "Ricardo Martins 🤙🏽",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:to6skwmnwnf7uga72o3jpsq7/bafkreicntmpygu3vtl2n5ujyeuwqqzduq75znzrwuqoeg2zwljnnjebagi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:to6skwmnwnf7uga72o3jpsq7",
+                        "uri": "at://did:plc:to6skwmnwnf7uga72o3jpsq7/app.bsky.actor.profile/self",
+                        "cid": "bafyreifmdex775hfzimr6x422wlmon5xjeuahrsxev7gaqxlebmkpcgavq",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-08-14T21:53:00.668Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-15T18:14:58.800Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaSP"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 24,
+                            "byteStart": 16
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Ela chegou... a #ChuvaSP"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-15T18:14:51.216Z",
+            "labels": []
+        }
+    ]
+}

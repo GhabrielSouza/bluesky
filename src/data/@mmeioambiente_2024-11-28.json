@@ -1,0 +1,822 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:x6w75g4fxmcl56xqrju2uahb/app.bsky.feed.post/3lawa6jks522m",
+            "cid": "bafyreigm3oaxqlv4r5otjqwrhyaoigfbbllncx54klkuc42kqd7u4h2xju",
+            "author": {
+                "did": "did:plc:x6w75g4fxmcl56xqrju2uahb",
+                "handle": "minpovosindigenas.bsky.social",
+                "displayName": "Ministério dos Povos Indígenas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreify6njawaufgj7fne4hpryj6vv4gnjtu72gtanqnq43hrwdkh2qsu@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-04T17:19:52.238Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-14T15:59:24.811Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1350,
+                                "width": 1080
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieogglgzgicnfj4czexqwimz3f2f3flzmoqrd6ulun4uelqrbqhcu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 360961
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreie6lzsfqjnebylcs663apdpe5oaj5bkjrstxkq5otwpwvz7qrfbfa",
+                        "uri": "at://did:plc:x6w75g4fxmcl56xqrju2uahb/app.bsky.feed.post/3lawa6gsiws2m"
+                    },
+                    "root": {
+                        "cid": "bafyreidolqhy3rbusjl5yze7q45bzipxiolfnoroaeay7jiw3yhehztrji",
+                        "uri": "at://did:plc:x6w75g4fxmcl56xqrju2uahb/app.bsky.feed.post/3law7yyzfuc2m"
+                    }
+                },
+                "text": "Dentre as iniciativas brasileiras para ampliar a incidência direta dos povos indígenas com os negociadores, Sonia Guajajara citou o Programa Kuntari Katu: Líderes Indígenas na Política Global, criado em parceria com o \n@itamaratygovbr\n e \n@mmeioambiente\n."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreieogglgzgicnfj4czexqwimz3f2f3flzmoqrd6ulun4uelqrbqhcu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:x6w75g4fxmcl56xqrju2uahb/bafkreieogglgzgicnfj4czexqwimz3f2f3flzmoqrd6ulun4uelqrbqhcu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1350,
+                            "width": 1080
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-14T15:59:30.690Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:7majwmunhotpczgpigrb3kpt/app.bsky.feed.post/3l7bzpt4vcr23",
+            "cid": "bafyreiconqafo75zlzqpiv3qisluy7xtt6l5gaj6gqkc2voqittcncfnqy",
+            "author": {
+                "did": "did:plc:7majwmunhotpczgpigrb3kpt",
+                "handle": "minfazenda.bsky.social",
+                "displayName": "Ministério da Fazenda",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreib5tmwcomkcikk7wdmemeqctezhg4dctkdbf7i6suef5327l4dzey@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T14:45:48.704Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-24T21:45:25.548Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "Foto: Diogo Zacarias/ MF",
+                            "aspectRatio": {
+                                "height": 1067,
+                                "width": 1600
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreidk5clkoy5j2fq4nsvwbgz7jb42uvsyjjexjyl5kyryh7vibn7dly"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 526646
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "G20"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 4,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "#G20 | Ministro da Fazenda, Fernando Haddad, discursou ao lado da ministra do @mmeioambiente, Marina Silva, na reunião Conjunta de Ministros das Finanças, do Clima e Meio Ambiente e das Relações Exteriores e Presidentes de Bancos Centrais, na sede do Banco Mundial, nesta quinta-feira, em Washington."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreidk5clkoy5j2fq4nsvwbgz7jb42uvsyjjexjyl5kyryh7vibn7dly@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7majwmunhotpczgpigrb3kpt/bafkreidk5clkoy5j2fq4nsvwbgz7jb42uvsyjjexjyl5kyryh7vibn7dly@jpeg",
+                        "alt": "Foto: Diogo Zacarias/ MF",
+                        "aspectRatio": {
+                            "height": 1067,
+                            "width": 1600
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 7,
+            "likeCount": 37,
+            "quoteCount": 1,
+            "indexedAt": "2024-10-24T21:45:25.548Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:d6iqr2dbpkwlskvup2pxuw2b/app.bsky.feed.post/3l73yprpxuf2l",
+            "cid": "bafyreigpklcjnpqpfkr2bfiyjnctoto6lquo6lbjlbqnvaggdxkgfakefq",
+            "author": {
+                "did": "did:plc:d6iqr2dbpkwlskvup2pxuw2b",
+                "handle": "marinasilva.bsky.social",
+                "displayName": "Marina Silva",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:d6iqr2dbpkwlskvup2pxuw2b/bafkreidyuoz3z22dbxfbs4epa5666ya5ku64yxrrvlovjuat4z422prme4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-01T16:33:05.344Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-22T12:11:31.778Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Canal oficial do Ministério do Meio Ambiente e Mudança do Clima",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreihzb5zly3fd4y7j5zufl2zcocnpsatxaxlh2es4cyshbk6udwmflu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 361092
+                        },
+                        "title": "Ministério do Meio Ambiente e Mudança do Clima",
+                        "uri": "https://www.youtube.com/@mmeioambiente"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.youtube.com/@mmeioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 191,
+                            "byteStart": 161
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "cop16"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 198,
+                            "byteStart": 192
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "biodiversidade"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 214,
+                            "byteStart": 199
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "preservação"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 229,
+                            "byteStart": 215
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "meioambiente"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 243,
+                            "byteStart": 230
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreid5def7lthso54edborzzw7rljudbp2n7qiyq5e2zpt6suuqp2oc4",
+                        "uri": "at://did:plc:d6iqr2dbpkwlskvup2pxuw2b/app.bsky.feed.post/3l73ypi3vl627"
+                    },
+                    "root": {
+                        "cid": "bafyreid5def7lthso54edborzzw7rljudbp2n7qiyq5e2zpt6suuqp2oc4",
+                        "uri": "at://did:plc:d6iqr2dbpkwlskvup2pxuw2b/app.bsky.feed.post/3l73ypi3vl627"
+                    }
+                },
+                "text": "E você pode acompanhar o COP 16. Em seu canal no Youtube, o Ministério do Meio Ambiente vai transmitir a programação do Espaço Brasil no evento.\nAcompanhe: www.youtube.com/@mmeioambiente\n#cop16 #biodiversidade #preservação #meioambiente"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://www.youtube.com/@mmeioambiente",
+                    "title": "Ministério do Meio Ambiente e Mudança do Clima",
+                    "description": "Canal oficial do Ministério do Meio Ambiente e Mudança do Clima",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d6iqr2dbpkwlskvup2pxuw2b/bafkreihzb5zly3fd4y7j5zufl2zcocnpsatxaxlh2es4cyshbk6udwmflu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 6,
+            "likeCount": 56,
+            "quoteCount": 2,
+            "indexedAt": "2024-10-22T12:11:31.778Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:u53747tibpl6ggdohla3a5k3/app.bsky.feed.post/3l5euzxqrcg2z",
+            "cid": "bafyreiezs2pebbyr6on6arzx2kbxy377oqdn2dhybaeo4rqvelnicfu3ba",
+            "author": {
+                "did": "did:plc:u53747tibpl6ggdohla3a5k3",
+                "handle": "embbrasilmvd.bsky.social",
+                "displayName": "Embajada de Brasil en Montevideo",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreic3eh6ag4er26bk2qagalpsalojbdzsllz5bzfz3gxx5mthpvv6zq@jpeg",
+                "labels": [],
+                "createdAt": "2024-09-02T20:15:41.800Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-30T14:09:13.120Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia3gcymxfcs5livviyl64f3ht6eermbsmxsdy63g4i4sanys3sohi"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 662902
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1500,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibcxmktlgh4mfwdxzcubusxzxci2re2xqkq6qyxroesknmw6rk76a"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 441467
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1500,
+                                "width": 2000
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicynko3yidgwl3nzyck3m4bx7puzcsjypktpxrcibh4mfk7v7adci"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 644111
+                            }
+                        },
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 2000,
+                                "width": 1500
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreign2orxdw3wdawdx72p7633hysluqbluyjsic5nj4nmjnvo5rcj4u"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 561055
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": " a 123ª Reunião da Comissão Mista Uruguaio-Brasileira para o Desenvolvimento da Bacia da Lagoa Mirim (CLM). Além de diplomatas do @itamaratygovbr, a delegação brasileira foi integrada por representantes de órgãos como @mmeioambiente, @midregional, @dnitoficial e @antaq_oficial."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreia3gcymxfcs5livviyl64f3ht6eermbsmxsdy63g4i4sanys3sohi@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreia3gcymxfcs5livviyl64f3ht6eermbsmxsdy63g4i4sanys3sohi@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreibcxmktlgh4mfwdxzcubusxzxci2re2xqkq6qyxroesknmw6rk76a@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreibcxmktlgh4mfwdxzcubusxzxci2re2xqkq6qyxroesknmw6rk76a@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1500,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreicynko3yidgwl3nzyck3m4bx7puzcsjypktpxrcibh4mfk7v7adci@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreicynko3yidgwl3nzyck3m4bx7puzcsjypktpxrcibh4mfk7v7adci@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1500,
+                            "width": 2000
+                        }
+                    },
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreign2orxdw3wdawdx72p7633hysluqbluyjsic5nj4nmjnvo5rcj4u@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:u53747tibpl6ggdohla3a5k3/bafkreign2orxdw3wdawdx72p7633hysluqbluyjsic5nj4nmjnvo5rcj4u@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 2000,
+                            "width": 1500
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-30T14:09:13.120Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwyarkco4qluian4dhqarzm2/app.bsky.feed.post/3l43usen2ne26",
+            "cid": "bafyreiewnoryqdzdyfkswbwz746h3s2aewkd3r4jdormgbz764av3knpba",
+            "author": {
+                "did": "did:plc:bwyarkco4qluian4dhqarzm2",
+                "handle": "claudiagds.bsky.social",
+                "displayName": "Claudiacgds",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwyarkco4qluian4dhqarzm2/bafkreicauqzvprqixtrri6q2od763jmvdvzjnyoidfbtdeokgape3azhd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T14:17:10.932Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T06:45:48.816Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Suspeita é de ação coordenada e a PF instaurou 52 inquéritos para investigar causas dos incêndios.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreic62s3muzed5ok2nxw6g5a4ngfvg3potax435g3gdfiyvvdjxeorm"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 425722
+                        },
+                        "title": "Maioria das queimadas que destroem vegetação pelo país são provocadas por ação humana, diz Ibama",
+                        "uri": "https://cbn.globo.com/meio-ambiente/noticia/2024/09/13/maioria-das-queimadas-que-destroem-vegetacao-pelo-pais-sao-provocadas-por-acao-humana-diz-ibama.ghtml"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://cbn.globo.com/meio-ambiente/noticia/2024/09/13/maioria-das-queimadas-que-destroem-vegetacao-pelo-pais-sao-provocadas-por-acao-humana-diz-ibama.ghtml"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 269
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "@lulaoficial , @marinasilvaoficial , @mmeioambiente , @supremotribunalfederal   Seria maravilhoso o Brasil poder apresentar na COP 2026 todos os verdadeiros responsáveis pelas queimadas, com nomes, sobrenomes, fotos e cumprindo as pernas cabíveis. Seria \"A LIÇÃO\".\ncbn.globo.com/meio-ambient..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://cbn.globo.com/meio-ambiente/noticia/2024/09/13/maioria-das-queimadas-que-destroem-vegetacao-pelo-pais-sao-provocadas-por-acao-humana-diz-ibama.ghtml",
+                    "title": "Maioria das queimadas que destroem vegetação pelo país são provocadas por ação humana, diz Ibama",
+                    "description": "Suspeita é de ação coordenada e a PF instaurou 52 inquéritos para investigar causas dos incêndios.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bwyarkco4qluian4dhqarzm2/bafkreic62s3muzed5ok2nxw6g5a4ngfvg3potax435g3gdfiyvvdjxeorm@jpeg"
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 4,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T06:45:48.816Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bwyarkco4qluian4dhqarzm2/app.bsky.feed.post/3l43unwkv3r2q",
+            "cid": "bafyreigqfk7lijz3ztbcvscq6cmflghrj52f7egjj5o7yqc2cgzorsu7ci",
+            "author": {
+                "did": "did:plc:bwyarkco4qluian4dhqarzm2",
+                "handle": "claudiagds.bsky.social",
+                "displayName": "Claudiacgds",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bwyarkco4qluian4dhqarzm2/bafkreicauqzvprqixtrri6q2od763jmvdvzjnyoidfbtdeokgape3azhd4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T14:17:10.932Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-14T06:43:19.840Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihd4t6b5gx3rsi4cykmyjsrcrz56wk6qt4dzy5fnqxos6r3rgekvi",
+                        "uri": "at://did:plc:iizcyljkovbhpybutspekwcj/app.bsky.feed.post/3l3y2bqlqpe2f"
+                    },
+                    "root": {
+                        "cid": "bafyreihd4t6b5gx3rsi4cykmyjsrcrz56wk6qt4dzy5fnqxos6r3rgekvi",
+                        "uri": "at://did:plc:iizcyljkovbhpybutspekwcj/app.bsky.feed.post/3l3y2bqlqpe2f"
+                    }
+                },
+                "text": "@lulaoficial , @marinasilvaoficial , @mmeioambiente , @supremotribunalfederal   Seria maravilhoso o Brasil poder apresentar na COP 2026 todos os verdadeiros responsáveis pelas queimadas, com nomes, sobrenomes, fotos e cumprindo as pernas cabíveis. Seria \"A LIÇÃO\"."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-14T06:43:19.840Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qkf6zyopi3zr6fenvs6ivejl/app.bsky.feed.post/3l3wd6ijetl2a",
+            "cid": "bafyreiauivrz6hz6rfwikfrtteazfy7c26hvpkf5h4uei3436ettnenvie",
+            "author": {
+                "did": "did:plc:qkf6zyopi3zr6fenvs6ivejl",
+                "handle": "nelsinhofonseca.bsky.social",
+                "displayName": "Nelson Fonseca",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qkf6zyopi3zr6fenvs6ivejl/bafkreicb23ocmdhtqgywq4leca3x22wn2cqjwv773cerqga47gvjbe7hzi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-15T14:33:11.667Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-12T01:46:51.263Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Serra Gandarela MG em chamas !!! Precisamos de medidas urgentes para conter essa tragedia incendiaria  @flaviodino @governodobrasil @mmeioambiente @icmbio rodrigopacheco @oficialarthurlira @senadofederal romeuzemaoficial"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-12T01:46:51.263Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uqk3umoefc666jz45rm6dbbk/app.bsky.feed.post/3l3thf2atts2n",
+            "cid": "bafyreidmfsdctanets3jm4ujqkiok6yrte32julihcvyw6xjpptazpsuom",
+            "author": {
+                "did": "did:plc:uqk3umoefc666jz45rm6dbbk",
+                "handle": "nisiatrindadelima.bsky.social",
+                "displayName": "Nísia Trindade Lima",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uqk3umoefc666jz45rm6dbbk/bafkreidngmdj64vuppgfahqszqoku2yb2yvvk7awgggdea3vz2j7mjtg4i@jpeg",
+                "labels": [],
+                "createdAt": "2024-04-15T14:14:20.457Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T22:24:25.324Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreif52l2oyr7u3eeiv7wqy6mu3rp7aknuu5tkso5fxhhu77ec4m5d3q",
+                        "uri": "at://did:plc:uqk3umoefc666jz45rm6dbbk/app.bsky.feed.post/3l3thegzcjq2w"
+                    },
+                    "root": {
+                        "cid": "bafyreia4uylesnjtgeahbo2g54d7d2yxasvf44mh2btachfpe5yqmuv3ai",
+                        "uri": "at://did:plc:uqk3umoefc666jz45rm6dbbk/app.bsky.feed.post/3l3thd54hmv2g"
+                    }
+                },
+                "text": "Em junho, lançamos o Painel Vigiar, uma plataforma em parceria com o @mmeioambiente para monitorar a poluição atmosférica e seus efeitos na saúde. O painel apoia ações em todo o país, acompanhando focos de calor e áreas de maior risco. (+)"
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 17,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T22:24:25.324Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uuqekex6ttryybhwhjqqdqsw/app.bsky.feed.post/3kppfeld6ze25",
+            "cid": "bafyreih3ur74sxythypq2ahmphmwpr4pj7novgoxfrctwgvmb2qv7ropca",
+            "author": {
+                "did": "did:plc:uuqekex6ttryybhwhjqqdqsw",
+                "handle": "tonisorocaba.bsky.social",
+                "displayName": "ToniSorocaba🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uuqekex6ttryybhwhjqqdqsw/bafkreibj46stapffxfxuiiupg66vrnxrxhgpehpi63jsz5ocl22wr4iqiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T10:52:39.679Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-09T14:35:25.560Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 253,
+                                "width": 380
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihb5gsos63ectfze7myi5h4firdk3bqrb4fu73ak2j3mzmymw5kru"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 59025
+                            }
+                        }
+                    ]
+                },
+                "facets": [],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Tem lugar para todo mundo, desde que todos agindo em bases sustentáveis.\", disse Marina Silva, ministra do @mmeioambiente, durante lançamento do programa de parceira entre governo e municípios para redução do desmatamento na Amazônia, hoje(9). \n@Gov.br"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uuqekex6ttryybhwhjqqdqsw/bafkreihb5gsos63ectfze7myi5h4firdk3bqrb4fu73ak2j3mzmymw5kru@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uuqekex6ttryybhwhjqqdqsw/bafkreihb5gsos63ectfze7myi5h4firdk3bqrb4fu73ak2j3mzmymw5kru@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 253,
+                            "width": 380
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 3,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-09T14:35:24.511Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:uuqekex6ttryybhwhjqqdqsw/app.bsky.feed.post/3kppfbzfpg72x",
+            "cid": "bafyreid22dwdiqpyfnjoo2zyvlbyqkgykvae3476krvcklpmfdj7ptd56u",
+            "author": {
+                "did": "did:plc:uuqekex6ttryybhwhjqqdqsw",
+                "handle": "tonisorocaba.bsky.social",
+                "displayName": "ToniSorocaba🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:uuqekex6ttryybhwhjqqdqsw/bafkreibj46stapffxfxuiiupg66vrnxrxhgpehpi63jsz5ocl22wr4iqiy@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T10:52:39.679Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-09T14:33:59.648Z",
+                "facets": [],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"Tem lugar para todo mundo, desde que todos agindo em bases sustentáveis.\", disse Marina Silva, ministra do @mmeioambiente, durante lançamento do programa de parceira entre governo e municípios para redução do desmatamento na Amazônia, hoje(9). \nLula\n@Gov.br"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-09T14:33:58.115Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sx2ai2atywmkpo5xqk7sclqf/app.bsky.feed.post/3k47qj6htnc27",
+            "cid": "bafyreicylt7bamh6mxhgyoc5dwgznp3qg33x2r4earif67pc2t3u46ilj4",
+            "author": {
+                "did": "did:plc:sx2ai2atywmkpo5xqk7sclqf",
+                "handle": "carminha.bsky.social",
+                "displayName": "carmen chagas🌿",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sx2ai2atywmkpo5xqk7sclqf/bafkreifrmvxlsjsmhb6iixbe34j3xnsxsj2667aiucxlmcdv3u5eh6mpwa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-16T23:20:54.789Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-08-05T14:13:32.468Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "“A expectativa, disse a ministra, é que a Cúpula da Amazônia avance em ação conjunta para um modelo de desenvolvimento sustentável\nhttps://t.co/TyOIoHm5mC”",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiesnxdj7o4wnwvywpyuccgh5vwusqnaof3sjlpfrilr2xxfgzwz5a"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 346663
+                        },
+                        "title": "Tweet by @mmeioambiente",
+                        "uri": "https://twitter.com/mmeioambiente/status/1687817216215883776?t=ItF9R6NvBh0-elt8STDjnw&s=19"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://twitter.com/mmeioambiente/status/1687817216215883776?t=ItF9R6NvBh0-elt8STDjnw&s=19"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 90,
+                            "byteStart": 0
+                        }
+                    }
+                ],
+                "langs": [
+                    "en",
+                    "pt"
+                ],
+                "text": "https://twitter.com/mmeioambiente/status/1687817216215883776?t=ItF9R6NvBh0-elt8STDjnw&s=19"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://twitter.com/mmeioambiente/status/1687817216215883776?t=ItF9R6NvBh0-elt8STDjnw&s=19",
+                    "title": "Tweet by @mmeioambiente",
+                    "description": "“A expectativa, disse a ministra, é que a Cúpula da Amazônia avance em ação conjunta para um modelo de desenvolvimento sustentável\nhttps://t.co/TyOIoHm5mC”",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sx2ai2atywmkpo5xqk7sclqf/bafkreiesnxdj7o4wnwvywpyuccgh5vwusqnaof3sjlpfrilr2xxfgzwz5a@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2023-08-05T14:13:32.468Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:sx2ai2atywmkpo5xqk7sclqf/app.bsky.feed.post/3jzo23gpavy2h",
+            "cid": "bafyreigq5xwmrg5zwk4mvoag3eup4fsjcxvh7odfpccdal6h5zbsh6tg5y",
+            "author": {
+                "did": "did:plc:sx2ai2atywmkpo5xqk7sclqf",
+                "handle": "carminha.bsky.social",
+                "displayName": "carmen chagas🌿",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sx2ai2atywmkpo5xqk7sclqf/bafkreifrmvxlsjsmhb6iixbe34j3xnsxsj2667aiucxlmcdv3u5eh6mpwa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-06-16T23:20:54.789Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-04T02:26:30.024Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Tweet by @mmeioambiente",
+                        "uri": "https://twitter.com/mmeioambiente/status/1676046213240561668?t=3wHZr0rIUs0ySChALa-45g&s=19"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://twitter.com/mmeioambiente/status/1676046213240561668?t=3wHZr0rIUs0ySChALa-45g&s=19"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 271,
+                            "byteStart": 181
+                        }
+                    }
+                ],
+                "langs": [
+                    "en",
+                    "pt"
+                ],
+                "text": "\"A ministra Marina Silva e a secretária de Povos e Comunidades Tradicionais e Desenvolvimento Rural Sustentável do MMA, Edel Moraes, participaram da reinstalação do CG-PNGATI.\"\nhttps://twitter.com/mmeioambiente/status/1676046213240561668?t=3wHZr0rIUs0ySChALa-45g&s=19"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://twitter.com/mmeioambiente/status/1676046213240561668?t=3wHZr0rIUs0ySChALa-45g&s=19",
+                    "title": "Tweet by @mmeioambiente",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-04T02:26:30.024Z",
+            "labels": []
+        }
+    ]
+}

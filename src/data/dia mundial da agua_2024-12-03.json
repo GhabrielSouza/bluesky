@@ -1,0 +1,707 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:7xvo5igdq4wyk3mhu4fsubcx/app.bsky.feed.post/3kodimtxe2m2r",
+            "cid": "bafyreicwy7kzdeubiefz6jvkr5zr3b5nps2bclx4mizps2audqbx2nj6ju",
+            "author": {
+                "did": "did:plc:7xvo5igdq4wyk3mhu4fsubcx",
+                "handle": "dilmaresiste.bsky.social",
+                "displayName": "Dilma Resistente",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreighaexgvbq3kgivwbhxpgpqq3j6e5rcfyfk3cc55ufv4hm6nupodu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-12-04T20:24:17.412Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-23T03:30:23.783Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiauau3c2mykcwfmdrjpc4yd6z2uu4buiuovjgs776tvu4nkujnxg4"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 283517
+                        },
+                        "title": "Como a mineração e o agro estão nos matando lentamente pela água",
+                        "uri": "https://revistaforum.com.br/debates/2024/3/22/como-minerao-agro-esto-nos-matando-lentamente-pela-agua-por-padre-joo-leleco-pimentel-156135.html"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Como a mineração e o agro estão nos matando lentamente pela água\n\"Duas pesquisas mostram dados preocupantes sobre a contaminação da água que bebemos por causa da mineração e dos agrotóxicos. Neste Dia Mundial da Água não temos muito o que comemorar\"\nSiga nosso Twitter / Instagram @DilmaResiste"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://revistaforum.com.br/debates/2024/3/22/como-minerao-agro-esto-nos-matando-lentamente-pela-agua-por-padre-joo-leleco-pimentel-156135.html",
+                    "title": "Como a mineração e o agro estão nos matando lentamente pela água",
+                    "description": "",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7xvo5igdq4wyk3mhu4fsubcx/bafkreiauau3c2mykcwfmdrjpc4yd6z2uu4buiuovjgs776tvu4nkujnxg4@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-23T03:30:23.783Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kocizfzcgf2c",
+            "cid": "bafyreigrhf4sdovykkpikiejtf4mlttk4yb3x3ccc2c7sojpge77m3of5u",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T18:10:53.875958Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Evento ocorreu nesta sexta-feira (22), no bairro Alto Alegre. Tema escolhido para esse ano é \"A água nos move, o clima nos move\".",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreieyyjgr6xoqsqjri2hlcxpdll5mlcgxtccdt2jrup23pe2wep7gjq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 240378
+                        },
+                        "title": "Dia Mundial da Água: Iniciativa planta 500 mudas de árvores em área próxima a igarapé de Rio Branco",
+                        "uri": "https://g1.globo.com/ac/acre/noticia/2024/03/22/dia-mundial-da-agua-iniciativa-planta-500-mudas-de-arvores-em-area-proxima-a-igarape-de-rio-branco.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água: Iniciativa planta 500 mudas de árvores em área próxima a igarapé de Rio Branco"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/ac/acre/noticia/2024/03/22/dia-mundial-da-agua-iniciativa-planta-500-mudas-de-arvores-em-area-proxima-a-igarape-de-rio-branco.ghtml",
+                    "title": "Dia Mundial da Água: Iniciativa planta 500 mudas de árvores em área próxima a igarapé de Rio Branco",
+                    "description": "Evento ocorreu nesta sexta-feira (22), no bairro Alto Alegre. Tema escolhido para esse ano é \"A água nos move, o clima nos move\".",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreieyyjgr6xoqsqjri2hlcxpdll5mlcgxtccdt2jrup23pe2wep7gjq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T18:10:53.875Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3koc7mcvqvo2k",
+            "cid": "bafyreid6fvt35fivy3hii2d2wnko5ebveyalfndxntl3gpz2m55sijau34",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T15:22:30.946064Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Rede Amor e Esperança também dispersou bombas de sementes e contou com o apoio de, aproximadamente, 70 pessoas entre voluntários e alunos da Apae e de uma escola particular.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifdrquxdhrvrbgj3iiyfdx4mhqdqvqcxjwpmizy2ixkutpov46tdu"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 290560
+                        },
+                        "title": "Para comemorar o Dia Mundial da Água, ONG realiza plantio de mudas nativas próximo a nascente de rio em Presidente Prudente",
+                        "uri": "https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/03/22/para-comemorar-o-dia-mundial-da-agua-ong-realiza-plantio-de-mudas-nativas-proximo-a-nascente-de-rio-em-presidente-prudente.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Para comemorar o Dia Mundial da Água, ONG realiza plantio de mudas nativas próximo a nascente de rio em Presidente Prudente"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/03/22/para-comemorar-o-dia-mundial-da-agua-ong-realiza-plantio-de-mudas-nativas-proximo-a-nascente-de-rio-em-presidente-prudente.ghtml",
+                    "title": "Para comemorar o Dia Mundial da Água, ONG realiza plantio de mudas nativas próximo a nascente de rio em Presidente Prudente",
+                    "description": "Rede Amor e Esperança também dispersou bombas de sementes e contou com o apoio de, aproximadamente, 70 pessoas entre voluntários e alunos da Apae e de uma escola particular.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifdrquxdhrvrbgj3iiyfdx4mhqdqvqcxjwpmizy2ixkutpov46tdu@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T15:22:30.946Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.feed.post/3koc75uymsr2v",
+            "cid": "bafyreiakwqlpzizktpiztma2c36tdb6fmh3rvq63btz2adnogqzgnvktxy",
+            "author": {
+                "did": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                "handle": "meurefugionerd.bsky.social",
+                "displayName": "🦋MEU REFUGIO NERD(LUKE)🍥🎮🔥🚀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwrvr75ryt5a73kwm4vdxkw7/bafkreibn5n2a4ztf7jy3pkpfigvsbaim3pzcldtzxaiibbobse7wfd2cxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                        "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.actor.profile/self",
+                        "cid": "bafyreihcijnz3efeuuugpknss5exddpdvrdfsqhuqnozwi3awdvleyeo64",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T20:14:50.877Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T15:14:28.129Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jb.com.br/brasil/meio-ambiente/2024/03/1049226-dia-mundial-da-agua-falta-de-acesso-a-agua-potavel-atinge-33-milhoes-de-pessoas-no-brasil.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 125,
+                            "byteStart": 96
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água: falta de acesso à água potável atinge 33 milhões de pessoas no Brasil\nwww.jb.com.br/brasil/meio-..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T15:14:28.129Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.feed.post/3koc6zwcr6j2v",
+            "cid": "bafyreih4qjaw44q3ije7qwsvx5x77g7xcwqmk6qfezsjkkzal2osevjnna",
+            "author": {
+                "did": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                "handle": "meurefugionerd.bsky.social",
+                "displayName": "🦋MEU REFUGIO NERD(LUKE)🍥🎮🔥🚀",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwrvr75ryt5a73kwm4vdxkw7/bafkreibn5n2a4ztf7jy3pkpfigvsbaim3pzcldtzxaiibbobse7wfd2cxi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:jwrvr75ryt5a73kwm4vdxkw7",
+                        "uri": "at://did:plc:jwrvr75ryt5a73kwm4vdxkw7/app.bsky.actor.profile/self",
+                        "cid": "bafyreihcijnz3efeuuugpknss5exddpdvrdfsqhuqnozwi3awdvleyeo64",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-01T20:14:50.877Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T15:12:15.283Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://www.jb.com.br/brasil/meio-ambiente/2024/03/1049216-dia-mundial-da-agua-cbh-baia-de-guanabara-investira-rs-405-milhoes-em-projetos-e-acoes-ambientais-durante-2024.html"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 269,
+                            "byteStart": 240
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água: CBH Baía de Guanabara investirá R$ 40,5 milhões em projetos e ações ambientais durante 2024\n\nComo forma de mitigar os efeitos da crise climática, na pauta estão projetos de educação ambiental, saneamento[...]\nwww.jb.com.br/brasil/meio-..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T15:12:15.283Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:6ft2wrbfbr3ybxtblqxd2y6q/app.bsky.feed.post/3kobzcqukzv2v",
+            "cid": "bafyreibcirfyouzbbskrpqcmsxjqro7bjqe6zp2a6ohpf7ck4dlodffdku",
+            "author": {
+                "did": "did:plc:6ft2wrbfbr3ybxtblqxd2y6q",
+                "handle": "maryalcantaras.bsky.social",
+                "displayName": "Mariana Alcântara ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6ft2wrbfbr3ybxtblqxd2y6q/bafkreihfol6mmeiky2bqikzegebppqfq7ftbcatvhhn3nzmlrvbt3pkya4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-07-18T15:39:29.984Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T13:30:28.444Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água e toma-lhe água!"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T13:29:49.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3kobtrmcbst2i",
+            "cid": "bafyreifs7x7oqnqvfdj7z3nam7pgehvn2vnhl2lqppdbolmuavumsuwuha",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T11:50:43.510377Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ação integra o Pacto Global da Organização das Nações Unidas (ONU) para combate à poluição do oceano e bacias hidrográficas.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreifra47jcn3ciwmdppjiuxfosvhhzlagabyaxi2tigzyt3tzvakbtq"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 273022
+                        },
+                        "title": "Dia Mundial da Água: Startup paraense faz limpeza em combate à poluição dos rios da Amazônia",
+                        "uri": "https://g1.globo.com/pa/para/noticia/2024/03/22/dia-mundial-da-agua-startup-paraense-faz-limpeza-em-combate-a-poluicao-dos-rios-da-amazonia.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água: Startup paraense faz limpeza em combate à poluição dos rios da Amazônia"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/pa/para/noticia/2024/03/22/dia-mundial-da-agua-startup-paraense-faz-limpeza-em-combate-a-poluicao-dos-rios-da-amazonia.ghtml",
+                    "title": "Dia Mundial da Água: Startup paraense faz limpeza em combate à poluição dos rios da Amazônia",
+                    "description": "Ação integra o Pacto Global da Organização das Nações Unidas (ONU) para combate à poluição do oceano e bacias hidrográficas.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreifra47jcn3ciwmdppjiuxfosvhhzlagabyaxi2tigzyt3tzvakbtq@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T11:50:43.510Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:xeridofkm26bmgi6sw7p6ixo/app.bsky.feed.post/3kobssh6mww2z",
+            "cid": "bafyreicnh73l5gh6pwe74xaqt2djalmboqwykeoomqm6qucsaw7czjnggm",
+            "author": {
+                "did": "did:plc:xeridofkm26bmgi6sw7p6ixo",
+                "handle": "entuxo.bsky.social",
+                "displayName": "Sapo Reco Reco",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xeridofkm26bmgi6sw7p6ixo/bafkreiez2ltx5eblrfbbgtjoleavhlbwx4b6bk3t6qd4opavrhp36pfvym@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-05-16T12:57:04.004Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T11:33:17.997Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://youtu.be/CnwwnEw5n-g?si=ZvyEWQXZ6ZyQQYQl"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 51,
+                            "byteStart": 27
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Feliz dia mundial da água youtu.be/CnwwnEw5n-g?..."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T11:33:17.997Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:bql5cq5leicj6s5pjsma2kur/app.bsky.feed.post/3kobmfqtl5e2k",
+            "cid": "bafyreidat44hr6qd2o24rw4ji5p3zhsg6pt7ilqrvjtgc3dis2khnt5epy",
+            "author": {
+                "did": "did:plc:bql5cq5leicj6s5pjsma2kur",
+                "handle": "elgatito.bsky.social",
+                "displayName": "el gatito",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bql5cq5leicj6s5pjsma2kur/bafkreic4ncl225j3jcz6wvuz4ymfff3l2jjy3cd6wzcgesjx4hoq2vb724@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:bql5cq5leicj6s5pjsma2kur",
+                        "uri": "at://did:plc:bql5cq5leicj6s5pjsma2kur/app.bsky.actor.profile/self",
+                        "cid": "bafyreicejwkqzfiyxdzn6yt4r6yflyergnk66mwclrbphegya37kmw4jye",
+                        "val": "!no-unauthenticated",
+                        "cts": "1970-01-01T00:00:00.000Z"
+                    }
+                ],
+                "createdAt": "2023-07-17T20:25:32.175Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-22T09:38:51.257Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 960,
+                                "width": 700
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreibmf2wavde3vdoemc544q7tyvsliievq7eho4vzeasavp3ghkeffu"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 443310
+                            }
+                        }
+                    ]
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "22 de Março - Dia Mundial da Água"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bql5cq5leicj6s5pjsma2kur/bafkreibmf2wavde3vdoemc544q7tyvsliievq7eho4vzeasavp3ghkeffu@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bql5cq5leicj6s5pjsma2kur/bafkreibmf2wavde3vdoemc544q7tyvsliievq7eho4vzeasavp3ghkeffu@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 960,
+                            "width": 700
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-22T09:38:51.257Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3ko7blt5kkf2v",
+            "cid": "bafyreicohlfigjmvjmex26hh7qikubs7d4dqyuqbxsdi2cgsisxmnaiuw4",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-21T11:20:02.123471Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Ação é gratuita e necessita de inscrição prévia. Além disso, museu também oferece trilha no dia 30 de março.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreigac3ju7mvrzw7hlbhq3s3hhtylkmoicww2n2uugwpp757zxqp4um"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 175697
+                        },
+                        "title": "Dia Mundial da Água: Museu da Energia de Salesópolis prepara programação especial; confira",
+                        "uri": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2024/03/21/dia-mundial-da-agua-museu-da-energia-de-salesopolis-prepara-programacao-especial-confira.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Dia Mundial da Água: Museu da Energia de Salesópolis prepara programação especial; confira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2024/03/21/dia-mundial-da-agua-museu-da-energia-de-salesopolis-prepara-programacao-especial-confira.ghtml",
+                    "title": "Dia Mundial da Água: Museu da Energia de Salesópolis prepara programação especial; confira",
+                    "description": "Ação é gratuita e necessita de inscrição prévia. Além disso, museu também oferece trilha no dia 30 de março.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigac3ju7mvrzw7hlbhq3s3hhtylkmoicww2n2uugwpp757zxqp4um@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-21T11:20:02.123Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kzkl2onyewbs7pehh2ellzcb/app.bsky.feed.post/3knqplaxmht23",
+            "cid": "bafyreiafmlgerlylfcfm6vfuiayuu5x3ji3m5iej72nfgfjt2xkawgvpse",
+            "author": {
+                "did": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                "handle": "g1-bot-rss.adilson.net.br",
+                "displayName": "Notícias do G1 (Não oficial)",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreigcqrdq4gvyf2wxff4eabj6m52vaqfieyqpxrcc7k46e7vldqs2j4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [
+                    {
+                        "cts": "2024-09-17T02:11:01.196Z",
+                        "src": "did:plc:ar7c4by46qjdydhdevvrndac",
+                        "uri": "did:plc:kzkl2onyewbs7pehh2ellzcb",
+                        "val": "impersonation",
+                        "ver": 1
+                    }
+                ],
+                "createdAt": "2023-08-26T16:34:06.053Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-03-15T16:20:19.495081Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "A Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema) em conjunto com o Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba (SP), realiza durante o mês de março, ações em comemoração ao mês da água e o Dia do Rio Sorocaba, 22 de março. ",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiao64kaeedhsjkukopfcm6wulzduy4akcunl32yiu5js6lzf4pzie"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 233520
+                        },
+                        "title": "Sorocaba tem programação especial em comemoração ao Dia Mundial da Água; confira",
+                        "uri": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/03/15/sorocaba-tem-programacao-especial-em-comemoracao-ao-dia-mundial-da-agua-confira.ghtml"
+                    }
+                },
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sorocaba tem programação especial em comemoração ao Dia Mundial da Água; confira"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2024/03/15/sorocaba-tem-programacao-especial-em-comemoracao-ao-dia-mundial-da-agua-confira.ghtml",
+                    "title": "Sorocaba tem programação especial em comemoração ao Dia Mundial da Água; confira",
+                    "description": "A Secretaria do Meio Ambiente, Proteção e Bem-Estar Animal (Sema) em conjunto com o Serviço Autônomo de Água e Esgoto (Saae) de Sorocaba (SP), realiza durante o mês de março, ações em comemoração ao mês da água e o Dia do Rio Sorocaba, 22 de março. ",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kzkl2onyewbs7pehh2ellzcb/bafkreiao64kaeedhsjkukopfcm6wulzduy4akcunl32yiu5js6lzf4pzie@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-03-15T16:20:19.495Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:gpunjjgvlyb4racypz3yfiq4/app.bsky.feed.post/3k2dajksoav2y",
+            "cid": "bafyreieph7xoaq5mnl2ibvml4xsifvtsoklbgifi7zsyrrlu3uqpnlehaa",
+            "author": {
+                "did": "did:plc:gpunjjgvlyb4racypz3yfiq4",
+                "handle": "jnascim.info",
+                "displayName": "Jeff Nascimento",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreie2tgspmficvbrgjei7yig3nnmbifqepihk7bqjx3zlhk464kgmdi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "all"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-04-22T10:36:21.706Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2023-07-12T12:47:40.856Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreihz63qkkusf3ovicth5mehgmkig2bj3vtvvkklxr3khjp3ja3lqpe"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 65598
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/07/2023&jornal=515&pagina=18&totalArquivos=153"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 220,
+                            "byteStart": 106
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt",
+                    "en"
+                ],
+                "text": "DOU de hoje: Lei institui a Caminhada da Água como evento ambiental comemorativo do Dia Mundial da Água https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/07/2023&jornal=515&pagina=18&totalArquivos=153"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreihz63qkkusf3ovicth5mehgmkig2bj3vtvvkklxr3khjp3ja3lqpe@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gpunjjgvlyb4racypz3yfiq4/bafkreihz63qkkusf3ovicth5mehgmkig2bj3vtvvkklxr3khjp3ja3lqpe@jpeg",
+                        "alt": ""
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2023-07-12T12:47:40.856Z",
+            "labels": []
+        }
+    ]
+}

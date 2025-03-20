@@ -1,0 +1,367 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3la5qo2sola2c",
+            "cid": "bafyreifmwj72nakkwylzqbkfwx7gezivpp25hlhzs3qy7dosmtxdscfniy",
+            "author": {
+                "did": "did:plc:6mom6je2sz6d47pnfnsmdohx",
+                "handle": "army-htp.bsky.social",
+                "displayName": "Army Help The Planet",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6mom6je2sz6d47pnfnsmdohx/bafkreieoabn76km4xd6mz2budrnqcspiux37vjpm36tk52yoc25svok6oa@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-29T15:53:14.919Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-04T22:17:55.913Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibiqalt4tvg2e6pmuohei5tx77tewbm3lnszzm4cuec7yabpigyxy",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3la5qn5b7hk2e"
+                    },
+                    "root": {
+                        "cid": "bafyreibiqalt4tvg2e6pmuohei5tx77tewbm3lnszzm4cuec7yabpigyxy",
+                        "uri": "at://did:plc:6mom6je2sz6d47pnfnsmdohx/app.bsky.feed.post/3la5qn5b7hk2e"
+                    }
+                },
+                "text": "Trata-se de uma área com cerca de 100 mil hectares e com uma fauna e flora específicas da caatinga nordestina. Mas suas belezas vão ainda mais além."
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 5,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-04T22:17:55.681Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n4lp2hff7oxqxi6y2jp3qrk3/app.bsky.feed.post/3l4ena2pmcm2g",
+            "cid": "bafyreickxdfg2asoeqli46nlh2st4quia34wrvpj757ax6w4gza2x5g6aq",
+            "author": {
+                "did": "did:plc:n4lp2hff7oxqxi6y2jp3qrk3",
+                "handle": "bluedotrin.bsky.social",
+                "displayName": "Desalojado do tweeter ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n4lp2hff7oxqxi6y2jp3qrk3/bafkreihyfqbqdhkovr4fsvom76wkth3rg5f3qb7xbs5ekplgixcxkanlyq@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-31T07:49:01.196Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-17T18:24:16.155Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreihnvskzt4gk4plk67h7j3iquqsf34jsunr54tiago5telr73uj3du",
+                        "uri": "at://did:plc:z5kksfnubaeqhmv3bfa2ahx6/app.bsky.feed.post/3l4emxqvqjr2d"
+                    },
+                    "root": {
+                        "cid": "bafyreig6lwww6gtbmw7qzy3wzjozlpixnmnot5ussm2h2anfznoqljfwfm",
+                        "uri": "at://did:plc:n4lp2hff7oxqxi6y2jp3qrk3/app.bsky.feed.post/3l4emu6gbcj2v"
+                    }
+                },
+                "text": "Amazônia, mata atlântica, caatinga e cerrado - A list\n\nPantanal - B list, sem identidade de flora nativa"
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-17T18:24:16.155Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:2dy7aou3xr64tehjwrpcejfb/app.bsky.feed.post/3l47ajnze4625",
+            "cid": "bafyreig6cnxw54psrlqnvyenqlxwp5wfkgu7m6j4tseuhkm2a56eupfyl4",
+            "author": {
+                "did": "did:plc:2dy7aou3xr64tehjwrpcejfb",
+                "handle": "danislarue.bsky.social",
+                "displayName": "daniel 🩺 | 📖: o parque das irmãs magníficas",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2dy7aou3xr64tehjwrpcejfb/bafkreigvr472rrrjuyoepdv7tdahgwsxx6iuysgjz6aoip57kiliud62l4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-09-02T01:27:42.104Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-15T14:53:40.840Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreiclh5egnf3pwkugodrlscnoons62g25gitdnlivgyd2es7ojntqxe",
+                        "uri": "at://did:plc:urp53y5glgajemqykkcsivv5/app.bsky.feed.post/3l452ezqer52t"
+                    },
+                    "root": {
+                        "cid": "bafyreiclh5egnf3pwkugodrlscnoons62g25gitdnlivgyd2es7ojntqxe",
+                        "uri": "at://did:plc:urp53y5glgajemqykkcsivv5/app.bsky.feed.post/3l452ezqer52t"
+                    }
+                },
+                "text": "e caatinga só lembram q é seco e a flora é xerófila 🤡"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-15T14:53:40.840Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.feed.post/3l3vfacwylg2c",
+            "cid": "bafyreiafswqyiru72p72objbhhlil7lcp4i5flfe5eqhzfucrjcohzaori",
+            "author": {
+                "did": "did:plc:m7v22s6av7wa5mht366iszbu",
+                "handle": "cansei.bsky.social",
+                "displayName": "MLucia 🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:m7v22s6av7wa5mht366iszbu/bafkreifihpa635tanbqwe4cy3yspjgtfjljilige4awggqz7rvzh4fneb4@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "none"
+                    }
+                },
+                "labels": [
+                    {
+                        "src": "did:plc:m7v22s6av7wa5mht366iszbu",
+                        "uri": "at://did:plc:m7v22s6av7wa5mht366iszbu/app.bsky.actor.profile/self",
+                        "cid": "bafyreibjhf22gvh5hql6fvthdhiygibszoj7zggnynjx72a6z62vmsew34",
+                        "val": "!no-unauthenticated",
+                        "cts": "2024-04-09T14:05:39.386Z"
+                    }
+                ],
+                "createdAt": "2024-04-09T14:05:37.992Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-11T16:55:20.292Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "estudioi"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 14,
+                            "byteStart": 5
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uau! #estudioi discute eleições americanas.  \nAfinal, Brasil está livre de problemas.\nNossos biomas: Mata Atlântica, Cerrado, Caatinga, Pantanal e Pampa estão seguros.\nFauna/Flora protegidas,sem interferências humanas.\nDep ñ estão querendo afundar o país c medidas pra anistiar criminosos.🤡🤯😡"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-11T16:51:18.831Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:w5mhomzk6i3woptully4n4qs/app.bsky.feed.post/3l3t6vvzbfs2x",
+            "cid": "bafyreicrta7g7ojtdat3lualhz4entjbikhqidsggaj2bgeoct3sjx2jcu",
+            "author": {
+                "did": "did:plc:w5mhomzk6i3woptully4n4qs",
+                "handle": "powderkegg.bsky.social",
+                "displayName": "barri de poiva v02",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:w5mhomzk6i3woptully4n4qs/bafkreiawk7swehjy7rgzuvozqsl26ftq2xzieojhtxfaw54mqwb6qishwu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T22:03:15.889Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-10T19:52:49.988Z",
+                "langs": [
+                    "pt"
+                ],
+                "text": "Sou sertaneja de nascença e fui criada entre o agreste e o sertão. Quando vejo a caatinga queimando eu sinto desespero. Cansei de ligar pra defesa civil quando passava na BR-232 e tinha foco de incêndio, especialmente na região de Salgueiro. Pelo amor de deus a flora já está fragilizada."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-10T19:52:47.827Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:n3hglc5vponmxqsdtuselhqf/app.bsky.feed.post/3l3kze3z4i62p",
+            "cid": "bafyreig4ekbzopzn23ppft7pu3cmek4ihp7befuh27wtuf6sxga5ezv23e",
+            "author": {
+                "did": "did:plc:n3hglc5vponmxqsdtuselhqf",
+                "handle": "wagfidelis10.bsky.social",
+                "displayName": "WagLegal🚩🚩🚩",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreigxbh6yufujah7s7etysfrbbckfh3mrrlumvjuzwbtailtily56hm@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-09T00:36:08.326Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-09-07T13:52:02.901Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 1000,
+                                "width": 814
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 658799
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "7deSetembro"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 199,
+                            "byteStart": 187
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "VivaoBrasil"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 212,
+                            "byteStart": 200
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Brasil brasileiro terra de samba e de pandeiro completamos 202 anos com a natureza em desespeiro da Amazônia a Pampa do cerrado ao pantanal e caatinga e a fauna e flora sendo extinta... #7deSetembro #VivaoBrasil"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:n3hglc5vponmxqsdtuselhqf/bafkreicm7uubgqglkoueekyeiu2kqqrxwvyvfrkycxb63oq7wgo7tzizvq@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 1000,
+                            "width": 814
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 4,
+            "likeCount": 8,
+            "quoteCount": 0,
+            "indexedAt": "2024-09-07T13:52:02.901Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:hmiktr2wpbjcc66hb6blikc6/app.bsky.feed.post/3kq4e5awiun2t",
+            "cid": "bafyreidfkzakchjdxpyindswcd7orhp4wwduhz4fur7jepqhy4vzglte6a",
+            "author": {
+                "did": "did:plc:hmiktr2wpbjcc66hb6blikc6",
+                "handle": "mirandajr.bsky.social",
+                "displayName": "Miranda Jr. ",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreibggladhbmvu6ltai5qzo4jcyilrckbcwmsrm6zrzp6tnyho5vfbu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-11T21:09:37.296Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-04-14T18:18:00.665Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 866626
+                        },
+                        "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                        "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 286,
+                            "byteStart": 254
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "\"O espaço engloba uma variedade gigantesca de fauna e flora, além do Pico do Jabre [ponto mais alto da Paraíba e 3° maior do Nordeste], que contempla tanto a vegetação da caatinga quanto espécies de mata atlântica, devido à altitude do local” sudema.pb.gov.br/noticias/con..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://sudema.pb.gov.br/noticias/conheca-a-serra-do-teixeira-primeiro-parque-nacional-da-paraiba",
+                    "title": "Conheça a Serra do Teixeira, primeiro parque nacional da Paraíba",
+                    "description": "No início do mês de junho, foi assinado pelo presidente Lula, em solenidade realizada em Brasília com a presença do governador João Azevêdo, o decreto para a criação do Parque Nacional da Serra do Tei...",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hmiktr2wpbjcc66hb6blikc6/bafkreiawi2dvjs74mwnolxugqrutkyzrpobqtbyzwnl47grp3qlyyyjsgi@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-04-14T18:18:00.665Z",
+            "labels": []
+        }
+    ]
+}

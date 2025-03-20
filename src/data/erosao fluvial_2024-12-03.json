@@ -1,0 +1,125 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:fscg7sppmwaflfwy6rnuczhd/app.bsky.feed.post/3l5xfhsvjxf2i",
+            "cid": "bafyreiehzqufoixewisb7ll2gaslv6jm3lb2s2izeu5vereevwdcaqcqzm",
+            "author": {
+                "did": "did:plc:fscg7sppmwaflfwy6rnuczhd",
+                "handle": "btmais.bsky.social",
+                "displayName": "Btmaisoficial",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fscg7sppmwaflfwy6rnuczhd/bafkreieymlhj4s5bkqu2hrx3gim7ug6la22d43az6bxnduy5kgp223fmty@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T21:35:19.067Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-07T22:51:12.781Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "Nesta segunda-feira, 07, um deslizamento de terra abriu uma cratera na orla de Manacapuru, em Manaus, e engoliu parte do Porto da Terra Preta.",
+                        "thumb": {
+                            "$type": "blob",
+                            "ref": {
+                                "$link": "bafkreibe357vuymzjvfx2ta6mzxnqnyhz4skhkbni2lqxhrm3utxzkbvoe"
+                            },
+                            "mimeType": "image/jpeg",
+                            "size": 982756
+                        },
+                        "title": "Porto da Terra Preta desaba em Manacapuru, no Amazonas; Número de vítimas é desconhecido",
+                        "uri": "https://btmais.com.br/porto-da-terra-preta-desaba-em-manacapuru-amazonas/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://btmais.com.br/porto-da-terra-preta-desaba-em-manacapuru-amazonas/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 227
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibjy4pj6nnflqfqgxncnuh4ma5rsafrbdi64rr5l5wma4ou4iadxy",
+                        "uri": "at://did:plc:fscg7sppmwaflfwy6rnuczhd/app.bsky.feed.post/3l5xfgt736e26"
+                    },
+                    "root": {
+                        "cid": "bafyreigkqns3vl5loaj324gpnh3nuyfjtirfwjv6akp3455homsoaystsq",
+                        "uri": "at://did:plc:fscg7sppmwaflfwy6rnuczhd/app.bsky.feed.post/3l5xffnb7tr2l"
+                    }
+                },
+                "text": "O fenômeno conhecido como \"terras caídas\", que envolve erosão fluvial e deslizamentos, é apontado como a possível causa do acidente. A Defesa Civil e o Corpo de Bombeiros e a Marinha do Brasil seguem no local.\n\nLeia mais: btmais.com.br/porto-da-ter..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://btmais.com.br/porto-da-terra-preta-desaba-em-manacapuru-amazonas/",
+                    "title": "Porto da Terra Preta desaba em Manacapuru, no Amazonas; Número de vítimas é desconhecido",
+                    "description": "Nesta segunda-feira, 07, um deslizamento de terra abriu uma cratera na orla de Manacapuru, em Manaus, e engoliu parte do Porto da Terra Preta.",
+                    "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fscg7sppmwaflfwy6rnuczhd/bafkreibe357vuymzjvfx2ta6mzxnqnyhz4skhkbni2lqxhrm3utxzkbvoe@jpeg"
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-07T22:51:12.781Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:cf7o5qfzj4xpj2d6xpufbvcq/app.bsky.feed.post/3l5jxuy64x52u",
+            "cid": "bafyreigrhz2cx5kk75qv3tdkol6afg2zxsoeq6fxiyypcbulqoq4riiaqu",
+            "author": {
+                "did": "did:plc:cf7o5qfzj4xpj2d6xpufbvcq",
+                "handle": "flem-ambiental83.bsky.social",
+                "displayName": "Fernando Ambiental 👷🏻‍♂️👔💚💧🌳♻️",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:cf7o5qfzj4xpj2d6xpufbvcq/bafkreigtvyg7qvkyog7v3q5em637sdpjo372oshhpd5xi2lkm5x5anuemu@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-31T10:58:44.006Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-02T14:43:25.242Z",
+                "langs": [
+                    "pt"
+                ],
+                "reply": {
+                    "parent": {
+                        "cid": "bafyreibctwoqpvpjevjf7rpcgigkax6ruuyljhk3yggujsge6sob2ppe5i",
+                        "uri": "at://did:plc:sgsx37f5ccxwxhasqb7tt6we/app.bsky.feed.post/3l5jvglsncl27"
+                    },
+                    "root": {
+                        "cid": "bafyreibctwoqpvpjevjf7rpcgigkax6ruuyljhk3yggujsge6sob2ppe5i",
+                        "uri": "at://did:plc:sgsx37f5ccxwxhasqb7tt6we/app.bsky.feed.post/3l5jvglsncl27"
+                    }
+                },
+                "text": "Curiosidade da engenharia: conhece o ouro ou diamante de aluvião? Região sedimentar à margem de um rio navegável formada pela erosão fluvial causada ação lenta da água ou vento. Avulsão: depósito sedimentar à margem do rio causado de forma violenta por, p.ex., tráfego fluvial de lanchas/embarcações."
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 2,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-02T14:43:25.242Z",
+            "labels": []
+        }
+    ]
+}

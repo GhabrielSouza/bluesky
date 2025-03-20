@@ -1,0 +1,748 @@
+{
+    "posts": [
+        {
+            "uri": "at://did:plc:4bfemnmfhl6mu3nxbdkd2qbl/app.bsky.feed.post/3lauuty32r223",
+            "cid": "bafyreiccsdgby4vmh42plrlxpnpswgbl7j4fw26jt74bpgft67synaosxa",
+            "author": {
+                "did": "did:plc:4bfemnmfhl6mu3nxbdkd2qbl",
+                "handle": "gazetaexpressa.bsky.social",
+                "displayName": "Gazeta Expressa",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4bfemnmfhl6mu3nxbdkd2qbl/bafkreicc35dt4mr7vvbieknwqb4pxbavphb4lflxntisj3lzeogsryqor4@jpeg",
+                "labels": [],
+                "createdAt": "2024-08-30T13:28:49.832Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-11-14T03:04:02.954Z",
+                "embed": {
+                    "$type": "app.bsky.embed.external",
+                    "external": {
+                        "description": "",
+                        "title": "Governador Cláudio Castro desmente fake news com vídeo dele alertando sobre a chuva no RJ – GazetaExpressa.com.br",
+                        "uri": "https://gazetaexpressa.com.br/governador-claudio-castro-desmente-fake-news-com-video-dele-alertando-sobre-a-chuva-no-rj/"
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fakenews"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 102,
+                            "byteStart": 93
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "fake"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 108,
+                            "byteStart": 103
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "notíciafalsa"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 123,
+                            "byteStart": 109
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuva"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 130,
+                            "byteStart": 124
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvas"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 138,
+                            "byteStart": 131
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaRJ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 147,
+                            "byteStart": 139
+                        }
+                    },
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#link",
+                                "uri": "https://gazetaexpressa.com.br/governador-claudio-castro-desmente-fake-news-com-video-dele-alertando-sobre-a-chuva-no-rj/"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 186,
+                            "byteStart": 149
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Governador Cláudio Castro desmente fake news com vídeo dele alertando sobre a chuva no RJ.\n#fakenews #fake #notíciafalsa #chuva #chuvas #ChuvaRJ \ngazetaexpressa.com.br/governador-c..."
+            },
+            "embed": {
+                "$type": "app.bsky.embed.external#view",
+                "external": {
+                    "uri": "https://gazetaexpressa.com.br/governador-claudio-castro-desmente-fake-news-com-video-dele-alertando-sobre-a-chuva-no-rj/",
+                    "title": "Governador Cláudio Castro desmente fake news com vídeo dele alertando sobre a chuva no RJ – GazetaExpressa.com.br",
+                    "description": ""
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-11-14T03:04:03.692Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6xgpujk3a2i",
+            "cid": "bafyreiasuqjxpj7yzi5d7nu2se65wis2e7ohev6dfjytyxzeacigxcnhm4",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T16:38:48.503Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 416,
+                        "width": 608
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreidb57k3wfxuwaup25b33ohtetpq4wm753t4td7tglqjimmmiqdep4"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 473078
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 270,
+                            "byteStart": 262
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CHUVA FRACA NO RIO\n\nO Alerta Rio registrou chuva fraca nos últimos 15 minutos, entre 13h15 e 13h30:\n\n- Av.Brasil/Mendanha e Santa Cruz (0,4 mm)\n- Campo Grande, Anchieta, Guaratiba, Seropédica, Irajá, Jacarepaguá/Cidade de Deus, Ilha do Governador (0,2 mm).\n\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreidb57k3wfxuwaup25b33ohtetpq4wm753t4td7tglqjimmmiqdep4",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreidb57k3wfxuwaup25b33ohtetpq4wm753t4td7tglqjimmmiqdep4/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreidb57k3wfxuwaup25b33ohtetpq4wm753t4td7tglqjimmmiqdep4/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 416,
+                    "width": 608
+                }
+            },
+            "replyCount": 1,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T16:38:48.503Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6x5m45uwz2p",
+            "cid": "bafyreiclkzyamlw5e64ppufwnqjpy7jxv46wlhq5zgwofxpcuo5ywljf4m",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T13:55:38.612Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 728506
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 289,
+                            "byteStart": 281
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CHOVE FRACO NO RIO\n\nO Alerta Rio registrou apenas chuva fraca, entre 10h30 e 10h45:\n- Sepetiba e Barra/Barrinha (0,6 mm)\n- Grota Funda, Alto da Boa Vista, Av. Brasil/Mendanha, Guaratiba, Campo Grande, Santa Cruz, Recreio, Jacarepaguá/Cidade de Deus, Ilha do Governador (0,4 mm).\n\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T13:55:38.612Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6ww5vpehr2i",
+            "cid": "bafyreigir67ztajz4ersfcfjxnp5dy5sysxlzdhfiarhn5w6jwz2j7m6jm",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T11:42:25.615Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 416,
+                        "width": 608
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreidzks5crzo4jo2y3vxddpe3kyb5jvaqxiu6wyyikwpbskffbnxode"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 663355
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 299,
+                            "byteStart": 291
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CHUVA SEGUE MODERADA\n\nEm pelo menos um ponto da cidade, a chuva segue moderada. Entre 08h15 e 08h30, o Alerta Rio registrou chuva moderada na Grota Funda (2,0 mm).\n\nEm outros pontos, houve registro de chuva fraca:\n- Jardim Botânico, Copacabana, Urca, Laranjeiras e Barra/Barrinha (1,0 mm).\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreidzks5crzo4jo2y3vxddpe3kyb5jvaqxiu6wyyikwpbskffbnxode",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreidzks5crzo4jo2y3vxddpe3kyb5jvaqxiu6wyyikwpbskffbnxode/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreidzks5crzo4jo2y3vxddpe3kyb5jvaqxiu6wyyikwpbskffbnxode/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 416,
+                    "width": 608
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 10,
+            "quoteCount": 3,
+            "indexedAt": "2024-10-20T11:42:25.615Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6wv7zvzet2z",
+            "cid": "bafyreigal2sv7gjjidsqrhyz5xrc235rwldcpvfqqhnotbkmo7fmqryrhy",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-20T11:25:43.668Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreieb3cssdpptqdvlyuw2ghkof3rftms43d64plc3f66oulpjxjgbke"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 744520
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 298,
+                            "byteStart": 290
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "REGISTRO DE CHUVA MODERADA\n\nEntre 08h e 08h15, houve registro de chuva moderada em Copacabana (1,8 mm).\n\nEm outros pontos, a chuva foi fraca:\n- Barra/Barrinha, Urca, Jardim Botânico e Grajaú (1,2 mm);\n- Alto da Boa Vista, Ilha do Governador, Tijuca/Muda, São Conrado e Rocinha (1,0 mm).\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreieb3cssdpptqdvlyuw2ghkof3rftms43d64plc3f66oulpjxjgbke@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreieb3cssdpptqdvlyuw2ghkof3rftms43d64plc3f66oulpjxjgbke@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 6,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-20T11:25:43.668Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6vhu6o4jd2i",
+            "cid": "bafyreibxw6xks6w6mfilelcwntzt5huyzsnlwt4cmm4cau7iqtkud5clxm",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-19T21:53:47.634Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreiebssamjdbewk5ijqqzkxjdrnv6zuav74nitncvksazldmnjl3msa"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 731162
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 294,
+                            "byteStart": 286
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "REGISTRO DE CHUVA FORTE\nO Sistema Alerta Rio registrou chuva forte em Campo Grande (7 mm), entre 18h30 e 18h45.\nEm outros pontos da Zona Oeste, houve registro de chuva moderada:\n- Grota Funda (2,6 mm)\n- Av. Brasil/Mendanha e Recreio (2,4 mm)\n- Barra/Riocentro (1,6 mm)\n- Bangu (1,4 mm)\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreiebssamjdbewk5ijqqzkxjdrnv6zuav74nitncvksazldmnjl3msa@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreiebssamjdbewk5ijqqzkxjdrnv6zuav74nitncvksazldmnjl3msa@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 1,
+            "repostCount": 3,
+            "likeCount": 21,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-19T21:53:47.634Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6v7k7jm4i27",
+            "cid": "bafyreiaa4fj5iqc3zklc4gd6sd7kykvwpnktz5oluucznn7jvgkb4knknu",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-19T19:25:03.052Z",
+                "embed": {
+                    "$type": "app.bsky.embed.video",
+                    "aspectRatio": {
+                        "height": 416,
+                        "width": 608
+                    },
+                    "video": {
+                        "$type": "blob",
+                        "ref": {
+                            "$link": "bafkreigc7ypoh75jy3c6ktlfj633dkh3ug3nsmpr5itibndej2sdbjixvu"
+                        },
+                        "mimeType": "video/mp4",
+                        "size": 854760
+                    }
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 252,
+                            "byteStart": 244
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CHUVA MODERADA NO RIO\n\nO Alerta Rio registrou chuva moderada em diversos bairros do Rio, entre 16h e 16h15:\n\n- Campo Grande (4,2 mm)\n- Santa Teresa (3,4 mm)\n- Laranjeiras (3,2 mm)\n- Urca (3,0 mm)\n- Jardim Botânico (2,6 mm)\n- Vidigal (1,4 mm)\n\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.video#view",
+                "cid": "bafkreigc7ypoh75jy3c6ktlfj633dkh3ug3nsmpr5itibndej2sdbjixvu",
+                "playlist": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreigc7ypoh75jy3c6ktlfj633dkh3ug3nsmpr5itibndej2sdbjixvu/playlist.m3u8",
+                "thumbnail": "https://video.bsky.app/watch/did%3Aplc%3Ayttntnrs6mbrf7iw4hrcsn6i/bafkreigc7ypoh75jy3c6ktlfj633dkh3ug3nsmpr5itibndej2sdbjixvu/thumbnail.jpg",
+                "aspectRatio": {
+                    "height": 416,
+                    "width": 608
+                }
+            },
+            "replyCount": 0,
+            "repostCount": 1,
+            "likeCount": 12,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-19T19:25:03.052Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:yttntnrs6mbrf7iw4hrcsn6i/app.bsky.feed.post/3l6ujkoplwg2a",
+            "cid": "bafyreigwgmtzvyfotrlazyc2e4ccer7jzaxe2vpc4wnnzcap76noewa63i",
+            "author": {
+                "did": "did:plc:yttntnrs6mbrf7iw4hrcsn6i",
+                "handle": "operacoesrio.bsky.social",
+                "displayName": "Centro de Operações Rio",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreicqgqfetkzks6fdehodvob3r7xwfsexkhqv2qpitp6vgx7l5ovsoi@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2023-08-29T17:57:09.720Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-19T12:51:36.646Z",
+                "embed": {
+                    "$type": "app.bsky.embed.images",
+                    "images": [
+                        {
+                            "alt": "",
+                            "aspectRatio": {
+                                "height": 720,
+                                "width": 1280
+                            },
+                            "image": {
+                                "$type": "blob",
+                                "ref": {
+                                    "$link": "bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4"
+                                },
+                                "mimeType": "image/jpeg",
+                                "size": 728506
+                            }
+                        }
+                    ]
+                },
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 256,
+                            "byteStart": 248
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "CHOVE NO RIO\n\nO Sistema Alerta Rio registrou chuva fraca nos seguintes pontos, entre 09h30 e 09h45:\n- Jacarepaguá/Tanque: 0,8 mm\n- Recreio dos Bandeirantes: 0,4 mm\n- Barra/Riocentro: 0,2 mm\nDirija com cautela! As pistas podem ficar escorregadias.\n#chuvarj"
+            },
+            "embed": {
+                "$type": "app.bsky.embed.images#view",
+                "images": [
+                    {
+                        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4@jpeg",
+                        "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yttntnrs6mbrf7iw4hrcsn6i/bafkreia54blbk3yjlnyjsjwonaqzihechma7cnmh4ol2fsfa5ojvzkewh4@jpeg",
+                        "alt": "",
+                        "aspectRatio": {
+                            "height": 720,
+                            "width": 1280
+                        }
+                    }
+                ]
+            },
+            "replyCount": 2,
+            "repostCount": 0,
+            "likeCount": 10,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-19T12:51:36.646Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:kddotenxhoijkbmh5s3qzqs2/app.bsky.feed.post/3l5povz5jrh2b",
+            "cid": "bafyreieuymn6xez2awsno3fhivtmfql5vntvtycw5hykk5apkynm4jmyji",
+            "author": {
+                "did": "did:plc:kddotenxhoijkbmh5s3qzqs2",
+                "handle": "thata-sales.bsky.social",
+                "displayName": "",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kddotenxhoijkbmh5s3qzqs2/bafkreih36z25weqh7lihsl56ilts5ldvkacyzzkcekgvohyijjcw2dw4km@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-08-30T23:59:16.108Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T21:18:52.310Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "chuvarj"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 43,
+                            "byteStart": 35
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "RJ com chuva, até que enfim \\○/ #chuvarj"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 0,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T21:18:52.310Z",
+            "labels": []
+        },
+        {
+            "uri": "at://did:plc:qqjzhudxiythovjxvmhyildo/app.bsky.feed.post/3l5ntjgtqak2i",
+            "cid": "bafyreic3cnt75a6smgyjolbyqyzdnmcqa3snn2inkk6u2juussgfa6s2mu",
+            "author": {
+                "did": "did:plc:qqjzhudxiythovjxvmhyildo",
+                "handle": "biancacm.bsky.social",
+                "displayName": "Bia #SDV",
+                "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qqjzhudxiythovjxvmhyildo/bafkreibryosxj4uem2kjhnne3ks2liijeka6h27jhnmhjo2iquylg7xdxe@jpeg",
+                "associated": {
+                    "chat": {
+                        "allowIncoming": "following"
+                    }
+                },
+                "labels": [],
+                "createdAt": "2024-04-08T02:22:20.926Z"
+            },
+            "record": {
+                "$type": "app.bsky.feed.post",
+                "createdAt": "2024-10-04T03:36:00.786Z",
+                "facets": [
+                    {
+                        "features": [
+                            {
+                                "$type": "app.bsky.richtext.facet#tag",
+                                "tag": "ChuvaRJ"
+                            }
+                        ],
+                        "index": {
+                            "byteEnd": 107,
+                            "byteStart": 99
+                        }
+                    }
+                ],
+                "langs": [
+                    "pt"
+                ],
+                "text": "Uma trovoada DAQUELAS aqui no Rio\n\nSabe aquela q vem no susto e causa um mini infarto?\n\nEntão....\n#ChuvaRJ"
+            },
+            "replyCount": 0,
+            "repostCount": 0,
+            "likeCount": 1,
+            "quoteCount": 0,
+            "indexedAt": "2024-10-04T03:36:00.786Z",
+            "labels": []
+        }
+    ]
+}
